@@ -20,7 +20,7 @@
             "marketCap": 182556098560,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.605854
+            "yearTarget": 46.607315
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Health Canada approves first generic version of Novo Nordisk's Ozempic",
+                "summary": "April 28 (Reuters) - Health Canada has approved the first generic version of Danish drugmaker Novo Nordisk's blockbuster diabetes drug Ozempic made by Indian drugmaker Dr Reddy's Laboratories, its",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/health-canada-approves-first-generic-211017881.html",
+                "publishDate": "2026-04-28T21:10:17Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Erasca Stock Sinks 48% in Race for Pancreatic Cancer Miracle Drug. What\u2019s Behind the Sell-Off.",
                 "summary": "A confluence of safety concerns and underwhelming clinical data sent  Erasca  stock into a historic tailspin on Tuesday.  Erasca late Monday reported positive Phase 1 trial results for ERAS-0015, a therapeutic drug candidate tailored to patients with lung and pancreatic cancer.  Investors quickly drew parallels to daraxonrasib, the high-profile lead asset from  Revolution Medicines  Daraxonrasib has been on the receiving end of a storm of media coverage following an endorsement from former Nebraska Sen. Ben Sasse.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-hims-and-hers-stock-price-target",
                 "publishDate": "2026-04-27T17:47:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk vs. Pfizer: Which Healthcare Giant Is the Better Bet?",
-                "summary": "NVO and PFE clash as the obesity market heats up, with shifting strategies, pipeline bets and growth pressures reshaping their investment outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-vs-pfizer-healthcare-141900260.html",
-                "publishDate": "2026-04-27T14:19:00Z",
                 "premium": false,
                 "freemium": false
             }
