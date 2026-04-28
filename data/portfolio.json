@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.47,
+        "price": 41.46,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6553409,
-            "marketCap": 183886364672,
+            "change": 0.6310639,
+            "marketCap": 183842013184,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.61082
+            "yearTarget": 46.604465
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Baird Lowers PT on Tesla (TSLA), Remains Bullish on the Stocks Long-Term Potential",
+                "summary": "\u200bTesla, Inc. (NASDAQ:TSLA) is one of the world\u2019s leading electric vehicle, robot-taxi, and energy system providers. Recently, on April 23, Baird maintained an Outperform rating on the stock and lowered its price target from $538 to $522. Despite the price target reduction, Tesla, Inc. (NASDAQ:TSLA) is among the Best Stocks to Buy and Hold For [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/baird-lowers-pt-tesla-tsla-175119516.html",
+                "publishDate": "2026-04-28T17:51:19Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Ross Gerber Thinks Elon Musk's SpaceX, Tesla Could Create 'Berkshire Hathaway Of AI'",
                 "summary": "Investor Ross Gerber of Gerber Kawasaki thinks that the Tesla Inc. and SpaceX merger could lead to an entity like Warren Buffett\u2018s Berkshire Hathaway Inc. in the artificial intelligence space. Intertwining Of Businesses In a video shared by The Information on Sunday on X, Gerber shared that investors wanted to own shares of both companies. \u201cMany of the Tesla investors want to own SpaceX,\u201d he said, which could lead to them selling Tesla shares to buy SpaceX stock. Gerber also shared that both com",
                 "source": "Benzinga",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-04-28T10:27:15Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Should You Rush to Get in on the SpaceX IPO? History Offers a Strikingly Clear Answer.",
-                "summary": "SpaceX could begin trading in June.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/28/should-you-rush-to-spacex-ipo-history-says/",
-                "publishDate": "2026-04-28T10:05:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.835,
+        "price": 27.85,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.05386462,
-            "marketCap": 19921539072,
+            "change": 0.0,
+            "marketCap": 19932276736,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.15,
+        "price": 29.135,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.203253,
-            "marketCap": 5969410560,
+            "change": -5.2520313,
+            "marketCap": 5966339072,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
