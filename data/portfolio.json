@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.57,
+        "price": 41.495,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8980557,
-            "marketCap": 184329781248,
+            "change": 0.716015,
+            "marketCap": 183997218816,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.59687
+            "yearTarget": 46.598328
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -39,6 +39,16 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150831117.html",
                 "publishDate": "2026-04-28T15:08:31Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Can Oral Ozempic and Label Expansions Revive NVO's Near-Term Growth?",
+                "summary": "Novo Nordisk bets on oral Ozempic launch and pediatric label expansions to counter slowing demand, pricing pressure and rising competition in the GLP-1 market.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/oral-ozempic-label-expansions-revive-141300365.html",
+                "publishDate": "2026-04-28T14:13:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-lilly-stock-123200368.html",
                 "publishDate": "2026-04-27T12:32:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Alnylam Pharmaceuticals (ALNY) Advances Diabetes Drug Into Phase 2 Trial",
-                "summary": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 10 New Contenders for S&P 500 Index. On April 17, 2026, Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) provided an update on its experimental drug, ALN-4324. Currently in its Phase 2 clinical trial, the company\u2019s experimental RNAi therapeutic drug aims at treating type 2 diabetes. The trial involves a triple-blind, [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/alnylam-pharmaceuticals-alny-advances-diabetes-071041238.html",
-                "publishDate": "2026-04-27T07:10:41Z",
                 "premium": false,
                 "freemium": false
             }
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.91,
+        "price": 29.02,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.981795,
-            "marketCap": 5920262656,
+            "change": -5.6260147,
+            "marketCap": 5942789120,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
