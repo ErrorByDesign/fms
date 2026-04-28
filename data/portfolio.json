@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.3099,
+        "price": 41.265,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.2667735,
-            "marketCap": 183176445952,
+            "change": 0.15778281,
+            "marketCap": 182977347584,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.596794
+            "yearTarget": 46.593876
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "A SpaceX Phone? Not if AT&T Gets Its Way.",
+                "summary": "SpaceX won\u2019t be an MVNO if  AT&T  has anything to do with it.  The acronym is short for Mobile Virtual Network Operator.  Think Mint Mobile or Cricket Wireless, companies that rent cell towers and wireless spectrum at wholesale prices.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/a-spacex-phone-not-if-at-t-gets-its-way-428ed15c?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-28T17:51:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Ross Gerber Thinks Elon Musk's SpaceX, Tesla Could Create 'Berkshire Hathaway Of AI'",
                 "summary": "Investor Ross Gerber of Gerber Kawasaki thinks that the Tesla Inc. and SpaceX merger could lead to an entity like Warren Buffett\u2018s Berkshire Hathaway Inc. in the artificial intelligence space. Intertwining Of Businesses In a video shared by The Information on Sunday on X, Gerber shared that investors wanted to own shares of both companies. \u201cMany of the Tesla investors want to own SpaceX,\u201d he said, which could lead to them selling Tesla shares to buy SpaceX stock. Gerber also shared that both com",
                 "source": "Benzinga",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-04-28T10:50:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Analysis-SpaceX ties Musk compensation to Mars colonization goal",
-                "summary": "By Ross Kerber April 28 (Reuters) - SpaceX's board has approved a compensation plan for founder Elon Musk with goals as futuristic and celestial as the company's ambitions: colonizing Mars and running",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-spacex-ties-musk-compensation-100426523.html",
-                "publishDate": "2026-04-28T10:27:15Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.085,
+        "price": 27.875,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.84380144,
-            "marketCap": 20100464640,
+            "change": 0.089765236,
+            "marketCap": 19950168064,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.185,
+        "price": 29.12,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.0886054,
-            "marketCap": 5976578048,
+            "change": -5.30081,
+            "marketCap": 5963267584,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
