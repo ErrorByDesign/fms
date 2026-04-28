@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.685,
+        "price": 41.835,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1771859,
-            "marketCap": 184839716864,
+            "change": 1.541258,
+            "marketCap": 185504841728,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.576138
+            "yearTarget": 46.568764
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Decline Tuesday",
+                "summary": "European equities traded in the US as American depositary receipts were lower on Tuesday morning, do",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150831117.html",
+                "publishDate": "2026-04-28T15:08:31Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Rare Disease Wins Add Context To Undervalued Share Price",
                 "summary": "Novo Nordisk (CPSE:NOVO B) has received U.S. FDA Fast Track Designation for coramitug (PRX004) in ATTR amyloidosis with cardiomyopathy. The company also reported successful pivotal Phase 3 HIBISCUS trial results for etavopivat in sickle cell disease. These updates expand Novo Nordisk\u2019s late stage pipeline into rare disease areas beyond its established GLP-1 franchise. Novo Nordisk\u2019s recent news arrives with the shares at DKK263.5 and a mixed return profile, including a 15.3% gain over the...",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/alnylam-pharmaceuticals-alny-advances-diabetes-071041238.html",
                 "publishDate": "2026-04-27T07:10:41Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly and Company\u2019s (LLY) Foundayo Gets Prescribed 3,707 Times in the US in Second Week of Launch, Reuters Reports",
-                "summary": "Eli Lilly and Company (NYSE:LLY) is one of the best low volatility stocks to invest in right now. On April 24, Reuters reported that, according to analysts citing IQVIA data, Eli Lilly and Company\u2019s (NYSE:LLY) newly launched oral weight loss drug, branded as Foundayo, was prescribed 3,707 times in the United States in the second [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-company-lly-foundayo-052633449.html",
-                "publishDate": "2026-04-27T05:26:33Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Ross Gerber Thinks Elon Musk's SpaceX, Tesla Could Create 'Berkshire Hathaway Of AI'",
+                "summary": "Investor Ross Gerber of Gerber Kawasaki thinks that the Tesla Inc. and SpaceX merger could lead to an entity like Warren Buffett\u2018s Berkshire Hathaway Inc. in the artificial intelligence space. Intertwining Of Businesses In a video shared by The Information on Sunday on X, Gerber shared that investors wanted to own shares of both companies. \u201cMany of the Tesla investors want to own SpaceX,\u201d he said, which could lead to them selling Tesla shares to buy SpaceX stock. Gerber also shared that both com",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-thinks-elon-musks-150106208.html",
+                "publishDate": "2026-04-28T15:01:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Should You Buy the $1.75 Trillion SpaceX IPO? Here Is What History Says",
                 "summary": "SpaceX is targeting an IPO this summer at a valuation nearing $2 trillion.",
                 "source": "Motley Fool",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-04-28T10:05:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Can You Invest in SpaceX Pre-IPO?",
-                "summary": "Yes, but that doesn't mean you can buy shares directly.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/28/can-you-invest-in-spacex-pre-ipo/",
-                "publishDate": "2026-04-28T06:50:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.92,
+        "price": 27.925,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.2513454,
-            "marketCap": 19982374912,
+            "change": 0.26924735,
+            "marketCap": 19985952768,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.02,
+        "price": 29.0538,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.6260147,
-            "marketCap": 5942789120,
+            "change": -5.5160956,
+            "marketCap": 5949710848,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
