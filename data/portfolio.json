@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.68,
+        "price": 41.57,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1650474,
-            "marketCap": 184817549312,
+            "change": 0.8980557,
+            "marketCap": 184329781248,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.61126
+            "yearTarget": 46.59687
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.935,
+        "price": 27.95,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.30520317,
-            "marketCap": 19993110528,
+            "change": 0.3590678,
+            "marketCap": 20003846144,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.94,
+        "price": 28.91,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.886177,
-            "marketCap": 5926406656,
+            "change": -5.981795,
+            "marketCap": 5920262656,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Here's Why SSR Mining (SSRM) is a Strong Value Stock",
+                "summary": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-ssr-mining-ssrm-134005362.html",
+                "publishDate": "2026-04-28T13:40:05Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Here's How Much You'd Have If You Invested $1000 in SSR Mining a Decade Ago",
                 "summary": "Investing in certain stocks can pay off in the long run, especially if you hold on for a decade or more.",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-ssr-mining-tsx-ssrm-042032115.html",
                 "publishDate": "2026-04-05T04:20:32Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Refocuses Portfolio With Turkish Exit And 10% Share Buyback",
-                "summary": "SSR Mining (TSX:SSRM) has agreed to sell its 80% stake in a Turkish gold mine, reducing its exposure to that operation. The company also received approval for a substantial share buyback program, allowing it to repurchase a portion of its outstanding shares. For a producer like SSR Mining, assets in different regions can carry very different operating and political risks, so shifting away from a Turkish gold mine may change the company\u2019s overall risk profile. The move comes as gold and...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-refocuses-portfolio-turkish-021136685.html",
-                "publishDate": "2026-04-05T02:11:36Z",
                 "premium": false,
                 "freemium": false
             }
