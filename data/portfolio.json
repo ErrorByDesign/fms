@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.45,
+        "price": 41.485,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6067961,
-            "marketCap": 183797678080,
+            "change": 0.6917472,
+            "marketCap": 183952883712,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.58387
+            "yearTarget": 46.594673
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.02,
+        "price": 29.06,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.6260147,
-            "marketCap": 5942789120,
+            "change": -5.495937,
+            "marketCap": 5950980096,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
