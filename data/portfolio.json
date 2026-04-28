@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 11.2,
+        "price": 41.57,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0728749,
-            "marketCap": 182689136640,
+            "change": 0.8980557,
+            "marketCap": 184329781248,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.606655
+            "yearTarget": 46.54106
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 10.4,
+        "price": 1.43,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.449274,
-            "marketCap": 131360856,
+            "change": 2.1428552,
+            "marketCap": 134175728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 62.56,
+        "price": 621.56,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -322,12 +322,92 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX and OpenAI IPOs: 1 warning to not overlook",
-                "summary": "Keep this in mind ahead of potential SpaceX and OpenAI IPOs this year.",
-                "source": "Yahoo Finance",
+                "title": "Dan Ives Predicts '80%, 90%' Chance Of SpaceX-Tesla Merger By Early 2027",
+                "summary": "Tech bull Dan Ives is predicting a major consolidation of Elon Musk's corporate empire, forecasting a highly probable merger between Tesla Inc. and IPO-bound SpaceX by early 2027. The Merger Timeline Speaking to Schwab Network about the potential for the two visionary companies to combine under one umbrella, the Wedbush Securities managing director outlined a specific sequence of events. Ives predicts that SpaceX\u2019s initial public offering this summer will set the financial stage for a massive co",
+                "source": "Benzinga",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/news/spacex-and-openai-ipos-1-warning-to-not-overlook-115551526.html",
-                "publishDate": "2026-04-27T11:55:51Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-predicts-80-90-133111705.html",
+                "publishDate": "2026-04-28T13:31:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "T-Mobile launches SuperBroadband for business customers",
+                "summary": "The service combines T-Mobile's 5G network with SpaceX's Starlink satellites and claims to reach every ZIP code in the U.S.",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/t-mobile-is-rolling-out-broadband-for-business-customers-with-starlink-as-a-satellite-backup",
+                "publishDate": "2026-04-28T13:08:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Prediction: Will the SpaceX IPO Reach a $1.75 Trillion Valuation?",
+                "summary": "Reports claim SpaceX is targeting a monster valuation.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/prediction-will-the-spacex-ipo-reach-a-175-trillio/",
+                "publishDate": "2026-04-28T12:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Failure to Launch: United Launch Alliance Is in Trouble. Who Wins From Its Loss?",
+                "summary": "Troubles at this Boeing and Northrop Grumman joint venture is good news for the most anticipated IPO in recent memory.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/failure-to-launch-united-launch-alliance-is-in-tro/",
+                "publishDate": "2026-04-28T10:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Analysis-SpaceX ties Musk compensation to Mars colonization goal",
+                "summary": "By Ross Kerber April 28 (Reuters) - SpaceX's board has approved a compensation plan for founder Elon Musk with goals as futuristic and celestial as the company's ambitions: colonizing Mars and running",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-spacex-ties-musk-compensation-100426523.html",
+                "publishDate": "2026-04-28T10:27:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Should You Rush to Get in on the SpaceX IPO? History Offers a Strikingly Clear Answer.",
+                "summary": "SpaceX could begin trading in June.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/should-you-rush-to-spacex-ipo-history-says/",
+                "publishDate": "2026-04-28T10:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Can You Invest in SpaceX Pre-IPO?",
+                "summary": "Yes, but that doesn't mean you can buy shares directly.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/can-you-invest-in-spacex-pre-ipo/",
+                "publishDate": "2026-04-28T06:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic\u2019s Pre-IPO Valuation Hits $1 Trillion on Jupiter",
+                "summary": "Anthropic's pre-IPO valuation crossed $1T on Jupiter's Prestocks, up 733% since October, with Forge Global confirming the milestone.",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/anthropic-pre-ipo-valuation-1trillion-jupiter/",
+                "publishDate": "2026-04-28T06:05:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Tempted To Buy the SpaceX IPO? This Is The Smarter Stock To Buy",
+                "summary": "The SpaceX IPO is attracting a lot of attention, but one of its competitors is a better buy.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/27/tempted-to-buy-the-spacex-ipo-this-is-the-smarter/",
+                "publishDate": "2026-04-28T02:35:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -338,86 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-reportedly-used-spacex-223106076.html",
                 "publishDate": "2026-04-27T22:31:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Goes on $60 Billion AI Buying Spree",
-                "summary": "SpaceX is buying another AI company, but does this mean it can catch up to Google, Anthropic, or OpenAI?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/27/spacex-goes-on-60-billion-ai-buying-spree/",
-                "publishDate": "2026-04-27T21:30:01Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space Force Taps SpaceX, Anduril, More For $3.2 Bil Interceptor Program",
-                "summary": "Space Force awards $3.2 billion in contracts to 12 companies for space missile interceptors, including Anduril, SpaceX, Lockheed and more.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/space-force-missile-interceptor-spacex-anduril-lockheed-martin-golden-dome-contracts-3-2-billion/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-04-27T20:21:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Just Showcased Its IPO Secret Weapon",
-                "summary": "SpaceX is planning the largest IPO ever, which could value Elon Musk\u2019s rocket company at up to $2 trillion.  A lot has been made of the company\u2019s space-based Wi-Fi broadband product, Starlink, and the potential for data centers in space.  On Friday, SpaceX posted a video of the third-generation Starship.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-stock-ipo-starship-starlink-480e1c16?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-27T20:18:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Investors Are Panicking About $25 Billion in Spending at Tesla, but the SpaceX IPO Could Mean It Doesn\u2019t Even Matter",
-                "summary": "Tesla's Q1 revenue beat and improving margins were overshadowed by a $25 billion 2026 capex plan, nearly triple last year's spending, that puts free cash flow negative for the rest of the year and explains why the stock fell even on a strong earnings print.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/1542584/investors-are-panicking-about-25-billion-in-spending-at-tesla-but-the-spacex-ipo-could-mean-it-doesnt-even-matter",
-                "publishDate": "2026-04-27T19:27:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The $100 Million Man: What the \u2018Richest Ever\u2019 Fed Chair Nominee Kevin Warsh, With Investments in Elon Musk\u2019s SpaceX, Means for Your Portfolio",
-                "summary": "Trump's Fed Chair nominee is set to become the richest ever, with a net worth surpassing $100 million, and investments in some of the biggest names in tech and finance. Here's what that means for your portfolio.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/1540194/the-100-million-man-what-the-richest-ever-fed-chair-nominee-kevin-warsh-with-investments-in-elon-musks-spacex-means-for-your-portfolio",
-                "publishDate": "2026-04-27T16:46:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Will the SpaceX IPO Take Tema\u2019s Space ETF (NASA) to the Moon?",
-                "summary": "Space is the next frontier, but there\u2019s also a lot of \u201cspace junk\u201d masquerading as high-quality investment merchandise.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/1538902/will-the-spacex-ipo-take-temas-space-etf-nasa-to-the-moon",
-                "publishDate": "2026-04-27T15:37:38Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How Nvidia Stock Could Be the Biggest Loser From the SpaceX IPO",
-                "summary": "SpaceX is planning to build its own GPUs before its $1.75 trillion IPO. Here is what that could mean for Nvidia stock and AI chip investors watching closely.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/1538073/how-nvidia-stock-could-be-the-biggest-loser-from-the-spacex-ipo",
-                "publishDate": "2026-04-27T14:43:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Was Cathie Wood's Ark Invest Too Conservative With Its SpaceX Valuation?",
-                "summary": "Ark Invest said SpaceX could be worth $2.5 trillion by 2030. Others estimate it's already worth $2 trillion.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/27/cathie-woods-ark-invest-too-conservative-spacex/",
-                "publishDate": "2026-04-27T14:34:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.85,
+        "price": 28.305,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.60526,
-            "marketCap": 19932276736,
+            "change": 1.6340454,
+            "marketCap": 20257921024,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30,
+        "price": 29.3,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.654667,
-            "marketCap": 6297062912,
+            "change": -4.71545,
+            "marketCap": 6000128000,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
@@ -609,6 +609,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Here's How Much You'd Have If You Invested $1000 in SSR Mining a Decade Ago",
+                "summary": "Investing in certain stocks can pay off in the long run, especially if you hold on for a decade or more.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123003840.html",
+                "publishDate": "2026-04-28T12:30:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SSRM Stock Gets New Repurchase Approval \u2014 And Investors Notice",
+                "summary": "With an upside potential of 43.2%, SSR Mining Inc. (NASDAQ:SSRM) is among the 10 Best Gold Mining Companies to Invest In According to Wall Street. On March 27, SSR Mining Inc. (NASDAQ:SSRM) announced that it had filed with and received acceptance from the Toronto Stock Exchange for a Notice of Intention to commence a Normal Course Issuer [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssrm-stock-gets-repurchase-approval-081436037.html",
+                "publishDate": "2026-04-28T08:14:36Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "SSR Mining\u2019s Copler Sale Leaves US$1.5b Cash Question For Investors",
                 "summary": "SSR Mining has agreed to sell its 80% stake in the Copler mine and related properties in T\u00fcrkiye to Cengiz Holding. The transaction is valued at US$1.5b, marking the disposal of a major producing asset from the company\u2019s portfolio. For investors following TSX:SSRM, this move comes after a period of strong share price performance, with the stock at CA$41.73 and up 41.1% year to date and 193.5% over the past year. Returns of 118.3% over three years and 123.7% over five years indicate that SSR...",
@@ -686,26 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-refocuses-portfolio-turkish-021136685.html",
                 "publishDate": "2026-04-05T02:11:36Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's Why SSR Mining Shares Soared This Week",
-                "summary": "The stock's rise comes down to a combination of favorable events this week.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/03/heres-why-ssr-mining-shares-soared-this-week/",
-                "publishDate": "2026-04-03T12:24:47Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's Why Shares in SSR Mining Popped Higher Today",
-                "summary": "A higher gold price and some positive recent corporate developments drove the stock today,",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/03/31/heres-why-shares-in-ssr-mining-popped-higher-today/",
-                "publishDate": "2026-03-31T17:21:50Z",
                 "premium": false,
                 "freemium": false
             }
