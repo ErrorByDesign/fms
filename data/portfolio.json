@@ -20,7 +20,7 @@
             "marketCap": 182556098560,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.60921
+            "yearTarget": 46.60695
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "Elon Musk attorney claims OpenAI, Sam Altman \u2018stole a charity\u2019 as high-stakes legal fight begins",
+                "summary": "Elon Musk\u2019s legal battle against OpenAI begins with sharp accusations, as his attorney claims Sam Altman turned a nonprofit into a profit-driven empire.",
+                "source": "Fox Business",
+                "category": "finance",
+                "url": "https://www.foxbusiness.com/technology/elon-musk-attorney-claims-openai-sam-altman-stole-charity-high-stakes-legal-fight-begins",
+                "publishDate": "2026-04-28T18:32:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Baird Lowers PT on Tesla (TSLA), Remains Bullish on the Stocks Long-Term Potential",
                 "summary": "\u200bTesla, Inc. (NASDAQ:TSLA) is one of the world\u2019s leading electric vehicle, robot-taxi, and energy system providers. Recently, on April 23, Baird maintained an Outperform rating on the stock and lowered its price target from $538 to $522. Despite the price target reduction, Tesla, Inc. (NASDAQ:TSLA) is among the Best Stocks to Buy and Hold For [\u2026]",
                 "source": "Insider Monkey",
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://qz.com/t-mobile-is-rolling-out-broadband-for-business-customers-with-starlink-as-a-satellite-backup",
                 "publishDate": "2026-04-28T13:08:43Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Prediction: Will the SpaceX IPO Reach a $1.75 Trillion Valuation?",
-                "summary": "Reports claim SpaceX is targeting a monster valuation.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/28/prediction-will-the-spacex-ipo-reach-a-175-trillio/",
-                "publishDate": "2026-04-28T12:50:00Z",
                 "premium": false,
                 "freemium": false
             }
