@@ -1,0 +1,109 @@
+{
+    "PORTFOLIO": {
+        "scorePtf": 78.71,
+        "scorePlc": 80.65,
+        "scorePvt": 70.97,
+        "countPtf": 5,
+        "countPlc": 4,
+        "countPvt": 1,
+        "leafNodesPtf": 31,
+        "leafNodesPlc": 25,
+        "leafNodesPvt": 22,
+        "timestamp": "2026-04-28 02:17:54"
+    },
+    "NVO": {
+        "HISTORY": {
+            "MILESTONES": {
+                "activeMax": {
+                    "date": "",
+                    "price": null
+                },
+                "activeMin": {
+                    "date": "",
+                    "price": null
+                }
+            },
+            "birthDate": "2026-04-21T08:57:45",
+            "retiredOn": ""
+        },
+        "active": false,
+        "corrupt": false,
+        "score": 80.65
+    },
+    "IPHA": {
+        "HISTORY": {
+            "MILESTONES": {
+                "activeMax": {
+                    "date": "",
+                    "price": null
+                },
+                "activeMin": {
+                    "date": "",
+                    "price": null
+                }
+            },
+            "birthDate": "2026-04-21T08:57:45",
+            "retiredOn": ""
+        },
+        "active": false,
+        "corrupt": false,
+        "score": 80.65
+    },
+    "SPAX.PVT": {
+        "HISTORY": {
+            "MILESTONES": {
+                "activeMax": {
+                    "date": "",
+                    "price": null
+                },
+                "activeMin": {
+                    "date": "",
+                    "price": null
+                }
+            },
+            "birthDate": "2026-04-21T08:57:45",
+            "retiredOn": ""
+        },
+        "active": false,
+        "corrupt": false,
+        "score": 70.97
+    },
+    "ROIV": {
+        "HISTORY": {
+            "MILESTONES": {
+                "activeMax": {
+                    "date": "",
+                    "price": null
+                },
+                "activeMin": {
+                    "date": "",
+                    "price": null
+                }
+            },
+            "birthDate": "2026-04-21T08:57:45",
+            "retiredOn": ""
+        },
+        "active": false,
+        "corrupt": false,
+        "score": 80.65
+    },
+    "SSRM": {
+        "HISTORY": {
+            "MILESTONES": {
+                "activeMax": {
+                    "date": "",
+                    "price": null
+                },
+                "activeMin": {
+                    "date": "",
+                    "price": null
+                }
+            },
+            "birthDate": "2026-04-27T11:30:51",
+            "retiredOn": ""
+        },
+        "active": true,
+        "corrupt": false,
+        "score": 80.65
+    }
+}

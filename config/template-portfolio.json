@@ -1,0 +1,56 @@
+{
+    "TICKER_SYMBOL": {
+        "stockType": "",
+        "default": true,
+        "price": null,
+        "COMPANY": {
+            "name": "",
+            "ticker": "",
+            "exchange": "",
+            "sector": "",
+            "industry": "",
+            "country": "",
+            "year": "",
+            "website": "",
+            "description": "",
+            "facts": []
+        },
+        "FINANCIALS": {
+            "change": null,
+            "marketCap": null,
+            "weekLow": null,
+            "weekHigh": null,
+            "yearTarget": null
+        },
+        "FUNDING": {
+            "fundingToDate": null,
+            "latestAmountRaised": null,
+            "latestFundingDate": null,
+            "latestShareClass": "",
+            "leadInvestor": "",
+            "totalFundingRounds": null
+        },
+        "NEWS": [
+            {
+                "title": "",
+                "summary": "",
+                "source": "",
+                "category": "",
+                "publishDate": "",
+                "url": "",
+                "premium": null,
+                "freemium": null
+            }
+        ],
+        "RATINGS": {
+            "analystCount": null,
+            "recommendationKey": "",
+            "recommendationMean": null,
+            "strongBuy": null,
+            "buy": null,
+            "hold": null,
+            "sell": null,
+            "strongSell": null
+        }
+    }
+}

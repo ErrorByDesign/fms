@@ -1,0 +1,281 @@
+<!doctype html>
+<html lang="en">
+
+    <head>
+        <!-- METADATA -->
+        <meta charset="UTF-8" />
+
+        <!-- VIEWPORT -->
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+        <!-- TITLE -->
+        <title>FMS LIVE</title>
+
+        <!-- LINK: GOOGLE API -->
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani&family=Inconsolata:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+
+        <!-- LINK: CSS STYLE -->
+        <link rel="stylesheet" href="style.css" />
+    </head>
+
+    <body>
+
+        <!-- PASSWORD GATE -->
+        <div id="gate" class="gate">
+            <h2>&#9632; Access Required</h2>
+            <input type="password" id="pwd" placeholder="enter password" />
+            <button onclick="checkPwd()">Enter</button>
+            <div class="error" id="err"></div>
+        </div>
+
+        <!-- MAIN CONTENT -->
+        <div id="content" class="content">
+
+            <!-- SECTION: TITLE -->
+            <div class="app">
+                <h1>Xerxes <span>FMS</span></h1>
+                <span id="date" class="app-date">—</span>
+            </div>
+
+            <!-- SECTION: ERROR -->
+            <div id="load-error" class="load-error" style="display: none">⚠ could not load data</div>
+
+            <!-- SECTION: MENU -->
+            <div class="menu-select">
+                <select id="ticker-select" class="input-select freeze-left clickable" onchange="switchTicker(this.value)"></select>
+                <span class="divider">|</span>
+                <span id="name" class="overflow-child">—</span>
+            </div><br/>
+
+            <!-- SECTION: MARKET UPDATE -->
+            <details open>
+                <summary class="summary indent nomarker">MARKET UPDATE</summary>
+                <div class="grid row">
+                    <!-- MARKET PRICE -->
+                    <div class="card">
+                        <div class="card-label">MARKET</div>
+                        <div class="card-value">
+                            <span id="price">—</span>
+                            <span id="change-pct" class="badge">—</span>
+                        </div>
+                    </div>
+                    <!-- BID PRICE -->
+                    <div class="card">
+                        <div class="card-label">
+                            <span>BID</span>
+                            <span id="bid-pct">—</span>
+                        </div>
+                        <div class="card-value">
+                            <span id="bid">—</span>
+                        </div>
+                    </div>
+                    <!-- MINIMUM SELL PRICE -->
+                    <div
+                        id="card-min"
+                        class="card clickable"
+                        onclick="setMode('low')"
+                    >
+                        <div class="card-label">
+                            <span>MINIMUM SELL</span>
+                            <span id="sell-min-pct" class="profit-min">—</span>
+                        </div>
+                        <div class="card-value">
+                            <span id="sell-min" class="profit-min">—</span>
+                        </div>
+                    </div>
+                    <!-- MAXIMUM SELL PRICE -->
+                    <div
+                        id="card-max"
+                        class="card clickable active"
+                        onclick="setMode('high')"
+                    >
+                        <div class="card-label">
+                            <span>MAXIMUM SELL</span>
+                            <span id="sell-max-pct" class="profit-max">—</span>
+                        </div>
+                        <div class="card-value">
+                            <span id="sell-max" class="profit-max">—</span>
+                        </div>
+                    </div>
+                </div>
+            </details>
+
+            <!-- SECTION: PRICE TABLE -->
+            <details open><summary class="summary indent nomarker">PRICE TABLE</summary>
+                <!-- TABLE WRAPPER -->
+                <div class="table-wrap">
+                    <!-- TABLE: PRICE -->
+                    <table id="table-price" class="table scrollable">
+                        <!-- TABLE: HEAD -->
+                        <thead id="thead-price" class="thead">
+                            <tr class="tr-head">
+                                <th id="th-btn-blocks" class="th-price-left freeze-col-left clickable-small" onclick="toggleFrozenL()"><pre>BLOCKS </pre></th>
+                                <th class="th-price"><pre>COST   </pre></th>
+                                <th class="th-price"><pre>COMMS  </pre></th>
+                                <th class="th-price"><pre>TOTAL  </pre></th>
+                                <th class="th-price"><pre>SELL   </pre></th>
+                                <th id="th-btn-profit" class="th-price-right freeze-col-right clickable-small" onclick="toggleFrozenR()"><pre>PROFIT </pre></th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-price" class="tbody"></tbody>
+                    </table>
+                </div>
+            </details>
+
+            <!-- SECTION: SETTINGS TABLE -->
+            <details id="details-settings"><summary class="summary indent nomarker">SETTINGS</summary>
+                <!-- TABLE WRAPPER -->
+                <div class="table-wrap">
+                    <!-- TABLE: SETTINGS -->
+                    <table id="table-settings" class="table">
+                        <!-- TABLE: HEAD -->
+                        <thead id="thead-settings" class="thead">
+                            <tr class="tr-head">
+                                <th class="th-settings-left"></th>
+                                <th class="th-settings"><pre>BID</pre></th>
+                                <th class="th-settings"><pre>FEE</pre></th>
+                                <th class="th-settings"><pre>MIN</pre></th>
+                                <th class="th-settings"><pre>MAX</pre></th>
+                            </tr>
+                        </thead>
+                        <tbody id="tbody-settings" class="tbody">
+                            <tr id="tr-body-default" class="tr-body-settings enabled">
+                                <td id="td-btn-default" class="td-btn enabled clickable-small" onclick="setSettings(true)">DEFAULT </td>
+                                <td id="td-A1" class="td-settings td-A">—</td>
+                                <td id="td-B1" class="td-settings td-B">—</td>
+                                <td id="td-C1" class="td-settings td-C profit-min">—</td>
+                                <td id="td-D1" class="td-settings td-D profit-max">—</td>
+                            </tr>
+                            <tr id="tr-body-modified" class="tr-body-settings">
+                                <td id="td-btn-modified" class="td-btn clickable-small" onclick="setSettings(false)">MODIFIED</td>
+                                <td id="td-A2" class="td-settings td-A">—</td>
+                                <td id="td-B2" class="td-settings td-B">—</td>
+                                <td id="td-C2" class="td-settings td-C profit-min">—</td>
+                                <td id="td-D2" class="td-settings td-D profit-max">—</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </details>
+
+            <!-- SECTION: COMPANY OVERVIEW -->
+            <details id="details-info">
+                <summary class="summary indent nomarker">
+                    COMPANY OVERVIEW
+                </summary>
+
+                <!-- ROW: NAME -->
+                <div class="row">
+                    <div class="card overflow-parent">
+                        <div class="card-label">COMPANY NAME</div>
+                        <div class="card-value overflow-child">
+                            <span id="info-name">—</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- GRID: INFORMATION -->
+                <div class="grid">
+                    <div class="card">
+                        <div class="card-label">TICKER SYMBOL</div>
+                        <div class="card-value">
+                            <span id="info-ticker">—</span>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-label">EXCHANGE</div>
+                        <div class="card-value">
+                            <span id="info-exchange">—</span>
+                        </div>
+                    </div>
+                    <div class="card overflow-parent">
+                        <div class="card-label">INDUSTRY</div>
+                        <div class="card-value overflow-child">
+                            <span id="info-industry">—</span>
+                        </div>
+                    </div>
+                    <div class="card overflow-parent">
+                        <div class="card-label">SECTOR</div>
+                        <div class="card-value overflow-child">
+                            <span id="info-sector">—</span>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-label">COUNTRY</div>
+                        <div class="card-value">
+                            <span id="info-country">—</span>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-label">YEAR</div>
+                        <div class="card-value">
+                            <span id="info-year">—</span>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-label">WEBSITE</div>
+                        <div class="card-value">
+                            <a id="info-website" class="card-value" href=""
+                                >—</a
+                            >
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-label">MARKET CAPITALIZATION</div>
+                        <div class="card-value">
+                            <span id="info-marketCap">—</span>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-label">52 WEEK LOW</div>
+                        <div class="card-value">
+                            <span id="info-weekLow">—</span>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <div class="card-label">52 WEEK HIGH</div>
+                        <div class="card-value">
+                            <span id="info-weekHigh">—</span>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- PARAGRAPH: DESCRIPTION -->
+                <div class="row">
+                    <div
+                        id="card-desc"
+                        class="card clickable-large"
+                        onclick="toggleDesc()"
+                    >
+                        <div class="card-label">COMPANY DESCRIPTION</div>
+                        <div class="card-value">
+                            <p id="info-desc" class="text-body">—</p>
+                        </div>
+                    </div>
+                </div>
+            </details>
+
+            <!-- SECTION: NEWS -->
+            <details id="details-news">
+                <summary class="summary indent nomarker">NEWS</summary>
+
+                <!-- FILTER BUTTONS -->
+                <div id="news-filters" class="news-filter-row row">
+                    <div id="filter-all"     class="news-filter-btn clickable-small active" onclick="setNewsFilter('all')">ALL NEWS</div>
+                    <div id="filter-public"  class="news-filter-btn clickable-small"        onclick="setNewsFilter('public')"> PUBLIC </div>
+                    <div id="filter-premium" class="news-filter-btn clickable-small"        onclick="setNewsFilter('premium')">PREMIUM </div>
+                </div>
+
+                <!-- NEWS FEED -->
+                <div id="news-feed" class="news-feed"></div>
+
+            </details>
+
+        </div>
+
+        <!-- JAVASCRIPT -->
+        <script src="script.js"></script>
+
+    </body>
+
+</html>
