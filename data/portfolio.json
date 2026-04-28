@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.43,
+        "price": 41.375,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.55818355,
-            "marketCap": 183708991488,
+            "change": 0.42475542,
+            "marketCap": 183465115648,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.594894
+            "yearTarget": 46.589565
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3222244,
+            "change": 1.314291,
             "marketCap": 133087320,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -320,7 +320,108 @@
             "leadInvestor": "Draper Fisher Jurvetson",
             "totalFundingRounds": 22
         },
-        "NEWS": [],
+        "NEWS": [
+            {
+                "title": "Ross Gerber Thinks Elon Musk's SpaceX, Tesla Could Create 'Berkshire Hathaway Of AI'",
+                "summary": "Investor Ross Gerber of Gerber Kawasaki thinks that the Tesla Inc. and SpaceX merger could lead to an entity like Warren Buffett\u2018s Berkshire Hathaway Inc. in the artificial intelligence space. Intertwining Of Businesses In a video shared by The Information on Sunday on X, Gerber shared that investors wanted to own shares of both companies. \u201cMany of the Tesla investors want to own SpaceX,\u201d he said, which could lead to them selling Tesla shares to buy SpaceX stock. Gerber also shared that both com",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-thinks-elon-musks-150106208.html",
+                "publishDate": "2026-04-28T15:01:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Should You Buy the $1.75 Trillion SpaceX IPO? Here Is What History Says",
+                "summary": "SpaceX is targeting an IPO this summer at a valuation nearing $2 trillion.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/should-you-buy-the-175-trillion-spacex-ipo-here-is/",
+                "publishDate": "2026-04-28T14:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Report: SpaceX Ties Elon Musk's Pay To Mars Colony, Space Data Centers",
+                "summary": "The SpaceX board approved a new pay package for CEO Elon Musk that includes huge stock awards should the company reach certain milestones, as it prepares to go public.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-04-28T14:43:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth",
+                "summary": "Facebook parent company Meta secured up to 1 gigawatt of orbital solar power as AI drives demand for electricity.",
+                "source": "decrypt",
+                "category": "finance",
+                "url": "https://decrypt.co/365805/meta-turns-space-based-solar-energy-power-ai-data-centers",
+                "publishDate": "2026-04-28T14:34:16Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Dan Ives Predicts '80%, 90%' Chance Of SpaceX-Tesla Merger By Early 2027",
+                "summary": "Tech bull Dan Ives is predicting a major consolidation of Elon Musk's corporate empire, forecasting a highly probable merger between Tesla Inc. and IPO-bound SpaceX by early 2027. The Merger Timeline Speaking to Schwab Network about the potential for the two visionary companies to combine under one umbrella, the Wedbush Securities managing director outlined a specific sequence of events. Ives predicts that SpaceX\u2019s initial public offering this summer will set the financial stage for a massive co",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-predicts-80-90-133111705.html",
+                "publishDate": "2026-04-28T13:31:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "T-Mobile launches SuperBroadband for business customers",
+                "summary": "The service combines T-Mobile's 5G network with SpaceX's Starlink satellites and claims to reach every ZIP code in the U.S.",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/t-mobile-is-rolling-out-broadband-for-business-customers-with-starlink-as-a-satellite-backup",
+                "publishDate": "2026-04-28T13:08:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Prediction: Will the SpaceX IPO Reach a $1.75 Trillion Valuation?",
+                "summary": "Reports claim SpaceX is targeting a monster valuation.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/prediction-will-the-spacex-ipo-reach-a-175-trillio/",
+                "publishDate": "2026-04-28T12:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Failure to Launch: United Launch Alliance Is in Trouble. Who Wins From Its Loss?",
+                "summary": "Troubles at this Boeing and Northrop Grumman joint venture is good news for the most anticipated IPO in recent memory.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/failure-to-launch-united-launch-alliance-is-in-tro/",
+                "publishDate": "2026-04-28T10:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Analysis-SpaceX ties Musk compensation to Mars colonization goal",
+                "summary": "By Ross Kerber April 28 (Reuters) - SpaceX's board has approved a compensation plan for founder Elon Musk with goals as futuristic and celestial as the company's ambitions: colonizing Mars and running",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-spacex-ties-musk-compensation-100426523.html",
+                "publishDate": "2026-04-28T10:27:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Should You Rush to Get in on the SpaceX IPO? History Offers a Strikingly Clear Answer.",
+                "summary": "SpaceX could begin trading in June.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/should-you-rush-to-spacex-ipo-history-says/",
+                "publishDate": "2026-04-28T10:05:00Z",
+                "premium": false,
+                "freemium": false
+            }
+        ],
         "RATINGS": {
             "analystCount": null,
             "recommendationKey": "",
@@ -335,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.93,
+        "price": 27.97,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -349,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.28725287,
-            "marketCap": 19989532672,
+            "change": 0.43087587,
+            "marketCap": 20018159616,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -479,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.92,
+        "price": 28.94,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -493,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.9531555,
-            "marketCap": 5922310656,
+            "change": -5.886177,
+            "marketCap": 5926406656,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
