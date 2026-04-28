@@ -1,0 +1,1 @@
+git add config/reference-mapping.json config/report-portfolio.json config/settings.json config/template-portfolio.json config/template-report.json data/portfolio.json documentation/wiki.json modules/operations.py modules/paginator.py scripts/lib/merger.py scripts/lib/reporter.py scripts/lib/verifier.py scripts/incubator.py scripts/updata.sh main.py
