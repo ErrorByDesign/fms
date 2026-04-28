@@ -1,5 +1,9 @@
 name: Cron Test
 
+# Add this block right here
+permissions:
+  contents: read
+
 on:
   schedule:
     - cron: "*/5 * * * *"
@@ -10,3 +14,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - run: echo "cron working"
+      
