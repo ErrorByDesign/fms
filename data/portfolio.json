@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.57,
+        "price": 41.6,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8980557,
-            "marketCap": 184329781248,
+            "change": 0.97086823,
+            "marketCap": 184462802944,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.54106
+            "yearTarget": 46.537857
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.43,
+        "price": 1.41,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1428552,
-            "marketCap": 134175728,
+            "change": 0.7048203,
+            "marketCap": 132299144,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth",
+                "summary": "Facebook parent company Meta secured up to 1 gigawatt of orbital solar power as AI drives demand for electricity.",
+                "source": "decrypt",
+                "category": "finance",
+                "url": "https://decrypt.co/365805/meta-turns-space-based-solar-energy-power-ai-data-centers",
+                "publishDate": "2026-04-28T14:34:16Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Dan Ives Predicts '80%, 90%' Chance Of SpaceX-Tesla Merger By Early 2027",
                 "summary": "Tech bull Dan Ives is predicting a major consolidation of Elon Musk's corporate empire, forecasting a highly probable merger between Tesla Inc. and IPO-bound SpaceX by early 2027. The Merger Timeline Speaking to Schwab Network about the potential for the two visionary companies to combine under one umbrella, the Wedbush Securities managing director outlined a specific sequence of events. Ives predicts that SpaceX\u2019s initial public offering this summer will set the financial stage for a massive co",
                 "source": "Benzinga",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-04-28T02:35:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk Reportedly Used SpaceX As 'Piggy Bank' To Give Himself, Tesla A Leg Up",
-                "summary": "Elon Musk borrowed $500 million from SpaceX at interest rates as low as 1%, used the rocket company to bail out a struggling solar venture, and most recently had SpaceX swallow his cash-burning AI lab, according to a New York Times investigation published Friday. The report lands six weeks before SpaceX is expected to hit the road with the largest IPO in history. What The NYT Documented Musk pulled three loans totaling $500 million from SpaceX between 2018 and 2020, at rates that ranged from und",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-reportedly-used-spacex-223106076.html",
-                "publishDate": "2026-04-27T22:31:06Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.305,
+        "price": 28.06,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.6340454,
-            "marketCap": 20257921024,
+            "change": 0.7540362,
+            "marketCap": 20082573312,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.3,
+        "price": 28.87,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.71545,
-            "marketCap": 6000128000,
+            "change": -6.113818,
+            "marketCap": 5912071680,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
