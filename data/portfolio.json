@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.46,
+        "price": 41.305,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6310639,
-            "marketCap": 183842013184,
+            "change": 0.25485325,
+            "marketCap": 183154720768,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.604465
+            "yearTarget": 46.61045
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is Novo Nordisk (CPSE:NOVO B) Pricing Reflect Its Recent Share Price Swings And Growth Outlook",
+                "summary": "With Novo Nordisk on many watchlists, the key question right now is whether the current share price reflects its underlying value or if the market is mispricing the stock. Over the past week the share price has returned 7.6%, 16.3% over the last month, but is still showing a 19.5% decline year to date and a 34.5% decline over the past year, following a 49.1% decline over three years and a 29.1% gain over five years. Recent coverage has focused on Novo Nordisk\u2019s positioning in pharmaceuticals...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-180547150.html",
+                "publishDate": "2026-04-28T18:05:47Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Erasca Stock Sinks 50% in Race for Pancreatic Cancer Miracle Drug. What\u2019s Behind the Sell-Off.",
                 "summary": "A confluence of safety concerns and underwhelming clinical data sent  Erasca  stock into a historic tailspin on Tuesday.  Erasca late Monday reported positive Phase 1 trial results for ERAS-0015, a therapeutic drug candidate tailored to patients with lung and pancreatic cancer.  Investors quickly drew parallels to daraxonrasib, the high-profile lead asset from  Revolution Medicines  Daraxonrasib has been on the receiving end of a storm of media coverage following an endorsement from former Nebraska Sen. Ben Sasse.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-vs-pfizer-healthcare-141900260.html",
                 "publishDate": "2026-04-27T14:19:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Should You Buy the Dip in Eli Lilly Stock Today?",
-                "summary": "Eli Lilly shares sink as data shows Foundayo trailing Novo\u2019s oral Wegovy. But there\u2019s reason to consider buying LLY shares on the dip today.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/1537355/should-you-buy-the-dip-in-eli-lilly-stock-today",
-                "publishDate": "2026-04-27T14:10:06Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.85,
+        "price": 27.94,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 19932276736,
+            "change": 0.32316032,
+            "marketCap": 19996690432,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.135,
+        "price": 29.34,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.2520313,
-            "marketCap": 5966339072,
+            "change": -4.5853653,
+            "marketCap": 6008319488,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
