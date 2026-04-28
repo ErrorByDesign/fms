@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.405,
+        "price": 41.43,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.49756798,
-            "marketCap": 183598137344,
+            "change": 0.5582513,
+            "marketCap": 183708991488,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.59336
+            "yearTarget": 46.60541
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Erasca Stock Sinks 50% in Race for Pancreatic Cancer Miracle Drug. What\u2019s Behind the Sell-Off.",
+                "summary": "A confluence of safety concerns and underwhelming clinical data sent  Erasca  stock into a historic tailspin on Tuesday.  Erasca late Monday reported positive Phase 1 trial results for ERAS-0015, a therapeutic drug candidate tailored to patients with lung and pancreatic cancer.  Investors quickly drew parallels to daraxonrasib, the high-profile lead asset from  Revolution Medicines  Daraxonrasib has been on the receiving end of a storm of media coverage following an endorsement from former Nebraska Sen. Ben Sasse.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/erasca-stock-cancer-drug-daraxonrasib-revolution-medicines-d255a008?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-28T16:29:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Equities Traded in the US as American Depositary Receipts Decline Tuesday",
                 "summary": "European equities traded in the US as American depositary receipts were lower on Tuesday morning, do",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.barchart.com/story/news/1537355/should-you-buy-the-dip-in-eli-lilly-stock-today",
                 "publishDate": "2026-04-27T14:10:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "GLP-1 pill race heats up as Wegovy tablet holds strong against Lilly rival",
-                "summary": "Novo Nordisk's (NYSE:NVO) Wegovy pill, the oral version of its blockbuster GLP-1 (glucagon-like peptide-1) weight-loss treatment, is tracking at roughly twice the prescription volumes of Eli Lilly's competing oral drug at the same stage of launch, according to Citi. The Danish drugmaker's...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1091225/glp-1-pill-race-heats-up-as-wegovy-tablet-holds-strong-against-lilly-rival-1091225.html",
-                "publishDate": "2026-04-27T14:02:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.87,
+        "price": 27.82,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.071814924,
-            "marketCap": 19946590208,
+            "change": -0.10770305,
+            "marketCap": 19910805504,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.99,
+        "price": 29.15,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.7235785,
-            "marketCap": 5936645632,
+            "change": -5.203253,
+            "marketCap": 5969410560,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "SSRM vs. WPM: Which Stock Is the Better Value Option?",
+                "summary": "SSRM vs. WPM: Which Stock Is the Better Value Option?",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssrm-vs-wpm-stock-better-154002155.html",
+                "publishDate": "2026-04-28T15:40:02Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Here's Why SSR Mining (SSRM) is a Strong Value Stock",
                 "summary": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-stocks-including-almonty-industries-123759541.html",
                 "publishDate": "2026-04-09T12:37:59Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Assessing SSR Mining (TSX:SSRM) Valuation After A Powerful Multi\u2011Period Share Price Rally",
-                "summary": "Why SSR Mining Has Caught Investor Attention SSR Mining (TSX:SSRM) has moved onto more investor watchlists after recent share price gains, with the stock showing strong total return figures over the past year and across longer multi year periods. See our latest analysis for SSR Mining. Recent share price momentum has been strong, with a 19.8% 7 day share price return and a 47.6% 90 day share price return, while the 1 year total shareholder return of 240.1% points to sustained strength rather...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-ssr-mining-tsx-ssrm-042032115.html",
-                "publishDate": "2026-04-05T04:20:32Z",
                 "premium": false,
                 "freemium": false
             }
