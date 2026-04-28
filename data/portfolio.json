@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.43,
+        "price": 41.47,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5582513,
-            "marketCap": 183708991488,
+            "change": 0.6553409,
+            "marketCap": 183886364672,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.60541
+            "yearTarget": 46.61082
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.82,
+        "price": 27.835,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.10770305,
-            "marketCap": 19910805504,
+            "change": -0.05386462,
+            "marketCap": 19921539072,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
