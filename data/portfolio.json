@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.485,
+        "price": 41.45,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6917472,
-            "marketCap": 183952883712,
+            "change": 0.6067961,
+            "marketCap": 183797678080,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.594673
+            "yearTarget": 46.598404
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.83,
+        "price": 27.85,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.071814924,
-            "marketCap": 19917961216,
+            "change": 0.0,
+            "marketCap": 19932276736,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.06,
+        "price": 29.09,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.495937,
-            "marketCap": 5950980096,
+            "change": -5.3983736,
+            "marketCap": 5957123584,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
