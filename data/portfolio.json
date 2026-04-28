@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.072821826,
+            "change": -0.0728218,
             "marketCap": 182556098560,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.60293
+            "yearTarget": 46.60921
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Musk testifies at OpenAI trial it's not OK to 'loot a charity'\u00a0",
+                "summary": "By Deepa Seetharaman and Kenrick Cai OAKLAND, California, April 28 (Reuters) - Elon Musk took the stand on Tuesday at a high-stakes trial over the future of OpenAI, casting his lawsuit against the",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/musk-lawyer-says-openai-stole-164130414.html",
+                "publishDate": "2026-04-28T20:13:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Baird Lowers PT on Tesla (TSLA), Remains Bullish on the Stocks Long-Term Potential",
                 "summary": "\u200bTesla, Inc. (NASDAQ:TSLA) is one of the world\u2019s leading electric vehicle, robot-taxi, and energy system providers. Recently, on April 23, Baird maintained an Outperform rating on the stock and lowered its price target from $538 to $522. Despite the price target reduction, Tesla, Inc. (NASDAQ:TSLA) is among the Best Stocks to Buy and Hold For [\u2026]",
                 "source": "Insider Monkey",
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/04/28/prediction-will-the-spacex-ipo-reach-a-175-trillio/",
                 "publishDate": "2026-04-28T12:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Failure to Launch: United Launch Alliance Is in Trouble. Who Wins From Its Loss?",
-                "summary": "Troubles at this Boeing and Northrop Grumman joint venture is good news for the most anticipated IPO in recent memory.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/28/failure-to-launch-united-launch-alliance-is-in-tro/",
-                "publishDate": "2026-04-28T10:50:00Z",
                 "premium": false,
                 "freemium": false
             }
