@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.615,
+        "price": 41.525,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0072838,
-            "marketCap": 184529321984,
+            "change": 0.7888368,
+            "marketCap": 184130256896,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.536694
+            "yearTarget": 46.53443
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,26 @@
         },
         "NEWS": [
             {
+                "title": "Should You Buy the $1.75 Trillion SpaceX IPO? Here Is What History Says",
+                "summary": "SpaceX is targeting an IPO this summer at a valuation nearing $2 trillion.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/should-you-buy-the-175-trillion-spacex-ipo-here-is/",
+                "publishDate": "2026-04-28T14:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Report: SpaceX Ties Elon Musk's Pay To Mars Colony, Space Data Centers",
+                "summary": "The SpaceX board approved a new pay package for CEO Elon Musk that includes huge stock awards should the company reach certain milestones, as it prepares to go public.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/elon-musk-spacex-pay-data-center-starship-tesla-billionaire/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-04-28T14:43:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Meta Turns to Space-Based Solar Energy to Power AI Data Centers on Earth",
                 "summary": "Facebook parent company Meta secured up to 1 gigawatt of orbital solar power as AI drives demand for electricity.",
                 "source": "decrypt",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-04-28T06:50:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Anthropic\u2019s Pre-IPO Valuation Hits $1 Trillion on Jupiter",
-                "summary": "Anthropic's pre-IPO valuation crossed $1T on Jupiter's Prestocks, up 733% since October, with Forge Global confirming the milestone.",
-                "source": "BeInCrypto",
-                "category": "finance",
-                "url": "https://beincrypto.com/anthropic-pre-ipo-valuation-1trillion-jupiter/",
-                "publishDate": "2026-04-28T06:05:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tempted To Buy the SpaceX IPO? This Is The Smarter Stock To Buy",
-                "summary": "The SpaceX IPO is attracting a lot of attention, but one of its competitors is a better buy.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/27/tempted-to-buy-the-spacex-ipo-this-is-the-smarter/",
-                "publishDate": "2026-04-28T02:35:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.12,
+        "price": 28.05,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.969481,
-            "marketCap": 20125515776,
+            "change": 0.71812874,
+            "marketCap": 20075415552,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.895,
+        "price": 28.885,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -6.0315385,
-            "marketCap": 5917191168,
+            "change": -6.0650396,
+            "marketCap": 5915143168,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
