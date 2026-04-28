@@ -17,6 +17,18 @@ let devModeUnlocked = false;
 let devModeInitialized = false;
 let lastApiCallTime = 0;
 
+// Secondary dev mode states
+let secondaryDevActive = null; // 'company' or 'price' or null
+let companyInputActive = false;
+let priceInputActive = false;
+let companyTaps = 0;
+let priceTaps = 0;
+let companyTapTimeout = null;
+let priceTapTimeout = null;
+
+// Track which was last updated by dev mode
+let lastDevUpdate = null; // 'company' or 'price' or null
+
 const DEFAULT_MINIMUM_THRESHOLD = 5000;
 const PRICE_ROUNDING_INTERVALS = [
     { limit: 5, interval: 0.01 },
@@ -326,7 +338,7 @@ function unlockDevMode() {
     const priceEl = document.getElementById('price');
     const nameEl = document.getElementById('name');
     
-    const fieryGradient = 'linear-gradient(90deg, #ff6b2b, #ff3a00)';
+    const fieryGradient = 'linear-gradient(135deg, #ff6b2b 0%, #ff3a00 50%, #ff1a00 100%)';
     
     if (titleEl) {
         titleEl.style.background = fieryGradient;
@@ -350,6 +362,439 @@ function unlockDevMode() {
     }
     
     console.log('✓ Dev Mode Unlocked');
+}
+
+// ── SECONDARY DEV MODE: COMPANY NAME INPUT ───────────────
+function handleCompanyNameTap() {
+    if (!devModeUnlocked) return;
+    if (secondaryDevActive && secondaryDevActive !== 'company') return; // Other input active
+    
+    companyTaps++;
+    showDevModeCountdown(7 - companyTaps);
+    
+    if (companyTapTimeout) clearTimeout(companyTapTimeout);
+    companyTapTimeout = setTimeout(() => {
+        companyTaps = 0;
+    }, 3000);
+    
+    if (companyTaps >= 7) {
+        unlockCompanyInput();
+        companyTaps = 0;
+    }
+}
+
+function unlockCompanyInput() {
+    // Close price input if active
+    if (priceInputActive) {
+        closePriceInput();
+    }
+    
+    companyInputActive = true;
+    secondaryDevActive = 'company';
+    
+    // Hide company name, show input
+    const nameEl = document.getElementById('name');
+    nameEl.style.display = 'none';
+    
+    // Create input field
+    let input = document.getElementById('dev-company-input');
+    if (!input) {
+        input = document.createElement('input');
+        input.id = 'dev-company-input';
+        input.type = 'text';
+        input.placeholder = 'Enter ticker symbol or company name';
+        input.style.cssText = `
+            flex: 1;
+            background: rgba(19, 19, 33, 0.8);
+            border: 1px solid #2e2134;
+            color: #cdd6f8;
+            font-family: 'Inconsolata', monospace;
+            font-size: 1.5rem;
+            letter-spacing: 0.5rem;
+            padding: 8px 12px;
+            border-radius: 4px;
+            outline: none;
+            transition: border-color 0.2s;
+        `;
+        
+        input.addEventListener('focus', (e) => {
+            e.target.style.borderColor = '#69e5ff';
+        });
+        
+        input.addEventListener('blur', (e) => {
+            e.target.style.borderColor = '#2e2134';
+        });
+        
+        input.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                submitCompanySearch();
+            }
+        });
+        
+        nameEl.parentNode.insertBefore(input, nameEl);
+    }
+    
+    input.style.display = 'block';
+    input.focus();
+    
+    // Show search button
+    showSearchButton();
+}
+
+function closeCompanyInput() {
+    companyInputActive = false;
+    
+    const nameEl = document.getElementById('name');
+    const input = document.getElementById('dev-company-input');
+    
+    if (input) input.style.display = 'none';
+    if (nameEl) nameEl.style.display = 'inline';
+    
+    if (secondaryDevActive === 'company') {
+        secondaryDevActive = null;
+    }
+}
+
+async function submitCompanySearch() {
+    const input = document.getElementById('dev-company-input');
+    if (!input || !input.value.trim()) {
+        console.warn('Empty ticker input');
+        return;
+    }
+    
+    const ticker = input.value.trim().toUpperCase();
+    
+    try {
+        // Fetch quote first
+        console.log(`Fetching data for ${ticker}...`);
+        const quote = await fetchAlphaVantageQuote(ticker);
+        
+        // Wait 1+ second, then fetch overview
+        await new Promise(r => setTimeout(r, 1100));
+        const overview = await fetchAlphaVantageOverview(ticker);
+        
+        // Store in localStorage
+        const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
+        portfolio[ticker] = {
+            stockType: 'PUBLIC', // Default to PUBLIC for new searches
+            default: true,
+            price: quote.price,
+            COMPANY: overview,
+            FINANCIALS: {
+                change: quote.change,
+                marketCap: overview.marketCap,
+                weekLow: overview.weekLow,
+                weekHigh: overview.weekHigh,
+                yearTarget: overview.target
+            },
+            FUNDING: {
+                fundingToDate: null,
+                latestAmountRaised: null,
+                latestFundingDate: null,
+                latestShareClass: '',
+                leadInvestor: '',
+                totalFundingRounds: null
+            },
+            NEWS: [],
+            RATINGS: {
+                analystCount: null,
+                recommendationKey: '',
+                recommendationMean: null,
+                strongBuy: overview.ratings?.strongBuy || 0,
+                buy: overview.ratings?.buy || 0,
+                hold: overview.ratings?.hold || 0,
+                sell: overview.ratings?.sell || 0,
+                strongSell: overview.ratings?.strongSell || 0
+            }
+        };
+        
+        localStorage.setItem('fms-portfolio', JSON.stringify(portfolio));
+        
+        // Update dropdown and switch to new ticker
+        updateDropdownFromStorage();
+        renderTicker(ticker);
+        
+        // Lock dev mode but keep company name themed
+        lastDevUpdate = 'company';
+        lockSecondaryDevMode();
+        applyDevThemeToLastUpdate();
+        
+        console.log(`✓ ${ticker} fetched and stored`);
+    } catch (error) {
+        console.error('Search failed:', error.message);
+        alert(`❌ Search failed: ${error.message}`);
+    }
+}
+
+// ── SECONDARY DEV MODE: PRICE INPUT ──────────────────────
+function handlePriceTap() {
+    if (!devModeUnlocked) return;
+    if (secondaryDevActive && secondaryDevActive !== 'price') return; // Other input active
+    
+    priceTaps++;
+    showDevModeCountdown(7 - priceTaps);
+    
+    if (priceTapTimeout) clearTimeout(priceTapTimeout);
+    priceTapTimeout = setTimeout(() => {
+        priceTaps = 0;
+    }, 3000);
+    
+    if (priceTaps >= 7) {
+        unlockPriceInput();
+        priceTaps = 0;
+    }
+}
+
+function unlockPriceInput() {
+    // Close company input if active
+    if (companyInputActive) {
+        closeCompanyInput();
+    }
+    
+    priceInputActive = true;
+    secondaryDevActive = 'price';
+    
+    // Hide price value, show input
+    const priceEl = document.getElementById('price');
+    const currentPrice = priceEl.textContent;
+    priceEl.style.display = 'none';
+    
+    // Create input field
+    let input = document.getElementById('dev-price-input');
+    if (!input) {
+        input = document.createElement('input');
+        input.id = 'dev-price-input';
+        input.type = 'text';
+        input.placeholder = currentPrice;
+        input.style.cssText = `
+            background: rgba(19, 19, 33, 0.8);
+            border: 1px solid #2e2134;
+            color: #cdd6f8;
+            font-family: 'Inconsolata', monospace;
+            font-size: 1rem;
+            padding: 8px 12px;
+            border-radius: 4px;
+            outline: none;
+            width: 120px;
+            transition: border-color 0.2s;
+        `;
+        
+        input.addEventListener('focus', (e) => {
+            e.target.style.borderColor = '#69e5ff';
+        });
+        
+        input.addEventListener('blur', (e) => {
+            e.target.style.borderColor = '#2e2134';
+        });
+        
+        input.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter') {
+                submitPriceUpdate();
+            }
+        });
+        
+        priceEl.parentNode.insertBefore(input, priceEl);
+    }
+    
+    input.style.display = 'inline-block';
+    input.focus();
+    
+    // Show search button
+    showSearchButton();
+}
+
+function closePriceInput() {
+    priceInputActive = false;
+    
+    const priceEl = document.getElementById('price');
+    const input = document.getElementById('dev-price-input');
+    
+    if (input) input.style.display = 'none';
+    if (priceEl) priceEl.style.display = 'inline';
+    
+    if (secondaryDevActive === 'price') {
+        secondaryDevActive = null;
+    }
+}
+
+async function submitPriceUpdate() {
+    const input = document.getElementById('dev-price-input');
+    const placeholder = input.placeholder;
+    const inputValue = input.value.trim();
+    
+    let newPrice = null;
+    
+    try {
+        if (!inputValue || inputValue === placeholder) {
+            // Fetch from Alpha Vantage
+            console.log(`Fetching latest price for ${currentTicker}...`);
+            const quote = await fetchAlphaVantageQuote(currentTicker);
+            newPrice = quote.price;
+            const newChange = quote.change;
+            
+            // Update localStorage
+            const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
+            if (portfolio[currentTicker]) {
+                portfolio[currentTicker].price = newPrice;
+                portfolio[currentTicker].FINANCIALS.change = newChange;
+                localStorage.setItem('fms-portfolio', JSON.stringify(portfolio));
+            }
+        } else {
+            // Use manual input
+            newPrice = parseFloat(inputValue);
+            if (isNaN(newPrice)) {
+                throw new Error('Invalid price');
+            }
+            
+            // Update localStorage
+            const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
+            if (portfolio[currentTicker]) {
+                portfolio[currentTicker].price = newPrice;
+                localStorage.setItem('fms-portfolio', JSON.stringify(portfolio));
+            }
+        }
+        
+        // Recalculate and re-render
+        renderTicker(currentTicker);
+        
+        // Lock dev mode but keep price themed
+        lastDevUpdate = 'price';
+        lockSecondaryDevMode();
+        applyDevThemeToLastUpdate();
+        
+        console.log(`✓ Price updated to ${newPrice}`);
+    } catch (error) {
+        console.error('Price update failed:', error.message);
+        alert(`❌ Price update failed: ${error.message}`);
+    }
+}
+
+// ── SEARCH BUTTON ────────────────────────────────────────
+function showSearchButton() {
+    let searchBtn = document.getElementById('dev-search-btn');
+    
+    if (!searchBtn) {
+        const tckrSelEl = document.getElementById('ticker-select');
+        searchBtn = document.createElement('button');
+        searchBtn.id = 'dev-search-btn';
+        searchBtn.textContent = 'SEARCH';
+        searchBtn.style.cssText = `
+            background: linear-gradient(135deg, #ff6b2b 0%, #ff3a00 100%);
+            border: none;
+            color: #fff;
+            font-family: 'Rajdhani', sans-serif;
+            font-size: 0.85rem;
+            font-weight: 600;
+            letter-spacing: 0.1em;
+            padding: 8px 16px;
+            border-radius: 4px;
+            cursor: pointer;
+            margin-left: 0.5rem;
+            transition: opacity 0.2s;
+        `;
+        
+        searchBtn.addEventListener('click', () => {
+            if (companyInputActive) submitCompanySearch();
+            if (priceInputActive) submitPriceUpdate();
+        });
+        
+        searchBtn.addEventListener('mousedown', () => {
+            searchBtn.style.opacity = '0.8';
+        });
+        
+        searchBtn.addEventListener('mouseup', () => {
+            searchBtn.style.opacity = '1';
+        });
+        
+        tckrSelEl.parentNode.insertBefore(searchBtn, tckrSelEl.nextSibling);
+    }
+    
+    searchBtn.style.display = 'inline-block';
+}
+
+function hideSearchButton() {
+    const searchBtn = document.getElementById('dev-search-btn');
+    if (searchBtn) searchBtn.style.display = 'none';
+}
+
+// ── DEV MODE LOCK/RESET ──────────────────────────────────
+function lockSecondaryDevMode() {
+    closeCompanyInput();
+    closePriceInput();
+    hideSearchButton();
+    secondaryDevActive = null;
+}
+
+function lockAllDevMode() {
+    lockSecondaryDevMode();
+    devModeUnlocked = false;
+    lastDevUpdate = null;
+    
+    // Revert all themes
+    const titleEl = document.querySelector('h1 span');
+    const priceEl = document.getElementById('price');
+    const nameEl = document.getElementById('name');
+    
+    if (titleEl) {
+        titleEl.style.background = '';
+        titleEl.style.webkitBackgroundClip = '';
+        titleEl.style.webkitTextFillColor = '';
+        titleEl.style.backgroundClip = '';
+    }
+    
+    if (priceEl) {
+        priceEl.style.background = '';
+        priceEl.style.webkitBackgroundClip = '';
+        priceEl.style.webkitTextFillColor = '';
+        priceEl.style.backgroundClip = '';
+    }
+    
+    if (nameEl) {
+        nameEl.style.background = '';
+        nameEl.style.webkitBackgroundClip = '';
+        nameEl.style.webkitTextFillColor = '';
+        nameEl.style.backgroundClip = '';
+    }
+    
+    resetDevModeTaps();
+    console.log('✓ Dev Mode Locked');
+}
+
+function applyDevThemeToLastUpdate() {
+    const fieryGradient = 'linear-gradient(135deg, #ff6b2b 0%, #ff3a00 50%, #ff1a00 100%)';
+    
+    if (lastDevUpdate === 'company') {
+        const nameEl = document.getElementById('name');
+        if (nameEl) {
+            nameEl.style.background = fieryGradient;
+            nameEl.style.webkitBackgroundClip = 'text';
+            nameEl.style.webkitTextFillColor = 'transparent';
+            nameEl.style.backgroundClip = 'text';
+        }
+    } else if (lastDevUpdate === 'price') {
+        const priceEl = document.getElementById('price');
+        if (priceEl) {
+            priceEl.style.background = fieryGradient;
+            priceEl.style.webkitBackgroundClip = 'text';
+            priceEl.style.webkitTextFillColor = 'transparent';
+            priceEl.style.backgroundClip = 'text';
+        }
+    }
+}
+
+// ── UPDATE DROPDOWN FROM LOCALSTORAGE ────────────────────
+function updateDropdownFromStorage() {
+    const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
+    const tickers = Object.keys(portfolio).reverse();
+    const tckrSelEl = document.getElementById('ticker-select');
+    
+    tckrSelEl.innerHTML = '';
+    tickers.forEach(ticker => {
+        const opt = document.createElement('option');
+        opt.value = ticker;
+        opt.textContent = ticker;
+        tckrSelEl.appendChild(opt);
+    });
 }
 
 function fmsRoundPrice(val) {
@@ -807,6 +1252,7 @@ function toggleNewsCard(id) {
 // ── TOGGLE ───────────────────────────────────────────────
 function switchTicker(ticker) {
     if (!currentStock || !currentSettings) return;
+    lockAllDevMode();
     try {
         renderTicker(ticker);
     } catch(e) {
@@ -816,6 +1262,7 @@ function switchTicker(ticker) {
 }
 
 function setSettings(s) {
+    lockAllDevMode();
     const { modifiedState } = getConfig();
     if (!s && modifiedState === 'null') return;
     isDefault = s;
@@ -835,6 +1282,7 @@ function setSettings(s) {
 }
 
 function setMode(m) {
+    lockAllDevMode();
     mode = m;
     document.getElementById('card-min').classList.toggle('active', m === 'low');
     document.getElementById('card-max').classList.toggle('active', m === 'high');
