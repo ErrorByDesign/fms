@@ -20,7 +20,7 @@
             "marketCap": 182556098560,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.608044
+            "yearTarget": 46.605854
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,22 +32,22 @@
         },
         "NEWS": [
             {
+                "title": "Erasca Stock Sinks 48% in Race for Pancreatic Cancer Miracle Drug. What\u2019s Behind the Sell-Off.",
+                "summary": "A confluence of safety concerns and underwhelming clinical data sent  Erasca  stock into a historic tailspin on Tuesday.  Erasca late Monday reported positive Phase 1 trial results for ERAS-0015, a therapeutic drug candidate tailored to patients with lung and pancreatic cancer.  Investors quickly drew parallels to daraxonrasib, the high-profile lead asset from  Revolution Medicines  Daraxonrasib has been on the receiving end of a storm of media coverage following an endorsement from former Nebraska Sen. Ben Sasse.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/erasca-stock-cancer-drug-daraxonrasib-revolution-medicines-d255a008?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-28T20:54:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Is Novo Nordisk (CPSE:NOVO B) Pricing Reflect Its Recent Share Price Swings And Growth Outlook",
                 "summary": "With Novo Nordisk on many watchlists, the key question right now is whether the current share price reflects its underlying value or if the market is mispricing the stock. Over the past week the share price has returned 7.6%, 16.3% over the last month, but is still showing a 19.5% decline year to date and a 34.5% decline over the past year, following a 49.1% decline over three years and a 29.1% gain over five years. Recent coverage has focused on Novo Nordisk\u2019s positioning in pharmaceuticals...",
                 "source": "Simply Wall St.",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-180547150.html",
                 "publishDate": "2026-04-28T18:05:47Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Erasca Stock Sinks 50% in Race for Pancreatic Cancer Miracle Drug. What\u2019s Behind the Sell-Off.",
-                "summary": "A confluence of safety concerns and underwhelming clinical data sent  Erasca  stock into a historic tailspin on Tuesday.  Erasca late Monday reported positive Phase 1 trial results for ERAS-0015, a therapeutic drug candidate tailored to patients with lung and pancreatic cancer.  Investors quickly drew parallels to daraxonrasib, the high-profile lead asset from  Revolution Medicines  Daraxonrasib has been on the receiving end of a storm of media coverage following an endorsement from former Nebraska Sen. Ben Sasse.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/erasca-stock-cancer-drug-daraxonrasib-revolution-medicines-d255a008?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-28T16:29:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 621.56,
+        "price": 621.82,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,10 +306,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.05,
-            "marketCap": 1475436347392,
+            "change": 0.03,
+            "marketCap": 1476053434368,
             "weekLow": 201.24,
-            "weekHigh": 621.56,
+            "weekHigh": 621.82,
             "yearTarget": null
         },
         "FUNDING": {
