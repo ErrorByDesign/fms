@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 40.0094,
+        "price": 39.885,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.81904,
-            "marketCap": 177409769472,
+            "change": -3.1212046,
+            "marketCap": 176858136576,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.54405
+            "yearTarget": 46.51128
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Hims & Hers Expands Digital-First Access to Personalized Healthcare",
+                "summary": "HIMS broadens digital-first care with Novo Nordisk GLP-1 access, new cancer detection and Labs tools, along with expansion into Canada and Europe.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/hims-hers-expands-digital-first-142900822.html",
+                "publishDate": "2026-04-29T14:29:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly investors are eager for Foundayo insight after early launch data",
                 "summary": "April 29 (Reuters) - Eli Lilly investors will be searching for something they won't find in any first-quarter financial figures reported on Thursday: insight into the launch of weight-loss pill Foundayo. sales of the hotly anticipated obesity offering, a \u200crival to Novo Nordisk's Wegovy pill, began in early April, so Foundayo data will not be included in Lilly's first-quarter financials.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/04/27/is-this-deal-a-game-changer-for-novo-nordisk/",
                 "publishDate": "2026-04-28T00:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Lilly\u2019s Foundayo Is Big, But This Hidden Stock Catalyst Could Be Bigger",
-                "summary": "Eli Lilly\u2019s Foundayo launch is drawing attention, but analysts say eloralintide and combination therapies could drive the next leg of growth.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-stock-foundayo-eloralintide-obesity-drug-catalyst-cf5310ba?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-27T19:21:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.775,
+        "price": 27.685,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.018002018,
-            "marketCap": 19878598656,
+            "change": -0.30608928,
+            "marketCap": 19814184960,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.71,
+        "price": 28.62,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7789958,
-            "marketCap": 5879306240,
+            "change": -2.0868926,
+            "marketCap": 5860876288,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
