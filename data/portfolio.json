@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 40.25,
+        "price": 40.28,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2346325,
-            "marketCap": 178476630016,
+            "change": -2.1615043,
+            "marketCap": 178609651712,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.462578
+            "yearTarget": 46.43435
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly Slips as Canada Approves Generic Weight-Loss Drug",
+                "summary": "Approval raises concerns about future pricing pressure in obesity treatments.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-slips-canada-approves-191943285.html",
+                "publishDate": "2026-04-29T19:19:43Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Meta is heading into earnings with a big move expected",
                 "summary": "First G7 move could pressure Novo's pricing",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-04-28T14:13:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Boehringer dual-acting obesity shot hits mark in Phase 3 trial",
-                "summary": "Survodutide spurred weight loss Wall Street analysts referred to as \u201cWegovy-like,\u201d and showed signs it might help preserve muscle mass as well.",
-                "source": "BioPharma Dive",
-                "category": "finance",
-                "url": "https://www.biopharmadive.com/news/survodutide-obesity-drug-results-boehringer-ingelheim-zealand/818664/",
-                "publishDate": "2026-04-28T11:44:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.48,
+        "price": 1.49,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.7142887,
-            "marketCap": 138867200,
+            "change": 6.428574,
+            "marketCap": 139805488,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Market Chatter: SpaceX's Starlink Revenue Per User Falls as Customers Quadrupled",
+                "summary": "Tesla (TSLA) Chief Executive Elon Musk's SpaceX Starlink internet service saw revenue per user falli",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-spacex-apos-starlink-190845890.html",
+                "publishDate": "2026-04-29T19:08:45Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
                 "title": "Can SpaceX Become a Millionaire-Maker Stock?",
                 "summary": "The answer might surprise you.",
                 "source": "Motley Fool",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-04-29T10:02:31Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX IPO: Potentially Millions of Retail Investors Will Make This Costly Mistake -- Don't Be One of Them",
-                "summary": "The buzz around Wall Street's largest-ever initial public offering (IPO) may entice everyday investors into a poor decision.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/29/spacex-ipo-million-retail-investors-costly-mistake/",
-                "publishDate": "2026-04-29T08:26:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.64,
+        "price": 27.615,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.4681349,
-            "marketCap": 19781978112,
+            "change": -0.55815876,
+            "marketCap": 19764086784,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.455,
+        "price": 28.235,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6513844,
-            "marketCap": 5827086848,
+            "change": -3.4040334,
+            "marketCap": 5782034944,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
