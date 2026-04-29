@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 39.925,
+        "price": 39.9702,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.0240443,
-            "marketCap": 177035509760,
+            "change": -2.9142547,
+            "marketCap": 177235935232,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.457497
+            "yearTarget": 46.4034
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Canada Approves Dr. Reddy\u2019s Generic Version of Novo Nordisk\u2019s Ozempic",
+                "summary": "The country is the first in the G7 forum to approve a generic version of the massively popular GLP-1 diabetes treatment.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/health/pharma/canada-approves-dr-reddys-generic-version-of-novo-nordisks-ozempic-3e75dc6e?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-29T16:37:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Hims & Hers Expands Digital-First Access to Personalized Healthcare",
                 "summary": "HIMS broadens digital-first care with Novo Nordisk GLP-1 access, new cancer detection and Labs tools, along with expansion into Canada and Europe.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-04-28T01:09:39Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Is This Deal a Game Changer for Novo Nordisk?",
-                "summary": "The drugmaker is getting on the AI train in ways that could move the needle down the road.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/27/is-this-deal-a-game-changer-for-novo-nordisk/",
-                "publishDate": "2026-04-28T00:50:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.4886,
+        "price": 1.45,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.3285747,
-            "marketCap": 139674128,
+            "change": 3.5714338,
+            "marketCap": 136052320,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -362,6 +362,16 @@
                 "freemium": false
             },
             {
+                "title": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him",
+                "summary": "Elon Musk on Wednesday accused a lawyer for Sam Altman of trying to trick him during cross-examination at a high-stakes trial over Musk's lawsuit alleging OpenAI ditched its mission to build artificial intelligence for the public good.  William Savitt, a lawyer for OpenAI, \u200ctold Musk his questions about the benefits Musk reaped by donating $38 million to OpenAI were simple, and that Musk's responses should be as well.  Musk has accused OpenAI, its co-founder and Chief Executive Altman, and its President \u200bGreg Brockman of wooing his donations by promising to build a nonprofit to develop AI responsibly, before pivoting to create a for-profit entity in 2019 to enrich themselves.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-return-witness-stand-100744679.html",
+                "publishDate": "2026-04-29T10:07:44Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Inside SpaceX's IPO: Musk's most ambitious plan yet",
                 "summary": "In the days after the PayPal IPO in 2002, Elon Musk and company executives gathered at a Las Vegas casino to celebrate.  In the two decades since Musk took the reins at SpaceX, the company has \u200cgrown into the world\u2019s largest space business, launching thousands of Starlink internet satellites and pioneering reusable rockets, transforming the economics of space in a way Musk likens to inventing an airplane that no longer has to be destroyed after every flight.  Musk\u2019s years of defying accepted logic through audacious risk-taking in space look set \u200bto be validated when SpaceX goes public this year at a possible valuation of $1.75 trillion, in what would be the largest public listing on record and one that could put him on track to become the world\u2019s first trillionaire.",
                 "source": "Reuters",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-04-29T03:31:10Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why Nvidia, Not Alphabet, Is the Best Artificial Intelligence (AI) Stock to Own for the Expected $1.75 Trillion SpaceX IPO",
-                "summary": "Nvidia and Alphabet both stand to profit from SpaceX's upcoming IPO.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/28/why-nvidia-not-alphabet-is-the-best-artificial-int/",
-                "publishDate": "2026-04-29T01:22:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.525,
+        "price": 27.65,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.88225,
-            "marketCap": 19699673088,
+            "change": -0.43212402,
+            "marketCap": 19789135872,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.385,
+        "price": 28.36,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8908632,
-            "marketCap": 5812751872,
+            "change": -2.9763906,
+            "marketCap": 5807632384,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
