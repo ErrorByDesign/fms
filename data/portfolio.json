@@ -20,7 +20,7 @@
             "marketCap": 178654003200,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.450092
+            "yearTarget": 46.471367
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -280,7 +280,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 621.82,
+        "price": 622.1,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -296,10 +296,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.03,
-            "marketCap": 1476053434368,
+            "change": 0.05,
+            "marketCap": 1476718100480,
             "weekLow": 201.24,
-            "weekHigh": 621.82,
+            "weekHigh": 622.1,
             "yearTarget": null
         },
         "FUNDING": {
@@ -311,6 +311,16 @@
             "totalFundingRounds": 22
         },
         "NEWS": [
+            {
+                "title": "Google Stock Climbs On Q1 Earnings As Cloud Revenue, 'Backlog' Booms",
+                "summary": "Google stock rose as parent Alphabet\u2019s Q1 earnings showed strong growth in cloud computing and search ads amid huge AI investments.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/google-stock-alphabet-google-earnings-q12026/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-04-29T21:25:38Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Market Chatter: SpaceX's Starlink Revenue Per User Falls as Customers Quadrupled",
                 "summary": "Tesla (TSLA) Chief Executive Elon Musk's SpaceX Starlink internet service saw revenue per user falli",
@@ -393,21 +403,11 @@
             },
             {
                 "title": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him",
-                "summary": "Elon Musk on Wednesday accused a lawyer for Sam Altman of trying to trick him during cross-examination at a high-stakes trial over Musk's lawsuit alleging OpenAI ditched its mission to build artificial intelligence for the public good.  William Savitt, a lawyer for OpenAI, \u200ctold Musk his questions about the benefits Musk reaped by donating $38 million to OpenAI were simple, and that Musk's responses should be as well.  Musk has accused OpenAI, its co-founder and Chief Executive Altman, and its President \u200bGreg Brockman of wooing his donations by promising to build a nonprofit to develop AI responsibly, before pivoting to create a for-profit entity in 2019 to enrich themselves.",
+                "summary": "Elon Musk on Wednesday accused a lawyer for Sam Altman of trying to trick him during a tense cross-examination at a high-stakes trial over Musk's lawsuit alleging OpenAI ditched its mission to build artificial intelligence for the public good.  William Savitt, a lawyer for OpenAI, told Musk his questions \u200cabout the tax benefits Musk reaped by donating $38 million to OpenAI were simple, and that Musk's responses should be as well.  The heated exchange came after Musk, over two days of questioning by his own lawyer,\u00a0accused\u00a0OpenAI, its co-founder and Chief Executive Altman, and its President Greg Brockman of wooing his donations \u200bby promising to build a nonprofit to develop AI responsibly, before pivoting to create a for-profit entity in 2019 to enrich themselves.",
                 "source": "Reuters",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-return-witness-stand-100744679.html",
                 "publishDate": "2026-04-29T10:07:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Inside SpaceX's IPO: Musk's most ambitious plan yet",
-                "summary": "In the days after the PayPal IPO in 2002, Elon Musk and company executives gathered at a Las Vegas casino to celebrate.  In the two decades since Musk took the reins at SpaceX, the company has \u200cgrown into the world\u2019s largest space business, launching thousands of Starlink internet satellites and pioneering reusable rockets, transforming the economics of space in a way Musk likens to inventing an airplane that no longer has to be destroyed after every flight.  Musk\u2019s years of defying accepted logic through audacious risk-taking in space look set \u200bto be validated when SpaceX goes public this year at a possible valuation of $1.75 trillion, in what would be the largest public listing on record and one that could put him on track to become the world\u2019s first trillionaire.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/inside-spacexs-ipo-musks-most-100231040.html",
-                "publishDate": "2026-04-29T10:02:31Z",
                 "premium": false,
                 "freemium": false
             }
@@ -455,6 +455,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Roivant Sciences Ltd. (ROIV): David Einhorn Trims Stake",
+                "summary": "We just covered 15 Under-the-Radar Picks from David Einhorn That Are Quietly Dominating 2026 and Roivant Sciences Ltd. (NASDAQ:ROIV) ranks 7th on this list. Roivant Sciences Ltd. (NASDAQ:ROIV) has been a consistent feature in the 13F portfolio of Greenlight Capital since the first quarter of 2024. Back then, this position comprised 4.1 million shares. By the [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/roivant-sciences-ltd-roiv-david-211140922.html",
+                "publishDate": "2026-04-29T21:11:40Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Roivant Sciences Ltd. (ROIV): One of the Best Stocks to Buy According to Joe Edelman",
                 "summary": "We just covered the Billionaire Joe Edelman\u2019s 10 Stock Picks with Huge Upside Potential and Roivant Sciences Ltd. (NASDAQ:ROIV) ranks 8th on this list. Roivant Sciences Ltd. (NASDAQ:ROIV) recently won a major legal battle. In March, Roivant\u2019s subsidiaries, Genevant and Arbutus, reached a $2.25 billion global settlement with Moderna over a COVID-19 vaccine patent. This [\u2026]",
@@ -542,16 +552,6 @@
                 "category": "finance",
                 "url": "https://www.marketbeat.com/instant-alerts/roivant-sciences-adds-brepocitinib-lpp-trial-as-batoclimab-misses-phase-iii-ted-endpoint-2026-04-02/?utm_source=yahoofinance&utm_medium=yahoofinance",
                 "publishDate": "2026-04-02T14:07:33Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Bernstein Initiates Coverage of Roivant Sciences Ltd. (ROIV) with an Outperform Rating",
-                "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 12 Best UK Stocks to Buy According to Hedge Funds. On March 19, 2026, Bernstein initiated coverage of Roivant Sciences Ltd. (NASDAQ:ROIV) with an Outperform rating and a $35 price target, citing potential upside from upcoming clinical readouts in pulmonary hypertension associated with interstitial lung disease and [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-initiates-coverage-roivant-sciences-170056033.html",
-                "publishDate": "2026-03-25T17:00:56Z",
                 "premium": false,
                 "freemium": false
             }
