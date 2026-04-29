@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 39.9702,
+        "price": 40.25,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9142547,
-            "marketCap": 177235935232,
+            "change": -2.2346325,
+            "marketCap": 178476630016,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.4034
+            "yearTarget": 46.462578
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Meta is heading into earnings with a big move expected",
+                "summary": "First G7 move could pressure Novo's pricing",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/meta-heading-earnings-big-move-191144119.html",
+                "publishDate": "2026-04-29T19:11:44Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Canada Approves Dr. Reddy\u2019s Generic Version of Novo Nordisk\u2019s Ozempic",
                 "summary": "The country is the first in the G7 forum to approve a generic version of the massively popular GLP-1 diabetes treatment.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-04-28T11:44:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Rare Disease Wins Add Context To Undervalued Share Price",
-                "summary": "Novo Nordisk (CPSE:NOVO B) has received U.S. FDA Fast Track Designation for coramitug (PRX004) in ATTR amyloidosis with cardiomyopathy. The company also reported successful pivotal Phase 3 HIBISCUS trial results for etavopivat in sickle cell disease. These updates expand Novo Nordisk\u2019s late stage pipeline into rare disease areas beyond its established GLP-1 franchise. Novo Nordisk\u2019s recent news arrives with the shares at DKK263.5 and a mixed return profile, including a 15.3% gain over the...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-rare-disease-wins-010939348.html",
-                "publishDate": "2026-04-28T01:09:39Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.45,
+        "price": 1.48,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5714338,
-            "marketCap": 136052320,
+            "change": 5.7142887,
+            "marketCap": 138867200,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,26 @@
         },
         "NEWS": [
             {
+                "title": "Can SpaceX Become a Millionaire-Maker Stock?",
+                "summary": "The answer might surprise you.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/29/can-spacex-become-a-millionaire-maker-stock/",
+                "publishDate": "2026-04-29T18:41:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Advisors Urge Investors to Wait on SpaceX",
+                "summary": "Financial advisors recommend retail investors wait for a post-IPO price dip before buying SpaceX shares, citing its sky-high valuation and historical pricing patterns.",
+                "source": "Wealth Management",
+                "category": "finance",
+                "url": "https://www.wealthmanagement.com/investing-strategies/advisors-caution-clients-to-wait-post-ipo-for-spacex-bets",
+                "publishDate": "2026-04-29T18:33:38Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Billionaire Elon Musk Says 'Life Can't Just Be One Sad Thing After Another' \u2014 We Need To Be 'Super Excited' About Stuff, Like Traveling To The Moon",
                 "summary": "The world's richest man is talking about sadness \u2014 and his solution is a trip to the Moon. That was the message Elon Musk shared on X in early February, just as SpaceX rolled out a new push to make...",
                 "source": "Benzinga",
@@ -390,26 +410,6 @@
                 "publishDate": "2026-04-29T08:26:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX ties Musk compensation to Mars colonization goal",
-                "summary": "<body><p>STORY: Details of SpaceX founder Elon Musk's pay package were revealed in the company's confidential registration statement filed in recent weeks with the Securities and Exchange Commission.</p><p>According to documents reviewed by Reuters, the world's richest man will be awarded with 200 million in super-voting restricted shares if the company hits a market value of $7.5 trillion</p><p>and if SpaceX establishes a permanent human colony on Mars with at least 1 million people.</p><p>The package also gives him as many as 60.4 million in restricted shares awarded on March 23 if SpaceX meets separate valuation goals</p><p>and if the company operates data centers in space that provide at least 100 terawatts of compute capacity.</p><p>Both awards come with super-voting Class B restricted stock which carries 10 votes to every 1 Class A share, and vest in tranches as the company's value rises.</p><p>However, Musk will not receive a single share if the company fails to reach the board's lofty valuation targets, which are not tied to a specific timeline other than his continued employment.</p><p>The value of the pay package could not be determined since SpaceX is still privately held.</p><p>The rocket-maker is targeting an initial public offering around the time of Musk's birthday on June 28.</p><p>A compensation expert said the pay plan creates a competition between SpaceX and Tesla, with both \"bidding against each other for his attention.\"</p><p>SpaceX and Tesla did not respond to requests for comment.</p></body>",
-                "source": "Reuters Videos",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/spacex-ties-musk-compensation-mars-072926551.html",
-                "publishDate": "2026-04-29T07:29:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX To RTX:  Who's Building Trump's Golden Dome Missile Shield",
-                "summary": "The U.S. Space Force has selected a dozen companies to design and demonstrate space-based interceptor prototypes for President Donald Trump\u2018s Golden Dome missile shield, with deliverables due by 2028. The Awards Space Systems Command (SSC) announced Friday that it has issued other transaction authority (OTA) agreements \u2014 collectively valued at up to $3.2 billion \u2014 to 12 vendors over late 2025 and early 2026. The contracts task each company with building prototype hardware for an orbital architec",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-rtx-whos-building-trumps-033110690.html",
-                "publishDate": "2026-04-29T03:31:10Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.65,
+        "price": 27.64,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.43212402,
-            "marketCap": 19789135872,
+            "change": -0.4681349,
+            "marketCap": 19781978112,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.36,
+        "price": 28.455,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9763906,
-            "marketCap": 5807632384,
+            "change": -2.6513844,
+            "marketCap": 5827086848,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
