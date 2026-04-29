@@ -314,7 +314,39 @@ function resetDevModeTaps() {
 }
 
 function handleXerxesFMSTab() {
-    if (devModeUnlocked) return; // Already unlocked
+    if (devModeUnlocked) {
+        // Show "already a developer" message
+        let toast = document.getElementById('dev-already-toast');
+        if (!toast) {
+            toast = document.createElement('div');
+            toast.id = 'dev-already-toast';
+            toast.style.cssText = `
+                position: fixed;
+                bottom: 20px;
+                left: 50%;
+                transform: translateX(-50%);
+                background: rgba(255, 107, 43, 0.9);
+                color: #fff;
+                padding: 12px 24px;
+                border-radius: 4px;
+                font-family: 'Rajdhani', sans-serif;
+                font-size: 12px;
+                letter-spacing: 0.1em;
+                z-index: 1000;
+                animation: fadeInOut 2s ease-in-out;
+                pointer-events: none;
+            `;
+            document.body.appendChild(toast);
+        }
+        
+        toast.textContent = 'You are already a developer';
+        toast.style.opacity = '1';
+        
+        setTimeout(() => {
+            toast.style.opacity = '0';
+        }, 1500);
+        return;
+    }
     
     devModeTaps++;
     showDevModeCountdown(7 - devModeTaps);
@@ -952,12 +984,12 @@ function renderTablePrice(blocks, bid, feePct, feePctSell, sellMin, sellMax) {
         const tr = document.createElement("tr");
         tr.classList.add('tr-body-price');
         tr.innerHTML =
-            `<td class="td-left   9td-blocks freeze-col-left">${b}</td>` +
+            `<td class="td-left td-blocks freeze-col-left">${b}</td>` +
             `<td class="td-center td-cost">${formatCurrency(b * bid)}</td>` +
             `<td class="td-center td-comms">${formatCurrency(comms)}</td>` +
             `<td class="td-center td-total">${formatCurrency(total)}</td>` +
             `<td class="td-center td-sell" data-low="${formatCurrency(netL)}" data-high="${formatCurrency(netH)}">${mode === 'low' ? formatCurrency(netL) : formatCurrency(netH)}</td>` +
-            `<td class="td-right  td-profit freeze-col-right ${mode === 'low' ? 'profit-min' : 'profit-max'}" data-low="${formatCurrency(profitL)}" data-high="${formatCurrency(profitH)}">${mode === 'low' ? formatCurrency(profitL) : formatCurrency(profitH)}</td>`;        
+            `<td class="td-right td-profit freeze-col-right ${mode === 'low' ? 'profit-min' : 'profit-max'}" data-low="${formatCurrency(profitL)}" data-high="${formatCurrency(profitH)}">${mode === 'low' ? formatCurrency(profitL) : formatCurrency(profitH)}</td>`;        
         tbody.appendChild(tr);
     });
     
@@ -1288,19 +1320,23 @@ function setMode(m) {
     document.getElementById('card-max').classList.toggle('active', m === 'high');
 
     // update price table sell/profit cells
-    const frozen = document.getElementById('price-btn-profit').classList.contains('frozen');
+    const frozen = document.querySelector('.freeze-col-right.frozen') !== null;
     document.querySelectorAll('.td-sell').forEach(td => {
         td.textContent = td.dataset[m];
     });
     document.querySelectorAll('.td-profit').forEach(td => {
         td.textContent = td.dataset[m];
-        td.className   = 'freeze-col-right td-profit ' + (frozen ? 'frozen ' : '') + (m === 'low' ? 'profit-min' : 'profit-max');
-    });
-
-    // update both table header row border colors
-    document.querySelectorAll('.table-head-row').forEach(row => {
-        row.classList.toggle('profit-min', m === 'low');
-        row.classList.toggle('profit-max', m === 'high');
+        // Remove both classes then add the correct one
+        td.classList.remove('profit-min', 'profit-max');
+        if (m === 'low') {
+            td.classList.add('profit-min');
+        } else {
+            td.classList.add('profit-max');
+        }
+        // Preserve frozen status if it exists
+        if (frozen) {
+            td.classList.add('frozen');
+        }
     });
 }
 
@@ -1369,12 +1405,44 @@ const detNewsEl = document.getElementById('details-news');
 const tckrSelEl = document.getElementById('ticker-select');
 const pwdEl = document.getElementById('pwd');
 const h1El = document.querySelector('h1');
+const nameEl = document.getElementById('name');
+const priceEl = document.getElementById('price');
+const cardMinEl = document.getElementById('card-min');
+const cardMaxEl = document.getElementById('card-max');
+const detSettingsEl = document.getElementById('details-settings');
 
 if (h1El) {
     h1El.addEventListener('click', handleXerxesFMSTab);
 }
 
+if (nameEl) {
+    nameEl.addEventListener('click', handleCompanyNameTap);
+}
+
+if (priceEl) {
+    priceEl.addEventListener('click', handlePriceTap);
+}
+
+if (cardMinEl) {
+    cardMinEl.addEventListener('click', () => setMode('low'));
+}
+
+if (cardMaxEl) {
+    cardMaxEl.addEventListener('click', () => setMode('high'));
+}
+
+if (detSettingsEl) {
+    detSettingsEl.addEventListener('toggle', function() {
+        if (this.open) {
+            lockAllDevMode();
+        }
+    });
+}
+
 detInfoEl.addEventListener('toggle', function() {
+    if (this.open) {
+        lockAllDevMode();
+    }
     if (!this.open) {
         fullDesc = 'hide';
         if (currentStock && currentTicker) {
@@ -1384,8 +1452,10 @@ detInfoEl.addEventListener('toggle', function() {
         }
     }
 });
+
 detNewsEl.addEventListener('toggle', function() {
     if (this.open) {
+        lockAllDevMode();
         renderNews();
     } else {
         // close all expanded cards
@@ -1401,6 +1471,7 @@ detNewsEl.addEventListener('toggle', function() {
         });
     }
 });
+
 tckrSelEl.addEventListener('change', adjustWidth);
 pwdEl.addEventListener("keydown", function (e) {
     if (e.key === "Enter") checkPwd();
