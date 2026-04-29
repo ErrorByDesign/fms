@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 39.88,
+        "price": 39.98,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.1337233,
-            "marketCap": 176835985408,
+            "change": -2.890451,
+            "marketCap": 177279401984,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.467735
+            "yearTarget": 46.484375
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.45,
+        "price": 1.4886,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5714338,
-            "marketCap": 136052320,
+            "change": 6.3285747,
+            "marketCap": 139674128,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Billionaire Elon Musk Says 'Life Can't Just Be One Sad Thing After Another' \u2014 We Need To Be 'Super Excited' About Stuff, Like Traveling To The Moon",
+                "summary": "The world's richest man is talking about sadness \u2014 and his solution is a trip to the Moon. That was the message Elon Musk shared on X in early February, just as SpaceX rolled out a new push to make...",
+                "source": "Benzinga",
+                "category": "news",
+                "url": "https://www.yahoo.com/news/articles/billionaire-elon-musk-says-life-173103191.html",
+                "publishDate": "2026-04-29T17:31:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "4 Reasons Why SpaceX\u2019s First Trading Day Might Be Hard to Sit Out",
                 "summary": "The big SpaceX mega IPO is getting closer, and with a $1.75 trillion expected valuation (plus or minus a couple hundred billion or so), there\u2019s sure to be a flood of investors who will need to sell something in order to load up on opening day. Undoubtedly, some of the hardcore Elon Musk fans might ... 4 Reasons Why SpaceX\u2019s First Trading Day Might Be Hard to Sit Out",
                 "source": "24/7 Wall St.",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-04-29T01:22:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Possible Tesla SpaceX Merger Reshapes AI Story And Rich Valuation",
-                "summary": "Prominent investors and analysts are widely predicting a potential merger between Tesla and SpaceX, with some expecting a tie up by early 2027. Commentary focuses on how a combined group could link Tesla\u2019s electric vehicles, robotics and AI platforms with SpaceX\u2019s space and communications capabilities. The debate has become a key topic for Tesla watchers, as a merger would reshape the company\u2019s structure, technology ecosystem and long term equity story. Tesla, NasdaqGS:TSLA, closed at...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/possible-tesla-spacex-merger-reshapes-010924649.html",
-                "publishDate": "2026-04-29T01:09:24Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.665,
+        "price": 27.615,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.3781042,
-            "marketCap": 19799871488,
+            "change": -0.55815876,
+            "marketCap": 19764086784,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.455,
+        "price": 28.55,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6513844,
-            "marketCap": 5827086848,
+            "change": -2.326378,
+            "marketCap": 5846540800,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
