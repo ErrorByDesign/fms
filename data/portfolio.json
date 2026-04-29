@@ -20,7 +20,7 @@
             "marketCap": 182556098560,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.576427
+            "yearTarget": 46.585476
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Why Nvidia, Not Alphabet, Is the Best Artificial Intelligence (AI) Stock to Own for the Expected $1.75 Trillion SpaceX IPO",
+                "summary": "Nvidia and Alphabet both stand to profit from SpaceX's upcoming IPO.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/28/why-nvidia-not-alphabet-is-the-best-artificial-int/",
+                "publishDate": "2026-04-29T01:22:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk says OpenAI was his idea, before executives looted it \u00a0",
                 "summary": "By Deepa Seetharaman and Kenrick Cai OAKLAND, California, April 28 (Reuters) - Elon Musk took the stand on Tuesday at a high-stakes trial over the future of OpenAI, casting his lawsuit against the",
                 "source": "Reuters",
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/dan-ives-predicts-80-90-133111705.html",
                 "publishDate": "2026-04-28T13:31:11Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "T-Mobile launches SuperBroadband for business customers",
-                "summary": "The service combines T-Mobile's 5G network with SpaceX's Starlink satellites and claims to reach every ZIP code in the U.S.",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/t-mobile-is-rolling-out-broadband-for-business-customers-with-starlink-as-a-satellite-backup",
-                "publishDate": "2026-04-28T13:08:43Z",
                 "premium": false,
                 "freemium": false
             }
