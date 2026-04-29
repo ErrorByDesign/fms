@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.17,
+        "price": 39.905,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.0728218,
-            "marketCap": 182556098560,
+            "change": -3.0726244,
+            "marketCap": 176946823168,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.572193
+            "yearTarget": 46.52103
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly investors are eager for Foundayo insight after early launch data",
+                "summary": "April 29 (Reuters) - Eli Lilly investors will be searching for something they won't find in any first-quarter financial figures reported on Thursday: insight into the launch of weight-loss pill Foundayo. sales of the hotly anticipated obesity offering, a \u200crival to Novo Nordisk's Wegovy pill, began in early April, so Foundayo data will not be included in Lilly's first-quarter financials.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/eli-lilly-investors-eager-foundayo-100227709.html",
+                "publishDate": "2026-04-29T10:02:27Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Health Canada approves first generic version of Novo Nordisk's Ozempic",
                 "summary": "April 28 (Reuters) - Health Canada has approved the first generic version of Danish drugmaker Novo Nordisk's blockbuster diabetes drug Ozempic made by Indian drugmaker Dr Reddy's Laboratories, its",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-04-27T19:21:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Bank of America resets Hims and Hers stock price target",
-                "summary": "Hims & Hers has been one of the most closely watched names in digital health this month. Between the FDA's peptide announcement, a Novo Nordisk settlement, and a flood of analyst revisions, the stock has barely had a moment to breathe. Now Bank of America has weighed in again. And the reason ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-hims-and-hers-stock-price-target",
-                "publishDate": "2026-04-27T17:47:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.4,
+        "price": 1.45,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 131360856,
+            "change": 3.5714338,
+            "marketCap": 136052320,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -264,16 +264,6 @@
                 "publishDate": "2025-06-24T10:38:13Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Innate Pharma And 2 Other European Penny Stocks To Watch",
-                "summary": "European markets have recently shown resilience, with the STOXX Europe 600 Index climbing 2.77% amid easing trade tensions between the U.S. and China, providing a positive backdrop for investors. In such a climate, penny stocks\u2014though an older term\u2014remain relevant as they often represent smaller or less-established companies that can offer substantial value when backed by solid financials. By identifying those with strong balance sheets and clear growth potential, investors may uncover...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/innate-pharma-2-other-european-060507584.html",
-                "publishDate": "2025-04-29T06:05:07Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -322,6 +312,76 @@
         },
         "NEWS": [
             {
+                "title": "4 Reasons Why SpaceX\u2019s First Trading Day Might Be Hard to Sit Out",
+                "summary": "The big SpaceX mega IPO is getting closer, and with a $1.75 trillion expected valuation (plus or minus a couple hundred billion or so), there\u2019s sure to be a flood of investors who will need to sell something in order to load up on opening day. Undoubtedly, some of the hardcore Elon Musk fans might ... 4 Reasons Why SpaceX\u2019s First Trading Day Might Be Hard to Sit Out",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/04/29/4-reasons-why-spacexs-first-trading-day-might-be-hard-to-sit-out/",
+                "publishDate": "2026-04-29T12:50:53Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here's Why I'm Avoiding SpaceX Stock After the IPO",
+                "summary": "When a private company decides to go public, it pays to ask why.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/29/heres-why-im-avoiding-spacex-stock-after-the-ipo/",
+                "publishDate": "2026-04-29T12:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Retail Investors Playing Bigger Role in IPOs, Robinhood CEO Says",
+                "summary": "Companies planning to go public are now a lot more keen on inviting individual investors to the party.  Back in 2021\u2014when Robinhood first launched its feature allowing users to request shares of a company ahead of stock-market debuts\u2014it was a challenge to convince executives to set aside a significant slice of shares for mom-and-pop traders, Tenev said.  Now, \u201cpretty much every major IPO of consequence has been on Robinhood\u2019s platform.\"",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/fed-interest-rate-decision-earnings-04-29-2026/card/retail-investors-playing-bigger-role-in-ipos-robinhood-ceo-says-cwomkfVwA4Sw8MdeZLM8?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-29T10:50:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Can We Handle the Magnificent 10?",
+                "summary": "Tech banker Storm Duncan made headlines by offering to swap his luxurious California estate for privately held shares of Anthropic.  The Claude developer, along with ChatGPT parent OpenAI and xAI owner SpaceX, are preparing for what should be three of the largest-ever initial public offerings.  AI-linked companies, from \u201chyperscalers\u201d to chip makers and power providers, already make up about 45% of the U.S. stock market.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/stocks/can-we-handle-the-magnificent-10-9977ba49?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-29T10:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Inside SpaceX's IPO: Musk's most ambitious plan yet",
+                "summary": "In the days after the PayPal IPO in 2002, Elon Musk and company executives gathered at a Las Vegas casino to celebrate.  In the two decades since Musk took the reins at SpaceX, the company has \u200cgrown into the world\u2019s largest space business, launching thousands of Starlink internet satellites and pioneering reusable rockets, transforming the economics of space in a way Musk likens to inventing an airplane that no longer has to be destroyed after every flight.  Musk\u2019s years of defying accepted logic through audacious risk-taking in space look set \u200bto be validated when SpaceX goes public this year at a possible valuation of $1.75 trillion, in what would be the largest public listing on record and one that could put him on track to become the world\u2019s first trillionaire.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/inside-spacexs-ipo-musks-most-100231040.html",
+                "publishDate": "2026-04-29T10:02:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: Potentially Millions of Retail Investors Will Make This Costly Mistake -- Don't Be One of Them",
+                "summary": "The buzz around Wall Street's largest-ever initial public offering (IPO) may entice everyday investors into a poor decision.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/29/spacex-ipo-million-retail-investors-costly-mistake/",
+                "publishDate": "2026-04-29T08:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX ties Musk compensation to Mars colonization goal",
+                "summary": "<body><p>STORY: Details of SpaceX founder Elon Musk's pay package were revealed in the company's confidential registration statement filed in recent weeks with the Securities and Exchange Commission.</p><p>According to documents reviewed by Reuters, the world's richest man will be awarded with 200 million in super-voting restricted shares if the company hits a market value of $7.5 trillion</p><p>and if SpaceX establishes a permanent human colony on Mars with at least 1 million people.</p><p>The package also gives him as many as 60.4 million in restricted shares awarded on March 23 if SpaceX meets separate valuation goals</p><p>and if the company operates data centers in space that provide at least 100 terawatts of compute capacity.</p><p>Both awards come with super-voting Class B restricted stock which carries 10 votes to every 1 Class A share, and vest in tranches as the company's value rises.</p><p>However, Musk will not receive a single share if the company fails to reach the board's lofty valuation targets, which are not tied to a specific timeline other than his continued employment.</p><p>The value of the pay package could not be determined since SpaceX is still privately held.</p><p>The rocket-maker is targeting an initial public offering around the time of Musk's birthday on June 28.</p><p>A compensation expert said the pay plan creates a competition between SpaceX and Tesla, with both \"bidding against each other for his attention.\"</p><p>SpaceX and Tesla did not respond to requests for comment.</p></body>",
+                "source": "Reuters Videos",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/spacex-ties-musk-compensation-mars-072926551.html",
+                "publishDate": "2026-04-29T07:29:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX To RTX:  Who's Building Trump's Golden Dome Missile Shield",
                 "summary": "The U.S. Space Force has selected a dozen companies to design and demonstrate space-based interceptor prototypes for President Donald Trump\u2018s Golden Dome missile shield, with deliverables due by 2028. The Awards Space Systems Command (SSC) announced Friday that it has issued other transaction authority (OTA) agreements \u2014 collectively valued at up to $3.2 billion \u2014 to 12 vendors over late 2025 and early 2026. The contracts task each company with building prototype hardware for an orbital architec",
                 "source": "Benzinga",
@@ -350,76 +410,6 @@
                 "publishDate": "2026-04-29T01:09:24Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk says OpenAI was his idea, before executives looted it \u00a0",
-                "summary": "By Deepa Seetharaman and Kenrick Cai OAKLAND, California, April 28 (Reuters) - Elon Musk took the stand on Tuesday at a high-stakes trial over the future of OpenAI, casting his lawsuit against the",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/musk-lawyer-says-openai-stole-164130414.html",
-                "publishDate": "2026-04-28T22:12:19Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "As Elon Musk Backs the Intel 14A Tech for His Terafab, Should You Buy INTC Stock?",
-                "summary": "Intel stock is surging as Elon Musk\u2019s Terafab plans give its 14A foundry roadmap a high-profile credibility boost.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/1571774/as-elon-musk-backs-the-intel-14a-tech-for-his-terafab-should-you-buy-intc-stock",
-                "publishDate": "2026-04-28T20:58:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk attorney claims OpenAI, Sam Altman \u2018stole a charity\u2019 as high-stakes legal fight begins",
-                "summary": "Elon Musk\u2019s legal battle against OpenAI begins with sharp accusations, as his attorney claims Sam Altman turned a nonprofit into a profit-driven empire.",
-                "source": "Fox Business",
-                "category": "finance",
-                "url": "https://www.foxbusiness.com/technology/elon-musk-attorney-claims-openai-sam-altman-stole-charity-high-stakes-legal-fight-begins",
-                "publishDate": "2026-04-28T18:32:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Baird Lowers PT on Tesla (TSLA), Remains Bullish on the Stocks Long-Term Potential",
-                "summary": "\u200bTesla, Inc. (NASDAQ:TSLA) is one of the world\u2019s leading electric vehicle, robot-taxi, and energy system providers. Recently, on April 23, Baird maintained an Outperform rating on the stock and lowered its price target from $538 to $522. Despite the price target reduction, Tesla, Inc. (NASDAQ:TSLA) is among the Best Stocks to Buy and Hold For [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/baird-lowers-pt-tesla-tsla-175119516.html",
-                "publishDate": "2026-04-28T17:51:19Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "A SpaceX Phone? Not if AT&T Gets Its Way.",
-                "summary": "SpaceX won\u2019t be an MVNO if  AT&T  has anything to do with it.  The acronym is short for Mobile Virtual Network Operator.  Think Mint Mobile or Cricket Wireless, companies that rent cell towers and wireless spectrum at wholesale prices.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/a-spacex-phone-not-if-at-t-gets-its-way-428ed15c?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-28T17:51:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Ross Gerber Thinks Elon Musk's SpaceX, Tesla Could Create 'Berkshire Hathaway Of AI'",
-                "summary": "Investor Ross Gerber of Gerber Kawasaki thinks that the Tesla Inc. and SpaceX merger could lead to an entity like Warren Buffett\u2018s Berkshire Hathaway Inc. in the artificial intelligence space. Intertwining Of Businesses In a video shared by The Information on Sunday on X, Gerber shared that investors wanted to own shares of both companies. \u201cMany of the Tesla investors want to own SpaceX,\u201d he said, which could lead to them selling Tesla shares to buy SpaceX stock. Gerber also shared that both com",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ross-gerber-thinks-elon-musks-150106208.html",
-                "publishDate": "2026-04-28T15:01:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Should You Buy the $1.75 Trillion SpaceX IPO? Here Is What History Says",
-                "summary": "SpaceX is targeting an IPO this summer at a valuation nearing $2 trillion.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/28/should-you-buy-the-175-trillion-spacex-ipo-here-is/",
-                "publishDate": "2026-04-28T14:50:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.77,
+        "price": 27.63,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.287253,
-            "marketCap": 19875020800,
+            "change": -0.5041458,
+            "marketCap": 19774820352,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.23,
+        "price": 28.56,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.94309,
-            "marketCap": 5985793024,
+            "change": -2.292166,
+            "marketCap": 5848588800,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
