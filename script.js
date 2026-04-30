@@ -1,34 +1,38 @@
 // ── GLOBAL VARIABLES ─────────────────────────────────────
 const PASSWORD = "";
-const ALPHA_VANTAGE_KEY = 'ONWS7QAI76ZRNLON';
-const ALPHA_VANTAGE_BASE_URL = 'https://www.alphavantage.co/query?';
-
+// Settings
 let currentStock = null;
-let currentSettings = null;
 let currentTicker = null;
+let currentSettings = null;
 let isDefault = null;
 let fee = "buy";
 let mode = "high";
 let frozenL = "";
 let frozenR = "";
+// Information
 let fullDesc = "hide";
 let newsFilter = 'all';
+let regexReplaceMap = new Map(); // Stores [RegExp, replacement] pairs
+// Developer Options: Primary
 let devModeUnlocked = false;
 let devModeInitialized = false;
-let lastApiCallTime = 0;
-
-// Secondary dev mode states
-let secondaryDevActive = null; // 'company' or 'price' or null
+let devModeTaps = 0;
+let devModeTapTimeout = null;
+let devModeCountdownActive = false;
+// Developer Options: Secondary
+let secondaryDevActive = null;
 let companyInputActive = false;
 let priceInputActive = false;
 let companyTaps = 0;
 let priceTaps = 0;
 let companyTapTimeout = null;
 let priceTapTimeout = null;
-
-// Track which was last updated by dev mode
-let lastDevUpdate = null; // 'company' or 'price' or null
-
+let lastDevUpdate = null;
+// Alpha Vantage 
+let lastApiCallTime = 0;
+const ALPHA_VANTAGE_KEY = 'ONWS7QAI76ZRNLON';
+const ALPHA_VANTAGE_BASE_URL = 'https://www.alphavantage.co/query?';
+// Metrics & Price Table
 const DEFAULT_MINIMUM_THRESHOLD = 5000;
 const PRICE_ROUNDING_INTERVALS = [
     { limit: 5, interval: 0.01 },
@@ -97,13 +101,11 @@ function getConfig() {
         effectiveKeys
     };
 }
-
 function getPriceInterval(val) {
     return (
         PRICE_ROUNDING_INTERVALS.find(r => val < r.limit) || { interval: 100 }
     ).interval;
 }
-
 function getShareInterval(val) {
     return (
         SHARE_ROUNDING_INTERVALS.find(r => val < r.limit) || { interval: 100 }
@@ -119,7 +121,6 @@ async function throttledApiCall() {
     }
     lastApiCallTime = Date.now();
 }
-
 async function fetchAlphaVantageQuote(ticker) {
     if (!ticker) throw new Error('Ticker symbol required.');
     
@@ -149,7 +150,6 @@ async function fetchAlphaVantageQuote(ticker) {
     
     return { price, change };
 }
-
 async function fetchAlphaVantageOverview(ticker) {
     if (!ticker) throw new Error('Ticker symbol required.');
     
@@ -216,7 +216,7 @@ function generateSerial(ticker, stockType, settings) {
     return serial;
 }
 
-// ── LOCALSTORAGE MANAGEMENT ──────────────────────────────
+// ── LOCAL STORAGE MANAGEMENT ──────────────────────────────
 function initDevModeStorage() {
     if (devModeInitialized) return;
     
@@ -227,7 +227,6 @@ function initDevModeStorage() {
     
     devModeInitialized = true;
 }
-
 function getDevModeData(ticker, key) {
     // If dev mode initialized, read from localStorage
     if (devModeInitialized) {
@@ -236,7 +235,6 @@ function getDevModeData(ticker, key) {
     }
     return null;
 }
-
 function saveDevModeData(ticker, data) {
     const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
     
@@ -247,7 +245,6 @@ function saveDevModeData(ticker, data) {
     portfolio[ticker] = { ...portfolio[ticker], ...data };
     localStorage.setItem('fms-portfolio', JSON.stringify(portfolio));
 }
-
 function isDataExpired(serial) {
     if (!serial) return true;
     
@@ -266,13 +263,7 @@ function isDataExpired(serial) {
     return serialEpoch <= now;
 }
 
-
-
 // ── DEV MODE TAP COUNTER ─────────────────────────────────
-let devModeTaps = 0;
-let devModeTapTimeout = null;
-let devModeCountdownActive = false;
-
 function showDevModeCountdown(remaining) {
     // Create or update countdown toast
     let toast = document.getElementById('dev-mode-toast');
@@ -307,12 +298,10 @@ function showDevModeCountdown(remaining) {
         toast.style.opacity = '0';
     }, 1500);
 }
-
 function resetDevModeTaps() {
     devModeTaps = 0;
     if (devModeTapTimeout) clearTimeout(devModeTapTimeout);
 }
-
 function handleXerxesFMSTab() {
     if (devModeUnlocked) {
         // Show "already a developer" message
@@ -360,7 +349,6 @@ function handleXerxesFMSTab() {
         resetDevModeTaps();
     }
 }
-
 function unlockDevMode() {
     devModeUnlocked = true;
     initDevModeStorage();
@@ -414,7 +402,6 @@ function handleCompanyNameTap() {
         companyTaps = 0;
     }
 }
-
 function unlockCompanyInput() {
     // Close price input if active
     if (priceInputActive) {
@@ -472,7 +459,6 @@ function unlockCompanyInput() {
     // Show search button
     showSearchButton();
 }
-
 function closeCompanyInput() {
     companyInputActive = false;
     
@@ -486,7 +472,6 @@ function closeCompanyInput() {
         secondaryDevActive = null;
     }
 }
-
 async function submitCompanySearch() {
     const input = document.getElementById('dev-company-input');
     if (!input || !input.value.trim()) {
@@ -576,7 +561,6 @@ function handlePriceTap() {
         priceTaps = 0;
     }
 }
-
 function unlockPriceInput() {
     // Close company input if active
     if (companyInputActive) {
@@ -634,7 +618,6 @@ function unlockPriceInput() {
     // Show search button
     showSearchButton();
 }
-
 function closePriceInput() {
     priceInputActive = false;
     
@@ -648,7 +631,6 @@ function closePriceInput() {
         secondaryDevActive = null;
     }
 }
-
 async function submitPriceUpdate() {
     const input = document.getElementById('dev-price-input');
     const placeholder = input.placeholder;
@@ -743,7 +725,6 @@ function showSearchButton() {
     
     searchBtn.style.display = 'inline-block';
 }
-
 function hideSearchButton() {
     const searchBtn = document.getElementById('dev-search-btn');
     if (searchBtn) searchBtn.style.display = 'none';
@@ -756,7 +737,6 @@ function lockSecondaryDevMode() {
     hideSearchButton();
     secondaryDevActive = null;
 }
-
 function lockAllDevMode() {
     lockSecondaryDevMode();
     devModeUnlocked = false;
@@ -791,7 +771,6 @@ function lockAllDevMode() {
     resetDevModeTaps();
     console.log('✓ Dev Mode Locked');
 }
-
 function applyDevThemeToLastUpdate() {
     const fieryGradient = 'linear-gradient(135deg, #ff6b2b 0%, #ff3a00 50%, #ff1a00 100%)';
     
@@ -828,7 +807,6 @@ function updateDropdownFromStorage() {
         tckrSelEl.appendChild(opt);
     });
 }
-
 function fmsRoundPrice(val) {
     const step = getPriceInterval(val);
     const factor = 1 / step;
@@ -837,7 +815,6 @@ function fmsRoundPrice(val) {
     if (lower === upper) return lower;
     return val - lower <= upper - val ? lower : upper;
 }
-
 function fmsRoundShares(val, bid, feePct) {
     const step = getShareInterval(val);
     const factor = 1 / step;
@@ -849,7 +826,6 @@ function fmsRoundShares(val, bid, feePct) {
     if (lowerCost < DEFAULT_MINIMUM_THRESHOLD) return upper;
     return val - lower <= upper - val ? lower : upper;
 }
-
 function syncModeUI() {
     document.getElementById('card-min').classList.toggle('active', mode === 'low');
     document.getElementById('card-max').classList.toggle('active', mode === 'high');
@@ -860,27 +836,20 @@ function syncModeUI() {
 }
 
 // ── SELECT WIDTH ────────────────────────────────────────────────
-function adjustWidth() {
-    const tempSpan = document.createElement('span');
-    
-    const style = window.getComputedStyle(tckrSelEl);
-    tempSpan.style.font = style.font;
-    tempSpan.style.visibility = 'hidden';
-    tempSpan.style.position = 'absolute';
-    tempSpan.style.whiteSpace = 'nowrap';
-    
-    // Set text to current selection
-    tempSpan.textContent = tckrSelEl.options[tckrSelEl.selectedIndex].text;
-    document.body.appendChild(tempSpan);
-    
-    // Set select width (add ~30px for the arrow icon)
-    const arrowWidth = 30;
-    tckrSelEl.style.width = `${tempSpan.offsetWidth + arrowWidth}px`;
-    
-    document.body.removeChild(tempSpan);
-}
+const adjustWidth = (event) => {
+    // Determine if we're looking at a raw element or an event object
+    const el = event.target || event;
+    const tckrLen = el.value.length;
 
-//adjustWidth(); 
+    // We cap the calculation at 4 characters for the fallback clipping
+    const displayLen = Math.min(tckrLen, 4);
+
+    // 4 chars have 3 gaps. 3 gaps * 0.5ch = 1.5ch
+    const gaps = Math.max(0, displayLen);
+    const calculatedWidth = `${displayLen + (gaps * 0.5)}ch`;
+
+    el.style.setProperty('--text-width', calculatedWidth);
+};
 
 // ── DATA ────────────────────────────────────────────────
 function formatCurrency(v, mc = false) {
@@ -918,7 +887,6 @@ function formatCurrency(v, mc = false) {
 
     return formatted;
 }
-
 function formatDate(d) {
     return d
         .toLocaleDateString("en-US", {
@@ -929,7 +897,6 @@ function formatDate(d) {
         })
         .toUpperCase();
 }
-
 function formatDescription() {
     const stock = currentStock[currentTicker];
     if (!stock) throw new Error("ticker not found: " + currentTicker);
@@ -938,14 +905,6 @@ function formatDescription() {
     const s = p[0] ? `${p[0]}..` : d;
     return { d, s };
 }
-
-function toggleFee() {
-    fee = fee === "buy" ? "sell" : "buy";
-    const lbl = document.querySelector("#settings-lbl-fee");
-    if (lbl) lbl.textContent = fee === "buy" ? "     FEE" : "FEE SELL";
-    renderTableSettings();
-}
-
 function formatPercent(val, isDecimal = true, interval = 0.5) {
     // Convert decimal to percentage if needed
     const percentage = isDecimal ? val * 100 : val;
@@ -958,9 +917,68 @@ function formatPercent(val, isDecimal = true, interval = 0.5) {
         ? `${rounded}%`
         : `${parseFloat(rounded.toFixed(10))}%`;
 }
-
 function formatUrl(url) {
     return url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, "").split("/")[0];
+}
+
+// ── REGEX TEXT REPLACEMENT HELPER ─────────────────────────────────────
+async function loadRegexReplaceMap() {
+    /**    
+     * Load the reference mapping JSON and build the regex replacement map
+    **/
+    try {
+        const response = await fetch("./config/reference-mapping.json");
+        if (!response.ok) throw new Error(`Failed to load mapping: ${response.status}`);
+
+        const mapping = await response.json();
+        const regexConfig = mapping?.CONFIG?.REGEX;
+
+        if (!regexConfig || typeof regexConfig !== "object") {
+            throw new Error("Invalid REGEX config in reference-mapping.json");
+        }
+
+        regexReplaceMap.clear();
+
+        // Process each key-value pair in the JSON
+        Object.entries(regexConfig).forEach(([searchKey, replacement]) => {
+            // Handle null replacements (convert to empty string)
+            const finalReplacement = replacement === null ? "" : replacement;
+
+            // Escape SPECIAL REGEX CHARACTERS in the search key
+            // This prevents errors if search keys contain things like ".", "*", or "["
+            const escapedSearchKey = searchKey.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+            // Create regex: 
+            // - "g" = global replace (all occurrences)
+            // - "i" = case-insensitive (optional – remove if you want exact case matches)
+            const regexPattern = new RegExp(escapedSearchKey, "g");
+
+            // Add to map
+            regexReplaceMap.set(regexPattern, finalReplacement);
+        });
+
+        console.log("✅ Regex replacement map loaded successfully. Entries:", regexReplaceMap.size);
+    } catch (err) {
+        console.error("❌ Failed to load regex replacement map:", err);
+    }
+}
+function applyRegexReplacements(inputText) {
+    /**    
+     * Apply all replacements from the preloaded map
+     * @param {string} inputText - Text to process
+     * @returns {string} Processed text
+    **/
+    if (!inputText || typeof inputText !== "string") return inputText || "";
+
+    let processedText = inputText;
+    regexReplaceMap.forEach((replacement, regex) => {
+        processedText = processedText.replace(regex, replacement);
+    });
+
+    // Optional: Clean up extra spaces after replacements
+    processedText = processedText.replace(/\s+/g, " ").trim();
+
+    return processedText;
 }
 
 // ── RENDER ───────────────────────────────────────────────
@@ -1000,7 +1018,6 @@ function renderTablePrice(blocks, bid, feePct, feePctSell, sellMin, sellMax) {
         document.querySelectorAll(".freeze-col-right").forEach(td => td.classList.add("frozen"));
     }
 }
-
 function renderTableSettings() {
     if (!currentStock || !currentSettings || !currentTicker) return;
     
@@ -1042,12 +1059,11 @@ function renderTableSettings() {
         modBtn.classList.remove('disabled');
     }
 }
-
 function renderTicker(ticker) {
     const stock = currentStock[ticker];
     if (!stock) throw new Error("ticker not found: " + ticker);
     currentTicker = ticker;
-    
+
     // handle isDefault state for new ticker
     const newModifiedState = getConfig().modifiedState;
     if (isDefault === null) {
@@ -1057,15 +1073,15 @@ function renderTicker(ticker) {
         // was on modified, but new ticker's modified is disabled — force default
         isDefault = true;
     }
-    
+
     // company and financials shortcuts
     const _C = stock.COMPANY    || {};
     const _F = stock.FINANCIALS || {};
-    
+
     // price and change
     const price     = parseFloat(stock.price) || 0;
     const changeRaw = _F.change && _F.change !== null ? _F.change : 0;
-    
+
     // get active config via getConfig()
     const { active } = getConfig();
     const discPct    = active.BLOCKAGE_DISCOUNT;
@@ -1073,12 +1089,12 @@ function renderTicker(ticker) {
     const feePctSell = active.BROKERAGE_FEE_SELL;
     const sellMinPct = active.SELL_MIN;
     const sellMaxPct = active.SELL_MAX;
-    
+
     // price calculations
     const bid     = fmsRoundPrice(price * (1 - discPct));
     const sellMin = fmsRoundPrice(bid *   (1 + sellMinPct));
     const sellMax = fmsRoundPrice(bid *   (1 + sellMaxPct));
-    
+
     // block calculations
     const feePctMult     = 1 + feePct;
     const blockMinRaw    = DEFAULT_MINIMUM_THRESHOLD / (bid * feePctMult);
@@ -1087,16 +1103,20 @@ function renderTicker(ticker) {
     const blockMaxHalf   = blockMin * 5;
     const blockMax       = blockMin * 10;
     const blocks         = [blockMax, blockMaxHalf, blockMinDouble, blockMin];
-    
+
     // market update percentages
     const labelBidPct = ((price - bid)   / bid) * 100;
     const labelMinPct = ((sellMin - bid) / bid) * 100;
     const labelMaxPct = ((sellMax - bid) / bid) * 100;
-    
+
+    // company name
+    const rawName = _C.name;
+    const processedName = applyRegexReplacements(rawName);
+
     // populate header
-    document.getElementById("name").textContent = _C.name || ticker;
+    document.getElementById("name").textContent = processedName || ticker;
     document.getElementById("date").textContent = formatDate(new Date());
-    
+
     // populate market update cards
     document.getElementById("price").textContent        = formatCurrency(price);
     document.getElementById("bid").textContent          = formatCurrency(bid);
@@ -1105,7 +1125,7 @@ function renderTicker(ticker) {
     document.getElementById("sell-min-pct").textContent = `(+${formatPercent(labelMinPct, false, 0.5)})`;
     document.getElementById("sell-max").textContent     = formatCurrency(sellMax);
     document.getElementById("sell-max-pct").textContent = `(+${formatPercent(labelMaxPct, false, 0.5)})`;
-    
+
     // change badge
     const change   = formatPercent(changeRaw, false, 0.01);
     const changeEl = document.getElementById("change-pct");
@@ -1116,14 +1136,15 @@ function renderTicker(ticker) {
         changeEl.textContent = "";
         changeEl.className   = "badge";
     }
-    
+
     // description
-    const desc        = formatDescription(currentStock, ticker);
-    const description = desc.d;
-    const summary     = desc.s;
-    
+    const formattedDesc = formatDescription(currentStock, ticker);
+    const processedDesc = applyRegexReplacements(formattedDesc);
+    const description   = processedDesc.d;
+    const summary       = processedDesc.s;
+
     // populate information section
-    document.getElementById("info-name").textContent      = _C.name     || "";
+    document.getElementById("info-name").textContent      = processedName     || "";
     document.getElementById("info-ticker").textContent    = _C.ticker   || "";
     document.getElementById("info-exchange").textContent  = _C.exchange || "";
     document.getElementById("info-country").textContent   = _C.country  || "";
@@ -1134,19 +1155,19 @@ function renderTicker(ticker) {
     document.getElementById("info-desc").textContent      = (fullDesc === "show" ? description : summary) || "";
     document.getElementById("info-weekLow").textContent   = formatCurrency(_F.weekLow)                    || "";
     document.getElementById("info-weekHigh").textContent  = formatCurrency(_F.weekHigh)                   || "";
-    
+
     // show or hide cards based on available data
     toggleCard('info-weekLow', _F.weekLow);
     toggleCard('info-weekHigh', _F.weekHigh);
-    
+
     // website link
     const url  = _C.website || "";
     const link = document.getElementById("info-website");
     link.href  = url;
     link.textContent = formatUrl(url) || "";
-    
+
     // adjust select menu width, render settings and price tables, render news feed and sync price modd
-    adjustWidth();
+    adjustWidth(tckrSelEl);
     renderTableSettings();
     renderTablePrice(blocks, bid, feePct, feePctSell, sellMin, sellMax);
     renderNews();
@@ -1156,6 +1177,9 @@ function renderTicker(ticker) {
 // ── LOAD ─────────────────────────────────────────────────
 async function loadData() {
     try {
+        // Load regex replacement map FIRST
+        await loadRegexReplaceMap();
+        
         const [stockRes, settingsRes] = await Promise.all([
             fetch("./data/portfolio.json"),
             fetch("./config/settings.json")
@@ -1194,7 +1218,6 @@ function formatNewsDate(iso) {
         year: 'numeric'
     }).toUpperCase();
 }
-
 function setNewsFilter(f) {
     newsFilter = f;
     document.querySelectorAll('.news-filter-btn').forEach(btn => {
@@ -1202,7 +1225,6 @@ function setNewsFilter(f) {
     });
     renderNews();
 }
-
 function renderNews() {
     if (!currentStock || !currentTicker) return;
 
@@ -1264,7 +1286,6 @@ function renderNews() {
         container.appendChild(card);
     });
 }
-
 function toggleNewsCard(id) {
     const summary = document.getElementById(`${id}-summary`);
     const footer  = document.getElementById(`${id}-footer`);
@@ -1281,7 +1302,7 @@ function toggleNewsCard(id) {
     }
 }
 
-// ── TOGGLE ───────────────────────────────────────────────
+// ── PRIMARY MODES ───────────────────────────────────────────────
 function switchTicker(ticker) {
     if (!currentStock || !currentSettings) return;
     lockAllDevMode();
@@ -1292,7 +1313,6 @@ function switchTicker(ticker) {
         console.error(e);
     }
 }
-
 function setSettings(s) {
     lockAllDevMode();
     const { modifiedState } = getConfig();
@@ -1312,7 +1332,6 @@ function setSettings(s) {
     renderTablePrice(blocks, bid, active.BROKERAGE_FEE, active.BROKERAGE_FEE_SELL, sellMin, sellMax);
     syncModeUI()
 }
-
 function setMode(m) {
     lockAllDevMode();
     mode = m;
@@ -1340,11 +1359,11 @@ function setMode(m) {
     });
 }
 
+// ── TOGGLES ───────────────────────────────────────────────
 function toggleCard(id, value) {
     const card = document.getElementById(id).closest(".card");
     card.style.display = value ? "" : "none";
 }
-
 function toggleDesc() {
     fullDesc = fullDesc === "show" ? "hide" : "show";
     if (!currentStock || !currentTicker) return;
@@ -1352,7 +1371,12 @@ function toggleDesc() {
     const text = fullDesc === "show" ? data.d : data.s;
     document.getElementById("info-desc").textContent = text;
 }
-
+function toggleFee() {
+    fee = fee === "buy" ? "sell" : "buy";
+    const lbl = document.querySelector("#settings-lbl-fee");
+    if (lbl) lbl.textContent = fee === "buy" ? "     FEE" : "FEE SELL";
+    renderTableSettings();
+}
 function toggleFrozenL() {
     frozenL = frozenL === "frozen" ? "" : "frozen";
     const frozen = frozenL !== "";
@@ -1366,7 +1390,6 @@ function toggleFrozenL() {
         td.classList.toggle("frozen", frozen);
     });
 }
-
 function toggleFrozenR() {
     frozenR = frozenR === "frozen" ? "" : "frozen";
     const frozen = frozenR !== "";
@@ -1400,37 +1423,31 @@ function checkPwd() {
 }
 
 // ── LISTENERS ─────────────────────────────────────────────
-const detInfoEl = document.getElementById('details-info');
-const detNewsEl = document.getElementById('details-news');
-const tckrSelEl = document.getElementById('ticker-select');
-const pwdEl = document.getElementById('pwd');
-const h1El = document.querySelector('h1');
-const nameEl = document.getElementById('name');
-const priceEl = document.getElementById('price');
-const cardMinEl = document.getElementById('card-min');
-const cardMaxEl = document.getElementById('card-max');
+const detInfoEl     = document.getElementById('details-info');
+const detNewsEl     = document.getElementById('details-news');
+const tckrSelEl     = document.getElementById('ticker-select');
+const pwdEl         = document.getElementById('pwd');
+const h1El          = document.querySelector('h1');
+const nameEl        = document.getElementById('name');
+const priceEl       = document.getElementById('price');
+const cardMinEl     = document.getElementById('card-min');
+const cardMaxEl     = document.getElementById('card-max');
 const detSettingsEl = document.getElementById('details-settings');
-
 if (h1El) {
     h1El.addEventListener('click', handleXerxesFMSTab);
 }
-
 if (nameEl) {
     nameEl.addEventListener('click', handleCompanyNameTap);
 }
-
 if (priceEl) {
     priceEl.addEventListener('click', handlePriceTap);
 }
-
 if (cardMinEl) {
     cardMinEl.addEventListener('click', () => setMode('low'));
 }
-
 if (cardMaxEl) {
     cardMaxEl.addEventListener('click', () => setMode('high'));
 }
-
 if (detSettingsEl) {
     detSettingsEl.addEventListener('toggle', function() {
         if (this.open) {
@@ -1438,516 +1455,46 @@ if (detSettingsEl) {
         }
     });
 }
-
-detInfoEl.addEventListener('toggle', function() {
-    if (this.open) {
-        lockAllDevMode();
-    }
-    if (!this.open) {
-        fullDesc = 'hide';
-        if (currentStock && currentTicker) {
-            const desc = formatDescription();
-            const descEl = document.getElementById('info-desc');
-            descEl.textContent = desc.s;
+if (detInfoEl) {
+    detInfoEl.addEventListener('toggle', function() {
+        if (this.open) {
+            lockAllDevMode();
         }
-    }
-});
-
-detNewsEl.addEventListener('toggle', function() {
-    if (this.open) {
-        lockAllDevMode();
-        renderNews();
-    } else {
-        // close all expanded cards
-        document.querySelectorAll('.news-card-summary').forEach(el => el.classList.remove('expanded'));
-        document.querySelectorAll('.news-card-footer').forEach(el => el.classList.remove('visible'));
-        // reset scroll position
-        const feedEl = document.getElementById('news-feed');
-        feedEl.scrollTop = 0;
-        // reset all filter
-        newsFilter = 'all';
-        document.querySelectorAll('.news-filter-btn').forEach(btn => {
-            btn.classList.toggle('active', btn.id === 'filter-all');
-        });
-    }
-});
-
-tckrSelEl.addEventListener('change', adjustWidth);
-pwdEl.addEventListener("keydown", function (e) {
-    if (e.key === "Enter") checkPwd();
-});
-
-// ── TEMP ─────────────────────────────────────────────────
-
-
-
-// ALPHA VANTAGE
-/*
-const ALPHA_VANTAGE_BASE_URL = 'https://www.alphavantage.co/query?';
-const API_KEYS = [
-    'ONWS7QAI76ZRNLON',
-    'XWS4ONTT61PC2PB2',
-    '7JXAQ3E7L87TUD8C',
-    'F6QSTYW37EJ5ADT4',
-    'H1WS1PXIG3RU8SGE',
-    '2DZO5IHJECQ3171Z',
-    'ZX5OF44FKO747741'
-];
-const API_RESPONSES = {
-    burst: [
-        "1 request per second",
-        "per-second burst",
-        "consider spreading",
-        "API requests more sparingly"
-    ],
-    daily: [
-        "25 requests per day",
-        "We have detected your API key",
-        "standard API rate limit"
-    ]
-};
-let currentKeyIndex = 0;
-*//*
-function getNextApiKey() {
-    let key = null;
-    try {
-        if (!API_KEYS?.length) {
-            Debug.log('❌ No API_KEYS configured');
-            throw new Error('❌ No API_KEYS configured');
-        }
-
-        if (!window.failedKeys) window.failedKeys = new Set();
-
-        if (window.failedKeys.size >= API_KEYS.length) {
-            Debug.log('🕒 API keys exceeded daily limit!');
-            throw new Error('🕒 API keys exceeded daily limit!');
-        }
-
-        for (const k of API_KEYS) {
-            if (!window.failedKeys.has(k)) {
-                Debug.log(`✅ API key: ${k}`);
-                key = k;
-                break;
+        if (!this.open) {
+            fullDesc = 'hide';
+            if (currentStock && currentTicker) {
+                const desc = formatDescription();
+                const descEl = document.getElementById('info-desc');
+                descEl.textContent = desc.s;
             }
         }
-    } catch (e) {
-        Debug.error(e.message);
-    } finally {
-        if (key === null) {
-            Debug.log(`⚠️ API key (fallback): ${API_KEYS[0]}`);
-            key = API_KEYS[0];
-        }
-    }
-
-    return key;
+    });
 }
-function markKeyAsFailed(apiKey) {
-    if (!window.failedKeys) window.failedKeys = new Set();
-    window.failedKeys.add(apiKey);
-    currentKeyIndex = (currentKeyIndex + 1) % API_KEYS.length;
-
-    Debug.log(`❌ Failed key: ${apiKey}`);
-}
-*//*
-async function fetchAlphaVantageNews(ticker, rangeUnit, rangeValue) {
-    Debug.group(`[ FETCH NEWS ] ${ticker} ${rangeUnit}_${rangeValue}`);
-
-    const RANGE_TO_SECONDS = {
-        DAY: 86400,
-        WEEK: 604800,
-        MONTH: 2592000,
-        YEAR: 31536000
-    };
-    let valog = '';
-
-    // INPUT VALIDATION
-    if (!ticker || typeof ticker !== 'string') {
-        valog = `❌ Invalid ticker: ${ticker}`;
-        throw new Error('❌ Parameter(s) invalid');
-    }
-    if (!RANGE_TO_SECONDS[rangeUnit]) {
-        valog = `❌ Invalid range unit: ${rangeUnit}`;
-        Debug.end();
-        throw new Error('❌ Parameter(s) invalid');
-    }
-    if (!Number.isInteger(rangeValue) || rangeValue <= 0) {
-        valog = `❌ Invalid range value: ${rangeValue}`;
-        throw new Error('❌ Parameter(s) invalid');
-    }
-    Debug.subgroup('{ Input validation }');
-    Debug.error(valog);
-    Debug.end();
-
-    // EPOCH CALCULATION, TIME-FROM CONVERSION AND EXPIRY CALCULATION
-    const symbol = ticker.trim().toUpperCase();
-    const nowEpoch = Math.floor(Date.now() / 1000);
-    const secondsBack = RANGE_TO_SECONDS[rangeUnit] * rangeValue;
-    const fromEpoch = nowEpoch - secondsBack;
-
-    // CALCULATE TIME-FROM
-    function toAlphaVantageTimeFrom(epochSeconds) {
-        const date = new Date(epochSeconds * 1000);
-        const pad = n => String(n).padStart(2, '0');
-        const timeFrom = `${date.getUTCFullYear()}${pad(date.getUTCMonth() + 1)}${pad(date.getUTCDate())}T${pad(date.getUTCHours())}${pad(date.getUTCMinutes())}${pad(date.getUTCSeconds())}`;
-        return timeFrom;
-    }
-    const timeFrom = toAlphaVantageTimeFrom(fromEpoch);
-    Debug.subgroup('{ Date range }');
-    Debug.log(`Ticker symbol: ${symbol}`);
-    Debug.log(`Epoch now: ${nowEpoch}`);
-    Debug.log(`Seconds back: ${secondsBack}`);
-    Debug.log(`Epoch from:  ${fromEpoch}`);
-    Debug.log(`Time from: ${timeFrom}`);
-    Debug.end();
-
-    // COMPUTE NEXT EXPIRY
-    function computeNewsExpiry(timestamp, timeFrom, unit, value) {
-        const timeframe = timestamp - timeFrom;
-        let multiplier;
-        if (unit === 'DAY') {
-            multiplier = 1.0;
-        } else if (unit === 'WEEK') {
-            multiplier = 0.75;
-        } else if (unit === 'MONTH') {
-            multiplier = value < 6 ? 0.75 : 0.5;
-        } else if (unit === 'YEAR') {
-            multiplier = 0.25;
+if (detNewsEl) {
+    detNewsEl.addEventListener('toggle', function() {
+        if (this.open) {
+            lockAllDevMode();
+            renderNews();
         } else {
-            multiplier = 0.75;
-        }
-        const expiry = Math.floor(timestamp + (timeframe * multiplier));
-        return expiry;
-    }
-
-    // FETCH NEWS SENTIMENT
-    let attempts = 0;
-    const maxAttempts = API_KEYS.length;
-
-    // DETECT NULL METRICS
-    function detectNullMetrics(articles) {
-        return articles.some(a => a.sentimentScore === null || a.relevanceScore === null);
-    }
-    while (attempts < maxAttempts) {
-        const apiKey = getNextApiKey();
-        Debug.subgroup(`{ Attempt ${attempts + 1} }`);
-        Debug.log('apiKey:', apiKey);
-
-        // VALIDATE API KEY
-        if (!apiKey) {
-            Debug.open(' [ ERROR: Fetch News ]');
-            Debug.error('❌ No API key available');
-            Debug.end();
-            break;
-        }
-        const url = `${ALPHA_VANTAGE_BASE_URL}function=NEWS_SENTIMENT&sort=RELEVANCE&time_from=${timeFrom}&tickers=${encodeURIComponent(symbol)}&apikey=${apiKey}`;
-        Debug.log('url = ', url);
-        try {
-            const response = await fetch(url);
-            const data = await response.json();
-
-            // VERIFY RAW DATA
-            if (data?.Note || data?.['Error Message']) {
-                Debug.warn('⚠️ API error → rotating key');
-                markKeyAsFailed(apiKey);
-                attempts++;
-                Debug.end();
-                continue;
-            }
-            Debug.end();
-
-            // TRIM AND NORMALIZE RAW DATA
-            const feed = Array.isArray(data?.feed) ? data.feed : [];
-            const articles = feed.map(item => {
-                const publishedEpoch = item.time_published ? Math.floor(Date.parse(item.time_published.replace(/(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})/, '$1-$2-$3T$4:$5:$6Z')) / 1000) : 0;
-                const ts = Array.isArray(item.ticker_sentiment) ? item.ticker_sentiment : [];
-                const match = ts.find(t => t.ticker === symbol);
-
-                return {
-                    title: item.title || '',
-                    summary: item.summary || '',
-                    source: item.source || '',
-                    url: item.url || '',
-                    bannerImage: item.banner_image || '',
-                    sentimentLabel: item.overall_sentiment_label || '',
-                    sentimentScore: parseFloat(item.overall_sentiment_score) || null,
-                    timePublished: publishedEpoch || null,
-                    relevanceScore: match ? parseFloat(match.relevance_score) : null
-                };
+            // close all expanded cards
+            document.querySelectorAll('.news-card-summary').forEach(el => el.classList.remove('expanded'));
+            document.querySelectorAll('.news-card-footer').forEach(el => el.classList.remove('visible'));
+            // reset scroll position
+            const feedEl = document.getElementById('news-feed');
+            feedEl.scrollTop = 0;
+            // reset all filter
+            newsFilter = 'all';
+            document.querySelectorAll('.news-filter-btn').forEach(btn => {
+                btn.classList.toggle('active', btn.id === 'filter-all');
             });
-
-            Debug.subgroup('{ Normalization }');
-            Debug.log('feed length:', feed.length);
-
-            // CHECK NORMALIZED DATA FOR NULL METRICS
-            const hasNulls = detectNullMetrics(articles);
-            Debug.log('⚠️ Null metrics detected:', hasNulls);
-            if (hasNulls) {
-                Debug.warn('[WARNING] API fetch logic may need calibration: null sentiment/relevance values detected.');
-                alert(`⚠️ Data Warning \n\nSome news items are missing sentiment or relevance data. \nCalculations will continue, but results may be incomplete. \n\nThis indicates API response variability and/or parsing logic mis-calibration. \n\nClick OK to continue.`);
-            }
-
-            // CREATE META DATA AND UPDATE ACTIVE NEWS RANGE
-            const expiry = computeNewsExpiry(nowEpoch, fromEpoch, rangeUnit, rangeValue);
-            const rangeKey = `${rangeUnit}_${rangeValue}`;
-            activeNewsRange = rangeKey;
-            Debug.log(`Feed expiry: ${expiry}`);
-            Debug.log(`Range key: ${rangeKey}`);
-            Debug.log(`Active news range: ${activeNewsRange}`);
-            Debug.log(`Article count: ${articles.length}`);
-            Debug.end();
-            Debug.end();
-            // RETURN NORMALIZED DATA
-            return {
-                range: rangeKey,
-                expiry,
-                articles
-            };
-        } catch (err) {
-            const msg = String(err?.message || err).toLowerCase();
-            if (msg.includes('rate limit') || msg.includes('api call frequency')) {
-                Debug.log(`API key failed → ${apiKey}`);
-                markKeyAsFailed(apiKey);
-                attempts++;
-                Debug.end();
-                continue;
-            }
-            Debug.end();
-            throw err;
         }
-    }
-    Debug.open(' [ ERROR: Fetch News ]');
-    Debug.error('❌ All API keys exhausted');
-    Debug.end();
-    throw new Error('Fetch News: Unknown error.');
+    });
 }
-async function fetchAlphaVantageOverview(ticker) {
-    Debug.group('[ FETCH OVERVIEW ]');
-
-    Debug.subgroup('{ Input validation }');
-    Debug.log('Input:', ticker);
-    Debug.end();
-
-    // VALIDATE INPUT PARAMETER(S)
-    if (!ticker) {
-        Debug.error('Ticker symbol required');
-        Debug.end();
-        Debug.end();
-        throw new Error('Invalid ticker symbol');
-    }
-
-    // FETCH COMPANY OVERVIEW
-    const symbol = String(ticker).trim().toUpperCase();
-    let attempts = 0;
-    const maxAttempts = API_KEYS.length;
-    Debug.subgroup('{ Normalized input }');
-    Debug.log('ticker:', symbol);
-    Debug.log('maxAttempts:', maxAttempts);
-    Debug.end();
-
-    while (attempts < maxAttempts) {
-        const apiKey = getNextApiKey();
-        Debug.subgroup(`{ Attempt ${attempts + 1} }`);
-        Debug.log('apiKey:', apiKey);
-
-        // VALIDATE API KEY
-        if (!apiKey) {
-            Debug.open('[ ERROR: Fetch Overview ]');
-            Debug.error('API key missing');
-            Debug.end();
-            break;
-        }
-        const url = `${ALPHA_VANTAGE_BASE_URL}function=OVERVIEW&symbol=${encodeURIComponent(ticker)}&apikey=${apiKey}`;
-        Debug.log('url:', url);
-
-        try {
-            const response = await fetch(url);
-            const data = await response.json();
-            const apiError = data?.Note || data?.['Error Message'];
-
-            // VERIFY API RESPONSE
-            if (apiError) {
-                Debug.warn('API error:', apiError);
-
-                if (/api call frequency|rate limit|thank you/i.test(apiError)) {
-                    Debug.log('rate limit → rotating key');
-                    markKeyAsFailed(apiKey);
-                    attempts++;
-                    Debug.end();
-                    continue;
-                }
-                Debug.end();
-                throw new Error(apiError);
-            }
-
-            // VALIDATE RAW DATA
-            if (!data || typeof data !== 'object' || !data.Name) {
-                Debug.error('Malformed response');
-                Debug.end();
-                Debug.end();
-                throw new Error('Malformed response');
-            }
-            Debug.log('NORMALIZED');
-            Debug.end();
-            Debug.end();
-
-            // RETURN NORMALIZED TRIMMED DATA
-            return {
-                name: data.Name || '',
-                exchange: data.Exchange || '',
-                sector: data.Sector || '',
-                industry: data.Industry || '',
-                country: data.Country || '',
-                website: data.OfficialSite || '',
-                marketCap: Number(data.MarketCapitalization) || 0,
-                weekHigh: Number(data['52WeekHigh']) || 0,
-                weekLow: Number(data['52WeekLow']) || 0,
-                target: Number(data.AnalystTargetPrice) || 0,
-                ratings: {
-                    strongBuy: Number(data.AnalystRatingStrongBuy) || 0,
-                    buy: Number(data.AnalystRatingBuy) || 0,
-                    hold: Number(data.AnalystRatingHold) || 0,
-                    sell: Number(data.AnalystRatingSell) || 0,
-                    strongSell: Number(data.AnalystRatingStrongSell) || 0
-                },
-                description: data.Description || ''
-            };
-        } catch (err) {
-            const msg = String(err?.message || err).toLowerCase();
-            if (msg.includes('rate limit') || msg.includes('api call frequency')) {
-                Debug.log(`API key failed → ${apiKey}`);
-                markKeyAsFailed(apiKey);
-                attempts++;
-                Debug.end();
-                continue;
-            }
-            Debug.end();
-            throw err;
-        }
-    }
-    Debug.open('[ ERROR: Fetch Overview ]');
-    Debug.error('All API keys exhausted');
-    Debug.end();
-    throw new Error('Fetch Overview: Unknown error.');
+if (tckrSelEl) {
+    tckrSelEl.addEventListener('change', adjustWidth);
 }
-async function fetchAlphaVantageQuote(ticker) {
-    Debug.group('[ FETCH QUOTE ]');
-
-    Debug.subgroup('{ Input validation }');
-    Debug.log('Input:', ticker);
-    Debug.end();
-
-    // VALIDATE INPUT PARAMETER(S)
-    if (!ticker) {
-        Debug.open('[ ERROR: Fetch Quote ]');
-        Debug.error('Ticker symbol required.');
-        Debug.end();
-        Debug.end();
-        throw new Error('Invalid ticker symbol.');
-    }
-
-    // FETCH GLOBAL QUOTE
-    const symbol = String(ticker).trim().toUpperCase();
-    let attempts = 0;
-    const maxAttempts = API_KEYS.length;
-    Debug.subgroup('{ Normalized input }');
-    Debug.log('Ticker:', symbol);
-    Debug.log('Max attempts:', maxAttempts);
-    Debug.end();
-
-    while (attempts < maxAttempts) {
-        const apiKey = getNextApiKey();
-        Debug.subgroup(`{ Attempt ${attempts + 1} }`);
-        Debug.log('API Key:', apiKey);
-
-        // VALIDATE API KEY
-        if (!apiKey) {
-            Debug.open('[ ERROR: Fetch Quote ]');
-            Debug.error('API key: missing');
-            Debug.end();
-            break;
-        }
-        const url = `${ALPHA_VANTAGE_BASE_URL}function=GLOBAL_QUOTE&symbol=${encodeURIComponent(ticker)}&apikey=${apiKey}`;
-        Debug.log('url:', url);
-        try {
-            const response = await fetch(url);
-            const data = await response.json();
-            const apiError = data?.Note || data?.['Error Message'];
-
-            // VERIFY API RESPONSE
-            if (apiError) {
-                Debug.warn('API error:', apiError);
-                if (/api call frequency|rate limit|thank you/i.test(apiError)) {
-                    Debug.log('rate limit → rotating key');
-                    markKeyAsFailed(apiKey);
-                    attempts++;
-                    Debug.end();
-                    continue;
-                }
-                Debug.end();
-                throw new Error(apiError);
-            }
-            const raw = data?.['Global Quote'];
-
-            // VALIDATE RAW DATA
-            if (!raw) {
-                Debug.error('Malformed response');
-                Debug.end();
-                Debug.end();
-                throw new Error('Malformed response');
-            }
-
-            // TRIM RAW DATA
-            const rawSymbol = raw['01. symbol'];
-            const rawPrice = raw['05. price'];
-            const rawChange = raw['10. change percent'];
-            Debug.subgroup('{ Raw data }');
-            Debug.log(`Ticker symbol: ${rawSymbol}`);
-            Debug.log(`Market price: ${rawPrice}`);
-            Debug.log(`Percentage change: ${rawChange}`);
-            Debug.end();
-
-            // SYMBOL VERIFICATION
-            if (!rawSymbol || rawSymbol.toUpperCase() !== symbol) {
-                Debug.error('Ticker symbol verification: failed');
-                Debug.log(`${rawSymbol} ≠ ${symbol}`);
-                Debug.end();
-                Debug.end();
-                throw new Error(`Ticker symbol from raw data does not match user input. ${rawSymbol.toUpperCase()} != ${symbol}`);
-            }
-
-            // NORMALIZE RAW DATA
-            const price = Number(rawPrice) || 0;
-            const change = Number(String(rawChange || '').replace('%', '')) || 0;
-            Debug.subgroup('{ Normalization }');
-            Debug.log(`Market price: ${price}`);
-            Debug.log(`Percentage change: ${change}`);
-            Debug.end();
-
-            Debug.log('NORMALIZED');
-            Debug.end();
-            Debug.end();
-            return {
-                price,
-                change
-            };
-        } catch (err) {
-            const msg = String(err?.message || err).toLowerCase();
-            if (msg.includes('rate limit') || msg.includes('api call frequency')) {
-                Debug.log(`API key failed → ${apiKey}`);
-                markKeyAsFailed(apiKey);
-                attempts++;
-                Debug.end();
-                continue;
-            }
-            Debug.end();
-            throw err;
-        }
-    }
-    Debug.open('[ ERROR: Fetch Quote ]');
-    Debug.error('All API keys exhausted');
-    Debug.end();
-    throw new Error('Fetch Quote: Unknown error.');
+if (pwdEl) {
+    pwdEl.addEventListener("keydown", function (e) {
+        if (e.key === "Enter") checkPwd();
+    });
 }
-*/
-
-

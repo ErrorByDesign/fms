@@ -1,0 +1,809 @@
+{
+    "fms-settings": {
+        "PUBLIC": {
+            "DEFAULT": {
+                "BLOCKAGE_DISCOUNT": 0.05,
+                "BROKERAGE_FEE": 0.01,
+                "BROKERAGE_FEE_SELL": 0.01,
+                "SELL_MIN": 0.4,
+                "SELL_MAX": 0.6
+            },
+            "MODIFIED": {
+                "BLOCKAGE_DISCOUNT": 0.06,
+                "BROKERAGE_FEE": 0.01,
+                "BROKERAGE_FEE_SELL": 0.01,
+                "SELL_MIN": 0.4,
+                "SELL_MAX": 0.5
+            }
+        },
+        "INSTITUTIONAL": {
+            "DEFAULT": {
+                "BLOCKAGE_DISCOUNT": 0.025,
+                "BROKERAGE_FEE": 0.01,
+                "BROKERAGE_FEE_SELL": 0.01,
+                "SELL_MIN": 0.3,
+                "SELL_MAX": 0.5
+            },
+            "MODIFIED": {
+                "BLOCKAGE_DISCOUNT": 0.025,
+                "BROKERAGE_FEE": null,
+                "BROKERAGE_FEE_SELL": 0.015,
+                "SELL_MIN": 0.3,
+                "SELL_MAX": null
+            }
+        },
+        "BONDS": {
+            "DEFAULT": {
+                "BLOCKAGE_DISCOUNT": 0.125,
+                "BROKERAGE_FEE": 0,
+                "BROKERAGE_FEE_SELL": 0,
+                "SELL_MIN": 0.5,
+                "SELL_MAX": 0.7
+            },
+            "MODIFIED": {
+                "BLOCKAGE_DISCOUNT": 0.15,
+                "BROKERAGE_FEE": 0,
+                "BROKERAGE_FEE_SELL": 0.01,
+                "SELL_MIN": 0.6,
+                "SELL_MAX": 0.8
+            }
+        },
+        "PRIVATE": {
+            "DEFAULT": {
+                "BLOCKAGE_DISCOUNT": 0.04,
+                "BROKERAGE_FEE": 0,
+                "BROKERAGE_FEE_SELL": 0.01,
+                "SELL_MIN": 0.4,
+                "SELL_MAX": 0.8
+            },
+            "MODIFIED": {
+                "BLOCKAGE_DISCOUNT": null,
+                "BROKERAGE_FEE": null,
+                "BROKERAGE_FEE_SELL": null,
+                "SELL_MIN": null,
+                "SELL_MAX": null
+            }
+        },
+        "IPO": {
+            "DEFAULT": {
+                "BLOCKAGE_DISCOUNT": 0.175,
+                "BROKERAGE_FEE": 0,
+                "BROKERAGE_FEE_SELL": 0.01,
+                "SELL_MIN": 0.6,
+                "SELL_MAX": 0.8
+            },
+            "MODIFIED": {
+                "BLOCKAGE_DISCOUNT": 0.225,
+                "BROKERAGE_FEE": 0,
+                "BROKERAGE_FEE_SELL": null,
+                "SELL_MIN": 0.75,
+                "SELL_MAX": 1
+            }
+        }
+    },
+    "fms-dev-mode": true,
+    "fms-portfolio": {
+        "NVO": {
+            "stockType": "PUBLIC",
+            "default": true,
+            "price": 11.2,
+            "COMPANY": {
+                "name": "Novo Nordisk A/S",
+                "ticker": "NVO",
+                "exchange": "NYSE",
+                "sector": "Healthcare",
+                "industry": "Drug Manufacturers - General",
+                "country": "Denmark",
+                "year": "1923",
+                "website": "https://www.novonordisk.com",
+                "description": "Novo Nordisk A/S, together with its subsidiaries, engages in the research and development, manufacture, and distribution of pharmaceutical products.\n\nIt operates through two segments, Obesity and Diabetes Care, and Rare Disease.\n\nThe Obesity and Diabetes care segment provides products for diabetes, obesity, cardiovascular, and other emerging therapy areas.\n\nThe Rare Disease segment offers products in the areas of rare blood disorders, rare endocrine disorders, and hormone replacement therapy.\n\nThe company also provides NovoPen 6 and NovoPen Echo Plus, smart insulin pens; Dose Check, an insulin dose guidance application; and growth hormone pens and injection needles.\n\nIt operates in Europe, Canada, the United States, Japan, Korea, Oceania, Southeast Asia, Mainland China, Hong Kong and Taiwan, Latin America, the Middle East, and Africa.\n\nNovo Nordisk A/S was founded in 1923 and is headquartered in Bagsvaerd, Denmark.",
+                "facts": []
+            },
+            "FINANCIALS": {
+                "change": 0.0728749,
+                "marketCap": 182689136640,
+                "weekLow": 35.12,
+                "weekHigh": 81.44,
+                "yearTarget": 46.606655
+            },
+            "FUNDING": {
+                "fundingToDate": null,
+                "latestAmountRaised": null,
+                "latestFundingDate": null,
+                "latestShareClass": "",
+                "leadInvestor": "",
+                "totalFundingRounds": null
+            },
+            "NEWS": [
+                {
+                    "title": "Novo Nordisk Rare Disease Wins Add Context To Undervalued Share Price",
+                    "summary": "Novo Nordisk (CPSE:NOVO B) has received U.S. FDA Fast Track Designation for coramitug (PRX004) in ATTR amyloidosis with cardiomyopathy. The company also reported successful pivotal Phase 3 HIBISCUS trial results for etavopivat in sickle cell disease. These updates expand Novo Nordisk’s late stage pipeline into rare disease areas beyond its established GLP-1 franchise. Novo Nordisk’s recent news arrives with the shares at DKK263.5 and a mixed return profile, including a 15.3% gain over the...",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-rare-disease-wins-010939348.html",
+                    "publishDate": "2026-04-28T01:09:39Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Is This Deal a Game Changer for Novo Nordisk?",
+                    "summary": "The drugmaker is getting on the AI train in ways that could move the needle down the road.",
+                    "source": "Motley Fool",
+                    "category": "finance",
+                    "url": "https://www.fool.com/investing/2026/04/27/is-this-deal-a-game-changer-for-novo-nordisk/",
+                    "publishDate": "2026-04-28T00:50:00Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Lilly’s Foundayo Is Big, But This Hidden Stock Catalyst Could Be Bigger",
+                    "summary": "Eli Lilly’s Foundayo launch is drawing attention, but analysts say eloralintide and combination therapies could drive the next leg of growth.",
+                    "source": "Barrons.com",
+                    "category": "finance",
+                    "url": "https://www.barrons.com/articles/eli-lilly-stock-foundayo-eloralintide-obesity-drug-catalyst-cf5310ba?siteid=yhoof2&yptr=yahoo",
+                    "publishDate": "2026-04-27T19:21:00Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Bank of America resets Hims and Hers stock price target",
+                    "summary": "Hims & Hers has been one of the most closely watched names in digital health this month. Between the FDA's peptide announcement, a Novo Nordisk settlement, and a flood of analyst revisions, the stock has barely had a moment to breathe. Now Bank of America has weighed in again. And the reason ...",
+                    "source": "TheStreet",
+                    "category": "finance",
+                    "url": "https://www.thestreet.com/investing/stocks/bank-of-america-resets-hims-and-hers-stock-price-target",
+                    "publishDate": "2026-04-27T17:47:00Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Novo Nordisk vs. Pfizer: Which Healthcare Giant Is the Better Bet?",
+                    "summary": "NVO and PFE clash as the obesity market heats up, with shifting strategies, pipeline bets and growth pressures reshaping their investment outlook.",
+                    "source": "Zacks",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-vs-pfizer-healthcare-141900260.html",
+                    "publishDate": "2026-04-27T14:19:00Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Should You Buy the Dip in Eli Lilly Stock Today?",
+                    "summary": "Eli Lilly shares sink as data shows Foundayo trailing Novo’s oral Wegovy. But there’s reason to consider buying LLY shares on the dip today.",
+                    "source": "Barchart",
+                    "category": "finance",
+                    "url": "https://www.barchart.com/story/news/1537355/should-you-buy-the-dip-in-eli-lilly-stock-today",
+                    "publishDate": "2026-04-27T14:10:06Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "GLP-1 pill race heats up as Wegovy tablet holds strong against Lilly rival",
+                    "summary": "Novo Nordisk's (NYSE:NVO) Wegovy pill, the oral version of its blockbuster GLP-1 (glucagon-like peptide-1) weight-loss treatment, is tracking at roughly twice the prescription volumes of Eli Lilly's competing oral drug at the same stage of launch, according to Citi. The Danish drugmaker's...",
+                    "source": "Proactive",
+                    "category": "finance",
+                    "url": "https://www.proactiveinvestors.com/companies/news/1091225/glp-1-pill-race-heats-up-as-wegovy-tablet-holds-strong-against-lilly-rival-1091225.html",
+                    "publishDate": "2026-04-27T14:02:00Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Should You Buy, Sell or Hold Lilly Stock Before Q1 Earnings?",
+                    "summary": "Lilly heads into Q1 earnings with GLP-1 drugs driving growth. However, pricing pressure, rising costs, and softer Foundayo launch trends cloud the near-term outlook.",
+                    "source": "Zacks",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/buy-sell-hold-lilly-stock-123200368.html",
+                    "publishDate": "2026-04-27T12:32:00Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Alnylam Pharmaceuticals (ALNY) Advances Diabetes Drug Into Phase 2 Trial",
+                    "summary": "Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) is one of the 10 New Contenders for S&P 500 Index. On April 17, 2026, Alnylam Pharmaceuticals, Inc. (NASDAQ:ALNY) provided an update on its experimental drug, ALN-4324. Currently in its Phase 2 clinical trial, the company’s experimental RNAi therapeutic drug aims at treating type 2 diabetes. The trial involves a triple-blind, […]",
+                    "source": "Insider Monkey",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/sectors/healthcare/articles/alnylam-pharmaceuticals-alny-advances-diabetes-071041238.html",
+                    "publishDate": "2026-04-27T07:10:41Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Eli Lilly and Company’s (LLY) Foundayo Gets Prescribed 3,707 Times in the US in Second Week of Launch, Reuters Reports",
+                    "summary": "Eli Lilly and Company (NYSE:LLY) is one of the best low volatility stocks to invest in right now. On April 24, Reuters reported that, according to analysts citing IQVIA data, Eli Lilly and Company’s (NYSE:LLY) newly launched oral weight loss drug, branded as Foundayo, was prescribed 3,707 times in the United States in the second […]",
+                    "source": "Insider Monkey",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-company-lly-foundayo-052633449.html",
+                    "publishDate": "2026-04-27T05:26:33Z",
+                    "premium": false,
+                    "freemium": false
+                }
+            ],
+            "RATINGS": {
+                "analystCount": 12,
+                "recommendationKey": 6,
+                "recommendationMean": 2.35714,
+                "strongBuy": 0,
+                "buy": 6,
+                "hold": 5,
+                "sell": 2,
+                "strongSell": 0
+            }
+        },
+        "IPHA": {
+            "stockType": "PUBLIC",
+            "default": true,
+            "price": 10.4,
+            "COMPANY": {
+                "name": "Innate Pharma S.A.",
+                "ticker": "IPHA",
+                "exchange": "NasdaqGS",
+                "sector": "Healthcare",
+                "industry": "Biotechnology",
+                "country": "France",
+                "year": "1999",
+                "website": "https://www.innate-pharma.com",
+                "description": "Innate Pharma S.A. operates as a biotechnology company that develops immunotherapies for cancer patients in France and internationally.\n\nThe company's products include Lacutamab (IPH4102), an anti-KIR3DL2 antibody, which is in Phase II clinical trials for the treatment of cutaneous T-cell and peripheral T-cell lymphoma, as well as in Phase II clinical trials to treat refractory sézary syndrome; Monalizumab, an immune checkpoint inhibitor that is in Phase III clinical trial to treat advanced solid tumors comprising colorectal and lung cancer, as well as head and neck cancer; IPH5201, a blocking antibody that is in Phase II clinical trials targeting the CD39 immunosuppressive pathway; IPH5301, an anti-CD73 antibody targeting the immunosuppressive adenosine pathway to promote antitumor immunity; IPH6401, an BCMA-targeting NK cell engager; and IPH6101, a NKp46-based NK cell engager that targets CD123 proprietary multi-specific antibody format; and IPH62, an B7-H3-targeting NK cell engager.\n\nIts products in preclinical trials are IPH43, an anti-MICA/B ADC and IPH45, an antibody drug conjugates (ADC); and IPH67, an undisclosed, multi-specific ANKET.\n\nThe company has licensing and collaboration agreements with AstraZeneca, Novo Nordisk A/S, Sanofi, and Orega Biotech; and co-development and license agreement with MedImmune Limited.\n\nInnate Pharma S.A. was incorporated in 1999 and is based in Marseille, France.",
+                "facts": []
+            },
+            "FINANCIALS": {
+                "change": 1.449274,
+                "marketCap": 131360856,
+                "weekLow": 1.17,
+                "weekHigh": 2.63,
+                "yearTarget": 6
+            },
+            "FUNDING": {
+                "fundingToDate": null,
+                "latestAmountRaised": null,
+                "latestFundingDate": null,
+                "latestShareClass": "",
+                "leadInvestor": "",
+                "totalFundingRounds": null
+            },
+            "NEWS": [
+                {
+                    "title": "How Innate Pharma (ENXTPA:IPH) Story Is Shifting Around 2026 Catalysts And €8 Target",
+                    "summary": "Analysts are now discussing an updated €8 price target for Innate Pharma, while the fair value estimate sits at €6.10 with no change to the underlying model. This shift is being framed around what both bullish and bearish voices see in the 2026 catalyst cluster, including funding needs and how upcoming oncology readouts could influence sentiment. As you read on, you will see how these moving pieces fit together and what to watch as the story develops. Stay updated as the Fair Value for Innate...",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/innate-pharma-enxtpa-iph-story-060639086.html",
+                    "publishDate": "2026-03-27T06:06:39Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Innate Pharma SA (IPHA) Full Year 2025 Earnings Call Highlights: Strategic Advances and ...",
+                    "summary": "Innate Pharma SA (IPHA) progresses with key trials and partnerships while navigating financial hurdles and revenue drops.",
+                    "source": "GuruFocus.com",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/sectors/healthcare/articles/innate-pharma-sa-ipha-full-190056380.html",
+                    "publishDate": "2026-03-26T19:00:56Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Innate Pharma Q4 Earnings Call Highlights",
+                    "summary": "Innate Pharma (NASDAQ:IPHA) outlined progress across its prioritized oncology pipeline and reviewed full-year 2025 financial results, emphasizing a streamlined strategy centered on three clinical programs: lacutamab, IPH4502, and monalizumab. Management also highlighted an AstraZeneca-partnered prog",
+                    "source": "MarketBeat",
+                    "category": "finance",
+                    "url": "https://www.marketbeat.com/instant-alerts/innate-pharma-q4-earnings-call-highlights-2026-03-26/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                    "publishDate": "2026-03-26T15:08:16Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Innate Pharma Receives US FDA Clearance to Begin Phase 3 Trial of Potential Skin Cancer Therapy",
+                    "summary": "Innate Pharma (IPHA) said Monday that the US Food and Drug Administration completed a review of its",
+                    "source": "MT Newswires",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/news/innate-pharma-receives-us-fda-094558492.html",
+                    "publishDate": "2025-11-10T09:45:58Z",
+                    "premium": true,
+                    "freemium": false
+                },
+                {
+                    "title": "Innate Pharma (IPHA) Forms 'Hammer Chart Pattern': Time for Bottom Fishing?",
+                    "summary": "After losing some value lately, a hammer chart pattern has been formed for Innate Pharma (IPHA), indicating that the stock has found support. This, combined with an upward trend in earnings estimate revisions, could lead to a trend reversal for the stock in the near term.",
+                    "source": "Zacks",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/news/innate-pharma-ipha-forms-hammer-145502346.html",
+                    "publishDate": "2025-11-06T14:55:02Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "How the Narrative Around Innate Pharma Is Shifting After Recent Strategic Decisions",
+                    "summary": "Innate Pharma’s consensus analyst price target has recently jumped from €4.34 to €4.93. This marks a significant shift in expectations for the stock. This change comes amid a period of strategic transition, with analysts debating the company’s new priorities and ongoing risks. Readers interested in how analyst sentiment may keep evolving should continue following updates to stay ahead of future narrative shifts. What Wall Street Has Been Saying 🐂 Bullish Takeaways Several analysts highlight...",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/news/narrative-around-innate-pharma-shifting-122156489.html",
+                    "publishDate": "2025-09-20T12:21:56Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Target initiated, Nike upgraded: Wall Street's top analyst calls",
+                    "summary": "Target initiated, Nike upgraded: Wall Street's top analyst calls",
+                    "source": "The Fly",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/news/target-initiated-nike-upgraded-wall-133840821.html",
+                    "publishDate": "2025-09-18T13:38:40Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Innate Pharma SA (IPHA) (H1 2025) Earnings Call Highlights: Strategic Focus and Financial ...",
+                    "summary": "Innate Pharma SA (IPHA) reports strong cash position and progress in clinical assets, while navigating organizational restructuring and competitive pressures.",
+                    "source": "GuruFocus.com",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/news/innate-pharma-sa-ipha-h1-070054167.html",
+                    "publishDate": "2025-09-18T07:00:54Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "High Growth Tech Stocks In Europe For June 2025",
+                    "summary": "As of June 2025, the European market has been marked by a cautious sentiment due to geopolitical tensions in the Middle East and mixed economic signals, with key indices like the STOXX Europe 600 Index experiencing a decline. In this environment, high-growth tech stocks that demonstrate resilience and adaptability to shifting economic conditions can be particularly compelling for investors seeking opportunities within Europe's dynamic tech landscape.",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/news/high-growth-tech-stocks-europe-103813252.html",
+                    "publishDate": "2025-06-24T10:38:13Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Innate Pharma And 2 Other European Penny Stocks To Watch",
+                    "summary": "European markets have recently shown resilience, with the STOXX Europe 600 Index climbing 2.77% amid easing trade tensions between the U.S. and China, providing a positive backdrop for investors. In such a climate, penny stocks—though an older term—remain relevant as they often represent smaller or less-established companies that can offer substantial value when backed by solid financials. By identifying those with strong balance sheets and clear growth potential, investors may uncover...",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/news/innate-pharma-2-other-european-060507584.html",
+                    "publishDate": "2025-04-29T06:05:07Z",
+                    "premium": false,
+                    "freemium": false
+                }
+            ],
+            "RATINGS": {
+                "analystCount": 4,
+                "recommendationKey": "strong_buy",
+                "recommendationMean": 1.5,
+                "strongBuy": 0,
+                "buy": 3,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        },
+        "SPAX.PVT": {
+            "stockType": "PRIVATE",
+            "default": true,
+            "price": 62.56,
+            "COMPANY": {
+                "name": "SpaceX",
+                "ticker": "SPAX.PVT",
+                "exchange": "PVT",
+                "sector": "Space",
+                "industry": "Aerospace, Artificial Intelligence (AI), Hardware, Manufacturing, Satellite Communication, Space Travel",
+                "country": "US",
+                "year": "2002",
+                "website": "https://www.spacex.com",
+                "description": "SpaceX designs, manufactures and launches rockets and spacecraft.\n\nThe company has developed a fleet of reusable rockets including Falcon 9 which SpaceX claims is the first orbital class rocket capable of re-flight and Falcon Heavy, its super heavy lift rocket.\n\nSpaceX's mission is to create fully reusable launch vehicles capable of carrying humans to Mars and other destinations in the solar system.\n\nAdditionally, SpaceX has developed StarLink, a satellite internet service created with thousands of small satellites in low Earth orbit.",
+                "facts": [
+                    "Market positioning is not currently available for this company."
+                ]
+            },
+            "FINANCIALS": {
+                "change": 0.05,
+                "marketCap": 1475436347392,
+                "weekLow": 201.24,
+                "weekHigh": 621.56,
+                "yearTarget": null
+            },
+            "FUNDING": {
+                "fundingToDate": 8923307008,
+                "latestAmountRaised": 249999998976,
+                "latestFundingDate": 1770076800,
+                "latestShareClass": "Corporate Round",
+                "leadInvestor": "Draper Fisher Jurvetson",
+                "totalFundingRounds": 22
+            },
+            "NEWS": [
+                {
+                    "title": "SpaceX and OpenAI IPOs: 1 warning to not overlook",
+                    "summary": "Keep this in mind ahead of potential SpaceX and OpenAI IPOs this year.",
+                    "source": "Yahoo Finance",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/news/spacex-and-openai-ipos-1-warning-to-not-overlook-115551526.html",
+                    "publishDate": "2026-04-27T11:55:51Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Elon Musk Reportedly Used SpaceX As 'Piggy Bank' To Give Himself, Tesla A Leg Up",
+                    "summary": "Elon Musk borrowed $500 million from SpaceX at interest rates as low as 1%, used the rocket company to bail out a struggling solar venture, and most recently had SpaceX swallow his cash-burning AI lab, according to a New York Times investigation published Friday. The report lands six weeks before SpaceX is expected to hit the road with the largest IPO in history. What The NYT Documented Musk pulled three loans totaling $500 million from SpaceX between 2018 and 2020, at rates that ranged from und",
+                    "source": "Benzinga",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-reportedly-used-spacex-223106076.html",
+                    "publishDate": "2026-04-27T22:31:06Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "SpaceX Goes on $60 Billion AI Buying Spree",
+                    "summary": "SpaceX is buying another AI company, but does this mean it can catch up to Google, Anthropic, or OpenAI?",
+                    "source": "Motley Fool",
+                    "category": "finance",
+                    "url": "https://www.fool.com/investing/2026/04/27/spacex-goes-on-60-billion-ai-buying-spree/",
+                    "publishDate": "2026-04-27T21:30:01Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Space Force Taps SpaceX, Anduril, More For $3.2 Bil Interceptor Program",
+                    "summary": "Space Force awards $3.2 billion in contracts to 12 companies for space missile interceptors, including Anduril, SpaceX, Lockheed and more.",
+                    "source": "Investor's Business Daily",
+                    "category": "finance",
+                    "url": "https://www.investors.com/news/space-force-missile-interceptor-spacex-anduril-lockheed-martin-golden-dome-contracts-3-2-billion/?src=A00220&yptr=yahoo",
+                    "publishDate": "2026-04-27T20:21:58Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "SpaceX Just Showcased Its IPO Secret Weapon",
+                    "summary": "SpaceX is planning the largest IPO ever, which could value Elon Musk’s rocket company at up to $2 trillion.  A lot has been made of the company’s space-based Wi-Fi broadband product, Starlink, and the potential for data centers in space.  On Friday, SpaceX posted a video of the third-generation Starship.",
+                    "source": "Barrons.com",
+                    "category": "finance",
+                    "url": "https://www.barrons.com/articles/spacex-stock-ipo-starship-starlink-480e1c16?siteid=yhoof2&yptr=yahoo",
+                    "publishDate": "2026-04-27T20:18:00Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Investors Are Panicking About $25 Billion in Spending at Tesla, but the SpaceX IPO Could Mean It Doesn’t Even Matter",
+                    "summary": "Tesla's Q1 revenue beat and improving margins were overshadowed by a $25 billion 2026 capex plan, nearly triple last year's spending, that puts free cash flow negative for the rest of the year and explains why the stock fell even on a strong earnings print.",
+                    "source": "Barchart",
+                    "category": "finance",
+                    "url": "https://www.barchart.com/story/news/1542584/investors-are-panicking-about-25-billion-in-spending-at-tesla-but-the-spacex-ipo-could-mean-it-doesnt-even-matter",
+                    "publishDate": "2026-04-27T19:27:00Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "The $100 Million Man: What the ‘Richest Ever’ Fed Chair Nominee Kevin Warsh, With Investments in Elon Musk’s SpaceX, Means for Your Portfolio",
+                    "summary": "Trump's Fed Chair nominee is set to become the richest ever, with a net worth surpassing $100 million, and investments in some of the biggest names in tech and finance. Here's what that means for your portfolio.",
+                    "source": "Barchart",
+                    "category": "finance",
+                    "url": "https://www.barchart.com/story/news/1540194/the-100-million-man-what-the-richest-ever-fed-chair-nominee-kevin-warsh-with-investments-in-elon-musks-spacex-means-for-your-portfolio",
+                    "publishDate": "2026-04-27T16:46:52Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Will the SpaceX IPO Take Tema’s Space ETF (NASA) to the Moon?",
+                    "summary": "Space is the next frontier, but there’s also a lot of “space junk” masquerading as high-quality investment merchandise.",
+                    "source": "Barchart",
+                    "category": "finance",
+                    "url": "https://www.barchart.com/story/news/1538902/will-the-spacex-ipo-take-temas-space-etf-nasa-to-the-moon",
+                    "publishDate": "2026-04-27T15:37:38Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "How Nvidia Stock Could Be the Biggest Loser From the SpaceX IPO",
+                    "summary": "SpaceX is planning to build its own GPUs before its $1.75 trillion IPO. Here is what that could mean for Nvidia stock and AI chip investors watching closely.",
+                    "source": "Barchart",
+                    "category": "finance",
+                    "url": "https://www.barchart.com/story/news/1538073/how-nvidia-stock-could-be-the-biggest-loser-from-the-spacex-ipo",
+                    "publishDate": "2026-04-27T14:43:44Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Was Cathie Wood's Ark Invest Too Conservative With Its SpaceX Valuation?",
+                    "summary": "Ark Invest said SpaceX could be worth $2.5 trillion by 2030. Others estimate it's already worth $2 trillion.",
+                    "source": "Motley Fool",
+                    "category": "finance",
+                    "url": "https://www.fool.com/investing/2026/04/27/cathie-woods-ark-invest-too-conservative-spacex/",
+                    "publishDate": "2026-04-27T14:34:00Z",
+                    "premium": false,
+                    "freemium": false
+                }
+            ],
+            "RATINGS": {
+                "analystCount": null,
+                "recommendationKey": "",
+                "recommendationMean": null,
+                "strongBuy": null,
+                "buy": null,
+                "hold": null,
+                "sell": null,
+                "strongSell": null
+            }
+        },
+        "ROIV": {
+            "stockType": "PUBLIC",
+            "default": true,
+            "price": 2.85,
+            "COMPANY": {
+                "name": "Roivant Sciences Ltd.",
+                "ticker": "ROIV",
+                "exchange": "NasdaqGS",
+                "sector": "Healthcare",
+                "industry": "Biotechnology",
+                "country": "United Kingdom",
+                "year": "2014",
+                "website": "https://roivant.com",
+                "description": "Roivant Sciences Ltd., a clinical-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of medicines and technologies.\n\nIts clinical product candidates include IMVT-1402, a fully human monoclonal antibody that targets the neonatal fragment crystallizable receptor for the treatment of graves' disease, difficult-to-treat rheumatoid arthritis, sjögren's disease, myasthenia gravis, chronic inflammatory demyelinating polyneuropathy, and cutaneous lupus erythematosus indications; batoclimab, a fully human monoclonal antibody for the treatment of thyroid eye disease; and brepocitinib, a potent small molecule inhibitor of TYK2 and JAK1 in development for the treatment of dermatomyositis, non-infectious uveitis, cutaneous sarcoidosis, and other immune-mediated diseases.\n\nThe company's lead program consists of mosliciguat, an inhaled sGC activator for the treatment of pulmonary hypertension associated with interstitial lung disease and other cardiopulmonary diseases.\n\nIn addition, the company offers delivery platforms comprising lipid nanoparticle (LNP) platform and ligand conjugate platform.\n\nRoivant Sciences Ltd. was founded in 2014 and is based in London, United Kingdom.",
+                "facts": []
+            },
+            "FINANCIALS": {
+                "change": 1.60526,
+                "marketCap": 19932276736,
+                "weekLow": 10.58,
+                "weekHigh": 30.33,
+                "yearTarget": 35.66667
+            },
+            "FUNDING": {
+                "fundingToDate": null,
+                "latestAmountRaised": null,
+                "latestFundingDate": null,
+                "latestShareClass": "",
+                "leadInvestor": "",
+                "totalFundingRounds": null
+            },
+            "NEWS": [
+                {
+                    "title": "Roivant Sciences Ltd. (ROIV): One of the Best Stocks to Buy According to Joe Edelman",
+                    "summary": "We just covered the Billionaire Joe Edelman’s 10 Stock Picks with Huge Upside Potential and Roivant Sciences Ltd. (NASDAQ:ROIV) ranks 8th on this list. Roivant Sciences Ltd. (NASDAQ:ROIV) recently won a major legal battle. In March, Roivant’s subsidiaries, Genevant and Arbutus, reached a $2.25 billion global settlement with Moderna over a COVID-19 vaccine patent. This […]",
+                    "source": "Insider Monkey",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/roivant-sciences-ltd-roiv-one-211550074.html",
+                    "publishDate": "2026-04-27T21:15:50Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Kodiak Sciences Inc (KOD): What’s the Chance of Success for Zenkuda?",
+                    "summary": "Kodiak Sciences Inc (NASDAQ:KOD) is among the best 52-week high US stocks to buy. On March 27, H.C. Wainwright boosted its price target on Kodiak Sciences Inc (NASDAQ:KOD) to $58 from $38 and reiterated a Buy rating on the shares. The firm raised its price target after positive Phase 3 GLOW2 trial results for tarcocimab […]",
+                    "source": "Insider Monkey",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/sectors/healthcare/articles/kodiak-sciences-inc-kod-chance-094736443.html",
+                    "publishDate": "2026-04-23T09:47:36Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Arbutus Biopharma (ABUS) Wins FDA Fast Track for Imdusiran",
+                    "summary": "Arbutus Biopharma Corporation (NASDAQ:ABUS) is one of the 10 Best Penny Stocks to Buy and Hold Under $5. On April 14, 2026, Arbutus Biopharma Corporation (NASDAQ:ABUS) announced that the FDA granted Fast Track designation to imdusiran for the treatment of chronic hepatitis B, a step that could help accelerate its development and review timeline. On […]",
+                    "source": "Insider Monkey",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/sectors/healthcare/articles/arbutus-biopharma-abus-wins-fda-072955188.html",
+                    "publishDate": "2026-04-23T07:29:55Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Roivant Sciences (ROIV): A Clinical Trial Win Meets a Phase 3 Failure",
+                    "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the must-buy US stocks to buy right now. On April 2, Roivant Sciences Ltd. (NASDAQ:ROIV) said its subsidiary Priovant Therapeutics had started enrolling patients in a Phase 2b/3 trial of brepocitinib for lichen planopilaris (LPP). LPP is a severe inflammatory hair loss condition and brepocitinib treats that inflammation. […]",
+                    "source": "Insider Monkey",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/sectors/healthcare/articles/roivant-sciences-roiv-clinical-trial-182056855.html",
+                    "publishDate": "2026-04-15T18:20:56Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Montes Archimedes Acquisition (ROIV) Upgraded to Buy: Here's What You Should Know",
+                    "summary": "Montes Archimedes Acquisition (ROIV) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",
+                    "source": "Zacks",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/montes-archimedes-acquisition-roiv-upgraded-160002503.html",
+                    "publishDate": "2026-04-10T16:00:02Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "This Biotech ETF Is Still Well Below Its 2021 Peak. Analysts Say That Is Exactly Why to Buy It.",
+                    "summary": "The biotech industry has been a robust roller-coaster over the last half decade. The State Street SPDR S&P Biotech ETF (NYSE: XBI), which tracks the biotech portion of the S&P 500, started in January 2021 as high as $175, when it was the height of the pandemic. Since then, it has dropped as much as ... This Biotech ETF Is Still Well Below Its 2021 Peak. Analysts Say That Is Exactly Why to Buy It.",
+                    "source": "24/7 Wall St.",
+                    "category": "finance",
+                    "url": "https://247wallst.com/investing/2026/04/03/this-biotech-etf-is-still-well-below-its-2021-peak-analysts-say-that-is-exactly-why-to-buy-it/",
+                    "publishDate": "2026-04-03T14:17:41Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Should Brepocitinib’s New Trials and Batoclimab’s Setback Require Action From Roivant Sciences (ROIV) Investors?",
+                    "summary": "Roivant Sciences recently reported past topline Phase 3 results showing that Immunovant’s batoclimab did not meet the primary endpoint in thyroid eye disease, while also announcing that Priovant has begun a new seamless Phase 2b/3 trial of brepocitinib in lichen planopilaris, alongside ongoing late-stage programs and an FDA Priority Review for dermatomyositis. This mix of pipeline expansion into an underserved inflammatory scalp disorder with no approved therapies, coupled with regulatory...",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/sectors/healthcare/articles/brepocitinib-trials-batoclimab-setback-require-111203133.html",
+                    "publishDate": "2026-04-03T11:12:03Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Immunovant Batoclimab Flops in Phase 3 TED as Roivant Expands Brepocitinib Into LPP",
+                    "summary": "Roivant Sciences and Priovant Therapeutics executives outlined an expansion of the brepocitinib development program into lichen planopilaris (LPP) and discussed newly released Phase 3 results for batoclimab in thyroid eye disease (TED), which failed to meet its primary endpoint. Brepocitinib expand",
+                    "source": "MarketBeat",
+                    "category": "finance",
+                    "url": "https://www.marketbeat.com/instant-alerts/immunovant-batoclimab-flops-in-phase-3-ted-as-roivant-expands-brepocitinib-into-lpp-2026-04-02/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                    "publishDate": "2026-04-02T17:03:39Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Roivant Sciences Adds Brepocitinib LPP Trial as Batoclimab Misses Phase III TED Endpoint",
+                    "summary": "Roivant Sciences (NASDAQ:ROIV) outlined plans to expand development of its JAK1/TYK2 inhibitor brepocitinib into lichen planopilaris (LPP) and provided an update on a Phase III thyroid eye disease (TED) trial for batoclimab during a conference call hosted by the company. Brepocitinib expands into l",
+                    "source": "MarketBeat",
+                    "category": "finance",
+                    "url": "https://www.marketbeat.com/instant-alerts/roivant-sciences-adds-brepocitinib-lpp-trial-as-batoclimab-misses-phase-iii-ted-endpoint-2026-04-02/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                    "publishDate": "2026-04-02T14:07:33Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Bernstein Initiates Coverage of Roivant Sciences Ltd. (ROIV) with an Outperform Rating",
+                    "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 12 Best UK Stocks to Buy According to Hedge Funds. On March 19, 2026, Bernstein initiated coverage of Roivant Sciences Ltd. (NASDAQ:ROIV) with an Outperform rating and a $35 price target, citing potential upside from upcoming clinical readouts in pulmonary hypertension associated with interstitial lung disease and […]",
+                    "source": "Insider Monkey",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/bernstein-initiates-coverage-roivant-sciences-170056033.html",
+                    "publishDate": "2026-03-25T17:00:56Z",
+                    "premium": false,
+                    "freemium": false
+                }
+            ],
+            "RATINGS": {
+                "analystCount": 12,
+                "recommendationKey": "strong_buy",
+                "recommendationMean": 1.30769,
+                "strongBuy": 2,
+                "buy": 9,
+                "hold": 1,
+                "sell": 0,
+                "strongSell": 0
+            }
+        },
+        "SSRM": {
+            "stockType": "PUBLIC",
+            "default": true,
+            "price": 30,
+            "COMPANY": {
+                "name": "SSR Mining Inc.",
+                "ticker": "SSRM",
+                "exchange": "NasdaqGS",
+                "sector": "Basic Materials",
+                "industry": "Gold",
+                "country": "United States",
+                "year": "1946",
+                "website": "https://www.ssrmining.com",
+                "description": "SSR Mining Inc., together with its subsidiaries, engages in the acquisition, exploration, and development of precious metal resource properties in the United States, Türkiye, Canada, and Argentina.\n\nThe company explores for gold doré, copper, silver, lead, and zinc deposits.\n\nIt holds interests in the Çöpler located in Erzincan province, Turkey; the Marigold situated in Nevada, the United States; the Seabee located in Saskatchewan, Canada; and the Puna situated in Jujuy province, Argentina.\n\nThe company was formerly known as Silver Standard Resources Inc. and changed its name to SSR Mining Inc. in August 2017.\n\nSSR Mining Inc. was incorporated in 1946 and is based in Denver, Colorado.",
+                "facts": []
+            },
+            "FINANCIALS": {
+                "change": 0.654667,
+                "marketCap": 6297062912,
+                "weekLow": 9.88,
+                "weekHigh": 36.52,
+                "yearTarget": 44.9
+            },
+            "FUNDING": {
+                "fundingToDate": null,
+                "latestAmountRaised": null,
+                "latestFundingDate": null,
+                "latestShareClass": "",
+                "leadInvestor": "",
+                "totalFundingRounds": null
+            },
+            "NEWS": [
+                {
+                    "title": "SSR Mining’s Copler Sale Leaves US$1.5b Cash Question For Investors",
+                    "summary": "SSR Mining has agreed to sell its 80% stake in the Copler mine and related properties in Türkiye to Cengiz Holding. The transaction is valued at US$1.5b, marking the disposal of a major producing asset from the company’s portfolio. For investors following TSX:SSRM, this move comes after a period of strong share price performance, with the stock at CA$41.73 and up 41.1% year to date and 193.5% over the past year. Returns of 118.3% over three years and 123.7% over five years indicate that SSR...",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-copler-sale-leaves-120423586.html",
+                    "publishDate": "2026-04-26T12:04:23Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Scotiabank Raises its Price Target on SSR Mining (SSRM) to C$55 from C$50",
+                    "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the 10 Best Gold Stocks to Buy for the Long Term. On April 21, 2026, Scotiabank analyst Ovais Habib raised the price target on SSR Mining Inc. (NASDAQ:SSRM) to C$55 from C$50 previously and maintained an Outperform rating on the shares. On March 25, 2026, SSR Mining announced […]",
+                    "source": "Insider Monkey",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-raises-price-target-ssr-183207895.html",
+                    "publishDate": "2026-04-24T18:32:07Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Pan American Silver vs. SSR Mining: Which Mining Stock Wins Now?",
+                    "summary": "PAAS vs. SSRM: With soaring silver and gold prices, which miner's production growth, acquisitions and cash flow strength make it the better bet now?",
+                    "source": "Zacks",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-vs-ssr-144200121.html",
+                    "publishDate": "2026-04-21T14:42:00Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "RBC Says Q1 Seasonally Weak for Gold Equities",
+                    "summary": "RBC Capital Markets said Wednesday that the first quarter represents a seasonally weak period for op",
+                    "source": "MT Newswires",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/commodities/articles/rbc-says-q1-seasonally-weak-145856337.html",
+                    "publishDate": "2026-04-15T14:58:56Z",
+                    "premium": true,
+                    "freemium": false
+                },
+                {
+                    "title": "SSR Mining (SSRM) to Enhance Liquidity Through Strategic Sale",
+                    "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the 8 best mid-cap growth stocks to invest in. On March 25, SSR Mining Inc. (NASDAQ:SSRM) signed a definitive stock purchase agreement with Cengiz Holding A.S., selling its 80% interest in the Copler mine, along with its associated assets in Turkiye, for $1.5 billion in cash. This deal […]",
+                    "source": "Insider Monkey",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-enhance-liquidity-144323049.html",
+                    "publishDate": "2026-04-09T14:43:23Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "TSX Stocks Including Almonty Industries That May Be Trading Below Estimated Value",
+                    "summary": "As the Canadian TSX index shows signs of recovery following recent market turbulence, investors are cautiously optimistic about potential de-escalation in oil prices, which could stabilize economic conditions. In this environment, identifying stocks that may be trading below their estimated value becomes crucial for investors seeking opportunities amidst uncertainty.",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-stocks-including-almonty-industries-123759541.html",
+                    "publishDate": "2026-04-09T12:37:59Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Assessing SSR Mining (TSX:SSRM) Valuation After A Powerful Multi‑Period Share Price Rally",
+                    "summary": "Why SSR Mining Has Caught Investor Attention SSR Mining (TSX:SSRM) has moved onto more investor watchlists after recent share price gains, with the stock showing strong total return figures over the past year and across longer multi year periods. See our latest analysis for SSR Mining. Recent share price momentum has been strong, with a 19.8% 7 day share price return and a 47.6% 90 day share price return, while the 1 year total shareholder return of 240.1% points to sustained strength rather...",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-ssr-mining-tsx-ssrm-042032115.html",
+                    "publishDate": "2026-04-05T04:20:32Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "SSR Mining Refocuses Portfolio With Turkish Exit And 10% Share Buyback",
+                    "summary": "SSR Mining (TSX:SSRM) has agreed to sell its 80% stake in a Turkish gold mine, reducing its exposure to that operation. The company also received approval for a substantial share buyback program, allowing it to repurchase a portion of its outstanding shares. For a producer like SSR Mining, assets in different regions can carry very different operating and political risks, so shifting away from a Turkish gold mine may change the company’s overall risk profile. The move comes as gold and...",
+                    "source": "Simply Wall St.",
+                    "category": "finance",
+                    "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-refocuses-portfolio-turkish-021136685.html",
+                    "publishDate": "2026-04-05T02:11:36Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Here's Why SSR Mining Shares Soared This Week",
+                    "summary": "The stock's rise comes down to a combination of favorable events this week.",
+                    "source": "Motley Fool",
+                    "category": "finance",
+                    "url": "https://www.fool.com/investing/2026/04/03/heres-why-ssr-mining-shares-soared-this-week/",
+                    "publishDate": "2026-04-03T12:24:47Z",
+                    "premium": false,
+                    "freemium": false
+                },
+                {
+                    "title": "Here's Why Shares in SSR Mining Popped Higher Today",
+                    "summary": "A higher gold price and some positive recent corporate developments drove the stock today,",
+                    "source": "Motley Fool",
+                    "category": "finance",
+                    "url": "https://www.fool.com/investing/2026/03/31/heres-why-shares-in-ssr-mining-popped-higher-today/",
+                    "publishDate": "2026-03-31T17:21:50Z",
+                    "premium": false,
+                    "freemium": false
+                }
+            ],
+            "RATINGS": {
+                "analystCount": 5,
+                "recommendationKey": "strong_buy",
+                "recommendationMean": 1.5,
+                "strongBuy": 2,
+                "buy": 3,
+                "hold": 4,
+                "sell": 0,
+                "strongSell": 1
+            }
+        }
+    }
+}
