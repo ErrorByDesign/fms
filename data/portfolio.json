@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.495,
+        "price": 42.22,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.472817,
-            "marketCap": 188431417344,
+            "change": 4.7902713,
+            "marketCap": 187212021760,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.69501
+            "yearTarget": 46.678223
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -42,12 +42,32 @@
                 "freemium": false
             },
             {
+                "title": "Eli Lilly Rises on FDA Compounding Proposal",
+                "summary": "Plan could limit cheaper copies of GLP-1 weight-loss drugs.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-rises-fda-compounding-190459619.html",
+                "publishDate": "2026-04-30T19:04:59Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Avalyn Pharma Surges 44% After $300 Million Upsized IPO",
                 "summary": "Avalyn opened at $26, above its $18 IPO price, giving the rare lung disease biotech a market value of about $1.1 billion.",
                 "source": "GuruFocus.com",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/avalyn-pharma-surges-44-300-190448071.html",
                 "publishDate": "2026-04-30T19:04:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly, Novo Stocks Jump as FDA Moves to Limit Compounded GLP-1 Drugs",
+                "summary": "FDA Shake-Up Sends Eli Lilly, Novo Nordisk Stocks Higher on Supply Shift",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-novo-stocks-jump-190358412.html",
+                "publishDate": "2026-04-30T19:03:58Z",
                 "premium": false,
                 "freemium": false
             },
@@ -93,11 +113,11 @@
             },
             {
                 "title": "Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket",
-                "summary": "Shares of  Eli Lilly  rose sharply after the drugmaker delivered a beat-and-raise quarter driven partly by demand for its GLP-1 drugs.  First-quarter adjusted earnings of $8.55 a share handily beat the $6.97 Wall Street had forecast.",
+                "summary": "Shares of  Eli Lilly  rose sharply after the drugmaker delivered a beat-and-raise quarter driven partly by demand for its GLP-1 drugs.  First-quarter adjusted earnings of $8.55 a share handily beat the $6.97 Wall Street had forecast.  The pharma giant hiked its full-year adjusted earnings guidance to a range of $35.50 to $37 a share, from $33.50 to $35 previously.",
                 "source": "Barrons.com",
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/eli-lilly-earnings-stock-price-zepbound-mounjaro-19a9324d?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-30T15:13:00Z",
+                "publishDate": "2026-04-30T20:12:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -109,26 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150639342.html",
                 "publishDate": "2026-04-30T15:06:39Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Shares Jump as Mounjaro, Zepbound Fuel Massive Growth",
-                "summary": "Surging consumer demand for blockbuster weight-loss drugs helped offset their declining prices.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/eli-lilly-sales-profits-surge-on-weight-loss-drugs-5eef007e",
-                "publishDate": "2026-04-30T12:08:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "What's the Next Big Thing After GLP-1 Drugs? CRISPR Therapeutics May Have the Answer.",
-                "summary": "The biotech's candidate may treat a great number of illnesses that have one thing in common.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/30/whats-the-next-big-thing-after-glp-1-drugs-crispr/",
-                "publishDate": "2026-04-30T09:30:00Z",
-                "premium": false,
                 "freemium": false
             }
         ],
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.433,
+        "price": 1.44,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.825506,
-            "marketCap": 134457216,
+            "change": -3.3557017,
+            "marketCap": 135114032,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Boaz Weinstein Scores Victory in Fight Over Fund With SpaceX Stake",
+                "summary": "Activist rabble-rouser  Boaz Weinstein  has finally gotten his big British victory.  The American hedge-fund manager won a key shareholder vote Thursday to replace the board of a U.K. investment trust prized for its sizable stake in SpaceX.  The result puts Weinstein\u2019s firm, Saba Capital Management, in line to take over as manager of Edinburgh Worldwide Investment Trust, a nearly $1.2 billion fund with a roughly $240 million stake in  Elon Musk\u2019s  rocket company.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/boaz-weinstein-scores-victory-in-fight-over-fund-with-spacex-stake-1c414fe1?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-30T17:29:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "3 Key Takeaways From SpaceX's Potential $60 Billion Deal With Cursor Leading Up to Its IPO",
                 "summary": "SpaceX is trying to change the narrative about what type of company it is.",
                 "source": "Motley Fool",
@@ -353,7 +363,7 @@
             },
             {
                 "title": "Blue Owl sold about half its SpaceX holding at $1.25 trillion valuation, co-CEO says",
-                "summary": "Blue Owl sold about half its investment in SpaceX at a $1.25 \u200ctrillion valuation, the alternative asset manager's co-CEO Marc Lipschultz said \u200con Thursday.  \"We've sold about half of it at a $1.25 trillion valuation, still holding about half of it.\"  SpaceX is expected to go public later this year at a possible valuation of $1.75 trillion, raising about $75 \u200cbillion in what would be \u2060the largest public listing on record.",
+                "summary": "Blue Owl sold about half its investment in SpaceX at a $1.25 trillion valuation, \u200cthe alternative asset manager's co-CEO Marc Lipschultz said on Thursday.  \"Specifically at SpaceX ... \u200cwe made about 10 (times) our money on that investment,\" Lipschultz said on a conference call with \u200banalysts.  \"We've sold about half of it at a $1.25 trillion valuation, still holding about half of it.\"",
                 "source": "Reuters",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-sold-half-spacex-154451499.html",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-04-30T10:01:04Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Jim Cramer on Intuitive Machines: \u201cThe Kind of Speculative Stock That I\u2019m Going to Endorse\u201d",
-                "summary": "Intuitive Machines, Inc. (NASDAQ:LUNR) was among the stocks Jim Cramer covered on Mad Money as he discussed the wave of IPOs being the market\u2019s possible biggest threat. When a caller queried about the stock during the lightning round, Cramer said: Okay, this is the kind of speculative stock that I\u2019m going to endorse. I like [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-intuitive-machines-kind-083312643.html",
-                "publishDate": "2026-04-30T08:33:12Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.545,
+        "price": 28.53,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.7245624,
-            "marketCap": 20429688832,
+            "change": 3.6700587,
+            "marketCap": 20418953216,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.75,
+        "price": 28.81,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.0589278,
-            "marketCap": 5887497728,
+            "change": 2.2719183,
+            "marketCap": 5899784704,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
