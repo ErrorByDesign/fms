@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.755,
+        "price": 42.625,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.1181436,
-            "marketCap": 189584310272,
+            "change": 5.7954803,
+            "marketCap": 189007872000,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.687897
+            "yearTarget": 46.70154
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/qualcomm-stock-surges-on-data-center-demand-eli-lilly-lifts-outlook-150646566.html",
                 "publishDate": "2026-04-30T15:06:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Avalyn Pharma Surges 44% After $300 Million Upsized IPO",
+                "summary": "Avalyn opened at $26, above its $18 IPO price, giving the rare lung disease biotech a market value of about $1.1 billion.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/avalyn-pharma-surges-44-300-190448071.html",
+                "publishDate": "2026-04-30T19:04:48Z",
                 "premium": false,
                 "freemium": false
             },
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/04/30/whats-the-next-big-thing-after-glp-1-drugs-crispr/",
                 "publishDate": "2026-04-30T09:30:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Jim Cramer Believes \u201cNovo Nordisk Is Going to Lose a Lot of Share on the Pill to Eli Lilly\u201d",
-                "summary": "Novo Nordisk A/S (NYSE:NVO) was among the stocks Jim Cramer covered on Mad Money as he discussed the wave of IPOs being the market\u2019s possible biggest threat. A caller asked if they should hold the stock or not, and in response, Cramer said: Oh, Novo Nordisk, no, look, Eli Lilly\u2019s struggling right here. I think, [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-novo-nordisk-080617252.html",
-                "publishDate": "2026-04-30T08:06:17Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.505,
+        "price": 28.305,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5798607,
-            "marketCap": 20401059840,
+            "change": 2.8524704,
+            "marketCap": 20257921024,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.76,
+        "price": 28.84,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.0944273,
-            "marketCap": 5889545728,
+            "change": 2.378417,
+            "marketCap": 5905928192,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
