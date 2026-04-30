@@ -20,7 +20,7 @@
             "marketCap": 178654003200,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.41079
+            "yearTarget": 46.417458
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "The SpaceX IPO Could Crush This Favorite Buffett Stock",
+                "summary": "Starlink could challenge other satellite-based businesses like SiriusXM.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/29/the-spacex-ipo-could-crush-this-favorite-buffett-s/",
+                "publishDate": "2026-04-30T02:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Record Q1 M&A masks more selective market",
                 "summary": "Global dealmaking hit a record level in the first quarter. But strip out one big, unusual deal and the picture is less rosy. There was $1.6 trillion of M&A transaction volume, up nearly 51% from the same period a year earlier, according to PitchBook\u2019s Q1 2026 Global M&A Report. One deal did a lot of heavy lifting. SpaceX\u2018s $250 billion acquisition of xAI is the largest M&A transaction on record, alone accounting for more than 15% of global deal value in the quarter. The merger of xAI and SpaceX",
                 "source": "Pitchbook",
@@ -398,16 +408,6 @@
                 "category": "news",
                 "url": "https://www.yahoo.com/news/articles/billionaire-elon-musk-says-life-173103191.html",
                 "publishDate": "2026-04-29T17:31:03Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "4 Reasons Why SpaceX\u2019s First Trading Day Might Be Hard to Sit Out",
-                "summary": "The big SpaceX mega IPO is getting closer, and with a $1.75 trillion expected valuation (plus or minus a couple hundred billion or so), there\u2019s sure to be a flood of investors who will need to sell something in order to load up on opening day. Undoubtedly, some of the hardcore Elon Musk fans might ... 4 Reasons Why SpaceX\u2019s First Trading Day Might Be Hard to Sit Out",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/04/29/4-reasons-why-spacexs-first-trading-day-might-be-hard-to-sit-out/",
-                "publishDate": "2026-04-29T12:50:53Z",
                 "premium": false,
                 "freemium": false
             }
