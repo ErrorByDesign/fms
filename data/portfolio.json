@@ -20,7 +20,7 @@
             "marketCap": 187212021760,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.67441
+            "yearTarget": 46.6783
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/qualcomm-stock-surges-on-data-center-demand-eli-lilly-lifts-outlook-150646566.html",
                 "publishDate": "2026-04-30T15:06:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "FDA proposes curbs on mass copycats of Novo, Lilly's weight-loss drugs",
+                "summary": "The Food and Drug Administration proposed excluding Novo Nordisk and Eli Lilly's weight-loss drugs from a key compounding list.",
+                "source": "USA TODAY",
+                "category": "finance",
+                "url": "https://www.usatoday.com/story/money/2026/04/30/fda-seeks-to-limit-mass-compounding-of-glp-1-drugs/89877000007/",
+                "publishDate": "2026-04-30T20:31:09Z",
                 "premium": false,
                 "freemium": false
             },
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/lly-stock-jumps-q1-earnings-170100774.html",
                 "publishDate": "2026-04-30T17:01:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Shares Jump 10% as Mounjaro, Zepbound Fuel Massive Growth",
-                "summary": "Booming sales of weight-loss shots fueled strong revenue and profit growth for  Eli Lilly  in the latest quarter, as robust consumer demand helped offset falling prices for the drugs.  The results blew past Wall Street expectations, and Lilly raised its forecast for full-year 2026 sales and profit.  The results cement the Indianapolis company\u2019s dominance in the anti-obesity drug market as it seeks to extend that to weight-loss pills.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/eli-lilly-sales-profits-surge-on-weight-loss-drugs-5eef007e?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-30T16:43:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -280,7 +280,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 622.1,
+        "price": 623.04,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -296,10 +296,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.05,
-            "marketCap": 1476718100480,
+            "change": 0.15,
+            "marketCap": 1478949470208,
             "weekLow": 201.24,
-            "weekHigh": 622.1,
+            "weekHigh": 623.04,
             "yearTarget": null
         },
         "FUNDING": {
@@ -311,6 +311,16 @@
             "totalFundingRounds": 22
         },
         "NEWS": [
+            {
+                "title": "Elon Musk Says Most Crypto Are Scams, But X Launches New Crypto Trading Terminal",
+                "summary": "Elon Musk called most crypto coins scams during OpenAI trial as X simultaneously launched its Cashtags trading feed.",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/musk-crypto-scams-openai-trial/",
+                "publishDate": "2026-04-30T20:14:03Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "These Were the Best and Worst S&P 500 Stocks in April",
                 "summary": "Artificial-intelligence stocks like Intel, Sandisk, and Seagate led the S&P 500 in April, while a motley crew of underperformers bring up the rear.",
@@ -363,7 +373,7 @@
             },
             {
                 "title": "SpaceX Investor 137 Ventures Sees Stake Top 1%, Pass $10 Billion",
-                "summary": "(Bloomberg) -- 137 Ventures, a repeat investor in Elon Musk\u2019s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobMeta Shares Plunge on Rising Concerns About AI Spending Spr",
+                "summary": "(Bloomberg) -- 137 Ventures, a repeat investor in Elon Musk\u2019s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobMeta Shares Plunge on Rising Concern About AI Spending Spre",
                 "source": "Bloomberg",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-137-ventures-sees-170613082.html",
@@ -398,16 +408,6 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/04/30/why-chamath-palihapitiya-is-praising-elon-musks-60-billion-cursor-bid/",
                 "publishDate": "2026-04-30T15:17:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Freeport-McMoRan Links Copper Mining To Tech And Satellite Growth",
-                "summary": "Freeport-McMoRan (NYSE:FCX) is drawing attention as copper demand linked to technology, especially satellite infrastructure, gains momentum. The anticipated SpaceX IPO is sharpening focus on how global connectivity projects could rely on copper intensive hardware. This shifts the narrative around NYSE:FCX toward potential exposure to next generation tech infrastructure rather than only traditional mining demand. For you as an investor, the key point is that NYSE:FCX sits at the intersection...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/commodities/articles/freeport-mcmoran-links-copper-mining-140235279.html",
-                "publishDate": "2026-04-30T14:02:35Z",
                 "premium": false,
                 "freemium": false
             }
