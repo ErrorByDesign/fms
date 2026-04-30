@@ -20,7 +20,7 @@
             "marketCap": 178654003200,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.471367
+            "yearTarget": 46.41079
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NVO) Dips More Than Broader Market: What You Should Know",
+                "summary": "Novo Nordisk (NVO) concluded the recent trading session at $40.29, signifying a -2.14% move from its prior day's close.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-dips-more-214504490.html",
+                "publishDate": "2026-04-29T21:45:04Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly Slips as Canada Approves Generic Weight-Loss Drug",
                 "summary": "Approval raises concerns about future pricing pressure in obesity treatments.",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150831117.html",
                 "publishDate": "2026-04-28T15:08:31Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Can Oral Ozempic and Label Expansions Revive NVO's Near-Term Growth?",
-                "summary": "Novo Nordisk bets on oral Ozempic launch and pediatric label expansions to counter slowing demand, pricing pressure and rising competition in the GLP-1 market.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/oral-ozempic-label-expansions-revive-141300365.html",
-                "publishDate": "2026-04-28T14:13:00Z",
-                "premium": false,
                 "freemium": false
             }
         ],
@@ -312,12 +312,52 @@
         },
         "NEWS": [
             {
+                "title": "Record Q1 M&A masks more selective market",
+                "summary": "Global dealmaking hit a record level in the first quarter. But strip out one big, unusual deal and the picture is less rosy. There was $1.6 trillion of M&A transaction volume, up nearly 51% from the same period a year earlier, according to PitchBook\u2019s Q1 2026 Global M&A Report. One deal did a lot of heavy lifting. SpaceX\u2018s $250 billion acquisition of xAI is the largest M&A transaction on record, alone accounting for more than 15% of global deal value in the quarter. The merger of xAI and SpaceX",
+                "source": "Pitchbook",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/record-q1-m-masks-more-220835894.html",
+                "publishDate": "2026-04-29T22:08:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Google Stock Climbs On Q1 Earnings As Cloud Revenue, 'Backlog' Booms",
                 "summary": "Google stock rose as parent Alphabet\u2019s Q1 earnings showed strong growth in cloud computing and search ads amid huge AI investments.",
                 "source": "Investor's Business Daily",
                 "category": "finance",
                 "url": "https://www.investors.com/news/technology/google-stock-alphabet-google-earnings-q12026/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-04-29T21:25:38Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Viasat Shares Gain Ground After Satellite Launch",
+                "summary": "Shares of satellite operator Viasat gained 2.1% Wednesday after SpaceX confirmed it deployed the company\u2019s latest big satellite.  Viasat Chief Executive Mark Dankberg said the satellite would help it address its main customer groups in the region, including airlines and government agencies.  Viasat has faced intensifying competition in recent years from SpaceX\u2019s Starlink satellite-internet business that have weighed on its shares.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/fed-interest-rate-decision-earnings-04-29-2026/card/viasat-shares-gain-ground-after-satellite-launch-0RTsDCruVCCTwIPAvAyo?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-29T21:17:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Can We Handle the Magnificent 10?",
+                "summary": "Tech banker Storm Duncan made headlines by offering to swap his luxurious California estate for privately held shares of Anthropic.  The Claude developer, along with ChatGPT parent OpenAI and xAI owner SpaceX, are preparing for what should be three of the largest-ever initial public offerings.  AI-linked companies, from \u201chyperscalers\u201d to chip makers and power providers, already make up about 45% of the U.S. stock market.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/stocks/can-we-handle-the-magnificent-10-9977ba49?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-29T21:15:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Intel Just Lost Its Chief Accounting Officer. Is That a Red Flag or a Nonissue for INTC Stock?",
+                "summary": "Sometimes such announcements would be bad news, but Intel says the chief accounting officer stepped down to take another career opportunity. How will this shake out?",
+                "source": "Barchart",
+                "category": "finance",
+                "url": "https://www.barchart.com/story/news/1598957/intel-just-lost-its-chief-accounting-officer-is-that-a-red-flag-or-a-nonissue-for-intc-stock",
+                "publishDate": "2026-04-29T20:04:35Z",
                 "premium": false,
                 "freemium": false
             },
@@ -370,46 +410,6 @@
                 "publishDate": "2026-04-29T12:50:53Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Here's Why I'm Avoiding SpaceX Stock After the IPO",
-                "summary": "When a private company decides to go public, it pays to ask why.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/29/heres-why-im-avoiding-spacex-stock-after-the-ipo/",
-                "publishDate": "2026-04-29T12:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Retail Investors Playing Bigger Role in IPOs, Robinhood CEO Says",
-                "summary": "Companies planning to go public are now a lot more keen on inviting individual investors to the party.  Back in 2021\u2014when Robinhood first launched its feature allowing users to request shares of a company ahead of stock-market debuts\u2014it was a challenge to convince executives to set aside a significant slice of shares for mom-and-pop traders, Tenev said.  Now, \u201cpretty much every major IPO of consequence has been on Robinhood\u2019s platform.\"",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/fed-interest-rate-decision-earnings-04-29-2026/card/retail-investors-playing-bigger-role-in-ipos-robinhood-ceo-says-cwomkfVwA4Sw8MdeZLM8?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-29T10:50:31Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can We Handle the Magnificent 10?",
-                "summary": "Tech banker Storm Duncan made headlines by offering to swap his luxurious California estate for privately held shares of Anthropic.  The Claude developer, along with ChatGPT parent OpenAI and xAI owner SpaceX, are preparing for what should be three of the largest-ever initial public offerings.  AI-linked companies, from \u201chyperscalers\u201d to chip makers and power providers, already make up about 45% of the U.S. stock market.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/can-we-handle-the-magnificent-10-9977ba49?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-29T10:30:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "On witness stand, Elon Musk accuses Sam Altman's lawyer of trying to trick him",
-                "summary": "Elon Musk on Wednesday accused a lawyer for Sam Altman of trying to trick him during a tense cross-examination at a high-stakes trial over Musk's lawsuit alleging OpenAI ditched its mission to build artificial intelligence for the public good.  William Savitt, a lawyer for OpenAI, told Musk his questions \u200cabout the tax benefits Musk reaped by donating $38 million to OpenAI were simple, and that Musk's responses should be as well.  The heated exchange came after Musk, over two days of questioning by his own lawyer,\u00a0accused\u00a0OpenAI, its co-founder and Chief Executive Altman, and its President Greg Brockman of wooing his donations \u200bby promising to build a nonprofit to develop AI responsibly, before pivoting to create a for-profit entity in 2019 to enrich themselves.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-return-witness-stand-100744679.html",
-                "publishDate": "2026-04-29T10:07:44Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.90025204,
+            "change": -0.900252,
             "marketCap": 19696095232,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.6264095,
+            "change": -3.62641,
             "marketCap": 5768723968,
             "weekLow": 9.88,
             "weekHigh": 36.52,
