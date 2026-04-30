@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.625,
+        "price": 42.495,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.7954803,
-            "marketCap": 189007872000,
+            "change": 5.472817,
+            "marketCap": 188431417344,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.70154
+            "yearTarget": 46.69501
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -343,7 +343,7 @@
             },
             {
                 "title": "SpaceX Investor 137 Ventures Sees Stake Top 1%, Pass $10 Billion",
-                "summary": "(Bloomberg) -- 137 Ventures, a repeat investor in Elon Musk\u2019s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobMeta Shares Plunge on Rising Concerns About AI Spending Spree\u201cAt this point we own well over I think $10 billion dollars\u201d of Sp",
+                "summary": "(Bloomberg) -- 137 Ventures, a repeat investor in Elon Musk\u2019s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesMeta Shares Plunge on Rising Concerns About AI Spending Spr",
                 "source": "Bloomberg",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-137-ventures-sees-170613082.html",
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.305,
+        "price": 28.545,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8524704,
-            "marketCap": 20257921024,
+            "change": 3.7245624,
+            "marketCap": 20429688832,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.84,
+        "price": 28.75,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.378417,
-            "marketCap": 5905928192,
+            "change": 2.0589278,
+            "marketCap": 5887497728,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
