@@ -490,9 +490,8 @@ async function submitCompanySearch() {
         await new Promise(r => setTimeout(r, 1100));
         const overview = await fetchAlphaVantageOverview(ticker);
         
-        // Store in localStorage
-        const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
-        portfolio[ticker] = {
+        // Build stock object
+        const newStock = {
             stockType: 'PUBLIC', // Default to PUBLIC for new searches
             default: true,
             price: quote.price,
@@ -525,6 +524,12 @@ async function submitCompanySearch() {
             }
         };
         
+        // Update currentStock in memory
+        currentStock[ticker] = newStock;
+        
+        // Store in localStorage
+        const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
+        portfolio[ticker] = newStock;
         localStorage.setItem('fms-portfolio', JSON.stringify(portfolio));
         
         // Update dropdown and switch to new ticker
@@ -637,6 +642,7 @@ async function submitPriceUpdate() {
     const inputValue = input.value.trim();
     
     let newPrice = null;
+    let newChange = null;
     
     try {
         if (!inputValue || inputValue === placeholder) {
@@ -644,28 +650,26 @@ async function submitPriceUpdate() {
             console.log(`Fetching latest price for ${currentTicker}...`);
             const quote = await fetchAlphaVantageQuote(currentTicker);
             newPrice = quote.price;
-            const newChange = quote.change;
-            
-            // Update localStorage
-            const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
-            if (portfolio[currentTicker]) {
-                portfolio[currentTicker].price = newPrice;
-                portfolio[currentTicker].FINANCIALS.change = newChange;
-                localStorage.setItem('fms-portfolio', JSON.stringify(portfolio));
-            }
+            newChange = quote.change;
         } else {
             // Use manual input
             newPrice = parseFloat(inputValue);
             if (isNaN(newPrice)) {
                 throw new Error('Invalid price');
             }
-            
-            // Update localStorage
-            const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
-            if (portfolio[currentTicker]) {
-                portfolio[currentTicker].price = newPrice;
-                localStorage.setItem('fms-portfolio', JSON.stringify(portfolio));
-            }
+            newChange = currentStock[currentTicker].FINANCIALS.change; // Keep existing change
+        }
+        
+        // Update currentStock in memory
+        currentStock[currentTicker].price = newPrice;
+        currentStock[currentTicker].FINANCIALS.change = newChange;
+        
+        // Update localStorage
+        const portfolio = JSON.parse(localStorage.getItem('fms-portfolio') || '{}');
+        if (portfolio[currentTicker]) {
+            portfolio[currentTicker].price = newPrice;
+            portfolio[currentTicker].FINANCIALS.change = newChange;
+            localStorage.setItem('fms-portfolio', JSON.stringify(portfolio));
         }
         
         // Recalculate and re-render
@@ -1059,6 +1063,16 @@ function renderTableSettings() {
         modBtn.classList.remove('disabled');
     }
 }
+function updateMarketCards(price, bid, sellMin, sellMax, labelBidPct, labelMinPct, labelMaxPct) {
+    document.getElementById("price").textContent        = formatCurrency(price);
+    document.getElementById("bid").textContent          = formatCurrency(bid);
+    document.getElementById("bid-pct").textContent      = `(-${formatPercent(labelBidPct, false, 0.25)})`;
+    document.getElementById("sell-min").textContent     = formatCurrency(sellMin);
+    document.getElementById("sell-min-pct").textContent = `(+${formatPercent(labelMinPct, false, 0.5)})`;
+    document.getElementById("sell-max").textContent     = formatCurrency(sellMax);
+    document.getElementById("sell-max-pct").textContent = `(+${formatPercent(labelMaxPct, false, 0.5)})`;
+}
+
 function renderTicker(ticker) {
     const stock = currentStock[ticker];
     if (!stock) throw new Error("ticker not found: " + ticker);
@@ -1118,13 +1132,7 @@ function renderTicker(ticker) {
     document.getElementById("date").textContent = formatDate(new Date());
 
     // populate market update cards
-    document.getElementById("price").textContent        = formatCurrency(price);
-    document.getElementById("bid").textContent          = formatCurrency(bid);
-    document.getElementById("bid-pct").textContent      = `(-${formatPercent(labelBidPct, false, 0.25)})`;
-    document.getElementById("sell-min").textContent     = formatCurrency(sellMin);
-    document.getElementById("sell-min-pct").textContent = `(+${formatPercent(labelMinPct, false, 0.5)})`;
-    document.getElementById("sell-max").textContent     = formatCurrency(sellMax);
-    document.getElementById("sell-max-pct").textContent = `(+${formatPercent(labelMaxPct, false, 0.5)})`;
+    updateMarketCards(price, bid, sellMin, sellMax, labelBidPct, labelMinPct, labelMaxPct);
 
     // change badge
     const change   = formatPercent(changeRaw, false, 0.01);
@@ -1180,12 +1188,37 @@ async function loadData() {
         // Load regex replacement map FIRST
         await loadRegexReplaceMap();
         
-        const [stockRes, settingsRes] = await Promise.all([
-            fetch("./data/portfolio.json"),
-            fetch("./config/settings.json")
-        ]);
-        const stockJson = await stockRes.json();
-        const settingsJson = await settingsRes.json();
+        let stockJson, settingsJson;
+        
+        // If dev mode has been initialized, load from localStorage
+        if (devModeInitialized) {
+            const storedPortfolio = localStorage.getItem('fms-portfolio');
+            const storedSettings = localStorage.getItem('fms-settings');
+            
+            if (storedPortfolio && storedSettings) {
+                stockJson = JSON.parse(storedPortfolio);
+                settingsJson = JSON.parse(storedSettings);
+                console.log('✓ Loaded data from localStorage');
+            } else {
+                // Fallback to JSON if localStorage is missing
+                const [stockRes, settingsRes] = await Promise.all([
+                    fetch("./data/portfolio.json"),
+                    fetch("./config/settings.json")
+                ]);
+                stockJson = await stockRes.json();
+                settingsJson = await settingsRes.json();
+                console.log('✓ Loaded data from JSON (localStorage fallback)');
+            }
+        } else {
+            // First load: get from JSON
+            const [stockRes, settingsRes] = await Promise.all([
+                fetch("./data/portfolio.json"),
+                fetch("./config/settings.json")
+            ]);
+            stockJson = await stockRes.json();
+            settingsJson = await settingsRes.json();
+            console.log('✓ Loaded data from JSON (first load)');
+        }
 
         currentStock = stockJson;
         currentSettings = settingsJson;
@@ -1226,10 +1259,25 @@ function setNewsFilter(f) {
     renderNews();
 }
 function renderNews() {
-    if (!currentStock || !currentTicker) return;
+    if (!currentTicker) return;
 
-    const stock = currentStock[currentTicker];
-    const feed  = stock.NEWS || [];
+    // Always load NEWS from JSON, never from localStorage
+    const fetchNewsFromJSON = async () => {
+        try {
+            const response = await fetch('./data/portfolio.json');
+            const jsonData = await response.json();
+            const feed = jsonData[currentTicker]?.NEWS || [];
+            displayNews(feed);
+        } catch (e) {
+            console.error('Error loading news from JSON:', e);
+            displayNews([]);
+        }
+    };
+
+    fetchNewsFromJSON();
+}
+
+function displayNews(feed) {
     const container = document.getElementById('news-feed');
     container.innerHTML = '';
 
@@ -1238,8 +1286,6 @@ function renderNews() {
         if (a.freemium && !b.freemium) return -1;
         if (!a.freemium && b.freemium) return 1;
         return new Date(b.publishDate).getTime() - new Date(a.publishDate).getTime();
-
-        //return new Date(b.publishDate) - new Date(a.publishDate);
     });
 
     // filter
@@ -1329,6 +1375,16 @@ function setSettings(s) {
     const blockMinRaw = DEFAULT_MINIMUM_THRESHOLD / (bid * feeMult);
     const blockMin    = Math.max(1, fmsRoundShares(blockMinRaw, bid, active.BROKERAGE_FEE));
     const blocks      = [blockMin * 10, blockMin * 5, blockMin * 2, blockMin];
+    
+    // Calculate percentages for market cards
+    const labelBidPct = ((price - bid)   / bid) * 100;
+    const labelMinPct = ((sellMin - bid) / bid) * 100;
+    const labelMaxPct = ((sellMax - bid) / bid) * 100;
+    
+    // Update market cards
+    updateMarketCards(price, bid, sellMin, sellMax, labelBidPct, labelMinPct, labelMaxPct);
+    
+    // Update price table
     renderTablePrice(blocks, bid, active.BROKERAGE_FEE, active.BROKERAGE_FEE_SELL, sellMin, sellMax);
     syncModeUI()
 }
