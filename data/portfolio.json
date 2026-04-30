@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.5014,
+        "price": 42.66,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.4887047,
-            "marketCap": 188459794432,
+            "change": 5.88235,
+            "marketCap": 189163061248,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.641754
+            "yearTarget": 46.6673
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -39,6 +39,16 @@
                 "url": "https://finance.yahoo.com/video/qualcomm-stock-surges-on-data-center-demand-eli-lilly-lifts-outlook-150646566.html",
                 "publishDate": "2026-04-30T15:06:46Z",
                 "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sector Update: Health Care Stocks Gain Thursday Afternoon",
+                "summary": "Health care stocks rose Thursday afternoon with the NYSE Health Care Index climbing 2.5% and the Sta",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-gain-173246770.html",
+                "publishDate": "2026-04-30T17:32:46Z",
+                "premium": true,
                 "freemium": false
             },
             {
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-dips-more-214504490.html",
                 "publishDate": "2026-04-29T21:45:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Slips as Canada Approves Generic Weight-Loss Drug",
-                "summary": "Approval raises concerns about future pricing pressure in obesity treatments.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-slips-canada-approves-191943285.html",
-                "publishDate": "2026-04-29T19:19:43Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,8 +322,18 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Investor 137 Ventures Sees Stake Top 1%, Pass $10 Billion",
+                "summary": "(Bloomberg) -- 137 Ventures, a repeat investor in Elon Musk\u2019s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobMeta Shares Plunge on Rising Concerns About AI Spending Spree\u201cAt this point we own well over I think $10 billion dollars\u201d of Sp",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-137-ventures-sees-170613082.html",
+                "publishDate": "2026-04-30T17:06:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Blue Owl sold about half its SpaceX holding at $1.25 trillion valuation, co-CEO says",
-                "summary": "Blue Owl \u200csold about half its investment in \u200cSpaceX at a $1.25 trillion valuation, the alternative asset manager's \u200bco-CEO Marc Lipschultz said on Thursday.  SpaceX is expected to go public later this year \u200bat a \u200bpossible valuation of $1.75 \u200btrillion, raising about $75 \u200cbillion in what would be the largest public listing on record.  New \u200cYork-based Blue Owl was \u200bone of SpaceX's earliest \u200blenders and \u200beventually made an equity investment, \u200cLipschultz added.",
+                "summary": "Blue Owl sold about half its investment in SpaceX at a $1.25 \u200ctrillion valuation, the alternative asset manager's co-CEO Marc Lipschultz said \u200con Thursday.  \"We've sold about half of it at a $1.25 trillion valuation, still holding about half of it.\"  SpaceX is expected to go public later this year at a possible valuation of $1.75 trillion, raising about $75 \u200cbillion in what would be \u2060the largest public listing on record.",
                 "source": "Reuters",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-sold-half-spacex-154451499.html",
@@ -358,16 +368,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/commodities/articles/freeport-mcmoran-links-copper-mining-140235279.html",
                 "publishDate": "2026-04-30T14:02:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk faces tense questioning in cross-examination by OpenAI's lawyer",
-                "summary": "Elon Musk wrangled with Sam Altman's lawyer on Thursday over whether he had seen emails and documents discussing turning OpenAI into a for-profit company as he was cross-examined in a trial over a lawsuit brought by Musk that could determine the future \u200cof the ChatGPT maker.  The world's richest person alleges that OpenAI, its co-founder and CEO Sam Altman, and its President Greg Brockman wooed his $38 million in donations by promising \u200cto build a nonprofit that would prioritize safe development of AI, before pivoting to create a for-profit entity to enrich themselves.  OpenAI has countered that Musk, the CEO of Tesla and SpaceX, is driven by a compulsion to control \u200bOpenAI and is bitter about the company's success after he left the board\u00a0in 2018.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-return-witness-stand-100353371.html",
-                "publishDate": "2026-04-30T10:03:53Z",
                 "premium": false,
                 "freemium": false
             },
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.37,
+        "price": 28.425,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.088664,
-            "marketCap": 20304441344,
+            "change": 3.288513,
+            "marketCap": 20343803904,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.53,
+        "price": 28.61,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2779574,
-            "marketCap": 5842445824,
+            "change": 1.5619472,
+            "marketCap": 5858828288,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
