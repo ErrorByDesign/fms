@@ -189,14 +189,32 @@ h1 span {
     scrollbar-width: none;
 }
 .input-select {
+    /* 1. Typography & Colors */
     color: var(--text-clr);
-    /*font-family: "Share Tech Mono", "Inconsolata", monospace;*/
     font-family: "Inconsolata", "Share Tech Mono", monospace;
     font-size: 1.5rem;
-    font-weight: 600;
-    letter-spacing: 0.5rem;
+    font-weight: 300;
     line-height: 1.5rem;
+    letter-spacing: 0.5ch;
+    text-align: right;
+    /* 2. Reset Default Select Styling */
+    appearance: none;
+    -webkit-appearance: none;
+    border: none;
+    outline: none;
+    background: transparent;
+    padding: 0;
+    margin: 0;
+    cursor: pointer;
+    box-sizing: border-box;
+    /* 3. Sizing & Fallback Logic */
+    width: var(--text-width, 6ch);
+/*     @supports (field-sizing: content) {
+    field-sizing: content;
+    width: auto;
+} */
 }
+
 .divider {
     padding: 0 1rem;
     opacity: 0.5;
@@ -416,8 +434,6 @@ p {
     text-align: center;
     min-width: 2.1875rem;
 }
-
-
 
 .tr-body-settings {
     background: transparent;
@@ -662,30 +678,20 @@ tbody tr:hover {
 
 /* === H A P T I C S  === === === === === === === */
 .clickable {
-    /* background: transparent; */
-    border: none;
-    outline: none;
-    /* color: var(--accent-clr); */
-    /* font-family: "Share Tech Mono", monospace; */
-    /* font-size: 1.5rem; */
-    /* letter-spacing: 0.25rem; */
     cursor: pointer;
-    /* width: auto; */
-    appearance: none;
-    -webkit-appearance: none;
-    field-sizing: content;
+    -webkit-tap-highlight-color: transparent;
 }
 .clickable:active {
     transform: scale(0.975);
-    background: rgba(0, 229, 255, 0.15);
+    background: rgba(0, 229, 255, 0.1);
 }
 .clickable-small:active {
     transform: scale(0.95);
-    background: rgba(0, 229, 255, 0.15);
+    background: rgba(0, 229, 255, 0.1);
 }
 .clickable-large:active {
     transform: scale(0.995);
-    background: rgba(0, 229, 255, 0.15);
+    background: rgba(0, 229, 255, 0.1);
 }
 
 /* === T R A S H === === === === === === === === */
@@ -814,6 +820,17 @@ td:first-child {
     cursor: default;
 }
  */
+ 
+/*  .input-select {
+   color: var(--text-clr);
+   font-family: "Share Tech Mono", "Inconsolata", monospace;
+   font-family: "Inconsolata", "Share Tech Mono", monospace;
+   font-size: 1.5rem;
+   font-weight: 600;
+   letter-spacing: 0.5rem;
+   line-height: 1.5rem;
+}
+*/
  
 /* === DEV MODE === === === === === === === === === */
 @keyframes fadeInOut {
