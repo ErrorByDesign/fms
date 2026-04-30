@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.405,
+        "price": 42.455,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.249436,
-            "marketCap": 188032335872,
+            "change": 5.374211,
+            "marketCap": 188254060544,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.66372
+            "yearTarget": 46.66694
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.45,
+        "price": 1.46,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6845613,
-            "marketCap": 136052320,
+            "change": -2.0134208,
+            "marketCap": 136990608,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,36 @@
         },
         "NEWS": [
             {
+                "title": "Elon Musk faces tense questioning in cross-examination by OpenAI's lawyer",
+                "summary": "By Deepa Seetharaman and Kenrick Cai OAKLAND, California, April 30 (Reuters) - Elon Musk faced tense questioning and showed frustration on the witness stand on Thursday during a second day of cross-",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/elon-musk-return-witness-stand-100353619.html",
+                "publishDate": "2026-04-30T16:05:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Blue Owl sold about half its SpaceX holding at $1.25 trillion valuation, co-CEO says",
+                "summary": "Blue Owl \u200csold about half its investment in \u200cSpaceX at a $1.25 trillion valuation, the alternative asset manager's \u200bco-CEO Marc Lipschultz said on Thursday.  SpaceX is expected to go public later this year \u200bat a \u200bpossible valuation of $1.75 \u200btrillion, raising about $75 \u200cbillion in what would be the largest public listing on record.  New \u200cYork-based Blue Owl was \u200bone of SpaceX's earliest \u200blenders and \u200beventually made an equity investment, \u200cLipschultz added.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-sold-half-spacex-154451499.html",
+                "publishDate": "2026-04-30T15:44:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
+                "summary": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-backer-137-ventures-raises-152949538.html",
+                "publishDate": "2026-04-30T15:29:49Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Chamath Palihapitiya is Praising Elon Musk\u2019s $60 Billion Cursor Bid",
                 "summary": "On a recent episode of the All-In Podcast, Chamath Palihapitiya laid out a contrarian take that Elon Musk just locked in a bargain with SpaceX\u2019s deal to either acquire AI coding startup Cursor by the end of 2026 for $60 billion, or pay $10 billion for a collaborative partnership. \u201cIf it\u2019s $60 billion in tomorrow dollars, ... Why Chamath Palihapitiya is Praising Elon Musk\u2019s $60 Billion Cursor Bid",
                 "source": "24/7 Wall St.",
@@ -380,36 +410,6 @@
                 "publishDate": "2026-04-30T07:22:38Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Could Crush This Favorite Buffett Stock",
-                "summary": "Starlink could challenge other satellite-based businesses like SiriusXM.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/29/the-spacex-ipo-could-crush-this-favorite-buffett-s/",
-                "publishDate": "2026-04-30T02:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk says Sam Altman tried to 'steal' charity, as moguls contest $150bn court battle",
-                "summary": "Elon Musk has accused his rival Sam Altman of trying to \"steal\" a charity as he fights his $150bn (\u00a3111bn) court claim over OpenAI.  The trial centres on the 2015 birth of OpenAI, maker of ChatGPT, as a non-profit start-up, primarily funded by Mr Musk, before it evolved into a capitalist venture now valued at $852bn (\u00a3632bn).  Mr Musk, the CEO of Tesla and SpaceX, has accused Mr Altman, OpenAI, and its president, Greg Brockman, of wooing his donations by promising to build a non-profit to develop AI responsibly, before pivoting to create a for-profit entity in 2019 to enrich themselves.",
-                "source": "Sky News",
-                "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/elon-musk-says-sam-altman-221800260.html",
-                "publishDate": "2026-04-29T22:18:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Record Q1 M&A masks more selective market",
-                "summary": "Global dealmaking hit a record level in the first quarter. But strip out one big, unusual deal and the picture is less rosy. There was $1.6 trillion of M&A transaction volume, up nearly 51% from the same period a year earlier, according to PitchBook\u2019s Q1 2026 Global M&A Report. One deal did a lot of heavy lifting. SpaceX\u2018s $250 billion acquisition of xAI is the largest M&A transaction on record, alone accounting for more than 15% of global deal value in the quarter. The merger of xAI and SpaceX",
-                "source": "Pitchbook",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/record-q1-m-masks-more-220835894.html",
-                "publishDate": "2026-04-29T22:08:35Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.3,
+        "price": 28.335,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8348129,
-            "marketCap": 20254341120,
+            "change": 2.9614775,
+            "marketCap": 20279390208,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.57,
+        "price": 28.55,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4199489,
-            "marketCap": 5850636800,
+            "change": 1.3489498,
+            "marketCap": 5846540800,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
