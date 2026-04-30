@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.604,
+        "price": 42.5014,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.7433586,
-            "marketCap": 188914745344,
+            "change": 5.4887047,
+            "marketCap": 188459794432,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.643948
+            "yearTarget": 46.641754
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -39,6 +39,26 @@
                 "url": "https://finance.yahoo.com/video/qualcomm-stock-surges-on-data-center-demand-eli-lilly-lifts-outlook-150646566.html",
                 "publishDate": "2026-04-30T15:06:46Z",
                 "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly Shares Jump 10% as Mounjaro, Zepbound Fuel Massive Growth",
+                "summary": "Booming sales of weight-loss shots fueled strong revenue and profit growth for  Eli Lilly  in the latest quarter, as robust consumer demand helped offset falling prices for the drugs.  The results blew past Wall Street expectations, and Lilly raised its forecast for full-year 2026 sales and profit.  The results cement the Indianapolis company\u2019s dominance in the anti-obesity drug market as it seeks to extend that to weight-loss pills.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/health/pharma/eli-lilly-sales-profits-surge-on-weight-loss-drugs-5eef007e?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-30T16:43:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Update: FDA Seeks to Exclude Tirzepatide, Semaglutide, Liraglutide From 503B Bulks List",
+                "summary": "(Updates with Lilly's comment in the third paragraph.) The US Food and Drug Administration said T",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/fda-seeks-exclude-tirzepatide-semaglutide-163605027.html",
+                "publishDate": "2026-04-30T16:36:05Z",
+                "premium": true,
                 "freemium": false
             },
             {
@@ -63,10 +83,10 @@
             },
             {
                 "title": "Eli Lilly Shares Jump as Mounjaro, Zepbound Fuel Massive Growth",
-                "summary": "Booming sales of weight-loss shots fueled strong revenue and profit growth for  Eli Lilly  in the latest quarter, as robust consumer demand helped offset falling prices for the drugs.  The results blew past Wall Street expectations, and Lilly raised its forecast for full-year 2026 sales and profit.  Lilly shares rose nearly 6% when the market opened.",
+                "summary": "Surging consumer demand for blockbuster weight-loss drugs helped offset their declining prices.",
                 "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/eli-lilly-sales-profits-surge-on-weight-loss-drugs-5eef007e?siteid=yhoof2&yptr=yahoo",
+                "url": "https://www.wsj.com/health/pharma/eli-lilly-sales-profits-surge-on-weight-loss-drugs-5eef007e",
                 "publishDate": "2026-04-30T12:08:00Z",
                 "premium": false,
                 "freemium": false
@@ -110,26 +130,6 @@
                 "publishDate": "2026-04-29T19:19:43Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Meta is heading into earnings with a big move expected",
-                "summary": "First G7 move could pressure Novo's pricing",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/meta-heading-earnings-big-move-191144119.html",
-                "publishDate": "2026-04-29T19:11:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Canada Approves Dr. Reddy\u2019s Generic Version of Novo Nordisk\u2019s Ozempic",
-                "summary": "The country is the first in the G7 forum to approve a generic version of the massively popular GLP-1 diabetes treatment.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/canada-approves-dr-reddys-generic-version-of-novo-nordisks-ozempic-3e75dc6e?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-29T16:37:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.46,
+        "price": 1.456,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.0134208,
-            "marketCap": 136990608,
+            "change": -2.2818818,
+            "marketCap": 136615296,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "3 Key Takeaways From SpaceX's Potential $60 Billion Deal With Cursor Leading Up to Its IPO",
+                "summary": "SpaceX is trying to change the narrative about what type of company it is.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/30/3-key-takeaways-from-spacexs-potential-60-billion/",
+                "publishDate": "2026-04-30T17:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Blue Owl sold about half its SpaceX holding at $1.25 trillion valuation, co-CEO says",
                 "summary": "Blue Owl \u200csold about half its investment in \u200cSpaceX at a $1.25 trillion valuation, the alternative asset manager's \u200bco-CEO Marc Lipschultz said on Thursday.  SpaceX is expected to go public later this year \u200bat a \u200bpossible valuation of $1.75 \u200btrillion, raising about $75 \u200cbillion in what would be the largest public listing on record.  New \u200cYork-based Blue Owl was \u200bone of SpaceX's earliest \u200blenders and \u200beventually made an equity investment, \u200cLipschultz added.",
                 "source": "Reuters",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-04-30T08:06:33Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Ties Musk\u2019s 200 Million-Share Award to Mars Colony and $7.5 Trillion Valuation",
-                "summary": "SpaceX board pegs Elon Musk's 200 million-share award to a $7.5 trillion valuation and 1-million-person Mars colony.",
-                "source": "BeInCrypto",
-                "category": "finance",
-                "url": "https://beincrypto.com/spacex-musk-pay-mars-colony-ipo/",
-                "publishDate": "2026-04-30T07:22:38Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.345,
+        "price": 28.37,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9983602,
-            "marketCap": 20286547968,
+            "change": 3.088664,
+            "marketCap": 20304441344,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.43,
+        "price": 28.53,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9229685,
-            "marketCap": 5821967360,
+            "change": 1.2779574,
+            "marketCap": 5842445824,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
