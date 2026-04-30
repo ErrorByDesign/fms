@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.7902713,
+            "change": 4.79027,
             "marketCap": 187212021760,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.678223
+            "yearTarget": 46.67441
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,36 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/qualcomm-stock-surges-on-data-center-demand-eli-lilly-lifts-outlook-150646566.html",
                 "publishDate": "2026-04-30T15:06:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket",
+                "summary": "Shares of  Eli Lilly  rose sharply after the drugmaker delivered a beat-and-raise quarter driven partly by demand for its GLP-1 drugs.  First-quarter adjusted earnings of $8.55 a share handily beat the $6.97 Wall Street had forecast.  The pharma giant hiked its full-year adjusted earnings guidance to a range of $35.50 to $37 a share, from $33.50 to $35 previously.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/eli-lilly-earnings-stock-price-zepbound-mounjaro-19a9324d?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-30T20:12:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sector Update: Health Care Stocks Gain Late Afternoon",
+                "summary": "Health care stocks rose late Thursday afternoon with the NYSE Health Care Index climbing 2.6% and th",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-gain-194240236.html",
+                "publishDate": "2026-04-30T19:42:40Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Jim Cramer Says \u201cOrganon\u2019s Done\u201d Upon a Caller\u2019s Inquiry",
+                "summary": "Organon & Co. (NYSE:OGN) was among the stocks on Jim Cramer\u2019s Mad Money radar as he discussed the recent sell-off in AI-related stocks. Mentioning that they own NVO shares, a caller inquired if they should sell them and start a position in OGN, and in response, Cramer said: No, Organon\u2019s done. Organon\u2019s been, got a [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-organon-done-191806371.html",
+                "publishDate": "2026-04-30T19:18:06Z",
                 "premium": false,
                 "freemium": false
             },
@@ -99,36 +129,6 @@
                 "url": "https://www.wsj.com/health/pharma/eli-lilly-sales-profits-surge-on-weight-loss-drugs-5eef007e?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-04-30T16:43:00Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Update: FDA Seeks to Exclude Tirzepatide, Semaglutide, Liraglutide From 503B Bulks List",
-                "summary": "(Updates with Lilly's comment in the third paragraph.) The US Food and Drug Administration said T",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/fda-seeks-exclude-tirzepatide-semaglutide-163605027.html",
-                "publishDate": "2026-04-30T16:36:05Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket",
-                "summary": "Shares of  Eli Lilly  rose sharply after the drugmaker delivered a beat-and-raise quarter driven partly by demand for its GLP-1 drugs.  First-quarter adjusted earnings of $8.55 a share handily beat the $6.97 Wall Street had forecast.  The pharma giant hiked its full-year adjusted earnings guidance to a range of $35.50 to $37 a share, from $33.50 to $35 previously.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-earnings-stock-price-zepbound-mounjaro-19a9324d?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-30T20:12:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Rise in Thursday Trading",
-                "summary": "European equities traded in the US as American depositary receipts rose late Thursday morning, gaini",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150639342.html",
-                "publishDate": "2026-04-30T15:06:39Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "These Were the Best and Worst S&P 500 Stocks in April",
+                "summary": "Artificial-intelligence stocks like Intel, Sandisk, and Seagate led the S&P 500 in April, while a motley crew of underperformers bring up the rear.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/stocks-april-ai-software-healthcare-c94142fc?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-30T18:59:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Blue Owl's SpaceX Bet Just Bailed Out Its Earnings Call",
                 "summary": "The alternative asset manager has been sweating a private credit scare for weeks, so it needed a 10x return on a rocket company and the room changed entirely",
                 "source": "Moby",
@@ -353,7 +363,7 @@
             },
             {
                 "title": "SpaceX Investor 137 Ventures Sees Stake Top 1%, Pass $10 Billion",
-                "summary": "(Bloomberg) -- 137 Ventures, a repeat investor in Elon Musk\u2019s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesMeta Shares Plunge on Rising Concerns About AI Spending Spr",
+                "summary": "(Bloomberg) -- 137 Ventures, a repeat investor in Elon Musk\u2019s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobMeta Shares Plunge on Rising Concerns About AI Spending Spr",
                 "source": "Bloomberg",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-137-ventures-sees-170613082.html",
@@ -398,16 +408,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/commodities/articles/freeport-mcmoran-links-copper-mining-140235279.html",
                 "publishDate": "2026-04-30T14:02:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Will Pay Elon Musk To Conquer Mars \u2014 No, Really, It's In The Filing",
-                "summary": "Buried inside the confidential paperwork SpaceX has handed regulators ahead of its planned public offering sits one of the strangest performance targets ever set for a corporate executive: build a city on Mars, and the company will hand its founder one of the largest stock awards in history. According to a Reuters report Tuesday that reviewed excerpts of the rocket maker\u2019s confidential SEC registration statement, the SpaceX board signed off on the plan in January. It clears Elon Musk to receive",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-pay-elon-musk-conquer-100104784.html",
-                "publishDate": "2026-04-30T10:01:04Z",
                 "premium": false,
                 "freemium": false
             }
