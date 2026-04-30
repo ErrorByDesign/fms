@@ -5,8 +5,8 @@
     --frozen-solid: #212134;
     --surface: #131321;
     --accent-clr: #69e5ff;
-    --border-clr: #2e2134;
-    --text-clr: #cdd6f8;
+    --border-clr: #2e2135;
+    --text-clr: #cdd6f9;
     --text-clr-dim: #a0b0c0EA;
 
     --tbl-head-bg: #032734;
@@ -25,6 +25,11 @@
     --profit-min: #3dba6a;
     --profit-max: #69ff96;
     --profit-red: #ff4d6d;
+
+    --voice-bar: #55A0CC89;
+    --voice-bar-on: #DC553489;
+    --voice-rec: #DC5534CE;
+    
 }
 * {
     box-sizing: border-box;
@@ -686,6 +691,86 @@ tbody tr:hover {
 .clickable-large:active {
     transform: scale(0.995);
     background: rgba(0, 229, 255, 0.15);
+}
+
+/* === W H I S P E R === === === === === === === */
+.voice-control-bar {
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+    background-color: var(--accent-clr);
+    color: var(--bg);
+    padding: 1rem;
+    text-align: center;
+    cursor: pointer;
+    opacity: 0.5;
+    transition: background-color 0.3s ease;
+    box-sizing: border-box;
+}
+.voice-control-bar.active {
+    background-color: #FF4444;
+    opacity: 1;
+}
+.voice-status-text {
+    font-family: inherit;
+    font-size: 2rem;
+    color: var(--bg);
+}
+
+.voice-bar {
+    position: fixed;
+    bottom: 20px;
+    left: 0;
+    width: 100%;
+    background-color: var(--voice-bar);
+    color: var(--text-clr);
+    padding: 1rem;
+    text-align: center;
+    cursor: pointer;
+    opacity: 0.5;
+    transition: background-color 0.3s ease;
+    box-sizing: border-box;
+}
+.voice-bar.active {
+    background-color: var(--voice-bar-on);
+    opacity: 1;
+}
+.voice-output {
+    font-family: inherit;
+    font-size: 2rem;
+    font-weight: 600;
+    color: var(--text-clr);
+}
+.voice-bar.actice.rec {
+    background-color: var(--voice-rec);
+}
+
+/* === T R A S H === === === === === === === === */
+.visible {
+    visibility: visible;
+    opacity: 1;
+    transition: opacity 500ms linear 500ms;
+}
+.visible.hidden {
+    visibility: hidden;
+    opacity: 0;
+}
+.faded {
+    opacity: 0;
+    transition: opacity 500ms linear;
+}
+.faded.in {
+    opacity: 1;
+    transition: opacity 3000ms linear;
+}
+.fade {
+    opacity: 0.25;
+    transition: opacity 500ms linear;
+}
+.fade.in {
+    opacity: 1;
+    transition: opacity 3000ms linear;
 }
 
 /* === T R A S H === === === === === === === === */

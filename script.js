@@ -1,8 +1,5 @@
 // ── GLOBAL VARIABLES ─────────────────────────────────────
 const PASSWORD = "";
-const ALPHA_VANTAGE_KEY = 'ONWS7QAI76ZRNLON';
-const ALPHA_VANTAGE_BASE_URL = 'https://www.alphavantage.co/query?';
-
 let currentStock = null;
 let currentSettings = null;
 let currentTicker = null;
@@ -13,10 +10,14 @@ let frozenL = "";
 let frozenR = "";
 let fullDesc = "hide";
 let newsFilter = 'all';
+// Primary dev mode states
 let devModeUnlocked = false;
 let devModeInitialized = false;
 let lastApiCallTime = 0;
-
+let lastDevUpdate = null; // Track which was last updated by dev mode - 'company' or 'price' or null?
+let devModeTaps = 0;
+let devModeTapTimeout = null;
+let devModeCountdownActive = false;
 // Secondary dev mode states
 let secondaryDevActive = null; // 'company' or 'price' or null
 let companyInputActive = false;
@@ -25,10 +26,10 @@ let companyTaps = 0;
 let priceTaps = 0;
 let companyTapTimeout = null;
 let priceTapTimeout = null;
-
-// Track which was last updated by dev mode
-let lastDevUpdate = null; // 'company' or 'price' or null
-
+// Alpha Vantags API globals
+const ALPHA_VANTAGE_KEY = 'ONWS7QAI76ZRNLON';
+const ALPHA_VANTAGE_BASE_URL = 'https://www.alphavantage.co/query?';
+// Price table and settings globals
 const DEFAULT_MINIMUM_THRESHOLD = 5000;
 const PRICE_ROUNDING_INTERVALS = [
     { limit: 5, interval: 0.01 },
@@ -52,6 +53,160 @@ const SHARE_ROUNDING_INTERVALS = [
     { limit: 10000, interval: 50 },
     { limit: Infinity, interval: 100 }
 ];
+
+// ── WHISPER ──────────────────────────────────────────────
+const WHISPER_URL = 'https://cdn.jsdelivr.net/npm/ml5-data-and-models@2.0.2/models/whisper/whisper-base.en/model.json';
+const WHISPER_URL_RESPONSE = [
+    'Failed to fetch version info for ml5-data-and-models.',
+    'Package not found: ml5-data-and-models',
+    'Error'
+];
+let whisperModel;
+let isListening = false;
+let voiceMode = false;
+let voiceBarEl;
+let voiceStatusEl;
+let audioStream = null;
+
+async function initWhisper() {
+    if (initWhisper.attempted) return;
+    initWhisper.attempted = true;
+    try {
+        let errMsg;
+        const response = await fetch(WHISPER_URL);
+        const statusCode = response.status;
+        const fullResponse = await response.text();
+        const isFailure = WHISPER_URL_RESPONSE.some(errorText => fullResponse.includes(errorText));
+
+        if (statusCode === 200) {
+            console.log("Status code: ✅ Success");
+        } else if (statusCode === 404) {
+            errMsg = `RESPONSE CODE: ❌ Page not found (${statusCode})`;
+        } else if (statusCode === 400) {
+            errMsg = `RESPONSE CODE: ❌ Bad request (${statusCode})`;
+        } else {
+            errMsg = `RESPONSE CODE: ${statusCode} - ⚠ Unrecognized`;
+        }
+
+        if (isFailure) {
+            throw new Error("RESPONSE TEXT: " + ((fullResponse === null || fullResponse === "") ? errMsg : fullResponse));
+        }
+
+        whisperModel = await ml5.soundClassifier(WHISPER_URL, {
+            continuous: true, 
+            probabilityThreshold: 0.7
+        });
+
+        console.log("✅ Model loaded successfully");
+        return true;
+    } catch (err) {
+        console.error(err.message);
+        return false;
+    }
+}
+
+async function setupVoiceControl() {
+    voiceBarEl = document.getElementById('voice-control-bar');
+    voiceStatusEl = document.getElementById('voice-status-text');
+    if (!voiceBarEl || !voiceStatusEl) return;
+
+    voiceMode = await initWhisper();
+    voiceBarVisibility(voiceMode);
+
+    if (!voiceMode) return;
+
+    voiceBarEl.addEventListener('click', async () => {
+         if (!isListening) {
+             await processVoiceInput();
+             toggleVoiceBar();
+         } else {
+             stopListeningManually();
+             toggleVoiceBar();
+         }
+     });
+}
+
+function stopListeningManually() {
+    if (whisperModel) whisperModel.stopClassify();
+    if (audioStream) audioStream.getTracks().forEach(track => track.stop());
+    isListening = false;
+}
+
+async function processVoiceInput() {
+    if (!whisperModel) return;
+    isListening = true;
+    try {
+        audioStream = await navigator.mediaDevices.getUserMedia({ audio: true });
+        whisperModel.classify((err, results) => {
+            if (err) return;
+            console.log("Heard:", results[0].label);
+        });
+    } catch (err) {
+        console.error("Mic access denied:", err.message);
+        voiceStatusEl.textContent = "Mic access denied";
+        isListening = false;
+    }
+}
+
+function voiceBarVisibility(voiceMode) {
+    if (voiceMode) {
+        voiceBarEl.classList.remove('hidden');
+        setTimeout(() => {
+            voiceBarEl.classList.add('in');
+        }, 500);
+    } else {
+        voiceBarEl.classList.remove('in');
+        setTimeout(() => {
+            voiceBarEl.classList.add('hidden');
+        }, 500);
+    }
+}
+
+function toggleVoiceBar() {
+    isListening = !isListening;
+    if (isListening) {
+        voiceStatusEl.textContent = "Listening...";
+        voiceBarEl.classList.add('active');
+    } else {
+        voiceStatusEl.textContent = "Tap to Speak";
+        voiceBarEl.classList.remove('active');
+    }
+}
+
+// ── WHISPER WORKER ──────────────────────────────────────────────
+const worker = new Worker('worker.js', { type: 'module' });
+const status = document.getElementById('status');
+const output = document.getElementById('voice-output');
+const btn = document.getElementById('record-btn');
+
+worker.onmessage = (event) => {
+    const { type, data } = event.data;
+    if (type === 'progress') {
+        status.innerText = `Loading model: ${data}%`;
+        btn.classList.remove('in');
+    }
+    if (type === 'ready') {
+        status.innerText = 'Model Loaded! Speak now.';
+        btn.classList.add('in');
+    }
+    if (type === 'result') {
+        output.innerText = data;
+        btn.classList.add('active', 'rec');
+    }
+};
+
+btn.onclick = async () => {
+    status.innerText = "Listening...";
+    const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+    const audioContext = new AudioContext({ sampleRate: 16000 }); // Whisper needs 16kHz
+    const source = audioContext.createMediaStreamSource(stream);
+    
+    // Simple recording logic or use a library like 'RecordRTC'
+    // For brevity, assume you pass a Float32Array of audio to the worker:
+    // worker.postMessage({ audio: yourFloat32Array });
+};
+
+
 
 // ── HELPERS ──────────────────────────────────────────────
 function getConfig() {
@@ -266,13 +421,7 @@ function isDataExpired(serial) {
     return serialEpoch <= now;
 }
 
-
-
 // ── DEV MODE TAP COUNTER ─────────────────────────────────
-let devModeTaps = 0;
-let devModeTapTimeout = null;
-let devModeCountdownActive = false;
-
 function showDevModeCountdown(remaining) {
     // Create or update countdown toast
     let toast = document.getElementById('dev-mode-toast');
@@ -963,6 +1112,69 @@ function formatUrl(url) {
     return url.replace(/^(?:https?:\/\/)?(?:www\.)?/i, "").split("/")[0];
 }
 
+// ── REGEX TEXT REPLACEMENT HELPER ─────────────────────────────────────
+let regexReplaceMap = new Map(); // Stores [RegExp, replacement] pairs
+
+async function loadRegexReplaceMap() {
+    /**    
+     * Load the reference mapping JSON and build the regex replacement map
+    **/
+    try {
+        const response = await fetch("./config/reference-mapping.json");
+        if (!response.ok) throw new Error(`Failed to load mapping: ${response.status}`);
+
+        const mapping = await response.json();
+        const regexConfig = mapping?.CONFIG?.REGEX;
+
+        if (!regexConfig || typeof regexConfig !== "object") {
+            throw new Error("Invalid REGEX config in reference-mapping.json");
+        }
+
+        regexReplaceMap.clear();
+
+        // Process each key-value pair in the JSON
+        Object.entries(regexConfig).forEach(([searchKey, replacement]) => {
+            // Handle null replacements (convert to empty string)
+            const finalReplacement = replacement === null ? "" : replacement;
+
+            // Escape SPECIAL REGEX CHARACTERS in the search key
+            // This prevents errors if search keys contain things like ".", "*", or "["
+            const escapedSearchKey = searchKey.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+            // Create regex: 
+            // - "g" = global replace (all occurrences)
+            // - "i" = case-insensitive (optional – remove if you want exact case matches)
+            const regexPattern = new RegExp(escapedSearchKey, "g");
+
+            // Add to map
+            regexReplaceMap.set(regexPattern, finalReplacement);
+        });
+
+        console.log("✅ Regex replacement map loaded successfully. Entries:", regexReplaceMap.size);
+    } catch (err) {
+        console.error("❌ Failed to load regex replacement map:", err);
+    }
+}
+
+function applyRegexReplacements(inputText) {
+    /**    
+     * Apply all replacements from the preloaded map
+     * @param {string} inputText - Text to process
+     * @returns {string} Processed text
+    **/
+    if (!inputText || typeof inputText !== "string") return inputText || "";
+
+    let processedText = inputText;
+    regexReplaceMap.forEach((replacement, regex) => {
+        processedText = processedText.replace(regex, replacement);
+    });
+
+    // Optional: Clean up extra spaces after replacements
+    processedText = processedText.replace(/\s+/g, " ").trim();
+
+    return processedText;
+}
+
 // ── RENDER ───────────────────────────────────────────────
 function renderTablePrice(blocks, bid, feePct, feePctSell, sellMin, sellMax) {
     const tbody = document.getElementById("tbody-price");
@@ -1087,16 +1299,20 @@ function renderTicker(ticker) {
     const blockMaxHalf   = blockMin * 5;
     const blockMax       = blockMin * 10;
     const blocks         = [blockMax, blockMaxHalf, blockMinDouble, blockMin];
-    
+
     // market update percentages
     const labelBidPct = ((price - bid)   / bid) * 100;
     const labelMinPct = ((sellMin - bid) / bid) * 100;
     const labelMaxPct = ((sellMax - bid) / bid) * 100;
-    
+
+    // company name
+    const rawName = _C.name || ticker;
+    const processedName = applyRegexReplacements(rawName);
+
     // populate header
-    document.getElementById("name").textContent = _C.name || ticker;
+    document.getElementById("name").textContent = processedName;
     document.getElementById("date").textContent = formatDate(new Date());
-    
+
     // populate market update cards
     document.getElementById("price").textContent        = formatCurrency(price);
     document.getElementById("bid").textContent          = formatCurrency(bid);
@@ -1118,9 +1334,10 @@ function renderTicker(ticker) {
     }
     
     // description
-    const desc        = formatDescription(currentStock, ticker);
-    const description = desc.d;
-    const summary     = desc.s;
+    const formattedDesc = formatDescription(currentStock, ticker);
+    const processedDesc = applyRegexReplacements(formattedDesc);
+    const description = processedDesc.d;
+    const summary     = processedDesc.s;
     
     // populate information section
     document.getElementById("info-name").textContent      = _C.name     || "";
@@ -1156,13 +1373,16 @@ function renderTicker(ticker) {
 // ── LOAD ─────────────────────────────────────────────────
 async function loadData() {
     try {
+        // Load regex replacement map FIRST
+        await loadRegexReplaceMap();
+
+        // Load existing portfolio/settings data
         const [stockRes, settingsRes] = await Promise.all([
             fetch("./data/portfolio.json"),
             fetch("./config/settings.json")
         ]);
         const stockJson = await stockRes.json();
         const settingsJson = await settingsRes.json();
-
         currentStock = stockJson;
         currentSettings = settingsJson;
 
@@ -1176,6 +1396,9 @@ async function loadData() {
             opt.textContent = ticker;
             tckrSelEl.appendChild(opt);
         });
+
+        // Initialize voice here!
+        setupVoiceControl();
 
         // render first ticker
         renderTicker(tickers[0]);
@@ -1246,6 +1469,9 @@ function renderNews() {
         let badge = '';
         if (item.freemium)      badge = '<span class="news-badge-freemium">FREE</span>';
         else if (item.premium)  badge = '<span class="news-badge-premium">PREMIUM</span>';
+
+        // process news summary
+        const processedSummary = applyRegexReplacements(item.summary);
 
         card.className = cardClass;
         card.innerHTML = `
@@ -1951,3 +2177,109 @@ async function fetchAlphaVantageQuote(ticker) {
 */
 
 
+// // Initialize Whisper
+// async function initVoiceCommands() {
+//     try {
+//         // Check for browser support
+//         if (!window.Whisper || !navigator.mediaDevices.getUserMedia) {
+//             alert("Voice commands aren't supported in your browser. Use Chrome, Edge, or Safari.");
+//             return;
+//         }
+
+//         console.log("Loading Whisper model – this may take a minute the first time...");
+//         // Use the "base.en" model for better accuracy (or "tiny.en" for speed)
+//         whisperRecognizer = new Whisper('base.en');
+//         // Load model from CDN (no need to host it yourself)
+//         await whisperRecognizer.loadModel('https://cdn.jsdelivr.net/npm/whisper.js@1.1.10/models/');
+        
+//         console.log("Whisper ready!");
+//         // Add click handler to voice button
+//         document.getElementById('voice-ctrl-btn').addEventListener('click', toggleVoiceListening);
+//     } catch (err) {
+//         console.error("Failed to load Whisper:", err);
+//         alert("Failed to load voice recognition – check your internet connection and try again.");
+//     }
+// }
+// // Start listening
+// async function startListening() {
+//     try {
+//         // Get microphone access
+//         const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+//         microphoneStream = stream;
+
+//         // Initialize audio context
+//         audioContext = new (window.AudioContext || window.webkitAudioContext)();
+//         const source = audioContext.createMediaStreamSource(stream);
+
+//         console.log("Listening – speak now!");
+//         isListening = true;
+//         updateVoiceButtonUI();
+
+//         // Record audio until user stops speaking (Whisper handles silence detection)
+//         const result = await whisperRecognizer.transcribe({
+//             audioSource: source,
+//             language: 'en',
+//             onSilence: () => stopListening() // Stop when silence is detected
+//         });
+
+//         // Process the result
+//         if (result.text) {
+//             console.log(`Heard: "${result.text}"`);
+//             parseVoiceCommand(result.text);
+//         }
+//     } catch (err) {
+//         console.error("Listening error:", err);
+//         if (err.message.includes('permission')) {
+//             alert("Microphone access denied – enable it in your browser settings.");
+//         }
+//         stopListening();
+//     }
+// }
+// // Stop listening
+// function stopListening() {
+//     isListening = false;
+//     updateVoiceButtonUI();
+
+//     // Clean up audio stream
+//     if (microphoneStream) {
+//         microphoneStream.getTracks().forEach(track => track.stop());
+//         microphoneStream = null;
+//     }
+//     if (audioContext) {
+//         audioContext.close();
+//         audioContext = null;
+//     }
+// }
+// // Toggle listening
+// function toggleVoiceListening() {
+//     if (isListening) stopListening();
+//     else startListening();
+// }
+// // Update button UI
+// function updateVoiceButtonUI() {
+//     const btn = document.getElementById('voice-ctrl-btn');
+//     if (isListening) {
+//         btn.textContent = "🎙️ Listening...";
+//         btn.style.background = "var(--profit-max)";
+//         btn.style.color = "var(--bg)";
+//     } else {
+//         btn.textContent = "🎙️ Voice Commands";
+//         btn.style.background = "transparent";
+//         btn.style.color = "var(--accent-clr)";
+//     }
+// }
+// // Reuse your existing parseVoiceCommand() function here!
+// function parseVoiceCommand(text) {
+//     const lowerText = text.toLowerCase();
+//     // ... your existing command logic (switch tickers, modes, etc.) ...
+// }
+// // Initialize when the app loads
+// async function loadData() {
+//     try {
+//         await loadRegexReplaceMap();
+//         // ... your existing data loading ...
+//         await initVoiceCommands(); // Load Whisper
+//     } catch (e) {
+//         // ... error handling ...
+//     }
+// }
