@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 40.29,
+        "price": 42.565,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.13747,
-            "marketCap": 178654003200,
+            "change": 5.6465564,
+            "marketCap": 188741812224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.417458
+            "yearTarget": 46.68614
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket",
+                "summary": "Shares of  Eli Lilly  rose sharply after the drugmaker delivered a beat-and-raise quarter driven partly by demand for its GLP-1 drugs.  First-quarter adjusted earnings of $8.55 a share handily beat the $6.97 Wall Street had forecast.  Lilly\u2019s blockbuster tirzepatide injectables accounted for the bulk of revenue in the quarter.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/eli-lilly-earnings-stock-price-zepbound-mounjaro-19a9324d?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-30T13:56:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly Shares Jump as Mounjaro, Zepbound Fuel Massive Growth",
+                "summary": "Booming sales of weight-loss shots fueled strong revenue and profit growth for  Eli Lilly  in the latest quarter, as robust consumer demand helped offset falling prices for the drugs.  The results blew past Wall Street expectations, and Lilly raised its forecast for full-year 2026 sales and profit.  Lilly shares rose 7.5% in premarket trading.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/health/pharma/eli-lilly-sales-profits-surge-on-weight-loss-drugs-5eef007e?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-30T12:08:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "What's the Next Big Thing After GLP-1 Drugs? CRISPR Therapeutics May Have the Answer.",
+                "summary": "The biotech's candidate may treat a great number of illnesses that have one thing in common.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/30/whats-the-next-big-thing-after-glp-1-drugs-crispr/",
+                "publishDate": "2026-04-30T09:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Jim Cramer Believes \u201cNovo Nordisk Is Going to Lose a Lot of Share on the Pill to Eli Lilly\u201d",
+                "summary": "Novo Nordisk A/S (NYSE:NVO) was among the stocks Jim Cramer covered on Mad Money as he discussed the wave of IPOs being the market\u2019s possible biggest threat. A caller asked if they should hold the stock or not, and in response, Cramer said: Oh, Novo Nordisk, no, look, Eli Lilly\u2019s struggling right here. I think, [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-novo-nordisk-080617252.html",
+                "publishDate": "2026-04-30T08:06:17Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NVO) Dips More Than Broader Market: What You Should Know",
                 "summary": "Novo Nordisk (NVO) concluded the recent trading session at $40.29, signifying a -2.14% move from its prior day's close.",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-04-29T10:02:27Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Health Canada approves first generic version of Novo Nordisk's Ozempic",
-                "summary": "April 28 (Reuters) - Health Canada has approved the first generic version of Danish drugmaker Novo Nordisk's blockbuster diabetes drug Ozempic made by Indian drugmaker Dr Reddy's Laboratories, its",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/health-canada-approves-first-generic-211017881.html",
-                "publishDate": "2026-04-28T21:10:17Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Erasca Stock Sinks 48% in Race for Pancreatic Cancer Miracle Drug. What\u2019s Behind the Sell-Off.",
-                "summary": "A confluence of safety concerns and underwhelming clinical data sent  Erasca  stock into a historic tailspin on Tuesday.  Erasca late Monday reported positive Phase 1 trial results for ERAS-0015, a therapeutic drug candidate tailored to patients with lung and pancreatic cancer.  Investors quickly drew parallels to daraxonrasib, the high-profile lead asset from  Revolution Medicines  Daraxonrasib has been on the receiving end of a storm of media coverage following an endorsement from former Nebraska Sen. Ben Sasse.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/erasca-stock-cancer-drug-daraxonrasib-revolution-medicines-d255a008?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-28T20:54:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Novo Nordisk (CPSE:NOVO B) Pricing Reflect Its Recent Share Price Swings And Growth Outlook",
-                "summary": "With Novo Nordisk on many watchlists, the key question right now is whether the current share price reflects its underlying value or if the market is mispricing the stock. Over the past week the share price has returned 7.6%, 16.3% over the last month, but is still showing a 19.5% decline year to date and a 34.5% decline over the past year, following a 49.1% decline over three years and a 29.1% gain over five years. Recent coverage has focused on Novo Nordisk\u2019s positioning in pharmaceuticals...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-180547150.html",
-                "publishDate": "2026-04-28T18:05:47Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Decline Tuesday",
-                "summary": "European equities traded in the US as American depositary receipts were lower on Tuesday morning, do",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150831117.html",
-                "publishDate": "2026-04-28T15:08:31Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.48,
+        "price": 1.45,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.7142887,
-            "marketCap": 138867200,
+            "change": -2.6845613,
+            "marketCap": 136052320,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,12 +312,82 @@
         },
         "NEWS": [
             {
+                "title": "Freeport-McMoRan Links Copper Mining To Tech And Satellite Growth",
+                "summary": "Freeport-McMoRan (NYSE:FCX) is drawing attention as copper demand linked to technology, especially satellite infrastructure, gains momentum. The anticipated SpaceX IPO is sharpening focus on how global connectivity projects could rely on copper intensive hardware. This shifts the narrative around NYSE:FCX toward potential exposure to next generation tech infrastructure rather than only traditional mining demand. For you as an investor, the key point is that NYSE:FCX sits at the intersection...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/freeport-mcmoran-links-copper-mining-140235279.html",
+                "publishDate": "2026-04-30T14:02:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Will Pay Elon Musk To Conquer Mars \u2014 No, Really, It's In The Filing",
+                "summary": "Buried inside the confidential paperwork SpaceX has handed regulators ahead of its planned public offering sits one of the strangest performance targets ever set for a corporate executive: build a city on Mars, and the company will hand its founder one of the largest stock awards in history. According to a Reuters report Tuesday that reviewed excerpts of the rocket maker\u2019s confidential SEC registration statement, the SpaceX board signed off on the plan in January. It clears Elon Musk to receive",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-pay-elon-musk-conquer-100104784.html",
+                "publishDate": "2026-04-30T10:01:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Jim Cramer on Intuitive Machines: \u201cThe Kind of Speculative Stock That I\u2019m Going to Endorse\u201d",
+                "summary": "Intuitive Machines, Inc. (NASDAQ:LUNR) was among the stocks Jim Cramer covered on Mad Money as he discussed the wave of IPOs being the market\u2019s possible biggest threat. When a caller queried about the stock during the lightning round, Cramer said: Okay, this is the kind of speculative stock that I\u2019m going to endorse. I like [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-intuitive-machines-kind-083312643.html",
+                "publishDate": "2026-04-30T08:33:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Be Warned: A Historical Triple Whammy Awaits the SpaceX IPO",
+                "summary": "History tends to rhyme on Wall Street -- and that's terrible news for prospective SpaceX investors.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/04/30/be-warned-a-historical-triple-whammy-spacex-ipo/",
+                "publishDate": "2026-04-30T08:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Jim Cramer Says \u201cI Think That Rocket Lab Is a Winner\u201d",
+                "summary": "Rocket Lab Corporation (NASDAQ:RKLB) was among the stocks Jim Cramer covered on Mad Money as he discussed the wave of IPOs being the market\u2019s possible biggest threat. When a caller mentioned that they have been holding the stock for a while, Cramer stated: I feel exactly like you, exactly like you. And when they had [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-rocket-080633906.html",
+                "publishDate": "2026-04-30T08:06:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Ties Musk\u2019s 200 Million-Share Award to Mars Colony and $7.5 Trillion Valuation",
+                "summary": "SpaceX board pegs Elon Musk's 200 million-share award to a $7.5 trillion valuation and 1-million-person Mars colony.",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/spacex-musk-pay-mars-colony-ipo/",
+                "publishDate": "2026-04-30T07:22:38Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The SpaceX IPO Could Crush This Favorite Buffett Stock",
                 "summary": "Starlink could challenge other satellite-based businesses like SiriusXM.",
                 "source": "Motley Fool",
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/04/29/the-spacex-ipo-could-crush-this-favorite-buffett-s/",
                 "publishDate": "2026-04-30T02:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk says Sam Altman tried to 'steal' charity, as moguls contest $150bn court battle",
+                "summary": "Elon Musk has accused his rival Sam Altman of trying to \"steal\" a charity as he fights his $150bn (\u00a3111bn) court claim over OpenAI.  The trial centres on the 2015 birth of OpenAI, maker of ChatGPT, as a non-profit start-up, primarily funded by Mr Musk, before it evolved into a capitalist venture now valued at $852bn (\u00a3632bn).  Mr Musk, the CEO of Tesla and SpaceX, has accused Mr Altman, OpenAI, and its president, Greg Brockman, of wooing his donations by promising to build a non-profit to develop AI responsibly, before pivoting to create a for-profit entity in 2019 to enrich themselves.",
+                "source": "Sky News",
+                "category": "finance",
+                "url": "https://uk.finance.yahoo.com/news/elon-musk-says-sam-altman-221800260.html",
+                "publishDate": "2026-04-29T22:18:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -332,82 +402,12 @@
                 "freemium": false
             },
             {
-                "title": "Google Stock Climbs On Q1 Earnings As Cloud Revenue, 'Backlog' Booms",
-                "summary": "Google stock rose as parent Alphabet\u2019s Q1 earnings showed strong growth in cloud computing and search ads amid huge AI investments.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/google-stock-alphabet-google-earnings-q12026/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-04-29T21:25:38Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Viasat Shares Gain Ground After Satellite Launch",
                 "summary": "Shares of satellite operator Viasat gained 2.1% Wednesday after SpaceX confirmed it deployed the company\u2019s latest big satellite.  Viasat Chief Executive Mark Dankberg said the satellite would help it address its main customer groups in the region, including airlines and government agencies.  Viasat has faced intensifying competition in recent years from SpaceX\u2019s Starlink satellite-internet business that have weighed on its shares.",
                 "source": "The Wall Street Journal",
                 "category": "finance",
                 "url": "https://www.wsj.com/livecoverage/fed-interest-rate-decision-earnings-04-29-2026/card/viasat-shares-gain-ground-after-satellite-launch-0RTsDCruVCCTwIPAvAyo?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-04-29T21:17:34Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can We Handle the Magnificent 10?",
-                "summary": "Tech banker Storm Duncan made headlines by offering to swap his luxurious California estate for privately held shares of Anthropic.  The Claude developer, along with ChatGPT parent OpenAI and xAI owner SpaceX, are preparing for what should be three of the largest-ever initial public offerings.  AI-linked companies, from \u201chyperscalers\u201d to chip makers and power providers, already make up about 45% of the U.S. stock market.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/can-we-handle-the-magnificent-10-9977ba49?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-29T21:15:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Intel Just Lost Its Chief Accounting Officer. Is That a Red Flag or a Nonissue for INTC Stock?",
-                "summary": "Sometimes such announcements would be bad news, but Intel says the chief accounting officer stepped down to take another career opportunity. How will this shake out?",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/1598957/intel-just-lost-its-chief-accounting-officer-is-that-a-red-flag-or-a-nonissue-for-intc-stock",
-                "publishDate": "2026-04-29T20:04:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Market Chatter: SpaceX's Starlink Revenue Per User Falls as Customers Quadrupled",
-                "summary": "Tesla (TSLA) Chief Executive Elon Musk's SpaceX Starlink internet service saw revenue per user falli",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-spacex-apos-starlink-190845890.html",
-                "publishDate": "2026-04-29T19:08:45Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Can SpaceX Become a Millionaire-Maker Stock?",
-                "summary": "The answer might surprise you.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/29/can-spacex-become-a-millionaire-maker-stock/",
-                "publishDate": "2026-04-29T18:41:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Advisors Urge Investors to Wait on SpaceX",
-                "summary": "Financial advisors recommend retail investors wait for a post-IPO price dip before buying SpaceX shares, citing its sky-high valuation and historical pricing patterns.",
-                "source": "Wealth Management",
-                "category": "finance",
-                "url": "https://www.wealthmanagement.com/investing-strategies/advisors-caution-clients-to-wait-post-ipo-for-spacex-bets",
-                "publishDate": "2026-04-29T18:33:38Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Billionaire Elon Musk Says 'Life Can't Just Be One Sad Thing After Another' \u2014 We Need To Be 'Super Excited' About Stuff, Like Traveling To The Moon",
-                "summary": "The world's richest man is talking about sadness \u2014 and his solution is a trip to the Moon. That was the message Elon Musk shared on X in early February, just as SpaceX rolled out a new push to make...",
-                "source": "Benzinga",
-                "category": "news",
-                "url": "https://www.yahoo.com/news/articles/billionaire-elon-musk-says-life-173103191.html",
-                "publishDate": "2026-04-29T17:31:03Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.52,
+        "price": 28.3,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.900252,
-            "marketCap": 19696095232,
+            "change": 2.834298,
+            "marketCap": 20254341120,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.17,
+        "price": 28.765,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.62641,
-            "marketCap": 5768723968,
+            "change": 2.1121736,
+            "marketCap": 5890569216,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
