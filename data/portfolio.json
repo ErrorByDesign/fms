@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.7,
+        "price": 42.755,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.9816327,
-            "marketCap": 189340434432,
+            "change": 6.1181436,
+            "marketCap": 189584310272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.653393
+            "yearTarget": 46.687897
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -49,6 +49,16 @@
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-gain-173246770.html",
                 "publishDate": "2026-04-30T17:32:46Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "LLY Stock Jumps After Q1 Earnings Beat, 2026 Guidance Raised",
+                "summary": "LLY jumps after crushing Q1 estimates and raising 2026 outlook, powered by surging Mounjaro and Zepbound sales and strong global demand.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/lly-stock-jumps-q1-earnings-170100774.html",
+                "publishDate": "2026-04-30T17:01:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-believes-novo-nordisk-080617252.html",
                 "publishDate": "2026-04-30T08:06:17Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Dips More Than Broader Market: What You Should Know",
-                "summary": "Novo Nordisk (NVO) concluded the recent trading session at $40.29, signifying a -2.14% move from its prior day's close.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-dips-more-214504490.html",
-                "publishDate": "2026-04-29T21:45:04Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.46,
+        "price": 28.505,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.4156926,
-            "marketCap": 20368852992,
+            "change": 3.5798607,
+            "marketCap": 20401059840,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.59,
+        "price": 28.76,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4909481,
-            "marketCap": 5854732288,
+            "change": 2.0944273,
+            "marketCap": 5889545728,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
