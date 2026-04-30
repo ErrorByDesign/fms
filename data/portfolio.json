@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.455,
+        "price": 42.604,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.374211,
-            "marketCap": 188254060544,
+            "change": 5.7433586,
+            "marketCap": 188914745344,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.66694
+            "yearTarget": 46.643948
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -42,6 +42,16 @@
                 "freemium": false
             },
             {
+                "title": "Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket",
+                "summary": "Shares of  Eli Lilly  rose sharply after the drugmaker delivered a beat-and-raise quarter driven partly by demand for its GLP-1 drugs.  First-quarter adjusted earnings of $8.55 a share handily beat the $6.97 Wall Street had forecast.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/eli-lilly-earnings-stock-price-zepbound-mounjaro-19a9324d?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-04-30T15:13:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "European Equities Traded in the US as American Depositary Receipts Rise in Thursday Trading",
                 "summary": "European equities traded in the US as American depositary receipts rose late Thursday morning, gaini",
                 "source": "MT Newswires",
@@ -49,16 +59,6 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150639342.html",
                 "publishDate": "2026-04-30T15:06:39Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket",
-                "summary": "Shares of  Eli Lilly  rose sharply after the drugmaker delivered a beat-and-raise quarter driven partly by demand for its GLP-1 drugs.  First-quarter adjusted earnings of $8.55 a share handily beat the $6.97 Wall Street had forecast.  Lilly\u2019s blockbuster tirzepatide injectables accounted for the bulk of revenue in the quarter.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-earnings-stock-price-zepbound-mounjaro-19a9324d?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-30T13:56:00Z",
-                "premium": false,
                 "freemium": false
             },
             {
@@ -312,16 +312,6 @@
         },
         "NEWS": [
             {
-                "title": "Elon Musk faces tense questioning in cross-examination by OpenAI's lawyer",
-                "summary": "By Deepa Seetharaman and Kenrick Cai OAKLAND, California, April 30 (Reuters) - Elon Musk faced tense questioning and showed frustration on the witness stand on Thursday during a second day of cross-",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/elon-musk-return-witness-stand-100353619.html",
-                "publishDate": "2026-04-30T16:05:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Blue Owl sold about half its SpaceX holding at $1.25 trillion valuation, co-CEO says",
                 "summary": "Blue Owl \u200csold about half its investment in \u200cSpaceX at a $1.25 trillion valuation, the alternative asset manager's \u200bco-CEO Marc Lipschultz said on Thursday.  SpaceX is expected to go public later this year \u200bat a \u200bpossible valuation of $1.75 \u200btrillion, raising about $75 \u200cbillion in what would be the largest public listing on record.  New \u200cYork-based Blue Owl was \u200bone of SpaceX's earliest \u200blenders and \u200beventually made an equity investment, \u200cLipschultz added.",
                 "source": "Reuters",
@@ -358,6 +348,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/commodities/articles/freeport-mcmoran-links-copper-mining-140235279.html",
                 "publishDate": "2026-04-30T14:02:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk faces tense questioning in cross-examination by OpenAI's lawyer",
+                "summary": "Elon Musk wrangled with Sam Altman's lawyer on Thursday over whether he had seen emails and documents discussing turning OpenAI into a for-profit company as he was cross-examined in a trial over a lawsuit brought by Musk that could determine the future \u200cof the ChatGPT maker.  The world's richest person alleges that OpenAI, its co-founder and CEO Sam Altman, and its President Greg Brockman wooed his $38 million in donations by promising \u200cto build a nonprofit that would prioritize safe development of AI, before pivoting to create a for-profit entity to enrich themselves.  OpenAI has countered that Musk, the CEO of Tesla and SpaceX, is driven by a compulsion to control \u200bOpenAI and is bitter about the company's success after he left the board\u00a0in 2018.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-return-witness-stand-100353371.html",
+                "publishDate": "2026-04-30T10:03:53Z",
                 "premium": false,
                 "freemium": false
             },
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.335,
+        "price": 28.345,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9614775,
-            "marketCap": 20279390208,
+            "change": 2.9983602,
+            "marketCap": 20286547968,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.55,
+        "price": 28.43,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3489498,
-            "marketCap": 5846540800,
+            "change": 0.9229685,
+            "marketCap": 5821967360,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
