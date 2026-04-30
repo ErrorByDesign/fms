@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.565,
+        "price": 42.405,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.6465564,
-            "marketCap": 188741812224,
+            "change": 5.249436,
+            "marketCap": 188032335872,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.68614
+            "yearTarget": 46.66372
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Qualcomm stock surges on data center demand, Eli Lilly lifts outlook",
+                "summary": "Market Catalysts host Julie Hyman and Yahoo Finance Senior Reporter Brooke DiPalma take a look at some of Thursday morning's trending tickers and stories. Eli Lilly (LLY) unexpectedly raised its full-year sales outlook. Caterpillar (CAT) stock is surging after the company's quarterly earnings topped estimates. Qualcomm (QCOM) stock is also surging, thanks to strong data center demand.",
+                "source": "Yahoo Finance Video",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/qualcomm-stock-surges-on-data-center-demand-eli-lilly-lifts-outlook-150646566.html",
+                "publishDate": "2026-04-30T15:06:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Rise in Thursday Trading",
+                "summary": "European equities traded in the US as American depositary receipts rose late Thursday morning, gaini",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150639342.html",
+                "publishDate": "2026-04-30T15:06:39Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly Stock Jumps on Earnings Beat as Zepbound and Mounjaro Sales Skyrocket",
                 "summary": "Shares of  Eli Lilly  rose sharply after the drugmaker delivered a beat-and-raise quarter driven partly by demand for its GLP-1 drugs.  First-quarter adjusted earnings of $8.55 a share handily beat the $6.97 Wall Street had forecast.  Lilly\u2019s blockbuster tirzepatide injectables accounted for the bulk of revenue in the quarter.",
@@ -43,7 +63,7 @@
             },
             {
                 "title": "Eli Lilly Shares Jump as Mounjaro, Zepbound Fuel Massive Growth",
-                "summary": "Booming sales of weight-loss shots fueled strong revenue and profit growth for  Eli Lilly  in the latest quarter, as robust consumer demand helped offset falling prices for the drugs.  The results blew past Wall Street expectations, and Lilly raised its forecast for full-year 2026 sales and profit.  Lilly shares rose 7.5% in premarket trading.",
+                "summary": "Booming sales of weight-loss shots fueled strong revenue and profit growth for  Eli Lilly  in the latest quarter, as robust consumer demand helped offset falling prices for the drugs.  The results blew past Wall Street expectations, and Lilly raised its forecast for full-year 2026 sales and profit.  Lilly shares rose nearly 6% when the market opened.",
                 "source": "The Wall Street Journal",
                 "category": "finance",
                 "url": "https://www.wsj.com/health/pharma/eli-lilly-sales-profits-surge-on-weight-loss-drugs-5eef007e?siteid=yhoof2&yptr=yahoo",
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://www.wsj.com/health/pharma/canada-approves-dr-reddys-generic-version-of-novo-nordisks-ozempic-3e75dc6e?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-04-29T16:37:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hims & Hers Expands Digital-First Access to Personalized Healthcare",
-                "summary": "HIMS broadens digital-first care with Novo Nordisk GLP-1 access, new cancer detection and Labs tools, along with expansion into Canada and Europe.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/hims-hers-expands-digital-first-142900822.html",
-                "publishDate": "2026-04-29T14:29:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly investors are eager for Foundayo insight after early launch data",
-                "summary": "April 29 (Reuters) - Eli Lilly investors will be searching for something they won't find in any first-quarter financial figures reported on Thursday: insight into the launch of weight-loss pill Foundayo. sales of the hotly anticipated obesity offering, a \u200crival to Novo Nordisk's Wegovy pill, began in early April, so Foundayo data will not be included in Lilly's first-quarter financials.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/eli-lilly-investors-eager-foundayo-100227709.html",
-                "publishDate": "2026-04-29T10:02:27Z",
                 "premium": false,
                 "freemium": false
             }
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Why Chamath Palihapitiya is Praising Elon Musk\u2019s $60 Billion Cursor Bid",
+                "summary": "On a recent episode of the All-In Podcast, Chamath Palihapitiya laid out a contrarian take that Elon Musk just locked in a bargain with SpaceX\u2019s deal to either acquire AI coding startup Cursor by the end of 2026 for $60 billion, or pay $10 billion for a collaborative partnership. \u201cIf it\u2019s $60 billion in tomorrow dollars, ... Why Chamath Palihapitiya is Praising Elon Musk\u2019s $60 Billion Cursor Bid",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/04/30/why-chamath-palihapitiya-is-praising-elon-musks-60-billion-cursor-bid/",
+                "publishDate": "2026-04-30T15:17:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Freeport-McMoRan Links Copper Mining To Tech And Satellite Growth",
                 "summary": "Freeport-McMoRan (NYSE:FCX) is drawing attention as copper demand linked to technology, especially satellite infrastructure, gains momentum. The anticipated SpaceX IPO is sharpening focus on how global connectivity projects could rely on copper intensive hardware. This shifts the narrative around NYSE:FCX toward potential exposure to next generation tech infrastructure rather than only traditional mining demand. For you as an investor, the key point is that NYSE:FCX sits at the intersection...",
                 "source": "Simply Wall St.",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-04-29T22:08:35Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Viasat Shares Gain Ground After Satellite Launch",
-                "summary": "Shares of satellite operator Viasat gained 2.1% Wednesday after SpaceX confirmed it deployed the company\u2019s latest big satellite.  Viasat Chief Executive Mark Dankberg said the satellite would help it address its main customer groups in the region, including airlines and government agencies.  Viasat has faced intensifying competition in recent years from SpaceX\u2019s Starlink satellite-internet business that have weighed on its shares.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/fed-interest-rate-decision-earnings-04-29-2026/card/viasat-shares-gain-ground-after-satellite-launch-0RTsDCruVCCTwIPAvAyo?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-29T21:17:34Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.834298,
+            "change": 2.8348129,
             "marketCap": 20254341120,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.765,
+        "price": 28.57,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1121736,
-            "marketCap": 5890569216,
+            "change": 1.4199489,
+            "marketCap": 5850636800,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
