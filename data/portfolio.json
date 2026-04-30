@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.66,
+        "price": 42.7,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.88235,
-            "marketCap": 189163061248,
+            "change": 5.9816327,
+            "marketCap": 189340434432,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.6673
+            "yearTarget": 46.653393
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.456,
+        "price": 1.433,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2818818,
-            "marketCap": 136615296,
+            "change": -3.825506,
+            "marketCap": 134457216,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,12 +312,32 @@
         },
         "NEWS": [
             {
+                "title": "Blue Owl's SpaceX Bet Just Bailed Out Its Earnings Call",
+                "summary": "The alternative asset manager has been sweating a private credit scare for weeks, so it needed a 10x return on a rocket company and the room changed entirely",
+                "source": "Moby",
+                "category": "finance",
+                "url": "https://app.moby.co/home/news/news-blue-owls-spacex-bet-just-bailed-out-its-earnings-call?utm_source=yahoo_finance&utm_medium=rss",
+                "publishDate": "2026-04-30T17:35:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "3 Key Takeaways From SpaceX's Potential $60 Billion Deal With Cursor Leading Up to Its IPO",
                 "summary": "SpaceX is trying to change the narrative about what type of company it is.",
                 "source": "Motley Fool",
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/04/30/3-key-takeaways-from-spacexs-potential-60-billion/",
                 "publishDate": "2026-04-30T17:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Bigger the Moonshot, the More Likely the Unicorn",
+                "summary": "Do you need to make huge bets to get the vaunted unicorn or decacorn status? Colossal CEO and cofounder Ben Lamm says entrepreneurs need to go big.",
+                "source": "Entrepreneur",
+                "category": "finance",
+                "url": "https://www.entrepreneur.com/building-a-business/the-bigger-the-moonshot-the-more-likely-the-unicorn",
+                "publishDate": "2026-04-30T17:10:02Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,26 +410,6 @@
                 "publishDate": "2026-04-30T08:33:12Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Be Warned: A Historical Triple Whammy Awaits the SpaceX IPO",
-                "summary": "History tends to rhyme on Wall Street -- and that's terrible news for prospective SpaceX investors.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/04/30/be-warned-a-historical-triple-whammy-spacex-ipo/",
-                "publishDate": "2026-04-30T08:26:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Jim Cramer Says \u201cI Think That Rocket Lab Is a Winner\u201d",
-                "summary": "Rocket Lab Corporation (NASDAQ:RKLB) was among the stocks Jim Cramer covered on Mad Money as he discussed the wave of IPOs being the market\u2019s possible biggest threat. When a caller mentioned that they have been holding the stock for a while, Cramer stated: I feel exactly like you, exactly like you. And when they had [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-think-rocket-080633906.html",
-                "publishDate": "2026-04-30T08:06:33Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.425,
+        "price": 28.46,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.288513,
-            "marketCap": 20343803904,
+            "change": 3.4156926,
+            "marketCap": 20368852992,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.61,
+        "price": 28.59,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5619472,
-            "marketCap": 5858828288,
+            "change": 1.4909481,
+            "marketCap": 5854732288,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
