@@ -20,7 +20,7 @@
             "marketCap": 187212021760,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.68658
+            "yearTarget": 46.681446
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -72,6 +72,16 @@
                 "freemium": false
             },
             {
+                "title": "GLP-1 Sales Continue to Lift Eli Lilly. Does That Make LLY Stock a Buy?",
+                "summary": "Eli Lilly stock rallies as GLP-1 sales drive a 56% year-on-year increase in Q1 revenue. Jim Cramer recommends buying LLY shares as the weight-loss addressable market is truly huge.",
+                "source": "Barchart",
+                "category": "finance",
+                "url": "https://www.barchart.com/story/news/1631893/glp-1-sales-continue-to-lift-eli-lilly-does-that-make-lly-stock-a-buy",
+                "publishDate": "2026-04-30T21:08:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "FDA proposes curbs on mass copycats of Novo, Lilly's weight-loss drugs",
                 "summary": "The Food and Drug Administration proposed excluding Novo Nordisk and Eli Lilly's weight-loss drugs from a key compounding list.",
                 "source": "USA TODAY",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-rises-fda-compounding-190459619.html",
                 "publishDate": "2026-04-30T19:04:59Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Avalyn Pharma Surges 44% After $300 Million Upsized IPO",
-                "summary": "Avalyn opened at $26, above its $18 IPO price, giving the rare lung disease biotech a market value of about $1.1 billion.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/avalyn-pharma-surges-44-300-190448071.html",
-                "publishDate": "2026-04-30T19:04:48Z",
                 "premium": false,
                 "freemium": false
             }
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Musk Thinks $10 Trillion SpaceX Package Would Be A 'Good Deal' But Warns Dollars Could Become Obsolete As Humanity Reaches Kardashev II Civilization",
+                "summary": "Elon Musk on Tuesday shared his views on SpaceX\u2019s reported pay package, which could be tied to the colonization of Mars and orbital datacenters. Good Deal, Says Elon Musk User @beffjezos quoted a post on X that shared details about the purported pay package. The user predicted what Musk\u2019s SpaceX package could look like. \u201c$10T if we reach Kardashev Type I,\u201d the user shared and \u201c$1000T if we reach Kardashev II,\u201d they added. Next Elon's comp package:-$10T if we reach Kardashev Type I-$1000T if we r",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/musk-thinks-10-trillion-spacex-033109151.html",
+                "publishDate": "2026-05-01T03:31:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "2 Hidden Ways to Invest in SpaceX Right Now",
                 "summary": "You don't have to wait for the SpaceX IPO to invest.",
                 "source": "Motley Fool",
@@ -398,16 +408,6 @@
                 "category": "finance",
                 "url": "https://www.entrepreneur.com/building-a-business/the-bigger-the-moonshot-the-more-likely-the-unicorn",
                 "publishDate": "2026-04-30T17:10:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Investor 137 Ventures Sees Stake Top 1%, Pass $10 Billion",
-                "summary": "(Bloomberg) -- 137 Ventures, a repeat investor in Elon Musk\u2019s SpaceX, now owns more than 1% of the company with a stake in excess of $10 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobMeta Shares Plunge on Rising Concern About AI Spending Spre",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-137-ventures-sees-170613082.html",
-                "publishDate": "2026-04-30T17:06:13Z",
                 "premium": false,
                 "freemium": false
             }
