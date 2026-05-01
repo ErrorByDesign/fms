@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.555,
+        "price": 43.71,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.1620064,
-            "marketCap": 193131675648,
+            "change": 3.5282922,
+            "marketCap": 193818968064,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.828068
+            "yearTarget": 46.808235
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Launches Ozempic Pills Across 70,000 US Pharmacies",
+                "summary": "Novo will sell 1.5 mg, 4 mg and 9 mg Ozempic pills as it rebrands Rybelsus in the US.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-launches-ozempic-pills-across-154038853.html",
+                "publishDate": "2026-05-01T15:40:38Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk rolls out Ozempic pill in the U.S.",
+                "summary": "Oral version expands access to diabetes therapy",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-rolls-ozempic-pill-153935457.html",
+                "publishDate": "2026-05-01T15:39:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Flat in Friday Trading; Gain 1.3% for Week",
+                "summary": "European equities traded in the US as American depositary receipts were trending marginally higher l",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151059307.html",
+                "publishDate": "2026-05-01T15:10:59Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly Stock\u2019s Path To 30% Upside",
                 "summary": "Beneath Eli Lilly's (LLY) headline numbers lies a structural business model shift that the broader market seems to currently undervalue, driven in part by a recent valuation penalty following Novo Nordisk's faster initial prescription ramp for its oral therapy. While early volume data favors the competitor\u2019s established brand capture, the central equity debate remains focused on the friction between high demand and pricing pressure from pharmacy benefit managers. Critics highlight dropping reali",
@@ -98,36 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-expands-glp-1-082315673.html",
                 "publishDate": "2026-05-01T08:23:15Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Fast Money Panel Says Novo Nordisk Now More Compelling Than Eli Lilly After Falling 70%",
-                "summary": "CNBC\u2019s Fast Money panel recently made a notable pivot on its April 24 episode, arguing that Novo Nordisk (NYSE:NVO) now offers a more compelling setup than GLP-1 category leader Eli Lilly (NYSE:LLY) after a peak-to-current decline of roughly 68% from Novo\u2019s mid-2024 high near $127 to recent levels near $40. The Catalyst: A Soft Launch ... Fast Money Panel Says Novo Nordisk Now More Compelling Than Eli Lilly After Falling 70%",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/04/30/fast-money-panel-says-novo-nordisk-now-more-compelling-than-eli-lilly-after-falling-70/",
-                "publishDate": "2026-05-01T00:05:18Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Broadens GLP 1 Story With Pediatric And Rare Disease Gains",
-                "summary": "Novo Nordisk reported positive Phase 3 results for oral semaglutide in children and adolescents with type 2 diabetes, positioning it as a potential first oral GLP-1 option for this group. The company disclosed late stage data for etavopivat in sickle cell disease and received FDA fast track status for coramitug in ATTR amyloidosis, expanding its rare disease pipeline. The FDA has proposed excluding semaglutide and similar drugs from the 503B bulks compounding list, which would restrict...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-broadens-glp-1-220614602.html",
-                "publishDate": "2026-04-30T22:06:14Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "US could spend $1 trillion on medications. On top? Weight-loss drugs",
-                "summary": "Americans' voracious appetite for GLP-1 weight loss drugs has the nation on pace to spend more than $1 trillion on prescription drugs this year.",
-                "source": "USA TODAY",
-                "category": "finance",
-                "url": "https://www.usatoday.com/story/money/2026/04/30/glp-1-us-prescription-drug-costs-report/89857815007/",
-                "publishDate": "2026-04-30T21:47:23Z",
                 "premium": false,
                 "freemium": false
             }
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX filing reveals something shocking about Elon Musk",
+                "summary": "Most companies going public tell investors what they are getting. SpaceX just told investors something else entirely: what they are not getting. And the item at the top of that list is any meaningful say over who runs the company. What the IPO filing reveals about Elon Musk's position at SpaceX is ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/technology/spacex-filing-reveals-something-shocking-about-elon-musk",
+                "publishDate": "2026-05-01T15:35:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tesla stock higher for week as Semi starts production, company nets $573M in sales from SpaceX, xAI last year",
                 "summary": "Tesla stock is poised to finish the day and week higher, following last week's drop in the wake of earnings.",
                 "source": "Yahoo Finance",
@@ -332,22 +342,32 @@
                 "freemium": false
             },
             {
-                "title": "Elon Musk\u2019s Tesla Compensation Totals $158 Billion for 2025",
-                "summary": "(Bloomberg) -- Tesla Inc. tallied up Elon Musk\u2019s annual compensation for the first time since shareholders approved his moonshot pay package, and it\u2019s a doozy: $158 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesTrump Says Iran Blockade \u2018Incredible\u2019 as Pump Prices Keep RisingTrump Family-Backed Drone Firm Signs Weapons Deal With USNorth Korea Confirms Suicide Rule for Soldier",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/elon-musk-tesla-compensation-totals-230840938.html",
-                "publishDate": "2026-05-01T13:38:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Defense Department Notches AI Deals With Nvidia, Amazon, and 5 Others. Who Was Left Out?",
                 "summary": "Nvidia, Microsoft, Google, SpaceX, OpenAI, and Amazon will all serve as artificial-intelligence vendors for the Department of Defense.",
                 "source": "Barrons.com",
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/nvidia-amazon-google-ai-defense-department-696af442?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-01T13:11:00Z",
+                "publishDate": "2026-05-01T14:42:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "S&P Is Thinking About Changing Its Rules for the S&P 500. What It Means for SpaceX, OpenAI.",
+                "summary": "SpaceX, Anthropic and OpenAI could all be fast-tracked into the S&P 500 after their potential IPOs under new rules proposed late Thursday.  S&P Dow Jones Indices unveiled a number of potential changes to its eligibility criteria and rules for so-called Megacap companies, in a document published late Thursday.  Megacap companies would also be exempt from financial viability criteria requiring them to be profitable before being included in S&P indexes.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/sp500-spacex-ipo-openai-stocks-anthropic-c9e7699e?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-01T14:10:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk\u2019s Tesla Compensation Totals $158 Billion for 2025",
+                "summary": "(Bloomberg) -- Tesla Inc. tallied up Elon Musk\u2019s annual compensation for the first time since shareholders approved his moonshot pay package, and it\u2019s a doozy: $158 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Says Iran Blockade \u2018Incredible\u2019 as Pump Prices Keep RisingNorth Korea Confirms Suicide Rule for Soldier",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/elon-musk-tesla-compensation-totals-230840938.html",
+                "publishDate": "2026-05-01T13:38:20Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-01T10:10:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Exclusive-SpaceX spending on Starship tops $15 billion in rush for airline-like rocketry",
-                "summary": "By Joey Roulette and Echo Wang WASHINGTON, May 1 (Reuters) - SpaceX has spent more than $15 billion developing its next-generation Starship rocket, according to the company\u2019s IPO registration reviewed",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-spacex-spending-starship-tops-100213604.html",
-                "publishDate": "2026-05-01T10:02:13Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Want in on AI Superstar Anthropic Before Its IPO? These 4 Companies Are Some of Its Earliest Investors.",
-                "summary": "This quartet of brand-name companies invested in Anthropic in 2023.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/01/want-in-anthropic-ipo-4-companies-early-investors/",
-                "publishDate": "2026-05-01T09:26:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.18,
+        "price": 28.07,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2267802,
-            "marketCap": 20168458240,
+            "change": -1.6123413,
+            "marketCap": 20089731072,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.785,
+        "price": 28.99,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.0867741,
-            "marketCap": 5894665216,
+            "change": 0.6247841,
+            "marketCap": 5936645632,
             "weekLow": 9.88,
             "weekHigh": 36.52,
             "yearTarget": 44.9
