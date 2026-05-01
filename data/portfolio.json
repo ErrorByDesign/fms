@@ -20,7 +20,7 @@
             "marketCap": 187212021760,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.6783
+            "yearTarget": 46.68658
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,36 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/qualcomm-stock-surges-on-data-center-demand-eli-lilly-lifts-outlook-150646566.html",
                 "publishDate": "2026-04-30T15:06:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Fast Money Panel Says Novo Nordisk Now More Compelling Than Eli Lilly After Falling 70%",
+                "summary": "CNBC\u2019s Fast Money panel recently made a notable pivot on its April 24 episode, arguing that Novo Nordisk (NYSE:NVO) now offers a more compelling setup than GLP-1 category leader Eli Lilly (NYSE:LLY) after a peak-to-current decline of roughly 68% from Novo\u2019s mid-2024 high near $127 to recent levels near $40. The Catalyst: A Soft Launch ... Fast Money Panel Says Novo Nordisk Now More Compelling Than Eli Lilly After Falling 70%",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/04/30/fast-money-panel-says-novo-nordisk-now-more-compelling-than-eli-lilly-after-falling-70/",
+                "publishDate": "2026-05-01T00:05:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Broadens GLP 1 Story With Pediatric And Rare Disease Gains",
+                "summary": "Novo Nordisk reported positive Phase 3 results for oral semaglutide in children and adolescents with type 2 diabetes, positioning it as a potential first oral GLP-1 option for this group. The company disclosed late stage data for etavopivat in sickle cell disease and received FDA fast track status for coramitug in ATTR amyloidosis, expanding its rare disease pipeline. The FDA has proposed excluding semaglutide and similar drugs from the 503B bulks compounding list, which would restrict...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-broadens-glp-1-220614602.html",
+                "publishDate": "2026-04-30T22:06:14Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "US prescription spending could top $1 trillion. GLP-1s lead the way",
+                "summary": "Americans' voracious appetite for GLP-1 weight loss drugs has the nation on pace to spend more than $1 trillion on prescription drugs this year.",
+                "source": "USA TODAY",
+                "category": "finance",
+                "url": "https://www.usatoday.com/story/money/2026/04/30/glp-1-us-prescription-drug-costs-report/89857815007/",
+                "publishDate": "2026-04-30T21:47:23Z",
                 "premium": false,
                 "freemium": false
             },
@@ -100,36 +130,6 @@
                 "publishDate": "2026-04-30T19:04:48Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Eli Lilly, Novo Stocks Jump as FDA Moves to Limit Compounded GLP-1 Drugs",
-                "summary": "FDA Shake-Up Sends Eli Lilly, Novo Nordisk Stocks Higher on Supply Shift",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-novo-stocks-jump-190358412.html",
-                "publishDate": "2026-04-30T19:03:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Health Care Stocks Gain Thursday Afternoon",
-                "summary": "Health care stocks rose Thursday afternoon with the NYSE Health Care Index climbing 2.5% and the Sta",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-gain-173246770.html",
-                "publishDate": "2026-04-30T17:32:46Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "LLY Stock Jumps After Q1 Earnings Beat, 2026 Guidance Raised",
-                "summary": "LLY jumps after crushing Q1 estimates and raising 2026 outlook, powered by surging Mounjaro and Zepbound sales and strong global demand.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/lly-stock-jumps-q1-earnings-170100774.html",
-                "publishDate": "2026-04-30T17:01:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3557017,
+            "change": -3.3557,
             "marketCap": 135114032,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -312,12 +312,32 @@
         },
         "NEWS": [
             {
-                "title": "Elon Musk Says Most Crypto Are Scams, But X Launches New Crypto Trading Terminal",
-                "summary": "Elon Musk called most crypto coins scams during OpenAI trial as X simultaneously launched its Cashtags trading feed.",
-                "source": "BeInCrypto",
+                "title": "2 Hidden Ways to Invest in SpaceX Right Now",
+                "summary": "You don't have to wait for the SpaceX IPO to invest.",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://beincrypto.com/musk-crypto-scams-openai-trial/",
-                "publishDate": "2026-04-30T20:14:03Z",
+                "url": "https://www.fool.com/investing/2026/04/30/2-hidden-ways-to-invest-in-spacex-right-now/",
+                "publishDate": "2026-05-01T02:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Tesla Made $573 Million in Sales From SpaceX and xAI Last Year",
+                "summary": "(Bloomberg) -- Tesla Inc. generated more than half a billion dollars in revenue last year from selling products to two of Elon Musk\u2019s other companies, the carmaker disclosed in an amended annual filing.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesNorth Korea Confirms Suicide Rule for Soldiers Ukraine CapturesJunior Bankers Sick of Grunt Work Build $2 Billion AI Tool to Do the JobTh",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-made-573-million-sales-235340429.html",
+                "publishDate": "2026-04-30T23:53:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk's SpaceX Admits Roadbump In Starship V3 Launch Process: What Do Prediction Markets Say?",
+                "summary": "Elon Musk\u2018s SpaceX is expected to debut Starship V3 soon, but a new video posted this week confirmed for the first time that a nitrogen system explosion destroyed the first Version 3 last year. As the company moves toward what may become the biggest IPO ever, investors are watching whether Musk can deliver on his promises. What The Video Revealed Engineers walking through the test site explain that during a nitrogen pressurization test, an explosion took out the rocket. The test had been designe",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-admits-roadbump-233135462.html",
+                "publishDate": "2026-04-30T23:31:35Z",
                 "premium": false,
                 "freemium": false
             },
@@ -327,7 +347,17 @@
                 "source": "Barrons.com",
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/stocks-april-ai-software-healthcare-c94142fc?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-04-30T18:59:00Z",
+                "publishDate": "2026-04-30T20:37:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Says Most Crypto Are Scams, But X Launches New Crypto Trading Terminal",
+                "summary": "Elon Musk called most crypto coins scams during OpenAI trial as X simultaneously launched its Cashtags trading feed.",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/musk-crypto-scams-openai-trial/",
+                "publishDate": "2026-04-30T20:14:03Z",
                 "premium": false,
                 "freemium": false
             },
@@ -380,36 +410,6 @@
                 "publishDate": "2026-04-30T17:06:13Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Blue Owl sold about half its SpaceX holding at $1.25 trillion valuation, co-CEO says",
-                "summary": "Blue Owl sold about half its investment in SpaceX at a $1.25 trillion valuation, \u200cthe alternative asset manager's co-CEO Marc Lipschultz said on Thursday.  \"Specifically at SpaceX ... \u200cwe made about 10 (times) our money on that investment,\" Lipschultz said on a conference call with \u200banalysts.  \"We've sold about half of it at a $1.25 trillion valuation, still holding about half of it.\"",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-sold-half-spacex-154451499.html",
-                "publishDate": "2026-04-30T15:44:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX backer 137 Ventures raises $700M for two growth-stage funds",
-                "summary": "VC firm 137 Ventures has raised over $700 million to back growth-stage startups. Its portfolio includes SpaceX, Anduril, Hadrian.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-backer-137-ventures-raises-152949538.html",
-                "publishDate": "2026-04-30T15:29:49Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Chamath Palihapitiya is Praising Elon Musk\u2019s $60 Billion Cursor Bid",
-                "summary": "On a recent episode of the All-In Podcast, Chamath Palihapitiya laid out a contrarian take that Elon Musk just locked in a bargain with SpaceX\u2019s deal to either acquire AI coding startup Cursor by the end of 2026 for $60 billion, or pay $10 billion for a collaborative partnership. \u201cIf it\u2019s $60 billion in tomorrow dollars, ... Why Chamath Palihapitiya is Praising Elon Musk\u2019s $60 Billion Cursor Bid",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/04/30/why-chamath-palihapitiya-is-praising-elon-musks-60-billion-cursor-bid/",
-                "publishDate": "2026-04-30T15:17:02Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.6700587,
+            "change": 3.67006,
             "marketCap": 20418953216,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -455,6 +455,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Piper Sandler and Bernstein Bullish on Roivant Sciences (ROIV)",
+                "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 10 Best Medical Stocks to Buy Under $30. On April 16, Piper Sandler assumed coverage of Roivant Sciences Ltd. (NASDAQ:ROIV) with an Overweight rating on the stock and $40 price target. Piper Sandler said the stock has gained more than 190% over the past year, supported by [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/piper-sandler-bernstein-bullish-roivant-214114893.html",
+                "publishDate": "2026-04-30T21:41:14Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Roivant Sciences Ltd. (ROIV): David Einhorn Trims Stake",
                 "summary": "We just covered 15 Under-the-Radar Picks from David Einhorn That Are Quietly Dominating 2026 and Roivant Sciences Ltd. (NASDAQ:ROIV) ranks 7th on this list. Roivant Sciences Ltd. (NASDAQ:ROIV) has been a consistent feature in the 13F portfolio of Greenlight Capital since the first quarter of 2024. Back then, this position comprised 4.1 million shares. By the [\u2026]",
@@ -544,16 +554,6 @@
                 "publishDate": "2026-04-02T17:03:39Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Roivant Sciences Adds Brepocitinib LPP Trial as Batoclimab Misses Phase III TED Endpoint",
-                "summary": "Roivant Sciences (NASDAQ:ROIV) outlined plans to expand development of its JAK1/TYK2 inhibitor brepocitinib into lichen planopilaris (LPP) and provided an update on a Phase III thyroid eye disease (TED) trial for batoclimab during a conference call hosted by the company. Brepocitinib expands into l",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/roivant-sciences-adds-brepocitinib-lpp-trial-as-batoclimab-misses-phase-iii-ted-endpoint-2026-04-02/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-04-02T14:07:33Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2719183,
+            "change": 2.27192,
             "marketCap": 5899784704,
             "weekLow": 9.88,
             "weekHigh": 36.52,
