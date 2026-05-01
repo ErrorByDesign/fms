@@ -52,7 +52,7 @@
                 <summary class="summary indent nomarker">MARKET UPDATE</summary>
                 <div class="grid row">
                     <!-- MARKET PRICE -->
-                    <div class="card">
+                    <div id="card-price" class="card clickable">
                         <div class="card-label">MARKET</div>
                         <div class="card-value">
                             <span id="price">—</span>
@@ -70,13 +70,9 @@
                         </div>
                     </div>
                     <!-- MINIMUM SELL PRICE -->
-                    <div
-                        id="card-min"
-                        class="card clickable"
-                        onclick="setMode('low')"
-                    >
+                    <div id="card-min" class="card clickable" onclick="setMode('low')">
                         <div class="card-label">
-                            <span>MINIMUM SELL</span>
+                            <span id="sell-min-label" class="sell-label">MINIMUM SELL</span>
                             <span id="sell-min-pct" class="profit-min">—</span>
                         </div>
                         <div class="card-value">
@@ -84,13 +80,9 @@
                         </div>
                     </div>
                     <!-- MAXIMUM SELL PRICE -->
-                    <div
-                        id="card-max"
-                        class="card clickable active"
-                        onclick="setMode('high')"
-                    >
+                    <div id="card-max" class="card clickable active" onclick="setMode('high')">
                         <div class="card-label">
-                            <span>MAXIMUM SELL</span>
+                            <span id="sell-max-label" class="sell-label">MAXIMUM SELL</span>
                             <span id="sell-max-pct" class="profit-max">—</span>
                         </div>
                         <div class="card-value">
@@ -109,12 +101,12 @@
                         <!-- TABLE: HEAD -->
                         <thead id="thead-price" class="thead">
                             <tr class="tr-head">
-                                <th id="th-btn-blocks" class="th-price-left freeze-col-left clickable-small" onclick="toggleFrozenL()"><pre>BLOCKS </pre></th>
+                                <th id="th-btn-blocks" class="th-price-left freeze-col-l clickable-small" onclick="toggleFrozenL()"><pre>BLOCKS </pre></th>
                                 <th class="th-price"><pre>COST   </pre></th>
                                 <th class="th-price"><pre>COMMS  </pre></th>
                                 <th class="th-price"><pre>TOTAL  </pre></th>
                                 <th class="th-price"><pre>SELL   </pre></th>
-                                <th id="th-btn-profit" class="th-price-right freeze-col-right clickable-small" onclick="toggleFrozenR()"><pre>PROFIT </pre></th>
+                                <th id="th-btn-profit" class="th-price-right freeze-col-r clickable-small" onclick="toggleFrozenR()"><pre>PROFIT </pre></th>
                             </tr>
                         </thead>
                         <tbody id="tbody-price" class="tbody"></tbody>

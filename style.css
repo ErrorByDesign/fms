@@ -3,7 +3,8 @@
     --bg: #0a0c10;
     --frozen: #e3e6ec08;
     --frozen-solid: #212134;
-    --surface: #131321;
+    --card-col: #131321;
+    --card-col-on: #032734;
     --accent-clr: #69e5ff;
     --border-clr: #2e2134;
     --text-clr: #cdd6f8;
@@ -12,7 +13,7 @@
     --tbl-head-bg: #032734;
     --tbl-head-clr: #e3e6ec;
     --tbl-body-bg: #1a0c11;
-    --tbl-body-bg-on: #131721;
+    --tbl-body-bg-on: #343455;
     --tbl-body-clr: #aab6c5;
     --tbl-body-clr-on: #e3e6ec;
 
@@ -58,7 +59,7 @@ body {
     text-transform: uppercase;
 }
 .gate input {
-    background: var(--surface);
+    background: var(--card-col);
     border: 1px solid var(--text-clr-dim);
     color: var(--text-clr);
     font-family: "Share Tech Mono", monospace;
@@ -202,19 +203,17 @@ h1 span {
     -webkit-appearance: none;
     border: none;
     outline: none;
-    background: transparent;
+    background: transparent
     padding: 0;
     margin: 0;
     cursor: pointer;
     box-sizing: border-box;
     /* 3. Sizing & Fallback Logic */
     width: var(--text-width, 6ch);
-/*     @supports (field-sizing: content) {
+@supports (field-sizing: content) {
     field-sizing: content;
     width: auto;
-} */
-}
-
+}}
 .divider {
     padding: 0 1rem;
     opacity: 0.5;
@@ -275,8 +274,8 @@ p {
 }
 .card {
     min-width: 0;
-    background: var(--surface);
-    border: 1px solid var(--border-clr);
+    background: var(--card-col);
+    /* border: 1px solid var(--border-clr); */
     border-radius: 0.25rem;
     padding: 0.625rem 0.875rem;
     cursor: default;
@@ -284,11 +283,12 @@ p {
         background 0.2s,
         border-color 0.2s;
 }
-.card.clickable {
+/* .card.clickable {
     cursor: pointer;
 }
+ */
 .card.active {
-    background: #1a2028;
+    background: var(--card-col-on);
     border-color: var(--text-clr-dim);
 }
 .card-label {
@@ -319,7 +319,7 @@ p {
 .table-wrap {
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
-    background: var(--surface);
+    background: var(--card-col);
     border: 0px solid transparent;
     border-radius: 0.25rem;
     margin-top: 0.5rem;
@@ -403,7 +403,6 @@ p {
 }
 
 .tbody {
-    /* background: var(--frozen); */
     font-family: "Inconsolata", "Shsre Tech Mono", monospace;
     font-size: 1.rem;
     text-align: right;
@@ -438,41 +437,40 @@ p {
 .tr-body-settings {
     background: transparent;
     border-bottom: 0.375rem solid var(--bg);
-    
     font-family: "Inconsolata", "Share Tech Mono", monospace;
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 300;
     letter-spacing: 0.1rem;
     padding: 0.5rem 0.1rem;
-    text-align: right;
-    
+    text-align: center;
     opacity: 0.25;
-    
-    transition: background 0.15s;
+    transition: background 500ms,
+                opacity 500ms;
 }
-.tr-body-settings.enabled {
+.tr-body-settings.active {
+    pointer-events: none;
     background: var(--frozen-solid);
-    color: var(--accent-clr);
+    font-weight: 500;
     opacity: 1;
 }
 .tr-body-settings.disabled {
-    background: var(--surface);
-    opacity: 0.2;
     pointer-events: none;
+    background: var(--card-col);
+    font-weight: 100;
+    opacity: 0.15;
 }
 .td-btn {
     border-right: 0.25rem solid var(--bg);
-    background: var(--tbl-body-bg);
     color: var(--tbl-head-clr);
     font-family: "Share Tech Mono", "Inconsolata", monospace;
     font-size: 1rem;
+    font-weight: 600;
     padding: 0.5rem;
     text-transform: uppercase;
     text-align: left;
     white-space: nowrap;
 }
-.td-btn.enabled {
-    background: var(--tbl-body-bg-on);
+.td-btn.active {
     color: var(--accent-clr);
 }
 .td-btn.disabled {
@@ -508,40 +506,6 @@ p {
     text-align: center;
 }
 
-.freeze-col-left {
-    left: 0;
-    z-index: 10;
-    color: var(--tbl-body-clr-on);
-}
-.freeze-col-right {
-    right: 0;
-    z-index: 10;
-    color: var(--tbl-body-clr-on);
-}
-.frozen {
-    position: sticky;
-    background: var(--frozen-solid);
-    color: var(--text-clr-dim);
-    opacity: 1;
-}
-
-.profit-min {
-    color: var(--profit-min);
-    border-bottom-color: var(--profit-min);
-}
-.profit-max {
-    color: var(--profit-max);
-    border-bottom-color: var(--profit-max);
-}
-
-.scrollable {
-    min-width: 35rem;
-}
-
-tbody tr:hover {
-    background: rgba(0, 229, 255, 0.04);
-}
-
 /* === N E W S === === === === === === === === == */
 .news-filter-row {
     display: flex;
@@ -555,7 +519,7 @@ tbody tr:hover {
     font-family: 'Share Tech Mono', monospace;
     font-size: 0.75rem;
     letter-spacing: 0.1rem;
-    background: var(--surface);
+    background: var(--card-col);
     border: 1px solid var(--border-clr);
     color: var(--text-clr-dim);
     cursor: pointer;
@@ -578,7 +542,7 @@ tbody tr:hover {
     padding-right: 0.25rem;
 }
 .news-card {
-    background: var(--surface);
+    background: var(--card-col);
     border: 1px solid var(--border-clr);
     border-radius: 0.25rem;
     padding: 0.625rem 0.875rem;
@@ -679,7 +643,15 @@ tbody tr:hover {
 /* === H A P T I C S  === === === === === === === */
 .clickable {
     cursor: pointer;
-    -webkit-tap-highlight-color: transparent;
+    /* -webkit-tap-highlight-color: transparent; */
+}
+.clickable-small {
+    cursor: pointer;
+    /* -webkit-tap-highlight-color: transparent; */
+}
+.clickable-large {
+    cursor: pointer;
+    /* -webkit-tap-highlight-color: transparent; */
 }
 .clickable:active {
     transform: scale(0.975);
@@ -693,8 +665,56 @@ tbody tr:hover {
     transform: scale(0.995);
     background: rgba(0, 229, 255, 0.1);
 }
+.scrollable {
+    min-width: 35rem;
+}
+.freeze-col-l {
+    left: 0;
+    z-index: 10;
+    color: var(--tbl-body-clr-on);
+    transition: background 500ms,
+                color 3000ms;
+}
+.freeze-col-r {
+    right: 0;
+    z-index: 10;
+    color: var(--tbl-body-clr-on);
+    transition: background 500ms,
+                color 3000ms;
+}
+.freeze-col-l.frozen {
+    position: sticky;
+    background: var(--frozen-solid);
+    color: var(--text-clr-dim);
+}
+.freeze-col-r.frozen {
+    position: sticky;
+    background: var(--frozen-solid);
+    color: var(--text-clr-dim);
+}
+.profit-min {
+    color: var(--profit-min);
+    transition: background 500ms,
+                color 500ms;
+}
+.profit-max {
+    color: var(--profit-max);
+    transition: background 500ms,
+                color 500ms;
+}
+.profit-min.frozen {
+    color: color-mix(in srgb, var(--profit-min), gray 50%);
+    transition: color 3000ms;
+}
+.profit-max.frozen {
+    color: color-mix(in srgb, var(--profit-max), gray 50%);
+    transition: color 3000ms;
+}
+tbody tr:hover {
+    background: rgba(0, 229, 255, 0.04);
+}
 
-/* === T R A S H === === === === === === === === */
+/* =        == T R A S H === === === === === === === === */
 /* 
 .tbl-price td:first-child {
     text-align: left;

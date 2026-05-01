@@ -986,6 +986,15 @@ function applyRegexReplacements(inputText) {
 }
 
 // ── RENDER ───────────────────────────────────────────────
+function updateMarketCards(price, bid, sellMin, sellMax, labelBidPct, labelMinPct, labelMaxPct) {
+    document.getElementById("price").textContent        = formatCurrency(price);
+    document.getElementById("bid").textContent          = formatCurrency(bid);
+    document.getElementById("bid-pct").textContent      = `(-${formatPercent(labelBidPct, false, 0.25)})`;
+    document.getElementById("sell-min").textContent     = formatCurrency(sellMin);
+    document.getElementById("sell-min-pct").textContent = `(+${formatPercent(labelMinPct, false, 0.5)})`;
+    document.getElementById("sell-max").textContent     = formatCurrency(sellMax);
+    document.getElementById("sell-max-pct").textContent = `(+${formatPercent(labelMaxPct, false, 0.5)})`;
+}
 function renderTablePrice(blocks, bid, feePct, feePctSell, sellMin, sellMax) {
     const tbody = document.getElementById("tbody-price");
     tbody.innerHTML = "";
@@ -1006,28 +1015,28 @@ function renderTablePrice(blocks, bid, feePct, feePctSell, sellMin, sellMax) {
         const tr = document.createElement("tr");
         tr.classList.add('tr-body-price');
         tr.innerHTML =
-            `<td class="td-left td-blocks freeze-col-left">${b}</td>` +
+            `<td class="td-left td-blocks freeze-col-l">${b}</td>` +
             `<td class="td-center td-cost">${formatCurrency(b * bid)}</td>` +
             `<td class="td-center td-comms">${formatCurrency(comms)}</td>` +
             `<td class="td-center td-total">${formatCurrency(total)}</td>` +
             `<td class="td-center td-sell" data-low="${formatCurrency(netL)}" data-high="${formatCurrency(netH)}">${mode === 'low' ? formatCurrency(netL) : formatCurrency(netH)}</td>` +
-            `<td class="td-right td-profit freeze-col-right ${mode === 'low' ? 'profit-min' : 'profit-max'}" data-low="${formatCurrency(profitL)}" data-high="${formatCurrency(profitH)}">${mode === 'low' ? formatCurrency(profitL) : formatCurrency(profitH)}</td>`;        
+            `<td class="td-right td-profit freeze-col-r ${mode === 'low' ? 'profit-min' : 'profit-max'}" data-low="${formatCurrency(profitL)}" data-high="${formatCurrency(profitH)}">${mode === 'low' ? formatCurrency(profitL) : formatCurrency(profitH)}</td>`;        
         tbody.appendChild(tr);
     });
     
     if (frozenL === "frozen") {
-        document.querySelectorAll(".freeze-col-left").forEach(td => td.classList.add("frozen"));
+        document.querySelectorAll(".freeze-col-l").forEach(td => td.classList.add("frozen"));
     }
     if (frozenR === "frozen") {
-        document.querySelectorAll(".freeze-col-right").forEach(td => td.classList.add("frozen"));
+        document.querySelectorAll(".freeze-col-r").forEach(td => td.classList.add("frozen"));
     }
 }
 function renderTableSettings() {
     if (!currentStock || !currentSettings || !currentTicker) return;
-    
+
     // load settings configurations
     const { defaults, modified, modifiedState } = getConfig();
-    
+
     // populate cells
     document.getElementById('td-A1').textContent = formatPercent(defaults.BLOCKAGE_DISCOUNT);
     document.getElementById('td-B1').textContent = formatPercent(defaults.BROKERAGE_FEE);
@@ -1037,42 +1046,22 @@ function renderTableSettings() {
     document.getElementById('td-B2').textContent = modified.BROKERAGE_FEE     !== null ? formatPercent(modified.BROKERAGE_FEE)     : '—';
     document.getElementById('td-C2').textContent = modified.SELL_MIN          !== null ? formatPercent(modified.SELL_MIN)          : '—';
     document.getElementById('td-D2').textContent = modified.SELL_MAX          !== null ? formatPercent(modified.SELL_MAX)          : '—';
-    
+
     // apply row states
-    const defaultRow  = document.getElementById('tr-body-default');
-    const modifiedRow = document.getElementById('tr-body-modified');
-    
-    defaultRow.classList.toggle('enabled', isDefault);
-    modifiedRow.classList.toggle('enabled', !isDefault);
-    defaultRow.classList.toggle('disabled', false);
-    modifiedRow.classList.toggle('disabled', modifiedState === 'null');
-    
+    const defRow  = document.getElementById('tr-body-default');
+    const modRow = document.getElementById('tr-body-modified');
+    defRow.classList.toggle('active', isDefault);
+    modRow.classList.toggle('active', !isDefault);
+    modRow.classList.toggle('disabled', modifiedState === 'null');
+
+    // apply button states
     const defBtn = document.getElementById('td-btn-default');
     const modBtn = document.getElementById('td-btn-modified');
-    if (modifiedState === 'null') {
-        defBtn.style.pointerEvents = 'none';
-        defBtn.classList.remove('clickable-small');
-        modBtn.classList.remove('clickable-small');
-        defBtn.classList.add('disabled');
-        modBtn.classList.add('disabled');
-    } else {
-        defBtn.style.pointerEvents = '';
-        defBtn.classList.add('clickable-small');
-        modBtn.classList.add('clickable-small');
-        defBtn.classList.remove('disabled');
-        modBtn.classList.remove('disabled');
-    }
-}
-function updateMarketCards(price, bid, sellMin, sellMax, labelBidPct, labelMinPct, labelMaxPct) {
-    document.getElementById("price").textContent        = formatCurrency(price);
-    document.getElementById("bid").textContent          = formatCurrency(bid);
-    document.getElementById("bid-pct").textContent      = `(-${formatPercent(labelBidPct, false, 0.25)})`;
-    document.getElementById("sell-min").textContent     = formatCurrency(sellMin);
-    document.getElementById("sell-min-pct").textContent = `(+${formatPercent(labelMinPct, false, 0.5)})`;
-    document.getElementById("sell-max").textContent     = formatCurrency(sellMax);
-    document.getElementById("sell-max-pct").textContent = `(+${formatPercent(labelMaxPct, false, 0.5)})`;
-}
+    defBtn.classList.toggle('active', isDefault);
+    modBtn.classList.toggle('active', !isDefault);
+    modBtn.classList.toggle('disabled', modifiedState === 'null');
 
+}
 function renderTicker(ticker) {
     const stock = currentStock[ticker];
     if (!stock) throw new Error("ticker not found: " + ticker);
@@ -1375,15 +1364,15 @@ function setSettings(s) {
     const blockMinRaw = DEFAULT_MINIMUM_THRESHOLD / (bid * feeMult);
     const blockMin    = Math.max(1, fmsRoundShares(blockMinRaw, bid, active.BROKERAGE_FEE));
     const blocks      = [blockMin * 10, blockMin * 5, blockMin * 2, blockMin];
-    
+
     // Calculate percentages for market cards
     const labelBidPct = ((price - bid)   / bid) * 100;
     const labelMinPct = ((sellMin - bid) / bid) * 100;
     const labelMaxPct = ((sellMax - bid) / bid) * 100;
-    
+
     // Update market cards
     updateMarketCards(price, bid, sellMin, sellMax, labelBidPct, labelMinPct, labelMaxPct);
-    
+
     // Update price table
     renderTablePrice(blocks, bid, active.BROKERAGE_FEE, active.BROKERAGE_FEE_SELL, sellMin, sellMax);
     syncModeUI()
@@ -1395,7 +1384,7 @@ function setMode(m) {
     document.getElementById('card-max').classList.toggle('active', m === 'high');
 
     // update price table sell/profit cells
-    const frozen = document.querySelector('.freeze-col-right.frozen') !== null;
+    const frozen = document.querySelector('.freeze-col-r.frozen') !== null;
     document.querySelectorAll('.td-sell').forEach(td => {
         td.textContent = td.dataset[m];
     });
@@ -1438,11 +1427,11 @@ function toggleFrozenL() {
     const frozen = frozenL !== "";
     if (frozen && frozenR !== "") {
         frozenR = "";
-        document.querySelectorAll(".freeze-col-right").forEach(td => {
+        document.querySelectorAll(".freeze-col-r").forEach(td => {
             td.classList.remove("frozen");
         });
     }
-    document.querySelectorAll(".freeze-col-left").forEach(td => {
+    document.querySelectorAll(".freeze-col-l").forEach(td => {
         td.classList.toggle("frozen", frozen);
     });
 }
@@ -1451,11 +1440,11 @@ function toggleFrozenR() {
     const frozen = frozenR !== "";
     if (frozen && frozenL !== "") {
         frozenL = "";
-        document.querySelectorAll(".freeze-col-left").forEach(td => {
+        document.querySelectorAll(".freeze-col-l").forEach(td => {
             td.classList.remove("frozen");
         });
     }
-    document.querySelectorAll(".freeze-col-right").forEach(td => {
+    document.querySelectorAll(".freeze-col-r").forEach(td => {
         td.classList.toggle("frozen", frozen);
     });
 }
