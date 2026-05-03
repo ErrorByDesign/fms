@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.71,
+        "price": 43.88,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5282922,
-            "marketCap": 193818968064,
+            "change": 3.93179,
+            "marketCap": 194572795904,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.808235
+            "yearTarget": 46.639484
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Jim Cramer Praises Eli Lilly\u2019s Performance",
+                "summary": "Eli Lilly and Company (NYSE:LLY) was among the stocks Jim Cramer highlighted, as he discussed the massive AI infrastructure buildout. Cramer noted that the company is \u201ccreating a lot of jobs,\u201d as he said: Okay, then there\u2019s one that\u2019s totally away from manufacturing or industry or tech, and that\u2019s Eli Lilly. It was up 10%. [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-praises-eli-lilly-155103376.html",
+                "publishDate": "2026-05-03T15:51:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Oral Ozempic US Launch And Partnerships Test Novo Nordisk Valuation",
+                "summary": "Novo Nordisk (CPSE:NOVO B) is rolling out its oral Ozempic (semaglutide) tablet across the US as the only FDA approved oral GLP-1 for adults with type 2 diabetes. The company plans broad distribution through more than 70,000 US pharmacies. New access partnerships with WW International and GoodRx aim to support patients through digital health tools, discounts and self pay options. The launch includes a mix of insurance coverage pathways and cash pay programs targeting both insured and self...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/oral-ozempic-us-launch-partnerships-112135713.html",
+                "publishDate": "2026-05-02T11:21:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "There's Another Twist In The Obesity Pills Showdown \u2014 And This One Actually Helps Lilly",
+                "summary": "The prescription data collected for Eli Lilly's new weight-loss pill, Foundayo, is flawed, analysts said Friday.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/eli-lilly-stock-foundayo-prescriptions-first-quarter-report/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-01T20:13:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Launches Ozempic Pill in U.S.",
+                "summary": "Oral version targets broader access as GLP-1 demand grows",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-launches-ozempic-pill-195050173.html",
+                "publishDate": "2026-05-01T19:50:50Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Launches Ozempic Pills Across 70,000 US Pharmacies",
                 "summary": "Novo will sell 1.5 mg, 4 mg and 9 mg Ozempic pills as it rebrands Rybelsus in the US.",
@@ -90,63 +130,23 @@
                 "publishDate": "2026-05-01T13:29:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Amgen's Q1 Earnings Top Estimates, 16 Drugs Deliver Double-Digit Gains",
-                "summary": "AMGN beats Q1 estimates as 16 drugs post double-digit growth, offsetting biosimilar erosion and weaker legacy products while lifting 2026 outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/amgens-q1-earnings-top-estimates-131400129.html",
-                "publishDate": "2026-05-01T13:14:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk CEO on Wegovy pill\u2019s U.S. future as Iran war threatens supply chains",
-                "summary": "Novo Nordisk CEO Mike Doustdar sits down with CNN to discusses manufacturing Wegovy pill in the U.S, direct to consumer weightloss drugs, competition and Iran war",
-                "source": "CNN Business",
-                "category": "finance",
-                "url": "https://www.cnn.com/2026/05/01/business/video/novo-ceo-ozempic-wegovy-interview?cid=external-feeds_iluminar_yahoo",
-                "publishDate": "2026-05-01T10:45:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Lexicon Pharma (LXRX), Novo Nordisk (NVO) Initiate Phase 1 Study for Obesity Drug LX9851",
-                "summary": "\u200bLexicon Pharmaceuticals Inc. (NASDAQ:LXRX) is one of the best biotech penny stocks to buy in 2026. On March 23, Lexicon Pharmaceuticals and Novo Nordisk (NYSE:NVO) initiated a Phase 1 clinical study for LX9851, a first-in-class, oral non-incretin small molecule inhibitor targeting obesity and metabolic disorders. Discovered by Lexicon and now under exclusive worldwide development by [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lexicon-pharma-lxrx-novo-nordisk-092329461.html",
-                "publishDate": "2026-05-01T09:23:29Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Expands GLP-1 Reach With Oral Ozempic And Pediatric Push",
-                "summary": "Novo Nordisk (NYSE:NVO) is advancing the launch of an oral version of Ozempic, expanding its GLP-1 diabetes franchise beyond injectable formats. The company is also seeking regulatory approvals to extend Ozempic use to pediatric patients. Recent FDA actions on the compounding of GLP-1 drugs are influencing how branded products like Ozempic compete with compounded alternatives. Novo Nordisk focuses on diabetes and obesity care, where GLP-1 treatments such as Ozempic are a core part of its...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-expands-glp-1-082315673.html",
-                "publishDate": "2026-05-01T08:23:15Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
             "analystCount": 12,
             "recommendationKey": 6,
             "recommendationMean": 2.35714,
-            "strongBuy": 0,
+            "strongBuy": 1,
             "buy": 6,
             "hold": 5,
-            "sell": 2,
+            "sell": 1,
             "strongSell": 0
         }
     },
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.54,
+        "price": 1.44,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.9444375,
-            "marketCap": 144496944,
+            "change": 0.0,
+            "marketCap": 135114032,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -271,7 +271,7 @@
             "recommendationKey": "strong_buy",
             "recommendationMean": 1.5,
             "strongBuy": 0,
-            "buy": 3,
+            "buy": 2,
             "hold": 1,
             "sell": 0,
             "strongSell": 0
@@ -280,13 +280,13 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 623.04,
+        "price": 623.34,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
             "exchange": "PVT",
             "sector": "Space",
-            "industry": "Aerospace, Artificial Intelligence (AI), Hardware, Manufacturing, Satellite Communication, Space Travel",
+            "industry": "Aerospace, Artificial Intelligence (AI), Hardware, Internet, Manufacturing, Satellite Communication, Space Travel",
             "country": "US",
             "year": "2002",
             "website": "https://www.spacex.com",
@@ -296,10 +296,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.15,
-            "marketCap": 1478949470208,
+            "change": 0.05,
+            "marketCap": 1479661584384,
             "weekLow": 201.24,
-            "weekHigh": 623.04,
+            "weekHigh": 623.34,
             "yearTarget": null
         },
         "FUNDING": {
@@ -312,102 +312,102 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX filing reveals something shocking about Elon Musk",
-                "summary": "Most companies going public tell investors what they are getting. SpaceX just told investors something else entirely: what they are not getting. And the item at the top of that list is any meaningful say over who runs the company. What the IPO filing reveals about Elon Musk's position at SpaceX is ...",
-                "source": "TheStreet",
+                "title": "Elon\u2019s Terafab Is Moving at \u201cLight Speed\u201d \u2014 and That Could Mean Big Things for Tesla",
+                "summary": "Elon Musk\u2019s Terafab may very well be the most ambitious undertaking Tesla (NASDAQ:TSLA) or, really, any of his other incredible companies to date. Make no mistake, highly-capable Optimus robots, reusable rockets that deliver payouts into space, and even longer-term plans of going to Mars are not without their own share of ambition. That said, when ... Elon\u2019s Terafab Is Moving at \u201cLight Speed\u201d \u2014 and That Could Mean Big Things for Tesla",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://www.thestreet.com/technology/spacex-filing-reveals-something-shocking-about-elon-musk",
-                "publishDate": "2026-05-01T15:35:05Z",
+                "url": "https://247wallst.com/investing/2026/05/03/elons-terafab-is-moving-at-light-speed-and-that-could-mean-big-things-for-tesla/",
+                "publishDate": "2026-05-03T14:11:10Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Tesla stock higher for week as Semi starts production, company nets $573M in sales from SpaceX, xAI last year",
-                "summary": "Tesla stock is poised to finish the day and week higher, following last week's drop in the wake of earnings.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/tesla-stock-higher-for-week-as-semi-starts-production-company-nets-573m-in-sales-from-spacex-xai-last-year-145255503.html",
-                "publishDate": "2026-05-01T14:52:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla Sold SpaceX $143 Million Worth Of Cars: SEC Filing",
-                "summary": "An updated SEC filing disclosed Tesla's sale of electric vehicles to CEO Elon Musk's other company SpaceX. Tesla stock is up about 1%.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/tesla-spacex-elon-musk-ev-electric-vehicle-xai/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-01T14:50:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Defense Department Notches AI Deals With Nvidia, Amazon, and 5 Others. Who Was Left Out?",
-                "summary": "Nvidia, Microsoft, Google, SpaceX, OpenAI, and Amazon will all serve as artificial-intelligence vendors for the Department of Defense.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/nvidia-amazon-google-ai-defense-department-696af442?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-01T14:42:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "S&P Is Thinking About Changing Its Rules for the S&P 500. What It Means for SpaceX, OpenAI.",
-                "summary": "SpaceX, Anthropic and OpenAI could all be fast-tracked into the S&P 500 after their potential IPOs under new rules proposed late Thursday.  S&P Dow Jones Indices unveiled a number of potential changes to its eligibility criteria and rules for so-called Megacap companies, in a document published late Thursday.  Megacap companies would also be exempt from financial viability criteria requiring them to be profitable before being included in S&P indexes.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/sp500-spacex-ipo-openai-stocks-anthropic-c9e7699e?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-01T14:10:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s Tesla Compensation Totals $158 Billion for 2025",
-                "summary": "(Bloomberg) -- Tesla Inc. tallied up Elon Musk\u2019s annual compensation for the first time since shareholders approved his moonshot pay package, and it\u2019s a doozy: $158 billion.Most Read from BloombergUS Seeks to Deploy Hypersonic Missile for the First Time Against IranTwo NJ Malls Separated by Just Four Miles \u2014 and Very Different FatesTrump Family-Backed Drone Firm Signs Weapons Deal With USTrump Says Iran Blockade \u2018Incredible\u2019 as Pump Prices Keep RisingNorth Korea Confirms Suicide Rule for Soldier",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/elon-musk-tesla-compensation-totals-230840938.html",
-                "publishDate": "2026-05-01T13:38:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "S&P Weighs Faster Index Entry As $2 Trillion SpaceX IPO Looms",
-                "summary": "S&P's proposal could cut the IPO seasoning period to six months, potentially accelerating megacap entry into major indexes.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/p-weighs-faster-index-entry-122856604.html",
-                "publishDate": "2026-05-01T12:28:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Market Chatter: Tesla CEO Elon Musk's SpaceX Starship Development Costs Exceed $15 Billion",
-                "summary": "Tesla Chief Executive Elon Musk's SpaceX has spent more than $15 billion developing its next-generat",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-tesla-ceo-elon-121446373.html",
-                "publishDate": "2026-05-01T12:14:46Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "S&P Eyes Plan to Ease Index Rules With SpaceX IPO Looming",
-                "summary": "The owner of the S&P 500 index is considering changing rules governing the widely followed benchmark to fast track inclusion of SpaceX, OpenAI and other so-called megacap companies that could go public as soon as this year.  Currently, newly-listed U.S. companies that seek a listing through an initial public offering only become eligible for inclusion in the S&P 500 and other S&P indices after trading on an exchange for a minimum of a year.  S&P Global\u2019s index arm is seeking public input on the possibility of easing these restrictions so that megacap companies could join the S&P 500 after six months and without being profitable.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-01-2026/card/s-p-eyes-plan-to-ease-index-rules-with-spacex-ipo-looming-IGOu9L1zutkzsgc5nR0G?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-01T10:17:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Aims to Raise $75 Billion -- and 1 AI Stock Should Be a Big Winner From It",
-                "summary": "The company will have no trouble finding cash to spend following its initial public offering this summer.",
+                "title": "Europe Wants to Go to Mars -- but Needs SpaceX to Help",
+                "summary": "When your rover absolutely, positively must reach Mars on a budget, call SpaceX.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/01/spacex-ipo-aims-to-raise-75-billion-this-1-ai-stoc/",
-                "publishDate": "2026-05-01T10:10:00Z",
+                "url": "https://www.fool.com/investing/2026/05/03/europe-wants-to-go-to-mars-but-needs-spacex-to-hel/",
+                "publishDate": "2026-05-03T10:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Tesla\u2019s xAI And SpaceX Deals Reshape Growth Story And Governance Questions",
+                "summary": "Tesla disclosed over $500 million in revenue from transactions with Elon Musk controlled companies, including xAI and SpaceX, in an amended annual filing. The filing highlights deepening business ties between NasdaqGS:TSLA and Musk's other ventures, raising related party and governance questions. These dealings cover technology integration and chip related collaborations that could influence Tesla's future products and services. Tesla, trading at $390.82, continues to attract attention as...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-xai-spacex-deals-reshape-100906354.html",
+                "publishDate": "2026-05-03T10:09:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Stock Indexes Are Contorting Themselves to Include SpaceX and OpenAI",
+                "summary": "Index funds holding trillions of dollars of 401(k)s and other investments are rushing to change their rules as the IPOs of SpaceX, OpenAI and Anthropic draw closer.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/stocks/stock-indexes-are-contorting-themselves-to-include-spacex-and-openai-92136b13?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-03T09:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: Is This the 10X Stock You've Been Waiting For?",
+                "summary": "The SpaceX IPO should be one of the biggest in history.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/03/spacex-ipo-is-this-the-10x-stock-youve-been-waitin/",
+                "publishDate": "2026-05-03T05:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk's Starlink Set To Benefit From FCC's Satellite Power Limit Update\u2014Could Get 'Seven-Fold' Increase In Capacity",
+                "summary": "SpaceX's Starlink could see capacity rise as much as seven-fold under new Federal Communications Commission (FCC) rules approved this week, a regulatory shift aimed at improving satellite internet speed, reliability and costs. FCC Updates Decades-Old Satellite Sharing Rules The FCC voted Thursday to modernize satellite spectrum-sharing rules, replacing 1990s-era limits that restricted newer non-geostationary systems such as Starlink. The agency said the new performance-based framework accounts f",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musks-starlink-set-benefit-013005928.html",
+                "publishDate": "2026-05-03T01:30:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "A Look At Blue Owl Capital (OWL) Valuation After Earnings Beat And SpaceX Stake Sale",
+                "summary": "Blue Owl Capital (OWL) is back in focus after first quarter 2026 earnings topped expectations, assets under management expanded, and the firm realized a large gain by selling part of its SpaceX stake. See our latest analysis for Blue Owl Capital. That earnings beat, the SpaceX gain and fresh Sila Realty deal have helped the 1 month share price return reach 14.58% and the 7 day move 8.71%. However, the year to date share price return of 34.81% and 1 year total shareholder return of 42.58% show...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/look-blue-owl-capital-owl-211123010.html",
+                "publishDate": "2026-05-02T21:11:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk's SpaceX Could Be Fast-Tracked Into S&P 500 After IPO Under Proposed Rule Changes",
+                "summary": "The S&P 500, managed by S&P Global Dow Jones Indices, on Thursday, announced it was beginning consultation on rule changes that could potentially help Elon Musk-led SpaceX gain an expedited entry into the index. S&P 500 Rule Changes The rule changes include letting IPOs enter the index six months after their debut on an eligible index instead of a 12-month period, according to current rules. The index also proposed eliminating a minimum Investable Weight Factor (IWF) of 0.10 for megacap companie",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-could-fast-180121306.html",
+                "publishDate": "2026-05-02T18:01:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Testifies He 'Didn't Read' OpenAI's For-Profit Fine Print, Claims Sam Altman Misled Him: 'Can't Steal A Charity'",
+                "summary": "On Thursday, Elon Musk told a California courtroom that he backed OpenAI with millions of dollars under the belief it would remain a nonprofit focused on humanity. Musk Says OpenAI Abandoned Its Original Nonprofit Mission During cross-examination, Musk testified that while he was aware of preliminary discussions about restructuring OpenAI in 2017, he did not fully review the legal details, Reuters reported. \"My testimony is I didn't read the fine print, just the headline,\" Musk said. The Tesla I",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-testifies-didnt-read-150110127.html",
+                "publishDate": "2026-05-02T15:01:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Did AST SpaceMobile Stock Slip in April?",
+                "summary": "The upstart satellite network had trouble with one of its launches.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/02/why-did-ast-spacemobile-stock-slip-in-april/",
+                "publishDate": "2026-05-02T14:38:07Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.07,
+        "price": 27.83,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6123413,
-            "marketCap": 20089731072,
+            "change": -2.45356,
+            "marketCap": 19917961216,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.99,
+        "price": 29.19,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,11 +584,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6247841,
-            "marketCap": 5936645632,
-            "weekLow": 9.88,
+            "change": 1.31899,
+            "marketCap": 5977602048,
+            "weekLow": 10.1,
             "weekHigh": 36.52,
-            "yearTarget": 44.9
+            "yearTarget": 43.4
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is SSR Mining (TSX:SSRM) Pricing Reflect Recent Surge And DCF-Based Value Estimate",
+                "summary": "If you are wondering whether SSR Mining's current share price reflects its underlying value, this breakdown will walk through what the numbers are actually saying about the stock. The share price recently closed at $39.66, with returns of 34.1% year to date and 186.8% over the last year, despite 7 day and 30 day returns of 5.0% and 9.4% declines respectively. Recent news around SSR Mining has focused on how investors are reassessing the company after these sharp moves, paying close attention...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-tsx-ssrm-pricing-211318291.html",
+                "publishDate": "2026-05-02T21:13:18Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "SSRM vs. WPM: Which Stock Is the Better Value Option?",
                 "summary": "SSRM vs. WPM: Which Stock Is the Better Value Option?",
@@ -686,16 +696,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-enhance-liquidity-144323049.html",
                 "publishDate": "2026-04-09T14:43:23Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "TSX Stocks Including Almonty Industries That May Be Trading Below Estimated Value",
-                "summary": "As the Canadian TSX index shows signs of recovery following recent market turbulence, investors are cautiously optimistic about potential de-escalation in oil prices, which could stabilize economic conditions. In this environment, identifying stocks that may be trading below their estimated value becomes crucial for investors seeking opportunities amidst uncertainty.",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/tsx-stocks-including-almonty-industries-123759541.html",
-                "publishDate": "2026-04-09T12:37:59Z",
                 "premium": false,
                 "freemium": false
             }
