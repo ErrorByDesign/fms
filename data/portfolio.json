@@ -32,6 +32,16 @@
         },
         "NEWS": [
             {
+                "title": "Why GoodRx (GDRX) Stock Is Trading Up Today",
+                "summary": "Shares of healthcare tech company GoodRx (NASDAQ:GDRX) jumped 9.5% in the afternoon session after it announced it would provide access to Novo Nordisk's oral semaglutide medication, known as the Ozempic pill, for eligible self-pay patients with type 2 diabetes.",
+                "source": "StockStory",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-goodrx-gdrx-stock-trading-171655480.html",
+                "publishDate": "2026-05-03T17:16:55Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Jim Cramer Praises Eli Lilly\u2019s Performance",
                 "summary": "Eli Lilly and Company (NYSE:LLY) was among the stocks Jim Cramer highlighted, as he discussed the massive AI infrastructure buildout. Cramer noted that the company is \u201ccreating a lot of jobs,\u201d as he said: Okay, then there\u2019s one that\u2019s totally away from manufacturing or industry or tech, and that\u2019s Eli Lilly. It was up 10%. [\u2026]",
                 "source": "Insider Monkey",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-novo-nordisk-nyse-nvo-133010796.html",
                 "publishDate": "2026-05-01T13:30:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Zoetis Gears Up to Report Q1 Earnings: Is a Beat in the Cards?",
-                "summary": "ZTS eyes a Q1 beat as companion animal products and international growth offset U.S. weakness ahead of its May 7 earnings report.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/zoetis-gears-report-q1-earnings-132900459.html",
-                "publishDate": "2026-05-01T13:29:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4535575,
+            "change": -2.45356,
             "marketCap": 19917961216,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3189863,
+            "change": 1.3189834,
             "marketCap": 5977602048,
             "weekLow": 10.1,
             "weekHigh": 36.52,
