@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.995,
+        "price": 44.1601,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.26209623,
-            "marketCap": 195082715136,
+            "change": 0.6383272,
+            "marketCap": 195814801408,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.49899
+            "yearTarget": 46.491356
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Elon Musk Is Now Worth More Than an Average Country\u2019s GDP",
+                "summary": "Elon Musk's net worth hit $800 billion, matching Rockefeller's 1913 share. He responded with a $10 trillion target.",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/elon-musk-800-billion-net-worth/",
+                "publishDate": "2026-05-04T15:56:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "ARKX Faces a Concentration Crisis as SpaceX IPO Looms Over Space ETF Holdings",
                 "summary": "ARK Space Exploration & Innovation ETF (NYSEARCA:ARKX) has rewarded patient holders lately, with shares near $33 after a 74% one-year run and a 13% year-to-date gain. That kind of move tends to bury the risk conversation. It shouldn\u2019t. ARKX is an actively managed, non-diversified thematic equity ETF that launched in March 2021. Its mandate covers ... ARKX Faces a Concentration Crisis as SpaceX IPO Looms Over Space ETF Holdings",
                 "source": "24/7 Wall St.",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-03T21:25:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Is Rocket Lab Corporation (RKLB) A Good Stock To Buy Now?",
-                "summary": "Is RKLB a good stock to buy? We came across a bullish thesis on Rocket Lab Corporation on Joe Gannon\u2019s Substack by Gannon Capital. In this article, we will summarize the bulls\u2019 thesis on RKLB. Rocket Lab Corporation\u2019s share was trading at $86.64 as of April 21st. Rocket Lab is a vertically integrated space infrastructure company that [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-corporation-rklb-good-163456206.html",
-                "publishDate": "2026-05-03T16:34:56Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.78,
+        "price": 27.98,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.1796595,
-            "marketCap": 19882178560,
+            "change": 0.5389853,
+            "marketCap": 20025317376,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.705,
+        "price": 28.64,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.66153,
-            "marketCap": 5878282240,
+            "change": -1.8842108,
+            "marketCap": 5864971264,
             "weekLow": 10.1,
             "weekHigh": 36.52,
             "yearTarget": 43.4
