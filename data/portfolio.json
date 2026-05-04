@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.255,
+        "price": 44.41,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8547788,
-            "marketCap": 196235624448,
+            "change": 1.2078367,
+            "marketCap": 196922916864,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.50488
+            "yearTarget": 46.520744
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "FDA Reports Liver Failure in Patient Taking Eli Lilly\u2019s Foundayo",
+                "summary": "The Food and Drug Administration has recorded two \u2018serious\u2019 cases in patients taking Eli Lilly\u2019s weight-loss pill.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/lilly-foundayo-liver-failure-fda-e1ac5d1c?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-04T16:55:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -68,16 +78,6 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/05/04/guggenheim-trims-amgen-price-target-to-340-is-the-biotech-giant-losing-its-edge/",
                 "publishDate": "2026-05-04T14:50:30Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "FDA Reports Liver Failure in Patient Taking Lilly\u2019s Foundayo",
-                "summary": "The Food and Drug Administration has recorded two \u2018serious\u2019 cases in patients taking Eli Lilly\u2019s weight-loss pill.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/lilly-foundayo-liver-failure-fda-e1ac5d1c?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-04T13:48:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.5,
+        "price": 1.45,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.7397234,
-            "marketCap": 140743776,
+            "change": -0.68493086,
+            "marketCap": 136052320,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,26 @@
         },
         "NEWS": [
             {
+                "title": "Space IPO Plays To Report, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
+                "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies report late Monday. Rocket Lab reports Thursday.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/space-ipos-firefly-aerospace-fly-voyager-rocket-lab-earnings/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-04T17:12:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Wants to Blast Data Centers Into Orbit. Here\u2019s What It May Take.",
+                "summary": "We asked an engineer to break down the biggest technical hurdles and costly barriers to putting data centers in space.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/spacex-wants-to-blast-data-centers-into-orbit-heres-what-it-may-take-adf6140a?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-04T16:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk Is Now Worth More Than an Average Country\u2019s GDP",
                 "summary": "Elon Musk's net worth hit $800 billion, matching Rockefeller's 1913 share. He responded with a $10 trillion target.",
                 "source": "BeInCrypto",
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-03T21:55:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Anthony Scaramucci Reveals His Biggest Investing Mistake, Saying He Won't Repeat It With SpaceX, Anthropic: 'Valuation Is Ridiculous'",
-                "summary": "SkyBridge Capital founder Anthony Scaramucci says his biggest investing regret is selling winners too early and now plans to hold long-term stakes in SpaceX and Anthropic despite soaring valuations. Early Exit From JPMorgan Still Shapes His Thinking On Thursday, Scaramucci said that one of his biggest investing mistakes was exiting strong positions too soon, particularly his early investment in JPMorgan Chase & Co. in the early 2000s. He said that had he simply held the stock, dividends alone wo",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthony-scaramucci-reveals-biggest-investing-213106885.html",
-                "publishDate": "2026-05-03T21:31:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Will Create a $75 Billion Spending Spree -- These 2 AI Stocks Will Win",
-                "summary": "SpaceX's upcoming IPO will arm it with huge amounts of cash.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/03/the-spacex-ipo-will-create-a-75-billion-spending-s/",
-                "publishDate": "2026-05-03T21:25:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.095,
+        "price": 28.0,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9522077,
-            "marketCap": 20107622400,
+            "change": 0.6108519,
+            "marketCap": 20039630848,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.64,
+        "price": 28.715,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8842108,
-            "marketCap": 5864971264,
+            "change": -1.6272709,
+            "marketCap": 5880330240,
             "weekLow": 10.1,
             "weekHigh": 36.52,
             "yearTarget": 43.4
