@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.88,
+        "price": 44.28,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.93179,
-            "marketCap": 194572795904,
+            "change": 0.9115718,
+            "marketCap": 196346462208,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.639484
+            "yearTarget": 46.61016
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,56 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Earnings live updates: Palantir to kick off busy week as S&P 500 earnings growth trend impresses",
+                "summary": "First quarter earnings season is in full swing, with a full slate of semiconductor and consumer companies slated to report results.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
+                "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Guggenheim Trims Amgen Price Target to $340: Is the Biotech Giant Losing Its Edge?",
+                "summary": "Guggenheim trimmed its price target (PT) on Amgen (NASDAQ:AMGN) to $340 from $351 on Monday, May 4, while maintaining a Neutral rating. The revision follows the biotech\u2019s Q1 2026 earnings release and reflects a model update rather than a wholesale thesis change. Amgen stock recently slipped, trading at $324 as of Monday after closing at ... Guggenheim Trims Amgen Price Target to $340: Is the Biotech Giant Losing Its Edge?",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/04/guggenheim-trims-amgen-price-target-to-340-is-the-biotech-giant-losing-its-edge/",
+                "publishDate": "2026-05-04T14:50:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "FDA Reports Liver Failure in Patient Taking Lilly\u2019s Foundayo",
+                "summary": "The Food and Drug Administration has recorded two \u2018serious\u2019 cases in patients taking Eli Lilly\u2019s weight-loss pill.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/lilly-foundayo-liver-failure-fda-e1ac5d1c?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-04T13:48:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Eli Lilly stock is down 3% today: FDA adverse event data explained",
+                "summary": "Investing.com -- Eli Lilly and Company (NYSE:LLY) fell 3% Monday, while Novo Nordisk (NYSE:NVO) rose 2% after Evercore ISI analyst Umer Raffat flagged a liver case in the FDA adverse event database that has \"potential to create confusion\" for Eli Lilly.",
+                "source": "Investing.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-eli-lilly-stock-down-130409480.html",
+                "publishDate": "2026-05-04T13:04:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk to launch Ozempic for type 2 diabetes in US",
+                "summary": "Ozempic oral pill will be produced entirely in the US and distributed through more than 70,000 pharmacies in the US.",
+                "source": "Pharmaceutical Technology",
+                "category": "finance",
+                "url": "https://www.pharmaceutical-technology.com/news/novo-nordisk-to-launch-ozempic/",
+                "publishDate": "2026-05-04T09:16:55Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Extends Pipeline With Semaglutide Alcohol Study And LX9851 Trial",
                 "summary": "Novo Nordisk (NYSE:NVO) is exploring semaglutide as a potential treatment for alcohol use disorder, expanding beyond its current uses in diabetes and obesity. The company has also begun Phase 1 trials for LX9851, an oral obesity and metabolic disorder drug developed with Lexicon Pharmaceuticals. These moves highlight ongoing clinical work in metabolic and related conditions, with implications for future treatment options. Novo Nordisk is currently trading at $43.88, with the share price up...",
@@ -80,56 +130,6 @@
                 "publishDate": "2026-05-03T15:51:03Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Oral Ozempic US Launch And Partnerships Test Novo Nordisk Valuation",
-                "summary": "Novo Nordisk (CPSE:NOVO B) is rolling out its oral Ozempic (semaglutide) tablet across the US as the only FDA approved oral GLP-1 for adults with type 2 diabetes. The company plans broad distribution through more than 70,000 US pharmacies. New access partnerships with WW International and GoodRx aim to support patients through digital health tools, discounts and self pay options. The launch includes a mix of insurance coverage pathways and cash pay programs targeting both insured and self...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/oral-ozempic-us-launch-partnerships-112135713.html",
-                "publishDate": "2026-05-02T11:21:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "There's Another Twist In The Obesity Pills Showdown \u2014 And This One Actually Helps Lilly",
-                "summary": "The prescription data collected for Eli Lilly's new weight-loss pill, Foundayo, is flawed, analysts said Friday.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/eli-lilly-stock-foundayo-prescriptions-first-quarter-report/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-01T20:13:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Launches Ozempic Pill in U.S.",
-                "summary": "Oral version targets broader access as GLP-1 demand grows",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-launches-ozempic-pill-195050173.html",
-                "publishDate": "2026-05-01T19:50:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Launches Ozempic Pills Across 70,000 US Pharmacies",
-                "summary": "Novo will sell 1.5 mg, 4 mg and 9 mg Ozempic pills as it rebrands Rybelsus in the US.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-launches-ozempic-pills-across-154038853.html",
-                "publishDate": "2026-05-01T15:40:38Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk rolls out Ozempic pill in the U.S.",
-                "summary": "Oral version expands access to diabetes therapy",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-rolls-ozempic-pill-153935457.html",
-                "publishDate": "2026-05-01T15:39:35Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.44,
+        "price": 1.53,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 135114032,
+            "change": 4.794516,
+            "marketCap": 143558656,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,56 @@
         },
         "NEWS": [
             {
+                "title": "ARKX Faces a Concentration Crisis as SpaceX IPO Looms Over Space ETF Holdings",
+                "summary": "ARK Space Exploration & Innovation ETF (NYSEARCA:ARKX) has rewarded patient holders lately, with shares near $33 after a 74% one-year run and a 13% year-to-date gain. That kind of move tends to bury the risk conversation. It shouldn\u2019t. ARKX is an actively managed, non-diversified thematic equity ETF that launched in March 2021. Its mandate covers ... ARKX Faces a Concentration Crisis as SpaceX IPO Looms Over Space ETF Holdings",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/04/arkx-faces-a-concentration-crisis-as-spacex-ipo-looms-over-space-etf-holdings/",
+                "publishDate": "2026-05-04T14:00:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk sought settlement with OpenAI before Oakland trial, filing shows",
+                "summary": "Elon Musk contacted OpenAI President Greg Brockman to gauge interest in \u200ca settlement two days before their high-stakes trial got \u200cunderway in Oakland federal court, according to a new court filing.  Altman, Brockman and Microsoft chief Satya Nadella are expected to testify later this month.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/musk-sought-settlement-openai-oakland-111227702.html",
+                "publishDate": "2026-05-04T11:12:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Meet 3 Upcoming Monster Artificial Intelligence (AI) IPOs That Will Soon Join Meta, Tesla, and Broadcom in the $1 Trillion Club",
+                "summary": "Several major private artificial intelligence companies are expected to make their public market debuts this year or next.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/04/meet-3-upcoming-monster-artificial-intelligence-ai/",
+                "publishDate": "2026-05-04T09:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Want to Buy SpaceX Before Its IPO? This Venture Fund Crushed the S&P 500 and Nasdaq-100 in the Past Year.",
+                "summary": "The Ark Venture Fund offers heavy exposure to SpaceX and OpenAI, but investors should understand the risks.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/04/buy-spacex-ipo-venture-fund-crush-sp-500-nasdaq/",
+                "publishDate": "2026-05-04T09:04:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX $1.75 Trillion IPO: 1 Stock Poised to Be the Biggest Loser",
+                "summary": "Huge IPOs have ripple effects, resulting in winners and losers.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/04/spacex-175-trillion-ipo-1-stock-poised-to-be-the-b/",
+                "publishDate": "2026-05-04T08:12:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk's Space AI Vision Gets Boost As Sundar Pichai Backs Data Centers In Orbit",
                 "summary": "Elon Musk\u2018s orbital datacenter goals may have gotten a boost following Alphabet Inc. CEO Sundar Pichai\u2018s comments about space-based AI compute earlier this month. AI Compute Satellites In a post on the social media platform X, influencer Peter Diamandis shared that Pichai had predicted that space-based AI datacenters would be the \u201cnormal\u201d way of building out AI compute within a decade, referring to Pichai\u2019s comments from an April interview with Fortune, adding that Musk had been saying this \u201cfor",
                 "source": "Benzinga",
@@ -360,56 +410,6 @@
                 "publishDate": "2026-05-03T16:34:56Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon\u2019s Terafab Is Moving at \u201cLight Speed\u201d \u2014 and That Could Mean Big Things for Tesla",
-                "summary": "Elon Musk\u2019s Terafab may very well be the most ambitious undertaking Tesla (NASDAQ:TSLA) or, really, any of his other incredible companies to date. Make no mistake, highly-capable Optimus robots, reusable rockets that deliver payouts into space, and even longer-term plans of going to Mars are not without their own share of ambition. That said, when ... Elon\u2019s Terafab Is Moving at \u201cLight Speed\u201d \u2014 and That Could Mean Big Things for Tesla",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/03/elons-terafab-is-moving-at-light-speed-and-that-could-mean-big-things-for-tesla/",
-                "publishDate": "2026-05-03T14:11:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Europe Wants to Go to Mars -- but Needs SpaceX to Help",
-                "summary": "When your rover absolutely, positively must reach Mars on a budget, call SpaceX.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/03/europe-wants-to-go-to-mars-but-needs-spacex-to-hel/",
-                "publishDate": "2026-05-03T10:26:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla\u2019s xAI And SpaceX Deals Reshape Growth Story And Governance Questions",
-                "summary": "Tesla disclosed over $500 million in revenue from transactions with Elon Musk controlled companies, including xAI and SpaceX, in an amended annual filing. The filing highlights deepening business ties between NasdaqGS:TSLA and Musk's other ventures, raising related party and governance questions. These dealings cover technology integration and chip related collaborations that could influence Tesla's future products and services. Tesla, trading at $390.82, continues to attract attention as...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-xai-spacex-deals-reshape-100906354.html",
-                "publishDate": "2026-05-03T10:09:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Stock Indexes Are Contorting Themselves to Include SpaceX and OpenAI",
-                "summary": "Index funds holding trillions of dollars of 401(k)s and other investments are rushing to change their rules as the IPOs of SpaceX, OpenAI and Anthropic draw closer.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/stock-indexes-are-contorting-themselves-to-include-spacex-and-openai-92136b13?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-03T09:30:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO: Is This the 10X Stock You've Been Waiting For?",
-                "summary": "The SpaceX IPO should be one of the biggest in history.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/03/spacex-ipo-is-this-the-10x-stock-youve-been-waitin/",
-                "publishDate": "2026-05-03T05:25:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.83,
+        "price": 27.855,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.45356,
-            "marketCap": 19917961216,
+            "change": 0.08982975,
+            "marketCap": 19935854592,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -455,6 +455,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Here\u2019s Why Roivant Sciences Ltd (ROIV) Rallied in Q1",
+                "summary": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the \u201cBaron Health Care Fund\u201d. A copy of the letter is available to download here. Baron Health Care Fund (the Fund) declined 6.97% (Institutional Shares) in the quarter, compared to the 4.88% decline for the Russell 3000 Health Care Index (the Benchmark) and [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-roivant-sciences-ltd-roiv-131000256.html",
+                "publishDate": "2026-05-04T13:10:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Piper Sandler and Bernstein Bullish on Roivant Sciences (ROIV)",
                 "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 10 Best Medical Stocks to Buy Under $30. On April 16, Piper Sandler assumed coverage of Roivant Sciences Ltd. (NASDAQ:ROIV) with an Overweight rating on the stock and $40 price target. Piper Sandler said the stock has gained more than 190% over the past year, supported by [\u2026]",
@@ -544,16 +554,6 @@
                 "publishDate": "2026-04-03T11:12:03Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Immunovant Batoclimab Flops in Phase 3 TED as Roivant Expands Brepocitinib Into LPP",
-                "summary": "Roivant Sciences and Priovant Therapeutics executives outlined an expansion of the brepocitinib development program into lichen planopilaris (LPP) and discussed newly released Phase 3 results for batoclimab in thyroid eye disease (TED), which failed to meet its primary endpoint. Brepocitinib expand",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/immunovant-batoclimab-flops-in-phase-3-ted-as-roivant-expands-brepocitinib-into-lpp-2026-04-02/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-04-02T17:03:39Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.19,
+        "price": 29.0,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3189834,
-            "marketCap": 5977602048,
+            "change": -0.65090966,
+            "marketCap": 5938693120,
             "weekLow": 10.1,
             "weekHigh": 36.52,
             "yearTarget": 43.4
