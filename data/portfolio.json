@@ -20,7 +20,7 @@
             "marketCap": 196834230272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.525257
+            "yearTarget": 46.523438
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,7 +32,7 @@
         },
         "NEWS": [
             {
-                "title": "Earnings live updates: Palantir to kick off busy week as S&P 500 earnings growth trend impresses",
+                "title": "Earnings live updates: Palantir posts record Q1 revenue, Pinterest stock soars on ad-boosting AI tools, Tyson's high-protein bet pays off",
                 "summary": "First quarter earnings season is in full swing, with a full slate of semiconductor and consumer companies slated to report results.",
                 "source": "Yahoo Finance",
                 "category": "finance",
@@ -47,7 +47,7 @@
                 "source": "Barrons.com",
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/lilly-foundayo-liver-failure-fda-e1ac5d1c?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-04T16:55:00Z",
+                "publishDate": "2026-05-04T20:03:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -280,7 +280,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 623.34,
+        "price": 625.47,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -296,10 +296,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.05,
-            "marketCap": 1479661584384,
+            "change": 0.34,
+            "marketCap": 1484717686784,
             "weekLow": 201.24,
-            "weekHigh": 623.34,
+            "weekHigh": 625.47,
             "yearTarget": null
         },
         "FUNDING": {
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Space IPOs Diverge On Results, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
+                "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies reported late Monday. Rocket Lab reports Thursday.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/space-ipos-firefly-aerospace-fly-voyager-rocket-lab-earnings/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-04T20:43:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The Stock Market Is Doing Something for Only the 4th Time in 156 Years -- and History Is Very Clear About What Happens Next",
                 "summary": "Stock market indicators rarely get this extreme.",
                 "source": "Motley Fool",
@@ -338,16 +348,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-earliest-investors-face-wild-190420006.html",
                 "publishDate": "2026-05-04T19:04:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space IPO Plays To Report, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
-                "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies report late Monday. Rocket Lab reports Thursday.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/space-ipos-firefly-aerospace-fly-voyager-rocket-lab-earnings/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-04T17:12:12Z",
                 "premium": false,
                 "freemium": false
             },
