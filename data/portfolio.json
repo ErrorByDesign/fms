@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.45,
+        "price": 44.485,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2989966,
-            "marketCap": 197100290048,
+            "change": 1.3787591,
+            "marketCap": 197255479296,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.52103
+            "yearTarget": 46.55433
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX's earliest investors face a wild card: Nasdaq's new 'fast entry' rule",
+                "summary": "The Nasdaq\u2019s \u201cfast entry\u201d rule, allowing large-cap, newly public companies to join the Nasdaq 100 after just 15 days of trading, came into effect on Friday, ahead of SpaceX\u2018s highly anticipated mega-IPO. The new rule moves SpaceX\u2019s private investors into uncharted territory, where SpaceX\u2019s stock price may be forced upward at a greater scale and much sooner than is typical before their lock-ups expire. For some of them, it may affect whether they choose to sell in the IPO. \u201cThere have been folks",
+                "source": "Pitchbook",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-earliest-investors-face-wild-190420006.html",
+                "publishDate": "2026-05-04T19:04:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space IPO Plays To Report, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
                 "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies report late Monday. Rocket Lab reports Thursday.",
                 "source": "Investor's Business Daily",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-04T08:12:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk's Space AI Vision Gets Boost As Sundar Pichai Backs Data Centers In Orbit",
-                "summary": "Elon Musk\u2018s orbital datacenter goals may have gotten a boost following Alphabet Inc. CEO Sundar Pichai\u2018s comments about space-based AI compute earlier this month. AI Compute Satellites In a post on the social media platform X, influencer Peter Diamandis shared that Pichai had predicted that space-based AI datacenters would be the \u201cnormal\u201d way of building out AI compute within a decade, referring to Pichai\u2019s comments from an April interview with Fortune, adding that Musk had been saying this \u201cfor",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musks-space-ai-vision-003114111.html",
-                "publishDate": "2026-05-04T00:31:14Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.965,
+        "price": 28.155,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.48526323,
-            "marketCap": 20014581760,
+            "change": 1.1678072,
+            "marketCap": 20150564864,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.61,
+        "price": 28.53,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9859611,
-            "marketCap": 5858828288,
+            "change": -2.2610478,
+            "marketCap": 5842445824,
             "weekLow": 10.1,
             "weekHigh": 36.52,
             "yearTarget": 43.4
