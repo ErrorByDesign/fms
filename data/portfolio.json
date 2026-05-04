@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.54,
+        "price": 44.45,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5041018,
-            "marketCap": 197499371520,
+            "change": 1.2989966,
+            "marketCap": 197100290048,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.533268
+            "yearTarget": 46.52103
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Musk threatened to turn OpenAI's Altman and Brockman into 'most hated men in America' ahead of trial",
+                "summary": "Elon Musk reached out to OpenAI's Greg Brockman about a potential settlement just days before his lawsuit against the company was set to go to trial.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/article/musk-threatened-to-turn-openais-altman-and-brockman-into-most-hated-men-in-america-ahead-of-trial-180609792.html",
+                "publishDate": "2026-05-04T18:06:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space IPO Plays To Report, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
                 "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies report late Monday. Rocket Lab reports Thursday.",
                 "source": "Investor's Business Daily",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-04T00:31:14Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX will pay Elon Musk a bonus if he gets at least 1 million people to live on Mars \u2014 here's the plan",
-                "summary": "Details from the SpaceX IPO registration statement are leaking out and 200 million super-voting restricted shares are on the line for Musk, if he can hit certain milestones.",
-                "source": "Moneywise",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-pay-elon-musk-bonus-215500297.html",
-                "publishDate": "2026-05-03T21:55:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.085,
+        "price": 27.965,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.916439,
-            "marketCap": 20100464640,
+            "change": 0.48526323,
+            "marketCap": 20014581760,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.66,
+        "price": 28.61,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8156927,
-            "marketCap": 5869067264,
+            "change": -1.9859611,
+            "marketCap": 5858828288,
             "weekLow": 10.1,
             "weekHigh": 36.52,
             "yearTarget": 43.4
