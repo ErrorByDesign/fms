@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.83,
+        "price": 44.97,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.99121976,
-            "marketCap": 198785286144,
+            "change": 1.3066047,
+            "marketCap": 199406075904,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.551994
+            "yearTarget": 46.54813
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.45,
+        "price": 1.46,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.69444376,
-            "marketCap": 136052320,
+            "change": 1.3888875,
+            "marketCap": 136990608,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,16 +322,6 @@
                 "freemium": false
             },
             {
-                "title": "Musk threatened to turn OpenAI's Altman and Brockman into 'most hated men in America' ahead of trial",
-                "summary": "Elon Musk reached out to OpenAI's Greg Brockman about a potential settlement just days before his lawsuit against the company was set to go to trial.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/musk-threatened-to-turn-openais-altman-and-brockman-into-most-hated-men-in-america-ahead-of-trial-180609792.html",
-                "publishDate": "2026-05-04T18:06:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Mark Your Calendars -- the SpaceX IPO Should Occur by This Date",
                 "summary": "SpaceX may target a valuation of up to $2 trillion.",
                 "source": "Motley Fool",
@@ -410,6 +400,16 @@
                 "publishDate": "2026-05-04T21:53:21Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "The Stock Market Is Doing Something for Only the 4th Time in 156 Years -- and History Is Very Clear About What Happens Next",
+                "summary": "Stock market indicators rarely get this extreme.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/04/the-stock-market-is-doing-something-for-only-the-4/",
+                "publishDate": "2026-05-04T20:20:00Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.25,
+        "price": 28.175,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.3878724,
-            "marketCap": 20218556416,
+            "change": -0.65233207,
+            "marketCap": 20164878336,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
