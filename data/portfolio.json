@@ -20,7 +20,7 @@
             "marketCap": 196834230272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.523438
+            "yearTarget": 46.523945
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,26 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Obesity Pill Momentum Meets Valuation Gap And Risk Flags",
+                "summary": "Novo Nordisk's oral semaglutide for obesity is gaining traction as demand picks up for the new pill version of Ozempic. The FDA has proposed restricting compounding of GLP-1 drugs such as semaglutide, which could support branded products. Rival Eli Lilly is facing delays to its own obesity pill, giving Novo Nordisk more room to build its lead in oral GLP-1 therapies. Novo Nordisk is responding with new leadership, pricing changes, and cost reductions to sharpen its obesity drug focus. Novo...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-obesity-pill-momentum-001940843.html",
+                "publishDate": "2026-05-05T00:19:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "3 Absurdly Cheap Growth Stocks to Buy in May 2026",
+                "summary": "These stocks have been struggling over the past year, but their growth days are far from over.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/04/3-absurdly-cheap-growth-stocks-to-buy-in-may-2026/",
+                "publishDate": "2026-05-04T21:42:08Z",
                 "premium": false,
                 "freemium": false
             },
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-extends-pipeline-semaglutide-230814249.html",
                 "publishDate": "2026-05-03T23:08:14Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Novo Nordisk A/S (NVO) A Good Stock To Buy Now?",
-                "summary": "Is NVO a good stock to buy? We came across a bullish thesis on Novo Nordisk A/S on Unfair Advantage\u2019s Substack by AK. In this article, we will summarize the bulls\u2019 thesis on NVO. Novo Nordisk A/S\u2019s share was trading at $38.52 as of April 23rd. NVO\u2019s trailing and forward P/E were 10.65 and 11.38 respectively according [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-good-stock-181032775.html",
-                "publishDate": "2026-05-03T18:10:32Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Jobs Report, Palantir, Pinterest, AMD, PayPal, Disney, and More to Watch This Week",
-                "summary": "ON Semiconductor, Pfizer, Uber, McDonald\u2019s, and many more will report earnings this week. Economic releases will include the April jobs report and purchasing managers index.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/jobs-report-palantir-pinterest-amd-paypal-disney-and-more-to-watch-this-week-83bd97e1?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-03T18:00:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,6 +322,36 @@
                 "freemium": false
             },
             {
+                "title": "AI\u2019s Hottest Private Companies Have Booming Crypto Shadow Market",
+                "summary": "(Bloomberg) -- The race to sell retail investors a piece of the AI boom has gone mainstream \u2014 closed-end funds, interval funds, special-purpose vehicles. Now, crypto platforms are offering trades tied to the most valuable private AI companies on earth \u2014 ones ordinary investors have almost no other way to access.Most Read from BloombergChina\u2019s Unprecedented Defiance of US Sanctions Triggers ShowdownUS and Iran Trade Fire in Gulf, Jolting Four-Week-Old CeasefireFormer NYC Mayor Giuliani in Critica",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/crypto/articles/ai-hottest-private-companies-booming-003043426.html",
+                "publishDate": "2026-05-05T00:30:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Settles X Lawsuit for a Cup of (Cheap) Coffee. What It Means for SpaceX\u2019s IPO.",
+                "summary": "The billionaire is on the hook for $1.5 million for failing to disclose his 5% stake in Twitter in a timely fashion.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/elon-musk-settles-sec-lawsuit-twitter-x-c98917bb?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-04T22:10:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
+                "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/openai-cozy-partner-cerebras-track-215321586.html",
+                "publishDate": "2026-05-04T21:53:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space IPOs Diverge On Results, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
                 "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies reported late Monday. Rocket Lab reports Thursday.",
                 "source": "Investor's Business Daily",
@@ -378,36 +408,6 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/05/04/arkx-faces-a-concentration-crisis-as-spacex-ipo-looms-over-space-etf-holdings/",
                 "publishDate": "2026-05-04T14:00:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Musk sought settlement with OpenAI before Oakland trial, filing shows",
-                "summary": "Elon Musk contacted OpenAI President Greg Brockman to gauge interest in \u200ca settlement two days before their high-stakes trial got \u200cunderway in Oakland federal court, according to a new court filing.  Altman, Brockman and Microsoft chief Satya Nadella are expected to testify later this month.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/musk-sought-settlement-openai-oakland-111227702.html",
-                "publishDate": "2026-05-04T11:12:27Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Meet 3 Upcoming Monster Artificial Intelligence (AI) IPOs That Will Soon Join Meta, Tesla, and Broadcom in the $1 Trillion Club",
-                "summary": "Several major private artificial intelligence companies are expected to make their public market debuts this year or next.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/04/meet-3-upcoming-monster-artificial-intelligence-ai/",
-                "publishDate": "2026-05-04T09:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Want to Buy SpaceX Before Its IPO? This Venture Fund Crushed the S&P 500 and Nasdaq-100 in the Past Year.",
-                "summary": "The Ark Venture Fund offers heavy exposure to SpaceX and OpenAI, but investors should understand the risks.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/04/buy-spacex-ipo-venture-fund-crush-sp-500-nasdaq/",
-                "publishDate": "2026-05-04T09:04:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -586,7 +586,7 @@
         "FINANCIALS": {
             "change": -2.9119573,
             "marketCap": 5803536896,
-            "weekLow": 10.1,
+            "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
         },
