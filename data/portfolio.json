@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.945,
+        "price": 44.95,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2502823,
-            "marketCap": 199295205376,
+            "change": 1.2615485,
+            "marketCap": 199317389312,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.548786
+            "yearTarget": 46.542446
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,26 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Viatris Gears Up to Report Q1 Earnings: What's in the Cards?",
+                "summary": "VTRS gears up to report Q1 results as import alerts, regional pressures and growth in key brands shape expectations ahead of May 7 release.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/viatris-gears-report-q1-earnings-171600478.html",
+                "publishDate": "2026-05-05T17:16:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Lilly's Oral GLP-1 Pill Foundayo Starts Strong in Oral Obesity Market",
+                "summary": "Lilly's Foundayo is off to a strong start, drawing new prescribers and patients as broad pharmacy access and payer coverage fuel early oral obesity momentum.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lillys-oral-glp-1-pill-171000441.html",
+                "publishDate": "2026-05-05T17:10:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-04T16:06:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Catalyst Pharmaceutics to Report Q1 Earnings: Is a Beat in the Cards?",
-                "summary": "CPRX's Q1 earnings are expected to beat estimates on strong Firdapse demand and rising Agamree sales, while Fycompa faces patent-driven pressure.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/catalyst-pharmaceutics-report-q1-earnings-153200665.html",
-                "publishDate": "2026-05-04T15:32:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Guggenheim Trims Amgen Price Target to $340: Is the Biotech Giant Losing Its Edge?",
-                "summary": "Guggenheim trimmed its price target (PT) on Amgen (NASDAQ:AMGN) to $340 from $351 on Monday, May 4, while maintaining a Neutral rating. The revision follows the biotech\u2019s Q1 2026 earnings release and reflects a model update rather than a wholesale thesis change. Amgen stock recently slipped, trading at $324 as of Monday after closing at ... Guggenheim Trims Amgen Price Target to $340: Is the Biotech Giant Losing Its Edge?",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/04/guggenheim-trims-amgen-price-target-to-340-is-the-biotech-giant-losing-its-edge/",
-                "publishDate": "2026-05-04T14:50:30Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.46,
+        "price": 1.455,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3888875,
-            "marketCap": 136990608,
+            "change": 1.0416657,
+            "marketCap": 136521472,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.265,
+        "price": 28.275,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.33498314,
-            "marketCap": 20229292032,
+            "change": -0.2997214,
+            "marketCap": 20236449792,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.295,
+        "price": 28.26,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.15878643,
-            "marketCap": 5794321408,
+            "change": -0.28228626,
+            "marketCap": 5787154432,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
