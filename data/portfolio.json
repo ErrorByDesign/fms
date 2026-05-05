@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0813236,
+            "change": 1.08132,
             "marketCap": 198962642944,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.532833
+            "yearTarget": 46.515648
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Space IPOs Diverge On Results, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
+                "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies reported late Monday. Rocket Lab reports Thursday.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/space-ipos-firefly-aerospace-fly-voyager-rocket-lab-earnings/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-05T20:29:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Blue Owl issues bold statement on SpaceX investment",
                 "summary": "Private credit has been under a microscope lately. Investors have been asking hard questions about exposure to software companies, rising redemptions in non-traded funds, and what happens when artificial intelligence disrupts entire industries. Blue Owl Capital has been squarely in the middle of ...",
                 "source": "TheStreet",
@@ -348,16 +358,6 @@
                 "category": "finance",
                 "url": "https://beincrypto.com/spacex-ipo-space-etfs-wall-street-rush/",
                 "publishDate": "2026-05-05T14:14:47Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space IPOs Diverge On Results, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
-                "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies reported late Monday. Rocket Lab reports Thursday.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/space-ipos-firefly-aerospace-fly-voyager-rocket-lab-earnings/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-05T14:12:55Z",
                 "premium": false,
                 "freemium": false
             },
