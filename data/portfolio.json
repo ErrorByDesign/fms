@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.39,
+        "price": 44.74,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.16226,
-            "marketCap": 196834230272,
+            "change": 0.78847104,
+            "marketCap": 198386204672,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.523945
+            "yearTarget": 46.569637
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,12 +32,42 @@
         },
         "NEWS": [
             {
-                "title": "Earnings live updates: Palantir posts record Q1 revenue, Pinterest stock soars on ad-boosting AI tools, Tyson's high-protein bet pays off",
+                "title": "Earnings live updates: Pinterest stock spikes, Shopify stock slumps with Q2 outlooks in focus",
                 "summary": "First quarter earnings season is in full swing, with a full slate of semiconductor and consumer companies slated to report results.",
                 "source": "Yahoo Finance",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Barclays Hikes Eli Lilly Price Target to $1,400: Tirzepatide Momentum Steals the Show",
+                "summary": "Eli Lilly (NYSE:LLY) received another bullish call from Wall Street. Barclays analyst Emily Field raised her price target on Eli Lilly stock to $1,400 from $1,350 and reiterated an Overweight rating, citing tirzepatide momentum that \u201ctakes focus back to the big picture.\u201d The firm also lifted its estimates following the company\u2019s Q1 2026 report. For ... Barclays Hikes Eli Lilly Price Target to $1,400: Tirzepatide Momentum Steals the Show",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/05/barclays-hikes-eli-lilly-price-target-to-1400-tirzepatide-momentum-steals-the-show/",
+                "publishDate": "2026-05-05T14:44:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Faces Price War as Weight-Loss Pill Demand Rises",
+                "summary": "Competition from Eli Lilly puts pressure on margins despite strong early uptake",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-faces-price-war-114948466.html",
+                "publishDate": "2026-05-05T11:49:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk\u2019s Weight-Loss Pill Momentum Faces Pricing Pressure",
+                "summary": "Novo Nordisk A/S (NYSE:NVO) is experiencing strong early uptake for its new weight-loss pill, but intensifying competition with U. S.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/27695/novo-nordisks-weight-loss-pill-momentum-faces-pricing-pressure",
+                "publishDate": "2026-05-05T10:27:23Z",
                 "premium": false,
                 "freemium": false
             },
@@ -100,36 +130,6 @@
                 "publishDate": "2026-05-04T14:50:30Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why Eli Lilly stock is down 3% today: FDA adverse event data explained",
-                "summary": "Investing.com -- Eli Lilly and Company (NYSE:LLY) fell 3% Monday, while Novo Nordisk (NYSE:NVO) rose 2% after Evercore ISI analyst Umer Raffat flagged a liver case in the FDA adverse event database that has \"potential to create confusion\" for Eli Lilly.",
-                "source": "Investing.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/why-eli-lilly-stock-down-130409480.html",
-                "publishDate": "2026-05-04T13:04:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk to launch Ozempic for type 2 diabetes in US",
-                "summary": "Ozempic oral pill will be produced entirely in the US and distributed through more than 70,000 pharmacies in the US.",
-                "source": "Pharmaceutical Technology",
-                "category": "finance",
-                "url": "https://www.pharmaceutical-technology.com/news/novo-nordisk-to-launch-ozempic/",
-                "publishDate": "2026-05-04T09:16:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Extends Pipeline With Semaglutide Alcohol Study And LX9851 Trial",
-                "summary": "Novo Nordisk (NYSE:NVO) is exploring semaglutide as a potential treatment for alcohol use disorder, expanding beyond its current uses in diabetes and obesity. The company has also begun Phase 1 trials for LX9851, an oral obesity and metabolic disorder drug developed with Lexicon Pharmaceuticals. These moves highlight ongoing clinical work in metabolic and related conditions, with implications for future treatment options. Novo Nordisk is currently trading at $43.88, with the share price up...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-extends-pipeline-semaglutide-230814249.html",
-                "publishDate": "2026-05-03T23:08:14Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.43,
+        "price": 1.44,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.0548007,
-            "marketCap": 134175728,
+            "change": 0.0,
+            "marketCap": 135114032,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Elon Musk says saving for retirement 'won't matter.' I'm not banking on it.",
+                "summary": "Saving for retirement in 10 or 20 years will be irrelevant,  Elon Musk recently said. Financial advisers aren't buying that advice.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/economy/article/elon-musk-says-saving-for-retirement-wont-matter-im-not-banking-on-it-100000427.html",
+                "publishDate": "2026-05-05T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Musk threatened to turn OpenAI's Altman and Brockman into 'most hated men in America' ahead of trial",
                 "summary": "Elon Musk reached out to OpenAI's Greg Brockman about a potential settlement just days before his lawsuit against the company was set to go to trial.",
                 "source": "Yahoo Finance",
@@ -322,12 +332,62 @@
                 "freemium": false
             },
             {
-                "title": "AI\u2019s Hottest Private Companies Have Booming Crypto Shadow Market",
-                "summary": "(Bloomberg) -- The race to sell retail investors a piece of the AI boom has gone mainstream \u2014 closed-end funds, interval funds, special-purpose vehicles. Now, crypto platforms are offering trades tied to the most valuable private AI companies on earth \u2014 ones ordinary investors have almost no other way to access.Most Read from BloombergChina\u2019s Unprecedented Defiance of US Sanctions Triggers ShowdownUS and Iran Trade Fire in Gulf, Jolting Four-Week-Old TruceFormer NYC Mayor Giuliani in Critical Co",
-                "source": "Bloomberg",
+                "title": "Mark Your Calendars -- the SpaceX IPO Should Occur by This Date",
+                "summary": "SpaceX may target a valuation of up to $2 trillion.",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/crypto/articles/ai-hottest-private-companies-booming-003043426.html",
-                "publishDate": "2026-05-05T00:30:43Z",
+                "url": "https://www.fool.com/investing/2026/05/05/mark-your-calendar-the-spacex-ipo-should-occur-by/",
+                "publishDate": "2026-05-05T14:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Space-Themed ETFs are Flooding Wall Street Before Elon Musk\u2019s SpaceX IPO",
+                "summary": "SpaceX IPO sparks ETF rush with 9 space funds filed or launched in three months as Wall Street races for retail flows.",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/spacex-ipo-space-etfs-wall-street-rush/",
+                "publishDate": "2026-05-05T14:14:47Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Space IPOs Diverge On Results, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
+                "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies reported late Monday. Rocket Lab reports Thursday.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/space-ipos-firefly-aerospace-fly-voyager-rocket-lab-earnings/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-05T14:12:55Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Most Important SpaceX IPO Filing Is (Likely) About 2 Weeks Away",
+                "summary": "Though investors are waiting for Elon Musk's company to pinpoint its stock market debut, there's a far more encompassing filing right around the corner.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/05/most-important-spacex-ipo-filing-is-2-weeks-away/",
+                "publishDate": "2026-05-05T11:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Want to Invest in SpaceX Before the IPO? These 3 Stocks Give You a Back Door In.",
+                "summary": "SpaceX will soon launch, but eager investors don't have to wait for the stock to blast off before they gain exposure.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/05/want-to-invest-in-spacex-before-the-ipo-these-3-st/",
+                "publishDate": "2026-05-05T08:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "STMicroelectronics Touts LEO Boom: Sees Space Revenue Near \u20ac1B in 2026, \u20ac3B+ Through 2028",
+                "summary": "STMicroelectronics (NYSE:STM) outlined its strategy and growth expectations tied to the rapidly expanding low Earth orbit (LEO) space economy during \u201cThe LEO Opportunity\u201d conference call, led by Remi El-Ouazzane, president of the company\u2019s Microcontrollers, Digital ICs and RF Products Group. El-Oua",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/stmicroelectronics-touts-leo-boom-sees-space-revenue-near-1b-in-2026-3b-through-2028-2026-05-05/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-05T05:03:06Z",
                 "premium": false,
                 "freemium": false
             },
@@ -350,66 +410,6 @@
                 "publishDate": "2026-05-04T21:53:21Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Space IPOs Diverge On Results, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
-                "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies reported late Monday. Rocket Lab reports Thursday.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/space-ipos-firefly-aerospace-fly-voyager-rocket-lab-earnings/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-04T20:43:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Stock Market Is Doing Something for Only the 4th Time in 156 Years -- and History Is Very Clear About What Happens Next",
-                "summary": "Stock market indicators rarely get this extreme.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/04/the-stock-market-is-doing-something-for-only-the-4/",
-                "publishDate": "2026-05-04T20:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's earliest investors face a wild card: Nasdaq's new 'fast entry' rule",
-                "summary": "The Nasdaq\u2019s \u201cfast entry\u201d rule, allowing large-cap, newly public companies to join the Nasdaq 100 after just 15 days of trading, came into effect on Friday, ahead of SpaceX\u2018s highly anticipated mega-IPO. The new rule moves SpaceX\u2019s private investors into uncharted territory, where SpaceX\u2019s stock price may be forced upward at a greater scale and much sooner than is typical before their lock-ups expire. For some of them, it may affect whether they choose to sell in the IPO. \u201cThere have been folks",
-                "source": "Pitchbook",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-earliest-investors-face-wild-190420006.html",
-                "publishDate": "2026-05-04T19:04:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Wants to Blast Data Centers Into Orbit. Here\u2019s What It May Take.",
-                "summary": "We asked an engineer to break down the biggest technical hurdles and costly barriers to putting data centers in space.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/tech/spacex-wants-to-blast-data-centers-into-orbit-heres-what-it-may-take-adf6140a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-04T16:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Is Now Worth More Than an Average Country\u2019s GDP",
-                "summary": "Elon Musk's net worth hit $800 billion, matching Rockefeller's 1913 share. He responded with a $10 trillion target.",
-                "source": "BeInCrypto",
-                "category": "finance",
-                "url": "https://beincrypto.com/elon-musk-800-billion-net-worth/",
-                "publishDate": "2026-05-04T15:56:40Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "ARKX Faces a Concentration Crisis as SpaceX IPO Looms Over Space ETF Holdings",
-                "summary": "ARK Space Exploration & Innovation ETF (NYSEARCA:ARKX) has rewarded patient holders lately, with shares near $33 after a 74% one-year run and a 13% year-to-date gain. That kind of move tends to bury the risk conversation. It shouldn\u2019t. ARKX is an actively managed, non-diversified thematic equity ETF that launched in March 2021. Its mandate covers ... ARKX Faces a Concentration Crisis as SpaceX IPO Looms Over Space ETF Holdings",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/04/arkx-faces-a-concentration-crisis-as-spacex-ipo-looms-over-space-etf-holdings/",
-                "publishDate": "2026-05-04T14:00:20Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.36,
+        "price": 28.455,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9044223,
-            "marketCap": 20297283584,
+            "change": 0.3349764,
+            "marketCap": 20365275136,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.34,
+        "price": 28.415,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9119573,
-            "marketCap": 5803536896,
+            "change": 0.2646463,
+            "marketCap": 5818895872,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
