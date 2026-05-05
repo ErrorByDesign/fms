@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.97,
+        "price": 44.945,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3066047,
-            "marketCap": 199406075904,
+            "change": 1.2502823,
+            "marketCap": 199295205376,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.54813
+            "yearTarget": 46.548786
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Blue Owl issues bold statement on SpaceX investment",
+                "summary": "Private credit has been under a microscope lately. Investors have been asking hard questions about exposure to software companies, rising redemptions in non-traded funds, and what happens when artificial intelligence disrupts entire industries. Blue Owl Capital has been squarely in the middle of ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/investing/stocks/blue-owl-issues-bold-statement-on-spacex-investment",
+                "publishDate": "2026-05-05T18:33:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Mark Your Calendars -- the SpaceX IPO Should Occur by This Date",
                 "summary": "SpaceX may target a valuation of up to $2 trillion.",
                 "source": "Motley Fool",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-04T21:53:21Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "The Stock Market Is Doing Something for Only the 4th Time in 156 Years -- and History Is Very Clear About What Happens Next",
-                "summary": "Stock market indicators rarely get this extreme.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/04/the-stock-market-is-doing-something-for-only-the-4/",
-                "publishDate": "2026-05-04T20:20:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.175,
+        "price": 28.265,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.65233207,
-            "marketCap": 20164878336,
+            "change": -0.33498314,
+            "marketCap": 20229292032,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.215,
+        "price": 28.295,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.44107267,
-            "marketCap": 5777938944,
+            "change": -0.15878643,
+            "marketCap": 5794321408,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
