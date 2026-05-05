@@ -20,7 +20,7 @@
             "marketCap": 198962642944,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.515648
+            "yearTarget": 46.525547
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,7 +32,7 @@
         },
         "NEWS": [
             {
-                "title": "Earnings live updates: Pinterest stock spikes, Shopify stock slumps with Q2 outlooks in focus",
+                "title": "Earnings live updates: Supermicro stock soars as AI server demand lifts outlook, Shopify tumbles",
                 "summary": "First quarter earnings season is in full swing, with a full slate of semiconductor and consumer companies slated to report results.",
                 "source": "Yahoo Finance",
                 "category": "finance",
@@ -280,7 +280,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 625.47,
+        "price": 632.33,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -296,10 +296,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.34,
-            "marketCap": 1484717686784,
+            "change": 1.08,
+            "marketCap": 1501001678848,
             "weekLow": 201.24,
-            "weekHigh": 625.47,
+            "weekHigh": 632.33,
             "yearTarget": null
         },
         "FUNDING": {
@@ -318,6 +318,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/economy/article/elon-musk-says-saving-for-retirement-wont-matter-im-not-banking-on-it-100000427.html",
                 "publishDate": "2026-05-05T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Says Humanity Cannot Be Multiplanetary Without Reusable Rockets, Draws Parallel To US Colonization",
+                "summary": "SpaceX CEO Elon Musk on Sunday said that the importance of reusable rockets was crucial for humans to become a multiplanetary civilization amid the billionaire\u2019s Mars colonization goals. Cannot Become Multiplanetary Without Reusable Rockets Responding to a post by Tesla Owners Silicon Valley, which shared that SpaceX had reduced costs per kg to orbit by 500x from approximately \u201c$54,500 (Shuttle era) to ~$1,500.\u201d Everyone obsesses over Starship's height and thrust.The number that actually matters",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-humanity-cannot-213103175.html",
+                "publishDate": "2026-05-05T21:31:03Z",
                 "premium": false,
                 "freemium": false
             },
@@ -398,16 +408,6 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/elon-musk-settles-sec-lawsuit-twitter-x-c98917bb?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-04T22:10:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "OpenAI\u2019s cozy partner Cerebras is on track for a blockbuster IPO",
-                "summary": "AI chip maker Cerebras is heading for a blockbuster IPO that could value it at $26.6 billion or more. Its relationship with OpenAI is deep and rich.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/openai-cozy-partner-cerebras-track-215321586.html",
-                "publishDate": "2026-05-04T21:53:21Z",
                 "premium": false,
                 "freemium": false
             }
