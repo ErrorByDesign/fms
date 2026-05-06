@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.1,
+        "price": 46.105,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.7412515,
-            "marketCap": 204416712704,
+            "change": 2.7523973,
+            "marketCap": 204438880256,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.73891
+            "yearTarget": 46.763172
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -48,6 +48,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Could Win the Oral GLP-1 Race Against Lilly. Why It Just Raised Guidance.",
+                "summary": "Novo Nordisk stock rose as it raised its guidance on the back of the strong performance of its weight-loss pill.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/novo-nordisk-earnings-stock-price-14b096d2?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-06T18:48:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/market-chatter-novo-nordisk-expects-145757232.html",
                 "publishDate": "2026-05-06T14:57:57Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Swallows the Competition with Wegovy Pill Surge",
-                "summary": "The Danish drugmaker is riding a wave of peptide craziness as its weight loss tablet crushes its U.S. debut.",
-                "source": "Moby",
-                "category": "finance",
-                "url": "https://app.moby.co/home/news/news-novo-nordisk-swallows-the-competition-with-wegovy-pill-surge?utm_source=yahoo_finance&utm_medium=rss",
-                "publishDate": "2026-05-06T14:54:06Z",
-                "premium": false,
                 "freemium": false
             }
         ],
@@ -322,6 +322,26 @@
                 "freemium": false
             },
             {
+                "title": "Forget the SpaceX IPO. Thursday Is Space Earnings Day for Space Stocks BlackSky, Redwire, and Rocket Lab",
+                "summary": "Don't want to wait for the SpaceX IPO to invest in space? Good news: You don't have to!",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/06/spacex-ipo-earnings-space-stock-bksy-rklb-rdw/",
+                "publishDate": "2026-05-06T18:54:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Sells Full Colossus 1 Compute to Anthropic Weeks Before $1.75 Trillion IPO",
+                "summary": "SpaceX gave Anthropic full access to Colossus 1 GPUs weeks before its $1.75T IPO, bolstering the AI revenue story.",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/spacex-anthropic-compute-deal-ipo/",
+                "publishDate": "2026-05-06T18:27:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "OKX to Launch OpenAI, SpaceX and Anthropic Perpetual Futures in Pre-IPO Trading Push",
                 "summary": "Crypto exchange OKX will offer synthetic exposure to private AI and tech company valuations through derivatives contracts.",
                 "source": "decrypt",
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-06T14:02:30Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk Calls France Raising Retirement Age From 62 'Difficult But Right'\u2014 Says It's Impossible For Workers To Support 'Massive Retirees'",
-                "summary": "Retirement debates usually come packed with politics. Tesla and SpaceX CEO Elon Musk cut through one with a few lines of plain math.m In 2023, as protests spread across France over a proposal to raise the retirement age, Musk responded...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-calls-france-raising-134608859.html",
-                "publishDate": "2026-05-06T13:46:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Musk, SpaceX to invest $55 billion for Terafab chip facility in Texas",
-                "summary": "Elon Musk's SpaceX plan a $55 billion investment to build a semiconductor manufacturing facility in Texas.",
-                "source": "USA TODAY",
-                "category": "finance",
-                "url": "https://www.usatoday.com/story/money/business/2026/05/06/spacex-tesla-files-55-billion-plans-to-build-terafab-chip-plant/89958999007/",
-                "publishDate": "2026-05-06T13:22:50Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.695,
+        "price": 28.585,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3241526,
-            "marketCap": 20537042944,
+            "change": 0.9357323,
+            "marketCap": 20458315776,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.02,
+        "price": 32.085,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 13.345135,
-            "marketCap": 6557136896,
+            "change": 13.575218,
+            "marketCap": 6570447360,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
