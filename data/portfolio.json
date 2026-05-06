@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.105,
+        "price": 45.885,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.7523973,
-            "marketCap": 204438880256,
+            "change": 2.2620893,
+            "marketCap": 203463360512,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.763172
+            "yearTarget": 46.74979
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -352,6 +352,16 @@
                 "freemium": false
             },
             {
+                "title": "Anthropic Signs AI Deal With SpaceX. The Partnership Could Be Headed to Space.",
+                "summary": "The partnership gives Anthropic access to more than 300 megawatts of capacity at SpaceX\u2019s Colossus 1 data center.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/anthropic-signs-ai-deal-with-spacex-a5f8e10a?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-06T18:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk to spend $120bn on world\u2019s biggest chip plant",
                 "summary": "Elon Musk\u2019s SpaceX is poised to spend $120bn (\u00a388bn) building what he claims will be the world\u2019s largest AI chip factory.",
                 "source": "The Telegraph",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-06T16:37:34Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Investor group urges SEC to scrutinize SpaceX IPO filing, avoid conflicts",
-                "summary": "NEW YORK, May 6 (Reuters) - An investor group which advises union pension funds urged Wall Street's leading watchdog on Wednesday to scrutinize SpaceX's \u200cdisclosures as the rocket maker embarks on a planned record-breaking public listing. It also \u200craised founder Elon Musk's tenure in the Trump administration as a potential conflict for regulators reviewing the company's \u200bdisclosures.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/investor-group-urges-sec-scrutinize-140230816.html",
-                "publishDate": "2026-05-06T14:02:30Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.585,
+        "price": 28.66,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9357323,
-            "marketCap": 20458315776,
+            "change": 1.2005656,
+            "marketCap": 20511993856,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.085,
+        "price": 32.335,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 13.575218,
-            "marketCap": 6570447360,
+            "change": 14.4525,
+            "marketCap": 6621642752,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Why SSR Mining Stock Surged 20% Today",
+                "summary": "The gold stock is shining bright after reporting a massive earnings jump and a $1.5 billion strategic move.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/06/why-ssr-mining-stock-surged-20-today/",
+                "publishDate": "2026-05-06T19:23:43Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "TSX climbs over 1% up as miners gain on US-Iran peace deal hopes",
                 "summary": "By Tharuniyaa Lakshmi May 6 (Reuters) - Canada's main stock index edged higher on Wednesday, lifted by mining shares, as investor optimism rose over reports of the United States and Iran nearing an",
@@ -686,16 +696,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssrm-stock-gets-repurchase-approval-081436037.html",
                 "publishDate": "2026-04-28T08:14:36Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining\u2019s Copler Sale Leaves US$1.5b Cash Question For Investors",
-                "summary": "SSR Mining has agreed to sell its 80% stake in the Copler mine and related properties in T\u00fcrkiye to Cengiz Holding. The transaction is valued at US$1.5b, marking the disposal of a major producing asset from the company\u2019s portfolio. For investors following TSX:SSRM, this move comes after a period of strong share price performance, with the stock at CA$41.73 and up 41.1% year to date and 193.5% over the past year. Returns of 118.3% over three years and 123.7% over five years indicate that SSR...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-copler-sale-leaves-120423586.html",
-                "publishDate": "2026-04-26T12:04:23Z",
                 "premium": false,
                 "freemium": false
             }
