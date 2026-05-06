@@ -20,7 +20,7 @@
             "marketCap": 202909073408,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.734283
+            "yearTarget": 46.748028
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -280,7 +280,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 632.33,
+        "price": 632.78,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -296,10 +296,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 1.08,
-            "marketCap": 1501001678848,
+            "change": 0.07,
+            "marketCap": 1502069915648,
             "weekLow": 201.24,
-            "weekHigh": 632.33,
+            "weekHigh": 632.78,
             "yearTarget": null
         },
         "FUNDING": {
@@ -322,12 +322,32 @@
                 "freemium": false
             },
             {
+                "title": "Craft Launches Tailwind Exchange Fund with a Private Aviation Twist",
+                "summary": "The platform pairs concentrated stock positions with private aviation, targeting a 6% yield or flight hours with a $100,000 minimum investment.",
+                "source": "Wealth Management",
+                "category": "finance",
+                "url": "https://www.wealthmanagement.com/alternative-investments/craft-launches-tailwind-exchange-fund-with-a-private-aviation-twist",
+                "publishDate": "2026-05-06T20:37:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk's SpaceX Will Help Power Anthropic's Claude in Surprise AI Deal",
                 "summary": "Elon Musk\u2019s combined company of SpaceX and xAI will help boost Anthropic with a deal to provide compute for Claude AI models.",
                 "source": "decrypt",
                 "category": "finance",
                 "url": "https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal",
                 "publishDate": "2026-05-06T20:23:19Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic\u2019s Deal With SpaceX Exposes a Potential Problem for Elon Musk\u2019s xAI",
+                "summary": "The partnership gives Anthropic access to more than 300 megawatts of capacity at SpaceX\u2019s Colossus 1 data center.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/anthropic-spacex-ai-deal-musk-a5f8e10a?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-06T20:10:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -362,16 +382,6 @@
                 "freemium": false
             },
             {
-                "title": "Anthropic Signs AI Deal With SpaceX. The Partnership Could Be Headed to Space.",
-                "summary": "The partnership gives Anthropic access to more than 300 megawatts of capacity at SpaceX\u2019s Colossus 1 data center.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/anthropic-signs-ai-deal-with-spacex-a5f8e10a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-06T18:11:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Elon Musk to spend $120bn on world\u2019s biggest chip plant",
                 "summary": "Elon Musk\u2019s SpaceX is poised to spend $120bn (\u00a388bn) building what he claims will be the world\u2019s largest AI chip factory.",
                 "source": "The Telegraph",
@@ -382,32 +392,22 @@
                 "freemium": false
             },
             {
+                "title": "The \u2018PayPal Mafia\u2019 built a $1.5 billion fintech pioneer. The company they left behind is on life support",
+                "summary": "Fortune coined the term \"PayPal Mafia\" in 2007. Two decades later, the mafia is thriving, but PayPal isn't.",
+                "source": "Fortune",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-mafia-built-1-5-175102356.html",
+                "publishDate": "2026-05-06T17:51:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX may spend up to $119B on \u2018Terafab\u2019 chip factory in Texas",
                 "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
                 "source": "TechCrunch",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-may-spend-119-billion-172308114.html",
                 "publishDate": "2026-05-06T17:23:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Inks Deal to Use All of SpaceX\u2019s Colossus 1 Compute Capacity",
-                "summary": "SpaceX will supply 300 megawatts of new computing capacity, using more than 220,000 Nvidia GPUs, by the end of the month.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/tech/ai/anthropic-inks-deal-to-use-all-of-spacexs-colossus-1-compute-capacity-56a7e2a1?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-06T16:55:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic signs deal with SpaceX for AI supercomputer access",
-                "summary": "Investing.com -- Anthropic has signed an agreement with SpaceX to access Colossus 1, an AI supercomputer featuring over 220,000 NVIDIA (NASDAQ:NVDA) GPUs, the companies announced Wednesday.",
-                "source": "Investing.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-signs-deal-spacex-ai-165342823.html",
-                "publishDate": "2026-05-06T16:53:42Z",
                 "premium": false,
                 "freemium": false
             }
