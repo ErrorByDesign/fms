@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.12,
+        "price": 46.1,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.7858257,
-            "marketCap": 204505399296,
+            "change": 2.7412515,
+            "marketCap": 204416712704,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.741554
+            "yearTarget": 46.73891
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.4913,
+        "price": 1.5555,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.9233482,
-            "marketCap": 139927456,
+            "change": 8.397219,
+            "marketCap": 145951296,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "OKX to Launch OpenAI, SpaceX and Anthropic Perpetual Futures in Pre-IPO Trading Push",
+                "summary": "Crypto exchange OKX will offer synthetic exposure to private AI and tech company valuations through derivatives contracts.",
+                "source": "decrypt",
+                "category": "finance",
+                "url": "https://decrypt.co/367022/okx-openai-spacex-anthropic-perpetual-futures-pre-ipo",
+                "publishDate": "2026-05-06T18:25:49Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk to spend $120bn on world\u2019s biggest chip plant",
                 "summary": "Elon Musk\u2019s SpaceX is poised to spend $120bn (\u00a388bn) building what he claims will be the world\u2019s largest AI chip factory.",
                 "source": "The Telegraph",
@@ -332,8 +342,8 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX may spend up to $119 billion on \u2018Terafab\u2019 chip factory in Texas",
-                "summary": "SpaceX, Elon Musk's space company that also houses his AI company, xAI, is considering spending $55 billion, at least initially, to build a semiconductor factory in Texas, according to a filing with Grimes County.",
+                "title": "SpaceX may spend up to $119B on \u2018Terafab\u2019 chip factory in Texas",
+                "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
                 "source": "TechCrunch",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-may-spend-119-billion-172308114.html",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-06T13:22:50Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX files plans for $55 billion Terafab chip plant in Texas",
-                "summary": "The Terafab facility, a joint project with Tesla, could require up to $119 billion in total investment if all phases are completed",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/spacex-terafab-chip-plant-texas-050626",
-                "publishDate": "2026-05-06T12:23:51Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.665,
+        "price": 28.695,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2182246,
-            "marketCap": 20515573760,
+            "change": 1.3241526,
+            "marketCap": 20537042944,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.275,
+        "price": 32.02,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 14.247793,
-            "marketCap": 6609356288,
+            "change": 13.345135,
+            "marketCap": 6557136896,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
