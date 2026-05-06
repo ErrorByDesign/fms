@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.035,
+        "price": 45.83,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.5963917,
-            "marketCap": 204128485376,
+            "change": 2.1395206,
+            "marketCap": 203219484672,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.773182
+            "yearTarget": 46.75273
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -102,6 +102,16 @@
                 "freemium": false
             },
             {
+                "title": "ADP +109K: Job Growth on Lower-Paying Work",
+                "summary": "Beyond obvious strength in Healthcare, we're starting to see \"green shoots\" in industries that a year ago were seeing negative growth.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/economy/articles/adp-109k-job-growth-lower-142400637.html",
+                "publishDate": "2026-05-06T14:24:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Novo Nordisk Could Win the Oral GLP-1 Race Against Lilly. Why It Just Raised Guidance.",
                 "summary": "Novo Nordisk stock rose as it raised its guidance on the back of the strong performance of its weight-loss pill.",
                 "source": "Barrons.com",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.investopedia.com/sales-of-novo-nordisk-new-weight-loss-pill-are-off-to-a-strong-start-the-stock-is-rising-11967825",
                 "publishDate": "2026-05-06T14:04:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Raises Outlook as GLP-1 Demand Stays Strong",
-                "summary": "Strong Wegovy demand lifted revenue as earnings missed estimates",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-raises-outlook-glp-131500222.html",
-                "publishDate": "2026-05-06T13:15:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -312,22 +312,12 @@
         },
         "NEWS": [
             {
-                "title": "Elon Musk's SpaceX files initial $55 billion spend for Terafab chip factory in Texas",
-                "summary": "Elon Musk's SpaceX rocket company filed paperwork to build its upcoming Terafab chip fabrication plant, with an initial spend of $55 billion.",
-                "source": "Yahoo Finance",
+                "title": "The space ETFs prepping for liftoff ahead of SpaceX IPO",
+                "summary": "Space-related funds are seeing a surge of inflows as investors eagerly await the IPO of Elon Musk's SpaceX (SPAX.PVT). In the latest installment of Yahoo Finance's ETF Report, TMX VettaFi head of research Todd Rosenbluth to talk about the ETFs that could draw in the most investors \u2014 like the Procure Space ETF (UFO) \u2014 as interest in the broader space economy grows. Rosenbluth goes on to weigh in on prediction market ETFs that are set to launch.",
+                "source": "Yahoo Finance Video",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/elon-musks-spacex-files-initial-55-billion-spend-for-terafab-chip-factory-in-texas-120356588.html",
-                "publishDate": "2026-05-06T12:03:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX isn't public yet, but Wall Street is already building ETFs for it",
-                "summary": "SpaceX's private market price has surged nearly 700% since 2023, giving it an estimated valuation near $1.5 trillion \u2014 enough to make the ETF world a reason to move before its IPO.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-isnt-public-yet-but-wall-street-is-already-building-etfs-for-it-100000701.html",
-                "publishDate": "2026-05-06T10:00:00Z",
+                "url": "https://finance.yahoo.com/video/space-etfs-prepping-liftoff-ahead-161500971.html",
+                "publishDate": "2026-05-06T16:15:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,6 +400,16 @@
                 "publishDate": "2026-05-06T10:01:30Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "Plot Twist: SpaceX, OpenAI, and Anthropic May Deliver a Fatal Blow to the Trump Bull Market Thanks to a New Rule",
+                "summary": "Investors are about to learn the hard way that popularity does not equate to profitability on Wall Street.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/06/spacex-openai-anthropic-end-trump-bull-market-rule/",
+                "publishDate": "2026-05-06T09:26:00Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.57,
+        "price": 28.625,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8827684,
-            "marketCap": 20447580160,
+            "change": 1.0769784,
+            "marketCap": 20486944768,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
