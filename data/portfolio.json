@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.765,
+        "price": 45.76,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9946523,
-            "marketCap": 202931257344,
+            "change": 1.9834579,
+            "marketCap": 202909073408,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.74964
+            "yearTarget": 46.759933
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -48,6 +48,26 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "NVO Q1 Earnings & Sales Top Estimates, 2026 Outlook Raised, Stock Up",
+                "summary": "Novo Nordisk stock jumps as Q1 earnings and revenues beat estimates, fueled by strong Wegovy and Ozempic demand and a raised 2026 outlook.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/nvo-q1-earnings-sales-top-155200159.html",
+                "publishDate": "2026-05-06T15:52:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Private Payrolls Increased More Than Expected",
+                "summary": "Private Payrolls Increased More Than Expected",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/private-payrolls-increased-more-expected-150700749.html",
+                "publishDate": "2026-05-06T15:07:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-06T14:24:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Could Win the Oral GLP-1 Race Against Lilly. Why It Just Raised Guidance.",
-                "summary": "Novo Nordisk stock rose as it raised its guidance on the back of the strong performance of its weight-loss pill.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/novo-nordisk-earnings-stock-price-14b096d2?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-06T14:19:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sales of Novo Nordisk's New Weight-Loss Pill Are Off To a Strong Start. The Stock Is Rising",
-                "summary": "Novo Nordisk shares climbed Wednesday after the Danish drugmaker beat estimates with its latest quarterly results.",
-                "source": "Investopedia",
-                "category": "finance",
-                "url": "https://www.investopedia.com/sales-of-novo-nordisk-new-weight-loss-pill-are-off-to-a-strong-start-the-stock-is-rising-11967825",
-                "publishDate": "2026-05-06T14:04:53Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.4878,
+        "price": 1.48,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.6794467,
-            "marketCap": 139599056,
+            "change": 3.135894,
+            "marketCap": 138867200,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Anthropic signs deal with SpaceX for AI supercomputer access",
+                "summary": "Investing.com -- Anthropic has signed an agreement with SpaceX to access Colossus 1, an AI supercomputer featuring over 220,000 NVIDIA (NASDAQ:NVDA) GPUs, the companies announced Wednesday.",
+                "source": "Investing.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-signs-deal-spacex-ai-165342823.html",
+                "publishDate": "2026-05-06T16:53:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Tesla-SpaceX File $55 Billion Estimate For Their Joint Semiconductor Factory",
+                "summary": "Elon Musk's Tesla and SpaceX estimated their Terafab AI chip factory will cost $55 billion, but said it could be much higher.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/tesla-spacex-elon-musk-terafab-ai-chip-factory-55-billion/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-06T16:37:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Investor group urges SEC to scrutinize SpaceX IPO filing, avoid conflicts",
                 "summary": "NEW YORK, May 6 (Reuters) - An investor group which advises union pension funds urged Wall Street's leading watchdog on Wednesday to scrutinize SpaceX's \u200cdisclosures as the rocket maker embarks on a planned record-breaking public listing. It also \u200craised founder Elon Musk's tenure in the Trump administration as a potential conflict for regulators reviewing the company's \u200bdisclosures.",
                 "source": "Reuters",
@@ -362,16 +382,6 @@
                 "freemium": false
             },
             {
-                "title": "Tesla-SpaceX Peg $55 Billion For Terafab AI Chip Factory. The Ultimate Cost Could Be Double.",
-                "summary": "Elon Musk's Tesla and SpaceX estimated their Terafab AI chip factory will cost $55 billion, but said it could be much higher.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/tesla-spacex-elon-musk-terafab-ai-chip-factory-55-billion/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-06T13:02:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "SpaceX files plans for $55 billion Terafab chip plant in Texas",
                 "summary": "The Terafab facility, a joint project with Tesla, could require up to $119 billion in total investment if all phases are completed",
                 "source": "Quartz",
@@ -398,16 +408,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-files-plan-55-billion-101725901.html",
                 "publishDate": "2026-05-06T10:17:25Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Analysis-SpaceX IPO gives Musk sweeping power and curbs shareholder rights",
-                "summary": "SpaceX has adopted corporate governance policies that will erode typical shareholder protections in unprecedented ways, giving founder Elon Musk virtually unchecked executive authority when the rocket maker goes public later this year.  Excerpts of SpaceX's IPO registration statement reviewed by Reuters show the company is combining supervoting shares, mandatory arbitration, stricter rules on shareholder proposals and Texas corporate law to give Musk and other insiders broad control.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-spacex-ipo-gives-musk-100130777.html",
-                "publishDate": "2026-05-06T10:01:30Z",
                 "premium": false,
                 "freemium": false
             }
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.33,
+        "price": 32.27,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 14.442484,
-            "marketCap": 6620619264,
+            "change": 14.230091,
+            "marketCap": 6608332288,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
