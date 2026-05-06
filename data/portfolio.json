@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.885,
+        "price": 45.76,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2620893,
-            "marketCap": 203463360512,
+            "change": 1.9835066,
+            "marketCap": 202909073408,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.74979
+            "yearTarget": 46.750156
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,6 +32,16 @@
         },
         "NEWS": [
             {
+                "title": "Earnings live updates: Whirlpool stock falls after 'perfect storm' of consumer headwinds, Supermicro soars",
+                "summary": "First quarter earnings season is in full swing, with a full slate of semiconductor and consumer companies slated to report results.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
+                "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Novo Nordisk surges as Wegovy pill demand crushes estimates",
                 "summary": "Shares of Novo Nordisk (NVO), the maker of the GLP-1 drug Wegovy, popped this morning after the company reported strong demand for its new weight-loss pill.Novo Nordisk President & CEO Mike Doustdar joined Julie Hyman on Opening Bid to discuss Q1 sales and the rest of the year guidance.",
                 "source": "Yahoo Finance Video",
@@ -42,13 +52,23 @@
                 "freemium": false
             },
             {
-                "title": "Earnings live updates: Supermicro stock soars as AI server demand lifts outlook, CVS and Disney gain",
-                "summary": "First quarter earnings season is in full swing, with a full slate of semiconductor and consumer companies slated to report results.",
-                "source": "Yahoo Finance",
+                "title": "Novo Nordisk Jumps On 'Strongest-Ever' Launch In Weight Loss",
+                "summary": "Novo Nordisk stock jumped early Wednesday on a strong first-quarter report on the back of its GLP-1 drugs Wegovy and Ozempic.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
-                "publishDate": "2026-05-04T10:00:00Z",
+                "url": "https://www.investors.com/news/technology/novo-nordisk-stock-novo-nordisk-earnings-q1-2026/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-06T20:05:17Z",
                 "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sector Update: Health Care Stocks Advance Late Afternoon",
+                "summary": "Health care stocks were higher late Wednesday afternoon, with the NYSE Health Care Index increasing",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-advance-195230873.html",
+                "publishDate": "2026-05-06T19:52:30Z",
+                "premium": true,
                 "freemium": false
             },
             {
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-06T15:52:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Private Payrolls Increased More Than Expected",
-                "summary": "Private Payrolls Increased More Than Expected",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/private-payrolls-increased-more-expected-150700749.html",
-                "publishDate": "2026-05-06T15:07:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Market Chatter: Novo Nordisk Expects Delay for Generic Ozempic in China",
-                "summary": "Novo Nordisk (NVO) expects generic versions of its Ozempic medication to face approval delays in Chi",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/market-chatter-novo-nordisk-expects-145757232.html",
-                "publishDate": "2026-05-06T14:57:57Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.5555,
+        "price": 1.51,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.397219,
-            "marketCap": 145951296,
+            "change": 5.2264843,
+            "marketCap": 141682064,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.66,
+        "price": 28.82,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2005656,
-            "marketCap": 20511993856,
+            "change": 1.7655367,
+            "marketCap": 20626505728,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.335,
+        "price": 32.62,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 14.4525,
-            "marketCap": 6621642752,
+            "change": 15.469022,
+            "marketCap": 6680005632,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
