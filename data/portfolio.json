@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.3451,
+        "price": 46.035,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2875006,
-            "marketCap": 205503545344,
+            "change": 2.5963917,
+            "marketCap": 204128485376,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.74957
+            "yearTarget": 46.773182
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -102,6 +102,16 @@
                 "freemium": false
             },
             {
+                "title": "Novo Nordisk Could Win the Oral GLP-1 Race Against Lilly. Why It Just Raised Guidance.",
+                "summary": "Novo Nordisk stock rose as it raised its guidance on the back of the strong performance of its weight-loss pill.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/novo-nordisk-earnings-stock-price-14b096d2?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-06T14:19:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Sales of Novo Nordisk's New Weight-Loss Pill Are Off To a Strong Start. The Stock Is Rising",
                 "summary": "Novo Nordisk shares climbed Wednesday after the Danish drugmaker beat estimates with its latest quarterly results.",
                 "source": "Investopedia",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-raises-outlook-glp-131500222.html",
                 "publishDate": "2026-05-06T13:15:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo\u2019s Weight-Loss Pill Heaps Pressure on Eli Lilly. Stock Jumps After Earnings.",
-                "summary": "Novo Nordisk stock rose as it raised its guidance on the back of the strong performance of its weight-loss pill.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/novo-nordisk-earnings-stock-price-14b096d2?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-06T12:36:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.59,
+        "price": 28.57,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.95339143,
-            "marketCap": 20461895680,
+            "change": 0.8827684,
+            "marketCap": 20447580160,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.835,
+        "price": 32.58,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 16.230085,
-            "marketCap": 6724034048,
+            "change": 15.32744,
+            "marketCap": 6671815168,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "TSX climbs over 1% up as miners gain on US-Iran peace deal hopes",
+                "summary": "By Tharuniyaa Lakshmi May 6 (Reuters) - Canada's main stock index edged higher on Wednesday, lifted by mining shares, as investor optimism rose over reports of the United States and Iran nearing an",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://ca.finance.yahoo.com/news/tsx-climbs-over-1-miners-151050743.html",
+                "publishDate": "2026-05-06T15:10:50Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Silver Standard Resources Q1 Earnings Call Highlights",
                 "summary": "SSR Mining executives highlighted a \u201cstrong and productive start to the year\u201d during the company\u2019s first-quarter 2026 earnings call, emphasizing strong free cash flow generation, a debt-free balance sheet, and progress toward a major portfolio shift following the announced sale of the \u00c7\u00f6pler mine in",
@@ -686,16 +696,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-copler-sale-leaves-120423586.html",
                 "publishDate": "2026-04-26T12:04:23Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Scotiabank Raises its Price Target on SSR Mining (SSRM) to C$55 from C$50",
-                "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the 10 Best Gold Stocks to Buy for the Long Term. On April 21, 2026, Scotiabank analyst Ovais Habib raised the price target on SSR Mining Inc. (NASDAQ:SSRM) to C$55 from C$50 previously and maintained an Outperform rating on the shares. On March 25, 2026, SSR Mining announced [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-raises-price-target-ssr-183207895.html",
-                "publishDate": "2026-04-24T18:32:07Z",
                 "premium": false,
                 "freemium": false
             }
