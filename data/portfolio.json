@@ -20,7 +20,7 @@
             "marketCap": 198962642944,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.525547
+            "yearTarget": 46.614403
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Altara secures $7M to bridge the data gap that\u2019s slowing down physical sciences",
+                "summary": "Altara\u2019s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/altara-secures-7m-bridge-data-225741181.html",
+                "publishDate": "2026-05-05T22:57:41Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk Says Humanity Cannot Be Multiplanetary Without Reusable Rockets, Draws Parallel To US Colonization",
                 "summary": "SpaceX CEO Elon Musk on Sunday said that the importance of reusable rockets was crucial for humans to become a multiplanetary civilization amid the billionaire\u2019s Mars colonization goals. Cannot Become Multiplanetary Without Reusable Rockets Responding to a post by Tesla Owners Silicon Valley, which shared that SpaceX had reduced costs per kg to orbit by 500x from approximately \u201c$54,500 (Shuttle era) to ~$1,500.\u201d Everyone obsesses over Starship's height and thrust.The number that actually matters",
                 "source": "Benzinga",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-05T05:03:06Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk Settles X Lawsuit for a Cup of (Cheap) Coffee. What It Means for SpaceX\u2019s IPO.",
-                "summary": "The billionaire is on the hook for $1.5 million for failing to disclose his 5% stake in Twitter in a timely fashion.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/elon-musk-settles-sec-lawsuit-twitter-x-c98917bb?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-04T22:10:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.14104696,
+            "change": -0.141047,
             "marketCap": 20268654592,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.31757286,
+            "change": -0.317573,
             "marketCap": 5785106432,
             "weekLow": 10.19,
             "weekHigh": 36.52,
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "SSR Mining (SSRM) Q1 2026 Earnings Transcript",
+                "summary": "The divestment of Copler provides a strategic repositioning for SSR Mining Inc. as a focused Americas-based gold and silver producer with a clear emphasis on free cash flow generation.  Financially, the business generated more than $210 million in free cash flow in the first quarter of the year.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/earnings/call-transcripts/2026/05/05/ssr-mining-ssrm-q1-2026-earnings-transcript/",
+                "publishDate": "2026-05-05T22:54:11Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Is SSR Mining (TSX:SSRM) Pricing Reflect Recent Surge And DCF-Based Value Estimate",
                 "summary": "If you are wondering whether SSR Mining's current share price reflects its underlying value, this breakdown will walk through what the numbers are actually saying about the stock. The share price recently closed at $39.66, with returns of 34.1% year to date and 186.8% over the last year, despite 7 day and 30 day returns of 5.0% and 9.4% declines respectively. Recent news around SSR Mining has focused on how investors are reassessing the company after these sharp moves, paying close attention...",
@@ -687,16 +697,6 @@
                 "url": "https://finance.yahoo.com/markets/commodities/articles/rbc-says-q1-seasonally-weak-145856337.html",
                 "publishDate": "2026-04-15T14:58:56Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining (SSRM) to Enhance Liquidity Through Strategic Sale",
-                "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the 8 best mid-cap growth stocks to invest in. On March 25, SSR Mining Inc. (NASDAQ:SSRM) signed a definitive stock purchase agreement with Cengiz Holding A.S., selling its 80% interest in the Copler mine, along with its associated assets in Turkiye, for $1.5 billion in cash. This deal [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-enhance-liquidity-144323049.html",
-                "publishDate": "2026-04-09T14:43:23Z",
-                "premium": false,
                 "freemium": false
             }
         ],
