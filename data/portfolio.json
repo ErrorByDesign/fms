@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9835066,
+            "change": 1.98351,
             "marketCap": 202909073408,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.750156
+            "yearTarget": 46.734283
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Elon Musk's SpaceX Will Help Power Anthropic's Claude in Surprise AI Deal",
+                "summary": "Elon Musk\u2019s combined company of SpaceX and xAI will help boost Anthropic with a deal to provide compute for Claude AI models.",
+                "source": "decrypt",
+                "category": "finance",
+                "url": "https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal",
+                "publishDate": "2026-05-06T20:23:19Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Forget the SpaceX IPO. Thursday Is Space Earnings Day for Space Stocks BlackSky, Redwire, and Rocket Lab",
                 "summary": "Don't want to wait for the SpaceX IPO to invest in space? Good news: You don't have to!",
                 "source": "Motley Fool",
@@ -398,16 +408,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-signs-deal-spacex-ai-165342823.html",
                 "publishDate": "2026-05-06T16:53:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla-SpaceX File $55 Billion Estimate For Their Joint Semiconductor Factory",
-                "summary": "Elon Musk's Tesla and SpaceX estimated their Terafab AI chip factory will cost $55 billion, but said it could be much higher.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/tesla-spacex-elon-musk-terafab-ai-chip-factory-55-billion/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-06T16:37:34Z",
                 "premium": false,
                 "freemium": false
             }
