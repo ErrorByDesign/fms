@@ -20,7 +20,7 @@
             "marketCap": 198962642944,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.614403
+            "yearTarget": 46.628513
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -600,6 +600,16 @@
         },
         "NEWS": [
             {
+                "title": "Silver Standard Resources Q1 Earnings Call Highlights",
+                "summary": "SSR Mining executives highlighted a \u201cstrong and productive start to the year\u201d during the company\u2019s first-quarter 2026 earnings call, emphasizing strong free cash flow generation, a debt-free balance sheet, and progress toward a major portfolio shift following the announced sale of the \u00c7\u00f6pler mine in",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/silver-standard-resources-q1-earnings-call-highlights-2026-05-05/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-06T03:09:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SSR Mining (SSRM) Q1 2026 Earnings Transcript",
                 "summary": "The divestment of Copler provides a strategic repositioning for SSR Mining Inc. as a focused Americas-based gold and silver producer with a clear emphasis on free cash flow generation.  Financially, the business generated more than $210 million in free cash flow in the first quarter of the year.",
                 "source": "Motley Fool",
@@ -687,16 +697,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-vs-ssr-144200121.html",
                 "publishDate": "2026-04-21T14:42:00Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "RBC Says Q1 Seasonally Weak for Gold Equities",
-                "summary": "RBC Capital Markets said Wednesday that the first quarter represents a seasonally weak period for op",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/commodities/articles/rbc-says-q1-seasonally-weak-145856337.html",
-                "publishDate": "2026-04-15T14:58:56Z",
-                "premium": true,
                 "freemium": false
             }
         ],
