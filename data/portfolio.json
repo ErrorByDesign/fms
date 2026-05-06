@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.87,
+        "price": 46.3451,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.08132,
-            "marketCap": 198962642944,
+            "change": 3.2875006,
+            "marketCap": 205503545344,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.628513
+            "yearTarget": 46.74957
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,7 +32,17 @@
         },
         "NEWS": [
             {
-                "title": "Earnings live updates: Supermicro stock soars as AI server demand lifts outlook, Shopify tumbles",
+                "title": "Novo Nordisk surges as Wegovy pill demand crushes estimates",
+                "summary": "Shares of Novo Nordisk (NVO), the maker of the GLP-1 drug Wegovy, popped this morning after the company reported strong demand for its new weight-loss pill.Novo Nordisk President & CEO Mike Doustdar joined Julie Hyman on Opening Bid to discuss Q1 sales and the rest of the year guidance.",
+                "source": "Yahoo Finance Video",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/novo-nordisk-surges-as-wegovy-pill-demand-crushes-estimates-150609771.html",
+                "publishDate": "2026-05-06T15:06:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Earnings live updates: Supermicro stock soars as AI server demand lifts outlook, CVS and Disney gain",
                 "summary": "First quarter earnings season is in full swing, with a full slate of semiconductor and consumer companies slated to report results.",
                 "source": "Yahoo Finance",
                 "category": "finance",
@@ -42,100 +52,90 @@
                 "freemium": false
             },
             {
-                "title": "Viatris Gears Up to Report Q1 Earnings: What's in the Cards?",
-                "summary": "VTRS gears up to report Q1 results as import alerts, regional pressures and growth in key brands shape expectations ahead of May 7 release.",
-                "source": "Zacks",
+                "title": "Market Chatter: Novo Nordisk Expects Delay for Generic Ozempic in China",
+                "summary": "Novo Nordisk (NVO) expects generic versions of its Ozempic medication to face approval delays in Chi",
+                "source": "MT Newswires",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/viatris-gears-report-q1-earnings-171600478.html",
-                "publishDate": "2026-05-05T17:16:00Z",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/market-chatter-novo-nordisk-expects-145757232.html",
+                "publishDate": "2026-05-06T14:57:57Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Swallows the Competition with Wegovy Pill Surge",
+                "summary": "The Danish drugmaker is riding a wave of peptide craziness as its weight loss tablet crushes its U.S. debut.",
+                "source": "Moby",
+                "category": "finance",
+                "url": "https://app.moby.co/home/news/news-novo-nordisk-swallows-the-competition-with-wegovy-pill-surge?utm_source=yahoo_finance&utm_medium=rss",
+                "publishDate": "2026-05-06T14:54:06Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Lilly's Oral GLP-1 Pill Foundayo Starts Strong in Oral Obesity Market",
-                "summary": "Lilly's Foundayo is off to a strong start, drawing new prescribers and patients as broad pharmacy access and payer coverage fuel early oral obesity momentum.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lillys-oral-glp-1-pill-171000441.html",
-                "publishDate": "2026-05-05T17:10:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Barclays Hikes Eli Lilly Price Target to $1,400: Tirzepatide Momentum Steals the Show",
-                "summary": "Eli Lilly (NYSE:LLY) received another bullish call from Wall Street. Barclays analyst Emily Field raised her price target on Eli Lilly stock to $1,400 from $1,350 and reiterated an Overweight rating, citing tirzepatide momentum that \u201ctakes focus back to the big picture.\u201d The firm also lifted its estimates following the company\u2019s Q1 2026 report. For ... Barclays Hikes Eli Lilly Price Target to $1,400: Tirzepatide Momentum Steals the Show",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/05/barclays-hikes-eli-lilly-price-target-to-1400-tirzepatide-momentum-steals-the-show/",
-                "publishDate": "2026-05-05T14:44:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Faces Price War as Weight-Loss Pill Demand Rises",
-                "summary": "Competition from Eli Lilly puts pressure on margins despite strong early uptake",
+                "title": "Novo Nordisk posts mixed quarter despite strong demand",
+                "summary": "Strong demand but earnings fall short",
                 "source": "GuruFocus.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-faces-price-war-114948466.html",
-                "publishDate": "2026-05-05T11:49:48Z",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-posts-mixed-quarter-145350698.html",
+                "publishDate": "2026-05-06T14:53:50Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Novo Nordisk\u2019s Weight-Loss Pill Momentum Faces Pricing Pressure",
-                "summary": "Novo Nordisk A/S (NYSE:NVO) is experiencing strong early uptake for its new weight-loss pill, but intensifying competition with U. S.",
-                "source": "InvestorsHub",
+                "title": "Novo Nordisk Jumps On 'Strongest-Ever' Launch In Weight Loss",
+                "summary": "Novo Nordisk stock jumped early Wednesday on a strong first-quarter report on the back of its GLP-1 drugs Wegovy and Ozempic.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/27695/novo-nordisks-weight-loss-pill-momentum-faces-pricing-pressure",
-                "publishDate": "2026-05-05T10:27:23Z",
+                "url": "https://www.investors.com/news/technology/novo-nordisk-stock-novo-nordisk-earnings-q1-2026/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-06T14:53:07Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Novo Nordisk Obesity Pill Momentum Meets Valuation Gap And Risk Flags",
-                "summary": "Novo Nordisk's oral semaglutide for obesity is gaining traction as demand picks up for the new pill version of Ozempic. The FDA has proposed restricting compounding of GLP-1 drugs such as semaglutide, which could support branded products. Rival Eli Lilly is facing delays to its own obesity pill, giving Novo Nordisk more room to build its lead in oral GLP-1 therapies. Novo Nordisk is responding with new leadership, pricing changes, and cost reductions to sharpen its obesity drug focus. Novo...",
-                "source": "Simply Wall St.",
+                "title": "Novo Nordisk beats estimates, raises guidance on Wegovy pill surge",
+                "summary": "Novo Nordisk (NYSE:NVO) reported first-quarter results that far exceeded analyst estimates on Wednesday, driven by surging demand for its oral weight-loss pill and strong international sales. Net sales reached $15.2 billion in the quarter, well above the $11.2 billion analysts had...",
+                "source": "Proactive",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-obesity-pill-momentum-001940843.html",
-                "publishDate": "2026-05-05T00:19:40Z",
+                "url": "https://www.proactiveinvestors.com/companies/news/1091820/novo-nordisk-beats-estimates-raises-guidance-on-wegovy-pill-surge-1091820.html",
+                "publishDate": "2026-05-06T14:52:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "3 Absurdly Cheap Growth Stocks to Buy in May 2026",
-                "summary": "These stocks have been struggling over the past year, but their growth days are far from over.",
-                "source": "Motley Fool",
+                "title": "Sales of Novo Nordisk's New Weight-Loss Pill Are Off To a Strong Start. The Stock Is Rising",
+                "summary": "Novo Nordisk shares climbed Wednesday after the Danish drugmaker beat estimates with its latest quarterly results.",
+                "source": "Investopedia",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/04/3-absurdly-cheap-growth-stocks-to-buy-in-may-2026/",
-                "publishDate": "2026-05-04T21:42:08Z",
+                "url": "https://www.investopedia.com/sales-of-novo-nordisk-new-weight-loss-pill-are-off-to-a-strong-start-the-stock-is-rising-11967825",
+                "publishDate": "2026-05-06T14:04:53Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "FDA Reports Liver Failure in Patient Taking Eli Lilly\u2019s Foundayo",
-                "summary": "The Food and Drug Administration has recorded two \u2018serious\u2019 cases in patients taking Eli Lilly\u2019s weight-loss pill.",
+                "title": "Novo Nordisk Raises Outlook as GLP-1 Demand Stays Strong",
+                "summary": "Strong Wegovy demand lifted revenue as earnings missed estimates",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-raises-outlook-glp-131500222.html",
+                "publishDate": "2026-05-06T13:15:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo\u2019s Weight-Loss Pill Heaps Pressure on Eli Lilly. Stock Jumps After Earnings.",
+                "summary": "Novo Nordisk stock rose as it raised its guidance on the back of the strong performance of its weight-loss pill.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/lilly-foundayo-liver-failure-fda-e1ac5d1c?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-04T20:03:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Before Q1 Earnings: How Should Investors Play the Stock?",
-                "summary": "NVO heads into Q1 with strong GLP-1 drug demand and new Wegovy pill rollout, but pricing pressure, weak guidance and Eli Lilly rivalry weigh on outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-q1-earnings-investors-160600225.html",
-                "publishDate": "2026-05-04T16:06:00Z",
+                "url": "https://www.barrons.com/articles/novo-nordisk-earnings-stock-price-14b096d2?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-06T12:36:00Z",
                 "premium": false,
                 "freemium": false
             }
         ],
         "RATINGS": {
             "analystCount": 12,
-            "recommendationKey": 6,
-            "recommendationMean": 2.35714,
+            "recommendationKey": "none",
+            "recommendationMean": "recommendationMean",
             "strongBuy": 1,
             "buy": 6,
             "hold": 5,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.4,
+        "price": 1.49,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7777834,
-            "marketCap": 131360856,
+            "change": 3.8327575,
+            "marketCap": 139805488,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,102 +312,102 @@
         },
         "NEWS": [
             {
-                "title": "Elon Musk says saving for retirement 'won't matter.' I'm not banking on it.",
-                "summary": "Saving for retirement in 10 or 20 years will be irrelevant,  Elon Musk recently said. Financial advisers aren't buying that advice.",
+                "title": "Elon Musk's SpaceX files initial $55 billion spend for Terafab chip factory in Texas",
+                "summary": "Elon Musk's SpaceX rocket company filed paperwork to build its upcoming Terafab chip fabrication plant, with an initial spend of $55 billion.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/economy/article/elon-musk-says-saving-for-retirement-wont-matter-im-not-banking-on-it-100000427.html",
-                "publishDate": "2026-05-05T10:00:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/elon-musks-spacex-files-initial-55-billion-spend-for-terafab-chip-factory-in-texas-120356588.html",
+                "publishDate": "2026-05-06T12:03:56Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Altara secures $7M to bridge the data gap that\u2019s slowing down physical sciences",
-                "summary": "Altara\u2019s AI aims to diagnose failures and help speed up R&D by unifying data siloed across spreadsheets and legacy systems.",
-                "source": "TechCrunch",
+                "title": "SpaceX isn't public yet, but Wall Street is already building ETFs for it",
+                "summary": "SpaceX's private market price has surged nearly 700% since 2023, giving it an estimated valuation near $1.5 trillion \u2014 enough to make the ETF world a reason to move before its IPO.",
+                "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/altara-secures-7m-bridge-data-225741181.html",
-                "publishDate": "2026-05-05T22:57:41Z",
+                "url": "https://finance.yahoo.com/markets/article/spacex-isnt-public-yet-but-wall-street-is-already-building-etfs-for-it-100000701.html",
+                "publishDate": "2026-05-06T10:00:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Elon Musk Says Humanity Cannot Be Multiplanetary Without Reusable Rockets, Draws Parallel To US Colonization",
-                "summary": "SpaceX CEO Elon Musk on Sunday said that the importance of reusable rockets was crucial for humans to become a multiplanetary civilization amid the billionaire\u2019s Mars colonization goals. Cannot Become Multiplanetary Without Reusable Rockets Responding to a post by Tesla Owners Silicon Valley, which shared that SpaceX had reduced costs per kg to orbit by 500x from approximately \u201c$54,500 (Shuttle era) to ~$1,500.\u201d Everyone obsesses over Starship's height and thrust.The number that actually matters",
+                "title": "Investor group urges SEC to scrutinize SpaceX IPO filing, avoid conflicts",
+                "summary": "NEW YORK, May 6 (Reuters) - An investor group which advises union pension funds urged Wall Street's leading watchdog on Wednesday to scrutinize SpaceX's \u200cdisclosures as the rocket maker embarks on a planned record-breaking public listing. It also \u200craised founder Elon Musk's tenure in the Trump administration as a potential conflict for regulators reviewing the company's \u200bdisclosures.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/investor-group-urges-sec-scrutinize-140230816.html",
+                "publishDate": "2026-05-06T14:02:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Calls France Raising Retirement Age From 62 'Difficult But Right'\u2014 Says It's Impossible For Workers To Support 'Massive Retirees'",
+                "summary": "Retirement debates usually come packed with politics. Tesla and SpaceX CEO Elon Musk cut through one with a few lines of plain math.m In 2023, as protests spread across France over a proposal to raise the retirement age, Musk responded...",
                 "source": "Benzinga",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-humanity-cannot-213103175.html",
-                "publishDate": "2026-05-05T21:31:03Z",
+                "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-calls-france-raising-134608859.html",
+                "publishDate": "2026-05-06T13:46:08Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Space IPOs Diverge On Results, Rocket Lab Earnings Soon. All Three Are Near Buy Points.",
-                "summary": "Space IPO plays Firefly Aerospace and Voyager Technologies reported late Monday. Rocket Lab reports Thursday.",
+                "title": "Musk, SpaceX to invest $55 billion for Terafab chip facility in Texas",
+                "summary": "Elon Musk's SpaceX plan a $55 billion investment to build a semiconductor manufacturing facility in Texas.",
+                "source": "USA TODAY",
+                "category": "finance",
+                "url": "https://www.usatoday.com/story/money/business/2026/05/06/spacex-tesla-files-55-billion-plans-to-build-terafab-chip-plant/89958999007/",
+                "publishDate": "2026-05-06T13:22:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Tesla-SpaceX Peg $55 Billion For Terafab AI Chip Factory. The Ultimate Cost Could Be Double.",
+                "summary": "Elon Musk's Tesla and SpaceX estimated their Terafab AI chip factory will cost $55 billion, but said it could be much higher.",
                 "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://www.investors.com/news/space-ipos-firefly-aerospace-fly-voyager-rocket-lab-earnings/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-05T20:29:27Z",
+                "url": "https://www.investors.com/news/tesla-spacex-elon-musk-terafab-ai-chip-factory-55-billion/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-06T13:02:51Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Blue Owl issues bold statement on SpaceX investment",
-                "summary": "Private credit has been under a microscope lately. Investors have been asking hard questions about exposure to software companies, rising redemptions in non-traded funds, and what happens when artificial intelligence disrupts entire industries. Blue Owl Capital has been squarely in the middle of ...",
-                "source": "TheStreet",
+                "title": "SpaceX files plans for $55 billion Terafab chip plant in Texas",
+                "summary": "The Terafab facility, a joint project with Tesla, could require up to $119 billion in total investment if all phases are completed",
+                "source": "Quartz",
                 "category": "finance",
-                "url": "https://www.thestreet.com/investing/stocks/blue-owl-issues-bold-statement-on-spacex-investment",
-                "publishDate": "2026-05-05T18:33:00Z",
+                "url": "https://qz.com/spacex-terafab-chip-plant-texas-050626",
+                "publishDate": "2026-05-06T12:23:51Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Mark Your Calendars -- the SpaceX IPO Should Occur by This Date",
-                "summary": "SpaceX may target a valuation of up to $2 trillion.",
-                "source": "Motley Fool",
+                "title": "SpaceX plans $55 billion semiconductor facility in Texas",
+                "summary": "Investing.com -- SpaceX is proposing to invest $55 billion to build a semiconductor production facility in Texas, according to a Bloomberg report that cites a public notice posted on the Grimes County website Wednesday.",
+                "source": "Investing.com",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/05/mark-your-calendar-the-spacex-ipo-should-occur-by/",
-                "publishDate": "2026-05-05T14:50:00Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-plans-55-billion-semiconductor-105429321.html",
+                "publishDate": "2026-05-06T10:54:29Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Space-Themed ETFs are Flooding Wall Street Before Elon Musk\u2019s SpaceX IPO",
-                "summary": "SpaceX IPO sparks ETF rush with 9 space funds filed or launched in three months as Wall Street races for retail flows.",
-                "source": "BeInCrypto",
+                "title": "SpaceX files plan for $55 billion Terafab chip facility in Texas",
+                "summary": "Elon Musk's SpaceX has proposed an initial investment of $55 billion to build a semiconductor manufacturing facility, called Terafab, in Texas, according to a \u200cfiling made public on Wednesday.  SpaceX is also targeting a June IPO that could value the company at around $1.75 trillion.  Musk has been tightening integration of AI efforts across his companies, with SpaceX acquiring his startup xAI earlier this year in a deal focused on building space-based data centers \u200cfor artificial intelligence processing.",
+                "source": "Reuters",
                 "category": "finance",
-                "url": "https://beincrypto.com/spacex-ipo-space-etfs-wall-street-rush/",
-                "publishDate": "2026-05-05T14:14:47Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-files-plan-55-billion-101725901.html",
+                "publishDate": "2026-05-06T10:17:25Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The Most Important SpaceX IPO Filing Is (Likely) About 2 Weeks Away",
-                "summary": "Though investors are waiting for Elon Musk's company to pinpoint its stock market debut, there's a far more encompassing filing right around the corner.",
-                "source": "Motley Fool",
+                "title": "Analysis-SpaceX IPO gives Musk sweeping power and curbs shareholder rights",
+                "summary": "SpaceX has adopted corporate governance policies that will erode typical shareholder protections in unprecedented ways, giving founder Elon Musk virtually unchecked executive authority when the rocket maker goes public later this year.  Excerpts of SpaceX's IPO registration statement reviewed by Reuters show the company is combining supervoting shares, mandatory arbitration, stricter rules on shareholder proposals and Texas corporate law to give Musk and other insiders broad control.",
+                "source": "Reuters",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/05/most-important-spacex-ipo-filing-is-2-weeks-away/",
-                "publishDate": "2026-05-05T11:26:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Want to Invest in SpaceX Before the IPO? These 3 Stocks Give You a Back Door In.",
-                "summary": "SpaceX will soon launch, but eager investors don't have to wait for the stock to blast off before they gain exposure.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/05/want-to-invest-in-spacex-before-the-ipo-these-3-st/",
-                "publishDate": "2026-05-05T08:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "STMicroelectronics Touts LEO Boom: Sees Space Revenue Near \u20ac1B in 2026, \u20ac3B+ Through 2028",
-                "summary": "STMicroelectronics (NYSE:STM) outlined its strategy and growth expectations tied to the rapidly expanding low Earth orbit (LEO) space economy during \u201cThe LEO Opportunity\u201d conference call, led by Remi El-Ouazzane, president of the company\u2019s Microcontrollers, Digital ICs and RF Products Group. El-Oua",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/stmicroelectronics-touts-leo-boom-sees-space-revenue-near-1b-in-2026-3b-through-2028-2026-05-05/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-05T05:03:06Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-spacex-ipo-gives-musk-100130777.html",
+                "publishDate": "2026-05-06T10:01:30Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.32,
+        "price": 28.59,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.141047,
-            "marketCap": 20268654592,
+            "change": 0.95339143,
+            "marketCap": 20461895680,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.25,
+        "price": 32.835,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.317573,
-            "marketCap": 5785106432,
+            "change": 16.230085,
+            "marketCap": 6724034048,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
@@ -606,6 +606,16 @@
                 "category": "finance",
                 "url": "https://www.marketbeat.com/instant-alerts/silver-standard-resources-q1-earnings-call-highlights-2026-05-05/?utm_source=yahoofinance&utm_medium=yahoofinance",
                 "publishDate": "2026-05-06T03:09:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SSR Mining Inc. Q1 2026 Earnings Call Summary",
+                "summary": "Moby summary of SSR Mining Inc.'s Q1 2026 earnings call",
+                "source": "Moby",
+                "category": "finance",
+                "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ssr-mining-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
+                "publishDate": "2026-05-06T00:20:46Z",
                 "premium": false,
                 "freemium": false
             },
@@ -686,16 +696,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/scotiabank-raises-price-target-ssr-183207895.html",
                 "publishDate": "2026-04-24T18:32:07Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Pan American Silver vs. SSR Mining: Which Mining Stock Wins Now?",
-                "summary": "PAAS vs. SSRM: With soaring silver and gold prices, which miner's production growth, acquisitions and cash flow strength make it the better bet now?",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/pan-american-silver-vs-ssr-144200121.html",
-                "publishDate": "2026-04-21T14:42:00Z",
                 "premium": false,
                 "freemium": false
             }
