@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.995,
+        "price": 46.12,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.5072432,
-            "marketCap": 203951128576,
+            "change": 2.7858257,
+            "marketCap": 204505399296,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.733112
+            "yearTarget": 46.741554
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -52,6 +52,16 @@
                 "freemium": false
             },
             {
+                "title": "Sector Update: Health Care Stocks Mixed Wednesday Afternoon",
+                "summary": "Health care stocks were mixed Wednesday afternoon, with the NYSE Health Care Index increasing 0.1% a",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-mixed-174543093.html",
+                "publishDate": "2026-05-06T17:45:43Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
                 "title": "Novo Nordisk Stock Rallies Thanks to Wegovy Pill",
                 "summary": "Shares in Wegovy maker Novo Nordisk surged this morning after it reported strong demand for its new weight-loss pill and upgraded its guidance.  The Danish drugmaker said total prescriptions for the Wegovy pill reached around 1.",
                 "source": "The Wall Street Journal",
@@ -68,6 +78,16 @@
                 "category": "finance",
                 "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b8615a07?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-06T16:31:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "LLY Stock Pops 16% After Beat-and-Raise Q1: Buy, Hold or Take Profits?",
+                "summary": "Lilly surges after a Q1 beat and higher guidance, as Mounjaro and Zepbound fueled 56% revenue growth.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/lly-stock-pops-16-beat-160500429.html",
+                "publishDate": "2026-05-06T16:05:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://app.moby.co/home/news/news-novo-nordisk-swallows-the-competition-with-wegovy-pill-surge?utm_source=yahoo_finance&utm_medium=rss",
                 "publishDate": "2026-05-06T14:54:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk posts mixed quarter despite strong demand",
-                "summary": "Strong demand but earnings fall short",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-posts-mixed-quarter-145350698.html",
-                "publishDate": "2026-05-06T14:53:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Jumps On 'Strongest-Ever' Launch In Weight Loss",
-                "summary": "Novo Nordisk stock jumped early Wednesday on a strong first-quarter report on the back of its GLP-1 drugs Wegovy and Ozempic.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/novo-nordisk-stock-novo-nordisk-earnings-q1-2026/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-06T14:53:07Z",
                 "premium": false,
                 "freemium": false
             }
@@ -312,22 +312,22 @@
         },
         "NEWS": [
             {
-                "title": "Elon Musk's SpaceX files initial $55 billion spend for Terafab chip factory in Texas",
-                "summary": "Elon Musk's SpaceX rocket company filed paperwork to build its upcoming Terafab chip fabrication plant, with an initial spend of $55 billion.",
+                "title": "Anthropic to rent all AI capacity at SpaceX's Colossus data center",
+                "summary": "Anthropic says it will rent all of the compute capacity from SpaceX's massive Colossus 1 data center.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/elon-musks-spacex-files-initial-55-billion-spend-for-terafab-chip-factory-in-texas-120356588.html",
-                "publishDate": "2026-05-06T12:03:56Z",
+                "url": "https://finance.yahoo.com/news/anthropic-to-rent-all-ai-capacity-at-spacexs-colossus-data-center-180327774.html",
+                "publishDate": "2026-05-06T18:03:27Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX isn't public yet, but Wall Street is already building ETFs for it",
-                "summary": "SpaceX's private market price has surged nearly 700% since 2023, giving it an estimated valuation near $1.5 trillion \u2014 enough to make the ETF world a reason to move before its IPO.",
-                "source": "Yahoo Finance",
+                "title": "Elon Musk to spend $120bn on world\u2019s biggest chip plant",
+                "summary": "Elon Musk\u2019s SpaceX is poised to spend $120bn (\u00a388bn) building what he claims will be the world\u2019s largest AI chip factory.",
+                "source": "The Telegraph",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-isnt-public-yet-but-wall-street-is-already-building-etfs-for-it-100000701.html",
-                "publishDate": "2026-05-06T10:00:00Z",
+                "url": "https://uk.finance.yahoo.com/news/elon-musk-spend-120bn-world-180012703.html",
+                "publishDate": "2026-05-06T18:00:12Z",
                 "premium": false,
                 "freemium": false
             },
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.7,
+        "price": 28.665,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3418117,
-            "marketCap": 20540622848,
+            "change": 1.2182246,
+            "marketCap": 20515573760,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.12,
+        "price": 32.275,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 13.699111,
-            "marketCap": 6577614336,
+            "change": 14.247793,
+            "marketCap": 6609356288,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
