@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.83,
+        "price": 45.765,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1395206,
-            "marketCap": 203219484672,
+            "change": 1.9946523,
+            "marketCap": 202931257344,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.75273
+            "yearTarget": 46.74964
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.49,
+        "price": 1.4878,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.8327575,
-            "marketCap": 139805488,
+            "change": 3.6794467,
+            "marketCap": 139599056,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,12 +312,22 @@
         },
         "NEWS": [
             {
-                "title": "The space ETFs prepping for liftoff ahead of SpaceX IPO",
-                "summary": "Space-related funds are seeing a surge of inflows as investors eagerly await the IPO of Elon Musk's SpaceX (SPAX.PVT). In the latest installment of Yahoo Finance's ETF Report, TMX VettaFi head of research Todd Rosenbluth to talk about the ETFs that could draw in the most investors \u2014 like the Procure Space ETF (UFO) \u2014 as interest in the broader space economy grows. Rosenbluth goes on to weigh in on prediction market ETFs that are set to launch.",
-                "source": "Yahoo Finance Video",
+                "title": "Elon Musk's SpaceX files initial $55 billion spend for Terafab chip factory in Texas",
+                "summary": "Elon Musk's SpaceX rocket company filed paperwork to build its upcoming Terafab chip fabrication plant, with an initial spend of $55 billion.",
+                "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/video/space-etfs-prepping-liftoff-ahead-161500971.html",
-                "publishDate": "2026-05-06T16:15:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/elon-musks-spacex-files-initial-55-billion-spend-for-terafab-chip-factory-in-texas-120356588.html",
+                "publishDate": "2026-05-06T12:03:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX isn't public yet, but Wall Street is already building ETFs for it",
+                "summary": "SpaceX's private market price has surged nearly 700% since 2023, giving it an estimated valuation near $1.5 trillion \u2014 enough to make the ETF world a reason to move before its IPO.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/spacex-isnt-public-yet-but-wall-street-is-already-building-etfs-for-it-100000701.html",
+                "publishDate": "2026-05-06T10:00:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-06T10:01:30Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Plot Twist: SpaceX, OpenAI, and Anthropic May Deliver a Fatal Blow to the Trump Bull Market Thanks to a New Rule",
-                "summary": "Investors are about to learn the hard way that popularity does not equate to profitability on Wall Street.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/06/spacex-openai-anthropic-end-trump-bull-market-rule/",
-                "publishDate": "2026-05-06T09:26:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.625,
+        "price": 28.635,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0769784,
-            "marketCap": 20486944768,
+            "change": 1.11229,
+            "marketCap": 20494102528,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.58,
+        "price": 32.33,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 15.32744,
-            "marketCap": 6671815168,
+            "change": 14.442484,
+            "marketCap": 6620619264,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
