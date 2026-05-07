@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.84,
+        "price": 45.8,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.17482919,
-            "marketCap": 203201888256,
+            "change": 0.08741459,
+            "marketCap": 203024564224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.22835
+            "yearTarget": 47.20921
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.39,
+        "price": 1.37,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -7.94702,
-            "marketCap": 130422568,
+            "change": -9.2715225,
+            "marketCap": 128545984,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,26 @@
         },
         "NEWS": [
             {
+                "title": "Elon Musk \u2019Dissolved\u2019 xAI. What It Means for the SpaceX IPO.",
+                "summary": "Elon Musk is dissolving his artificial-intelligence company, xAI.  Now, SpaceX is the entity that will vie for AI supremacy with OpenAI, Anthropic, and  Alphabet  The company is getting its ducks in a row ahead of an IPO that is expected to be the biggest ever, raising as much as $75 billion and valuing the company at up to $2 trillion.  Wednesday afternoon, Musk tweeted \u201cxAI will be dissolved as a separate company, so it will just be SpaceXAI, the AI products from SpaceX.\u201d",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/xai-dissolved-musk-spacex-ipo-1d035d36?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-07T19:59:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here\u2019s What the Street Thinks About \u200bT-Mobile (TMUS)",
+                "summary": "\u200bT-Mobile US, Inc. (NASDAQ:TMUS) is one of the Best Stocks to Buy Before the Next Bull Run . The Street has been bullish on T-Mobile since its FQ1 2026 earnings, released on April 28. The company posted $23.11 billion in revenue, reflecting 10.63% year-over-year growth and topped expectations by $91.74 million. Moreover, the GAAP EPS [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/street-thinks-t-mobile-tmus-193909390.html",
+                "publishDate": "2026-05-07T19:39:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tesla Discloses Over $500 Million In Musk-Linked Company Revenue",
                 "summary": "Tesla reported $430.1 million from xAI and $143.3 million from SpaceX in an amended annual filing.",
                 "source": "GuruFocus.com",
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-07T16:50:15Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk Is Dissolving xAI. What That Means.",
-                "summary": "Elon Musk is dissolving his artificial-intelligence company, xAI.  Now, SpaceX is the entity that will vie for AI supremacy with OpenAI, Anthropic, and  Alphabet  The company is getting its ducks in a row ahead of an IPO that is expected to be the biggest ever, raising as much as $75 billion and valuing the company at up to $2 trillion.  Wednesday afternoon, Musk tweeted \u201cxAI will be dissolved as a separate company, so it will just be SpaceXAI, the AI products from SpaceX.\u201d",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/elon-musk-spacex-ipo-dissolving-xai-1d035d36?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-07T16:48:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Could Be the Biggest in a Decade. Here's How to Get In Early.",
-                "summary": "There are a few ways to invest in this hot IPO before its public debut.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/07/the-spacex-ipo-could-be-the-biggest-in-a-decade-he/",
-                "publishDate": "2026-05-07T16:44:27Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.185,
+        "price": 28.28,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.203332,
-            "marketCap": 20172036096,
+            "change": -1.8736955,
+            "marketCap": 20240027648,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.765,
+        "price": 32.71,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.44451398,
-            "marketCap": 6798445056,
+            "change": 0.27590483,
+            "marketCap": 6787032576,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
