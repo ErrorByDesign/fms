@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.98,
+        "price": 45.99,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.48077193,
-            "marketCap": 203822481408,
+            "change": 0.50262976,
+            "marketCap": 203866816512,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.23756
+            "yearTarget": 47.25665
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,6 +312,26 @@
         },
         "NEWS": [
             {
+                "title": "Tesla Discloses Over $500 Million In Musk-Linked Company Revenue",
+                "summary": "Tesla reported $430.1 million from xAI and $143.3 million from SpaceX in an amended annual filing.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-discloses-over-500-million-191141965.html",
+                "publishDate": "2026-05-07T19:11:41Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic Tokenized Trades Hit $1.6 Trillion Implied Valuation",
+                "summary": "Crypto venues tied to private AI companies see trading activity surge more than threefold as investors chase exposure to Anthropic, OpenAI and SpaceX.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/crypto/articles/anthropic-tokenized-trades-hit-1-185734967.html",
+                "publishDate": "2026-05-07T18:57:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Musk's Tesla-SpaceX Chip Plan Could Reach $119 Billion",
                 "summary": "SpaceX estimates the Terafab project may cost at least $55 billion, with Grimes County among several possible locations.",
                 "source": "GuruFocus.com",
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-07T16:44:27Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "HawkEye IPO: Stock Jumps 30% in Trading Debut. The Space Race Is Heating Up.",
-                "summary": "Space is ice cold\u2014but on Wall Street, space stocks are red-hot.  Now, investors have another option to play the trend ahead of SpaceX\u2019s debut, the ultimate space IPO.  HawkEye 360  priced its IPO at $26 on Wednesday, raising about $416 million and valuing the company at about roughly $2.5 billion.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/hawkeye-360-ipo-stock-price-ticker-dcc02e5a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-07T16:44:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Tees Up Massive Spending Ahead of IPO",
-                "summary": "A chip-manufacturing complex, AI satellites, and space facilities add to a pricey project list at Elon Musk\u2019s company.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/tech/spacex-tees-up-massive-spending-ahead-of-ipo-bd8cfffd?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-07T15:06:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.1,
+        "price": 28.22,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4982626,
-            "marketCap": 20111202304,
+            "change": -2.0815277,
+            "marketCap": 20197085184,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.03,
+        "price": 32.87,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2568972,
-            "marketCap": 6853429760,
+            "change": 0.766401,
+            "marketCap": 6820231168,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
