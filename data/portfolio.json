@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.16,
+        "price": 46.07,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8740337,
-            "marketCap": 204620398592,
+            "change": 0.6774506,
+            "marketCap": 204221448192,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.292274
+            "yearTarget": 47.23229
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Anthropic expands compute capacity with SpaceX partnership",
+                "summary": "Anthropic announced that it has reached an agreement with SpaceX to access computing resources from the company\u2019s Colossus 1 artificial intelligence facility in Memphis, Tennessee. The deal gives Anthropic access to the facility\u2019s full capacity, which SpaceX said includes more than 220,000...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1091922/anthropic-expands-compute-capacity-with-spacex-partnership-1091922.html",
+                "publishDate": "2026-05-07T17:23:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Intel, Lam, KLA: Will Musk\u2019s $120B Terafab Boost These Stocks?",
                 "summary": "Earlier this week, Elon Musk officially announced the Terafab Initiative, a Texas-based chip fabrication facility intended to produce processors for Tesla (TSLA), SpaceX, and xAI.",
                 "source": "Trefis",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-07T14:22:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Here's Why the SpaceX IPO Makes Rivian Stock a Buy",
-                "summary": "SpaceX having more capital is an indirect benefit for Rivian.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/07/heres-why-the-spacex-ipo-makes-rivian-stock-a-buy/",
-                "publishDate": "2026-05-07T13:25:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.96,
+        "price": 28.05,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.984041,
-            "marketCap": 20011001856,
+            "change": -2.6717575,
+            "marketCap": 20075415552,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.09,
+        "price": 32.9,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4408376,
-            "marketCap": 6865879552,
+            "change": 0.8583771,
+            "marketCap": 6826456576,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
