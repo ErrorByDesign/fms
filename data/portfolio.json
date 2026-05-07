@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": 1.98351,
-            "marketCap": 202909073408,
+            "marketCap": 202847256576,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.748028
+            "yearTarget": 46.777668
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -48,6 +48,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/novo-nordisk-surges-as-wegovy-pill-demand-crushes-estimates-150609771.html",
                 "publishDate": "2026-05-06T15:06:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Health Care Roundup: Market Talk",
+                "summary": "Find insight on Novo Nordisk, GSK, Smith & Nephew and more in the latest Market Talks covering Health Care.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b8615a07?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-06T21:48:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -102,16 +112,6 @@
                 "freemium": false
             },
             {
-                "title": "Health Care Roundup: Market Talk",
-                "summary": "Find insight on GSK, Novo Nordisk, Smith & Nephew and more in the latest Market Talks covering Health Care.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b8615a07?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-06T16:31:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "LLY Stock Pops 16% After Beat-and-Raise Q1: Buy, Hold or Take Profits?",
                 "summary": "Lilly surges after a Q1 beat and higher guidance, as Mounjaro and Zepbound fueled 56% revenue growth.",
                 "source": "Zacks",
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.2264843,
+            "change": 5.22648,
             "marketCap": 141682064,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,6 +322,46 @@
                 "freemium": false
             },
             {
+                "title": "Space analytics firm HawkEye raises $416 million in US IPO",
+                "summary": "Space analytics firm HawkEye 360 has raised $416 million in its U.S. initial public offering, \u200cthe company said on Wednesday. The Herndon, Virginia-based firm \u200csold 16 million shares priced at $26 apiece in the IPO, giving it \u200ba valuation of roughly $2.42 billion. It had targeted a price range of $24 to $26 per share.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/space-analytics-firm-hawkeye-raises-004703815.html",
+                "publishDate": "2026-05-07T00:47:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Beyond SpaceX \u2014 Firefly Is the Space Stock You Can Actually Buy Today",
+                "summary": "Elon Musk\u2019s SpaceX is going to make history this year as it looks to touch down with a blistering-hot IPO that might match the heat of its rocket fuel. Of course, the price of admission into what could be a $2 trillion titan could have the potential to be off the charts. And for that ... Beyond SpaceX \u2014 Firefly Is the Space Stock You Can Actually Buy Today",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/06/beyond-spacex-firefly-is-the-space-stock-you-can-actually-buy-today/",
+                "publishDate": "2026-05-07T00:41:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "2 Top AI Stocks To Put On Your Shortlist",
+                "summary": "The AI rally that\u2019s driven the S&P 500 and Nasdaq to all-time highs has felt like it was hitting a crescedo for three years straight. But as hyperscalers push their own capital expenditure commitments higher and higher (Meta just raised their 2026 capex estimates to $145), and new entrants like Elon Musks\u2019s SpaceX are expected to ... 2 Top AI Stocks To Put On Your Shortlist",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/06/2-top-ai-stocks-to-put-on-your-shortlist/",
+                "publishDate": "2026-05-07T00:16:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk's SpaceX strikes data center deal with Anthropic",
+                "summary": "AI startup Anthropic announced Wednesday it has agreed to a major computing partnership with Elon Musk's SpaceX, securing access to a vast data center as the Claude maker scrambles to keep pace with surging demand for its AI services.The SpaceX pact is the latest in a string of major compute agreements Anthropic has announced in recent months as the company looks to secure the computing power needed to meet its growing needs.\u00a0",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/musks-spacex-strikes-data-center-220839950.html",
+                "publishDate": "2026-05-06T22:08:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Craft Launches Tailwind Exchange Fund with a Private Aviation Twist",
                 "summary": "The platform pairs concentrated stock positions with private aviation, targeting a 6% yield or flight hours with a $100,000 minimum investment.",
                 "source": "Wealth Management",
@@ -370,46 +410,6 @@
                 "publishDate": "2026-05-06T18:27:50Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "OKX to Launch OpenAI, SpaceX and Anthropic Perpetual Futures in Pre-IPO Trading Push",
-                "summary": "Crypto exchange OKX will offer synthetic exposure to private AI and tech company valuations through derivatives contracts.",
-                "source": "decrypt",
-                "category": "finance",
-                "url": "https://decrypt.co/367022/okx-openai-spacex-anthropic-perpetual-futures-pre-ipo",
-                "publishDate": "2026-05-06T18:25:49Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk to spend $120bn on world\u2019s biggest chip plant",
-                "summary": "Elon Musk\u2019s SpaceX is poised to spend $120bn (\u00a388bn) building what he claims will be the world\u2019s largest AI chip factory.",
-                "source": "The Telegraph",
-                "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/elon-musk-spend-120bn-world-180012703.html",
-                "publishDate": "2026-05-06T18:00:12Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The \u2018PayPal Mafia\u2019 built a $1.5 billion fintech pioneer. The company they left behind is on life support",
-                "summary": "Fortune coined the term \"PayPal Mafia\" in 2007. Two decades later, the mafia is thriving, but PayPal isn't.",
-                "source": "Fortune",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/paypal-mafia-built-1-5-175102356.html",
-                "publishDate": "2026-05-06T17:51:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX may spend up to $119B on \u2018Terafab\u2019 chip factory in Texas",
-                "summary": "The project would be a \"multi-phase, next-generation, vertically integrated semiconductor manufacturing and advanced computing fabrication facility,\" according to the proposal.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-may-spend-119-billion-172308114.html",
-                "publishDate": "2026-05-06T17:23:08Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7655367,
+            "change": 1.76554,
             "marketCap": 20626505728,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 15.469022,
-            "marketCap": 6680005632,
+            "change": 15.469,
+            "marketCap": 6768358400,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.4
