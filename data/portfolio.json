@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.08741459,
+            "change": 0.0874146,
             "marketCap": 203024564224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.20921
+            "yearTarget": 47.171192
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Rocket Lab Stock Surges On Revenue Beat, Record Launch Contract",
+                "summary": "Launch services provider Rocket Lab released earnings late Thursday. RKLB stock has formed a base and trades near an entry.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/rocket-lab-earnings-q1-2026-rklb-stock-space-launches-base-buy-point/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-07T20:20:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk \u2019Dissolved\u2019 xAI. What It Means for the SpaceX IPO.",
                 "summary": "Elon Musk is dissolving his artificial-intelligence company, xAI.  Now, SpaceX is the entity that will vie for AI supremacy with OpenAI, Anthropic, and  Alphabet  The company is getting its ducks in a row ahead of an IPO that is expected to be the biggest ever, raising as much as $75 billion and valuing the company at up to $2 trillion.  Wednesday afternoon, Musk tweeted \u201cxAI will be dissolved as a separate company, so it will just be SpaceXAI, the AI products from SpaceX.\u201d",
                 "source": "Barrons.com",
@@ -398,16 +408,6 @@
                 "category": "finance",
                 "url": "https://www.proactiveinvestors.com/companies/news/1091922/anthropic-expands-compute-capacity-with-spacex-partnership-1091922.html",
                 "publishDate": "2026-05-07T17:23:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Intel, Lam, KLA: Will Musk\u2019s $120B Terafab Boost These Stocks?",
-                "summary": "Earlier this week, Elon Musk officially announced the Terafab Initiative, a Texas-based chip fabrication facility intended to produce processors for Tesla (TSLA), SpaceX, and xAI.",
-                "source": "Trefis",
-                "category": "finance",
-                "url": "https://www.trefis.com/articles/598668/intel-lam-kla-will-musks-120b-terafab-boost-these-stocks/2026-05-07",
-                "publishDate": "2026-05-07T16:50:15Z",
                 "premium": false,
                 "freemium": false
             }
