@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.1601,
+        "price": 46.12,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.87434596,
-            "marketCap": 204620840960,
+            "change": 0.7867147,
+            "marketCap": 204443074560,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.288628
+            "yearTarget": 47.299644
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Health Care Roundup: Market Talk",
+                "summary": "Find insight on Amazon Pharmacy, Sanofi, Sunway Health and more in the latest Market Talks covering the health care sector.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/health-care-roundup-market-talk-092163f9?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-07T16:28:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -92,12 +102,12 @@
                 "freemium": false
             },
             {
-                "title": "Health Care Roundup: Market Talk",
-                "summary": "Find insight on Novo Nordisk, GSK, Smith & Nephew and more in the latest Market Talks covering Health Care.",
-                "source": "The Wall Street Journal",
+                "title": "Scoring 2 Million Prescriptions, Novo\u2019s GLP-1 Pill Crushes Expectations",
+                "summary": "The pill era has ushered in a Wild-West-style land-grab for GLP-1 market share but the horizon seems to keep expanding.",
+                "source": "The Daily Upside",
                 "category": "finance",
-                "url": "https://www.wsj.com/business/health-care-roundup-market-talk-b8615a07?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-06T21:48:00Z",
+                "url": "https://www.thedailyupside.com/industries/healthcare/novos-glp-1-pill-crushes-expectations/",
+                "publishDate": "2026-05-07T04:01:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-06T19:52:30Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Could Win the Oral GLP-1 Race Against Lilly. Why It Just Raised Guidance.",
-                "summary": "Novo Nordisk stock rose as it raised its guidance on the back of the strong performance of its weight-loss pill.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/novo-nordisk-earnings-stock-price-14b096d2?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-06T18:48:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.48,
+        "price": 1.4,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9867531,
-            "marketCap": 138867200,
+            "change": -7.2847695,
+            "marketCap": 131360856,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,26 @@
                 "freemium": false
             },
             {
+                "title": "Space analytics firm HawkEye 360 valued at $3.15 billion after NYSE debut",
+                "summary": "Shares of HawkEye 360 rose 30% on \u200cits New York Stock \u200cExchange debut on Thursday, valuing the \u200bspace analytics firm at $3.15 billion. The company's shares opened at $33.8, above the offer price of $26. The Herndon, \u200cVirginia-based firm \u2060raised $416 million in its U.S. IPO on Wednesday, \u2060selling 16 million shares at the top end of its \u200bmarketed range \u200bof $24 to $26 \u200ba share.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/space-analytics-firm-hawkeye-360-163126782.html",
+                "publishDate": "2026-05-07T16:31:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Tees Up Massive Spending Ahead of IPO",
+                "summary": "A chip-manufacturing complex, AI satellites, and space facilities add to a pricey project list at Elon Musk\u2019s company.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/spacex-tees-up-massive-spending-ahead-of-ipo-bd8cfffd?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-07T15:06:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk Is Dissolving xAI. What That Means.",
                 "summary": "Elon Musk is dissolving his artificial-intelligence company, xAI.  Now, SpaceX is the entity that will vie for AI supremacy with OpenAI, Anthropic, and  Alphabet  The company is getting its ducks in a row ahead of an IPO that is expected to be the biggest ever, raising as much as $75 billion and value the company at up to $2 trillion.  Wednesday afternoon, Musk tweeted \u201cxAI will be dissolved as a separate company, so it will just be SpaceXAI, the AI products from SpaceX.\u201d",
                 "source": "Barrons.com",
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-07T00:47:03Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Beyond SpaceX \u2014 Firefly Is the Space Stock You Can Actually Buy Today",
-                "summary": "Elon Musk\u2019s SpaceX is going to make history this year as it looks to touch down with a blistering-hot IPO that might match the heat of its rocket fuel. Of course, the price of admission into what could be a $2 trillion titan could have the potential to be off the charts. And for that ... Beyond SpaceX \u2014 Firefly Is the Space Stock You Can Actually Buy Today",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/06/beyond-spacex-firefly-is-the-space-stock-you-can-actually-buy-today/",
-                "publishDate": "2026-05-07T00:41:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "2 Top AI Stocks To Put On Your Shortlist",
-                "summary": "The AI rally that\u2019s driven the S&P 500 and Nasdaq to all-time highs has felt like it was hitting a crescedo for three years straight. But as hyperscalers push their own capital expenditure commitments higher and higher (Meta just raised their 2026 capex estimates to $145), and new entrants like Elon Musks\u2019s SpaceX are expected to ... 2 Top AI Stocks To Put On Your Shortlist",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/06/2-top-ai-stocks-to-put-on-your-shortlist/",
-                "publishDate": "2026-05-07T00:16:39Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.31,
+        "price": 28.12,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7696053,
-            "marketCap": 20261498880,
+            "change": -2.428865,
+            "marketCap": 20125515776,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.69,
+        "price": 33.417,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2801955,
-            "marketCap": 6990373888,
+            "change": 2.443289,
+            "marketCap": 6933729280,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
