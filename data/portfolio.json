@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.505,
+        "price": 46.1601,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.6282434,
-            "marketCap": 206149730304,
+            "change": 0.87434596,
+            "marketCap": 204620840960,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.32564
+            "yearTarget": 47.288628
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9480501,
+            "change": -1.9867531,
             "marketCap": 138867200,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.46,
+        "price": 28.31,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2487013,
-            "marketCap": 20368852992,
+            "change": -1.7696053,
+            "marketCap": 20261498880,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.18,
+        "price": 33.69,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.7823467,
-            "marketCap": 7092044800,
+            "change": 3.2801955,
+            "marketCap": 6990373888,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
