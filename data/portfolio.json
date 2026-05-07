@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.07,
+        "price": 46.16,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6774506,
-            "marketCap": 204221448192,
+            "change": 0.87412924,
+            "marketCap": 204620398592,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.23229
+            "yearTarget": 47.250412
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Amazon Expands GLP 1 Push With Ozempic Pill",
+                "summary": "Novo partnership deepens Amazon healthcare ambitions",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/amazon-expands-glp-1-push-180530047.html",
+                "publishDate": "2026-05-07T18:05:30Z",
                 "premium": false,
                 "freemium": false
             },
@@ -119,16 +129,6 @@
                 "url": "https://www.investors.com/news/technology/novo-nordisk-stock-novo-nordisk-earnings-q1-2026/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-05-06T20:05:17Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Health Care Stocks Advance Late Afternoon",
-                "summary": "Health care stocks were higher late Wednesday afternoon, with the NYSE Health Care Index increasing",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-advance-195230873.html",
-                "publishDate": "2026-05-06T19:52:30Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -312,16 +312,6 @@
         },
         "NEWS": [
             {
-                "title": "Anthropic to rent all AI capacity at SpaceX's Colossus data center",
-                "summary": "Anthropic says it will rent all of the compute capacity from SpaceX's massive Colossus 1 data center.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/anthropic-to-rent-all-ai-capacity-at-spacexs-colossus-data-center-180327774.html",
-                "publishDate": "2026-05-06T18:03:27Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Anthropic expands compute capacity with SpaceX partnership",
                 "summary": "Anthropic announced that it has reached an agreement with SpaceX to access computing resources from the company\u2019s Colossus 1 artificial intelligence facility in Memphis, Tennessee. The deal gives Anthropic access to the facility\u2019s full capacity, which SpaceX said includes more than 220,000...",
                 "source": "Proactive",
@@ -348,16 +338,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/07/the-spacex-ipo-could-be-the-biggest-in-a-decade-he/",
                 "publishDate": "2026-05-07T16:44:27Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space analytics firm HawkEye 360 valued at $3.15 billion after NYSE debut",
-                "summary": "HawkEye 360 shares jumped 30% in their Thursday debut, securing a $3.15 billion valuation and signaling \u200cstrong investor demand for defense-tech offerings. The stock opened \u200cat $33.80, above the offer price of $26. The Herndon, Virginia-based firm raised $416 million in \u200bits U.S. IPO on Wednesday, selling 16 million shares at the top end of its marketed range of $24 to $26 a share.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/space-analytics-firm-hawkeye-360-163126782.html",
-                "publishDate": "2026-05-07T16:31:26Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,6 +390,26 @@
                 "publishDate": "2026-05-07T14:22:00Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "Here's Why the SpaceX IPO Makes Rivian Stock a Buy",
+                "summary": "SpaceX having more capital is an indirect benefit for Rivian.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/07/heres-why-the-spacex-ipo-makes-rivian-stock-a-buy/",
+                "publishDate": "2026-05-07T13:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "T-Mobile US (TMUS) Executive Buys $1.0M in Shares",
+                "summary": "T-Mobile US, Inc. (NASDAQ:TMUS) is one of the 10 Strong Buy S&P 500 Stocks to Invest In. On May 4, 2026, T-Mobile US, Inc. (NASDAQ:TMUS) disclosed in a regulatory filing that the company\u2019s Broadband Chief Andre Almeida purchased 5,097 shares on May 1 for a total of $1.0M. On April 30, 2026, LightShed Partners upgraded [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-us-tmus-executive-131156450.html",
+                "publishDate": "2026-05-07T13:11:56Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.05,
+        "price": 28.11,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6717575,
-            "marketCap": 20075415552,
+            "change": -2.463564,
+            "marketCap": 20118358016,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.9,
+        "price": 33.26,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8583771,
-            "marketCap": 6826456576,
+            "change": 1.9619848,
+            "marketCap": 6901152768,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
