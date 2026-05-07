@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.76,
+        "price": 46.68,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.98351,
-            "marketCap": 202847256576,
+            "change": 2.010494,
+            "marketCap": 206925479936,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.757584
+            "yearTarget": 47.34771
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -42,12 +42,52 @@
                 "freemium": false
             },
             {
-                "title": "Novo Nordisk surges as Wegovy pill demand crushes estimates",
-                "summary": "Shares of Novo Nordisk (NVO), the maker of the GLP-1 drug Wegovy, popped this morning after the company reported strong demand for its new weight-loss pill.Novo Nordisk President & CEO Mike Doustdar joined Julie Hyman on Opening Bid to discuss Q1 sales and the rest of the year guidance.",
-                "source": "Yahoo Finance Video",
+                "title": "Amazon adds Ozempic pill to pharmacy kiosks with same-day delivery",
+                "summary": "Customers with a prescription can pick up the diabetes pill at select One Medical kiosks or have it delivered the same day for $149 a month",
+                "source": "Quartz",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/video/novo-nordisk-surges-as-wegovy-pill-demand-crushes-estimates-150609771.html",
-                "publishDate": "2026-05-06T15:06:09Z",
+                "url": "https://qz.com/amazon-ozempic-pill-pharmacy-kiosks-same-day-delivery-050726",
+                "publishDate": "2026-05-07T12:46:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Analysis-Novo and Lilly gain on signs weight-loss pills could expand the market",
+                "summary": "LONDON/COPENHAGEN, May 7 (Reuters) - Early data from weight-loss pills are lifting shares in Novo Nordisk and Eli Lilly as investors bet that easier-to-take drugs could expand the market to millions more patients and help counter pricing pressure. Denmark's Novo, \u200cwhich has struggled to keep pace with U.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/analysis-novo-lilly-gain-signs-121454708.html",
+                "publishDate": "2026-05-07T12:18:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Guidance Lift Tests Valuation As Oral Wegovy Demand Surges",
+                "summary": "Novo Nordisk (NYSE:NVO) raised its 2026 full year guidance after the launch of its oral Wegovy weight loss pill in the U.S. Prescriptions for the oral version have surpassed 2,000,000 since January, signaling strong demand for the new format. The update comes during a period of intense competition with Eli Lilly and ongoing pricing pressures in the weight loss drug market. Novo Nordisk, trading at $45.76, sits at the center of the current weight loss drug story, with oral Wegovy adding a...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-guidance-lift-tests-100906279.html",
+                "publishDate": "2026-05-07T10:09:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "America\u2019s Weight-Loss Drug Boom Is Going Global",
+                "summary": "While investors obsess over uptake of GLP-1 pills in the U.S., international sales are just as important.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/health/pharma/americas-weight-loss-drug-boom-is-going-global-31274935?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-07T09:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "My Top Obesity Stock to Buy and Hold",
+                "summary": "Most weight-loss stocks are built on future expectations. Eli Lilly is built on current earnings and expanding demand.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/07/my-top-obesity-stock-to-buy-and-hold/",
+                "publishDate": "2026-05-07T09:05:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -90,52 +130,12 @@
                 "publishDate": "2026-05-06T18:48:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Sector Update: Health Care Stocks Mixed Wednesday Afternoon",
-                "summary": "Health care stocks were mixed Wednesday afternoon, with the NYSE Health Care Index increasing 0.1% a",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-health-care-stocks-mixed-174543093.html",
-                "publishDate": "2026-05-06T17:45:43Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Stock Rallies Thanks to Wegovy Pill",
-                "summary": "Shares in Wegovy maker Novo Nordisk surged this morning after it reported strong demand for its new weight-loss pill and upgraded its guidance.  The Danish drugmaker said total prescriptions for the Wegovy pill reached around 1.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-06-2026/card/novo-nordisk-stock-leads-european-rally-thanks-to-wegovy-pill-UcZsEHtjm5K6oddgYueU?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-06T17:21:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "LLY Stock Pops 16% After Beat-and-Raise Q1: Buy, Hold or Take Profits?",
-                "summary": "Lilly surges after a Q1 beat and higher guidance, as Mounjaro and Zepbound fueled 56% revenue growth.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/lly-stock-pops-16-beat-160500429.html",
-                "publishDate": "2026-05-06T16:05:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "NVO Q1 Earnings & Sales Top Estimates, 2026 Outlook Raised, Stock Up",
-                "summary": "Novo Nordisk stock jumps as Q1 earnings and revenues beat estimates, fueled by strong Wegovy and Ozempic demand and a raised 2026 outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/nvo-q1-earnings-sales-top-155200159.html",
-                "publishDate": "2026-05-06T15:52:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
             "analystCount": 12,
-            "recommendationKey": "none",
-            "recommendationMean": "recommendationMean",
+            "recommendationKey": 6,
+            "recommendationMean": 2.35714,
             "strongBuy": 1,
             "buy": 6,
             "hold": 5,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.22648,
+            "change": 0.0,
             "marketCap": 141682064,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,6 +322,66 @@
                 "freemium": false
             },
             {
+                "title": "Elon Musk Is Dissolving xAI. What That Means.",
+                "summary": "Elon Musk is dissolving his artificial-intelligence company, xAI.  Now, SpaceX is the entity that will vie for AI supremacy with OpenAI, Anthropic, and  Alphabet  The company is getting its ducks in a row ahead of an IPO that is expected to be the biggest ever, raising as much as $75 billion and value the company at up to $2 trillion.  Wednesday afternoon, Musk tweeted \u201cxAI will be dissolved as a separate company, so it will just be SpaceXAI, the AI products from SpaceX.\u201d",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/elon-musk-spacex-ipo-dissolving-xai-1d035d36?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-07T14:47:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Rocket Lab Stock Trades Near Buy Point With Earnings Due",
+                "summary": "Launch services provider Rocket Lab releases earnings late Thursday. RKLB stock has formed a base and trades near an entry.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/rocket-lab-earnings-q1-2026-rklb-stock-space-launches-base-buy-point/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-07T14:42:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "2 Top Space Stocks I Like Better Than SpaceX",
+                "summary": "These companies might offer more bang for your buck.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/07/2-top-space-stocks-i-like-better-than-spacex/",
+                "publishDate": "2026-05-07T14:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Nvidia Stock Could Be Set for a Run After Breaking Through $200",
+                "summary": "Nvidia stock was rising after breaking $200, with a new SpaceX-Anthropic deal offering a reminder of the importance of its chips.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/how-nvidia-stock-tradingtoday-f24c82c5?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-07T14:22:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here's Why the SpaceX IPO Makes Rivian Stock a Buy",
+                "summary": "SpaceX having more capital is an indirect benefit for Rivian.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/07/heres-why-the-spacex-ipo-makes-rivian-stock-a-buy/",
+                "publishDate": "2026-05-07T13:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "T-Mobile US (TMUS) Executive Buys $1.0M in Shares",
+                "summary": "T-Mobile US, Inc. (NASDAQ:TMUS) is one of the 10 Strong Buy S&P 500 Stocks to Invest In. On May 4, 2026, T-Mobile US, Inc. (NASDAQ:TMUS) disclosed in a regulatory filing that the company\u2019s Broadband Chief Andre Almeida purchased 5,097 shares on May 1 for a total of $1.0M. On April 30, 2026, LightShed Partners upgraded [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-us-tmus-executive-131156450.html",
+                "publishDate": "2026-05-07T13:11:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space analytics firm HawkEye raises $416 million in US IPO",
                 "summary": "Space analytics firm HawkEye 360 has raised $416 million in its U.S. initial public offering, \u200cthe company said on Wednesday.",
                 "source": "Reuters",
@@ -350,66 +410,6 @@
                 "publishDate": "2026-05-07T00:16:39Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Musk's SpaceX strikes data center deal with Anthropic",
-                "summary": "AI startup Anthropic announced Wednesday it has agreed to a major computing partnership with Elon Musk's SpaceX, securing access to a vast data center as the Claude maker scrambles to keep pace with surging demand for its AI services.The SpaceX pact is the latest in a string of major compute agreements Anthropic has announced in recent months as the company looks to secure the computing power needed to meet its growing needs.\u00a0",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/musks-spacex-strikes-data-center-220839950.html",
-                "publishDate": "2026-05-06T22:08:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Craft Launches Tailwind Exchange Fund with a Private Aviation Twist",
-                "summary": "The platform pairs concentrated stock positions with private aviation, targeting a 6% yield or flight hours with a $100,000 minimum investment.",
-                "source": "Wealth Management",
-                "category": "finance",
-                "url": "https://www.wealthmanagement.com/alternative-investments/craft-launches-tailwind-exchange-fund-with-a-private-aviation-twist",
-                "publishDate": "2026-05-06T20:37:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk's SpaceX Will Help Power Anthropic's Claude in Surprise AI Deal",
-                "summary": "Elon Musk\u2019s combined company of SpaceX and xAI will help boost Anthropic with a deal to provide compute for Claude AI models.",
-                "source": "decrypt",
-                "category": "finance",
-                "url": "https://decrypt.co/367035/elon-musk-spacex-power-anthropic-claude-surprise-ai-deal",
-                "publishDate": "2026-05-06T20:23:19Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic\u2019s Deal With SpaceX Exposes a Potential Problem for Elon Musk\u2019s xAI",
-                "summary": "The partnership gives Anthropic access to more than 300 megawatts of capacity at SpaceX\u2019s Colossus 1 data center.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/anthropic-spacex-ai-deal-musk-a5f8e10a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-06T20:10:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Forget the SpaceX IPO. Thursday Is Space Earnings Day for Space Stocks BlackSky, Redwire, and Rocket Lab",
-                "summary": "Don't want to wait for the SpaceX IPO to invest in space? Good news: You don't have to!",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/06/spacex-ipo-earnings-space-stock-bksy-rklb-rdw/",
-                "publishDate": "2026-05-06T18:54:34Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Sells Full Colossus 1 Compute to Anthropic Weeks Before $1.75 Trillion IPO",
-                "summary": "SpaceX gave Anthropic full access to Colossus 1 GPUs weeks before its $1.75T IPO, bolstering the AI revenue story.",
-                "source": "BeInCrypto",
-                "category": "finance",
-                "url": "https://beincrypto.com/spacex-anthropic-compute-deal-ipo/",
-                "publishDate": "2026-05-06T18:27:50Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.82,
+        "price": 28.595,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.76554,
-            "marketCap": 20626505728,
+            "change": -0.78070915,
+            "marketCap": 20465473536,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.62,
+        "price": 34.1,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,11 +584,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 15.469,
-            "marketCap": 6768358400,
+            "change": 4.5370927,
+            "marketCap": 7075445248,
             "weekLow": 10.19,
             "weekHigh": 36.52,
-            "yearTarget": 43.4
+            "yearTarget": 43.8
         },
         "FUNDING": {
             "fundingToDate": null,
