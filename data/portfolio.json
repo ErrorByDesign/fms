@@ -20,7 +20,7 @@
             "marketCap": 203024564224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.171192
+            "yearTarget": 47.175186
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,7 +32,7 @@
         },
         "NEWS": [
             {
-                "title": "Earnings live updates: Whirlpool stock falls after 'perfect storm' of consumer headwinds, Supermicro soars",
+                "title": "Earnings live updates: Airbnb raises revenue forecast, even as Iran war weighs on some markets",
                 "summary": "First quarter earnings season is in full swing, with a full slate of semiconductor and consumer companies slated to report results.",
                 "source": "Yahoo Finance",
                 "category": "finance",
@@ -280,7 +280,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 632.78,
+        "price": 632.98,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -296,10 +296,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.07,
-            "marketCap": 1502069915648,
+            "change": 0.03,
+            "marketCap": 1502544658432,
             "weekLow": 201.24,
-            "weekHigh": 632.78,
+            "weekHigh": 632.98,
             "yearTarget": null
         },
         "FUNDING": {
@@ -317,7 +317,7 @@
                 "source": "Investor's Business Daily",
                 "category": "finance",
                 "url": "https://www.investors.com/news/rocket-lab-earnings-q1-2026-rklb-stock-space-launches-base-buy-point/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-07T20:20:51Z",
+                "publishDate": "2026-05-07T20:58:29Z",
                 "premium": false,
                 "freemium": false
             },
