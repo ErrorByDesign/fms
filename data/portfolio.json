@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.12,
+        "price": 46.16,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.7867147,
-            "marketCap": 204443074560,
+            "change": 0.8740337,
+            "marketCap": 204620398592,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.299644
+            "yearTarget": 47.292274
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.4,
+        "price": 1.39,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -7.2847695,
-            "marketCap": 131360856,
+            "change": -7.94702,
+            "marketCap": 130422568,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,8 +322,28 @@
                 "freemium": false
             },
             {
+                "title": "Intel, Lam, KLA: Will Musk\u2019s $120B Terafab Boost These Stocks?",
+                "summary": "Earlier this week, Elon Musk officially announced the Terafab Initiative, a Texas-based chip fabrication facility intended to produce processors for Tesla (TSLA), SpaceX, and xAI.",
+                "source": "Trefis",
+                "category": "finance",
+                "url": "https://www.trefis.com/articles/598668/intel-lam-kla-will-musks-120b-terafab-boost-these-stocks/2026-05-07",
+                "publishDate": "2026-05-07T16:50:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Could Be the Biggest in a Decade. Here's How to Get In Early.",
+                "summary": "There are a few ways to invest in this hot IPO before its public debut.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/07/the-spacex-ipo-could-be-the-biggest-in-a-decade-he/",
+                "publishDate": "2026-05-07T16:44:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space analytics firm HawkEye 360 valued at $3.15 billion after NYSE debut",
-                "summary": "Shares of HawkEye 360 rose 30% on \u200cits New York Stock \u200cExchange debut on Thursday, valuing the \u200bspace analytics firm at $3.15 billion. The company's shares opened at $33.8, above the offer price of $26. The Herndon, \u200cVirginia-based firm \u2060raised $416 million in its U.S. IPO on Wednesday, \u2060selling 16 million shares at the top end of its \u200bmarketed range \u200bof $24 to $26 \u200ba share.",
+                "summary": "HawkEye 360 shares jumped 30% in their Thursday debut, securing a $3.15 billion valuation and signaling \u200cstrong investor demand for defense-tech offerings. The stock opened \u200cat $33.80, above the offer price of $26. The Herndon, Virginia-based firm raised $416 million in \u200bits U.S. IPO on Wednesday, selling 16 million shares at the top end of its marketed range of $24 to $26 a share.",
                 "source": "Reuters",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/space-analytics-firm-hawkeye-360-163126782.html",
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-07T13:25:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "T-Mobile US (TMUS) Executive Buys $1.0M in Shares",
-                "summary": "T-Mobile US, Inc. (NASDAQ:TMUS) is one of the 10 Strong Buy S&P 500 Stocks to Invest In. On May 4, 2026, T-Mobile US, Inc. (NASDAQ:TMUS) disclosed in a regulatory filing that the company\u2019s Broadband Chief Andre Almeida purchased 5,097 shares on May 1 for a total of $1.0M. On April 30, 2026, LightShed Partners upgraded [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/t-mobile-us-tmus-executive-131156450.html",
-                "publishDate": "2026-05-07T13:11:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space analytics firm HawkEye raises $416 million in US IPO",
-                "summary": "Space analytics firm HawkEye 360 has raised $416 million in its U.S. initial public offering, \u200cthe company said on Wednesday.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/space-analytics-firm-hawkeye-raises-416-million-in-us-ipo-004703752.html",
-                "publishDate": "2026-05-07T00:47:03Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.12,
+        "price": 27.96,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.428865,
-            "marketCap": 20125515776,
+            "change": -2.984041,
+            "marketCap": 20011001856,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.417,
+        "price": 33.09,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.443289,
-            "marketCap": 6933729280,
+            "change": 1.4408376,
+            "marketCap": 6865879552,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
