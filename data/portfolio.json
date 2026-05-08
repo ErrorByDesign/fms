@@ -20,7 +20,7 @@
             "marketCap": 203024564224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.175186
+            "yearTarget": 47.16394
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,26 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Is Novo Nordisk (NYSE:NVO) Pricing Look Interesting After Recent Share Price Rebound?",
+                "summary": "If you are wondering whether Novo Nordisk stock is attractively priced right now, the key is to understand what the recent share price is actually implying about future expectations. The stock last closed at US$45.80, with recent returns of 8.5% over 7 days and 24.1% over 30 days, but a 27.0% decline over 1 year and a 42.7% decline over 3 years. These moves have come alongside ongoing attention on Novo Nordisk's role in pharmaceuticals and biotech, including its position in treatments that...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nyse-nvo-pricing-012111330.html",
+                "publishDate": "2026-05-08T01:21:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "A Look At Novo Nordisk (CPSE:NOVO B) Valuation After Oral Wegovy Success Lifts 2026 Outlook",
+                "summary": "Novo Nordisk (CPSE:NOVO B) shocked the market with first quarter 2026 results, as its new oral Wegovy weight loss pill quickly surpassed 2 million US prescriptions and prompted a higher full year outlook. See our latest analysis for Novo Nordisk. The strong first quarter has triggered a sharp rebound in sentiment, with a 25.69% 1 month share price return and 8.54% 7 day gain. However, the year to date share price return of 10.52% and 1 year total shareholder return of 27.91% still point to a...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/look-novo-nordisk-cpse-novo-222011165.html",
+                "publishDate": "2026-05-07T22:20:11Z",
                 "premium": false,
                 "freemium": false
             },
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-07T12:18:26Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Guidance Lift Tests Valuation As Oral Wegovy Demand Surges",
-                "summary": "Novo Nordisk (NYSE:NVO) raised its 2026 full year guidance after the launch of its oral Wegovy weight loss pill in the U.S. Prescriptions for the oral version have surpassed 2,000,000 since January, signaling strong demand for the new format. The update comes during a period of intense competition with Eli Lilly and ongoing pricing pressures in the weight loss drug market. Novo Nordisk, trading at $45.76, sits at the center of the current weight loss drug story, with oral Wegovy adding a...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-guidance-lift-tests-100906279.html",
-                "publishDate": "2026-05-07T10:09:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "America\u2019s Weight-Loss Drug Boom Is Going Global",
-                "summary": "While investors obsess over uptake of GLP-1 pills in the U.S., international sales are just as important.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/americas-weight-loss-drug-boom-is-going-global-31274935?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-07T09:30:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -9.2715225,
+            "change": -9.27152,
             "marketCap": 128545984,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -312,6 +312,46 @@
         },
         "NEWS": [
             {
+                "title": "Tom Lee Flags Rapid Launching Of Space ETFs As Wall Street Braces For SpaceX IPO\u2014 'Never Seen Anything Like It'",
+                "summary": "Wall Street is aggressively expanding its commercial space footprint, pushing a record number of new space-focused ETFs to market as the countdown to Elon Musk's massive SpaceX public debut begins. \u2018Another Level\u2019 Of Market Demand Fundstrat Global Advisors\u2019 Head of...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/tom-lee-flags-rapid-launching-003035991.html",
+                "publishDate": "2026-05-08T00:30:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "1 Surprising Reason Rivian Stock Is a Buy Before the SpaceX IPO",
+                "summary": "SpaceX could soon raise $50 billion to $75 billion in fresh capital.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/07/1-surprising-reason-rivian-stock-is-a-buy-before-t/",
+                "publishDate": "2026-05-07T23:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Blue Owl Capital (OWL) Is Up 18.7% After Earnings Beat, Dividend Hike And Buybacks Expansion \u2013 Has The Bull Case Changed?",
+                "summary": "In the first quarter of 2026, Blue Owl Capital Inc. reported higher revenue and net income year over year, raised its quarterly dividend to US$0.23 per share, and continued its share repurchase program, buying back 1,710,117 shares for US$24.97 million and completing US$78.58 million of buybacks under its 2025 authorization. The company also partially realized a large gain on its early SpaceX investment and advanced its real assets and data-center platforms, highlighting how diversified...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/blue-owl-capital-owl-18-221618323.html",
+                "publishDate": "2026-05-07T22:16:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Wait for SpaceX? This Space IPO Jumped 30%",
+                "summary": "HawkEye 360, a space-based defense analytics firm, listed on the NYSE and the stock promptly soared.",
+                "source": "Investopedia",
+                "category": "finance",
+                "url": "https://www.investopedia.com/why-wait-for-spacex-this-space-ipo-jumped-30-today-hawkeye-hawk-11969798",
+                "publishDate": "2026-05-07T21:29:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Rocket Lab Stock Surges On Revenue Beat, Record Launch Contract",
                 "summary": "Launch services provider Rocket Lab released earnings late Thursday. RKLB stock has formed a base and trades near an entry.",
                 "source": "Investor's Business Daily",
@@ -322,12 +362,32 @@
                 "freemium": false
             },
             {
+                "title": "HawkEye 360 IPO: Stock Jumps 30% in Trading Debut. The Space Race Is Heating Up.",
+                "summary": "Space is ice cold\u2014but on Wall Street, space stocks are red-hot.  Now, investors have another option to play the trend ahead of SpaceX\u2019s debut, the ultimate space IPO.  HawkEye 360  priced its IPO at $26 on Wednesday, raising about $416 million and valuing the company at about roughly $2.5 billion.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/hawkeye-360-ipo-stock-price-ticker-dcc02e5a?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-07T20:58:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk \u2019Dissolved\u2019 xAI. What It Means for the SpaceX IPO.",
                 "summary": "Elon Musk is dissolving his artificial-intelligence company, xAI.  Now, SpaceX is the entity that will vie for AI supremacy with OpenAI, Anthropic, and  Alphabet  The company is getting its ducks in a row ahead of an IPO that is expected to be the biggest ever, raising as much as $75 billion and valuing the company at up to $2 trillion.  Wednesday afternoon, Musk tweeted \u201cxAI will be dissolved as a separate company, so it will just be SpaceXAI, the AI products from SpaceX.\u201d",
                 "source": "Barrons.com",
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/xai-dissolved-musk-spacex-ipo-1d035d36?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-07T19:59:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk called Anthropic \u2018evil\u2019 3 months ago. Now he\u2019s taking $4 billion to become its data landlord",
+                "summary": "\u201cHe who controls the data center, really does control the application of artificial intelligence right now.\u201d",
+                "source": "Fortune",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-called-anthropic-evil-194925519.html",
+                "publishDate": "2026-05-07T19:49:25Z",
                 "premium": false,
                 "freemium": false
             },
@@ -348,66 +408,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-discloses-over-500-million-191141965.html",
                 "publishDate": "2026-05-07T19:11:41Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Tokenized Trades Hit $1.6 Trillion Implied Valuation",
-                "summary": "Crypto venues tied to private AI companies see trading activity surge more than threefold as investors chase exposure to Anthropic, OpenAI and SpaceX.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/crypto/articles/anthropic-tokenized-trades-hit-1-185734967.html",
-                "publishDate": "2026-05-07T18:57:34Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Musk's Tesla-SpaceX Chip Plan Could Reach $119 Billion",
-                "summary": "SpaceX estimates the Terafab project may cost at least $55 billion, with Grimes County among several possible locations.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/musks-tesla-spacex-chip-plan-183900613.html",
-                "publishDate": "2026-05-07T18:39:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "xAi is Dead. Long Live SpaceXAI.",
-                "summary": "Elon Musk folded xAI into SpaceX on Wednesday, the same day Anthropic locked up its Colossus 1 data center for Claude\u2019s compute.",
-                "source": "Moby",
-                "category": "finance",
-                "url": "https://app.moby.co/home/news/news-xai-is-dead-long-live-spacexai?utm_source=yahoo_finance&utm_medium=rss",
-                "publishDate": "2026-05-07T18:31:40Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "These 3 Big AI IPOs Could Test Demand Before SpaceX Debuts",
-                "summary": "Cerebras Systems, Blackstone Digital Infrastructure Trust and Fervo Energy are poised to go public next week, giving investors an early read on appetite for AI-related IPOs.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/cerebras-fervo-blackstone-ai-ipo-market-demand-09e2d490?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-07T18:16:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "IPO Market Rebound Continues With HawkEye Deal",
-                "summary": "The U.S. IPO market is on the rebound after years of relative quiet, thanks in part to offerings related to artificial intelligence and defense. The Trump administration is seeking record Pentagon spending and wants national-security contractors to move faster.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-07-2026/card/ipo-market-rebound-continues-with-hawkeye-deal-aWg50dF2lXTtK0njGUm0?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-07T17:51:23Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic expands compute capacity with SpaceX partnership",
-                "summary": "Anthropic announced that it has reached an agreement with SpaceX (Unlisted (US):SPACEX) to access computing resources from the company\u2019s Colossus 1 artificial intelligence facility in Memphis, Tennessee. The deal gives Anthropic access to the facility\u2019s full capacity, which SpaceX...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1091922/anthropic-expands-compute-capacity-with-spacex-partnership-1091922.html",
-                "publishDate": "2026-05-07T17:23:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8736955,
+            "change": -1.8737,
             "marketCap": 20240027648,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.27590483,
+            "change": 0.275905,
             "marketCap": 6787032576,
             "weekLow": 10.19,
             "weekHigh": 36.52,
