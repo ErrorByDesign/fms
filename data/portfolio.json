@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.8,
+        "price": 45.675,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0874146,
-            "marketCap": 203024564224,
+            "change": -0.27292576,
+            "marketCap": 202470457344,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.193195
+            "yearTarget": 47.33242
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,66 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-sp-500-earnings-growth-trend-impresses-100000216.html",
                 "publishDate": "2026-05-04T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Wegovy pill on track for blockbuster status as Novo Nordisk navigates crowded GLP-1 market",
+                "summary": "Novo Nordisk's (NYSE:NVO) oral version of its blockbuster weight-loss drug Wegovy is emerging as the central battleground for investors in the Danish pharmaceutical giant. And both UBS and Citi are highlighting the pill's trajectory as the defining question for the company's medium-term...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1091965/wegovy-pill-on-track-for-blockbuster-status-as-novo-nordisk-navigates-crowded-glp-1-market-1091965.html",
+                "publishDate": "2026-05-08T14:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk India Sales Jump 40% As Generic Pressure Builds",
+                "summary": "Novo's price cuts lifted Wegovy and Ozempic demand while cheaper GLP-1 therapies expanded India's obesity-drug market.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-india-sales-jump-132158458.html",
+                "publishDate": "2026-05-08T13:21:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sandoz CEO Says Size of Weight-Loss Generics Market Is Unknown",
+                "summary": "Switzerland\u2019s Sandoz sees Canada and Brazil markets as testing grounds before semaglutide goes off patent in Europe and the U.S. in the 2030s.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/health/pharma/sandoz-ceo-says-size-of-weight-loss-generics-market-is-unknown-d82f29a2?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-08T13:15:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly's Retatrutide Is So Hot, The Unlaunched Weight-Loss Drug Is Already Getting Knocked Off",
+                "summary": "Eli Lilly is just wrapping up trials of its retatrutide, but consumers already are flocking to black-market versions. Can Lilly compete with copies of its own drug?",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/eli-lilly-weight-loss-drug-retatrutide-black-market/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-08T12:00:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo\u2019s CEO champions \u201crecord-breaking start\u201d for Wegovy pill in US market",
+                "summary": "Novo Nordisk\u2019s Wegovy pill is already providing financial fuel in the company\u2019s bid to catch Eli Lilly.",
+                "source": "Pharmaceutical Technology",
+                "category": "finance",
+                "url": "https://www.pharmaceutical-technology.com/news/novos-ceo-champions-record-breaking-start-for-wegovy-pill-in-us-market/",
+                "publishDate": "2026-05-08T11:34:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Lexicon Pharmaceuticals Q1 Earnings Call Highlights",
+                "summary": "Lexicon Pharmaceuticals (NASDAQ:LXRX) executives highlighted progress across late-stage regulatory programs and efforts to bolster the company\u2019s financial position during the company\u2019s first-quarter 2026 earnings call on May 7. Chief Executive Officer Mike Exton said the company entered 2026 with o",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/lexicon-pharmaceuticals-q1-earnings-call-highlights-2026-05-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-08T07:25:40Z",
                 "premium": false,
                 "freemium": false
             },
@@ -70,66 +130,6 @@
                 "publishDate": "2026-05-07T18:39:56Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Forget Eli Lilly: These 2 Stocks Have More Upside",
-                "summary": "Eli Lilly has a lofty valuation thanks to its strong GLP-1 growth, but don't count out these two competitors.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/07/forget-eli-lilly-these-2-stocks-have-more-upside/",
-                "publishDate": "2026-05-07T18:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Amazon Adds Same-Day Ozempic Pill Delivery",
-                "summary": "Amazon will offer same-day delivery for Novo Nordisk's Ozempic pill.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/amazon-adds-same-day-ozempic-182920734.html",
-                "publishDate": "2026-05-07T18:29:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Amazon Expands GLP 1 Push With Ozempic Pill",
-                "summary": "Novo partnership deepens Amazon healthcare ambitions",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/amazon-expands-glp-1-push-180530047.html",
-                "publishDate": "2026-05-07T18:05:30Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Health Care Roundup: Market Talk",
-                "summary": "Find insight on Amazon Pharmacy, Sanofi, Sunway Health and more in the latest Market Talks covering the health care sector.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/business/health-care-roundup-market-talk-092163f9?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-07T16:28:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Amazon adds Ozempic pill to pharmacy kiosks with same-day delivery",
-                "summary": "Customers with a prescription can pick up the diabetes pill at select One Medical kiosks or have it delivered the same day for $149 a month",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/amazon-ozempic-pill-pharmacy-kiosks-same-day-delivery-050726",
-                "publishDate": "2026-05-07T12:46:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Analysis-Novo and Lilly gain on signs weight-loss pills could expand the market",
-                "summary": "LONDON/COPENHAGEN, May 7 (Reuters) - Early data from weight-loss pills are lifting shares in Novo Nordisk and Eli Lilly as investors bet that easier-to-take drugs could expand the market to millions more patients and help counter pricing pressure. Denmark's Novo, \u200cwhich has struggled to keep pace with U.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/analysis-novo-lilly-gain-signs-121454708.html",
-                "publishDate": "2026-05-07T12:18:26Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.37,
+        "price": 1.41,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -156,12 +156,12 @@
             "country": "France",
             "year": "1999",
             "website": "https://www.innate-pharma.com",
-            "description": "Innate Pharma S.A. operates as a biotechnology company that develops immunotherapies for cancer patients in France and internationally.\n\nThe company's products include Lacutamab (IPH4102), an anti-KIR3DL2 antibody, which is in Phase II clinical trials for the treatment of cutaneous T-cell and peripheral T-cell lymphoma, as well as in Phase II clinical trials to treat refractory s\u00e9zary syndrome; Monalizumab, an immune checkpoint inhibitor that is in Phase III clinical trial to treat advanced solid tumors comprising colorectal and lung cancer, as well as head and neck cancer; IPH5201, a blocking antibody that is in Phase II clinical trials targeting the CD39 immunosuppressive pathway; IPH5301, an anti-CD73 antibody targeting the immunosuppressive adenosine pathway to promote antitumor immunity; IPH6401, an BCMA-targeting NK cell engager; and IPH6101, a NKp46-based NK cell engager that targets CD123 proprietary multi-specific antibody format; and IPH62, an B7-H3-targeting NK cell engager.\n\nIts products in preclinical trials are IPH43, an anti-MICA/B ADC and IPH45, an antibody drug conjugates (ADC); and IPH67, an undisclosed, multi-specific ANKET.\n\nThe company has licensing and collaboration agreements with AstraZeneca, Novo Nordisk A/S, Sanofi, and Orega Biotech; and co-development and license agreement with MedImmune Limited.\n\nInnate Pharma S.A. was incorporated in 1999 and is based in Marseille, France.",
+            "description": "Innate Pharma S.A. operates as a biotechnology company that develops immunotherapies for cancer patients in France and internationally.\n\nThe company's products include Lacutamab (IPH4102), an anti-KIR3DL2 antibody, which is in Phase II clinical trials for the treatment of cutaneous T-cell and peripheral T-cell lymphoma; IPH4502, a novel and differentiated topoisomerase I inhibitor ADC conjugated to exatecan targeting Nectin-4; and Monalizumab, a dual checkpoint inhibitor that targets T Cells and NK Cells.\n\nIt also develops IPH5201, a blocking antibody that is in Phase II clinical trials targeting the CD39 immunosuppressive pathway; IPH5301, an anti-CD73 antibody targeting the immunosuppressive adenosine pathway; IPH6401, an BCMA-targeting NK cell engager; IPH6101, a NKp46-based NK cell engager that targets CD123 proprietary multi-specific antibody format; and IPH62, an B7-H3-targeting NK cell engager.\n\nIn addition, the company develops IPH6501, a tetra-specific NK cell engager to activate receptors, NKp46 and CD16, tumor antigen (CD20) and an interleukin-2 receptor.\n\nThe company has licensing and collaboration agreements with AstraZeneca, Novo Nordisk A/S, Sanofi, and Orega Biotech.\n\nInnate Pharma S.A. was incorporated in 1999 and is based in Marseille, France.",
             "facts": []
         },
         "FINANCIALS": {
-            "change": -9.27152,
-            "marketCap": 128545984,
+            "change": 2.9197052,
+            "marketCap": 132299144,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,56 @@
         },
         "NEWS": [
             {
+                "title": "Got $5,000? Rocket Lab Stock Could Be the Space Launch Upstart Investors Kick Themselves for Ignoring by 2035",
+                "summary": "Wall Street thinks Rocket Lab could grow revenue 10x in 10 years. That could be conservative.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/08/got-5000-rocket-lab-space-launch-upstart-by-2035/",
+                "publishDate": "2026-05-08T14:03:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Rocket Lab Breaks Out On Revenue Beat, Record Launch Contract",
+                "summary": "Launch services provider Rocket Lab released earnings late Thursday. RKLB stock has formed a base and cleared an entry.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/rocket-lab-earnings-q1-2026-rklb-stock-space-launches-base-buy-point/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-08T13:56:37Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Cathie Wood Sees Strong Demand for SpaceX, Tesla Robotaxis",
+                "summary": "Cathie Wood said demand for the planned SpaceX IPO could exceed supply.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/cathie-wood-sees-strong-demand-132711612.html",
+                "publishDate": "2026-05-08T13:27:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Uber Beat Earnings and Shares Jumped. Is UBER Stock Still a Buy After the Surge?",
+                "summary": "Uber's future is all about robotaxis.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/08/uber-beat-earnings-and-shares-jumped-is-uber-stock/",
+                "publishDate": "2026-05-08T09:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "How You Might Easily and Safely Gain Exposure to SpaceX After Its IPO",
+                "summary": "This is a great strategy for cautious and aggressive investors.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/08/how-you-might-easily-and-safely-gain-exposure-to-s/",
+                "publishDate": "2026-05-08T08:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tom Lee Flags Rapid Launching Of Space ETFs As Wall Street Braces For SpaceX IPO\u2014 'Never Seen Anything Like It'",
                 "summary": "Wall Street is aggressively expanding its commercial space footprint, pushing a record number of new space-focused ETFs to market as the countdown to Elon Musk's massive SpaceX public debut begins. \u2018Another Level\u2019 Of Market Demand Fundstrat Global Advisors\u2019 Head of...",
                 "source": "Benzinga",
@@ -352,62 +402,12 @@
                 "freemium": false
             },
             {
-                "title": "Rocket Lab Stock Surges On Revenue Beat, Record Launch Contract",
-                "summary": "Launch services provider Rocket Lab released earnings late Thursday. RKLB stock has formed a base and trades near an entry.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/rocket-lab-earnings-q1-2026-rklb-stock-space-launches-base-buy-point/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-07T20:58:29Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "HawkEye 360 IPO: Stock Jumps 30% in Trading Debut. The Space Race Is Heating Up.",
                 "summary": "Space is ice cold\u2014but on Wall Street, space stocks are red-hot.  Now, investors have another option to play the trend ahead of SpaceX\u2019s debut, the ultimate space IPO.  HawkEye 360  priced its IPO at $26 on Wednesday, raising about $416 million and valuing the company at about roughly $2.5 billion.",
                 "source": "Barrons.com",
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/hawkeye-360-ipo-stock-price-ticker-dcc02e5a?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-07T20:58:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk \u2019Dissolved\u2019 xAI. What It Means for the SpaceX IPO.",
-                "summary": "Elon Musk is dissolving his artificial-intelligence company, xAI.  Now, SpaceX is the entity that will vie for AI supremacy with OpenAI, Anthropic, and  Alphabet  The company is getting its ducks in a row ahead of an IPO that is expected to be the biggest ever, raising as much as $75 billion and valuing the company at up to $2 trillion.  Wednesday afternoon, Musk tweeted \u201cxAI will be dissolved as a separate company, so it will just be SpaceXAI, the AI products from SpaceX.\u201d",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/xai-dissolved-musk-spacex-ipo-1d035d36?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-07T19:59:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk called Anthropic \u2018evil\u2019 3 months ago. Now he\u2019s taking $4 billion to become its data landlord",
-                "summary": "\u201cHe who controls the data center, really does control the application of artificial intelligence right now.\u201d",
-                "source": "Fortune",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-called-anthropic-evil-194925519.html",
-                "publishDate": "2026-05-07T19:49:25Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here\u2019s What the Street Thinks About \u200bT-Mobile (TMUS)",
-                "summary": "\u200bT-Mobile US, Inc. (NASDAQ:TMUS) is one of the Best Stocks to Buy Before the Next Bull Run . The Street has been bullish on T-Mobile since its FQ1 2026 earnings, released on April 28. The company posted $23.11 billion in revenue, reflecting 10.63% year-over-year growth and topped expectations by $91.74 million. Moreover, the GAAP EPS [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/street-thinks-t-mobile-tmus-193909390.html",
-                "publishDate": "2026-05-07T19:39:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla Discloses Over $500 Million In Musk-Linked Company Revenue",
-                "summary": "Tesla reported $430.1 million from xAI and $143.3 million from SpaceX in an amended annual filing.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-discloses-over-500-million-191141965.html",
-                "publishDate": "2026-05-07T19:11:41Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.28,
+        "price": 28.405,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8737,
-            "marketCap": 20240027648,
+            "change": 0.44200847,
+            "marketCap": 20329490432,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.71,
+        "price": 33.72,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.275905,
-            "marketCap": 6787032576,
+            "change": 3.0877473,
+            "marketCap": 6996599296,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Silver Standard Resources Holds Virtual 2026 AGM, Shareholders Approve Directors, Say-on-Pay, PwC",
+                "summary": "SSR Mining Inc. held its 2026 annual meeting of shareholders in a virtual format, with Executive Chairman Rod Antal presiding and outlining the meeting\u2019s procedures, voting rules, and agenda items. Virtual meeting procedures and voting At the outset, the operator noted the meeting was being recorde",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/silver-standard-resources-holds-virtual-2026-agm-shareholders-approve-directors-say-on-pay-pwc-2026-05-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-08T12:07:17Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Why SSR Mining Stock Surged 20% Today",
                 "summary": "The gold stock is shining bright after reporting a massive earnings jump and a $1.5 billion strategic move.",
@@ -686,16 +696,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123003840.html",
                 "publishDate": "2026-04-28T12:30:03Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSRM Stock Gets New Repurchase Approval \u2014 And Investors Notice",
-                "summary": "With an upside potential of 43.2%, SSR Mining Inc. (NASDAQ:SSRM) is among the 10 Best Gold Mining Companies to Invest In According to Wall Street. On March 27, SSR Mining Inc. (NASDAQ:SSRM) announced that it had filed with and received acceptance from the Toronto Stock Exchange for a Notice of Intention to commence a Normal Course Issuer [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssrm-stock-gets-repurchase-approval-081436037.html",
-                "publishDate": "2026-04-28T08:14:36Z",
                 "premium": false,
                 "freemium": false
             }
