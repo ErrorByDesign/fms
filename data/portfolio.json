@@ -20,7 +20,7 @@
             "marketCap": 205684293632,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.283546
+            "yearTarget": 47.301674
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Hims & Hers reports surprise loss in Q1, shares dive after hours",
+                "summary": "Investing.com -- Hims & Hers missed first-quarter earnings estimates, posting a loss as weakness in its American operations offset gains overseas.",
+                "source": "Investing.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/hims-hers-reports-surprise-loss-205607096.html",
+                "publishDate": "2026-05-11T20:56:07Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Refocuses On GLP\u20111 As AI Partner Advances Parkinson\u2019s Bet",
                 "summary": "Novo Nordisk (CPSE:NOVO B) has licensed its clinical-stage allogeneic cell therapy program for Parkinson's disease to Cellular Intelligence. The program includes an ongoing Phase 1/2 trial and holds FDA Fast Track status. Novo Nordisk is exiting direct cell therapy operations while taking an equity stake in Cellular Intelligence. Cellular Intelligence plans to use its AI platform to support development of the Parkinson's therapy. Novo Nordisk, trading at DKK300.6, is best known for its GLP...",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/09/is-this-news-from-novo-nordisk-a-warning-for-eli-l/",
                 "publishDate": "2026-05-09T10:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Amazon Pharmacy Access To Ozempic Pills Tests Novo Nordisk Pricing Power",
-                "summary": "Amazon Pharmacy is expanding access to Ozempic pills for type 2 diabetes through same day delivery and kiosk pickups across thousands of US locations. The move broadens digital and retail pharmacy channels for Novo Nordisk, alongside existing access programs with Weight Watchers and GoodRx. This development focuses on oral GLP-1 therapies, adding another distribution layer beyond traditional provider and brick and mortar pharmacy routes. Novo Nordisk (CPSE:NOVO B), trading at DKK290.75, is...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/amazon-pharmacy-access-ozempic-pills-011520729.html",
-                "publishDate": "2026-05-09T01:15:20Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Microsoft boss 'proud' of profit-making OpenAI investment",
+                "summary": "Microsoft CEO Satya Nadella said Monday he was \"very proud\" of his company's profitable early investment in OpenAI, as he took the stand in Elon Musk's blockbuster lawsuit against the leaders of the AI giant behind ChatGPT.\nMusk -- an early benefactor of the original nonprofit company -- claims Microsoft knowingly helped OpenAI's creators betray their philanthropic mission and turn the firm into a cash cow.Nadella told a jury in Oakland, California, on Monday that Microsoft's investment in the n",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
+                "publishDate": "2026-05-11T21:31:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
                 "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
                 "source": "Investor's Business Daily",
@@ -398,16 +408,6 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/space-stocks-rally-rocket-lab-ast-spacemobile-charts-technicals-c9849826?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-11T14:22:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic\u2019s New Deal With Elon Musk\u2019s SpaceX Could Be a Real AI Game Changer",
-                "summary": "The excitement surrounding the IPO of Elon Musk\u2019s SpaceX is almost palpable at this point. The largest IPO the world has ever seen could surely make a splash in the first days, weeks, and months following the landing. I have no idea what the day-one valuation will be, but it feels like the many followers ... Anthropic\u2019s New Deal With Elon Musk\u2019s SpaceX Could Be a Real AI Game Changer",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/11/anthropics-new-deal-with-elon-musks-spacex-could-be-a-real-ai-game-changer/",
-                "publishDate": "2026-05-11T13:49:13Z",
                 "premium": false,
                 "freemium": false
             }
