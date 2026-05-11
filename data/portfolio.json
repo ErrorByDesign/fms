@@ -20,7 +20,7 @@
             "marketCap": 205684293632,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.26879
+            "yearTarget": 47.283546
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk Refocuses On GLP\u20111 As AI Partner Advances Parkinson\u2019s Bet",
+                "summary": "Novo Nordisk (CPSE:NOVO B) has licensed its clinical-stage allogeneic cell therapy program for Parkinson's disease to Cellular Intelligence. The program includes an ongoing Phase 1/2 trial and holds FDA Fast Track status. Novo Nordisk is exiting direct cell therapy operations while taking an equity stake in Cellular Intelligence. Cellular Intelligence plans to use its AI platform to support development of the Parkinson's therapy. Novo Nordisk, trading at DKK300.6, is best known for its GLP...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-refocuses-glp-1-201553944.html",
+                "publishDate": "2026-05-11T20:15:53Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly, GLP-1 Troubles Are Dragging Down This Healthcare ETF",
                 "summary": "Eli Lilly faces challenges in the GLP-1 market, with Novo Nordisk gaining a timing advantage in both injectable and oral drug approvals.",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/amazon-pharmacy-access-ozempic-pills-011520729.html",
                 "publishDate": "2026-05-09T01:15:20Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Lower Late Afternoon",
-                "summary": "Healthcare stocks declined late Friday afternoon, with the NYSE Healthcare Index and the State Stree",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-lower-afternoon-195823071.html",
-                "publishDate": "2026-05-08T19:58:23Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
+                "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-starship-flight-12-elon-musk-delays-ark-invest-cathie-wood-spacex-holdings-orbital-data-centers/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-11T20:29:38Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Who\u2019s Traveling to China With Trump in the U.S. Business Delegation?",
                 "summary": "More than a dozen top U.S. business leaders will travel to China for President Trump\u2019s visit this week with Chinese President Xi Jinping, representing various American industries from finance to manufacturing.",
                 "source": "The Wall Street Journal",
@@ -358,16 +368,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/why-companies-racing-put-satellites-154500058.html",
                 "publishDate": "2026-05-11T15:45:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
-                "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-starship-flight-12-elon-musk-delays-ark-invest-cathie-wood-spacex-holdings-orbital-data-centers/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-11T15:24:57Z",
                 "premium": false,
                 "freemium": false
             },
