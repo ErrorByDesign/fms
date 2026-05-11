@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.07,
+        "price": 47.0801,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.589521,
-            "marketCap": 204221448192,
+            "change": 2.192065,
+            "marketCap": 208699064320,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.19314
+            "yearTarget": 47.280045
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk GLP-1 pill launch impresses but price erosion keeps Citi on the sidelines",
+                "summary": "Shares in Novo Nordisk (NYSE:NVO) drew a cautious reception from Citi following first-quarter results that beat consensus expectations, with the bank raising its target price but retaining a neutral rating as concerns over portfolio price erosion and long-term obesity market competition outweigh...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1092040/novo-nordisk-glp-1-pill-launch-impresses-but-price-erosion-keeps-citi-on-the-sidelines-1092040.html",
+                "publishDate": "2026-05-11T13:02:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Hims Labs AI And GLP 1 Push Test Stock Valuation Story",
                 "summary": "Hims & Hers Health (NYSE:HIMS) has launched Labs AI, an AI care agent that provides users with personalized, clinically vetted interpretations of their lab results. The company is also expanding into FDA-approved GLP-1 weight loss medications through partnerships with major pharmaceutical companies, including Novo Nordisk and Eli Lilly. These moves come as NYSE:HIMS trades at $25.65, with the stock up 31.5% over the past 30 days but down 23.2% year to date and 50.1% over the past year. The...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-08T14:36:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Wegovy pill on track for blockbuster status as Novo Nordisk navigates crowded GLP-1 market",
-                "summary": "Novo Nordisk's (NYSE:NVO) oral version of its blockbuster weight-loss drug Wegovy is emerging as the central battleground for investors in the Danish pharmaceutical giant. And both UBS and Citi are highlighting the pill's trajectory as the defining question for the company's medium-term...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1091965/wegovy-pill-on-track-for-blockbuster-status-as-novo-nordisk-navigates-crowded-glp-1-market-1091965.html",
-                "publishDate": "2026-05-08T14:00:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.41,
+        "price": 1.43,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9197052,
-            "marketCap": 132299144,
+            "change": 1.4184384,
+            "marketCap": 134175728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,102 +312,102 @@
         },
         "NEWS": [
             {
+                "title": "Elon Musk's Terafab plan could boost Intel and chip equipment firms",
+                "summary": "Wedbush sees upside but warns risks remain high",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musks-terafab-plan-could-143935400.html",
+                "publishDate": "2026-05-11T14:39:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Space Stocks Rally. What the Charts of Rocket Lab, AST SpaceMobile Say.",
+                "summary": "As investors await an initial public offering from SpaceX, interest is building for space stocks.  A wave of publicly-traded pure play space companies have recently hit the market.  Names such as  Rocket Lab AST SpaceMobile Planet Labs  and  BlackSky  have emerged as key investor bets on the growing commercial space economy, spanning satellite communications, launch services and Earth-imaging technology.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/space-stocks-rally-rocket-lab-ast-spacemobile-charts-technicals-c9849826?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-11T14:22:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic\u2019s New Deal With Elon Musk\u2019s SpaceX Could Be a Real AI Game Changer",
+                "summary": "The excitement surrounding the IPO of Elon Musk\u2019s SpaceX is almost palpable at this point. The largest IPO the world has ever seen could surely make a splash in the first days, weeks, and months following the landing. I have no idea what the day-one valuation will be, but it feels like the many followers ... Anthropic\u2019s New Deal With Elon Musk\u2019s SpaceX Could Be a Real AI Game Changer",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/11/anthropics-new-deal-with-elon-musks-spacex-could-be-a-real-ai-game-changer/",
+                "publishDate": "2026-05-11T13:49:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "BofA Maintains a Neutral Rating on STMicroelectronics N.V. (STM)",
+                "summary": "STMicroelectronics N.V. (NYSE:STM) is one of the 12 Best Photonics Stocks to Buy Now. On May 5, BofA boosted its price target for STMicroelectronics N.V. (NYSE:STM) to EUR 49 from EUR 42. It kept a Neutral rating on the stock. The firm belief that low earth orbit exposure supports space as a \u201cstructurally attractive growth [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-maintains-neutral-rating-stmicroelectronics-132355663.html",
+                "publishDate": "2026-05-11T13:23:55Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "There aren\u2019t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+                "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/aren-t-enough-rockets-space-130000536.html",
+                "publishDate": "2026-05-11T13:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "This \u201cUFO\u201d ETF Is Among the Few Real Ways To Invest In The Space Economy",
+                "summary": "If you have ever tried to buy \u201cspace exposure\u201d through an ETF, you have probably noticed the same trick. Most space funds quietly fill the bucket with Boeing (NYSE:BA), Lockheed Martin (NYSE:LMT), and Honeywell (NASDAQ:HON), then call it a day. You end up with aerospace primes when what you wanted was the companies actually launching rockets and beaming ... This \u201cUFO\u201d ETF Is Among the Few Real Ways To Invest In The Space Economy",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/11/this-ufo-etf-is-among-the-few-real-ways-to-invest-in-the-space-economy/",
+                "publishDate": "2026-05-11T12:47:16Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Shares Investing Advice He's Asked 'A Lot' \u2014 Buy Stocks From Companies 'You Believe In' And Only Sell If Quality Tanks, Not If Market Panics",
+                "summary": "Tesla and SpaceX CEO Elon Musk has a habit of making headlines for everything from rockets to robotaxis, but as the richest man in the world, there's one question people constantly throw his way: what's the smartest way to invest...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-shares-investing-advice-123026238.html",
+                "publishDate": "2026-05-11T12:30:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Space Stock ETFs Are Suddenly Hot. Only 1 Owns SpaceX.",
+                "summary": "There are a bunch of space-themed ETFs, a mix of actively managed and index funds. But just one has access to SpaceX ahead of its eagerly awaited debut.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/space-stock-etfs-funds-spacex-ipo-70011d12?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-11T09:33:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Should You Buy Tesla Stock Before the Robotaxi Expansion Goes Nationwide? Here's What History Says.",
+                "summary": "Tesla had a rough 2025, but with the Robotaxi rollout, is it worth a look?",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/11/should-you-buy-tesla-stock-before-the-robotaxi-exp/",
+                "publishDate": "2026-05-11T07:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Microsoft boss to testify on his role in OpenAI's founding",
                 "summary": "Microsoft CEO Satya Nadella is expected to take the stand Monday in Elon Musk's lawsuit against OpenAI, to explain emails that revealed how his company funded the ChatGPT creator's shift from philanthropic organization to for-profit AI giant.He will rely on recently disclosed Microsoft emails from January 2018 to demonstrate that the tech giant only opened its checkbook once a profit appeared possible.",
                 "source": "AFP",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
                 "publishDate": "2026-05-11T01:13:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk's SpaceX Could See Orbital Datacenter Business 'Dwarf' Starlink, Says Cathie Wood",
-                "summary": "Investor Cathie Wood, the founder of investment firm ARK Invest, thinks Elon Musk-led SpaceX could stand to benefit highly from orbital datacenters. Orbital Datacenters Could \u2018Dwarf\u2019 Starlink On Thursday, ARK posted a video on the social media platform X, in...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-could-see-003013988.html",
-                "publishDate": "2026-05-11T00:30:13Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Does Lanteris Deal And 2026 Revenue Ambitions Reshape The Bull Case For Intuitive Machines (LUNR)?",
-                "summary": "In recent weeks, Intuitive Machines has outlined ambitious 2026 revenue guidance of US$900 million to US$1 billion following its US$800 million acquisition of Lanteris Space Systems, alongside securing a US$180.4 million NASA contract to deliver payloads to the lunar South Pole. These developments, combined with new space-focused ETFs and anticipation around a potential SpaceX IPO, have turned Intuitive Machines into a key vehicle for investors seeking broad exposure to the commercial space...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/does-lanteris-deal-2026-revenue-231045852.html",
-                "publishDate": "2026-05-10T23:10:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Ministry of Defence hands Musk\u2019s Starlink \u00a316m",
-                "summary": "The Ministry of Defence (MoD) is paying millions of pounds a year to Elon Musk\u2019s Starlink as part of efforts to support Ukraine.",
-                "source": "The Telegraph",
-                "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/ministry-defence-hands-musk-starlink-153500607.html",
-                "publishDate": "2026-05-10T15:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "We\u2019re feeling cynical about xAI\u2019s big deal with Anthropic",
-                "summary": "On the latest episode of the Equity podcast, we discussed what xAI's deal with Anthropic might mean for parent company SpaceX.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/feeling-cynical-xai-big-deal-153425341.html",
-                "publishDate": "2026-05-10T15:34:25Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Warning: Blue Origin Poses Real Threat",
-                "summary": "Blue Origin's New Glenn rocket is twice the size of the SpaceX Falcon 9, and already flying -- unlike Starship.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/10/spacex-ipo-warning-blue-origin-poses-real-threat/",
-                "publishDate": "2026-05-10T11:27:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Better Industrial Space Stock: Intuitive Machines vs. MDA Space",
-                "summary": "Intuitive Machines and MDA Space are two standouts.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/10/better-industrial-space-stock-intuitive-machines-v/",
-                "publishDate": "2026-05-10T10:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Uh-Oh! President Trump\u2019s Landmark Tax Cuts Bill Could Be What Kills the Trump Bull Market",
-                "summary": "The stock market has been on a tear during President Donald Trump\u2019s second term. Since Jan. 20, 2025, the S&P 500 has climbed 23.4%. More stunningly, it has surged 48.5% since the April 8, 2025 tariff panic low, as investors decided the White House\u2019s trade fights were survivable and artificial intelligence spending was unstoppable. That ... Uh-Oh! President Trump\u2019s Landmark Tax Cuts Bill Could Be What Kills the Trump Bull Market",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/10/uh-oh-president-trumps-landmark-tax-cuts-bill-could-be-what-kills-the-trump-bull-market/",
-                "publishDate": "2026-05-10T10:08:22Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Calls Nvidia GB300  'The Best AI Computer' As SpaceX And Anthropic Strike Deal",
-                "summary": "Anthropic has partnered with SpaceX to significantly expand the computing power behind its Claude AI models, prompting Elon Musk to praise Nvidia Corp's latest GB300 systems as \"the best AI computer.\" Anthropic Expands Claude AI With SpaceX Data Center Deal...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-calls-nvidia-gb300-100200719.html",
-                "publishDate": "2026-05-10T10:02:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Wedbush sends blunt message on Elon Musk's Tesla and Intel deal",
-                "summary": "Elon Musk has spent years talking about vertical integration across his companies. With Terafab, he is starting to put a price tag on it. A very large one. Wall Street is now watching closely. And Wedbush just told investors what it thinks the numbers actually mean for the companies involved. ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/technology/wedbush-sends-blunt-message-on-elon-musks-tesla-and-intel-deal",
-                "publishDate": "2026-05-10T01:37:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.56,
+        "price": 29.405,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9901015,
-            "marketCap": 20440424448,
+            "change": 2.9586878,
+            "marketCap": 21045192704,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.2,
+        "price": 35.115,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.555187,
-            "marketCap": 7096195072,
+            "change": 2.6754413,
+            "marketCap": 7286049280,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
