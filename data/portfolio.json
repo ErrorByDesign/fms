@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.885,
+        "price": 46.695,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7690442,
-            "marketCap": 207834202112,
+            "change": 1.3566313,
+            "marketCap": 206991966208,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.271698
+            "yearTarget": 47.253895
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "NVO Rallies 21% in a Month: How Should Investors Play the Stock?",
+                "summary": "Novo Nordisk stock jumps 21% in a month after a Q1 beat and stronger GLP-1 demand, but pricing pressure and Eli Lilly rivalry still cloud its 2026 outlook.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/nvo-rallies-21-month-investors-152300557.html",
+                "publishDate": "2026-05-11T15:23:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk GLP-1 pill launch impresses but price erosion keeps Citi on the sidelines",
                 "summary": "Shares in Novo Nordisk (NYSE:NVO) drew a cautious reception from Citi following first-quarter results that beat consensus expectations, with the bank raising its target price but retaining a neutral rating as concerns over portfolio price erosion and long-term obesity market competition outweigh...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-08T15:46:25Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "Prothena Posts Q1 Earnings as Revenues Surge on Milestone Payment",
-                "summary": "PRTA posted a Q1 profit as a $50M Novo Nordisk milestone payment boosted revenue and improved its 2026 cash outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/prothena-posts-q1-earnings-revenues-143600584.html",
-                "publishDate": "2026-05-08T14:36:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.69204086,
+            "change": 0.7092192,
             "marketCap": 133237440,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.175,
+        "price": 29.065,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1533606,
-            "marketCap": 20880580608,
+            "change": 1.768211,
+            "marketCap": 20801853440,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.175,
+        "price": 33.875,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.073103875,
-            "marketCap": 7091006976,
+            "change": -0.9502946,
+            "marketCap": 7028760064,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
