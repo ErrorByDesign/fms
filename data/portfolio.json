@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.0801,
+        "price": 46.935,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.192065,
-            "marketCap": 208699064320,
+            "change": 1.8775812,
+            "marketCap": 208055861248,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.280045
+            "yearTarget": 47.26663
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.43,
+        "price": 1.455,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4184384,
-            "marketCap": 134175728,
+            "change": 3.191495,
+            "marketCap": 136521472,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,12 +312,32 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX Preps For Starship Flight, Cathie Wood To Rebalance Holdings",
+                "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-starship-flight-12-elon-musk-delays-ark-invest-cathie-wood-spacex-holdings-orbital-data-centers/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-11T15:24:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk's Terafab plan could boost Intel and chip equipment firms",
                 "summary": "Wedbush sees upside but warns risks remain high",
                 "source": "GuruFocus.com",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musks-terafab-plan-could-143935400.html",
                 "publishDate": "2026-05-11T14:39:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk May Have Found SpaceX's Next Cash Machine",
+                "summary": "SpaceX already launches rockets. It already operates one of the world's largest satellite internet businesses, Starlink. Now Elon Musk may be turning it into something else entirely: an AI infrastructure landlord. Anthropic's reported deal to access SpaceX/xAI's Colossus 1 supercomputer...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-may-found-spacexs-143105639.html",
+                "publishDate": "2026-05-11T14:31:05Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-11T09:33:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Should You Buy Tesla Stock Before the Robotaxi Expansion Goes Nationwide? Here's What History Says.",
-                "summary": "Tesla had a rough 2025, but with the Robotaxi rollout, is it worth a look?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/11/should-you-buy-tesla-stock-before-the-robotaxi-exp/",
-                "publishDate": "2026-05-11T07:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Microsoft boss to testify on his role in OpenAI's founding",
-                "summary": "Microsoft CEO Satya Nadella is expected to take the stand Monday in Elon Musk's lawsuit against OpenAI, to explain emails that revealed how his company funded the ChatGPT creator's shift from philanthropic organization to for-profit AI giant.He will rely on recently disclosed Microsoft emails from January 2018 to demonstrate that the tech giant only opened its checkbook once a profit appeared possible.",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
-                "publishDate": "2026-05-11T01:13:53Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.405,
+        "price": 29.285,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9586878,
-            "marketCap": 21045192704,
+            "change": 2.5385168,
+            "marketCap": 20959307776,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.115,
+        "price": 34.91,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.6754413,
-            "marketCap": 7286049280,
+            "change": 2.0760207,
+            "marketCap": 7243513344,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
