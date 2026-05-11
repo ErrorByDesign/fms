@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.565,
+        "price": 46.68,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0744497,
-            "marketCap": 206415691776,
+            "change": 1.3240734,
+            "marketCap": 206925479936,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.25784
+            "yearTarget": 47.265213
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk transfers Parkinson's cell therapy to Cellular Intelligence",
+                "summary": "Cellular Intelligence is acquiring STEM-PD, a Phase 2-ready cell therapy, and plans to use AI to accelerate development and manufacturing",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/novo-nordisk-stem-pd-parkinson-cellular-intelligence-051126",
+                "publishDate": "2026-05-11T17:24:27Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Cellular Intelligence licenses Novo\u2019s shelved Parkinson\u2019s cell therapy programme",
                 "summary": "Novo Nordisk shuttered its cell therapy unit in October 2025, with assets now moving to new hands.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.investors.com/news/technology/eli-lilly-weight-loss-drug-retatrutide-black-market/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-05-08T19:37:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk India Sales Jump After Price Cuts",
-                "summary": "Ozempic and Wegovy demand rose after Novo lowered prices to compete with generics.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-india-sales-jump-182206445.html",
-                "publishDate": "2026-05-08T18:22:06Z",
                 "premium": false,
                 "freemium": false
             }
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Before You Invest in SpaceX, Consider This Top Competitor",
+                "summary": "SpaceX isn't the only game in town.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/11/before-you-invest-in-spacex-consider-this-top-comp/",
+                "publishDate": "2026-05-11T17:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Companies Are Racing to Put Satellites in Low-Earth Orbit",
                 "summary": "Investors expect the market for low Earth orbit satellites to grow to about $108 billion by 2035. WSJ's Micah Maidenberg explains what's at stake for the corporate fight over LEO, and whether Amazon and others can put a dent in SpaceX's dominance there.",
                 "source": "WSJ",
@@ -393,21 +403,11 @@
             },
             {
                 "title": "There aren\u2019t enough rockets for space data centers \u2014 Cowboy Space raised $275M to build them",
-                "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
+                "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
                 "source": "TechCrunch",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/aren-t-enough-rockets-space-130000536.html",
                 "publishDate": "2026-05-11T13:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Shares Investing Advice He's Asked 'A Lot' \u2014 Buy Stocks From Companies 'You Believe In' And Only Sell If Quality Tanks, Not If Market Panics",
-                "summary": "Tesla and SpaceX CEO Elon Musk has a habit of making headlines for everything from rockets to robotaxis, but as the richest man in the world, there's one question people constantly throw his way: what's the smartest way to invest...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-shares-investing-advice-123026238.html",
-                "publishDate": "2026-05-11T12:30:26Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.09,
+        "price": 28.97,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.8557447,
-            "marketCap": 20819744768,
+            "change": 1.4355737,
+            "marketCap": 20733861888,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.03,
+        "price": 33.985,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.49708182,
-            "marketCap": 7060920832,
+            "change": -0.6286554,
+            "marketCap": 7051584000,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
