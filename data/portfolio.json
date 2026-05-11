@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.7024,
+        "price": 46.355,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3726948,
-            "marketCap": 207024783360,
+            "change": 0.6186235,
+            "marketCap": 205484802048,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.253376
+            "yearTarget": 47.262455
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.42,
+        "price": 1.48,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.7092192,
-            "marketCap": 133237440,
+            "change": 4.964543,
+            "marketCap": 138867200,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -313,11 +313,21 @@
         "NEWS": [
             {
                 "title": "Rocket Lab stock jumps for second day as SpaceX IPO looms",
-                "summary": "Rocket Lab stock extended its surge for a second consecutive trading day Monday, as investors continue buying following the company's strong quarterly report - and with an SpaceX IPO on the horizon.",
+                "summary": "Rocket Lab stock extended its surge for a second consecutive trading day Monday as investors continue buying following the company's strong quarterly report \u2014 and with an SpaceX IPO on the horizon.",
                 "source": "Yahoo Finance",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/article/rocket-lab-stock-jumps-for-second-day-as-spacex-ipo-looms-180717617.html",
                 "publishDate": "2026-05-11T18:07:17Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Who\u2019s Traveling to China With Trump in the U.S. Business Delegation?",
+                "summary": "More than a dozen top U.S. business leaders will travel to China for President Trump\u2019s visit this week with Chinese President Xi Jinping, representing various American industries from finance to manufacturing.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-11-2026/card/who-s-traveling-to-china-with-trump-in-the-u-s-business-delegation--KyE7595H2fWPE2fK1TU2?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-11T18:20:56Z",
                 "premium": false,
                 "freemium": false
             },
@@ -338,16 +348,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/11/before-you-invest-in-spacex-consider-this-top-comp/",
                 "publishDate": "2026-05-11T17:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Who\u2019s Traveling to China With Trump in the U.S. Business Delegation?",
-                "summary": "More than a dozen top U.S. business leaders will travel to China for President Trump\u2019s visit this week with Chinese President Xi Jinping, representing various American industries from finance to manufacturing.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-11-2026/card/who-s-traveling-to-china-with-trump-in-the-u-s-business-delegation--KyE7595H2fWPE2fK1TU2?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-11T16:52:56Z",
                 "premium": false,
                 "freemium": false
             },
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.795,
+        "price": 28.925,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8228313,
-            "marketCap": 20608614400,
+            "change": 1.2780104,
+            "marketCap": 20701655040,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.47,
+        "price": 34.59,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.789475,
-            "marketCap": 7152217600,
+            "change": 1.140349,
+            "marketCap": 7177116160,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
