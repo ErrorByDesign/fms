@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.695,
+        "price": 46.565,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3566313,
-            "marketCap": 206991966208,
+            "change": 1.0744497,
+            "marketCap": 206415691776,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.253895
+            "yearTarget": 47.25784
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Cellular Intelligence licenses Novo\u2019s shelved Parkinson\u2019s cell therapy programme",
+                "summary": "Novo Nordisk shuttered its cell therapy unit in October 2025, with assets now moving to new hands.",
+                "source": "Pharmaceutical Technology",
+                "category": "finance",
+                "url": "https://www.pharmaceutical-technology.com/news/cellular-intelligence-licenses-novos-shelved-parkinsons-cell-therapy-programme/",
+                "publishDate": "2026-05-11T17:05:13Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "NVO Rallies 21% in a Month: How Should Investors Play the Stock?",
                 "summary": "Novo Nordisk stock jumps 21% in a month after a Q1 beat and stronger GLP-1 demand, but pricing pressure and Eli Lilly rivalry still cloud its 2026 outlook.",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-india-sales-jump-182206445.html",
                 "publishDate": "2026-05-08T18:22:06Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Stocks Decline in Friday Trading; Middle East Ceasefire Tenuous Amid Rising US-Iran Tensions",
-                "summary": "The European stock markets were tracking lower, and oil prices were rising Friday following media re",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-decline-friday-trading-154625607.html",
-                "publishDate": "2026-05-08T15:46:25Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -312,7 +312,7 @@
         },
         "NEWS": [
             {
-                "title": "Why Companies Are Racing to Put Satellites in Low Earth Orbit",
+                "title": "Why Companies Are Racing to Put Satellites in Low-Earth Orbit",
                 "summary": "Investors expect the market for low Earth orbit satellites to grow to about $108 billion by 2035. WSJ's Micah Maidenberg explains what's at stake for the corporate fight over LEO, and whether Amazon and others can put a dent in SpaceX's dominance there.",
                 "source": "WSJ",
                 "category": "finance",
@@ -322,7 +322,17 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX Preps For Starship Flight, Cathie Wood To Rebalance Holdings",
+                "title": "Why Companies Are Racing to Put Satellites in Low Earth Orbit",
+                "summary": "Watch how Amazon and a host of other companies are trying to catch up with SpaceX\u2019s Starlink network.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/why-companies-are-racing-to-put-satellites-in-low-earth-orbit-d9db95b6?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-11T15:45:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
                 "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
                 "source": "Investor's Business Daily",
                 "category": "finance",
@@ -382,22 +392,12 @@
                 "freemium": false
             },
             {
-                "title": "There aren\u2019t enough rockets for space data centers. Cowboy Space raised $275 million to build them.",
+                "title": "There aren\u2019t enough rockets for space data centers \u2014 Cowboy Space raised $275M to build them",
                 "summary": "Cowboy Space Corporation wants to put data centers in orbit. First, it has to build the rockets to get them there.",
                 "source": "TechCrunch",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/aren-t-enough-rockets-space-130000536.html",
                 "publishDate": "2026-05-11T13:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "This \u201cUFO\u201d ETF Is Among the Few Real Ways To Invest In The Space Economy",
-                "summary": "If you have ever tried to buy \u201cspace exposure\u201d through an ETF, you have probably noticed the same trick. Most space funds quietly fill the bucket with Boeing (NYSE:BA), Lockheed Martin (NYSE:LMT), and Honeywell (NASDAQ:HON), then call it a day. You end up with aerospace primes when what you wanted was the companies actually launching rockets and beaming ... This \u201cUFO\u201d ETF Is Among the Few Real Ways To Invest In The Space Economy",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/11/this-ufo-etf-is-among-the-few-real-ways-to-invest-in-the-space-economy/",
-                "publishDate": "2026-05-11T12:47:16Z",
                 "premium": false,
                 "freemium": false
             },
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.065,
+        "price": 29.09,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.768211,
-            "marketCap": 20801853440,
+            "change": 1.8557447,
+            "marketCap": 20819744768,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.875,
+        "price": 34.03,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.9502946,
-            "marketCap": 7028760064,
+            "change": -0.49708182,
+            "marketCap": 7060920832,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
