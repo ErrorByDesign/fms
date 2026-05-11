@@ -20,7 +20,7 @@
             "marketCap": 204221448192,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.262226
+            "yearTarget": 47.21008
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,6 +312,36 @@
         },
         "NEWS": [
             {
+                "title": "Microsoft boss to testify on his role in OpenAI's founding",
+                "summary": "Microsoft CEO Satya Nadella is expected to take the stand Monday in Elon Musk's lawsuit against OpenAI, to explain emails that revealed how his company funded the ChatGPT creator's shift from philanthropic organization to for-profit AI giant.He will rely on recently disclosed Microsoft emails from January 2018 to demonstrate that the tech giant only opened its checkbook once a profit appeared possible.",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
+                "publishDate": "2026-05-11T01:13:53Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk's SpaceX Could See Orbital Datacenter Business 'Dwarf' Starlink, Says Cathie Wood",
+                "summary": "Investor Cathie Wood, the founder of investment firm ARK Invest, thinks Elon Musk-led SpaceX could stand to benefit highly from orbital datacenters. Orbital Datacenters Could \u2018Dwarf\u2019 Starlink On Thursday, ARK posted a video on the social media platform X, in...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-could-see-003013988.html",
+                "publishDate": "2026-05-11T00:30:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Does Lanteris Deal And 2026 Revenue Ambitions Reshape The Bull Case For Intuitive Machines (LUNR)?",
+                "summary": "In recent weeks, Intuitive Machines has outlined ambitious 2026 revenue guidance of US$900 million to US$1 billion following its US$800 million acquisition of Lanteris Space Systems, alongside securing a US$180.4 million NASA contract to deliver payloads to the lunar South Pole. These developments, combined with new space-focused ETFs and anticipation around a potential SpaceX IPO, have turned Intuitive Machines into a key vehicle for investors seeking broad exposure to the commercial space...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/does-lanteris-deal-2026-revenue-231045852.html",
+                "publishDate": "2026-05-10T23:10:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Ministry of Defence hands Musk\u2019s Starlink \u00a316m",
                 "summary": "The Ministry of Defence (MoD) is paying millions of pounds a year to Elon Musk\u2019s Starlink as part of efforts to support Ukraine.",
                 "source": "The Telegraph",
@@ -378,36 +408,6 @@
                 "category": "finance",
                 "url": "https://www.thestreet.com/technology/wedbush-sends-blunt-message-on-elon-musks-tesla-and-intel-deal",
                 "publishDate": "2026-05-10T01:37:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Will FMR\u2019s 10.1% Stake and SpaceX Proxy Status Change EchoStar's (SATS) Narrative",
-                "summary": "In recent filings, FMR LLC disclosed a 10.1% beneficial ownership stake in EchoStar, covering about 16.37 million Class A shares with sole dispositive power and near-total sole voting power, reflecting significant institutional involvement as of early May 2026. At the same time, EchoStar is increasingly framed by the market as a proxy for SpaceX exposure, while its wireless and pay-TV operations face revenue pressure, rising debt concerns, and legal and regulatory risks. We\u2019ll now examine...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/fmr-10-1-stake-spacex-002216056.html",
-                "publishDate": "2026-05-10T00:22:16Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla (TSLA) Is Up 7.9% After China EV Rebound and Terafab AI Chip Push - What's Changed",
-                "summary": "Tesla recently reported a sharp rebound in China-made Model 3 and Model Y sales in April, alongside securing its largest-ever Tesla Semi truck order and unveiling a multibillion\u2011dollar Terafab chip manufacturing initiative with SpaceX and xAI. Together, these developments highlight how Tesla is tying core EV demand, AI chip capacity and commercial trucking into a broader physical\u2011AI platform spanning vehicles, energy and robotics. We\u2019ll now examine how the China sales recovery and Terafab...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-tsla-7-9-china-221533960.html",
-                "publishDate": "2026-05-09T22:15:33Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Fires Back As Calls To Tax Billionaires Grow Louder, Says Paid More Taxes Than 'Anyone In History'",
-                "summary": "Tesla Inc. and SpaceX CEO Elon Musk on Wednesday defended himself against calls from lawmakers to tax the wealthy. $10 Billion In Taxes \u201cI have paid over $10B in taxes in a single year,\u201d Musk said, outlining that it was...",
-                "source": "Benzinga",
-                "category": "news",
-                "url": "https://www.yahoo.com/news/articles/elon-musk-fires-back-calls-213116988.html",
-                "publishDate": "2026-05-09T21:31:16Z",
                 "premium": false,
                 "freemium": false
             }
