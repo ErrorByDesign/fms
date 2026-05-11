@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.935,
+        "price": 46.885,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.8775812,
-            "marketCap": 208055861248,
+            "change": 1.7690442,
+            "marketCap": 207834202112,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.26663
+            "yearTarget": 47.271698
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.455,
+        "price": 1.42,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.191495,
-            "marketCap": 136521472,
+            "change": 0.69204086,
+            "marketCap": 133237440,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Why Companies Are Racing to Put Satellites in Low Earth Orbit",
+                "summary": "Investors expect the market for low Earth orbit satellites to grow to about $108 billion by 2035. WSJ's Micah Maidenberg explains what's at stake for the corporate fight over LEO, and whether Amazon and others can put a dent in SpaceX's dominance there.",
+                "source": "WSJ",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/why-companies-racing-put-satellites-154500058.html",
+                "publishDate": "2026-05-11T15:45:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Preps For Starship Flight, Cathie Wood To Rebalance Holdings",
                 "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
                 "source": "Investor's Business Daily",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-11T12:30:26Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Space Stock ETFs Are Suddenly Hot. Only 1 Owns SpaceX.",
-                "summary": "There are a bunch of space-themed ETFs, a mix of actively managed and index funds. But just one has access to SpaceX ahead of its eagerly awaited debut.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/space-stock-etfs-funds-spacex-ipo-70011d12?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-11T09:33:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.285,
+        "price": 29.175,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.5385168,
-            "marketCap": 20959307776,
+            "change": 2.1533606,
+            "marketCap": 20880580608,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.91,
+        "price": 34.175,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.0760207,
-            "marketCap": 7243513344,
+            "change": -0.073103875,
+            "marketCap": 7091006976,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
