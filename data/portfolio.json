@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.68,
+        "price": 46.595,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3240734,
-            "marketCap": 206925479936,
+            "change": 1.1395736,
+            "marketCap": 206548697088,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.265213
+            "yearTarget": 47.274677
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Rocket Lab stock jumps for second day as SpaceX IPO looms",
+                "summary": "Rocket Lab stock extended its surge for a second consecutive trading day Monday, as investors continue buying following the company's strong quarterly report - and with an SpaceX IPO on the horizon.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/article/rocket-lab-stock-jumps-for-second-day-as-spacex-ipo-looms-180717617.html",
+                "publishDate": "2026-05-11T18:07:17Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Before You Invest in SpaceX, Consider This Top Competitor",
                 "summary": "SpaceX isn't the only game in town.",
                 "source": "Motley Fool",
@@ -322,21 +332,21 @@
                 "freemium": false
             },
             {
+                "title": "Who\u2019s Traveling to China With Trump in the U.S. Business Delegation?",
+                "summary": "More than a dozen top U.S. business leaders will travel to China for President Trump\u2019s visit this week with Chinese President Xi Jinping, representing various American industries from finance to manufacturing.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-11-2026/card/who-s-traveling-to-china-with-trump-in-the-u-s-business-delegation--KyE7595H2fWPE2fK1TU2?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-11T16:52:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Companies Are Racing to Put Satellites in Low-Earth Orbit",
                 "summary": "Investors expect the market for low Earth orbit satellites to grow to about $108 billion by 2035. WSJ's Micah Maidenberg explains what's at stake for the corporate fight over LEO, and whether Amazon and others can put a dent in SpaceX's dominance there.",
                 "source": "WSJ",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/why-companies-racing-put-satellites-154500058.html",
-                "publishDate": "2026-05-11T15:45:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Companies Are Racing to Put Satellites in Low Earth Orbit",
-                "summary": "Watch how Amazon and a host of other companies are trying to catch up with SpaceX\u2019s Starlink network.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/tech/why-companies-are-racing-to-put-satellites-in-low-earth-orbit-d9db95b6?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-11T15:45:00Z",
                 "premium": false,
                 "freemium": false
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-11T13:23:55Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "There aren\u2019t enough rockets for space data centers \u2014 Cowboy Space raised $275M to build them",
-                "summary": "The apparently insatiable demand for AI compute has data center entrepreneurs looking to the stars. There's a key problem: There aren't enough rockets to put data centers in orbit around Earth, and they're too expensive.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/aren-t-enough-rockets-space-130000536.html",
-                "publishDate": "2026-05-11T13:00:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.97,
+        "price": 28.865,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4355737,
-            "marketCap": 20733861888,
+            "change": 1.0679283,
+            "marketCap": 20658712576,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.985,
+        "price": 34.12,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.6286554,
-            "marketCap": 7051584000,
+            "change": -0.23392348,
+            "marketCap": 7079595008,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
