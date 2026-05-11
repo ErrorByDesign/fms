@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.355,
+        "price": 46.4,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6186235,
-            "marketCap": 205484802048,
+            "change": 0.716305,
+            "marketCap": 205684293632,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.262455
+            "yearTarget": 47.26879
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly, GLP-1 Troubles Are Dragging Down This Healthcare ETF",
+                "summary": "Eli Lilly faces challenges in the GLP-1 market, with Novo Nordisk gaining a timing advantage in both injectable and oral drug approvals.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/healthcare-etf-eli-lilly-glp-1-stock-edea6da5?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-11T19:33:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk transfers Parkinson's cell therapy to Cellular Intelligence",
                 "summary": "Cellular Intelligence is acquiring STEM-PD, a Phase 2-ready cell therapy, and plans to use AI to accelerate development and manufacturing",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-08T19:58:23Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "Eli Lilly's Retatrutide Is So Hot, The Unlaunched Weight-Loss Drug Is Already Getting Knocked Off",
-                "summary": "Eli Lilly is just wrapping up trials of its retatrutide, but consumers already are flocking to black-market versions. Can Lilly compete with copies of its own drug?",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/eli-lilly-weight-loss-drug-retatrutide-black-market/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-08T19:37:05Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.48,
+        "price": 1.42,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.964543,
-            "marketCap": 138867200,
+            "change": 0.70921916,
+            "marketCap": 133237440,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.925,
+        "price": 28.96,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2780104,
-            "marketCap": 20701655040,
+            "change": 1.400559,
+            "marketCap": 20726704128,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.59,
+        "price": 34.74,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.140349,
-            "marketCap": 7177116160,
+            "change": 1.5789499,
+            "marketCap": 7208240128,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
