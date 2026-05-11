@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.595,
+        "price": 46.545,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1395736,
-            "marketCap": 206548697088,
+            "change": 1.0310364,
+            "marketCap": 206327037952,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.274677
+            "yearTarget": 47.254192
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "While Everyone's Obsessed With the SpaceX IPO, These 3 Quantum Computing Stocks Just Quietly Went Public",
+                "summary": "These companies could shape the future of quantum computing.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/11/while-everyones-obsessed-with-the-spacex-ipo-these/",
+                "publishDate": "2026-05-11T18:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Before You Invest in SpaceX, Consider This Top Competitor",
                 "summary": "SpaceX isn't the only game in town.",
                 "source": "Motley Fool",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-11T13:49:13Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "BofA Maintains a Neutral Rating on STMicroelectronics N.V. (STM)",
-                "summary": "STMicroelectronics N.V. (NYSE:STM) is one of the 12 Best Photonics Stocks to Buy Now. On May 5, BofA boosted its price target for STMicroelectronics N.V. (NYSE:STM) to EUR 49 from EUR 42. It kept a Neutral rating on the stock. The firm belief that low earth orbit exposure supports space as a \u201cstructurally attractive growth [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/bofa-maintains-neutral-rating-stmicroelectronics-132355663.html",
-                "publishDate": "2026-05-11T13:23:55Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.865,
+        "price": 28.75,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0679283,
-            "marketCap": 20658712576,
+            "change": 0.665268,
+            "marketCap": 20576407552,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.12,
+        "price": 34.34,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.23392348,
-            "marketCap": 7079595008,
+            "change": 0.40935493,
+            "marketCap": 7125243392,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
