@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.65,
+        "price": 46.78,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5387931,
-            "marketCap": 206792507392,
+            "change": 0.81913257,
+            "marketCap": 207368765440,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.089832
+            "yearTarget": 47.092422
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.4,
+        "price": 1.3367,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.4084494,
-            "marketCap": 131360856,
+            "change": -5.866197,
+            "marketCap": 125421464,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,12 +312,12 @@
         },
         "NEWS": [
             {
-                "title": "Rocket Lab stock jumps for second day as SpaceX IPO looms",
-                "summary": "Rocket Lab stock extended its surge for a second consecutive trading day Monday as investors continue buying following the company's strong quarterly report \u2014 and with an SpaceX IPO on the horizon.",
-                "source": "Yahoo Finance",
+                "title": "Report: Google and SpaceX in talks to put data centers into orbit",
+                "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
+                "source": "TechCrunch",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/rocket-lab-stock-jumps-for-second-day-as-spacex-ipo-looms-180717617.html",
-                "publishDate": "2026-05-11T18:07:17Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/report-google-spacex-talks-put-173057227.html",
+                "publishDate": "2026-05-12T17:30:57Z",
                 "premium": false,
                 "freemium": false
             },
@@ -342,22 +342,12 @@
                 "freemium": false
             },
             {
-                "title": "Google, SpaceX in talks to explore data centers in orbit, WSJ reports",
-                "summary": "Alphabet's Google is in talks with Elon Musk's SpaceX for a rocket launch deal as the \u200csearch giant looks to put orbital data centers in \u200cspace, the Wall Street Journal reported on Tuesday, citing people familiar with the discussions.  Google \u200bis also in discussions about a potential deal with other rocket-launch companies, the report said.  SpaceX and Google did not immediately respond to Reuters' requests for comments.",
+                "title": "Google in talks with SpaceX for Suncatcher orbital data center project",
+                "summary": "Alphabet's Google on Tuesday said it has been in discussions with Elon Musk's SpaceX and \u200cothers regarding future launches for its Project Suncatcher, an \u200corbital data center project.  Google is pushing the space-based data center idea with Project \u200bSuncatcher, a research effort to network solar-powered satellites equipped with its Tensor Processing Units into an orbital AI cloud.  The company plans an initial prototype launch with partner Planet Labs around 2027.",
                 "source": "Reuters",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/google-spacex-talks-explore-data-161302017.html",
                 "publishDate": "2026-05-12T16:13:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Forget the SpaceX IPO: Why Rocket Lab Is the Smarter Space Stock Buy",
-                "summary": "SpaceX\u2019s IPO could become one of the market\u2019s biggest events, but history suggests mega IPOs often disappoint after launch. Rocket Lab is taking a different path with growing revenue, expanding capabilities, and a proven launch business.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/1871726/forget-the-spacex-ipo-why-rocket-lab-is-the-smarter-space-stock-buy",
-                "publishDate": "2026-05-12T11:30:02Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,6 +400,16 @@
                 "publishDate": "2026-05-11T21:32:18Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "Microsoft boss 'proud' of profit-making OpenAI investment",
+                "summary": "Microsoft CEO Satya Nadella said Monday he was \"very proud\" of his company's profitable early investment in OpenAI, as he took the stand in Elon Musk's blockbuster lawsuit against the leaders of the AI giant behind ChatGPT.\nMusk -- an early benefactor of the original nonprofit company -- claims Microsoft knowingly helped OpenAI's creators betray their philanthropic mission and turn the firm into a cash cow.Nadella told a jury in Oakland, California, on Monday that Microsoft's investment in the n",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
+                "publishDate": "2026-05-11T21:31:42Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.24,
+        "price": 29.265,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9668532,
-            "marketCap": 20927100928,
+            "change": 1.0531778,
+            "marketCap": 20944992256,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.94,
+        "price": 35.155,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5756964,
-            "marketCap": 7249737728,
+            "change": 1.19458,
+            "marketCap": 7294348288,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
