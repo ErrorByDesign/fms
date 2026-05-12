@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.78,
+        "price": 46.8377,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.81913257,
-            "marketCap": 207368765440,
+            "change": 0.94337034,
+            "marketCap": 207624536064,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.092422
+            "yearTarget": 47.115208
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Stocks to Watch: Venture Global, GameStop, Wendy\u2019s, Hims & Hers",
+                "summary": "\u2197\ufe0f Venture Global (VG): Shares of the liquefied-natural-gas exporter rallied 16% after it reported a sharp increase in first-quarter revenue and profit. \u2197\ufe0f Wendy\u2019s (WEN): The stock surged 18% after the Financial Times reported that Nelson Peltz\u2019s Trian Fund Management is in talks to raisen funds for a bid to take the hamburger chain private.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/cpi-inflation-report-stock-market-05-12-2026/card/stocks-to-watch-venture-global-hims-hers-gopro-wP2U1txYmovodxs2kjKw?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-12T17:52:04Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Hims & Hers shares plunge after surprise loss and revenue miss",
                 "summary": "Hims & Hers drops after posting unexpected quarterly loss",
@@ -68,16 +78,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/glp-1-wars-winners-losers-155100530.html",
                 "publishDate": "2026-05-12T15:51:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Stocks to Watch: Venture Global, GameStop, Wendy\u2019s, Hims & Hers",
-                "summary": "\u2197\ufe0f Venture Global (VG): Shares of the liquefied-natural-gas exporter rallied after it reported a sharp increase in first-quarter revenue and profit. \u2197\ufe0f Wendy\u2019s (WEN): The stock surged premarket after the Financial Times reported that Nelson Peltz\u2019s Trian Fund Management is in talks to raisen funds for a bid to take the hamburger chain private.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/cpi-inflation-report-stock-market-05-12-2026/card/stocks-to-watch-venture-global-hims-hers-gopro-wP2U1txYmovodxs2kjKw?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-12T14:26:26Z",
                 "premium": false,
                 "freemium": false
             },
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "Tesla\u2019s AI Chip Pivot Reshapes Valuation Story For NasdaqGS TSLA",
+                "summary": "Tesla (NasdaqGS:TSLA) has outlined a Terafab semiconductor facility in Texas focused on AI and autonomy chips. The company is working with SpaceX and Intel on advanced chip production to support self-driving and AI workloads. Tesla is raising capital expenditure on AI compute and humanoid robotics while planning to double battery cell capacity at its Berlin factory. Regulators closed a U.S. Model Y steering probe without recall, while China and Europe move through key steps on Full...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-ai-chip-pivot-reshapes-181642343.html",
+                "publishDate": "2026-05-12T18:16:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Report: Google and SpaceX in talks to put data centers into orbit",
                 "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
                 "source": "TechCrunch",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-11T21:32:18Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Microsoft boss 'proud' of profit-making OpenAI investment",
-                "summary": "Microsoft CEO Satya Nadella said Monday he was \"very proud\" of his company's profitable early investment in OpenAI, as he took the stand in Elon Musk's blockbuster lawsuit against the leaders of the AI giant behind ChatGPT.\nMusk -- an early benefactor of the original nonprofit company -- claims Microsoft knowingly helped OpenAI's creators betray their philanthropic mission and turn the firm into a cash cow.Nadella told a jury in Oakland, California, on Monday that Microsoft's investment in the n",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
-                "publishDate": "2026-05-11T21:31:42Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.265,
+        "price": 29.23,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0531778,
-            "marketCap": 20944992256,
+            "change": 0.932322,
+            "marketCap": 20919943168,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.155,
+        "price": 35.49,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.19458,
-            "marketCap": 7294348288,
+            "change": 2.1588945,
+            "marketCap": 7363858432,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
