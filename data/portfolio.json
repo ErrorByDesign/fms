@@ -20,7 +20,7 @@
             "marketCap": 208343990272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.12239
+            "yearTarget": 47.11551
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Meet The New IPO Trying To Take On Eli Lilly And Novo Nordisk In Obesity",
+                "summary": "Analysts initiated covered Tuesday of IPO stock Kailera Therapeutics, a potential competitor to Lilly and Novo in obesity treatment.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/kailera-therapeutics-ipo-stock-obesity-treatment/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-12T20:26:49Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why This Novo Nordisk-Tied Telehealth Titan Just Went Into Free Fall",
+                "summary": "Hims & Hers slashed its profitability outlook for 2026. The news sent Hims stock into free fall Tuesday morning.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/hims-stock-hims-her-health-earnings-q1-2026/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-12T20:26:20Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Sector Update: Healthcare Stocks Advance Late Afternoon",
                 "summary": "Healthcare stocks advanced late Tuesday afternoon, with the NYSE Healthcare Index and the State Stre",
@@ -62,16 +82,6 @@
                 "freemium": false
             },
             {
-                "title": "Meet The New IPO Trying To Take On Eli Lilly And Novo Nordisk In Obesity",
-                "summary": "Analysts initiated covered Tuesday of IPO stock Kailera Therapeutics, a potential competitor to Lilly and Novo in obesity treatment.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/kailera-therapeutics-ipo-stock-obesity-treatment/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-12T16:49:15Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "European Stocks Fall in Tuesday Trading; German Inflation Rises",
                 "summary": "European stock markets fell in late Tuesday trading as oil prices rose after negotiations between th",
                 "source": "MT Newswires",
@@ -88,16 +98,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/glp-1-wars-winners-losers-155100530.html",
                 "publishDate": "2026-05-12T15:51:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why This Novo Nordisk-Tied Telehealth Titan Just Went Into Free Fall",
-                "summary": "Hims & Hers slashed its profitability outlook for 2026. The news sent Hims stock into free fall Tuesday morning.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/hims-stock-hims-her-health-earnings-q1-2026/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-12T14:01:26Z",
                 "premium": false,
                 "freemium": false
             },
