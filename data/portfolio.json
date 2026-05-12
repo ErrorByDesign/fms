@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.565,
+        "price": 46.54,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.3555972,
-            "marketCap": 206415691776,
+            "change": 0.30172282,
+            "marketCap": 206304886784,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.084732
+            "yearTarget": 47.091534
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,6 +32,26 @@
         },
         "NEWS": [
             {
+                "title": "Hims & Hers shares plunge after surprise loss and revenue miss",
+                "summary": "Hims & Hers drops after posting unexpected quarterly loss",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/hims-hers-shares-plunge-surprise-170147791.html",
+                "publishDate": "2026-05-12T17:01:47Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Meet The New IPO Trying To Take On Eli Lilly And Novo Nordisk In Obesity",
+                "summary": "Analysts initiated covered Tuesday of IPO stock Kailera Therapeutics, a potential competitor to Lilly and Novo in obesity treatment.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/kailera-therapeutics-ipo-stock-obesity-treatment/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-12T16:49:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "European Stocks Fall in Tuesday Trading; German Inflation Rises",
                 "summary": "European stock markets fell in late Tuesday trading as oil prices rose after negotiations between th",
                 "source": "MT Newswires",
@@ -39,6 +59,16 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-fall-tuesday-trading-155357395.html",
                 "publishDate": "2026-05-12T15:53:57Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "GLP-1 Wars: Winners & Losers",
+                "summary": "With its best-in-breed GLP-1 drugs, Eli Lilly is beginning to cement itself as the dominant player in the massive GLP-1 market.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/glp-1-wars-winners-losers-155100530.html",
+                "publishDate": "2026-05-12T15:51:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -98,36 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/hims-hers-raises-2026-revenue-201745162.html",
                 "publishDate": "2026-05-11T23:40:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hims & Hers Health Swings to First-Quarter Loss as Weight-Loss Pivot Drives Up Costs",
-                "summary": "The telehealth platform also warned it could face further profit pressures ahead, citing heavier investments in areas such as international expansion and technology.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/business/earnings/hims-hers-health-swings-to-first-quarter-loss-as-expenses-rise-dbcf1dc4?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-11T23:04:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Hands Parkinson's Therapy To $60 Million AI Startup",
-                "summary": "Cellular Intelligence gains rights to Novo's early-stage Parkinson's program and plans a mid-stage study early next year.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-hands-parkinsons-therapy-60-214937511.html",
-                "publishDate": "2026-05-11T21:49:37Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Refocuses On GLP\u20111 As AI Partner Advances Parkinson\u2019s Bet",
-                "summary": "Novo Nordisk (CPSE:NOVO B) has licensed its clinical-stage allogeneic cell therapy program for Parkinson's disease to Cellular Intelligence. The program includes an ongoing Phase 1/2 trial and holds FDA Fast Track status. Novo Nordisk is exiting direct cell therapy operations while taking an equity stake in Cellular Intelligence. Cellular Intelligence plans to use its AI platform to support development of the Parkinson's therapy. Novo Nordisk, trading at DKK300.6, is best known for its GLP...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-refocuses-glp-1-201553944.html",
-                "publishDate": "2026-05-11T20:15:53Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,6 +322,26 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX, Google in orbital data center talks: report",
+                "summary": "Alphabet's Google and SpaceX are in advanced discussions over to launch data centers in space, the Wall Street Journal reported on Tuesday.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-google-in-orbital-data-center-talks-report-170905721.html",
+                "publishDate": "2026-05-12T17:09:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Google, SpaceX in talks to explore data centers in orbit, WSJ reports",
+                "summary": "Alphabet's Google is in talks with Elon Musk's SpaceX for a rocket launch deal as the \u200csearch giant looks to put orbital data centers in \u200cspace, the Wall Street Journal reported on Tuesday, citing people familiar with the discussions.  Google \u200bis also in discussions about a potential deal with other rocket-launch companies, the report said.  SpaceX and Google did not immediately respond to Reuters' requests for comments.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/google-spacex-talks-explore-data-161302017.html",
+                "publishDate": "2026-05-12T16:13:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Just Hit an All-Time High in Private-Market Trading -- but History Stands Ready to Inject a Dose of Reality",
                 "summary": "Although SpaceX IPO buzz is off the charts, history suggests an unpleasant surprise awaits retail investors.",
                 "source": "Motley Fool",
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-11T20:29:38Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Who\u2019s Traveling to China With Trump in the U.S. Business Delegation?",
-                "summary": "More than a dozen top U.S. business leaders will travel to China for President Trump\u2019s visit this week with Chinese President Xi Jinping, representing various American industries from finance to manufacturing.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-11-2026/card/who-s-traveling-to-china-with-trump-in-the-u-s-business-delegation--KyE7595H2fWPE2fK1TU2?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-11T18:20:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "While Everyone's Obsessed With the SpaceX IPO, These 3 Quantum Computing Stocks Just Quietly Went Public",
-                "summary": "These companies could shape the future of quantum computing.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/11/while-everyones-obsessed-with-the-spacex-ipo-these/",
-                "publishDate": "2026-05-11T18:20:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.24,
+        "price": 29.325,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9671872,
-            "marketCap": 20927100928,
+            "change": 1.260365,
+            "marketCap": 20987936768,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.3,
+        "price": 34.77,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2665585,
-            "marketCap": 7116943360,
+            "change": 0.08635227,
+            "marketCap": 7214464512,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
