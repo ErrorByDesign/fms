@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.52,
+        "price": 46.495,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.25861838,
-            "marketCap": 206216232960,
+            "change": 0.20473579,
+            "marketCap": 206105395200,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.0905
+            "yearTarget": 47.111362
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Stocks Fall in Tuesday Trading; German Inflation Rises",
+                "summary": "European stock markets fell in late Tuesday trading as oil prices rose after negotiations between th",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-fall-tuesday-trading-155357395.html",
+                "publishDate": "2026-05-12T15:53:57Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Stocks to Watch: Venture Global, GameStop, Wendy\u2019s, Hims & Hers",
                 "summary": "\u2197\ufe0f Venture Global (VG): Shares of the liquefied-natural-gas exporter rallied after it reported a sharp increase in first-quarter revenue and profit. \u2197\ufe0f Wendy\u2019s (WEN): The stock surged premarket after the Financial Times reported that Nelson Peltz\u2019s Trian Fund Management is in talks to raisen funds for a bid to take the hamburger chain private.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-refocuses-glp-1-201553944.html",
                 "publishDate": "2026-05-11T20:15:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly, GLP-1 Troubles Are Dragging Down This Healthcare ETF",
-                "summary": "Eli Lilly faces challenges in the GLP-1 market, with Novo Nordisk gaining a timing advantage in both injectable and oral drug approvals.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/healthcare-etf-eli-lilly-glp-1-stock-edea6da5?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-11T19:33:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,16 +322,6 @@
                 "freemium": false
             },
             {
-                "title": "AST SpaceMobile Stock Drops 10% on Weak Sales. There Is a Silver Lining.",
-                "summary": "AST SpaceMobile  stock fell after the company reported weaker-than-expected first-quarter numbers.  Wall Street was looking for a per-share loss of 23 cents from sales of $39 million.  It\u2019s a miss, but AST maintained full-year revenue guidance of between $150 million and $200 million.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/ast-spacemobile-earnings-stock-price-d0c5ed22?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-12T14:17:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "SpaceX Just Hit an All-Time High in Private-Market Trading -- but History Stands Ready to Inject a Dose of Reality",
                 "summary": "Although SpaceX IPO buzz is off the charts, history suggests an unpleasant surprise awaits retail investors.",
                 "source": "Motley Fool",
@@ -410,6 +400,16 @@
                 "publishDate": "2026-05-11T18:20:56Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "While Everyone's Obsessed With the SpaceX IPO, These 3 Quantum Computing Stocks Just Quietly Went Public",
+                "summary": "These companies could shape the future of quantum computing.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/11/while-everyones-obsessed-with-the-spacex-ipo-these/",
+                "publishDate": "2026-05-11T18:20:00Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.655,
+        "price": 29.45,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.3998675,
-            "marketCap": 21224116224,
+            "change": 1.6919948,
+            "marketCap": 21077399552,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.0603,
+        "price": 34.22,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9565421,
-            "marketCap": 7067207680,
+            "change": -1.4968349,
+            "marketCap": 7100344832,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
