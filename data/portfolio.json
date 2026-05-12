@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.89,
+        "price": 46.895,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0560298,
-            "marketCap": 207856386048,
+            "change": 1.066808,
+            "marketCap": 207878553600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.13728
+            "yearTarget": 47.13039
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Alphabet SpaceX Talks Put Orbital Data Centers And Valuation In Focus",
+                "summary": "Alphabet and SpaceX are reported to be in advanced talks to launch Google data centers into orbit. The potential partnership would combine Alphabet's cloud and AI capabilities with SpaceX's satellite launch and Starlink infrastructure. The move would aim to create space based data centers that could support global connectivity and new types of cloud services. For investors watching Alphabet (NasdaqGS:GOOGL), this potential partnership comes at a time when the stock trades at $388.64 and has...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/alphabet-spacex-talks-put-orbital-192612429.html",
+                "publishDate": "2026-05-12T19:26:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tesla\u2019s AI Chip Pivot Reshapes Valuation Story For NasdaqGS TSLA",
                 "summary": "Tesla (NasdaqGS:TSLA) has outlined a Terafab semiconductor facility in Texas focused on AI and autonomy chips. The company is working with SpaceX and Intel on advanced chip production to support self-driving and AI workloads. Tesla is raising capital expenditure on AI compute and humanoid robotics while planning to double battery cell capacity at its Berlin factory. Regulators closed a U.S. Model Y steering probe without recall, while China and Europe move through key steps on Full...",
                 "source": "Simply Wall St.",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-12T09:05:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "AST SpaceMobile shares tumble 12% on wider-than-expected first quarter loss",
-                "summary": "Investing.com -- Ast Spacemobile Inc (NASDAQ:ASTS) shares tumbled 12.5% in premarket trading Tuesday following the release of its first-quarter financial results. The satellite designer reported a loss that significantly exceeded Wall Street expectations, overshadowing news of regulatory progress and upcoming launch milestones. The Midland, Texas-based company posted a quarterly loss of $0.66 per share, missing the analyst consensus estimate of a $0.21 loss. Revenue for the period reached $14.73",
-                "source": "Investing.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-shares-drop-wider-214904059.html",
-                "publishDate": "2026-05-11T21:49:04Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.335,
+        "price": 29.4,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2948896,
-            "marketCap": 20995092480,
+            "change": 1.519339,
+            "marketCap": 21041612800,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.765,
+        "price": 35.885,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9504826,
-            "marketCap": 7420918272,
+            "change": 3.2959027,
+            "marketCap": 7445816832,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
