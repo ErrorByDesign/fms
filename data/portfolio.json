@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.8377,
+        "price": 46.89,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.94337034,
-            "marketCap": 207624536064,
+            "change": 1.0560298,
+            "marketCap": 207856386048,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.115208
+            "yearTarget": 47.13728
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,12 +312,32 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX, Google in orbital data center talks: Report",
+                "summary": "Alphabet's Google and SpaceX are in advanced discussions over to launch data centers in space, the Wall Street Journal reported on Tuesday.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-google-in-orbital-data-center-talks-report-170905721.html",
+                "publishDate": "2026-05-12T17:09:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tesla\u2019s AI Chip Pivot Reshapes Valuation Story For NasdaqGS TSLA",
                 "summary": "Tesla (NasdaqGS:TSLA) has outlined a Terafab semiconductor facility in Texas focused on AI and autonomy chips. The company is working with SpaceX and Intel on advanced chip production to support self-driving and AI workloads. Tesla is raising capital expenditure on AI compute and humanoid robotics while planning to double battery cell capacity at its Berlin factory. Regulators closed a U.S. Model Y steering probe without recall, while China and Europe move through key steps on Full...",
                 "source": "Simply Wall St.",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-ai-chip-pivot-reshapes-181642343.html",
                 "publishDate": "2026-05-12T18:16:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "How Big Do Elon Musk Backers Think SpaceX Can Be? This One Says $10 Trillion\u2014Or More",
+                "summary": "Baron Capital's Ron Baron thinks Elon Musk's SpaceX could eventually be \"the largest company on the planet\" with a market capitalization of $30 trillion.",
+                "source": "Investopedia",
+                "category": "finance",
+                "url": "https://www.investopedia.com/how-big-do-elon-musk-backers-think-spacex-can-be-this-one-says-usd10-trillion-or-more-ipo-11972677",
+                "publishDate": "2026-05-12T17:43:48Z",
                 "premium": false,
                 "freemium": false
             },
@@ -338,16 +358,6 @@
                 "category": "finance",
                 "url": "https://qz.com/google-spacex-orbital-data-centers-talks-051226",
                 "publishDate": "2026-05-12T17:17:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX, Google in orbital data center talks: Report",
-                "summary": "Alphabet's Google and SpaceX are in advanced discussions over to launch data centers in space, the Wall Street Journal reported on Tuesday.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-google-in-orbital-data-center-talks-report-170905721.html",
-                "publishDate": "2026-05-12T17:09:05Z",
                 "premium": false,
                 "freemium": false
             },
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-11T21:49:04Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Stock Market Today, May 11: Markets Inch Upwards Even As Oil Prices Rise",
-                "summary": "On May 11, 2026, AI and chip stocks fueled fresh records as surging oil and valuation warnings tested nerves.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/coverage/stock-market-today/2026/05/11/stock-market-today-may-11-markets-eke-small-gains-as-oil-rises/",
-                "publishDate": "2026-05-11T21:32:18Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.23,
+        "price": 29.335,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.932322,
-            "marketCap": 20919943168,
+            "change": 1.2948896,
+            "marketCap": 20995092480,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.49,
+        "price": 35.765,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1588945,
-            "marketCap": 7363858432,
+            "change": 2.9504826,
+            "marketCap": 7420918272,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
