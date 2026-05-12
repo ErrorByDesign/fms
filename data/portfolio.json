@@ -20,7 +20,7 @@
             "marketCap": 208343990272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.11551
+            "yearTarget": 47.12017
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -280,7 +280,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 639.27,
+        "price": 641.51,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -296,10 +296,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.82,
-            "marketCap": 1517475594240,
+            "change": 0.29,
+            "marketCap": 1522792923136,
             "weekLow": 202.09,
-            "weekHigh": 639.27,
+            "weekHigh": 641.51,
             "yearTarget": null
         },
         "FUNDING": {
@@ -318,6 +318,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/article/spacex-google-in-orbital-data-center-talks-report-170905721.html",
                 "publishDate": "2026-05-12T17:09:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX eyes global spaceports as Starship launch ambitions grow ahead of IPO",
+                "summary": "SpaceX is scouting potential U.S. and overseas locations to build \"spaceports\", CEO Elon Musk said in a post \u200con X on Tuesday, as the company prepares for a \u200cfuture in which its massive Starship rocket could launch thousands of times a year.  Unlike traditional \u200bexpendable rockets, Starship is designed for rapid reuse with minimal refurbishment, a capability SpaceX says is essential for lowering launch costs and enabling thousands of flights annually.  The fully reusable rocket system, designed to carry more than \u200c100 metric tons of \u2060cargo, is central to Musk's long-term plans for Mars colonization, satellite deployment and rapid global transportation.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/spacex-eyes-global-spaceports-starship-213006594.html",
+                "publishDate": "2026-05-12T21:30:06Z",
                 "premium": false,
                 "freemium": false
             },
@@ -398,16 +408,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-signs-1-8-billion-100044638.html",
                 "publishDate": "2026-05-12T10:00:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can't Buy SpaceX Yet? Here Are 5 Ways to Get Exposure Before the IPO.",
-                "summary": "Investors who don't want to wait for SpaceX's official debut can get in the game now with this quintet of options.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/12/buy-spacex-ipo-yet-5-ways-get-exposure/",
-                "publishDate": "2026-05-12T09:05:00Z",
                 "premium": false,
                 "freemium": false
             }
