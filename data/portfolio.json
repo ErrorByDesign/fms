@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.4,
+        "price": 46.5401,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.716305,
-            "marketCap": 205684293632,
+            "change": 0.30193657,
+            "marketCap": 206305329152,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.196705
+            "yearTarget": 47.076973
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,56 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Stocks to Watch: Venture Global, GameStop, Wendy\u2019s, Hims & Hers",
+                "summary": "\u2197\ufe0f Venture Global (VG): Shares of the liquefied-natural-gas exporter rallied after it reported a sharp increase in first-quarter revenue and profit. \u2197\ufe0f Wendy\u2019s (WEN): The stock surged premarket after the Financial Times reported that Nelson Peltz\u2019s Trian Fund Management is in talks to raisen funds for a bid to take the hamburger chain private.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/cpi-inflation-report-stock-market-05-12-2026/card/stocks-to-watch-venture-global-hims-hers-gopro-wP2U1txYmovodxs2kjKw?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-12T14:26:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why This Novo Nordisk-Tied Telehealth Titan Just Went Into Free Fall",
+                "summary": "Hims & Hers slashed its profitability outlook for 2026. The news sent Hims stock into free fall Tuesday morning.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/hims-stock-hims-her-health-earnings-q1-2026/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-12T14:01:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "US Equity Futures Lower Pre-Bell as Trump Says Middle East Ceasefire on 'Life Support'",
+                "summary": "US equity futures were lower pre-bell Tuesday as the standoff continued in the Middle East, with the",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-131458557.html",
+                "publishDate": "2026-05-12T13:14:58Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Here is What to Know Beyond Why Novo Nordisk A/S (NVO) is a Trending Stock",
+                "summary": "Zacks.com users have recently been watching Novo Nordisk (NVO) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-novo-nordisk-130004151.html",
+                "publishDate": "2026-05-12T13:00:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Tuesday Amid Consumer Inflation Report Release",
+                "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.5% and the actively tr",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-124800218.html",
+                "publishDate": "2026-05-12T12:48:00Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Hims & Hers misses revenue estimates as strategy shift hits sales",
                 "summary": "By Amina Niasse and Siddhi Mahatole May 11 (Reuters) - Hims & Hers Health missed Wall Street estimates for first-quarter revenue and posted a surprise loss on Monday, as the telehealth company's shift",
@@ -62,16 +112,6 @@
                 "freemium": false
             },
             {
-                "title": "Hims & Hers reports surprise loss in Q1, shares dive after hours",
-                "summary": "Investing.com -- Hims & Hers missed first-quarter earnings estimates, posting a loss as weakness in its American operations offset gains overseas.",
-                "source": "Investing.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/hims-hers-reports-surprise-loss-205607096.html",
-                "publishDate": "2026-05-11T20:56:07Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Novo Nordisk Refocuses On GLP\u20111 As AI Partner Advances Parkinson\u2019s Bet",
                 "summary": "Novo Nordisk (CPSE:NOVO B) has licensed its clinical-stage allogeneic cell therapy program for Parkinson's disease to Cellular Intelligence. The program includes an ongoing Phase 1/2 trial and holds FDA Fast Track status. Novo Nordisk is exiting direct cell therapy operations while taking an equity stake in Cellular Intelligence. Cellular Intelligence plans to use its AI platform to support development of the Parkinson's therapy. Novo Nordisk, trading at DKK300.6, is best known for its GLP...",
                 "source": "Simply Wall St.",
@@ -88,46 +128,6 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/healthcare-etf-eli-lilly-glp-1-stock-edea6da5?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-11T19:33:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk transfers Parkinson's cell therapy to Cellular Intelligence",
-                "summary": "Cellular Intelligence is acquiring STEM-PD, a Phase 2-ready cell therapy, and plans to use AI to accelerate development and manufacturing",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/novo-nordisk-stem-pd-parkinson-cellular-intelligence-051126",
-                "publishDate": "2026-05-11T17:24:27Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Cellular Intelligence licenses Novo\u2019s shelved Parkinson\u2019s cell therapy programme",
-                "summary": "Novo Nordisk shuttered its cell therapy unit in October 2025, with assets now moving to new hands.",
-                "source": "Pharmaceutical Technology",
-                "category": "finance",
-                "url": "https://www.pharmaceutical-technology.com/news/cellular-intelligence-licenses-novos-shelved-parkinsons-cell-therapy-programme/",
-                "publishDate": "2026-05-11T17:05:13Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "NVO Rallies 21% in a Month: How Should Investors Play the Stock?",
-                "summary": "Novo Nordisk stock jumps 21% in a month after a Q1 beat and stronger GLP-1 demand, but pricing pressure and Eli Lilly rivalry still cloud its 2026 outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/nvo-rallies-21-month-investors-152300557.html",
-                "publishDate": "2026-05-11T15:23:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk GLP-1 pill launch impresses but price erosion keeps Citi on the sidelines",
-                "summary": "Shares in Novo Nordisk (NYSE:NVO) drew a cautious reception from Citi following first-quarter results that beat consensus expectations, with the bank raising its target price but retaining a neutral rating as concerns over portfolio price erosion and long-term obesity market competition outweigh...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1092040/novo-nordisk-glp-1-pill-launch-impresses-but-price-erosion-keeps-citi-on-the-sidelines-1092040.html",
-                "publishDate": "2026-05-11T13:02:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.709219,
+            "change": 0.0,
             "marketCap": 133237440,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -280,7 +280,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 634.05,
+        "price": 639.27,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -296,10 +296,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.17,
-            "marketCap": 1505084571648,
-            "weekLow": 201.49,
-            "weekHigh": 634.05,
+            "change": 0.82,
+            "marketCap": 1517475594240,
+            "weekLow": 202.09,
+            "weekHigh": 639.27,
             "yearTarget": null
         },
         "FUNDING": {
@@ -322,8 +322,48 @@
                 "freemium": false
             },
             {
-                "title": "AST SpaceMobile shares drop on wider-than-expected first quarter loss",
-                "summary": "Investing.com -- Ast Spacemobile Inc (NASDAQ:ASTS) shares fell 11.3% in after-hours trading Monday following the release of its first-quarter financial results. The satellite designer reported a loss that significantly exceeded Wall Street expectations, overshadowing news of regulatory progress and upcoming launch milestones. The Midland, Texas-based company posted a quarterly loss of $0.66 per share, missing the analyst consensus estimate of a $0.21 loss. Revenue for the period reached $14.73 m",
+                "title": "AST SpaceMobile Stock Drops 10% on Weak Sales. There Is a Silver Lining.",
+                "summary": "AST SpaceMobile  stock fell after the company reported weaker-than-expected first-quarter numbers.  Wall Street was looking for a per-share loss of 23 cents from sales of $39 million.  It\u2019s a miss, but AST maintained full-year revenue guidance of between $150 million and $200 million.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/ast-spacemobile-earnings-stock-price-d0c5ed22?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-12T14:17:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Just Hit an All-Time High in Private-Market Trading -- but History Stands Ready to Inject a Dose of Reality",
+                "summary": "Although SpaceX IPO buzz is off the charts, history suggests an unpleasant surprise awaits retail investors.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/12/spacex-just-hit-record-high-private-market-trading/",
+                "publishDate": "2026-05-12T11:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic Signs $1.8 Billion Akamai Cloud Deal Amid Surging Claude AI Demand: Report",
+                "summary": "Anthropic reportedly signed a $1.8 billion, seven-year cloud computing deal with Akamai Technologies Inc. to expand AI infrastructure for Claude amid rising demand. Bloomberg, citing sources, reported the deal on Friday. AI Compute Expansion Deal On Thursday, Akamai announced its...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-signs-1-8-billion-100044638.html",
+                "publishDate": "2026-05-12T10:00:44Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Can't Buy SpaceX Yet? Here Are 5 Ways to Get Exposure Before the IPO.",
+                "summary": "Investors who don't want to wait for SpaceX's official debut can get in the game now with this quintet of options.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/12/buy-spacex-ipo-yet-5-ways-get-exposure/",
+                "publishDate": "2026-05-12T09:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "AST SpaceMobile shares tumble 12% on wider-than-expected first quarter loss",
+                "summary": "Investing.com -- Ast Spacemobile Inc (NASDAQ:ASTS) shares tumbled 12.5% in premarket trading Tuesday following the release of its first-quarter financial results. The satellite designer reported a loss that significantly exceeded Wall Street expectations, overshadowing news of regulatory progress and upcoming launch milestones. The Midland, Texas-based company posted a quarterly loss of $0.66 per share, missing the analyst consensus estimate of a $0.21 loss. Revenue for the period reached $14.73",
                 "source": "Investing.com",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ast-spacemobile-shares-drop-wider-214904059.html",
@@ -352,16 +392,6 @@
                 "freemium": false
             },
             {
-                "title": "AST SpaceMobile Stock Drops on Weak Sales. There Is a Silver Lining.",
-                "summary": "AST SpaceMobile  stock fell after the company reported weaker-than-expected first-quarter numbers.  Wall Street was looking for a per-share loss of 23 cents from sales of $39 million.  It\u2019s a miss, but AST maintained full-year revenue guidance of between $150 million and $200 million.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/ast-spacemobile-earnings-stock-price-d0c5ed22?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-11T20:58:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
                 "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
                 "source": "Investor's Business Daily",
@@ -380,36 +410,6 @@
                 "publishDate": "2026-05-11T18:20:56Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "While Everyone's Obsessed With the SpaceX IPO, These 3 Quantum Computing Stocks Just Quietly Went Public",
-                "summary": "These companies could shape the future of quantum computing.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/11/while-everyones-obsessed-with-the-spacex-ipo-these/",
-                "publishDate": "2026-05-11T18:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Before You Invest in SpaceX, Consider This Top Competitor",
-                "summary": "SpaceX isn't the only game in town.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/11/before-you-invest-in-spacex-consider-this-top-comp/",
-                "publishDate": "2026-05-11T17:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Companies Are Racing to Put Satellites in Low-Earth Orbit",
-                "summary": "Investors expect the market for low Earth orbit satellites to grow to about $108 billion by 2035. WSJ's Micah Maidenberg explains what's at stake for the corporate fight over LEO, and whether Amazon and others can put a dent in SpaceX's dominance there.",
-                "source": "WSJ",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/why-companies-racing-put-satellites-154500058.html",
-                "publishDate": "2026-05-11T15:45:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.96,
+        "price": 29.65,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.40056,
-            "marketCap": 20726704128,
+            "change": 2.3809543,
+            "marketCap": 21220538368,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.74,
+        "price": 34.13,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.57895,
-            "marketCap": 7208240128,
+            "change": -1.7559026,
+            "marketCap": 7081670656,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Assessing SSR Mining (TSX:SSRM) Valuation After Recent Share Price Momentum",
+                "summary": "Why SSR Mining Is On Investors\u2019 Radar SSR Mining (TSX:SSRM) has drawn attention after a period of strong share price moves, with the stock up 1.6% over the past day, 23.3% over the week, and 31.5% over the past 3 months. See our latest analysis for SSR Mining. That short term momentum sits on top of a longer run picture where the share price return is strong year to date, while the 1 year total shareholder return is even higher. If this kind of move has you looking across precious metals, it...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-ssr-mining-tsx-ssrm-132448700.html",
+                "publishDate": "2026-05-12T13:24:48Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Silver Standard Resources Holds Virtual 2026 AGM, Shareholders Approve Directors, Say-on-Pay, PwC",
                 "summary": "SSR Mining Inc. held its 2026 annual meeting of shareholders in a virtual format, with Executive Chairman Rod Antal presiding and outlining the meeting\u2019s procedures, voting rules, and agenda items. Virtual meeting procedures and voting At the outset, the operator noted the meeting was being recorde",
@@ -686,16 +696,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-ssr-mining-ssrm-134005362.html",
                 "publishDate": "2026-04-28T13:40:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's How Much You'd Have If You Invested $1000 in SSR Mining a Decade Ago",
-                "summary": "Investing in certain stocks can pay off in the long run, especially if you hold on for a decade or more.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-youd-invested-1000-123003840.html",
-                "publishDate": "2026-04-28T12:30:03Z",
                 "premium": false,
                 "freemium": false
             }
