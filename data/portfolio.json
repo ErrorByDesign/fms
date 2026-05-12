@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.895,
+        "price": 47.0,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.066808,
-            "marketCap": 207878553600,
+            "change": 1.2931,
+            "marketCap": 208343990272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.13039
+            "yearTarget": 47.12239
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Sector Update: Healthcare Stocks Advance Late Afternoon",
+                "summary": "Healthcare stocks advanced late Tuesday afternoon, with the NYSE Healthcare Index and the State Stre",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-advance-afternoon-195805365.html",
+                "publishDate": "2026-05-12T19:58:05Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Stocks to Watch: Venture Global, GameStop, Wendy\u2019s, Hims & Hers",
                 "summary": "\u2197\ufe0f Venture Global (VG): Shares of the liquefied-natural-gas exporter rallied 16% after it reported a sharp increase in first-quarter revenue and profit. \u2197\ufe0f Wendy\u2019s (WEN): The stock surged 18% after the Financial Times reported that Nelson Peltz\u2019s Trian Fund Management is in talks to raisen funds for a bid to take the hamburger chain private.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-12T12:48:00Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "Hims & Hers misses revenue estimates as strategy shift hits sales",
-                "summary": "By Amina Niasse and Siddhi Mahatole May 11 (Reuters) - Hims & Hers Health missed Wall Street estimates for first-quarter revenue and posted a surprise loss on Monday, as the telehealth company's shift",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/hims-hers-raises-2026-revenue-201745162.html",
-                "publishDate": "2026-05-11T23:40:39Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.3367,
+        "price": 1.36,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.866197,
-            "marketCap": 125421464,
+            "change": -4.2253485,
+            "marketCap": 127607688,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.4,
+        "price": 29.39,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.519339,
-            "marketCap": 21041612800,
+            "change": 1.4848077,
+            "marketCap": 21034455040,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.885,
+        "price": 35.74,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2959027,
-            "marketCap": 7445816832,
+            "change": 2.878526,
+            "marketCap": 7415731200,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
