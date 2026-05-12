@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.54,
+        "price": 46.65,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.30172282,
-            "marketCap": 206304886784,
+            "change": 0.5387931,
+            "marketCap": 206792507392,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.091534
+            "yearTarget": 47.089832
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,7 +322,17 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX, Google in orbital data center talks: report",
+                "title": "Google, SpaceX in talks to launch orbital data centers",
+                "summary": "A launch deal would make the two companies partners as they prepare to compete on orbital data centers, an unproven technology SpaceX is pitching to IPO investors",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/google-spacex-orbital-data-centers-talks-051226",
+                "publishDate": "2026-05-12T17:17:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX, Google in orbital data center talks: Report",
                 "summary": "Alphabet's Google and SpaceX are in advanced discussions over to launch data centers in space, the Wall Street Journal reported on Tuesday.",
                 "source": "Yahoo Finance",
                 "category": "finance",
@@ -338,6 +348,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/google-spacex-talks-explore-data-161302017.html",
                 "publishDate": "2026-05-12T16:13:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Forget the SpaceX IPO: Why Rocket Lab Is the Smarter Space Stock Buy",
+                "summary": "SpaceX\u2019s IPO could become one of the market\u2019s biggest events, but history suggests mega IPOs often disappoint after launch. Rocket Lab is taking a different path with growing revenue, expanding capabilities, and a proven launch business.",
+                "source": "Barchart",
+                "category": "finance",
+                "url": "https://www.barchart.com/story/news/1871726/forget-the-spacex-ipo-why-rocket-lab-is-the-smarter-space-stock-buy",
+                "publishDate": "2026-05-12T11:30:02Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-11T21:32:18Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Microsoft boss 'proud' of profit-making OpenAI investment",
-                "summary": "Microsoft CEO Satya Nadella said Monday he was \"very proud\" of his company's profitable early investment in OpenAI, as he took the stand in Elon Musk's blockbuster lawsuit against the leaders of the AI giant behind ChatGPT.\nMusk -- an early benefactor of the original nonprofit company -- claims Microsoft knowingly helped OpenAI's creators betray their philanthropic mission and turn the firm into a cash cow.Nadella told a jury in Oakland, California, on Monday that Microsoft's investment in the n",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-boss-testify-role-openais-011353498.html",
-                "publishDate": "2026-05-11T21:31:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Preps For Starship Flight; Cathie Wood To Rebalance Holdings",
-                "summary": "Elon Musk's SpaceX readies for potential Starship flight this week. Cathie Wood, ARK Invest may trim their SpaceX position post-IPO.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-starship-flight-12-elon-musk-delays-ark-invest-cathie-wood-spacex-holdings-orbital-data-centers/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-11T20:29:38Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.325,
+        "price": 29.24,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.260365,
-            "marketCap": 20987936768,
+            "change": 0.9668532,
+            "marketCap": 20927100928,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.77,
+        "price": 34.94,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.08635227,
-            "marketCap": 7214464512,
+            "change": 0.5756964,
+            "marketCap": 7249737728,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
