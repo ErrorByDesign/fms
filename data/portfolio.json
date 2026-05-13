@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.665,
+        "price": 46.8455,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.712764,
-            "marketCap": 206858993664,
+            "change": -0.32875988,
+            "marketCap": 207659122688,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.00193
+            "yearTarget": 47.00841
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,6 +32,16 @@
         },
         "NEWS": [
             {
+                "title": "Novo Nordisk Highlights New Wegovy Pill Data",
+                "summary": "Novo Nordisk A/S (NYSE:NVO) presented new analyses from its phase 3 OASIS 4 clinical trial at the European Congress on Obesity 2026 in Istanbul, highlighting the long-term weight loss potential and functional benefits of its oral obesity treatment, Wegovy pill. The company said adults treated with oral semaglutide 25 mg achieved clinically meaningful weight loss regardless of whether they experienced rapid early reductions in body weight. Early Responders Saw Greater Long-Term Weight Loss Accord",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-highlights-wegovy-pill-162846623.html",
+                "publishDate": "2026-05-13T16:28:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "European Stocks Rise in Wednesday Trading; Investors Monitor US-China Summit for Possible Easing of Trade Restrictions",
                 "summary": "The European stock markets were trending higher in Wednesday trading as investors monitor President",
                 "source": "MT Newswires",
@@ -39,6 +49,16 @@
                 "url": "https://finance.yahoo.com/news/european-stocks-rise-wednesday-trading-154938386.html",
                 "publishDate": "2026-05-13T15:49:38Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Dr. Reddy's Q4 Earnings and Revenues Miss Estimates, Stock Down",
+                "summary": "RDY stock down 5% on missing fiscal fourth-quarter 2026 earnings and revenue estimates as North America generics sales slumped.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/dr-reddys-q4-earnings-revenues-152300060.html",
+                "publishDate": "2026-05-13T15:23:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-12T20:26:49Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why This Novo Nordisk-Tied Telehealth Titan Just Went Into Free Fall",
-                "summary": "Hims & Hers slashed its profitability outlook for 2026. The news sent Hims stock into free fall Tuesday morning.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/hims-stock-hims-her-health-earnings-q1-2026/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-12T20:26:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Advance Late Afternoon",
-                "summary": "Healthcare stocks advanced late Tuesday afternoon, with the NYSE Healthcare Index and the State Stre",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-advance-afternoon-195805365.html",
-                "publishDate": "2026-05-12T19:58:05Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -175,6 +175,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Innate Pharma Q1 Earnings Call Highlights",
+                "summary": "Innate Pharma (NASDAQ:IPHA) said its first-quarter 2026 business update centered on three priority clinical assets: lacutamab in cutaneous T-cell lymphoma, the Nectin-4 antibody-drug conjugate IPH4502 in advanced solid tumors, and the AstraZeneca-partnered monalizumab program in non-small cell lung",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/innate-pharma-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-13T16:07:22Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "How Innate Pharma (ENXTPA:IPH) Story Is Shifting Around 2026 Catalysts And \u20ac8 Target",
                 "summary": "Analysts are now discussing an updated \u20ac8 price target for Innate Pharma, while the fair value estimate sits at \u20ac6.10 with no change to the underlying model. This shift is being framed around what both bullish and bearish voices see in the 2026 catalyst cluster, including funding needs and how upcoming oncology readouts could influence sentiment. As you read on, you will see how these moving pieces fit together and what to watch as the story develops. Stay updated as the Fair Value for Innate...",
@@ -426,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.14,
+        "price": 29.185,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.8506295,
-            "marketCap": 20855529472,
+            "change": -0.6975159,
+            "marketCap": 20887736320,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.16,
+        "price": 35.1,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6228366,
-            "marketCap": 7295386112,
+            "change": -1.7907196,
+            "marketCap": 7282936320,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
