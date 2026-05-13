@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.815,
+        "price": 46.665,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.39361995,
-            "marketCap": 207523905536,
+            "change": -0.712764,
+            "marketCap": 206858993664,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.016594
+            "yearTarget": 47.00193
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Stocks Rise in Wednesday Trading; Investors Monitor US-China Summit for Possible Easing of Trade Restrictions",
+                "summary": "The European stock markets were trending higher in Wednesday trading as investors monitor President",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/european-stocks-rise-wednesday-trading-154938386.html",
+                "publishDate": "2026-05-13T15:49:38Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "The Silver Tsunami: Healthcare ETFs to Buy Amid Aging US Demographics",
+                "summary": "ETFs like XLV stand out as aging U.S. demographics fuel rising demand for healthcare, medical devices and senior-focused care.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/silver-tsunami-healthcare-etfs-buy-143900457.html",
+                "publishDate": "2026-05-13T14:39:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Ahead of US-China Meeting",
                 "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-12T19:58:05Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "Hims & Hers shares plunge after surprise loss and revenue miss",
-                "summary": "Hims & Hers drops after posting unexpected quarterly loss",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/hims-hers-shares-plunge-surprise-170147791.html",
-                "publishDate": "2026-05-12T17:01:47Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Stocks Fall in Tuesday Trading; German Inflation Rises",
-                "summary": "European stock markets fell in late Tuesday trading as oil prices rose after negotiations between th",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-fall-tuesday-trading-155357395.html",
-                "publishDate": "2026-05-12T15:53:57Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.36,
+        "price": 1.3305,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 127607688,
+            "change": -2.1691182,
+            "marketCap": 124839728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
                 "freemium": false
             },
             {
+                "title": "Why Gilat Satellite Networks Stock Crashed Today",
+                "summary": "Gilat is doing fine, but after its stock price tripled in a year, investors wanted more than just \"fine.\"",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/13/why-gilat-satellite-networks-stock-crashed-today/",
+                "publishDate": "2026-05-13T16:09:52Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX And Google Explore Wild AI Infrastructure Idea",
                 "summary": "Orbital data centers may tackle future AI power demands",
                 "source": "GuruFocus.com",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-05-12T22:30:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Wall Street Waits for the SpaceX IPO, These 2 Under-the-Radar IPOs Could Already Be Making You Money",
-                "summary": "Heartflow and Neptune Insurance deserve a closer look.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/12/while-wall-street-waits-for-the-spacex-ipo-these-x/",
-                "publishDate": "2026-05-12T21:50:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.155,
+        "price": 29.14,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.7997234,
-            "marketCap": 20866267136,
+            "change": -0.8506295,
+            "marketCap": 20855529472,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.26,
+        "price": 35.16,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.3430424,
-            "marketCap": 7316134912,
+            "change": -1.6228366,
+            "marketCap": 7295386112,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
