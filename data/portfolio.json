@@ -20,7 +20,7 @@
             "marketCap": 208698638336,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.018806
+            "yearTarget": 47.021683
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Can Uber Make an \u201cEverything\u201d App?",
+                "summary": "First-quarter results indicated they have the momentum to do it.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/13/can-uber-make-an-everything-app/",
+                "publishDate": "2026-05-13T21:25:55Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Is Novo Nordisk's Rebound for Real--or Just a Head Fake?",
                 "summary": "The worst might be in the rearview mirror.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-102600215.html",
                 "publishDate": "2026-05-13T10:26:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk A/S Q1 Earnings Call Highlights",
-                "summary": "Novo Nordisk A/S (NYSE:NVO) said its first quarter of 2026 was marked by rapid uptake of its newly launched Wegovy pill in the U.S., continued expansion of its obesity franchise and a series of pipeline and regulatory milestones, even as adjusted sales declined because of lower realized prices. Chi",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/novo-nordisk-as-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-13T09:06:38Z",
                 "premium": false,
                 "freemium": false
             }
@@ -290,13 +290,13 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 641.51,
+        "price": 642.88,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
             "exchange": "PVT",
             "sector": "Space",
-            "industry": "Aerospace, Artificial Intelligence (AI), Hardware, Internet, Manufacturing, Satellite Communication, Space Travel",
+            "industry": "Aerospace, Artificial Intelligence (AI), Hardware, Information Services, Information Technology, Internet, Manufacturing, Satellite Communication, Space Travel",
             "country": "US",
             "year": "2002",
             "website": "https://www.spacex.com",
@@ -306,10 +306,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.29,
-            "marketCap": 1522792923136,
+            "change": 0.22,
+            "marketCap": 1526044950528,
             "weekLow": 202.09,
-            "weekHigh": 641.51,
+            "weekHigh": 642.88,
             "yearTarget": null
         },
         "FUNDING": {
@@ -328,16 +328,6 @@
                 "category": "finance",
                 "url": "https://www.investors.com/news/spacex-google-orbital-data-centers-partnership-rocket-launch-space-stocks-intuitive-machines-lunr/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-05-13T20:13:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Musk\u2019s xAI Races to Get Wall Street Firms to Use Grok Chatbot",
-                "summary": "(Bloomberg) -- Elon Musk\u2019s xAI has recruited multiple Wall Street firms with ties to the billionaire\u2019s business empire to test its Grok chatbot, according to people familiar with the matter, part of a push to bolster revenue ahead of parent company SpaceX\u2019s initial public offering.Most Read from BloombergAmbani\u2019s Cola War With Coke, Pepsi Spurs Fridge Bonanza in IndiaNvidia\u2019s CEO Joins Trump in China With AI in the SpotlightMamdani Scraps Property Tax Hike, Counts Second-Home RevenueInside a Yea",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/musk-xai-races-wall-street-193837389.html",
-                "publishDate": "2026-05-13T19:38:37Z",
                 "premium": false,
                 "freemium": false
             },
@@ -418,6 +408,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/news/spacex-google-explore-wild-ai-150945180.html",
                 "publishDate": "2026-05-13T15:09:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "One Prediction Market Pegs SpaceX's Chance of Closing Above $2 Trillion on Its IPO Day at 62% -- but Investors Will Likely Regret Chasing History",
+                "summary": "It's fair to question whether retail investors have become a bit overzealous about SpaceX.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/13/prediction-market-spacex-close-over-2-trillion-ipo/",
+                "publishDate": "2026-05-13T11:26:00Z",
                 "premium": false,
                 "freemium": false
             }
