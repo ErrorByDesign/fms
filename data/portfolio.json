@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.8455,
+        "price": 46.91,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.32875988,
-            "marketCap": 207659122688,
+            "change": -0.19148968,
+            "marketCap": 207945039872,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.00841
+            "yearTarget": 47.001415
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -49,6 +49,16 @@
                 "url": "https://finance.yahoo.com/news/european-stocks-rise-wednesday-trading-154938386.html",
                 "publishDate": "2026-05-13T15:49:38Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Lilly Bets on Next-Generation Obesity Drugs to Stay Ahead",
+                "summary": "LLY expands beyond tirzepatide with oral obesity pills and next-gen drugs like retatrutide to defend its lead in the booming weight-loss market.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/lilly-bets-next-generation-obesity-154700037.html",
+                "publishDate": "2026-05-13T15:47:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/news/novo-nordisk-wegovy-data-may-031841565.html",
                 "publishDate": "2026-05-13T03:18:41Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Meet The New IPO Trying To Take On Eli Lilly And Novo Nordisk In Obesity",
-                "summary": "Analysts initiated covered Tuesday of IPO stock Kailera Therapeutics, a potential competitor to Lilly and Novo in obesity treatment.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/kailera-therapeutics-ipo-stock-obesity-treatment/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-12T20:26:49Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,12 +322,12 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX, Google in orbital data center talks: Report",
-                "summary": "Alphabet's Google and SpaceX are in advanced discussions over to launch data centers in space, the Wall Street Journal reported on Tuesday.",
-                "source": "Yahoo Finance",
+                "title": "Here's What Happened After the 5 Biggest IPOs in Stock Market History",
+                "summary": "SpaceX is gearing up for what could be the largest IPO ever. What does history have to teach us?",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-google-in-orbital-data-center-talks-report-170905721.html",
-                "publishDate": "2026-05-12T17:09:05Z",
+                "url": "https://www.fool.com/investing/2026/05/13/what-happened-after-5-biggest-ipo-stock-spacex/",
+                "publishDate": "2026-05-13T16:50:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.185,
+        "price": 29.31,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.6975159,
-            "marketCap": 20887736320,
+            "change": -0.27220118,
+            "marketCap": 20977199104,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.1,
+        "price": 34.77,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7907196,
-            "marketCap": 7282936320,
+            "change": -2.714049,
+            "marketCap": 7214464512,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
