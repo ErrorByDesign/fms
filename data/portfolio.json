@@ -20,7 +20,7 @@
             "marketCap": 208343990272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.12017
+            "yearTarget": 47.11225
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -59,16 +59,6 @@
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-advance-afternoon-195805365.html",
                 "publishDate": "2026-05-12T19:58:05Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Stocks to Watch: Venture Global, GameStop, Wendy\u2019s, Hims & Hers",
-                "summary": "\u2197\ufe0f Venture Global (VG): Shares of the liquefied-natural-gas exporter rallied 16% after it reported a sharp increase in first-quarter revenue and profit. \u2197\ufe0f Wendy\u2019s (WEN): The stock surged 18% after the Financial Times reported that Nelson Peltz\u2019s Trian Fund Management is in talks to raisen funds for a bid to take the hamburger chain private.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/cpi-inflation-report-stock-market-05-12-2026/card/stocks-to-watch-venture-global-hims-hers-gopro-wP2U1txYmovodxs2kjKw?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-12T17:52:04Z",
-                "premium": false,
                 "freemium": false
             },
             {
@@ -130,6 +120,16 @@
                 "publishDate": "2026-05-12T12:48:00Z",
                 "premium": true,
                 "freemium": false
+            },
+            {
+                "title": "Hims & Hers misses revenue estimates as strategy shift hits sales",
+                "summary": "By Amina Niasse and Siddhi Mahatole May 11 (Reuters) - Hims & Hers Health missed Wall Street estimates for first-quarter revenue and posted a surprise loss on Monday, as the telehealth company's shift",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/hims-hers-raises-2026-revenue-201745162.html",
+                "publishDate": "2026-05-11T23:40:39Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.2253485,
+            "change": -4.22535,
             "marketCap": 127607688,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,6 +322,26 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX IPO: Here's What to Watch for Next (And It Could Be Crucial for Investors)",
+                "summary": "Mark your calendars: A key event may be days away.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/12/spacex-ipo-heres-what-to-watch-for-next/",
+                "publishDate": "2026-05-12T22:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Wall Street Waits for the SpaceX IPO, These 2 Under-the-Radar IPOs Could Already Be Making You Money",
+                "summary": "Heartflow and Neptune Insurance deserve a closer look.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/12/while-wall-street-waits-for-the-spacex-ipo-these-x/",
+                "publishDate": "2026-05-12T21:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX eyes global spaceports as Starship launch ambitions grow ahead of IPO",
                 "summary": "SpaceX is scouting potential U.S. and overseas locations to build \"spaceports\", CEO Elon Musk said in a post \u200con X on Tuesday, as the company prepares for a \u200cfuture in which its massive Starship rocket could launch thousands of times a year.  Unlike traditional \u200bexpendable rockets, Starship is designed for rapid reuse with minimal refurbishment, a capability SpaceX says is essential for lowering launch costs and enabling thousands of flights annually.  The fully reusable rocket system, designed to carry more than \u200c100 metric tons of \u2060cargo, is central to Musk's long-term plans for Mars colonization, satellite deployment and rapid global transportation.",
                 "source": "Reuters",
@@ -390,26 +410,6 @@
                 "publishDate": "2026-05-12T16:13:02Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Just Hit an All-Time High in Private-Market Trading -- but History Stands Ready to Inject a Dose of Reality",
-                "summary": "Although SpaceX IPO buzz is off the charts, history suggests an unpleasant surprise awaits retail investors.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/12/spacex-just-hit-record-high-private-market-trading/",
-                "publishDate": "2026-05-12T11:26:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Signs $1.8 Billion Akamai Cloud Deal Amid Surging Claude AI Demand: Report",
-                "summary": "Anthropic reportedly signed a $1.8 billion, seven-year cloud computing deal with Akamai Technologies Inc. to expand AI infrastructure for Claude amid rising demand. Bloomberg, citing sources, reported the deal on Friday. AI Compute Expansion Deal On Thursday, Akamai announced its...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-signs-1-8-billion-100044638.html",
-                "publishDate": "2026-05-12T10:00:44Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4848077,
+            "change": 1.48481,
             "marketCap": 21034455040,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.878526,
+            "change": 2.87853,
             "marketCap": 7415731200,
             "weekLow": 10.19,
             "weekHigh": 36.52,
