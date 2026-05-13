@@ -20,7 +20,7 @@
             "marketCap": 208698638336,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.010254
+            "yearTarget": 47.018806
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,12 +322,22 @@
         },
         "NEWS": [
             {
-                "title": "Alibaba Group Q4 Earnings Call Highlights",
-                "summary": "Alibaba Group (NYSE:BABA) said its stepped-up investments in artificial intelligence, cloud computing and consumption businesses are beginning to translate into faster revenue growth, even as those investments weighed heavily on adjusted earnings and free cash flow in the March quarter. On the comp",
-                "source": "MarketBeat",
+                "title": "Space Stocks Jump As SpaceX, Google Explore Orbital Data Center Deal",
+                "summary": "Space stocks advance on reports SpaceX, Google are in discussions for an orbital data center launch partnership. Intuitive Machines results are due.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/alibaba-group-q4-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-13T20:14:36Z",
+                "url": "https://www.investors.com/news/spacex-google-orbital-data-centers-partnership-rocket-launch-space-stocks-intuitive-machines-lunr/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-13T20:13:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk\u2019s xAI Races to Get Wall Street Firms to Use Grok Chatbot",
+                "summary": "(Bloomberg) -- Elon Musk\u2019s xAI has recruited multiple Wall Street firms with ties to the billionaire\u2019s business empire to test its Grok chatbot, according to people familiar with the matter, part of a push to bolster revenue ahead of parent company SpaceX\u2019s initial public offering.Most Read from BloombergAmbani\u2019s Cola War With Coke, Pepsi Spurs Fridge Bonanza in IndiaNvidia\u2019s CEO Joins Trump in China With AI in the SpotlightMamdani Scraps Property Tax Hike, Counts Second-Home RevenueInside a Yea",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/musk-xai-races-wall-street-193837389.html",
+                "publishDate": "2026-05-13T19:38:37Z",
                 "premium": false,
                 "freemium": false
             },
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/news/spacex-google-explore-wild-ai-150945180.html",
                 "publishDate": "2026-05-13T15:09:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "One Prediction Market Pegs SpaceX's Chance of Closing Above $2 Trillion on Its IPO Day at 62% -- but Investors Will Likely Regret Chasing History",
-                "summary": "It's fair to question whether retail investors have become a bit overzealous about SpaceX.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/13/prediction-market-spacex-close-over-2-trillion-ipo/",
-                "publishDate": "2026-05-13T11:26:00Z",
                 "premium": false,
                 "freemium": false
             }
