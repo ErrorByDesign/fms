@@ -20,7 +20,7 @@
             "marketCap": 208343990272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.11225
+            "yearTarget": 47.11107
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk Wegovy Data May Support Women\u2019s Health And Stock Thesis",
+                "summary": "Novo Nordisk presented new data at the European Congress on Obesity on high dose Wegovy (semaglutide 7.2 mg) from the STEP UP and SELECT trials and a large real world study. The results show substantial and consistent weight loss for women across life stages, including menopause, alongside reductions in body fat. The data highlight additional benefits tied to cardiovascular and mental health, including reduced risks of heart attack, stroke, migraine, and depression in menopausal...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/novo-nordisk-wegovy-data-may-031841565.html",
+                "publishDate": "2026-05-13T03:18:41Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Meet The New IPO Trying To Take On Eli Lilly And Novo Nordisk In Obesity",
                 "summary": "Analysts initiated covered Tuesday of IPO stock Kailera Therapeutics, a potential competitor to Lilly and Novo in obesity treatment.",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-124800218.html",
                 "publishDate": "2026-05-12T12:48:00Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Hims & Hers misses revenue estimates as strategy shift hits sales",
-                "summary": "By Amina Niasse and Siddhi Mahatole May 11 (Reuters) - Hims & Hers Health missed Wall Street estimates for first-quarter revenue and posted a surprise loss on Monday, as the telehealth company's shift",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/hims-hers-raises-2026-revenue-201745162.html",
-                "publishDate": "2026-05-11T23:40:39Z",
-                "premium": false,
                 "freemium": false
             }
         ],
