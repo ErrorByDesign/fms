@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.92,
+        "price": 47.07,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.17021666,
-            "marketCap": 207989358592,
+            "change": 0.14893553,
+            "marketCap": 208654286848,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.98742
+            "yearTarget": 46.990734
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.37,
+        "price": 1.33,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.7352934,
-            "marketCap": 128545984,
+            "change": -2.2058802,
+            "marketCap": 124792816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,26 @@
         },
         "NEWS": [
             {
+                "title": "Why Cathie Wood And Robinhood Agree That Retail Investors Need Access To Private Markets",
+                "summary": "ARK Invest CEO Cathie Wood and Robinhood Markets Inc. (NASDAQ:HOOD) CFO Shivaram Rajgopal made the case for opening private markets to retail investors, arguing that everyday investors are increasingly locked out of the biggest wealth-creation opportunities in tech. Shifting Landscape In an interview session, on Tuesday the discussion centered around ARK's venture-focused interval fund and Robinhood's newly launched closed-end private markets fund. Both are designed to give retail investors expo",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/why-cathie-wood-robinhood-agree-183915993.html",
+                "publishDate": "2026-05-13T18:39:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Cathie Wood Bets On Kalshi, But Her Ark Innovation ETF Hasn't Been Great At Timing Winners",
+                "summary": "Cathie Wood\u2018s ARK Invest joined Kalshi\u2019s $1 billion Series F last week at a $22 billion valuation, slotting the prediction market behind only SpaceX and OpenAI in the ARK Venture Fund. Wood called prediction markets \u201ca powerful new layer of financial infrastructure.\u201d Kalshi will be hoping this prediction is more accurate than many of her previous ones. A Decade Of Big Calls That Did Not Land Morningstar analyst Amy Arnott labeled the ARK fund family the worst wealth destroyer of any U.S. fund gr",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/cathie-wood-bets-kalshi-her-183134360.html",
+                "publishDate": "2026-05-13T18:31:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "EXCLUSIVE: SpaceX Could Trade At 'Meme-Stock Velocity' \u2014 But With Real Fundamentals, Says Ex-JPMorgan Exec",
                 "summary": "For years, meme stocks were largely driven by narrative, momentum and internet-fueled speculation. Former Goldman Sachs Group, Inc. (NYSE:GS) and JP Morgan Chase & Co (NYSE:JPM) executive Chan Ahn believes a future tokenized SpaceX market could look very different \u2014 and potentially much bigger. \u2022 Goldman Sachs Group stock is trading at elevated levels. Where are GS shares going? In an exclusive interview with Benzinga, the Tessera PE CEO argued that a tokenized version of Elon Musk's SpaceX coul",
                 "source": "Benzinga",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-13T05:58:58Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk Calls Fully Reusable Rockets A 'Crazy Hard Problem' As SpaceX Pushes Starship V4",
-                "summary": "SpaceX CEO Elon Musk has outlined that engine reliability is a crucial aspect for rocket reusability, being equally important to heat shield integrity. \u2018Crazy Hard Problem\u2019 Responding to user @GeniusGTX on X, who had shared a clip of Musk illustrating the importance of heat shields and figuring out a way to make reusable heat shields on rockets. Read Also: Ron DeSantis Praises Elon Musk's 'Pro-Human' AI Vision After SpaceX-Anthropic Partnership \u201cHigh-cycle, reliable engine reflight without repla",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/elon-musk-calls-fully-reusable-053504304.html",
-                "publishDate": "2026-05-13T05:35:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Flanked by tech billionaires, Trump heads to China holding few cards",
-                "summary": "Scrolling through Donald Trump\u2019s Truth Social feed on Tuesday made for jarring reading.",
-                "source": "The Telegraph",
-                "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/flanked-tech-billionaires-trump-heads-053000350.html",
-                "publishDate": "2026-05-13T05:30:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.265,
+        "price": 29.19,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.42531475,
-            "marketCap": 20944992256,
+            "change": -0.6804997,
+            "marketCap": 20891316224,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.65,
+        "price": 34.57,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.0498044,
-            "marketCap": 7189565952,
+            "change": -3.2727325,
+            "marketCap": 7172966400,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
