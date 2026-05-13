@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.91,
+        "price": 46.815,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.19148968,
-            "marketCap": 207945039872,
+            "change": -0.39361995,
+            "marketCap": 207523905536,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.001415
+            "yearTarget": 46.991104
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is Novo Nordisk's Rebound for Real--or Just a Head Fake?",
+                "summary": "The worst might be in the rearview mirror.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/13/is-novo-nordisks-rebound-for-realor-just-a-head-fa/",
+                "publishDate": "2026-05-13T17:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Highlights New Wegovy Pill Data",
                 "summary": "Novo Nordisk A/S (NYSE:NVO) presented new analyses from its phase 3 OASIS 4 clinical trial at the European Congress on Obesity 2026 in Istanbul, highlighting the long-term weight loss potential and functional benefits of its oral obesity treatment, Wegovy pill. The company said adults treated with oral semaglutide 25 mg achieved clinically meaningful weight loss regardless of whether they experienced rapid early reductions in body weight. Early Responders Saw Greater Long-Term Weight Loss Accord",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.marketbeat.com/instant-alerts/novo-nordisk-as-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
                 "publishDate": "2026-05-13T09:06:38Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Wegovy Data May Support Women\u2019s Health And Stock Thesis",
-                "summary": "Novo Nordisk presented new data at the European Congress on Obesity on high dose Wegovy (semaglutide 7.2 mg) from the STEP UP and SELECT trials and a large real world study. The results show substantial and consistent weight loss for women across life stages, including menopause, alongside reductions in body fat. The data highlight additional benefits tied to cardiovascular and mental health, including reduced risks of heart attack, stroke, migraine, and depression in menopausal...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/novo-nordisk-wegovy-data-may-031841565.html",
-                "publishDate": "2026-05-13T03:18:41Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Citi massively revamps Applied Materials stock price target",
+                "summary": "If you've ever wondered who makes the machines that build the chips powering artificial intelligence (AI), Applied Materials (AMAT) is a good place to start your education. It doesn't make chips. But it manufactures the equipment that enables chipmaking, and right now, the world can't get enough of ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/investing/stocks/citi-massively-revamps-applied-materials-stock-price-target",
+                "publishDate": "2026-05-13T17:33:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Here's What Happened After the 5 Biggest IPOs in Stock Market History",
                 "summary": "SpaceX is gearing up for what could be the largest IPO ever. What does history have to teach us?",
                 "source": "Motley Fool",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-13T04:00:30Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX IPO: Here's What to Watch for Next (And It Could Be Crucial for Investors)",
-                "summary": "Mark your calendars: A key event may be days away.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/12/spacex-ipo-heres-what-to-watch-for-next/",
-                "publishDate": "2026-05-12T22:30:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.31,
+        "price": 29.24,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.27220118,
-            "marketCap": 20977199104,
+            "change": -0.5103764,
+            "marketCap": 20927100928,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.77,
+        "price": 34.61,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.714049,
-            "marketCap": 7214464512,
+            "change": -3.1617265,
+            "marketCap": 7181265920,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
