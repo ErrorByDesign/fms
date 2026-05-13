@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.16,
+        "price": 47.08,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.3404252,
-            "marketCap": 209053253632,
+            "change": 0.170217,
+            "marketCap": 208698638336,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.005318
+            "yearTarget": 47.010254
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.33,
+        "price": 1.32,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2058802,
-            "marketCap": 124792816,
+            "change": -2.9411738,
+            "marketCap": 123854528,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Alibaba Group Q4 Earnings Call Highlights",
+                "summary": "Alibaba Group (NYSE:BABA) said its stepped-up investments in artificial intelligence, cloud computing and consumption businesses are beginning to translate into faster revenue growth, even as those investments weighed heavily on adjusted earnings and free cash flow in the March quarter. On the comp",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/alibaba-group-q4-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-13T20:14:36Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "EchoStar Stock Is Trending Higher: What's Going On?",
                 "summary": "EchoStar Corp (NASDAQ:SATS) shares are gaining Wednesday. Federal regulators cleared two large transactions that allow the company to transfer a significant block of its spectrum holdings to SpaceX and AT&T. Here\u2019s what you should know. EchoStar shares are powering higher. Why is SATS stock surging? The approval removes the final regulatory barrier and confirms that EchoStar can now complete both sales, which together represent more than $40 billion in deal value according to the FCC. FCC Approv",
                 "source": "Benzinga",
@@ -402,16 +412,6 @@
                 "freemium": false
             },
             {
-                "title": "Forget SpaceX. This Might Be the Hottest IPO of the Year.",
-                "summary": "Our senior market strategist explains why Fervo is one of the few IPOs to catch his eye, and what investors need to know now.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/1904799/forget-spacex-this-might-be-the-hottest-ipo-of-the-year",
-                "publishDate": "2026-05-13T13:22:25Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "One Prediction Market Pegs SpaceX's Chance of Closing Above $2 Trillion on Its IPO Day at 62% -- but Investors Will Likely Regret Chasing History",
                 "summary": "It's fair to question whether retail investors have become a bit overzealous about SpaceX.",
                 "source": "Motley Fool",
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.39,
+        "price": 29.22,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 21034455040,
+            "change": -0.57842827,
+            "marketCap": 20912785408,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.69,
+        "price": 34.75,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9378932,
-            "marketCap": 7197864960,
+            "change": -2.7700102,
+            "marketCap": 7210314752,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
