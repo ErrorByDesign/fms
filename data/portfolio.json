@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.07,
+        "price": 47.16,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.14893553,
-            "marketCap": 208654286848,
+            "change": 0.3404252,
+            "marketCap": 209053253632,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.997803
+            "yearTarget": 47.005318
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -402,22 +402,22 @@
                 "freemium": false
             },
             {
+                "title": "Forget SpaceX. This Might Be the Hottest IPO of the Year.",
+                "summary": "Our senior market strategist explains why Fervo is one of the few IPOs to catch his eye, and what investors need to know now.",
+                "source": "Barchart",
+                "category": "finance",
+                "url": "https://www.barchart.com/story/news/1904799/forget-spacex-this-might-be-the-hottest-ipo-of-the-year",
+                "publishDate": "2026-05-13T13:22:25Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "One Prediction Market Pegs SpaceX's Chance of Closing Above $2 Trillion on Its IPO Day at 62% -- but Investors Will Likely Regret Chasing History",
                 "summary": "It's fair to question whether retail investors have become a bit overzealous about SpaceX.",
                 "source": "Motley Fool",
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/13/prediction-market-spacex-close-over-2-trillion-ipo/",
                 "publishDate": "2026-05-13T11:26:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's Why SpaceX's $2 Trillion Valuation Could Crash by 84%",
-                "summary": "The company's AI pivot looks doomed from the start.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/13/heres-why-spacexs-2-trillion-valuation-could-crash/",
-                "publishDate": "2026-05-13T09:05:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.36,
+        "price": 29.39,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.10207138,
-            "marketCap": 21012985856,
+            "change": 0.0,
+            "marketCap": 21034455040,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.53,
+        "price": 34.69,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3855703,
-            "marketCap": 7164666368,
+            "change": -2.9378932,
+            "marketCap": 7197864960,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
