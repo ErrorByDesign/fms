@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.9,
+        "price": 46.815,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.21276271,
-            "marketCap": 207900721152,
+            "change": -0.39361995,
+            "marketCap": 207523905536,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.00215
+            "yearTarget": 47.016594
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,16 +332,6 @@
                 "freemium": false
             },
             {
-                "title": "Elon Musk Wants AI in Orbit. Why Google Might Be His Next Big Customer.",
-                "summary": "AI data centers in space are looking like a thing after all.  Tuesday, The Wall Street Journal reported that  Alphabet\u2019s  Google and SpaceX were in talks to launch Google\u2019s orbital data centers in space.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/google-spacex-ai-data-centers-elon-musk-cac5ecae?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-13T14:57:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "One Prediction Market Pegs SpaceX's Chance of Closing Above $2 Trillion on Its IPO Day at 62% -- but Investors Will Likely Regret Chasing History",
                 "summary": "It's fair to question whether retail investors have become a bit overzealous about SpaceX.",
                 "source": "Motley Fool",
@@ -410,6 +400,16 @@
                 "publishDate": "2026-05-12T22:30:00Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "Wall Street Waits for the SpaceX IPO, These 2 Under-the-Radar IPOs Could Already Be Making You Money",
+                "summary": "Heartflow and Neptune Insurance deserve a closer look.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/12/while-wall-street-waits-for-the-spacex-ipo-these-x/",
+                "publishDate": "2026-05-12T21:50:00Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.98,
+        "price": 29.155,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.3950318,
-            "marketCap": 20741017600,
+            "change": -0.7997234,
+            "marketCap": 20866267136,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.98,
+        "price": 35.26,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.1264749,
-            "marketCap": 7258037760,
+            "change": -1.3430424,
+            "marketCap": 7316134912,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
