@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.815,
+        "price": 46.92,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.39361995,
-            "marketCap": 207523905536,
+            "change": -0.17021666,
+            "marketCap": 207989358592,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.991104
+            "yearTarget": 46.98742
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.3305,
+        "price": 1.37,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.1691182,
-            "marketCap": 124839728,
+            "change": 0.7352934,
+            "marketCap": 128545984,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "EXCLUSIVE: SpaceX Could Trade At 'Meme-Stock Velocity' \u2014 But With Real Fundamentals, Says Ex-JPMorgan Exec",
+                "summary": "For years, meme stocks were largely driven by narrative, momentum and internet-fueled speculation. Former Goldman Sachs Group, Inc. (NYSE:GS) and JP Morgan Chase & Co (NYSE:JPM) executive Chan Ahn believes a future tokenized SpaceX market could look very different \u2014 and potentially much bigger. \u2022 Goldman Sachs Group stock is trading at elevated levels. Where are GS shares going? In an exclusive interview with Benzinga, the Tessera PE CEO argued that a tokenized version of Elon Musk's SpaceX coul",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/exclusive-spacex-could-trade-meme-175207290.html",
+                "publishDate": "2026-05-13T17:52:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Citi massively revamps Applied Materials stock price target",
                 "summary": "If you've ever wondered who makes the machines that build the chips powering artificial intelligence (AI), Applied Materials (AMAT) is a good place to start your education. It doesn't make chips. But it manufactures the equipment that enables chipmaking, and right now, the world can't get enough of ...",
                 "source": "TheStreet",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-13T05:30:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Jeff Bezos\u2019s Blue Origin weighs first external fundraising",
-                "summary": "Blue Origin is weighing its first external fundraising as part of a push by Jeff Bezos\u2019s rocket venture to hit ambitious launch targets and tap...",
-                "source": "Financial Times",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/jeff-bezos-blue-origin-weighs-040030704.html",
-                "publishDate": "2026-05-13T04:00:30Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.24,
+        "price": 29.265,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5103764,
-            "marketCap": 20927100928,
+            "change": -0.42531475,
+            "marketCap": 20944992256,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.61,
+        "price": 34.65,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.1617265,
-            "marketCap": 7181265920,
+            "change": -3.0498044,
+            "marketCap": 7189565952,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
