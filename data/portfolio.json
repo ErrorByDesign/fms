@@ -20,7 +20,7 @@
             "marketCap": 208654286848,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.990734
+            "yearTarget": 46.997803
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "EchoStar Stock Is Trending Higher: What's Going On?",
+                "summary": "EchoStar Corp (NASDAQ:SATS) shares are gaining Wednesday. Federal regulators cleared two large transactions that allow the company to transfer a significant block of its spectrum holdings to SpaceX and AT&T. Here\u2019s what you should know. EchoStar shares are powering higher. Why is SATS stock surging? The approval removes the final regulatory barrier and confirms that EchoStar can now complete both sales, which together represent more than $40 billion in deal value according to the FCC. FCC Approv",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/echostar-stock-trending-higher-whats-184846316.html",
+                "publishDate": "2026-05-13T18:48:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Cathie Wood And Robinhood Agree That Retail Investors Need Access To Private Markets",
                 "summary": "ARK Invest CEO Cathie Wood and Robinhood Markets Inc. (NASDAQ:HOOD) CFO Shivaram Rajgopal made the case for opening private markets to retail investors, arguing that everyday investors are increasingly locked out of the biggest wealth-creation opportunities in tech. Shifting Landscape In an interview session, on Tuesday the discussion centered around ARK's venture-focused interval fund and Robinhood's newly launched closed-end private markets fund. Both are designed to give retail investors expo",
                 "source": "Benzinga",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-13T09:05:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk Wants To Build 'Most Advanced' Spaceports Across The US And World As Starship Aims For Thousands Of Flights Each Year",
-                "summary": "SpaceX is scouting possible U.S. and overseas locations to build new \"spaceports,\" CEO Elon Musk said on Tuesday, as the company prepares for a future in which its massive Starship rocket could launch thousands of times a year. Musk Says SpaceX Seeks New Spaceports Musk took to X to state, \"SpaceX is considering several locations domestically and internationally to build the world's most advanced spaceports!\" He quoted a post from SpaceX that said the company intends to launch Starship frequentl",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/elon-musk-wants-build-most-055858381.html",
-                "publishDate": "2026-05-13T05:58:58Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.19,
+        "price": 29.36,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.6804997,
-            "marketCap": 20891316224,
+            "change": -0.10207138,
+            "marketCap": 21012985856,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.57,
+        "price": 34.53,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2727325,
-            "marketCap": 7172966400,
+            "change": -3.3855703,
+            "marketCap": 7164666368,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
