@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.0,
+        "price": 46.9,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2931,
-            "marketCap": 208343990272,
+            "change": -0.21276271,
+            "marketCap": 207900721152,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.11107
+            "yearTarget": 47.00215
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Ahead of US-China Meeting",
+                "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-131321756.html",
+                "publishDate": "2026-05-13T13:13:21Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk\u2019s high-dose Wegovy touts near 28% weight loss in early responders",
+                "summary": "This data could help support Novo in its bid to claw back market share taken by Eli Lilly in the obesity space.",
+                "source": "Clinical Trials Arena",
+                "category": "finance",
+                "url": "https://www.clinicaltrialsarena.com/news/novo-nordisk-wegovy-high-dose-27-7-weight-loss-early-responders/",
+                "publishDate": "2026-05-13T11:37:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Zacks Investment Ideas feature highlights Eli Lilly, Novo, JP Morgan, Coca-Cola, PepsiCO and Mondelez",
+                "summary": "Eli Lilly, Novo, JP Morgan, Coca-Cola, PepsiCO and Mondelez have been highlighted in this Investment Ideas article.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-102600215.html",
+                "publishDate": "2026-05-13T10:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk A/S Q1 Earnings Call Highlights",
+                "summary": "Novo Nordisk A/S (NYSE:NVO) said its first quarter of 2026 was marked by rapid uptake of its newly launched Wegovy pill in the U.S., continued expansion of its obesity franchise and a series of pipeline and regulatory milestones, even as adjusted sales declined because of lower realized prices. Chi",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/novo-nordisk-as-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-13T09:06:38Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Wegovy Data May Support Women\u2019s Health And Stock Thesis",
                 "summary": "Novo Nordisk presented new data at the European Congress on Obesity on high dose Wegovy (semaglutide 7.2 mg) from the STEP UP and SELECT trials and a large real world study. The results show substantial and consistent weight loss for women across life stages, including menopause, alongside reductions in body fat. The data highlight additional benefits tied to cardiovascular and mental health, including reduced risks of heart attack, stroke, migraine, and depression in menopausal...",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-05-12T15:53:57Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "GLP-1 Wars: Winners & Losers",
-                "summary": "With its best-in-breed GLP-1 drugs, Eli Lilly is beginning to cement itself as the dominant player in the massive GLP-1 market.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/glp-1-wars-winners-losers-155100530.html",
-                "publishDate": "2026-05-12T15:51:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "US Equity Futures Lower Pre-Bell as Trump Says Middle East Ceasefire on 'Life Support'",
-                "summary": "US equity futures were lower pre-bell Tuesday as the standoff continued in the Middle East, with the",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/us-equity-futures-lower-pre-131458557.html",
-                "publishDate": "2026-05-12T13:14:58Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Here is What to Know Beyond Why Novo Nordisk A/S (NVO) is a Trending Stock",
-                "summary": "Zacks.com users have recently been watching Novo Nordisk (NVO) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/know-beyond-why-novo-nordisk-130004151.html",
-                "publishDate": "2026-05-12T13:00:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Exchange-Traded Funds, Equity Futures Fall Pre-Bell Tuesday Amid Consumer Inflation Report Release",
-                "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.5% and the actively tr",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-124800218.html",
-                "publishDate": "2026-05-12T12:48:00Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.22535,
+            "change": 0.0,
             "marketCap": 127607688,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,92 +322,92 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX And Google Explore Wild AI Infrastructure Idea",
+                "summary": "Orbital data centers may tackle future AI power demands",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/spacex-google-explore-wild-ai-150945180.html",
+                "publishDate": "2026-05-13T15:09:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Wants AI in Orbit. Why Google Might Be His Next Big Customer.",
+                "summary": "AI data centers in space are looking like a thing after all.  Tuesday, The Wall Street Journal reported that  Alphabet\u2019s  Google and SpaceX were in talks to launch Google\u2019s orbital data centers in space.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/google-spacex-ai-data-centers-elon-musk-cac5ecae?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-13T14:57:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "One Prediction Market Pegs SpaceX's Chance of Closing Above $2 Trillion on Its IPO Day at 62% -- but Investors Will Likely Regret Chasing History",
+                "summary": "It's fair to question whether retail investors have become a bit overzealous about SpaceX.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/13/prediction-market-spacex-close-over-2-trillion-ipo/",
+                "publishDate": "2026-05-13T11:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here's Why SpaceX's $2 Trillion Valuation Could Crash by 84%",
+                "summary": "The company's AI pivot looks doomed from the start.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/13/heres-why-spacexs-2-trillion-valuation-could-crash/",
+                "publishDate": "2026-05-13T09:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Wants To Build 'Most Advanced' Spaceports Across The US And World As Starship Aims For Thousands Of Flights Each Year",
+                "summary": "SpaceX is scouting possible U.S. and overseas locations to build new \"spaceports,\" CEO Elon Musk said on Tuesday, as the company prepares for a future in which its massive Starship rocket could launch thousands of times a year. Musk Says SpaceX Seeks New Spaceports Musk took to X to state, \"SpaceX is considering several locations domestically and internationally to build the world's most advanced spaceports!\" He quoted a post from SpaceX that said the company intends to launch Starship frequentl",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/elon-musk-wants-build-most-055858381.html",
+                "publishDate": "2026-05-13T05:58:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Calls Fully Reusable Rockets A 'Crazy Hard Problem' As SpaceX Pushes Starship V4",
+                "summary": "SpaceX CEO Elon Musk has outlined that engine reliability is a crucial aspect for rocket reusability, being equally important to heat shield integrity. \u2018Crazy Hard Problem\u2019 Responding to user @GeniusGTX on X, who had shared a clip of Musk illustrating the importance of heat shields and figuring out a way to make reusable heat shields on rockets. Read Also: Ron DeSantis Praises Elon Musk's 'Pro-Human' AI Vision After SpaceX-Anthropic Partnership \u201cHigh-cycle, reliable engine reflight without repla",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/elon-musk-calls-fully-reusable-053504304.html",
+                "publishDate": "2026-05-13T05:35:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Flanked by tech billionaires, Trump heads to China holding few cards",
+                "summary": "Scrolling through Donald Trump\u2019s Truth Social feed on Tuesday made for jarring reading.",
+                "source": "The Telegraph",
+                "category": "finance",
+                "url": "https://uk.finance.yahoo.com/news/flanked-tech-billionaires-trump-heads-053000350.html",
+                "publishDate": "2026-05-13T05:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Jeff Bezos\u2019s Blue Origin weighs first external fundraising",
+                "summary": "Blue Origin is weighing its first external fundraising as part of a push by Jeff Bezos\u2019s rocket venture to hit ambitious launch targets and tap...",
+                "source": "Financial Times",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/jeff-bezos-blue-origin-weighs-040030704.html",
+                "publishDate": "2026-05-13T04:00:30Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX IPO: Here's What to Watch for Next (And It Could Be Crucial for Investors)",
                 "summary": "Mark your calendars: A key event may be days away.",
                 "source": "Motley Fool",
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/12/spacex-ipo-heres-what-to-watch-for-next/",
                 "publishDate": "2026-05-12T22:30:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Wall Street Waits for the SpaceX IPO, These 2 Under-the-Radar IPOs Could Already Be Making You Money",
-                "summary": "Heartflow and Neptune Insurance deserve a closer look.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/12/while-wall-street-waits-for-the-spacex-ipo-these-x/",
-                "publishDate": "2026-05-12T21:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX eyes global spaceports as Starship launch ambitions grow ahead of IPO",
-                "summary": "SpaceX is scouting potential U.S. and overseas locations to build \"spaceports\", CEO Elon Musk said in a post \u200con X on Tuesday, as the company prepares for a \u200cfuture in which its massive Starship rocket could launch thousands of times a year.  Unlike traditional \u200bexpendable rockets, Starship is designed for rapid reuse with minimal refurbishment, a capability SpaceX says is essential for lowering launch costs and enabling thousands of flights annually.  The fully reusable rocket system, designed to carry more than \u200c100 metric tons of \u2060cargo, is central to Musk's long-term plans for Mars colonization, satellite deployment and rapid global transportation.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/spacex-eyes-global-spaceports-starship-213006594.html",
-                "publishDate": "2026-05-12T21:30:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Alphabet SpaceX Talks Put Orbital Data Centers And Valuation In Focus",
-                "summary": "Alphabet and SpaceX are reported to be in advanced talks to launch Google data centers into orbit. The potential partnership would combine Alphabet's cloud and AI capabilities with SpaceX's satellite launch and Starlink infrastructure. The move would aim to create space based data centers that could support global connectivity and new types of cloud services. For investors watching Alphabet (NasdaqGS:GOOGL), this potential partnership comes at a time when the stock trades at $388.64 and has...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/alphabet-spacex-talks-put-orbital-192612429.html",
-                "publishDate": "2026-05-12T19:26:12Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla\u2019s AI Chip Pivot Reshapes Valuation Story For NasdaqGS TSLA",
-                "summary": "Tesla (NasdaqGS:TSLA) has outlined a Terafab semiconductor facility in Texas focused on AI and autonomy chips. The company is working with SpaceX and Intel on advanced chip production to support self-driving and AI workloads. Tesla is raising capital expenditure on AI compute and humanoid robotics while planning to double battery cell capacity at its Berlin factory. Regulators closed a U.S. Model Y steering probe without recall, while China and Europe move through key steps on Full...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-ai-chip-pivot-reshapes-181642343.html",
-                "publishDate": "2026-05-12T18:16:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How Big Do Elon Musk Backers Think SpaceX Can Be? This One Says $10 Trillion\u2014Or More",
-                "summary": "Baron Capital's Ron Baron thinks Elon Musk's SpaceX could eventually be \"the largest company on the planet\" with a market capitalization of $30 trillion.",
-                "source": "Investopedia",
-                "category": "finance",
-                "url": "https://www.investopedia.com/how-big-do-elon-musk-backers-think-spacex-can-be-this-one-says-usd10-trillion-or-more-ipo-11972677",
-                "publishDate": "2026-05-12T17:43:48Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Report: Google and SpaceX in talks to put data centers into orbit",
-                "summary": "Google and SpaceX are in talks to build data centers in orbit, pitching space as the future home for AI compute, even as costs today remain far higher than on the ground.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/report-google-spacex-talks-put-173057227.html",
-                "publishDate": "2026-05-12T17:30:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Google, SpaceX in talks to launch orbital data centers",
-                "summary": "A launch deal would make the two companies partners as they prepare to compete on orbital data centers, an unproven technology SpaceX is pitching to IPO investors",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/google-spacex-orbital-data-centers-talks-051226",
-                "publishDate": "2026-05-12T17:17:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Google in talks with SpaceX for Suncatcher orbital data center project",
-                "summary": "Alphabet's Google on Tuesday said it has been in discussions with Elon Musk's SpaceX and \u200cothers regarding future launches for its Project Suncatcher, an \u200corbital data center project.  Google is pushing the space-based data center idea with Project \u200bSuncatcher, a research effort to network solar-powered satellites equipped with its Tensor Processing Units into an orbital AI cloud.  The company plans an initial prototype launch with partner Planet Labs around 2027.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/google-spacex-talks-explore-data-161302017.html",
-                "publishDate": "2026-05-12T16:13:02Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.39,
+        "price": 28.98,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.48481,
-            "marketCap": 21034455040,
+            "change": -1.3950318,
+            "marketCap": 20741017600,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -455,6 +455,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Fate Therapeutics (FATE) Reports Q1 Loss, Misses Revenue Estimates",
+                "summary": "Fate Therapeutics (FATE) delivered earnings and revenue surprises of +10.87% and -25.77%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/fate-therapeutics-fate-reports-q1-134002234.html",
+                "publishDate": "2026-05-13T13:40:02Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Metagenomi Therapeutics (MGX) Reports Q1 Loss, Misses Revenue Estimates",
                 "summary": "Metagenomi Therapeutics (MGX) delivered earnings and revenue surprises of -2.52% and -68.08%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -544,16 +554,6 @@
                 "publishDate": "2026-04-15T18:20:56Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Montes Archimedes Acquisition (ROIV) Upgraded to Buy: Here's What You Should Know",
-                "summary": "Montes Archimedes Acquisition (ROIV) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/montes-archimedes-acquisition-roiv-upgraded-160002503.html",
-                "publishDate": "2026-04-10T16:00:02Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.74,
+        "price": 34.98,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.87853,
-            "marketCap": 7415731200,
+            "change": -2.1264749,
+            "marketCap": 7258037760,
             "weekLow": 10.19,
             "weekHigh": 36.52,
             "yearTarget": 43.8
