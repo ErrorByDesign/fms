@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.8001,
+        "price": 45.855,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7185712,
-            "marketCap": 203025006592,
+            "change": -2.601959,
+            "marketCap": 203268374528,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.85417
+            "yearTarget": 46.86369
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Best Healthcare Stocks to Buy in 2026",
+                "summary": "Novo Nordisk and Biogen are underpriced and stand to gain from new indications for their blockbuster therapies.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/14/best-healthcare-stocks-to-buy-in-2026/",
+                "publishDate": "2026-05-14T19:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In",
                 "summary": "For a decade, owning anything outside the S&P 500 felt like paying tuition to learn a lesson you already knew. International developed equities lagged, the dollar marched higher, and every diversification pitch sounded like an apology. That trade has flipped. Over the past year, Vanguard FTSE Developed Markets ETF (NYSEARCA:VEA) returned 34% against the S&P ... International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-13T23:15:31Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Can Uber Make an \u201cEverything\u201d App?",
-                "summary": "First-quarter results indicated they have the momentum to do it.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/13/can-uber-make-an-everything-app/",
-                "publishDate": "2026-05-13T21:25:55Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.32,
+        "price": 2.17,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 75.75756,
-            "marketCap": 217683696,
+            "change": 64.393936,
+            "marketCap": 203609344,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "2 Artificial Intelligence (AI) Stocks Poised to Win Big From SpaceX's $1.75 Trillion IPO",
+                "summary": "SpaceX is targeting the largest initial public offering in history at $1.75 trillion.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/14/2-artificial-intelligence-ai-stocks-poised-to-win/",
+                "publishDate": "2026-05-14T18:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Cerebras Stock Soars More Than 70% in Biggest IPO of 2026",
                 "summary": "Investors bid up shares of Cerebras Systems to about $385 a share in their trading debut on the Nasdaq, briefly giving the chip company a gain of more than 100% in its first minutes as a public company.  The pricing of the IPO Wednesday at $185 a share catapulted Cerebras's stock offering to around $5.6 billion, the biggest initial public offering of the year.  It\u2019s likely just the beginning for big IPOs: AI giants OpenAI and Anthropic are both eyeing offerings in the second-half of the year, and SpaceX, which recently acquired xAI, the maker of Grok chatbot, is planning a June debut.",
                 "source": "The Wall Street Journal",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-14T14:00:03Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Here's Everything Investors Need to Know About SpaceX's New Compute Partnership With Anthropic",
-                "summary": "The deal with Anthropic features short-term and potential long-term benefits.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/14/heres-everything-investors-need-to-know-about-spac/",
-                "publishDate": "2026-05-14T13:25:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.47,
+        "price": 29.48,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.85557836,
-            "marketCap": 21091710976,
+            "change": 0.88980234,
+            "marketCap": 21098868736,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.4,
+        "price": 34.49,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0071899,
-            "marketCap": 7137693184,
+            "change": -0.7481966,
+            "marketCap": 7156367360,
             "weekLow": 10.47,
             "weekHigh": 36.52,
             "yearTarget": 43.8
