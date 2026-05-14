@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.12,
+        "price": 46.115,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.0390885,
-            "marketCap": 204443074560,
+            "change": -2.049703,
+            "marketCap": 204420923392,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.848465
+            "yearTarget": 46.861496
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.13,
+        "price": 2.19,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 61.77548,
-            "marketCap": 199856176,
+            "change": 65.90909,
+            "marketCap": 205485920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,42 @@
         },
         "NEWS": [
             {
+                "title": "Iridium Bets on Air Safety in Aireon Takeover",
+                "summary": "Satellite operator Iridium Communications agreed to take full control of a company that tracks airplane movements, betting it can grow the air data provider into a bigger business.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/iridium-bets-on-air-safety-in-aireon-takeover-07f35719?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-14T16:42:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Cerebras IPO values AI chipmaker at $40B",
+                "summary": "Cerebras priced its IPO at a $40 billion valuation, nearly 5x what it was worth eight months ago. The AI capital boom is pulling investor attention and money away from crypto, with SpaceX and OpenAI listings still to come. CoinDesk's Jennifer Sanasie hosts \"CoinDesk Daily.\"",
+                "source": "CoinDesk",
+                "category": "finance",
+                "url": "http://videos.coindesk.com/previews/Fbad1Y9X",
+                "publishDate": "2026-05-14T16:40:24Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "AT&T, T-Mobile, Verizon form satellite joint venture",
                 "summary": "The 3 largest U.S. wireless carriers will pool spectrum resources and satellite partnerships to extend mobile coverage in rural and remote areas",
                 "source": "Quartz",
                 "category": "finance",
                 "url": "https://qz.com/att-tmobile-verizon-satellite-joint-venture-dead-zones-051426",
                 "publishDate": "2026-05-14T15:46:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Cerebras, the Biggest IPO of 2026, Preps for Trading",
+                "summary": "Fund managers bid up shares of Cerebras Systems to $185 a share in its IPO, catapulting the chip company to raise around $5.6 billion in the biggest initial public offering of the year. The excitement reflects investment fervor over AI, fervor that is unlikely to end with Cerebras\u2019s stock-market debut later Thursday on the Nasdaq stock market under the ticker CBRS.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026/card/cerebras-the-biggest-ipo-of-2026-preps-for-trading-bQ9VjNVjjTVDqTdDnv51?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-14T15:37:33Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-14T11:53:16Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s iron grip on SpaceX alarms investors",
-                "summary": "US pension funds controlling more than $1tn (\u00a3740bn) of investments have raised concerns about the \u201cextreme\u201d levels of control Elon Musk will exert on SpaceX after the rocket business goes public.",
-                "source": "The Telegraph",
-                "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/elon-musk-iron-grip-spacex-115226435.html",
-                "publishDate": "2026-05-14T11:52:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Microsoft Explores AI Deals Beyond OpenAI",
-                "summary": "The software giant is reportedly looking at AI startup acquisitions as it builds a future less dependent on OpenAI.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-explores-ai-deals-beyond-111649177.html",
-                "publishDate": "2026-05-14T11:16:49Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Xi Jinping tells Nvidia, Tesla and Apple CEOs that China will \u2018open wider\u2019",
-                "summary": "Xi Jinping has told American chief executives travelling with Donald Trump that China\u2019s door to business \u201cwill only open wider and wider\u201d as...",
-                "source": "Financial Times",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/economy/policy/articles/xi-jinping-tells-nvidia-tesla-062031527.html",
-                "publishDate": "2026-05-14T11:09:04Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.27,
+        "price": 29.29,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.1711196,
-            "marketCap": 20948572160,
+            "change": 0.23956743,
+            "marketCap": 20962885632,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.24,
+        "price": 34.19,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.4676211,
-            "marketCap": 7104494592,
+            "change": -1.6115147,
+            "marketCap": 7094119424,
             "weekLow": 10.47,
             "weekHigh": 36.52,
             "yearTarget": 43.8
