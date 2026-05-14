@@ -20,7 +20,7 @@
             "marketCap": 208698638336,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.013348
+            "yearTarget": 47.013203
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,26 @@
         },
         "NEWS": [
             {
+                "title": "3 Stocks That Could Benefit From the SpaceX IPO",
+                "summary": "While investors wait for the massive IPO, these stocks are worth a closer look.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/13/3-stocks-that-could-benefit-from-the-spacex-ipo/",
+                "publishDate": "2026-05-14T03:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Rocket Lab Stock Jumps After $2.2B Backlog and New Multi-Launch Deal",
+                "summary": "Rocket Lab Hits Fresh High as Wall Street Backs Space Stock Breakout",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-jumps-2-031746082.html",
+                "publishDate": "2026-05-14T03:17:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Exclusive-New York, California pension leaders oppose 'extreme' SpaceX control structure",
                 "summary": "Leaders of three of the biggest U.S. public pension systems said they have major concerns over SpaceX's \"extreme\" ownership and control set-up in its upcoming public stock listing, urging founder and CEO Elon Musk to remove provisions that would curb shareholder protections.  \"We are writing to express our serious concerns with the reported novel \u200cand extreme governance structure and provisions SpaceX is planning to disclose in its registration statement,\" New York State Comptroller Thomas DiNapoli, New York City Comptroller Mark Levine and California Public \u200cEmployees' Retirement System CEO Marcie Frost said in a letter sent Wednesday to Musk that was reviewed by Reuters.  The officials - representing three of the top four largest public pension plans in the U.S. - objected to the amount of power the board has given \u200bMusk over the company, including voting control over the stock, veto power over his own removal as CEO, and protections from litigation, including mandatory arbitration for SpaceX shareholder claims.",
                 "source": "Reuters",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/news/cathie-wood-bets-kalshi-her-183134360.html",
                 "publishDate": "2026-05-13T18:31:34Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "EXCLUSIVE: SpaceX Could Trade At 'Meme-Stock Velocity' \u2014 But With Real Fundamentals, Says Ex-JPMorgan Exec",
-                "summary": "For years, meme stocks were largely driven by narrative, momentum and internet-fueled speculation. Former Goldman Sachs Group, Inc. (NYSE:GS) and JP Morgan Chase & Co (NYSE:JPM) executive Chan Ahn believes a future tokenized SpaceX market could look very different \u2014 and potentially much bigger. \u2022 Goldman Sachs Group stock is trading at elevated levels. Where are GS shares going? In an exclusive interview with Benzinga, the Tessera PE CEO argued that a tokenized version of Elon Musk's SpaceX coul",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/exclusive-spacex-could-trade-meme-175207290.html",
-                "publishDate": "2026-05-13T17:52:07Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Citi massively revamps Applied Materials stock price target",
-                "summary": "If you've ever wondered who makes the machines that build the chips powering artificial intelligence (AI), Applied Materials (AMAT) is a good place to start your education. It doesn't make chips. But it manufactures the equipment that enables chipmaking, and right now, the world can't get enough of ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/investing/stocks/citi-massively-revamps-applied-materials-stock-price-target",
-                "publishDate": "2026-05-13T17:33:00Z",
                 "premium": false,
                 "freemium": false
             }
