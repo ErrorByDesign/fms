@@ -20,7 +20,7 @@
             "marketCap": 203024564224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.826077
+            "yearTarget": 46.834778
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 642.88,
+        "price": 645.31,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,10 +306,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.22,
-            "marketCap": 1526044950528,
-            "weekLow": 202.09,
-            "weekHigh": 642.88,
+            "change": 0.38,
+            "marketCap": 1531813167104,
+            "weekLow": 202.31,
+            "weekHigh": 645.31,
             "yearTarget": null
         },
         "FUNDING": {
@@ -329,16 +329,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-afternoon-195226365.html",
                 "publishDate": "2026-05-14T19:52:26Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Spooked By Musk's SpaceX, Big Three Wireless Firms Forge Satellite-To-Phone Joint Venture",
-                "summary": "AT&T, T-Mobile and Verizon announced a wireless joint venture focused on using satellite-based, direct-to-device technology.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/musk-starlink-att-verizon-tmobile-wireless-satellite-phone-joint-venture/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-14T19:47:47Z",
-                "premium": false,
                 "freemium": false
             },
             {
@@ -418,6 +408,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-wants-build-most-153104289.html",
                 "publishDate": "2026-05-14T15:31:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Top Stock Picks of 2026: 3D Printing Stock Takes Off",
+                "summary": "VELO has come on strong in the second quarter of 2026",
+                "source": "Schaeffer's Investment Research",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-picks-2026-3d-140003941.html",
+                "publishDate": "2026-05-14T14:00:03Z",
                 "premium": false,
                 "freemium": false
             }
