@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.15,
+        "price": 46.225,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9753617,
-            "marketCap": 204576079872,
+            "change": -1.8160648,
+            "marketCap": 204908527616,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.848022
+            "yearTarget": 46.85527
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Omeros (OMER) Q1 2026 Earnings Transcript",
+                "summary": "Gregory Demopulos: Thank you, Jennifer, and good afternoon, everyone.  Joining me today are David Borges, our Chief Accounting Officer; Dr. Cathy Melfi, our Chief Regulatory Officer; and Dr. Steve Whitaker, Vice President of Clinical.  After that, David will cover the financials in more detail and then we'll open the call for questions.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/earnings/call-transcripts/2026/05/14/omeros-omer-q1-2026-earnings-transcript/",
+                "publishDate": "2026-05-14T15:14:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Wegovy Trial Wins Put Novo Nordisk Obesity Growth Story In Focus",
+                "summary": "Novo Nordisk (NYSE:NVO) released new clinical trial data from higher dose and oral Wegovy, including OASIS 4 and STEP UP, presented at ECO2026. The trials report significant weight loss, improved physical function, and benefits across diverse patient groups, including older adults. Results indicate better efficacy and tolerability for oral Wegovy compared with orforglipron, reinforcing Novo Nordisk's position in obesity treatment. Novo Nordisk, known for its diabetes and obesity therapies,...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/wegovy-trial-wins-put-novo-151317967.html",
+                "publishDate": "2026-05-14T15:13:17Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Equities Traded in the US as American Depositary Receipts Tracking Higher in Thursday Trading",
                 "summary": "European equities traded in the US as American depositary receipts were moving higher late Thursday",
@@ -48,6 +68,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nvo-announces-positive-145703058.html",
                 "publishDate": "2026-05-14T14:57:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Can Novo Nordisk Sustain Its GLP-1 Edge Amid Lilly's Growing Pressure?",
+                "summary": "NVO beats Q1 estimates and raises its 2026 outlook. Meanwhile, Eli Lilly's expanding GLP-1 portfolio threatens its obesity market dominance.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-sustain-glp-1-142000253.html",
+                "publishDate": "2026-05-14T14:20:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -100,36 +130,6 @@
                 "publishDate": "2026-05-13T17:35:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Highlights New Wegovy Pill Data",
-                "summary": "Novo Nordisk A/S (NYSE:NVO) presented new analyses from its phase 3 OASIS 4 clinical trial at the European Congress on Obesity 2026 in Istanbul, highlighting the long-term weight loss potential and functional benefits of its oral obesity treatment, Wegovy pill. The company said adults treated with oral semaglutide 25 mg achieved clinically meaningful weight loss regardless of whether they experienced rapid early reductions in body weight. Early Responders Saw Greater Long-Term Weight Loss Accord",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/novo-nordisk-highlights-wegovy-pill-162846623.html",
-                "publishDate": "2026-05-13T16:28:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Stocks Rise in Wednesday Trading; Investors Monitor US-China Summit for Possible Easing of Trade Restrictions",
-                "summary": "The European stock markets were trending higher in Wednesday trading as investors monitor President",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/european-stocks-rise-wednesday-trading-154938386.html",
-                "publishDate": "2026-05-13T15:49:38Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Lilly Bets on Next-Generation Obesity Drugs to Stay Ahead",
-                "summary": "LLY expands beyond tirzepatide with oral obesity pills and next-gen drugs like retatrutide to defend its lead in the booming weight-loss market.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/lilly-bets-next-generation-obesity-154700037.html",
-                "publishDate": "2026-05-13T15:47:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.87,
+        "price": 1.89,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 41.66666,
-            "marketCap": 175460576,
+            "change": 43.181812,
+            "marketCap": 177337152,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.465,
+        "price": 29.39,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8384697,
-            "marketCap": 21088133120,
+            "change": 0.58179355,
+            "marketCap": 21034455040,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.2,
+        "price": 34.01,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.5827316,
-            "marketCap": 7096195072,
+            "change": -2.1295013,
+            "marketCap": 7056771072,
             "weekLow": 10.47,
             "weekHigh": 36.52,
             "yearTarget": 43.8
