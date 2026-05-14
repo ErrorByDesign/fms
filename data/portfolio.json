@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.225,
+        "price": 46.175,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8160648,
-            "marketCap": 204908527616,
+            "change": -1.9222654,
+            "marketCap": 204686884864,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.85527
+            "yearTarget": 46.868454
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.89,
+        "price": 2.07,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 43.181812,
-            "marketCap": 177337152,
+            "change": 56.81817,
+            "marketCap": 194226400,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "AT&T, T-Mobile, Verizon form satellite joint venture",
+                "summary": "The 3 largest U.S. wireless carriers will pool spectrum resources and satellite partnerships to extend mobile coverage in rural and remote areas",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/att-tmobile-verizon-satellite-joint-venture-dead-zones-051426",
+                "publishDate": "2026-05-14T15:46:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Top Stock Picks of 2026: 3D Printing Stock Takes Off",
                 "summary": "VELO has come on strong in the second quarter of 2026",
                 "source": "Schaeffer's Investment Research",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-14T10:37:11Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s $119 Billion Gambit: The Real Reason He\u2019s Building the World\u2019s Largest Chip Plant.",
-                "summary": "On March 21, 2026, at the Seaholm Power Plant in Austin, Elon Musk unveiled \u201cthe most epic chip-building exercise in history\u201d: Terafab, a joint venture between Tesla (NASDAQ:TSLA), SpaceX, and xAI, with Intel (NASDAQ:INTC) as foundational manufacturing partner. The stated goal: one terawatt of AI compute capacity per year, an order-of-magnitude expansion of global semiconductor ... Elon Musk\u2019s $119 Billion Gambit: The Real Reason He\u2019s Building the World\u2019s Largest Chip Plant.",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/14/elon-musks-119-billion-gambit-the-real-reason-hes-building-the-worlds-largest-chip-plant/",
-                "publishDate": "2026-05-14T10:28:20Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.39,
+        "price": 29.435,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.58179355,
-            "marketCap": 21034455040,
+            "change": 0.73579794,
+            "marketCap": 21066661888,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.01,
+        "price": 34.145,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.1295013,
-            "marketCap": 7056771072,
+            "change": -1.7407553,
+            "marketCap": 7084782592,
             "weekLow": 10.47,
             "weekHigh": 36.52,
             "yearTarget": 43.8
