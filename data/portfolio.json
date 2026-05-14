@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.175,
+        "price": 46.12,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9222654,
-            "marketCap": 204686884864,
+            "change": -2.0390885,
+            "marketCap": 204443074560,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.868454
+            "yearTarget": 46.848465
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.07,
+        "price": 2.13,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 56.81817,
-            "marketCap": 194226400,
+            "change": 61.77548,
+            "marketCap": 199856176,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "Elon Musk Wants To Build 'Most Advanced' Spaceports Across The US And World As Starship Aims For Thousands Of Flights Each Year",
+                "summary": "SpaceX is scouting possible U.S. and overseas locations to build new \"spaceports,\" CEO Elon Musk said on Tuesday, as the company prepares for a future in which its massive Starship rocket could launch thousands of times a year. Musk Says...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-wants-build-most-153104289.html",
+                "publishDate": "2026-05-14T15:31:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Top Stock Picks of 2026: 3D Printing Stock Takes Off",
                 "summary": "VELO has come on strong in the second quarter of 2026",
                 "source": "Schaeffer's Investment Research",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-14T11:09:04Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "BloFin Research: Will the SpaceX IPO Pop the U.S. Stock Bubble?",
-                "summary": "The S&P 500 just crossed 7,400 for the first time, AI memory names have multiplied severalfold in months, and the most anticipated IPO of the cycle is approaching. Beneath the surface, the options market is flashing two opposite signals at once. Crypto\u2019s quiet weakness may already be pricing something, and there are two scenarios for",
-                "source": "BeInCrypto",
-                "category": "finance",
-                "url": "https://beincrypto.com/blofin-research-spacex-ipo-us-stock-bubble/",
-                "publishDate": "2026-05-14T10:37:11Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.435,
+        "price": 29.27,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.73579794,
-            "marketCap": 21066661888,
+            "change": 0.1711196,
+            "marketCap": 20948572160,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.145,
+        "price": 34.24,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7407553,
-            "marketCap": 7084782592,
+            "change": -1.4676211,
+            "marketCap": 7104494592,
             "weekLow": 10.47,
             "weekHigh": 36.52,
             "yearTarget": 43.8
