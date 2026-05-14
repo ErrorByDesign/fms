@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.08,
+        "price": 46.15,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.170217,
-            "marketCap": 208698638336,
+            "change": -1.9753617,
+            "marketCap": 204576079872,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.013203
+            "yearTarget": 46.848022
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Tracking Higher in Thursday Trading",
+                "summary": "European equities traded in the US as American depositary receipts were moving higher late Thursday",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150500931.html",
+                "publishDate": "2026-05-14T15:05:00Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (NVO) Announces Positive Early Response Data from Oral Wegovy (25 mg) Trial",
+                "summary": "Novo Nordisk (NYSE:NVO) is one of the cheap stocks to buy for the next 10 years. On May 13, Novo Nordisk presented new data from the OASIS 4 clinical trial at the European Congress on Obesity 2026, highlighting the effectiveness of the oral Wegovy pill (25 mg). The findings reveal that nearly one-third of participants [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nvo-announces-positive-145703058.html",
+                "publishDate": "2026-05-14T14:57:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "PFE Stock Declines Post Q1 Beat: Book Profits or Stay Invested?",
+                "summary": "Pfizer stock slipped after Q1 results despite an earnings beat as investors weighed falling COVID sales and looming patent expirations.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/pfe-stock-declines-post-q1-125200971.html",
+                "publishDate": "2026-05-14T12:52:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Omeros Q1 Earnings Call Highlights",
+                "summary": "Omeros (NASDAQ:OMER) reported first-quarter 2026 net income of $56.1 million, or $0.78 per share, as the company began commercial sales of YARTEMLEA, its recently approved treatment for hematopoietic stem cell transplant-associated thrombotic microangiopathy, or TA-TMA. Chairman and Chief Executive",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/omeros-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-14T04:12:29Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Here's How Much $100 Invested In Novo Nordisk 15 Years Ago Would Be Worth Today",
                 "summary": "Novo Nordisk (NYSE:NVO) has outperformed the market over the past 15 years by 17.52% on an annualized basis producing an average annual return of 29.58%. Currently, Novo Nordisk has a market capitalization of $208.88 billion. Buying $100 In NVO: If an investor had bought $100 of NVO stock 15 years ago, it would be worth $4,873.71 today based on a price of $47.12 for NVO at the time of writing. Novo Nordisk's Performance Over Last 15 Years Finally -- what's the point of all this? The key insight",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-05-13T15:47:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Dr. Reddy's Q4 Earnings and Revenues Miss Estimates, Stock Down",
-                "summary": "RDY stock down 5% on missing fiscal fourth-quarter 2026 earnings and revenue estimates as North America generics sales slumped.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/dr-reddys-q4-earnings-revenues-152300060.html",
-                "publishDate": "2026-05-13T15:23:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Silver Tsunami: Healthcare ETFs to Buy Amid Aging US Demographics",
-                "summary": "ETFs like XLV stand out as aging U.S. demographics fuel rising demand for healthcare, medical devices and senior-focused care.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/silver-tsunami-healthcare-etfs-buy-143900457.html",
-                "publishDate": "2026-05-13T14:39:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Exchange-Traded Funds, Equity Futures Mixed Pre-Bell Wednesday Ahead of US-China Meeting",
-                "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was down 0.1% and the actively tr",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/exchange-traded-funds-equity-futures-131321756.html",
-                "publishDate": "2026-05-13T13:13:21Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk\u2019s high-dose Wegovy touts near 28% weight loss in early responders",
-                "summary": "This data could help support Novo in its bid to claw back market share taken by Eli Lilly in the obesity space.",
-                "source": "Clinical Trials Arena",
-                "category": "finance",
-                "url": "https://www.clinicaltrialsarena.com/news/novo-nordisk-wegovy-high-dose-27-7-weight-loss-early-responders/",
-                "publishDate": "2026-05-13T11:37:33Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.32,
+        "price": 1.87,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.94117,
-            "marketCap": 123854528,
+            "change": 41.66666,
+            "marketCap": 175460576,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "3 Stocks That Could Benefit From the SpaceX IPO",
-                "summary": "While investors wait for the massive IPO, these stocks are worth a closer look.",
+                "title": "Top Stock Picks of 2026: 3D Printing Stock Takes Off",
+                "summary": "VELO has come on strong in the second quarter of 2026",
+                "source": "Schaeffer's Investment Research",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-picks-2026-3d-140003941.html",
+                "publishDate": "2026-05-14T14:00:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here's Everything Investors Need to Know About SpaceX's New Compute Partnership With Anthropic",
+                "summary": "The deal with Anthropic features short-term and potential long-term benefits.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/13/3-stocks-that-could-benefit-from-the-spacex-ipo/",
-                "publishDate": "2026-05-14T03:20:00Z",
+                "url": "https://www.fool.com/investing/2026/05/14/heres-everything-investors-need-to-know-about-spac/",
+                "publishDate": "2026-05-14T13:25:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Rocket Lab Stock Jumps After $2.2B Backlog and New Multi-Launch Deal",
-                "summary": "Rocket Lab Hits Fresh High as Wall Street Backs Space Stock Breakout",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-stock-jumps-2-031746082.html",
-                "publishDate": "2026-05-14T03:17:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Exclusive-New York, California pension leaders oppose 'extreme' SpaceX control structure",
-                "summary": "Leaders of three of the biggest U.S. public pension systems said they have major concerns over SpaceX's \"extreme\" ownership and control set-up in its upcoming public stock listing, urging founder and CEO Elon Musk to remove provisions that would curb shareholder protections.  \"We are writing to express our serious concerns with the reported novel \u200cand extreme governance structure and provisions SpaceX is planning to disclose in its registration statement,\" New York State Comptroller Thomas DiNapoli, New York City Comptroller Mark Levine and California Public \u200cEmployees' Retirement System CEO Marcie Frost said in a letter sent Wednesday to Musk that was reviewed by Reuters.  The officials - representing three of the top four largest public pension plans in the U.S. - objected to the amount of power the board has given \u200bMusk over the company, including voting control over the stock, veto power over his own removal as CEO, and protections from litigation, including mandatory arbitration for SpaceX shareholder claims.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-york-california-pension-leaders-023245024.html",
-                "publishDate": "2026-05-14T02:32:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hedge Fund Boss Boaz Weinstein's Saba Capital Takes Control Of U.K. Investment Fund After High-Profile SpaceX Battle",
-                "summary": "Activist hedge fund Saba Capital has emerged victorious in a battle to take control of a London-listed investment fund, ousting its chair and five other board members in a shareholder vote, after it sold 35% of its holdings in Elon...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/hedge-fund-boss-boaz-weinsteins-230054444.html",
-                "publishDate": "2026-05-13T23:00:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Stocks to Watch Recap: Nvidia, Walmart, Micron, Samsung",
-                "summary": "\u2197\ufe0f Nvidia (NVDA): Shares in the chip maker advanced 2.3%. CEO Jensen Huang at the last minute joined President Trump on his trip to China, where chip-sale restrictions may be among the topics the president discusses with China's Xi Jinping.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-13-2026/card/stocks-to-watch-wednesday-nvidia-walmart-micron-samsung-cjmvEKA85Qj64XvhyuO6?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-13T20:57:34Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How SpaceX Helped Send Alphabet Stock to the Moon.",
-                "summary": "AI data centers in space are looking like a thing after all.  Tuesday, The Wall Street Journal reported that  Alphabet\u2019s  Google and SpaceX were in talks to launch Google\u2019s orbital data centers in space.  SpaceX and Alphabet didn\u2019t immediately respond to a request for comment about the report, but Alphabet had been in discussion with many launch providers after announcing its \u201cProject Suncatcher\u201d in November, a research initiative aimed at building orbital data centers powered by the sun.",
+                "title": "Rocket Lab and 3 More Space Stocks to Buy Ahead of SpaceX\u2019s Massive IPO",
+                "summary": "New Street Research launched coverage of 10 space stocks on Wednesday. The broker call four of the stocks buys.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/google-spacex-ai-data-centers-elon-musk-cac5ecae?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-13T20:27:00Z",
+                "url": "https://www.barrons.com/articles/rocket-lab-stock-buy-spacex-ipo-3fb25247?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-14T12:41:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Space Stocks Jump As SpaceX, Google Explore Orbital Data Center Deal",
-                "summary": "Space stocks advance on reports SpaceX, Google are in discussions for an orbital data center launch partnership. Intuitive Machines results are due.",
-                "source": "Investor's Business Daily",
+                "title": "Redwire Q1 Earnings Call Highlights",
+                "summary": "Redwire (NYSE:RDW) reported sharply higher first-quarter 2026 revenue and record backlog, while management said the company is increasing internal research and development spending to pursue larger opportunities across space and defense markets. Chairman and CEO Peter Cannito said Redwire saw \u201cstro",
+                "source": "MarketBeat",
                 "category": "finance",
-                "url": "https://www.investors.com/news/spacex-google-orbital-data-centers-partnership-rocket-launch-space-stocks-intuitive-machines-lunr/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-13T20:13:51Z",
+                "url": "https://www.marketbeat.com/instant-alerts/redwire-q1-earnings-call-highlights-2026-05-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-14T12:09:29Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "EchoStar Stock Is Trending Higher: What's Going On?",
-                "summary": "EchoStar Corp (NASDAQ:SATS) shares are gaining Wednesday. Federal regulators cleared two large transactions that allow the company to transfer a significant block of its spectrum holdings to SpaceX and AT&T. Here\u2019s what you should know. EchoStar shares are powering higher. Why is SATS stock surging? The approval removes the final regulatory barrier and confirms that EchoStar can now complete both sales, which together represent more than $40 billion in deal value according to the FCC. FCC Approv",
-                "source": "Benzinga",
+                "title": "US wireless carriers to launch joint venture to address rural 'dead zones'",
+                "summary": "Verizon, AT&T and T-Mobile said on Thursday that they agreed in principle to form a new joint venture that seeks to address \u200clong-time coverage gaps especially in rural areas by using satellite-based technologies.  The largest U.S. wireless \u200ccompanies said the plan seeks to end nearly all dead zones without mobile service.  The plan also aims to ensure \u200bredundant connectivity during natural disasters and improved network performance using so-called \"direct to device\" satellite technology.",
+                "source": "Reuters",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/news/echostar-stock-trending-higher-whats-184846316.html",
-                "publishDate": "2026-05-13T18:48:46Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/us-wireless-carriers-to-launch-joint-venture-to-address-rural-39dead-zones39-115316143.html",
+                "publishDate": "2026-05-14T11:53:16Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Why Cathie Wood And Robinhood Agree That Retail Investors Need Access To Private Markets",
-                "summary": "ARK Invest CEO Cathie Wood and Robinhood Markets Inc. (NASDAQ:HOOD) CFO Shivaram Rajgopal made the case for opening private markets to retail investors, arguing that everyday investors are increasingly locked out of the biggest wealth-creation opportunities in tech. Shifting Landscape In an interview session, on Tuesday the discussion centered around ARK's venture-focused interval fund and Robinhood's newly launched closed-end private markets fund. Both are designed to give retail investors expo",
-                "source": "Benzinga",
+                "title": "Elon Musk\u2019s iron grip on SpaceX alarms investors",
+                "summary": "US pension funds controlling more than $1tn (\u00a3740bn) of investments have raised concerns about the \u201cextreme\u201d levels of control Elon Musk will exert on SpaceX after the rocket business goes public.",
+                "source": "The Telegraph",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/news/why-cathie-wood-robinhood-agree-183915993.html",
-                "publishDate": "2026-05-13T18:39:15Z",
+                "url": "https://uk.finance.yahoo.com/news/elon-musk-iron-grip-spacex-115226435.html",
+                "publishDate": "2026-05-14T11:52:26Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Cathie Wood Bets On Kalshi, But Her Ark Innovation ETF Hasn't Been Great At Timing Winners",
-                "summary": "Cathie Wood\u2018s ARK Invest joined Kalshi\u2019s $1 billion Series F last week at a $22 billion valuation, slotting the prediction market behind only SpaceX and OpenAI in the ARK Venture Fund. Wood called prediction markets \u201ca powerful new layer of financial infrastructure.\u201d Kalshi will be hoping this prediction is more accurate than many of her previous ones. A Decade Of Big Calls That Did Not Land Morningstar analyst Amy Arnott labeled the ARK fund family the worst wealth destroyer of any U.S. fund gr",
-                "source": "Benzinga",
+                "title": "Microsoft Explores AI Deals Beyond OpenAI",
+                "summary": "The software giant is reportedly looking at AI startup acquisitions as it builds a future less dependent on OpenAI.",
+                "source": "GuruFocus.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/news/cathie-wood-bets-kalshi-her-183134360.html",
-                "publishDate": "2026-05-13T18:31:34Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/microsoft-explores-ai-deals-beyond-111649177.html",
+                "publishDate": "2026-05-14T11:16:49Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Xi Jinping tells Nvidia, Tesla and Apple CEOs that China will \u2018open wider\u2019",
+                "summary": "Xi Jinping has told American chief executives travelling with Donald Trump that China\u2019s door to business \u201cwill only open wider and wider\u201d as...",
+                "source": "Financial Times",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/economy/policy/articles/xi-jinping-tells-nvidia-tesla-062031527.html",
+                "publishDate": "2026-05-14T11:09:04Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "BloFin Research: Will the SpaceX IPO Pop the U.S. Stock Bubble?",
+                "summary": "The S&P 500 just crossed 7,400 for the first time, AI memory names have multiplied severalfold in months, and the most anticipated IPO of the cycle is approaching. Beneath the surface, the options market is flashing two opposite signals at once. Crypto\u2019s quiet weakness may already be pricing something, and there are two scenarios for",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/blofin-research-spacex-ipo-us-stock-bubble/",
+                "publishDate": "2026-05-14T10:37:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk\u2019s $119 Billion Gambit: The Real Reason He\u2019s Building the World\u2019s Largest Chip Plant.",
+                "summary": "On March 21, 2026, at the Seaholm Power Plant in Austin, Elon Musk unveiled \u201cthe most epic chip-building exercise in history\u201d: Terafab, a joint venture between Tesla (NASDAQ:TSLA), SpaceX, and xAI, with Intel (NASDAQ:INTC) as foundational manufacturing partner. The stated goal: one terawatt of AI compute capacity per year, an order-of-magnitude expansion of global semiconductor ... Elon Musk\u2019s $119 Billion Gambit: The Real Reason He\u2019s Building the World\u2019s Largest Chip Plant.",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/14/elon-musks-119-billion-gambit-the-real-reason-hes-building-the-worlds-largest-chip-plant/",
+                "publishDate": "2026-05-14T10:28:20Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.22,
+        "price": 29.465,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.578428,
-            "marketCap": 20912785408,
+            "change": 0.8384697,
+            "marketCap": 21088133120,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Invivyd, Inc. (IVVD) Reports Q1 Loss, Lags Revenue Estimates",
+                "summary": "Invivyd, Inc. (IVVD) delivered earnings and revenue surprises of -62.50% and -25.30%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/invivyd-inc-ivvd-reports-q1-121502837.html",
+                "publishDate": "2026-05-14T12:15:02Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Fate Therapeutics (FATE) Reports Q1 Loss, Misses Revenue Estimates",
                 "summary": "Fate Therapeutics (FATE) delivered earnings and revenue surprises of +10.87% and -25.77%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -554,16 +564,6 @@
                 "publishDate": "2026-04-23T07:29:55Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Roivant Sciences (ROIV): A Clinical Trial Win Meets a Phase 3 Failure",
-                "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the must-buy US stocks to buy right now. On April 2, Roivant Sciences Ltd. (NASDAQ:ROIV) said its subsidiary Priovant Therapeutics had started enrolling patients in a Phase 2b/3 trial of brepocitinib for lichen planopilaris (LPP). LPP is a severe inflammatory hair loss condition and brepocitinib treats that inflammation. [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/roivant-sciences-roiv-clinical-trial-182056855.html",
-                "publishDate": "2026-04-15T18:20:56Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.75,
+        "price": 34.2,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.77001,
-            "marketCap": 7210314752,
+            "change": -1.5827316,
+            "marketCap": 7096195072,
             "weekLow": 10.47,
             "weekHigh": 36.52,
             "yearTarget": 43.8
