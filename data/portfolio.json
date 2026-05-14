@@ -20,7 +20,7 @@
             "marketCap": 208698638336,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.021683
+            "yearTarget": 47.013348
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Here's How Much $100 Invested In Novo Nordisk 15 Years Ago Would Be Worth Today",
+                "summary": "Novo Nordisk (NYSE:NVO) has outperformed the market over the past 15 years by 17.52% on an annualized basis producing an average annual return of 29.58%. Currently, Novo Nordisk has a market capitalization of $208.88 billion. Buying $100 In NVO: If an investor had bought $100 of NVO stock 15 years ago, it would be worth $4,873.71 today based on a price of $47.12 for NVO at the time of writing. Novo Nordisk's Performance Over Last 15 Years Finally -- what's the point of all this? The key insight",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-100-invested-novo-231531498.html",
+                "publishDate": "2026-05-13T23:15:31Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Can Uber Make an \u201cEverything\u201d App?",
                 "summary": "First-quarter results indicated they have the momentum to do it.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-13T11:37:33Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Zacks Investment Ideas feature highlights Eli Lilly, Novo, JP Morgan, Coca-Cola, PepsiCO and Mondelez",
-                "summary": "Eli Lilly, Novo, JP Morgan, Coca-Cola, PepsiCO and Mondelez have been highlighted in this Investment Ideas article.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/zacks-investment-ideas-feature-highlights-102600215.html",
-                "publishDate": "2026-05-13T10:26:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9411738,
+            "change": -2.94117,
             "marketCap": 123854528,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,6 +322,46 @@
         },
         "NEWS": [
             {
+                "title": "Exclusive-New York, California pension leaders oppose 'extreme' SpaceX control structure",
+                "summary": "Leaders of three of the biggest U.S. public pension systems said they have major concerns over SpaceX's \"extreme\" ownership and control set-up in its upcoming public stock listing, urging founder and CEO Elon Musk to remove provisions that would curb shareholder protections.  \"We are writing to express our serious concerns with the reported novel \u200cand extreme governance structure and provisions SpaceX is planning to disclose in its registration statement,\" New York State Comptroller Thomas DiNapoli, New York City Comptroller Mark Levine and California Public \u200cEmployees' Retirement System CEO Marcie Frost said in a letter sent Wednesday to Musk that was reviewed by Reuters.  The officials - representing three of the top four largest public pension plans in the U.S. - objected to the amount of power the board has given \u200bMusk over the company, including voting control over the stock, veto power over his own removal as CEO, and protections from litigation, including mandatory arbitration for SpaceX shareholder claims.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-york-california-pension-leaders-023245024.html",
+                "publishDate": "2026-05-14T02:32:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Hedge Fund Boss Boaz Weinstein's Saba Capital Takes Control Of U.K. Investment Fund After High-Profile SpaceX Battle",
+                "summary": "Activist hedge fund Saba Capital has emerged victorious in a battle to take control of a London-listed investment fund, ousting its chair and five other board members in a shareholder vote, after it sold 35% of its holdings in Elon...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/hedge-fund-boss-boaz-weinsteins-230054444.html",
+                "publishDate": "2026-05-13T23:00:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Stocks to Watch Recap: Nvidia, Walmart, Micron, Samsung",
+                "summary": "\u2197\ufe0f Nvidia (NVDA): Shares in the chip maker advanced 2.3%. CEO Jensen Huang at the last minute joined President Trump on his trip to China, where chip-sale restrictions may be among the topics the president discusses with China's Xi Jinping.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-13-2026/card/stocks-to-watch-wednesday-nvidia-walmart-micron-samsung-cjmvEKA85Qj64XvhyuO6?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-13T20:57:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "How SpaceX Helped Send Alphabet Stock to the Moon.",
+                "summary": "AI data centers in space are looking like a thing after all.  Tuesday, The Wall Street Journal reported that  Alphabet\u2019s  Google and SpaceX were in talks to launch Google\u2019s orbital data centers in space.  SpaceX and Alphabet didn\u2019t immediately respond to a request for comment about the report, but Alphabet had been in discussion with many launch providers after announcing its \u201cProject Suncatcher\u201d in November, a research initiative aimed at building orbital data centers powered by the sun.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/google-spacex-ai-data-centers-elon-musk-cac5ecae?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-13T20:27:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space Stocks Jump As SpaceX, Google Explore Orbital Data Center Deal",
                 "summary": "Space stocks advance on reports SpaceX, Google are in discussions for an orbital data center launch partnership. Intuitive Machines results are due.",
                 "source": "Investor's Business Daily",
@@ -380,46 +420,6 @@
                 "publishDate": "2026-05-13T17:33:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Here's What Happened After the 5 Biggest IPOs in Stock Market History",
-                "summary": "SpaceX is gearing up for what could be the largest IPO ever. What does history have to teach us?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/13/what-happened-after-5-biggest-ipo-stock-spacex/",
-                "publishDate": "2026-05-13T16:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Gilat Satellite Networks Stock Crashed Today",
-                "summary": "Gilat is doing fine, but after its stock price tripled in a year, investors wanted more than just \"fine.\"",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/13/why-gilat-satellite-networks-stock-crashed-today/",
-                "publishDate": "2026-05-13T16:09:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX And Google Explore Wild AI Infrastructure Idea",
-                "summary": "Orbital data centers may tackle future AI power demands",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/spacex-google-explore-wild-ai-150945180.html",
-                "publishDate": "2026-05-13T15:09:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "One Prediction Market Pegs SpaceX's Chance of Closing Above $2 Trillion on Its IPO Day at 62% -- but Investors Will Likely Regret Chasing History",
-                "summary": "It's fair to question whether retail investors have become a bit overzealous about SpaceX.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/13/prediction-market-spacex-close-over-2-trillion-ipo/",
-                "publishDate": "2026-05-13T11:26:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.57842827,
+            "change": -0.578428,
             "marketCap": 20912785408,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -594,9 +594,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7700102,
+            "change": -2.77001,
             "marketCap": 7210314752,
-            "weekLow": 10.19,
+            "weekLow": 10.47,
             "weekHigh": 36.52,
             "yearTarget": 43.8
         },
