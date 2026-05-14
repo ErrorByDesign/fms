@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.718782,
+            "change": -2.71878,
             "marketCap": 203024564224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.829586
+            "yearTarget": 46.826077
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -372,16 +372,6 @@
                 "freemium": false
             },
             {
-                "title": "Cerebras Shares Soar in Hotly Anticipated Year for AI Debuts",
-                "summary": "Shares of Cerebras more than doubled in their stock-market debut, setting the stage for what\u2019s expected to be a blockbuster year for artificial-intelligence IPOs.  Its shares are trading on the Nasdaq stock exchange under the ticker CBRS.  Cerebras Systems had priced its initial public offering at $185 late Wednesday\u2014far above expectations\u2014catapulting it to raise around $5.6 billion in the biggest IPO of the year.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/cerebras-to-kick-off-hotly-anticipated-year-for-artificial-intelligence-ipos-8b08ead7?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-14T17:17:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Brookfield Places $2 Billion Bet on SpaceX Ahead of IPO",
                 "summary": "The investment firm is tapping into businesses that stand to benefit from the rapid adoption of artificial intelligence.",
                 "source": "The Wall Street Journal",
@@ -418,6 +408,16 @@
                 "category": "finance",
                 "url": "https://qz.com/att-tmobile-verizon-satellite-joint-venture-dead-zones-051426",
                 "publishDate": "2026-05-14T15:46:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Wants To Build 'Most Advanced' Spaceports Across The US And World As Starship Aims For Thousands Of Flights Each Year",
+                "summary": "SpaceX is scouting possible U.S. and overseas locations to build new \"spaceports,\" CEO Elon Musk said on Tuesday, as the company prepares for a future in which its massive Starship rocket could launch thousands of times a year. Musk Says...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-wants-build-most-153104289.html",
+                "publishDate": "2026-05-14T15:31:04Z",
                 "premium": false,
                 "freemium": false
             }
