@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.845,
+        "price": 45.8001,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.623753,
-            "marketCap": 203224055808,
+            "change": -2.7185712,
+            "marketCap": 203025006592,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.86765
+            "yearTarget": 46.85417
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.28,
+        "price": 2.32,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 72.727264,
-            "marketCap": 213930544,
+            "change": 75.75756,
+            "marketCap": 217683696,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,42 @@
         },
         "NEWS": [
             {
+                "title": "Cerebras Stock Soars More Than 70% in Biggest IPO of 2026",
+                "summary": "Investors bid up shares of Cerebras Systems to about $385 a share in their trading debut on the Nasdaq, briefly giving the chip company a gain of more than 100% in its first minutes as a public company.  The pricing of the IPO Wednesday at $185 a share catapulted Cerebras's stock offering to around $5.6 billion, the biggest initial public offering of the year.  It\u2019s likely just the beginning for big IPOs: AI giants OpenAI and Anthropic are both eyeing offerings in the second-half of the year, and SpaceX, which recently acquired xAI, the maker of Grok chatbot, is planning a June debut.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026/card/cerebras-the-biggest-ipo-of-2026-preps-for-trading-bQ9VjNVjjTVDqTdDnv51?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-14T18:25:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Redwire Corporation Stock Soared Today",
                 "summary": "All of a sudden, investors love Redwire stock.",
                 "source": "Motley Fool",
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/14/why-redwire-corporation-stock-soared-today/",
                 "publishDate": "2026-05-14T17:39:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Cerebras Shares Soar in Hotly Anticipated Year for AI Debuts",
+                "summary": "Shares of Cerebras more than doubled in their stock-market debut, setting the stage for what\u2019s expected to be a blockbuster year for artificial-intelligence IPOs.  Its shares are trading on the Nasdaq stock exchange under the ticker CBRS.  Cerebras Systems had priced its initial public offering at $185 late Wednesday\u2014far above expectations\u2014catapulting it to raise around $5.6 billion in the biggest IPO of the year.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/stocks/cerebras-to-kick-off-hotly-anticipated-year-for-artificial-intelligence-ipos-8b08ead7?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-14T17:17:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Brookfield Places $2 Billion Bet on SpaceX Ahead of IPO",
+                "summary": "The investment firm is tapping into businesses that stand to benefit from the rapid adoption of artificial intelligence.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/brookfield-places-2-billion-bet-on-spacex-ahead-of-ipo-85e5d52d?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-14T17:02:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -362,16 +392,6 @@
                 "freemium": false
             },
             {
-                "title": "Cerebras, the Biggest IPO of 2026, Preps for Trading",
-                "summary": "Fund managers bid up shares of Cerebras Systems to $185 a share in its IPO, catapulting the chip company to raise around $5.6 billion in the biggest initial public offering of the year. The excitement reflects investment fervor over AI, fervor that is unlikely to end with Cerebras\u2019s stock-market debut later Thursday on the Nasdaq stock market under the ticker CBRS.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026/card/cerebras-the-biggest-ipo-of-2026-preps-for-trading-bQ9VjNVjjTVDqTdDnv51?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-14T15:37:33Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Elon Musk Wants To Build 'Most Advanced' Spaceports Across The US And World As Starship Aims For Thousands Of Flights Each Year",
                 "summary": "SpaceX is scouting possible U.S. and overseas locations to build new \"spaceports,\" CEO Elon Musk said on Tuesday, as the company prepares for a future in which its massive Starship rocket could launch thousands of times a year. Musk Says...",
                 "source": "Benzinga",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-14T13:25:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Rocket Lab and 3 More Space Stocks to Buy Ahead of SpaceX\u2019s Massive IPO",
-                "summary": "New Street Research launched coverage of 10 space stocks on Wednesday. The broker call four of the stocks buys.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/rocket-lab-stock-buy-spacex-ipo-3fb25247?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-14T12:41:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Redwire Q1 Earnings Call Highlights",
-                "summary": "Redwire (NYSE:RDW) reported sharply higher first-quarter 2026 revenue and record backlog, while management said the company is increasing internal research and development spending to pursue larger opportunities across space and defense markets. Chairman and CEO Peter Cannito said Redwire saw \u201cstro",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/redwire-q1-earnings-call-highlights-2026-05-14/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-14T12:09:29Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.435,
+        "price": 29.47,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.73579794,
-            "marketCap": 21066661888,
+            "change": 0.85557836,
+            "marketCap": 21091710976,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
