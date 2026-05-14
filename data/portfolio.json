@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.08,
+        "price": 45.845,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.1240442,
-            "marketCap": 204265783296,
+            "change": -2.623753,
+            "marketCap": 203224055808,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.869846
+            "yearTarget": 46.86765
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.2999,
+        "price": 2.28,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 74.23484,
-            "marketCap": 215797744,
+            "change": 72.727264,
+            "marketCap": 213930544,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Why Redwire Corporation Stock Soared Today",
+                "summary": "All of a sudden, investors love Redwire stock.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/14/why-redwire-corporation-stock-soared-today/",
+                "publishDate": "2026-05-14T17:39:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Iridium Bets on Air Safety in Aireon Takeover",
                 "summary": "Satellite operator Iridium Communications agreed to take full control of a company that tracks airplane movements, betting it can grow the air data provider into a bigger business.",
                 "source": "The Wall Street Journal",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-14T12:09:29Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "US wireless carriers to launch joint venture to address rural 'dead zones'",
-                "summary": "Verizon, AT&T and T-Mobile said on Thursday that they agreed in principle to form a new joint venture that seeks to address \u200clong-time coverage gaps especially in rural areas by using satellite-based technologies.  The largest U.S. wireless \u200ccompanies said the plan seeks to end nearly all dead zones without mobile service.  The plan also aims to ensure \u200bredundant connectivity during natural disasters and improved network performance using so-called \"direct to device\" satellite technology.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/us-wireless-carriers-to-launch-joint-venture-to-address-rural-39dead-zones39-115316143.html",
-                "publishDate": "2026-05-14T11:53:16Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.32,
+        "price": 29.435,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.34223267,
-            "marketCap": 20984356864,
+            "change": 0.73579794,
+            "marketCap": 21066661888,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.38,
+        "price": 34.4,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0647451,
-            "marketCap": 7133543424,
+            "change": -1.0071899,
+            "marketCap": 7137693184,
             "weekLow": 10.47,
             "weekHigh": 36.52,
             "yearTarget": 43.8
