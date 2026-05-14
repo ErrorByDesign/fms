@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.115,
+        "price": 46.08,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.049703,
-            "marketCap": 204420923392,
+            "change": -2.1240442,
+            "marketCap": 204265783296,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.861496
+            "yearTarget": 46.869846
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In",
+                "summary": "For a decade, owning anything outside the S&P 500 felt like paying tuition to learn a lesson you already knew. International developed equities lagged, the dollar marched higher, and every diversification pitch sounded like an apology. That trade has flipped. Over the past year, Vanguard FTSE Developed Markets ETF (NYSEARCA:VEA) returned 34% against the S&P ... International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/14/international-stocks-keep-crushing-the-sp-this-cheap-etf-is-how-you-get-in/",
+                "publishDate": "2026-05-14T17:08:41Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Omeros (OMER) Q1 2026 Earnings Transcript",
                 "summary": "Gregory Demopulos: Thank you, Jennifer, and good afternoon, everyone.  Joining me today are David Borges, our Chief Accounting Officer; Dr. Cathy Melfi, our Chief Regulatory Officer; and Dr. Steve Whitaker, Vice President of Clinical.  After that, David will cover the financials in more detail and then we'll open the call for questions.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-13T21:25:55Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Is Novo Nordisk's Rebound for Real--or Just a Head Fake?",
-                "summary": "The worst might be in the rearview mirror.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/13/is-novo-nordisks-rebound-for-realor-just-a-head-fa/",
-                "publishDate": "2026-05-13T17:35:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.19,
+        "price": 2.2999,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 65.90909,
-            "marketCap": 205485920,
+            "change": 74.23484,
+            "marketCap": 215797744,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.29,
+        "price": 29.32,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.23956743,
-            "marketCap": 20962885632,
+            "change": 0.34223267,
+            "marketCap": 20984356864,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.66667
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.19,
+        "price": 34.38,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6115147,
-            "marketCap": 7094119424,
+            "change": -1.0647451,
+            "marketCap": 7133543424,
             "weekLow": 10.47,
             "weekHigh": 36.52,
             "yearTarget": 43.8
