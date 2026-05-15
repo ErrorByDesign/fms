@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.8,
+        "price": 44.68,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.71878,
-            "marketCap": 203024564224,
+            "change": -2.4454126,
+            "marketCap": 198059786240,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.76226
+            "yearTarget": 46.73442
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Buy, Sell, or Hold Novo Nordisk at $46?",
+                "summary": "Can Novo Nordisk thrive under intense competitive pressures?",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/15/buy-sell-or-hold-novo-nordisk-at-46/",
+                "publishDate": "2026-05-15T15:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Down Sharply in Friday Trading",
+                "summary": "European equities traded in the US as American depositary receipts were sharply lower late Friday mo",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150450992.html",
+                "publishDate": "2026-05-15T15:04:50Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "This Hot Weight-Loss Drug Stock May Be a Surprise Challenger",
+                "summary": "The race to dominate the weight-loss drug market is heating up, and investors should start watching this one smaller player closely.",
+                "source": "Barchart",
+                "category": "finance",
+                "url": "https://www.barchart.com/story/news/1940698/this-hot-weight-loss-drug-stock-may-have-a-surprise-challenger",
+                "publishDate": "2026-05-14T19:35:28Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Best Healthcare Stocks to Buy in 2026",
                 "summary": "Novo Nordisk and Biogen are underpriced and stand to gain from new indications for their blockbuster therapies.",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-05-14T14:20:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "PFE Stock Declines Post Q1 Beat: Book Profits or Stay Invested?",
-                "summary": "Pfizer stock slipped after Q1 results despite an earnings beat as investors weighed falling COVID sales and looming patent expirations.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/pfe-stock-declines-post-q1-125200971.html",
-                "publishDate": "2026-05-14T12:52:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Omeros Q1 Earnings Call Highlights",
-                "summary": "Omeros (NASDAQ:OMER) reported first-quarter 2026 net income of $56.1 million, or $0.78 per share, as the company began commercial sales of YARTEMLEA, its recently approved treatment for hematopoietic stem cell transplant-associated thrombotic microangiopathy, or TA-TMA. Chairman and Chief Executive",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/omeros-q1-earnings-call-highlights-2026-05-13/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-14T04:12:29Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's How Much $100 Invested In Novo Nordisk 15 Years Ago Would Be Worth Today",
-                "summary": "Novo Nordisk (NYSE:NVO) has outperformed the market over the past 15 years by 17.52% on an annualized basis producing an average annual return of 29.58%. Currently, Novo Nordisk has a market capitalization of $208.88 billion. Buying $100 In NVO: If an investor had bought $100 of NVO stock 15 years ago, it would be worth $4,873.71 today based on a price of $47.12 for NVO at the time of writing. Novo Nordisk's Performance Over Last 15 Years Finally -- what's the point of all this? The key insight",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-much-100-invested-novo-231531498.html",
-                "publishDate": "2026-05-13T23:15:31Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.17,
+        "price": 2.0188,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 64.3939,
-            "marketCap": 203609344,
+            "change": -6.9961157,
+            "marketCap": 189422352,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -278,8 +278,8 @@
         ],
         "RATINGS": {
             "analystCount": 4,
-            "recommendationKey": "none",
-            "recommendationMean": "recommendationMean",
+            "recommendationKey": "strong_buy",
+            "recommendationMean": 1.5,
             "strongBuy": 0,
             "buy": 2,
             "hold": 1,
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "Cerebras Systems Stock Soars 68% in Blockbuster IPO: What Investors Should Know",
-                "summary": "The Nvidia rival's stock offering price was $185, and it closed its first trading day at just above $311, indicating investors' powerful demand for AI stocks, particularly AI chip stocks.",
+                "title": "$1.75 Trillion SpaceX IPO Hardwires Elon Musk As Single-Point Founder Risk",
+                "summary": "SpaceX IPO entrenches Musk as irreplaceable, warns his loss could be existential, and ties pay to fantasy milestones.",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/spacex-ipo-founder-risk-by-design/",
+                "publishDate": "2026-05-15T13:37:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "After a Breakout Quarter, Rocket Lab Is Starting To Look Like an Interesting SpaceX Rival",
+                "summary": "The space stocks might be about to enter their most exciting period to date, with SpaceX readying for an IPO that is going to spark a tidal wave across the broad market. Could Elon Musk\u2019s $1.75 trillion (or maybe $2 trillion) empire change the way that investors view the space stocks? As things like satellite ... After a Breakout Quarter, Rocket Lab Is Starting To Look Like an Interesting SpaceX Rival",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/15/after-a-breakout-quarter-rocket-lab-is-starting-to-look-like-an-interesting-spacex-rival/",
+                "publishDate": "2026-05-15T13:28:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "5 Things to Know Before the Stock Market Opens",
+                "summary": "News of the day for May 15, 2026",
+                "source": "Investopedia",
+                "category": "finance",
+                "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-may-15-2026-11975521",
+                "publishDate": "2026-05-15T12:23:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Has a Huge Week Ahead",
+                "summary": "FEATURE  SpaceX has a busy handful of days ahead.  For starters, Elon Musk\u2019s rocket company is expected to give an update on its hotly anticipated IPO. The company\u2019s S-1 Initial Public Offering registration statement could become public as soon as next week, according to a CNBC report on Thursday.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-rocket-launch-95f27bed?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-15T12:16:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Arista Networks, BWX Technologies, Cisco Systems, Danaher, Doximity, Estee Lauder, Illumina, Texas Roadhouse, Workday, and More",
+                "summary": "Pre-Market Stock Futures: Futures are trading sharply lower as we get set to end one of the most exciting weeks on Wall Street in 25 years. Positive meetings in China with President Trump, who brought his CEO contingent and Elon Musk, and President Xi, massive upside earnings and forward guidance from an OG tech and ... Here Are Friday\u2019s Top Wall Street Analyst Research Calls: Arista Networks, BWX Technologies, Cisco Systems, Danaher, Doximity, Estee Lauder, Illumina, Texas Roadhouse, Workday, a",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/15/here-are-fridays-top-wall-street-analyst-research-calls-arista-networks-bwx-technologies-cisco-systems-danaher-doximity-estee-lauder-illumina-texas-roadhouse-workday-and-more/",
+                "publishDate": "2026-05-15T11:51:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Professor Who Tracks Every US IPO Just Issued a Warning on SpaceX: \u201cMost of the Time, Things Don\u2019t Go According to Plan.\u201d",
+                "summary": "Wall Street braces for what could be the largest stock market debut in history, but the most cited academic on US IPO performance is warning buyers to sit on their hands. SpaceX is reportedly targeting a valuation of roughly $1.75 trillion in its planned offering, and Reuters this morning lined the deal up against three ... The Professor Who Tracks Every US IPO Just Issued a Warning on SpaceX: \u201cMost of the Time, Things Don\u2019t Go According to Plan.\u201d",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/15/the-professor-who-tracks-every-us-ipo-just-issued-a-warning-on-spacex-most-of-the-time-things-dont-go-according-to-plan/",
+                "publishDate": "2026-05-15T11:34:52Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX and Google Already Have a $100 Billion Connection. Their Next Project Could Propel Their Partnership Even Further",
+                "summary": "AI demand is fueling the prospect of launching data center satellites into space.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/14/cbrs-stock-ai-chip-stocks-nvda-stock-competitor/",
-                "publishDate": "2026-05-15T01:05:51Z",
+                "url": "https://www.fool.com/investing/2026/05/15/spacex-and-google-already-have-a-100-billion-conne/",
+                "publishDate": "2026-05-15T11:20:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Brookfield Reveals $2 Billion SpaceX Stake Ahead Of Possible IPO",
-                "summary": "Brookfield says it owns $2 billion of pre-IPO SpaceX shares as Musk's company targets a valuation above $2 trillion.",
-                "source": "GuruFocus.com",
+                "title": "How SpaceX stacks up against some of the biggest US IPOs",
+                "summary": "SpaceX is targeting a valuation of roughly $1.75 trillion in its upcoming \u200cinitial public offering, in what could be the \u200cbiggest-ever stock market debut by a U.S. company on Wall Street.  The \u200blisting of Elon Musk-led SpaceX could easily dwarf many of the biggest U.S. IPOs on record, including those of Alibaba, Visa and Facebook, now Meta Platforms, which analysts \u200csay reflects high growth \u2060expectations from the rocket and satellite company that it may struggle to meet.  Analysts \u200csay SpaceX's proposed valuation reflects in part how much investors are being asked to pay for future growth.",
+                "source": "Reuters",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-reveals-2-billion-spacex-001438428.html",
-                "publishDate": "2026-05-15T00:14:38Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stacks-against-biggest-us-100144186.html",
+                "publishDate": "2026-05-15T10:01:44Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Cerebras Stock Soars Nearly 70% in Biggest IPO of 2026",
-                "summary": "Investors bid up shares of Cerebras Systems to about $385 a share in their trading debut on the Nasdaq, briefly giving the chip company a gain of more than 100% in its first minutes as a public company.  The pricing of the IPO Wednesday at $185 a share catapulted Cerebras's stock offering to around $5.6 billion, the biggest initial public offering of the year.  It\u2019s likely just the beginning for big IPOs: AI giants OpenAI and Anthropic are both eyeing offerings in the second-half of the year, and SpaceX, which recently acquired xAI, the maker of Grok chatbot, is planning a June debut.",
-                "source": "The Wall Street Journal",
+                "title": "Elon Musk Calls Fully Reusable Rockets A 'Crazy Hard Problem' As SpaceX Pushes Starship V4",
+                "summary": "SpaceX CEO Elon Musk has outlined that engine reliability is a crucial aspect for rocket reusability, being equally important to heat shield integrity. \u2018Crazy Hard Problem\u2019 Responding to user @GeniusGTX on X, who had shared a clip of Musk illustrating...",
+                "source": "Benzinga",
                 "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026/card/cerebras-the-biggest-ipo-of-2026-preps-for-trading-bQ9VjNVjjTVDqTdDnv51?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-14T23:16:57Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-calls-fully-reusable-100109507.html",
+                "publishDate": "2026-05-15T10:01:09Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Rocket Lab Leads Space Rally With 57% Gain Following SpaceX IPO Report",
-                "summary": "Space stocks have been on a rally since news of SpaceX's IPO dropped in March, and that rally shows no signs of stopping.",
-                "source": "Motley Fool",
+                "title": "Google in Talks with SpaceX to Launch Data Centers into Space",
+                "summary": "Alphabet Inc. (NASDAQ:GOOG) is included among the 10 Best US Stocks to Invest in According to Billionaires. Alphabet Inc. (NASDAQ:GOOG) is a holding company with segments that include Google Services, Google Cloud, and Other Bets. Alphabet Inc. (NASDAQ:GOOG)\u2019s Google announced on May 12 that it was in discussions with Elon Musk\u2019s SpaceX and others regarding [\u2026]",
+                "source": "Insider Monkey",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/14/rocket-lab-leads-space-rally-with-57-gain-followin/",
-                "publishDate": "2026-05-14T22:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s SpaceXAI has been bleeding staff since its merger",
-                "summary": "More than 50 employees have reportedly left Elon Musk\u2019s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-spacexai-bleeding-staff-213044583.html",
-                "publishDate": "2026-05-14T21:30:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Consumer Stocks Advance Late Afternoon",
-                "summary": "Consumer stocks were higher late Thursday afternoon, with the State Street Consumer Staples Select S",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-advance-afternoon-195226365.html",
-                "publishDate": "2026-05-14T19:52:26Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "2 Artificial Intelligence (AI) Stocks Poised to Win Big From SpaceX's $1.75 Trillion IPO",
-                "summary": "SpaceX is targeting the largest initial public offering in history at $1.75 trillion.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/14/2-artificial-intelligence-ai-stocks-poised-to-win/",
-                "publishDate": "2026-05-14T18:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Redwire Corporation Stock Soared Today",
-                "summary": "All of a sudden, investors love Redwire stock.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/14/why-redwire-corporation-stock-soared-today/",
-                "publishDate": "2026-05-14T17:39:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Brookfield Places $2 Billion Bet on SpaceX Ahead of IPO",
-                "summary": "The investment firm is tapping into businesses that stand to benefit from the rapid adoption of artificial intelligence.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/business/brookfield-places-2-billion-bet-on-spacex-ahead-of-ipo-85e5d52d?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-14T17:02:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Iridium Bets on Air Safety in Aireon Takeover",
-                "summary": "Satellite operator Iridium Communications agreed to take full control of a company that tracks airplane movements, betting it can grow the air data provider into a bigger business.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/tech/iridium-bets-on-air-safety-in-aireon-takeover-07f35719?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-14T16:42:00Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/google-talks-spacex-launch-data-084134109.html",
+                "publishDate": "2026-05-15T08:41:34Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.5,
+        "price": 28.955,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,11 +450,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.95825,
-            "marketCap": 21113182208,
+            "change": -1.8471448,
+            "marketCap": 20723126272,
             "weekLow": 10.58,
             "weekHigh": 30.33,
-            "yearTarget": 35.66667
+            "yearTarget": 35.70833
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -568,8 +568,8 @@
         ],
         "RATINGS": {
             "analystCount": 12,
-            "recommendationKey": "none",
-            "recommendationMean": "recommendationMean",
+            "recommendationKey": "strong_buy",
+            "recommendationMean": 1.30769,
             "strongBuy": 2,
             "buy": 9,
             "hold": 1,
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.25,
+        "price": 31.575,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.43885,
-            "marketCap": 7106569216,
+            "change": -7.8102174,
+            "marketCap": 6551531008,
             "weekLow": 10.54,
             "weekHigh": 36.52,
             "yearTarget": 43.8
