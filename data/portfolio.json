@@ -20,7 +20,7 @@
             "marketCap": 203024564224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.834778
+            "yearTarget": 46.77021
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 64.393936,
+            "change": 64.3939,
             "marketCap": 203609344,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,6 +322,56 @@
         },
         "NEWS": [
             {
+                "title": "Cerebras Systems Stock Soars 68% in Blockbuster IPO: What Investors Should Know",
+                "summary": "The Nvidia rival's stock offering price was $185, and it closed its first trading day at just above $311, indicating investors' powerful demand for AI stocks, particularly AI chip stocks.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/14/cbrs-stock-ai-chip-stocks-nvda-stock-competitor/",
+                "publishDate": "2026-05-15T01:05:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Brookfield Reveals $2 Billion SpaceX Stake Ahead Of Possible IPO",
+                "summary": "Brookfield says it owns $2 billion of pre-IPO SpaceX shares as Musk's company targets a valuation above $2 trillion.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/brookfield-reveals-2-billion-spacex-001438428.html",
+                "publishDate": "2026-05-15T00:14:38Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Cerebras Stock Soars Nearly 70% in Biggest IPO of 2026",
+                "summary": "Investors bid up shares of Cerebras Systems to about $385 a share in their trading debut on the Nasdaq, briefly giving the chip company a gain of more than 100% in its first minutes as a public company.  The pricing of the IPO Wednesday at $185 a share catapulted Cerebras's stock offering to around $5.6 billion, the biggest initial public offering of the year.  It\u2019s likely just the beginning for big IPOs: AI giants OpenAI and Anthropic are both eyeing offerings in the second-half of the year, and SpaceX, which recently acquired xAI, the maker of Grok chatbot, is planning a June debut.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026/card/cerebras-the-biggest-ipo-of-2026-preps-for-trading-bQ9VjNVjjTVDqTdDnv51?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-14T23:16:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Rocket Lab Leads Space Rally With 57% Gain Following SpaceX IPO Report",
+                "summary": "Space stocks have been on a rally since news of SpaceX's IPO dropped in March, and that rally shows no signs of stopping.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/14/rocket-lab-leads-space-rally-with-57-gain-followin/",
+                "publishDate": "2026-05-14T22:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk\u2019s SpaceXAI has been bleeding staff since its merger",
+                "summary": "More than 50 employees have reportedly left Elon Musk\u2019s newly merged SpaceXAI since February, raising questions about burnout, leadership changes, talent poaching, and whether liquidity events weakened retention incentives.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-spacexai-bleeding-staff-213044583.html",
+                "publishDate": "2026-05-14T21:30:44Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Sector Update: Consumer Stocks Advance Late Afternoon",
                 "summary": "Consumer stocks were higher late Thursday afternoon, with the State Street Consumer Staples Select S",
                 "source": "MT Newswires",
@@ -338,16 +388,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/14/2-artificial-intelligence-ai-stocks-poised-to-win/",
                 "publishDate": "2026-05-14T18:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Cerebras Stock Soars More Than 70% in Biggest IPO of 2026",
-                "summary": "Investors bid up shares of Cerebras Systems to about $385 a share in their trading debut on the Nasdaq, briefly giving the chip company a gain of more than 100% in its first minutes as a public company.  The pricing of the IPO Wednesday at $185 a share catapulted Cerebras's stock offering to around $5.6 billion, the biggest initial public offering of the year.  It\u2019s likely just the beginning for big IPOs: AI giants OpenAI and Anthropic are both eyeing offerings in the second-half of the year, and SpaceX, which recently acquired xAI, the maker of Grok chatbot, is planning a June debut.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-14-2026/card/cerebras-the-biggest-ipo-of-2026-preps-for-trading-bQ9VjNVjjTVDqTdDnv51?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-14T18:25:07Z",
                 "premium": false,
                 "freemium": false
             },
@@ -380,46 +420,6 @@
                 "publishDate": "2026-05-14T16:42:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Cerebras IPO values AI chipmaker at $40B",
-                "summary": "Cerebras priced its IPO at a $40 billion valuation, nearly 5x what it was worth eight months ago. The AI capital boom is pulling investor attention and money away from crypto, with SpaceX and OpenAI listings still to come. CoinDesk's Jennifer Sanasie hosts \"CoinDesk Daily.\"",
-                "source": "CoinDesk",
-                "category": "finance",
-                "url": "http://videos.coindesk.com/previews/Fbad1Y9X",
-                "publishDate": "2026-05-14T16:40:24Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "AT&T, T-Mobile, Verizon form satellite joint venture",
-                "summary": "The 3 largest U.S. wireless carriers will pool spectrum resources and satellite partnerships to extend mobile coverage in rural and remote areas",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/att-tmobile-verizon-satellite-joint-venture-dead-zones-051426",
-                "publishDate": "2026-05-14T15:46:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Wants To Build 'Most Advanced' Spaceports Across The US And World As Starship Aims For Thousands Of Flights Each Year",
-                "summary": "SpaceX is scouting possible U.S. and overseas locations to build new \"spaceports,\" CEO Elon Musk said on Tuesday, as the company prepares for a future in which its massive Starship rocket could launch thousands of times a year. Musk Says...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-wants-build-most-153104289.html",
-                "publishDate": "2026-05-14T15:31:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Top Stock Picks of 2026: 3D Printing Stock Takes Off",
-                "summary": "VELO has come on strong in the second quarter of 2026",
-                "source": "Schaeffer's Investment Research",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/top-stock-picks-2026-3d-140003941.html",
-                "publishDate": "2026-05-14T14:00:03Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.95825016,
+            "change": 0.95825,
             "marketCap": 21113182208,
             "weekLow": 10.58,
             "weekHigh": 30.33,
@@ -594,9 +594,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.438849,
+            "change": -1.43885,
             "marketCap": 7106569216,
-            "weekLow": 10.47,
+            "weekLow": 10.54,
             "weekHigh": 36.52,
             "yearTarget": 43.8
         },
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "SSR Mining (SSRM) Reports Q1 Adjusted EPS Beat",
+                "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the 8 Best American Mining Stocks to Buy Right Now. SSR Mining Inc. (NASDAQ:SSRM) reported Q1 adjusted EPS of $1.15, versus the consensus estimate of 80c. Revenue totaled $581.78M, versus the consensus estimate of $533.68M. Executive Chairman Rod Antal said the first quarter marked a significant milestone for [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-reports-q1-225057967.html",
+                "publishDate": "2026-05-14T22:50:57Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Assessing SSR Mining (TSX:SSRM) Valuation After Recent Share Price Momentum",
                 "summary": "Why SSR Mining Is On Investors\u2019 Radar SSR Mining (TSX:SSRM) has drawn attention after a period of strong share price moves, with the stock up 1.6% over the past day, 23.3% over the week, and 31.5% over the past 3 months. See our latest analysis for SSR Mining. That short term momentum sits on top of a longer run picture where the share price return is strong year to date, while the 1 year total shareholder return is even higher. If this kind of move has you looking across precious metals, it...",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssrm-vs-wpm-stock-better-154002155.html",
                 "publishDate": "2026-04-28T15:40:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's Why SSR Mining (SSRM) is a Strong Value Stock",
-                "summary": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-ssr-mining-ssrm-134005362.html",
-                "publishDate": "2026-04-28T13:40:05Z",
                 "premium": false,
                 "freemium": false
             }
