@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.68,
+        "price": 44.515,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4454126,
-            "marketCap": 198059786240,
+            "change": -2.8056765,
+            "marketCap": 197328355328,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.73442
+            "yearTarget": 46.712765
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -49,6 +49,16 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150450992.html",
                 "publishDate": "2026-05-15T15:04:50Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "HIMS Stock Dips 14.3% Since Q1 Earnings: Should You Still Hold or Sell?",
+                "summary": "Hims & Hers faces profit pressure in first-quarter 2026, though subscribers increase and a Novo Nordisk GLP-1 partnership broadens weight-loss care.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/hims-stock-dips-14-3-141500245.html",
+                "publishDate": "2026-05-15T14:15:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-14T14:57:03Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Can Novo Nordisk Sustain Its GLP-1 Edge Amid Lilly's Growing Pressure?",
-                "summary": "NVO beats Q1 estimates and raises its 2026 outlook. Meanwhile, Eli Lilly's expanding GLP-1 portfolio threatens its obesity market dominance.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-sustain-glp-1-142000253.html",
-                "publishDate": "2026-05-14T14:20:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.0188,
+        "price": 2.02,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -6.9961157,
-            "marketCap": 189422352,
+            "change": -6.9124465,
+            "marketCap": 189534944,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,46 @@
         },
         "NEWS": [
             {
+                "title": "Boeing Eases After China Order, Deliveries Fall Short. Space Stocks Rally.",
+                "summary": "Aerospace, defense stocks trade near buy point in mixed week for the sector. Boeing eases from entry on China orders, delivery report.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/boeing-stock-china-order-deliveries-ba-defense-aerospace-stocks-buy-point-rklb-lunr-rdw-hwm-gd/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-15T15:11:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "So You Think You Own Shares in a Hot Startup? Anthropic Says Not So Fast.",
+                "summary": "The AI giant rattled the complex world of special-purpose vehicles and secondary-share platforms, which bring investing in hot private companies to the masses.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/investing/so-you-think-you-own-shares-in-a-hot-startup-anthropic-says-not-so-fast-7b60f938?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-15T15:03:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Delta Passed on Starlink. Should Investors Care?",
+                "summary": "First Ryanair and now Delta. Not every airline wants to use SpaceX\u2019s Starlink inflight Wi-Fi service.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/delta-stock-starlink-amazon-leo-wifi-eefec847?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-15T14:59:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Has a Huge Week Ahead",
+                "summary": "FEATURE  SpaceX has a busy handful of days ahead.  For starters, Elon Musk\u2019s rocket company is expected to give an update on its hotly anticipated IPO. The company\u2019s S-1 initial public offering registration statement could become public as soon as next week, according to a CNBC report on Thursday.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-rocket-launch-95f27bed?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-15T14:27:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "$1.75 Trillion SpaceX IPO Hardwires Elon Musk As Single-Point Founder Risk",
                 "summary": "SpaceX IPO entrenches Musk as irreplaceable, warns his loss could be existential, and ties pay to fantasy milestones.",
                 "source": "BeInCrypto",
@@ -348,16 +388,6 @@
                 "category": "finance",
                 "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-may-15-2026-11975521",
                 "publishDate": "2026-05-15T12:23:30Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Has a Huge Week Ahead",
-                "summary": "FEATURE  SpaceX has a busy handful of days ahead.  For starters, Elon Musk\u2019s rocket company is expected to give an update on its hotly anticipated IPO. The company\u2019s S-1 Initial Public Offering registration statement could become public as soon as next week, according to a CNBC report on Thursday.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-rocket-launch-95f27bed?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-15T12:16:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-15T11:20:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "How SpaceX stacks up against some of the biggest US IPOs",
-                "summary": "SpaceX is targeting a valuation of roughly $1.75 trillion in its upcoming \u200cinitial public offering, in what could be the \u200cbiggest-ever stock market debut by a U.S. company on Wall Street.  The \u200blisting of Elon Musk-led SpaceX could easily dwarf many of the biggest U.S. IPOs on record, including those of Alibaba, Visa and Facebook, now Meta Platforms, which analysts \u200csay reflects high growth \u2060expectations from the rocket and satellite company that it may struggle to meet.  Analysts \u200csay SpaceX's proposed valuation reflects in part how much investors are being asked to pay for future growth.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stacks-against-biggest-us-100144186.html",
-                "publishDate": "2026-05-15T10:01:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Calls Fully Reusable Rockets A 'Crazy Hard Problem' As SpaceX Pushes Starship V4",
-                "summary": "SpaceX CEO Elon Musk has outlined that engine reliability is a crucial aspect for rocket reusability, being equally important to heat shield integrity. \u2018Crazy Hard Problem\u2019 Responding to user @GeniusGTX on X, who had shared a clip of Musk illustrating...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-calls-fully-reusable-100109507.html",
-                "publishDate": "2026-05-15T10:01:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Google in Talks with SpaceX to Launch Data Centers into Space",
-                "summary": "Alphabet Inc. (NASDAQ:GOOG) is included among the 10 Best US Stocks to Invest in According to Billionaires. Alphabet Inc. (NASDAQ:GOOG) is a holding company with segments that include Google Services, Google Cloud, and Other Bets. Alphabet Inc. (NASDAQ:GOOG)\u2019s Google announced on May 12 that it was in discussions with Elon Musk\u2019s SpaceX and others regarding [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/google-talks-spacex-launch-data-084134109.html",
-                "publishDate": "2026-05-15T08:41:34Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.955,
+        "price": 28.785,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8471448,
-            "marketCap": 20723126272,
+            "change": -2.4237294,
+            "marketCap": 20601456640,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.575,
+        "price": 31.156,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -7.8102174,
-            "marketCap": 6551531008,
+            "change": -9.039119,
+            "marketCap": 6464591872,
             "weekLow": 10.54,
             "weekHigh": 36.52,
             "yearTarget": 43.8
