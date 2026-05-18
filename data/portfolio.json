@@ -20,7 +20,7 @@
             "marketCap": 196065001472,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.79567
+            "yearTarget": 46.830044
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.225,
+        "price": 2.25,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 10.148511,
-            "marketCap": 208769920,
+            "change": 11.38614,
+            "marketCap": 211115664,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX IPO Adds Second Musk Stock. It\u2019s a Problem for Tesla",
+                "summary": "(Bloomberg) -- For years, there was only one way for mom-and-pop investors to buy into Elon Musk\u2019s vision: shares of Tesla Inc. That\u2019s about to change \u2014 and it\u2019s a serious risk for Tesla investors. Most Read from BloombergStocks Fall, Oil Rises as Hormuz Deal Hopes Fade: Markets WrapBillionaire Rinehart Bets $100 Million on US Defense StocksIranian Media Said US Offered Interim Waiver on Oil SanctionsUS and Iran Far From Deal as Bond Rout Piles Pressure on TrumpWinners and Losers From Trump and",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-add-another-musk-173745847.html",
+                "publishDate": "2026-05-18T19:25:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Sector Update: Financial Stocks Higher Monday Afternoon",
                 "summary": "Financial stocks were advancing in Monday afternoon trading, with the NYSE Financial Index rising 1%",
                 "source": "MT Newswires",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-18T14:31:21Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why Redwire Corporation Stock Popped Then Dropped",
-                "summary": "Is it time to sell other space stocks and buy SpaceX instead?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/why-redwire-corporation-stock-popped-then-dropped/",
-                "publishDate": "2026-05-18T14:23:04Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.57,
+        "price": 28.565,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.458181,
-            "marketCap": 20447580160,
+            "change": -2.4752488,
+            "marketCap": 20444002304,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.77,
+        "price": 30.76,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.975148,
-            "marketCap": 6384500224,
+            "change": -2.007006,
+            "marketCap": 6382425600,
             "weekLow": 10.66,
             "weekHigh": 36.52,
             "yearTarget": 43.8
