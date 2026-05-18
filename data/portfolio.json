@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.165,
+        "price": 44.16,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.285205,
-            "marketCap": 195776872448,
+            "change": -1.2963831,
+            "marketCap": 195754704896,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.80209
+            "yearTarget": 46.762955
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.2999,
+        "price": 2.21,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 13.85644,
-            "marketCap": 215797744,
+            "change": 9.405944,
+            "marketCap": 207362496,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.42,
+        "price": 28.34,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9702997,
-            "marketCap": 20340226048,
+            "change": -3.2434304,
+            "marketCap": 20282970112,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -465,6 +465,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Hedge Fund Wagers $36 Million on Biotech Denali After First FDA Approval",
+                "summary": "This biotech develops therapies for neurodegenerative diseases, advancing a broad pipeline through strategic pharmaceutical partnerships.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/coverage/filings/2026/05/18/hedge-fund-wagers-usd36-million-on-biotech-denali-after-first-fda-approval/",
+                "publishDate": "2026-05-18T18:43:47Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Hedge Fund Drops $40 Million on Gene-Editing Biotech Beam. Is It a Buy?",
+                "summary": "Beam Therapeutics develops precision genetic medicines using base editing technology to target serious inherited diseases.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/coverage/filings/2026/05/18/hedge-fund-drops-usd40-million-on-gene-editing-biotech-beam-is-it-a-buy/",
+                "publishDate": "2026-05-18T18:25:44Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Hedge Fund Drops $37 Million on Rare Disease Biotech Crinetics. Is It a Buy?",
+                "summary": "Crinetics Pharmaceuticals develops oral therapies for rare endocrine diseases.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/coverage/filings/2026/05/18/hedge-fund-drops-usd37-million-on-rare-disease-biotech-crinetics-is-it-a-buy/",
+                "publishDate": "2026-05-18T18:10:27Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Gossamer Bio (GOSS) Reports Q1 Loss, Tops Revenue Estimates",
                 "summary": "Gossamer Bio (GOSS) delivered earnings and revenue surprises of -17.65% and +181.04%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
@@ -534,36 +564,6 @@
                 "publishDate": "2026-04-30T21:41:14Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Roivant Sciences Ltd. (ROIV): David Einhorn Trims Stake",
-                "summary": "We just covered 15 Under-the-Radar Picks from David Einhorn That Are Quietly Dominating 2026 and Roivant Sciences Ltd. (NASDAQ:ROIV) ranks 7th on this list. Roivant Sciences Ltd. (NASDAQ:ROIV) has been a consistent feature in the 13F portfolio of Greenlight Capital since the first quarter of 2024. Back then, this position comprised 4.1 million shares. By the [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/roivant-sciences-ltd-roiv-david-211140922.html",
-                "publishDate": "2026-04-29T21:11:40Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Roivant Sciences Ltd. (ROIV): One of the Best Stocks to Buy According to Joe Edelman",
-                "summary": "We just covered the Billionaire Joe Edelman\u2019s 10 Stock Picks with Huge Upside Potential and Roivant Sciences Ltd. (NASDAQ:ROIV) ranks 8th on this list. Roivant Sciences Ltd. (NASDAQ:ROIV) recently won a major legal battle. In March, Roivant\u2019s subsidiaries, Genevant and Arbutus, reached a $2.25 billion global settlement with Moderna over a COVID-19 vaccine patent. This [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/roivant-sciences-ltd-roiv-one-211550074.html",
-                "publishDate": "2026-04-27T21:15:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Kodiak Sciences Inc (KOD): What\u2019s the Chance of Success for Zenkuda?",
-                "summary": "Kodiak Sciences Inc (NASDAQ:KOD) is among the best 52-week high US stocks to buy. On March 27, H.C. Wainwright boosted its price target on Kodiak Sciences Inc (NASDAQ:KOD) to $58 from $38 and reiterated a Buy rating on the shares. The firm raised its price target after positive Phase 3 GLOW2 trial results for tarcocimab [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/kodiak-sciences-inc-kod-chance-094736443.html",
-                "publishDate": "2026-04-23T09:47:36Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.055,
+        "price": 30.645,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0672159,
-            "marketCap": 6443635200,
+            "change": -2.373364,
+            "marketCap": 6358563840,
             "weekLow": 10.66,
             "weekHigh": 36.52,
             "yearTarget": 43.8
