@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0281692,
+            "change": -1.02817,
             "marketCap": 196286627840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.853867
+            "yearTarget": 46.84933
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,36 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX IPO Could Disappoint Investors Based on Historical Patterns",
+                "summary": "There's a lot of pressure that comes with potentially being the largest IPO in history.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/18/spacex-ipo-could-disappoint-investors-based-on-his/",
+                "publishDate": "2026-05-18T20:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Launch, Prospectus Anticipation Send Space Stocks Higher",
+                "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO. Space stocks surge.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-starship-launch-v3-super-heavy-ipo-prospectus-elon-musk-space-stocks/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-18T20:16:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Tesla\u2019s Elon Musk Finds Time to Update Us on the Robo-Taxi Rollout",
+                "summary": "CEO Elon Musk says Tesla robo-taxis will probably be \u2018widespread\u2019 in the U.S. by the end of 2026. This week, though, he is focused on the SpaceX IPO.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/tesla-robo-taxi-elon-musk-spacex-756eff1f?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-18T20:08:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Sector Update: Financial Stocks Higher Monday Afternoon",
                 "summary": "Financial stocks were advancing in Monday afternoon trading, with the NYSE Financial Index rising 1%",
                 "source": "MT Newswires",
@@ -348,26 +378,6 @@
                 "category": "finance",
                 "url": "http://www.etf.com/sections/podcasts/behind-ticker-nasa-spacex-and-tema-etfs?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
                 "publishDate": "2026-05-18T17:06:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla\u2019s Elon Musk Finds Time to Update Us on the Robo-Taxi Rollout",
-                "summary": "CEO Elon Musk says Tesla robo-taxis will probably be \u2018widespread\u2019 in the U.S. by the end of 2026. This week, though, he is focused on the SpaceX IPO.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/tesla-robo-taxi-elon-musk-spacex-756eff1f?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-18T16:02:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Launch, Prospectus Anticipation Send Space Stocks Higher",
-                "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO. Space stocks surge.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-starship-launch-v3-super-heavy-ipo-prospectus-elon-musk-space-stocks/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-18T15:53:28Z",
                 "premium": false,
                 "freemium": false
             },
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://qz.com/spacex-ipo-june-12-nasdaq-debut-051826",
                 "publishDate": "2026-05-18T14:31:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Redwire Corporation Stock Popped Then Dropped",
-                "summary": "Is it time to sell other space stocks and buy SpaceX instead?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/why-redwire-corporation-stock-popped-then-dropped/",
-                "publishDate": "2026-05-18T14:23:04Z",
                 "premium": false,
                 "freemium": false
             }
