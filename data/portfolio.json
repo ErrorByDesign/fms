@@ -20,7 +20,7 @@
             "marketCap": 196286627840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.84933
+            "yearTarget": 46.858837
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 646.78,
+        "price": 647.1,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,19 +306,19 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.25,
-            "marketCap": 1535302565888,
+            "change": 0.05,
+            "marketCap": 1536062259200,
             "weekLow": 202.78,
-            "weekHigh": 646.78,
+            "weekHigh": 647.1,
             "yearTarget": null
         },
         "FUNDING": {
-            "fundingToDate": 8923307008,
-            "latestAmountRaised": 249999998976,
-            "latestFundingDate": 1770076800,
-            "latestShareClass": "Corporate Round",
+            "fundingToDate": 5283307008,
+            "latestAmountRaised": 1901446912,
+            "latestFundingDate": 1596499200,
+            "latestShareClass": "Series N",
             "leadInvestor": "Draper Fisher Jurvetson",
-            "totalFundingRounds": 22
+            "totalFundingRounds": 14
         },
         "NEWS": [
             {
@@ -328,6 +328,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/spacex-filing-boosts-space-stocks-bofa-resumes-servicenow-coverage-154113234.html",
                 "publishDate": "2026-05-18T15:41:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Is Coming. This Is the Vanguard ETF It'll Probably Show Up In First.",
+                "summary": "SpaceX could be the biggest initial public offering ever. The CRSP indexes and the ETFs linked to them could get shares first.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/18/spacex-ipo-is-coming-this-is-vanguard-etf-first/",
+                "publishDate": "2026-05-18T21:20:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
                 "publishDate": "2026-05-18T14:46:25Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO targets June 12 Nasdaq debut, $75 billion raise",
-                "summary": "The rocket and satellite company has accelerated its timeline, aiming to price shares on June 11 at a valuation of up to $1.75 trillion",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/spacex-ipo-june-12-nasdaq-debut-051826",
-                "publishDate": "2026-05-18T14:31:21Z",
                 "premium": false,
                 "freemium": false
             }
