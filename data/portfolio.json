@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.16,
+        "price": 44.23,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2963831,
-            "marketCap": 195754704896,
+            "change": -1.1399243,
+            "marketCap": 196065001472,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.762955
+            "yearTarget": 46.79567
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.21,
+        "price": 2.225,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 9.405944,
-            "marketCap": 207362496,
+            "change": 10.148511,
+            "marketCap": 208769920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.34,
+        "price": 28.57,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2434304,
-            "marketCap": 20282970112,
+            "change": -2.458181,
+            "marketCap": 20447580160,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.645,
+        "price": 30.77,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.373364,
-            "marketCap": 6358563840,
+            "change": -1.975148,
+            "marketCap": 6384500224,
             "weekLow": 10.66,
             "weekHigh": 36.52,
             "yearTarget": 43.8
