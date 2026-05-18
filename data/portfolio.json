@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.365,
+        "price": 44.26,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.8381761,
-            "marketCap": 196663443456,
+            "change": -1.072753,
+            "marketCap": 196197974016,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.836544
+            "yearTarget": 46.824787
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "3 Deeply Undervalued Stocks You Can Buy for Less Than $100 Right Now",
+                "summary": "These stocks could look like steals in a few years.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/18/3-deeply-undervalued-stocks-you-can-buy-for-less-t/",
+                "publishDate": "2026-05-18T16:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Top Midday Stories: NextEra, Dominion to Combine in All-Stock Deal; Big Pharma Firms Denied Certiorari by Supreme Court in Medicare Pricing Case",
                 "summary": "The Dow Jones Industrial Average, Nasdaq Composite and S&P 500 Index were down in late-morning tradi",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-16T11:13:41Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Buy, Sell, or Hold Novo Nordisk at $46?",
-                "summary": "Can Novo Nordisk thrive under intense competitive pressures?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/15/buy-sell-or-hold-novo-nordisk-at-46/",
-                "publishDate": "2026-05-15T15:05:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.19,
+        "price": 2.22,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.415846,
-            "marketCap": 205485920,
+            "change": 9.900992,
+            "marketCap": 208300784,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,16 +332,6 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX reportedly issues 5-for-1 stock split as IPO timeline accelerates",
-                "summary": "SpaceX is barreling towards its initial public offering, and it is trying to make it stock even more attractive before it even debuts - with a stock split.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-reportedly-issues-5-for-1-stock-split-as-ipo-timeline-accelerates-121128655.html",
-                "publishDate": "2026-05-18T12:11:28Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "SpaceX Launch, Prospectus Anticipation Send Space Stocks Higher",
                 "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO. Space stocks surge.",
                 "source": "Investor's Business Daily",
@@ -420,6 +410,16 @@
                 "publishDate": "2026-05-18T14:01:12Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "You\u2019re Going to Regret Not Buying This ETF Before SpaceX\u2019s IPO",
+                "summary": "Prediction market traders on Polymarket now assign a 92% probability that SpaceX completes its IPO by June 30, 2026, with a $1.5 trillion-plus valuation in play. That puts the Procure Space ETF (NYSEARCA:UFO) in an unusual spot for a $749 million niche fund. UFO is the cleanest publicly listed expression of the space economy that ... You\u2019re Going to Regret Not Buying This ETF Before SpaceX\u2019s IPO",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/18/youre-going-to-regret-not-buying-this-etf-before-spacexs-ipo/",
+                "publishDate": "2026-05-18T13:28:12Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.465,
+        "price": 28.43,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8166635,
-            "marketCap": 20372432896,
+            "change": -2.9361577,
+            "marketCap": 20347383808,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.2588,
+        "price": 31.02,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.41796395,
-            "marketCap": 6485921792,
+            "change": -1.178716,
+            "marketCap": 6436372992,
             "weekLow": 10.66,
             "weekHigh": 36.52,
             "yearTarget": 43.8
