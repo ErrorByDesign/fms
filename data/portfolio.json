@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.315,
+        "price": 44.165,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.9499397,
-            "marketCap": 196441784320,
+            "change": -1.285205,
+            "marketCap": 195776872448,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.825516
+            "yearTarget": 46.80209
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Three Biotechs That Are Top Takeover Targets",
+                "summary": "Eli Lilly (NYSE:LLY) is the stock everyone wants to talk about, and the reasons are obvious: Mounjaro revenue jumped 125% to $8.66 billion last quarter, the company raised full-year revenue guidance to $82 to $85 billion, and the market cap now sits at roughly $881.8 billion. But here\u2019s what you should actually be watching. The ... Three Biotechs That Are Top Takeover Targets",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/18/three-biotechs-that-are-top-takeover-targets/",
+                "publishDate": "2026-05-18T17:55:07Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "3 Deeply Undervalued Stocks You Can Buy for Less Than $100 Right Now",
                 "summary": "These stocks could look like steals in a few years.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-16T14:50:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Refocuses Odense Spend Toward GLP-1 Growth Priorities",
-                "summary": "Novo Nordisk has cancelled a planned US$1.33b rare disease factory project in Odense and will instead convert the site into a warehouse. The decision affects local job expectations and reflects cost cutting and capital reallocation within the company. The shift comes as Novo Nordisk pursues regulatory and clinical progress on next generation anti obesity therapies. Novo Nordisk (CPSE:NOVO B), currently trading around DKK299.2, is making this change after a period of mixed share...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-refocuses-odense-spend-111341952.html",
-                "publishDate": "2026-05-16T11:13:41Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.3,
+        "price": 2.2999,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 13.861384,
-            "marketCap": 215807120,
+            "change": 13.85644,
+            "marketCap": 215797744,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "Sector Update: Financial Stocks Higher Monday Afternoon",
+                "summary": "Financial stocks were advancing in Monday afternoon trading, with the NYSE Financial Index rising 1%",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-higher-monday-180608209.html",
+                "publishDate": "2026-05-18T18:06:08Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
                 "title": "Behind the Ticker: NASA, SpaceX, and Tema ETFs",
                 "summary": "<p>The <a href=\"https://www.etf.com/NASA\"><strong>Tema Space Innovators ETF (NASA)</strong></a><strong> </strong>managed to land, entirely by accident, one of the most fortuitous launch windows for a thematic ETF, coinciding with the Artemis II mission and renewed popular interest in the space program. This episode of <em>Behind the Ticker </em>digs into the fund, how Tema ETFs approaches thematic investing differently, and why the aerospace industry\u2019s future looks so bright.\u00a0</p>",
                 "source": "etf.com",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-18T14:23:04Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk Says Trump Account Contributions Are 'Nice Gesture' But Unnecessary \u2014 'There Will Be No Poverty In The Future And So No Need To Save Money'",
-                "summary": "For most people, a conversation about children's savings accounts usually ends somewhere around compound interest and responsible adulthood. Then Tesla and SpaceX CEO Elon Musk showed up and turned it into a discussion about whether artificial intelligence could eventually wipe...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/economy/articles/elon-musk-says-trump-account-140112230.html",
-                "publishDate": "2026-05-18T14:01:12Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.53,
+        "price": 28.42,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.594743,
-            "marketCap": 20418953216,
+            "change": -2.9702997,
+            "marketCap": 20340226048,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.1,
+        "price": 31.055,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.923858,
-            "marketCap": 6452972544,
+            "change": -1.0672159,
+            "marketCap": 6443635200,
             "weekLow": 10.66,
             "weekHigh": 36.52,
             "yearTarget": 43.8
