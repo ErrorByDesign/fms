@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.4,
+        "price": 44.315,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.75994664,
-            "marketCap": 196818583552,
+            "change": -0.9499397,
+            "marketCap": 196441784320,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.821575
+            "yearTarget": 46.825516
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.23,
+        "price": 2.3,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 10.396042,
-            "marketCap": 209239088,
+            "change": 13.861384,
+            "marketCap": 215807120,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -342,16 +342,6 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX\u2019s Mega-IPO Puts a Price on the Fear of Missing Out",
-                "summary": "(Bloomberg) -- Elon Musk has turned science fiction into reality for the better part of two decades, making believers rich and earning the benefit of the doubt from many on Wall Street. Away from rockets and electric cars, his companies are bending reality on another plane \u2013 convincing analysts to stretch their traditional valuation tools, and assign multiples based on what one academic calls \u201coptionalities.\u201dMost Read from BloombergStocks Fall, Oil Rises on Doubts Over US-Iran Deal: Markets Wrap",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-mega-ipo-puts-price-110000597.html",
-                "publishDate": "2026-05-18T16:55:43Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Tesla\u2019s Elon Musk Finds Time to Update Us on the Robo-Taxi Rollout",
                 "summary": "CEO Elon Musk says Tesla robo-taxis will probably be \u2018widespread\u2019 in the U.S. by the end of 2026. This week, though, he is focused on the SpaceX IPO.",
                 "source": "Barrons.com",
@@ -420,6 +410,16 @@
                 "publishDate": "2026-05-18T14:23:04Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "Elon Musk Says Trump Account Contributions Are 'Nice Gesture' But Unnecessary \u2014 'There Will Be No Poverty In The Future And So No Need To Save Money'",
+                "summary": "For most people, a conversation about children's savings accounts usually ends somewhere around compound interest and responsible adulthood. Then Tesla and SpaceX CEO Elon Musk showed up and turned it into a discussion about whether artificial intelligence could eventually wipe...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/economy/articles/elon-musk-says-trump-account-140112230.html",
+                "publishDate": "2026-05-18T14:01:12Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.6,
+        "price": 28.53,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.3557546,
-            "marketCap": 20469051392,
+            "change": -2.594743,
+            "marketCap": 20418953216,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.17,
+        "price": 31.1,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.700858,
-            "marketCap": 6467496960,
+            "change": -0.923858,
+            "marketCap": 6452972544,
             "weekLow": 10.66,
             "weekHigh": 36.52,
             "yearTarget": 43.8
