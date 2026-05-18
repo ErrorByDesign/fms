@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.74,
+        "price": 44.345,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.31441,
-            "marketCap": 198325764096,
+            "change": -0.88287985,
+            "marketCap": 196574773248,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.702156
+            "yearTarget": 46.77315
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "AstraZeneca Wins FDA Approval for $5 Billion Blood Pressure Drug",
+                "summary": "Baxfendy gained FDA clearance for uncontrolled hypertension patients as AstraZeneca expands its cardiovascular and metabolic portfolio.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/astrazeneca-wins-fda-approval-5-130239336.html",
+                "publishDate": "2026-05-18T13:02:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Eyes Global Push for Wegovy Pill",
+                "summary": "Drugmaker sees international markets as next test for obesity pill demand.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-eyes-global-push-122509006.html",
+                "publishDate": "2026-05-18T12:25:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk's Wegovy pill maintains strong lead over Eli Lilly rival despite weekly dip, Citi says",
+                "summary": "Novo Nordisk's (NYSE:NVO) oral version of its blockbuster weight-loss drug Wegovy continues to outpace its main competitor despite a slight weekly decline in prescriptions, according to Citi's latest tracking data. The bank's weekly prescription tracker, based on IQVIA data, showed Wegovy...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1092461/novo-nordisk-s-wegovy-pill-maintains-strong-lead-over-eli-lilly-rival-despite-weekly-dip-citi-says-1092461.html",
+                "publishDate": "2026-05-18T12:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Race intensifies to lead next wave of obesity drugs as trial results loom",
+                "summary": "As next-generation GLP-1 contenders rise, key readouts are on the way from Pfizer, Viking Therapeutics and Eli Lilly.",
+                "source": "Pharma Voice",
+                "category": "finance",
+                "url": "https://www.pharmavoice.com/news/obesity-weight-loss-drug-trial-readout-pfizer-lilly-viking/820435/",
+                "publishDate": "2026-05-18T09:21:26Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Assessing Novo Nordisk (NYSE:NVO) Valuation After Recent Share Price Rebound And Undervalued Narrative",
                 "summary": "Recent performance snapshot for Novo Nordisk (NVO) With no single headline event driving the move, Novo Nordisk (NVO) has drawn attention after a mixed stretch for the stock, including a gain of about 10% over the past month alongside weaker longer term returns. See our latest analysis for Novo Nordisk. Recent trading paints a mixed picture, with the share price up about 10% over the past month yet down over longer horizons, including a year to date decline of 14.6% and a 1 year total...",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-05-15T15:04:50Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "HIMS Stock Dips 14.3% Since Q1 Earnings: Should You Still Hold or Sell?",
-                "summary": "Hims & Hers faces profit pressure in first-quarter 2026, though subscribers increase and a Novo Nordisk GLP-1 partnership broadens weight-loss care.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/hims-stock-dips-14-3-141500245.html",
-                "publishDate": "2026-05-15T14:15:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Best Healthcare Stocks to Buy in 2026",
-                "summary": "Novo Nordisk and Biogen are underpriced and stand to gain from new indications for their blockbuster therapies.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/14/best-healthcare-stocks-to-buy-in-2026/",
-                "publishDate": "2026-05-14T19:05:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In",
-                "summary": "For a decade, owning anything outside the S&P 500 felt like paying tuition to learn a lesson you already knew. International developed equities lagged, the dollar marched higher, and every diversification pitch sounded like an apology. That trade has flipped. Over the past year, Vanguard FTSE Developed Markets ETF (NYSEARCA:VEA) returned 34% against the S&P ... International Stocks Keep Crushing the S&P. This Cheap ETF Is How You Get In",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/14/international-stocks-keep-crushing-the-sp-this-cheap-etf-is-how-you-get-in/",
-                "publishDate": "2026-05-14T17:08:41Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Omeros (OMER) Q1 2026 Earnings Transcript",
-                "summary": "Gregory Demopulos: Thank you, Jennifer, and good afternoon, everyone.  Joining me today are David Borges, our Chief Accounting Officer; Dr. Cathy Melfi, our Chief Regulatory Officer; and Dr. Steve Whitaker, Vice President of Clinical.  After that, David will cover the financials in more detail and then we'll open the call for questions.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/earnings/call-transcripts/2026/05/14/omeros-omer-q1-2026-earnings-transcript/",
-                "publishDate": "2026-05-14T15:14:46Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.02,
+        "price": 2.21,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -6.912447,
-            "marketCap": 189534944,
+            "change": 9.405944,
+            "marketCap": 207362496,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "How Much Will SpaceX Stock Be Worth by 2030? Here's What History Says.",
-                "summary": "SpaceX is reportedly seeking a valuation of up to $2 trillion for its initial public offering.",
+                "title": "SpaceX reportedly issues 5-for-1 stock split as IPO timeline accelerates",
+                "summary": "SpaceX is barreling towards its initial public offering, and it is trying to make it stock even more attractive before it even debuts - with a stock split.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-reportedly-issues-5-for-1-stock-split-as-ipo-timeline-accelerates-121128655.html",
+                "publishDate": "2026-05-18T12:11:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Intuitive Machines Stock Popped Then Dropped",
+                "summary": "First, the SpaceX IPO inspired space investors -- but today it's frightening them.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/17/how-much-will-spacex-stock-be-worth-by-2030-heres/",
-                "publishDate": "2026-05-18T00:20:00Z",
+                "url": "https://www.fool.com/investing/2026/05/18/why-intuitive-machines-stock-popped-then-dropped/",
+                "publishDate": "2026-05-18T15:13:15Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Elon Musk Accused Of Building 'Most Management-Favorable' IPO Structure At SpaceX: Report",
-                "summary": "Top Pension officials from New York and California have written to SpaceX CEO Elon Musk, expressing concern over the \u201cextreme\u201d governance structure of the commercial space flight company ahead of its public listing. Comptrollers Express Concern New York State Comptroller...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-accused-building-most-220104374.html",
-                "publishDate": "2026-05-17T22:01:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Ascent Solar Technologies, Inc. (ASTI) Among the Most Promising Renewable Energy Stocks Right Now?",
-                "summary": "With an upside potential of 305.68%, Ascent Solar Technologies, Inc. (NASDAQ:ASTI) is among the 11 Most Promising Renewable Energy Stocks Right Now. Ascent Solar Technologies, Inc. (NASDAQ:ASTI) received new analyst coverage on April 23 when H.C. Wainwright initiated the stock with a Buy rating and a $20 price target. The firm stated that Ascent Solar specializes in [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/energy/articles/ascent-solar-technologies-inc-asti-192008732.html",
-                "publishDate": "2026-05-17T19:20:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why SpaceX Split Its Stock and 2 More Trillion-Dollar Issues",
-                "summary": "Three recent tidbits: SpaceX split its stock.  Bloomberg reported Friday that SpaceX had split its stock five-to-one ahead of its massive IPO, which could raise $75 billion and value the company at up to $2 trillion.  SpaceX didn\u2019t respond to a request for comment about the split.",
+                "title": "Tesla\u2019s Elon Musk Finds Time to Update Us on the Robi-Taxi Rollout",
+                "summary": "CEO Elon Musk says Tesla robo-taxis will probably be \u2018widespread\u2019 in the U.S. by the end of 2026. This week, though, he is focused on the SpaceX IPO.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-stock-ipo-roadshow-filing-musk-637d657c?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-17T14:49:00Z",
+                "url": "https://www.barrons.com/articles/tesla-robo-taxi-elon-musk-spacex-756eff1f?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-18T15:10:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Accelerates Its IPO Timeline: 10 Things You Need to Know",
-                "summary": "SpaceX is fine-tuning the details of Wall Street's largest-ever initial public offering (IPO), including its ticker symbol, the exchange on which it'll trade, a pre-IPO stock split, and its targeted debut date.",
+                "title": "Why Rocket Lab Stock Popped Then Dropped",
+                "summary": "First the SpaceX IPO got investors excited. Now it may be getting them scared.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/17/spacex-accelerates-ipo-timeline-10-things-to-know/",
-                "publishDate": "2026-05-17T14:26:00Z",
+                "url": "https://www.fool.com/investing/2026/05/18/why-rocket-lab-stock-popped-then-dropped/",
+                "publishDate": "2026-05-18T14:49:49Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Will SpaceX Spend Its IPO Billions on Real Estate?",
-                "summary": "If SpaceX builds a second Starbase in Louisiana, Cheniere Energy and ExxonMobil could be big winners.",
+                "title": "Hyperliquid Defies Market Downturn as SpaceX, Anthropic, OpenAI IPOs Loom",
+                "summary": "Hyperliquid\u2019s HYPE token has jumped as its HIP-3 pre-IPO perp marketplace heats up ahead of a series of high-profile tech IPOs.",
+                "source": "decrypt",
+                "category": "finance",
+                "url": "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
+                "publishDate": "2026-05-18T14:46:25Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO targets June 12 Nasdaq debut, $75 billion raise",
+                "summary": "The rocket and satellite company has accelerated its timeline, aiming to price shares on June 11 at a valuation of up to $1.75 trillion",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/spacex-ipo-june-12-nasdaq-debut-051826",
+                "publishDate": "2026-05-18T14:31:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Redwire Corporation Stock Popped Then Dropped",
+                "summary": "Is it time to sell other space stocks and buy SpaceX instead?",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/17/will-spacex-spend-its-ipo-billions-on-real-estate/",
-                "publishDate": "2026-05-17T12:28:00Z",
+                "url": "https://www.fool.com/investing/2026/05/18/why-redwire-corporation-stock-popped-then-dropped/",
+                "publishDate": "2026-05-18T14:23:04Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Is a SpaceX-Tesla Merger Elon Musk's Endgame? Here Are 4 Factors Investors Need to Consider.",
-                "summary": "Here are four things to consider if Elon Musk decides to merge his space empire with Tesla.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/17/is-a-spacex-tesla-merger-elon-musks-endgame-here-a/",
-                "publishDate": "2026-05-17T11:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Says SpaceX Accepted 'Lower Revenue Deals' With Airlines\u2014Here's Why",
-                "summary": "Elon Musk, on Wednesday, said that SpaceX signed deals offering lower revenues with airlines for the Starlink service to increase its accessibility, as Delta Air Lines Inc. chooses Amazon.com Inc.\u2018s Leo over Starlink. Deliberately Signed Deals Musk said that the...",
+                "title": "Elon Musk Says Trump Account Contributions Are 'Nice Gesture' But Unnecessary \u2014 'There Will Be No Poverty In The Future And So No Need To Save Money'",
+                "summary": "For most people, a conversation about children's savings accounts usually ends somewhere around compound interest and responsible adulthood. Then Tesla and SpaceX CEO Elon Musk showed up and turned it into a discussion about whether artificial intelligence could eventually wipe...",
                 "source": "Benzinga",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-says-spacex-accepted-113055202.html",
-                "publishDate": "2026-05-17T11:30:55Z",
+                "url": "https://finance.yahoo.com/economy/articles/elon-musk-says-trump-account-140112230.html",
+                "publishDate": "2026-05-18T14:01:12Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Musk wants SpaceX to go public. Here's how it works",
-                "summary": "Hundreds of companies raised a combined $70 billion by selling shares to the public in the United States last year.- Hitting the road -\nBefore a company can sell shares to the public, it has to file a detailed document called an S-1 with the Securities and Exchange Commission (SEC), the US government agency that oversees financial markets, and Wall Street's de facto referee.",
-                "source": "AFP",
+                "title": "You\u2019re Going to Regret Not Buying This ETF Before SpaceX\u2019s IPO",
+                "summary": "Prediction market traders on Polymarket now assign a 92% probability that SpaceX completes its IPO by June 30, 2026, with a $1.5 trillion-plus valuation in play. That puts the Procure Space ETF (NYSEARCA:UFO) in an unusual spot for a $749 million niche fund. UFO is the cleanest publicly listed expression of the space economy that ... You\u2019re Going to Regret Not Buying This ETF Before SpaceX\u2019s IPO",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/musk-wants-spacex-public-heres-012048201.html",
-                "publishDate": "2026-05-17T01:20:48Z",
+                "url": "https://247wallst.com/investing/2026/05/18/youre-going-to-regret-not-buying-this-etf-before-spacexs-ipo/",
+                "publishDate": "2026-05-18T13:28:12Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Big risks and rewards in upcoming IPOs at SpaceX, OpenAI, Anthropic",
-                "summary": "Wall Street is licking its chops over an unprecedented slate of massive IPOs set to arrive in the coming months, beginning with Elon Musk's SpaceX in June.But that factor is not expected to impede the arrival of SpaceX, OpenAI and Anthropic.",
-                "source": "AFP",
+                "title": "SpaceX targets history's largest IPO as Musk prepares to take his rocket and AI empire public",
+                "summary": "It would be too cynical to ask whether, after a bruising courtroom face-off with Sam Altman over the future of OpenAI, Elon Musk needed a bit of good news. So, we won't go there. Instead, we'll focus on the reportage: SpaceX is said to be preparing to list on the Nasdaq as early as 12 June at...",
+                "source": "Proactive",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/big-risks-rewards-upcoming-ipos-012022351.html",
-                "publishDate": "2026-05-17T01:20:22Z",
+                "url": "https://www.proactiveinvestors.com/companies/news/1092471/spacex-targets-history-s-largest-ipo-as-musk-prepares-to-take-his-rocket-and-ai-empire-public-1092471.html",
+                "publishDate": "2026-05-18T13:10:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.29,
+        "price": 28.29,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.7118613,
-            "marketCap": 20962885632,
+            "change": -3.4141345,
+            "marketCap": 20247185408,
             "weekLow": 10.58,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.39,
+        "price": 31.31,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -8.350368,
-            "marketCap": 6513144832,
+            "change": -0.254858,
+            "marketCap": 6496545280,
             "weekLow": 10.66,
             "weekHigh": 36.52,
             "yearTarget": 43.8
