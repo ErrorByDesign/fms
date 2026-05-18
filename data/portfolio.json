@@ -20,7 +20,7 @@
             "marketCap": 198325764096,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.70426
+            "yearTarget": 46.681248
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,26 @@
         },
         "NEWS": [
             {
+                "title": "How Much Will SpaceX Stock Be Worth by 2030? Here's What History Says.",
+                "summary": "SpaceX is reportedly seeking a valuation of up to $2 trillion for its initial public offering.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/17/how-much-will-spacex-stock-be-worth-by-2030-heres/",
+                "publishDate": "2026-05-18T00:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Accused Of Building 'Most Management-Favorable' IPO Structure At SpaceX: Report",
+                "summary": "Top Pension officials from New York and California have written to SpaceX CEO Elon Musk, expressing concern over the \u201cextreme\u201d governance structure of the commercial space flight company ahead of its public listing. Comptrollers Express Concern New York State Comptroller...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-accused-building-most-220104374.html",
+                "publishDate": "2026-05-17T22:01:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Is Ascent Solar Technologies, Inc. (ASTI) Among the Most Promising Renewable Energy Stocks Right Now?",
                 "summary": "With an upside potential of 305.68%, Ascent Solar Technologies, Inc. (NASDAQ:ASTI) is among the 11 Most Promising Renewable Energy Stocks Right Now. Ascent Solar Technologies, Inc. (NASDAQ:ASTI) received new analyst coverage on April 23 when H.C. Wainwright initiated the stock with a Buy rating and a $20 price target. The firm stated that Ascent Solar specializes in [\u2026]",
                 "source": "Insider Monkey",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/big-risks-rewards-upcoming-ipos-012022351.html",
                 "publishDate": "2026-05-17T01:20:22Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Says If We Don't Do Something About Corruption And Waste, 'The Ship Of America Is Going To Sink' \u2014And We're All Going Down With It",
-                "summary": "America's debt bill has grown so large that even the world's richest man, Tesla and SpaceX CEO Elon Musk, sounded less like a tech mogul and more like someone warning the country its financial engine was starting to smoke. \"A...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-says-if-we-don39t-do-something-about-corruption-and-waste-39the-ship-of-america-is-going-to-sink39-and-we39re-all-going-down-with-it-230213252.html",
-                "publishDate": "2026-05-16T23:02:13Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "1 Surprising Way Oklo Could Benefit From the Looming SpaceX IPO",
-                "summary": "The SpaceX IPO is garnering huge attention worldwide.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/16/1-surprising-way-oklo-inc-could-benefit-from-the/",
-                "publishDate": "2026-05-16T18:20:00Z",
                 "premium": false,
                 "freemium": false
             }
