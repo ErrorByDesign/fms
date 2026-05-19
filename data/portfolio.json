@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.6714,
+        "price": 44.635,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8839191,
-            "marketCap": 197975408640,
+            "change": 0.80180585,
+            "marketCap": 197814091776,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.66268
+            "yearTarget": 46.66674
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -392,6 +392,16 @@
                 "freemium": false
             },
             {
+                "title": "Nasdaq semis lead losses as bond yields put pressure on Iran talks",
+                "summary": "Investors remained unconvinced about reports on the latest US-Iran diplomacy efforts",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1092526/nasdaq-to-lead-further-losses-after-trump-says-he-called-off-iran-strikes-1092526.html",
+                "publishDate": "2026-05-19T12:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Rocket Lab Shares Jump as SpaceX IPO Buzz Lifts Space Sector",
                 "summary": "Rocket Lab Surges as Musk Revives SpaceX Listing Plans",
                 "source": "GuruFocus.com",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-19T11:26:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "The Berkshire Hathaway of AI? Inside the Case for a Tesla-SpaceX Merger",
-                "summary": "Two of the more credible voices in the Elon Musk orbit are openly speculating that Tesla (NASDAQ: TSLA) and the privately held SpaceX could combine within the next decade. Deepwater Asset Management\u2019s Gene Munster put the odds at over 50% within five to ten years, framing the combined entity as a potential \u201csovereign AI company\u201d ... The Berkshire Hathaway of AI? Inside the Case for a Tesla-SpaceX Merger",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/19/the-berkshire-hathaway-of-ai-inside-the-case-for-a-tesla-spacex-merger/",
-                "publishDate": "2026-05-19T10:40:56Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.545,
+        "price": 28.69,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.017510196,
-            "marketCap": 20429688832,
+            "change": 0.49037233,
+            "marketCap": 20533465088,
             "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7018228,
+            "change": -2.7031426,
             "marketCap": 6201908224,
             "weekLow": 10.78,
             "weekHigh": 36.52,
