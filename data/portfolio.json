@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.415,
+        "price": 44.28,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.30488288,
-            "marketCap": 196839096320,
+            "change": 0.0,
+            "marketCap": 196240785408,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.651226
+            "yearTarget": 46.639996
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.04,
+        "price": 2.03,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -9.333335,
-            "marketCap": 191562704,
+            "change": -9.77778,
+            "marketCap": 190623664,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -376,7 +376,7 @@
                 "summary": "The debut flight of the upgraded Starship V3 is the most consequential pre-IPO test remaining on SpaceX's calendar",
                 "source": "Quartz",
                 "category": "finance",
-                "url": "https://qz.com/spacex-starship-v3-launch-ipo-052126",
+                "url": "https://qz.com/spacex-starship-v3-launch-ipo-051926",
                 "publishDate": "2026-05-19T13:30:01Z",
                 "premium": false,
                 "freemium": false
@@ -402,22 +402,22 @@
                 "freemium": false
             },
             {
-                "title": "Nasdaq semis lead losses as bond yields put pressure on Iran talks",
-                "summary": "Investors remained unconvinced about reports on the latest US-Iran diplomacy efforts",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1092526/nasdaq-to-lead-further-losses-after-trump-says-he-called-off-iran-strikes-1092526.html",
-                "publishDate": "2026-05-19T12:11:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Rocket Lab Shares Jump as SpaceX IPO Buzz Lifts Space Sector",
                 "summary": "Rocket Lab Surges as Musk Revives SpaceX Listing Plans",
                 "source": "GuruFocus.com",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-shares-jump-spacex-115026355.html",
                 "publishDate": "2026-05-19T11:50:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Is Kicking Off IPO Mania -- but It's Also Reviving Stock-Split Euphoria",
+                "summary": "Statistically, since 1980, companies that have conducted forward stock splits have handily outperformed the benchmark S&P 500 in the 12 months following their split announcement.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/19/spacex-ipo-mania-reviving-stock-split-euphoria/",
+                "publishDate": "2026-05-19T11:26:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.285,
+        "price": 28.21,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.92819405,
-            "marketCap": 20243605504,
+            "change": -1.1908938,
+            "marketCap": 20189927424,
             "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.68,
+        "price": 29.61,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3854134,
-            "marketCap": 6158334976,
+            "change": -3.6132772,
+            "marketCap": 6143810560,
             "weekLow": 10.78,
             "weekHigh": 36.52,
             "yearTarget": 43.8
