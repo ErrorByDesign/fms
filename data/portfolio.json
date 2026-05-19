@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.75,
+        "price": 44.525,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0614301,
-            "marketCap": 198323748864,
+            "change": 0.5533034,
+            "marketCap": 197326602240,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.598816
+            "yearTarget": 46.622684
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.076,
+        "price": 2.0311,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -7.733334,
-            "marketCap": 194943216,
+            "change": -9.728887,
+            "marketCap": 190726976,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,12 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX filing boosts space stocks, BofA resumes ServiceNow coverage",
-                "summary": "Market Catalysts host Julie Hyman takes a look at some of Monday's trending tickers and stories. ServiceNow (NOW) stock is climbing after Bank of America (BAC) restarted its coverage of the name. Space stocks, including Rocket Lab (RKLB), Intuitive Machines (LUNR), and Firefly (FLY), are moving higher on SpaceX's (SPAX.PVT) upcoming S-1 filing. Ryanair (RYAAY) warned of higher costs due to fuel prices.",
-                "source": "Yahoo Finance Video",
+                "title": "Why Rocket Lab Stock Dropped Today",
+                "summary": "Why recommend buying a stock that is 23% overpriced?",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/video/spacex-filing-boosts-space-stocks-bofa-resumes-servicenow-coverage-154113234.html",
-                "publishDate": "2026-05-18T15:41:13Z",
+                "url": "https://www.fool.com/investing/2026/05/19/why-rocket-lab-stock-dropped-today/",
+                "publishDate": "2026-05-19T15:24:58Z",
                 "premium": false,
                 "freemium": false
             },
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.43,
+        "price": 28.28,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.4203115,
-            "marketCap": 20347383808,
+            "change": -0.9457042,
+            "marketCap": 20240027648,
             "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.57,
+        "price": 29.685,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.7434883,
-            "marketCap": 6135511040,
+            "change": -3.3691401,
+            "marketCap": 6159372288,
             "weekLow": 10.78,
             "weekHigh": 36.52,
             "yearTarget": 43.8
