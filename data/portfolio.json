@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.28,
+        "price": 44.75,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.02817,
-            "marketCap": 196240785408,
+            "change": 1.0614301,
+            "marketCap": 198323748864,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.792248
+            "yearTarget": 46.598816
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Some people lose far more weight than others on GLP-1s like Wegovy. Here\u2019s why.",
+                "summary": "Emerging research shows there are \u2018super-responders\u2019 to GLP-1 drugs, and others who don\u2019t respond at all.",
+                "source": "MarketWatch",
+                "category": "health",
+                "url": "https://www.marketwatch.com/story/some-people-lose-far-more-weight-than-others-on-glp-1s-like-wegovy-heres-why-9215257d",
+                "publishDate": "2026-05-19T10:57:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Update: Big Pharma Firms Denied Certiorari by Supreme Court in Medicare Pricing Case",
+                "summary": "(Updates with Novo Nordisk's response in the fourth and fifth paragraphs.) The US Supreme Court o",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/big-pharma-firms-denied-certiorari-081504693.html",
+                "publishDate": "2026-05-19T08:15:04Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Expands Parkinson's Bet With AI Partner And Upside Potential",
+                "summary": "Novo Nordisk (CPSE:NOVO B) is transferring its clinical-stage Parkinson's cell therapy program, including global rights, to Cellular Intelligence. As part of the deal, Novo Nordisk will take an equity stake in Cellular Intelligence and remain eligible for milestones and royalties linked to the therapy. The program holds fast track designation for Parkinson's disease and aims to use AI-supported manufacturing and clinical optimization to accelerate development timelines. Novo Nordisk, best...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-expands-parkinsons-bet-060952463.html",
+                "publishDate": "2026-05-19T06:09:52Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics' Pill Could Crash the Weight-Loss Party",
                 "summary": "This dark horse in the weight loss drug race is worth keeping on your watch list.",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-05-18T12:25:09Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk's Wegovy pill maintains strong lead over Eli Lilly rival despite weekly dip, Citi says",
-                "summary": "Novo Nordisk's (NYSE:NVO) oral version of its blockbuster weight-loss drug Wegovy continues to outpace its main competitor despite a slight weekly decline in prescriptions, according to Citi's latest tracking data. The bank's weekly prescription tracker, based on IQVIA data, showed Wegovy...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1092461/novo-nordisk-s-wegovy-pill-maintains-strong-lead-over-eli-lilly-rival-despite-weekly-dip-citi-says-1092461.html",
-                "publishDate": "2026-05-18T12:05:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Race intensifies to lead next wave of obesity drugs as trial results loom",
-                "summary": "As next-generation GLP-1 contenders rise, key readouts are on the way from Pfizer, Viking Therapeutics and Eli Lilly.",
-                "source": "Pharma Voice",
-                "category": "finance",
-                "url": "https://www.pharmavoice.com/news/obesity-weight-loss-drug-trial-readout-pfizer-lilly-viking/820435/",
-                "publishDate": "2026-05-18T09:21:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Assessing Novo Nordisk (NYSE:NVO) Valuation After Recent Share Price Rebound And Undervalued Narrative",
-                "summary": "Recent performance snapshot for Novo Nordisk (NVO) With no single headline event driving the move, Novo Nordisk (NVO) has drawn attention after a mixed stretch for the stock, including a gain of about 10% over the past month alongside weaker longer term returns. See our latest analysis for Novo Nordisk. Recent trading paints a mixed picture, with the share price up about 10% over the past month yet down over longer horizons, including a year to date decline of 14.6% and a 1 year total...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-novo-nordisk-nyse-nvo-101121718.html",
-                "publishDate": "2026-05-17T10:11:21Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.25,
+        "price": 2.076,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 11.3861,
-            "marketCap": 211282400,
+            "change": -7.733334,
+            "marketCap": 194943216,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,92 +332,92 @@
                 "freemium": false
             },
             {
-                "title": "Firefly Aerospace (FLY) Rockets 8.7% \u2014 Thanks to SpaceX Again",
-                "summary": "Firefly Aerospace Inc. (NASDAQ:FLY) is one of the 10 Stocks Making Monster Moves. Firefly Aerospace climbed by 8.71 percent on Monday to close at $43.95 apiece, as sentiment was bolstered by the growing optimism for space stocks, thanks to new updates on SpaceX\u2019s looming initial public offering (IPO). SpaceX, one of the largest players in [\u2026]",
-                "source": "Insider Monkey",
+                "title": "SpaceX Starship V3 launch set ahead of record IPO",
+                "summary": "The debut flight of the upgraded Starship V3 is the most consequential pre-IPO test remaining on SpaceX's calendar",
+                "source": "Quartz",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-rockets-8-020944813.html",
-                "publishDate": "2026-05-19T02:09:44Z",
+                "url": "https://qz.com/spacex-starship-v3-launch-ipo-052126",
+                "publishDate": "2026-05-19T13:30:01Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Hedge Fund Darsana Awaits a SpaceX Windfall",
-                "summary": "$10 Billion That's the paper gain that hedge-fund manager Darsana Capital Partners could reap if SpaceX goes public at a valuation of $1.5 trillion or more next month, people familiar with the matter said.",
+                "title": "What\u2019s Better: SpaceX At $2T Or Google At $5T?",
+                "summary": "Alphabet (GOOG) and SpaceX are both infrastructure companies. One monetizes the digital infrastructure the world already depends on. The other is trying to build the infrastructure the world may depend on next.",
+                "source": "Trefis",
+                "category": "finance",
+                "url": "https://www.trefis.com/articles/599786/whats-better-spacex-at-2t-or-google-at-5t/2026-05-19",
+                "publishDate": "2026-05-19T13:27:16Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "If You Invested $10,000 In Tesla 10 Years Ago, This Is How Rich You Would Be Today",
+                "summary": "Among \u201cThe Magnificent Seven\u201d stocks that have been buoying the Dow Jones Industrial Average to new heights\u2014maintaining its status largely thanks to maturing software-as-a-service models and roughly 1.28 million active Full Self-Driving (FSD) subscribers\u2014none of those companies\u2019 founders eclipses their company\u2019s product or service more than Tesla\u2019s (NASDAQ: TSLA) Elon Musk. While Musk\u2019s involvements with ... If You Invested $10,000 In Tesla 10 Years Ago, This Is How Rich You Would Be Today",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2024/04/14/if-you-invested-10000-in-tesla-10-years-ago-this-is-how-rich-you-would-be-today/",
+                "publishDate": "2026-05-19T12:59:47Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Rocket Lab Shares Jump as SpaceX IPO Buzz Lifts Space Sector",
+                "summary": "Rocket Lab Surges as Musk Revives SpaceX Listing Plans",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-lab-shares-jump-spacex-115026355.html",
+                "publishDate": "2026-05-19T11:50:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Is Kicking Off IPO Mania -- but It's Also Reviving Stock-Split Euphoria",
+                "summary": "Statistically, since 1980, companies that have conducted forward stock splits have handily outperformed the benchmark S&P 500 in the 12 months following their split announcement.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/19/spacex-ipo-mania-reviving-stock-split-euphoria/",
+                "publishDate": "2026-05-19T11:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Berkshire Hathaway of AI? Inside the Case for a Tesla-SpaceX Merger",
+                "summary": "Two of the more credible voices in the Elon Musk orbit are openly speculating that Tesla (NASDAQ: TSLA) and the privately held SpaceX could combine within the next decade. Deepwater Asset Management\u2019s Gene Munster put the odds at over 50% within five to ten years, framing the combined entity as a potential \u201csovereign AI company\u201d ... The Berkshire Hathaway of AI? Inside the Case for a Tesla-SpaceX Merger",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/19/the-berkshire-hathaway-of-ai-inside-the-case-for-a-tesla-spacex-merger/",
+                "publishDate": "2026-05-19T10:40:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX's upgraded Starship V3 ready for debut launch ahead of IPO",
+                "summary": "STARBASE, Texas, May 19 (Reuters) - SpaceX is poised this week to conduct the 12th uncrewed test flight of its next-generation Starship rocket, the first of a newly upgraded vehicle seen as critical to Elon Musk's efforts to satisfy investors and push deeper into \u200cspace. The debut flight of the Starship V3, outfitted with new features designed to support future missions to the moon and Mars, poses a key test for \u200cboth the vehicle itself and investor confidence ahead of an initial public offerin",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-upgraded-starship-v3-ready-100407866.html",
+                "publishDate": "2026-05-19T10:04:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Nvidia, Walmart Earnings: What to Watch This Week",
+                "summary": "Nvidia, the most valuable public company by market capitalization, will report earnings this week, the last of the Magnificent Seven tech companies to do so. Big retailers including Walmart and Home Depot will also report.",
                 "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-18-2026/card/hedge-fund-darsana-awaits-a-spacex-windfall-aGVKGwig4ulEs3mZuC4V?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-18T22:31:32Z",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-19-2026/card/nvidia-walmart-earnings-what-to-watch-this-week-aUbKE7hT9Qsv0JKweh2H?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-19T08:23:19Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Elon Musk's SpaceX IPO Gets Blowback From Pension Funds: Here's What Prediction Markets Are Watching",
-                "summary": "Elon Musk\u2019s SpaceX is barreling toward what could be the biggest IPO in history, but the three largest US public pension systems demanded he rewrite the governance structure first. New York State Comptroller Thomas DiNapoli, New York City Comptroller Mark...",
-                "source": "Benzinga",
+                "title": "SpaceX IPO Reshapes Tesla Investor Choices And Musk Ecosystem Exposure",
+                "summary": "SpaceX is preparing for an initial public offering, creating a new publicly traded option for investors interested in Elon Musk led businesses. This development is prompting fresh discussion about how capital and attention could be split between SpaceX and Tesla, ticker NasdaqGS:TSLA. Commentators are also debating the possibility of future overlap in areas such as space related infrastructure and communications. Tesla, listed as NasdaqGS:TSLA, has long been the primary stock for investors...",
+                "source": "Simply Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-ipo-gets-220102151.html",
-                "publishDate": "2026-05-18T22:01:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Has Picked a Date for Its IPO. Here's Everything Investors Need to Know Before What Could be the Biggest IPO Ever",
-                "summary": "The Wall Street Journal is reporting that SpaceX could go public in a matter of weeks.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/spacex-has-picked-a-date-for-its-ipo-heres-everyth/",
-                "publishDate": "2026-05-18T21:47:33Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Is Coming. This Is the Vanguard ETF It'll Probably Show Up In First.",
-                "summary": "SpaceX could be the biggest initial public offering ever. The CRSP indexes and the ETFs linked to them could get shares first.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/spacex-ipo-is-coming-this-is-vanguard-etf-first/",
-                "publishDate": "2026-05-18T21:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "EchoStar Rallies as Play on SpaceX IPO. There Could Be More Upside.",
-                "summary": "EchoStar  has emerged as one of the leading plays on SpaceX since the company got a 2%-plus stake in Elon Musk\u2019s company in return for some of EchoStar\u2019s spectrum.  The IPO could value SpaceX at $1.5 trillion to $2 trillion, making it one of the more valuable companies in the world.  EchoStar stock has doubled since the initial spectrum deal in September and finished Monday at $136.45, down 0.5% on the session.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/echostar-stock-price-spacex-ipo-2ce56316?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-18T21:16:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Little-Known Hedge Fund That Stands to Make Over $10 Billion on SpaceX",
-                "summary": "Darsana Capital Partners has nearly 60% of the money it manages in shares of Elon Musk\u2019s rocket maker.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/investing/the-little-known-hedge-fund-that-stands-to-make-over-10-billion-on-spacex-44504c7a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-18T20:55:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Could Disappoint Investors Based on Historical Patterns",
-                "summary": "There's a lot of pressure that comes with potentially being the largest IPO in history.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/spacex-ipo-could-disappoint-investors-based-on-his/",
-                "publishDate": "2026-05-18T20:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Launch, Prospectus Anticipation Send Space Stocks Higher",
-                "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO. Space stocks surge.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-starship-launch-v3-super-heavy-ipo-prospectus-elon-musk-space-stocks/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-18T20:16:13Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-reshapes-tesla-investor-051434706.html",
+                "publishDate": "2026-05-19T05:14:34Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.55,
+        "price": 28.43,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.52647,
-            "marketCap": 20433266688,
+            "change": -0.4203115,
+            "marketCap": 20347383808,
             "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.72,
+        "price": 29.57,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.13444,
-            "marketCap": 6374125568,
+            "change": -3.7434883,
+            "marketCap": 6135511040,
             "weekLow": 10.78,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -609,6 +609,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "RBC Capital Markets Maintains SSR Mining's Sector Perform Rating, US$45 Price Target",
+                "summary": "RBC Capital Markets gave SSR Mining (SSRM.TO) a sector perform rating with a price target of US$45 a",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-markets-maintains-ssr-142539650.html",
+                "publishDate": "2026-05-19T14:25:39Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Why SSR Mining (SSRM) is a Top Growth Stock for the Long-Term",
+                "summary": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-ssrm-top-134504083.html",
+                "publishDate": "2026-05-19T13:45:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SSR Mining Agrees to Sell 20% Equity Stake in Hod Maden",
+                "summary": "SSR Mining (SSRM.TO) has agreed to sell its 20% ownership stake and its operatorship position in the",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-agrees-sell-20-103525395.html",
+                "publishDate": "2026-05-19T10:35:25Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "SSR Mining (SSRM) Upgraded to Buy: Here's What You Should Know",
                 "summary": "SSR Mining (SSRM) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",
@@ -676,36 +706,6 @@
                 "category": "finance",
                 "url": "https://ca.finance.yahoo.com/news/tsx-climbs-over-1-miners-151050743.html",
                 "publishDate": "2026-05-06T15:10:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Silver Standard Resources Q1 Earnings Call Highlights",
-                "summary": "SSR Mining executives highlighted a \u201cstrong and productive start to the year\u201d during the company\u2019s first-quarter 2026 earnings call, emphasizing strong free cash flow generation, a debt-free balance sheet, and progress toward a major portfolio shift following the announced sale of the \u00c7\u00f6pler mine in",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/silver-standard-resources-q1-earnings-call-highlights-2026-05-05/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-06T03:09:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Inc. Q1 2026 Earnings Call Summary",
-                "summary": "Moby summary of SSR Mining Inc.'s Q1 2026 earnings call",
-                "source": "Moby",
-                "category": "finance",
-                "url": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-ssr-mining-inc-q1-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss",
-                "publishDate": "2026-05-06T00:20:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining (SSRM) Q1 2026 Earnings Transcript",
-                "summary": "The divestment of Copler provides a strategic repositioning for SSR Mining Inc. as a focused Americas-based gold and silver producer with a clear emphasis on free cash flow generation.  Financially, the business generated more than $210 million in free cash flow in the first quarter of the year.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/earnings/call-transcripts/2026/05/05/ssr-mining-ssrm-q1-2026-earnings-transcript/",
-                "publishDate": "2026-05-05T22:54:11Z",
                 "premium": false,
                 "freemium": false
             }
