@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.555,
+        "price": 44.63,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6210513,
-            "marketCap": 197459542016,
+            "change": 0.7904298,
+            "marketCap": 197791940608,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.614727
+            "yearTarget": 46.655357
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Teva Stock Up More Than 100% in a Year: Time to Buy, Hold or Sell?",
+                "summary": "Teva's branded drug growth, biosimilar launches and improving margins are strengthening its long-term outlook despite generics pressure.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/teva-stock-more-100-time-152200118.html",
+                "publishDate": "2026-05-19T15:22:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Some people lose far more weight than others on GLP-1s like Wegovy. Here\u2019s why.",
                 "summary": "Emerging research shows there are \u2018super-responders\u2019 to GLP-1 drugs, and others who don\u2019t respond at all.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-18T13:02:39Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Eyes Global Push for Wegovy Pill",
-                "summary": "Drugmaker sees international markets as next test for obesity pill demand.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-eyes-global-push-122509006.html",
-                "publishDate": "2026-05-18T12:25:09Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.06,
+        "price": 2.05,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -8.554322,
-            "marketCap": 193440768,
+            "change": -8.88889,
+            "marketCap": 192501728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.27,
+        "price": 28.455,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.9807313,
-            "marketCap": 20232871936,
+            "change": -0.33274716,
+            "marketCap": 20365275136,
             "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.61,
+        "price": 29.96,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.6132772,
-            "marketCap": 6143810560,
+            "change": -2.4739592,
+            "marketCap": 6216432128,
             "weekLow": 10.78,
             "weekHigh": 36.52,
             "yearTarget": 43.8
