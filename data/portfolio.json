@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.545,
+        "price": 44.415,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.59846294,
-            "marketCap": 197415223296,
+            "change": 0.30488288,
+            "marketCap": 196839096320,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.641663
+            "yearTarget": 46.651226
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "GLP-1 Drug Giants Race to Go Global With Their Obesity Pills: ETFs to Gain",
+                "summary": "Eli Lilly and Novo Nordisk are accelerating global obesity pill launches as rising GLP-1 demand puts weight-loss ETFs in focus.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/glp-1-drug-giants-race-182700521.html",
+                "publishDate": "2026-05-19T18:27:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Teva Stock Up More Than 100% in a Year: Time to Buy, Hold or Sell?",
                 "summary": "Teva's branded drug growth, biosimilar launches and improving margins are strengthening its long-term outlook despite generics pressure.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-18T15:46:26Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "AstraZeneca Wins FDA Approval for $5 Billion Blood Pressure Drug",
-                "summary": "Baxfendy gained FDA clearance for uncontrolled hypertension patients as AstraZeneca expands its cardiovascular and metabolic portfolio.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/astrazeneca-wins-fda-approval-5-130239336.html",
-                "publishDate": "2026-05-18T13:02:39Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.06,
+        "price": 2.04,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -8.444447,
-            "marketCap": 193440768,
+            "change": -9.333335,
+            "marketCap": 191562704,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "The SpaceX IPO Could Be Weeks Away. Here Are the 2 Tech Stocks That Will Benefit Most.",
+                "summary": "These megacap tech companies are poised to register meaningful gains from the successes of SpaceX.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/19/the-spacex-ipo-could-be-weeks-away-here-are-the-2/",
+                "publishDate": "2026-05-19T19:22:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The SpaceX IPO Could Come as Early as June 12. Thinking of Buying the Stock? Here's What You Need to Know.",
                 "summary": "The space company's stock market debut could be the largest in history. But the risks deserve a careful look before you buy.",
                 "source": "Motley Fool",
@@ -338,16 +348,6 @@
                 "category": "finance",
                 "url": "https://www.proactiveinvestors.com/companies/news/1092557/tesla-drops-as-mounting-headwinds-test-lofty-valuation-1092557.html",
                 "publishDate": "2026-05-19T17:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX\u2019s IPO to Mint Millionaires in Poor Texas Border Town",
-                "summary": "(Bloomberg) -- A 45-minute drive down a narrow highway separates one of America\u2019s poorest border cities from the heart of Elon Musk\u2019s SpaceX empire.Most Read from BloombergUS Lawmakers Plan New $130 Fee for Electric Vehicle OwnersBillionaire Rinehart Bets $100 Million on US Defense StocksTrump Says Holding Off on New Iran Strikes After Gulf AppealElon Musk Loses Case Against Sam Altman Over OpenAI\u2019s OverhaulStocks and Oil Whipsaw on Mixed US-Iran Signals: Markets WrapA lot has changed in Brownsv",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/economy/articles/spacex-ipo-mint-millionaires-poor-161534459.html",
-                "publishDate": "2026-05-19T16:15:34Z",
                 "premium": false,
                 "freemium": false
             },
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.3845,
+        "price": 28.285,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5796803,
-            "marketCap": 20314818560,
+            "change": -0.92819405,
+            "marketCap": 20243605504,
             "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.85,
+        "price": 29.68,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.832028,
-            "marketCap": 6193608704,
+            "change": -3.3854134,
+            "marketCap": 6158334976,
             "weekLow": 10.78,
             "weekHigh": 36.52,
             "yearTarget": 43.8
