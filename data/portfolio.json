@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.64,
+        "price": 44.6714,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.81300956,
-            "marketCap": 197836242944,
+            "change": 0.8839191,
+            "marketCap": 197975408640,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.66333
+            "yearTarget": 46.66268
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.0301,
+        "price": 2.0362,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -9.645156,
-            "marketCap": 190633072,
+            "change": -9.50222,
+            "marketCap": 191205872,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Tesla drops as mounting headwinds test lofty valuation",
+                "summary": "Tesla Inc (NASDAQ:TSLA) shares fell more than 3% on Tuesday, pressured by a combination of legal setbacks, a price increase on its best-selling model and growing concern that an imminent SpaceX listing will draw investor capital away from the electric vehicle maker. Much of the selling...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1092557/tesla-drops-as-mounting-headwinds-test-lofty-valuation-1092557.html",
+                "publishDate": "2026-05-19T17:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX\u2019s IPO to Mint Millionaires in Poor Texas Border Town",
                 "summary": "(Bloomberg) -- A 45-minute drive down a narrow highway separates one of America\u2019s poorest border cities from the heart of Elon Musk\u2019s SpaceX empire.Most Read from BloombergUS Lawmakers Plan New $130 Fee for Electric Vehicle OwnersBillionaire Rinehart Bets $100 Million on US Defense StocksTrump Says Holding Off on New Iran Strikes After Gulf AppealElon Musk Loses Case Against Sam Altman Over OpenAI\u2019s OverhaulStocks and Oil Whipsaw on Mixed US-Iran Signals: Markets WrapA lot has changed in Brownsv",
                 "source": "Bloomberg",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-19T10:40:56Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX's upgraded Starship V3 ready for debut launch ahead of IPO",
-                "summary": "STARBASE, Texas, May 19 (Reuters) - SpaceX is poised this week to conduct the 12th uncrewed test flight of its next-generation Starship rocket, the first of a newly upgraded vehicle seen as critical to Elon Musk's efforts to satisfy investors and push deeper into \u200cspace. The debut flight of the Starship V3, outfitted with new features designed to support future missions to the moon and Mars, poses a key test for \u200cboth the vehicle itself and investor confidence ahead of an initial public offerin",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-upgraded-starship-v3-ready-100407866.html",
-                "publishDate": "2026-05-19T10:04:07Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.53,
+        "price": 28.545,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.07004746,
-            "marketCap": 20418953216,
+            "change": -0.017510196,
+            "marketCap": 20429688832,
             "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.18,
+        "price": 29.89,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7578093,
-            "marketCap": 6262080512,
+            "change": -2.7018228,
+            "marketCap": 6201908224,
             "weekLow": 10.78,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "SSR Mining Inks Deal to Sell Its Interests in Hod Maden Project",
+                "summary": "SSRM sells its 20% Hod Maden stake for a 4% NSR royalty, sharpening its focus on the Americas and boosting its royalty portfolio.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-inks-deal-sell-162700772.html",
+                "publishDate": "2026-05-19T16:27:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "RBC Capital Markets Maintains SSR Mining's Sector Perform Rating, US$45 Price Target",
                 "summary": "RBC Capital Markets gave SSR Mining (SSRM.TO) a sector perform rating with a price target of US$45 a",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/06/why-ssr-mining-stock-surged-20-today/",
                 "publishDate": "2026-05-06T19:23:43Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "TSX climbs over 1% up as miners gain on US-Iran peace deal hopes",
-                "summary": "By Tharuniyaa Lakshmi May 6 (Reuters) - Canada's main stock index edged higher on Wednesday, lifted by mining shares, as investor optimism rose over reports of the United States and Iran nearing an",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://ca.finance.yahoo.com/news/tsx-climbs-over-1-miners-151050743.html",
-                "publishDate": "2026-05-06T15:10:50Z",
                 "premium": false,
                 "freemium": false
             }
