@@ -20,7 +20,7 @@
             "marketCap": 196240785408,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.63782
+            "yearTarget": 46.650864
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 647.1,
+        "price": 650.66,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,14 +306,14 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.05,
-            "marketCap": 1536062259200,
+            "change": 0.55,
+            "marketCap": 1544512864256,
             "weekLow": 202.78,
-            "weekHigh": 647.1,
+            "weekHigh": 650.66,
             "yearTarget": null
         },
         "FUNDING": {
-            "fundingToDate": 5283307008,
+            "fundingToDate": 8923307008,
             "latestAmountRaised": 1901446912,
             "latestFundingDate": 1596499200,
             "latestShareClass": "Series N",
@@ -322,12 +322,12 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX Delays Starship Launch. IPO Prospectus Due This Week.",
-                "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO.",
-                "source": "Investor's Business Daily",
+                "title": "How Big Could SpaceX And Anthropic Get? The Latest Prediction Market Bets Size Up Pre-IPO Valuations.",
+                "summary": "Polymarket debuted new event contracts that let traders bet on buzzy private company valuations.",
+                "source": "Investopedia",
                 "category": "finance",
-                "url": "https://www.investors.com/news/spacex-starship-launch-v3-super-heavy-ipo-prospectus-elon-musk-space-stocks/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-19T20:21:09Z",
+                "url": "https://www.investopedia.com/how-big-could-spacex-and-anthropic-get-the-latest-prediction-market-bets-size-up-pre-ipo-valuations-11978741",
+                "publishDate": "2026-05-19T19:42:14Z",
                 "premium": false,
                 "freemium": false
             },
@@ -386,7 +386,7 @@
                 "summary": "The debut flight of the upgraded Starship V3 is the most consequential pre-IPO test remaining on SpaceX's calendar",
                 "source": "Quartz",
                 "category": "finance",
-                "url": "https://qz.com/spacex-starship-v3-launch-ipo-052126",
+                "url": "https://qz.com/spacex-starship-v3-launch-ipo-051926",
                 "publishDate": "2026-05-19T13:30:01Z",
                 "premium": false,
                 "freemium": false
