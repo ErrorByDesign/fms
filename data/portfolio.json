@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.80180585,
+            "change": 0.8017153,
             "marketCap": 197814091776,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.66674
+            "yearTarget": 46.656223
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.0362,
+        "price": 2.06,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -9.50222,
-            "marketCap": 191205872,
+            "change": -8.444447,
+            "marketCap": 193440768,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "The SpaceX IPO Could Come as Early as June 12. Thinking of Buying the Stock? Here's What You Need to Know.",
+                "summary": "The space company's stock market debut could be the largest in history. But the risks deserve a careful look before you buy.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/19/the-spacex-ipo-could-come-as-early-as-june-12-thin/",
+                "publishDate": "2026-05-19T18:05:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tesla drops as mounting headwinds test lofty valuation",
                 "summary": "Tesla Inc (NASDAQ:TSLA) shares fell more than 3% on Tuesday, pressured by a combination of legal setbacks, a price increase on its best-selling model and growing concern that an imminent SpaceX listing will draw investor capital away from the electric vehicle maker. Much of the selling...",
                 "source": "Proactive",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-19T11:50:26Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Is Kicking Off IPO Mania -- but It's Also Reviving Stock-Split Euphoria",
-                "summary": "Statistically, since 1980, companies that have conducted forward stock splits have handily outperformed the benchmark S&P 500 in the 12 months following their split announcement.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/19/spacex-ipo-mania-reviving-stock-split-euphoria/",
-                "publishDate": "2026-05-19T11:26:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.69,
+        "price": 28.44,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.49037233,
-            "marketCap": 20533465088,
+            "change": -0.38528442,
+            "marketCap": 20354539520,
             "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.89,
+        "price": 29.93,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7031426,
-            "marketCap": 6201908224,
+            "change": -2.5716114,
+            "marketCap": 6210207744,
             "weekLow": 10.78,
             "weekHigh": 36.52,
             "yearTarget": 43.8
