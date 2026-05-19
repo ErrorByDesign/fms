@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.63,
+        "price": 44.64,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.7904298,
-            "marketCap": 197791940608,
+            "change": 0.81300956,
+            "marketCap": 197836242944,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.655357
+            "yearTarget": 46.66333
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.05,
+        "price": 2.0301,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -8.88889,
-            "marketCap": 192501728,
+            "change": -9.645156,
+            "marketCap": 190633072,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,26 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX\u2019s IPO to Mint Millionaires in Poor Texas Border Town",
+                "summary": "(Bloomberg) -- A 45-minute drive down a narrow highway separates one of America\u2019s poorest border cities from the heart of Elon Musk\u2019s SpaceX empire.Most Read from BloombergUS Lawmakers Plan New $130 Fee for Electric Vehicle OwnersBillionaire Rinehart Bets $100 Million on US Defense StocksTrump Says Holding Off on New Iran Strikes After Gulf AppealElon Musk Loses Case Against Sam Altman Over OpenAI\u2019s OverhaulStocks and Oil Whipsaw on Mixed US-Iran Signals: Markets WrapA lot has changed in Brownsv",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/economy/articles/spacex-ipo-mint-millionaires-poor-161534459.html",
+                "publishDate": "2026-05-19T16:15:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Loses Court Battle With OpenAI\u2019s Sam Altman. These Are the Winners.",
+                "summary": "A jury in Oakland, Calif., said the AI company isn\u2019t liable for claims brought by the billionaire Tesla CEO.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/elon-musk-loses-court-battle-openai-ef87160e?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-19T15:36:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Rocket Lab Stock Dropped Today",
                 "summary": "Why recommend buying a stock that is 23% overpriced?",
                 "source": "Motley Fool",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-19T10:04:07Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Nvidia, Walmart Earnings: What to Watch This Week",
-                "summary": "Nvidia, the most valuable public company by market capitalization, will report earnings this week, the last of the Magnificent Seven tech companies to do so. Big retailers including Walmart and Home Depot will also report.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-19-2026/card/nvidia-walmart-earnings-what-to-watch-this-week-aUbKE7hT9Qsv0JKweh2H?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-19T08:23:19Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Reshapes Tesla Investor Choices And Musk Ecosystem Exposure",
-                "summary": "SpaceX is preparing for an initial public offering, creating a new publicly traded option for investors interested in Elon Musk led businesses. This development is prompting fresh discussion about how capital and attention could be split between SpaceX and Tesla, ticker NasdaqGS:TSLA. Commentators are also debating the possibility of future overlap in areas such as space related infrastructure and communications. Tesla, listed as NasdaqGS:TSLA, has long been the primary stock for investors...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-reshapes-tesla-investor-051434706.html",
-                "publishDate": "2026-05-19T05:14:34Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.455,
+        "price": 28.53,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.33274716,
-            "marketCap": 20365275136,
+            "change": -0.07004746,
+            "marketCap": 20418953216,
             "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Montes Archimedes Acquisition (ROIV) Upgraded to Buy: Here's Why",
+                "summary": "Montes Archimedes Acquisition (ROIV) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/montes-archimedes-acquisition-roiv-upgraded-160003410.html",
+                "publishDate": "2026-05-19T16:00:03Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Hedge Fund Wagers $36 Million on Biotech Denali After First FDA Approval",
                 "summary": "This biotech develops therapies for neurodegenerative diseases, advancing a broad pipeline through strategic pharmaceutical partnerships.",
@@ -554,16 +564,6 @@
                 "publishDate": "2026-05-04T13:10:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Piper Sandler and Bernstein Bullish on Roivant Sciences (ROIV)",
-                "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 10 Best Medical Stocks to Buy Under $30. On April 16, Piper Sandler assumed coverage of Roivant Sciences Ltd. (NASDAQ:ROIV) with an Overweight rating on the stock and $40 price target. Piper Sandler said the stock has gained more than 190% over the past year, supported by [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/piper-sandler-bernstein-bullish-roivant-214114893.html",
-                "publishDate": "2026-04-30T21:41:14Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.96,
+        "price": 30.18,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4739592,
-            "marketCap": 6216432128,
+            "change": -1.7578093,
+            "marketCap": 6262080512,
             "weekLow": 10.78,
             "weekHigh": 36.52,
             "yearTarget": 43.8
