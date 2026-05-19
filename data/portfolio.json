@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": -1.02817,
-            "marketCap": 196286627840,
+            "marketCap": 196240785408,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.858837
+            "yearTarget": 46.80413
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics' Pill Could Crash the Weight-Loss Party",
+                "summary": "This dark horse in the weight loss drug race is worth keeping on your watch list.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/18/watch-out-eli-lilly-and-novo-nordisk-viking-therap/",
+                "publishDate": "2026-05-19T01:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly Stock: Next Stop $2,000?",
+                "summary": "The company is riding an incredible tailwind.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/18/eli-lilly-stock-next-stop-2000/",
+                "publishDate": "2026-05-18T22:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Three Biotechs That Are Top Takeover Targets",
                 "summary": "Eli Lilly (NYSE:LLY) is the stock everyone wants to talk about, and the reasons are obvious: Mounjaro revenue jumped 125% to $8.66 billion last quarter, the company raised full-year revenue guidance to $82 to $85 billion, and the market cap now sits at roughly $881.8 billion. But here\u2019s what you should actually be watching. The ... Three Biotechs That Are Top Takeover Targets",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-17T10:11:21Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Could Eli Lilly's Next Weight Loss Drug Waylay Wegovy -- and Even Zap Zepbound?",
-                "summary": "Promising clinical trial data suggests big opportunity with Eli Lilly's retatrutide GLP-1 candidate.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/17/could-eli-lillys-next-weightloss-drug-waylay-wegov/",
-                "publishDate": "2026-05-17T05:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Kailera Therapeutics a Buy After Its Sizzling IPO?",
-                "summary": "There's a new challenger to the more established players in the weight-loss drug space.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/16/is-kailera-therapeutics-a-buy-after-its-sizzling/",
-                "publishDate": "2026-05-16T14:50:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 11.38614,
-            "marketCap": 211115664,
+            "change": 11.3861,
+            "marketCap": 211282400,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,12 +332,72 @@
                 "freemium": false
             },
             {
+                "title": "Firefly Aerospace (FLY) Rockets 8.7% \u2014 Thanks to SpaceX Again",
+                "summary": "Firefly Aerospace Inc. (NASDAQ:FLY) is one of the 10 Stocks Making Monster Moves. Firefly Aerospace climbed by 8.71 percent on Monday to close at $43.95 apiece, as sentiment was bolstered by the growing optimism for space stocks, thanks to new updates on SpaceX\u2019s looming initial public offering (IPO). SpaceX, one of the largest players in [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/firefly-aerospace-fly-rockets-8-020944813.html",
+                "publishDate": "2026-05-19T02:09:44Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Hedge Fund Darsana Awaits a SpaceX Windfall",
+                "summary": "$10 Billion That's the paper gain that hedge-fund manager Darsana Capital Partners could reap if SpaceX goes public at a valuation of $1.5 trillion or more next month, people familiar with the matter said.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-18-2026/card/hedge-fund-darsana-awaits-a-spacex-windfall-aGVKGwig4ulEs3mZuC4V?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-18T22:31:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk's SpaceX IPO Gets Blowback From Pension Funds: Here's What Prediction Markets Are Watching",
+                "summary": "Elon Musk\u2019s SpaceX is barreling toward what could be the biggest IPO in history, but the three largest US public pension systems demanded he rewrite the governance structure first. New York State Comptroller Thomas DiNapoli, New York City Comptroller Mark...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-ipo-gets-220102151.html",
+                "publishDate": "2026-05-18T22:01:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Has Picked a Date for Its IPO. Here's Everything Investors Need to Know Before What Could be the Biggest IPO Ever",
+                "summary": "The Wall Street Journal is reporting that SpaceX could go public in a matter of weeks.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/18/spacex-has-picked-a-date-for-its-ipo-heres-everyth/",
+                "publishDate": "2026-05-18T21:47:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The SpaceX IPO Is Coming. This Is the Vanguard ETF It'll Probably Show Up In First.",
                 "summary": "SpaceX could be the biggest initial public offering ever. The CRSP indexes and the ETFs linked to them could get shares first.",
                 "source": "Motley Fool",
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/18/spacex-ipo-is-coming-this-is-vanguard-etf-first/",
                 "publishDate": "2026-05-18T21:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "EchoStar Rallies as Play on SpaceX IPO. There Could Be More Upside.",
+                "summary": "EchoStar  has emerged as one of the leading plays on SpaceX since the company got a 2%-plus stake in Elon Musk\u2019s company in return for some of EchoStar\u2019s spectrum.  The IPO could value SpaceX at $1.5 trillion to $2 trillion, making it one of the more valuable companies in the world.  EchoStar stock has doubled since the initial spectrum deal in September and finished Monday at $136.45, down 0.5% on the session.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/echostar-stock-price-spacex-ipo-2ce56316?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-18T21:16:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Little-Known Hedge Fund That Stands to Make Over $10 Billion on SpaceX",
+                "summary": "Darsana Capital Partners has nearly 60% of the money it manages in shares of Elon Musk\u2019s rocket maker.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/investing/the-little-known-hedge-fund-that-stands-to-make-over-10-billion-on-spacex-44504c7a?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-18T20:55:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -358,66 +418,6 @@
                 "category": "finance",
                 "url": "https://www.investors.com/news/spacex-starship-launch-v3-super-heavy-ipo-prospectus-elon-musk-space-stocks/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-05-18T20:16:13Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla\u2019s Elon Musk Finds Time to Update Us on the Robo-Taxi Rollout",
-                "summary": "CEO Elon Musk says Tesla robo-taxis will probably be \u2018widespread\u2019 in the U.S. by the end of 2026. This week, though, he is focused on the SpaceX IPO.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/tesla-robo-taxi-elon-musk-spacex-756eff1f?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-18T20:08:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Financial Stocks Higher Monday Afternoon",
-                "summary": "Financial stocks were advancing in Monday afternoon trading, with the NYSE Financial Index rising 1%",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/sector-financial-stocks-higher-monday-180608209.html",
-                "publishDate": "2026-05-18T18:06:08Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Behind the Ticker: NASA, SpaceX, and Tema ETFs",
-                "summary": "<p>The <a href=\"https://www.etf.com/NASA\"><strong>Tema Space Innovators ETF (NASA)</strong></a><strong> </strong>managed to land, entirely by accident, one of the most fortuitous launch windows for a thematic ETF, coinciding with the Artemis II mission and renewed popular interest in the space program. This episode of <em>Behind the Ticker </em>digs into the fund, how Tema ETFs approaches thematic investing differently, and why the aerospace industry\u2019s future looks so bright.\u00a0</p>",
-                "source": "etf.com",
-                "category": "finance",
-                "url": "http://www.etf.com/sections/podcasts/behind-ticker-nasa-spacex-and-tema-etfs?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-                "publishDate": "2026-05-18T17:06:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Intuitive Machines Stock Popped Then Dropped",
-                "summary": "First, the SpaceX IPO inspired space investors -- but today it's frightening them.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/why-intuitive-machines-stock-popped-then-dropped/",
-                "publishDate": "2026-05-18T15:13:15Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Rocket Lab Stock Popped Then Dropped",
-                "summary": "First the SpaceX IPO got investors excited. Now it may be getting them scared.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/why-rocket-lab-stock-popped-then-dropped/",
-                "publishDate": "2026-05-18T14:49:49Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hyperliquid Defies Market Downturn as SpaceX, Anthropic, OpenAI IPOs Loom",
-                "summary": "Hyperliquid\u2019s HYPE token has jumped as its HIP-3 pre-IPO perp marketplace heats up ahead of a series of high-profile tech IPOs.",
-                "source": "decrypt",
-                "category": "finance",
-                "url": "https://decrypt.co/368172/hyperliquid-defies-market-downturn-as-spacex-anthropic-openai-ipos-loom",
-                "publishDate": "2026-05-18T14:46:25Z",
                 "premium": false,
                 "freemium": false
             }
@@ -450,9 +450,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.5264652,
+            "change": -2.52647,
             "marketCap": 20433266688,
-            "weekLow": 10.58,
+            "weekLow": 10.594,
             "weekHigh": 30.33,
             "yearTarget": 35.70833
         },
@@ -594,9 +594,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.134438,
+            "change": -2.13444,
             "marketCap": 6374125568,
-            "weekLow": 10.66,
+            "weekLow": 10.78,
             "weekHigh": 36.52,
             "yearTarget": 43.8
         },
