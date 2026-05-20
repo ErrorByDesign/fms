@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.8258,
+        "price": 44.965,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2326176,
-            "marketCap": 198659686400,
+            "change": 1.5469769,
+            "marketCap": 199276593152,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.735733
+            "yearTarget": 46.719154
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.202,
+        "price": 2.2,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.472903,
-            "marketCap": 206775024,
+            "change": 8.374388,
+            "marketCap": 206587232,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,26 @@
         },
         "NEWS": [
             {
+                "title": "OpenAI IPO Filing Could Come 'Very Soon:' Report",
+                "summary": "An OpenAI IPO filing could come later this week as the ChatGPT parent works with bankers, according to a new report.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/openai-ipo-filing-report/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-20T17:00:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "OpenAI confidentially filing for IPO as soon as this week",
+                "summary": "Bankers at Goldman Sachs and Morgan Stanley are helping the company prepare a draft prospectus, with a public debut targeted for as early as September",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/openai-ipo-confidential-filing-goldman-sachs-morgan-stanley-052026",
+                "publishDate": "2026-05-20T16:58:22Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX IPO Could Rewrite Wall Street Records",
                 "summary": "Elon Musk's rocket company is reportedly targeting one of the biggest public listings ever.",
                 "source": "GuruFocus.com",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-20T12:31:07Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Prepares Starship V3 Launch Ahead of $1.75 Trillion IPO",
-                "summary": "Flight 12 debuts orbital refueling, ship-to-ship docking and upgraded Raptor engines",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-prepares-starship-v3-launch-122426736.html",
-                "publishDate": "2026-05-20T12:24:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "5 Things to Know Before the Stock Market Opens",
-                "summary": "News of the day for May 20, 2026",
-                "source": "Investopedia",
-                "category": "finance",
-                "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-may-20-2026-11979166",
-                "publishDate": "2026-05-20T12:12:50Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.39,
+        "price": 32.59,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,10 +450,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 14.827955,
-            "marketCap": 23181559808,
+            "change": 15.526414,
+            "marketCap": 23324698624,
             "weekLow": 10.594,
-            "weekHigh": 32.54,
+            "weekHigh": 32.7925,
             "yearTarget": 35.70833
         },
         "FUNDING": {
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "These Two Biotech Stocks Rocketed \u2014 And One Just Broke Out",
+                "summary": "Immunovant stock shot to a two-year high Wednesday on \"highly compelling\" results for its experimental rheumatoid arthritis treatment.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/immunovant-stock-roivant-stock-imvt-1402-rheumatoid-arthritis/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-20T17:02:52Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "2 Biotech Stocks Are Surging Today Thanks to This Arthritis Drug",
                 "summary": "Immunovant reports clinically meaningful trial results for its lead drug candidate. That\u2019s good news for Roivant Sciences.",
@@ -482,16 +492,6 @@
                 "category": "finance",
                 "url": "https://www.marketbeat.com/instant-alerts/roivant-sciences-q4-earnings-call-highlights-2026-05-20/?utm_source=yahoofinance&utm_medium=yahoofinance",
                 "publishDate": "2026-05-20T14:07:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why These Two Biotech Stocks Just Rocketed, As One Prepares To Break Out",
-                "summary": "Immunovant stock shot to an 18-month high Wednesday on \"highly compelling\" results for its experimental rheumatoid arthritis treatment.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/immunovant-stock-roivant-stock-imvt-1402-rheumatoid-arthritis/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-20T13:47:57Z",
                 "premium": false,
                 "freemium": false
             },
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.59,
+        "price": 30.87,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.309691,
-            "marketCap": 6347151872,
+            "change": 4.25532,
+            "marketCap": 6405249536,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
