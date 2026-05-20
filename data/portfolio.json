@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.89,
+        "price": 44.765,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3775985,
-            "marketCap": 198944210944,
+            "change": 1.095304,
+            "marketCap": 198390218752,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.782913
+            "yearTarget": 46.733845
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX Is Getting Closer to Its Record-Breaking IPO",
+                "summary": "SpaceX appears to have tapped Goldman Sachs to be lead bookrunner for its massive initial public offering.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-goldman-sachs-55895eb6?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T15:03:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Delays Starship Launch. IPO Prospectus Due This Week.",
                 "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO.",
                 "source": "Investor's Business Daily",
@@ -332,12 +342,12 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX Picks Goldman Sachs for Its IPO. What That Means.",
-                "summary": "SpaceX appears to have tapped Goldman Sachs to be lead bookrunner for its massive initial public offering.",
-                "source": "Barrons.com",
+                "title": "Blue Origin Considering Bringing In Outside Investment, Bezos Says",
+                "summary": "Jeff Bezos\u2019 Blue Origin is weighing whether to bring on outside investors for the first time. \u201cWe finally have enough visibility into our future and our financial success,\u201d Bezos said in an interview with CNBC this morning.",
+                "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-goldman-sachs-ipo-stock-55895eb6?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-20T13:43:00Z",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/blue-origin-considering-bringing-in-outside-investment-bezos-says-DozgH0fnv9jhBktabAnu?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T13:59:50Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-20T10:01:17Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "The Best Space ETF to Buy Before a Summer Rally",
-                "summary": "With the SpaceX IPO nearing, the Tema Space Innovators ETF could be a summertime star.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/20/the-best-space-etf-to-buy-before-a-summer-rally/",
-                "publishDate": "2026-05-20T09:50:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.18,
+        "price": 32.23,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 14.073029,
-            "marketCap": 23031263232,
+            "change": 14.245217,
+            "marketCap": 23067045888,
             "weekLow": 10.594,
             "weekHigh": 32.455,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.865,
+        "price": 30.72,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.23843,
-            "marketCap": 6404211712,
+            "change": 3.748729,
+            "marketCap": 6374125568,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
