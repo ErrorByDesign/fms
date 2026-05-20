@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.765,
+        "price": 44.83,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.095304,
-            "marketCap": 198390218752,
+            "change": 1.2421026,
+            "marketCap": 198678298624,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.733845
+            "yearTarget": 46.736538
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.25,
+        "price": 2.204,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 10.8374405,
-            "marketCap": 211282400,
+            "change": 8.571429,
+            "marketCap": 206962848,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX IPO Could Rewrite Wall Street Records",
+                "summary": "Elon Musk's rocket company is reportedly targeting one of the biggest public listings ever.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-could-rewrite-wall-154939862.html",
+                "publishDate": "2026-05-20T15:49:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Is Getting Closer to Its Record-Breaking IPO",
                 "summary": "SpaceX appears to have tapped Goldman Sachs to be lead bookrunner for its massive initial public offering.",
                 "source": "Barrons.com",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-20T12:12:50Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk's SpaceX Wants The FCC To Kill $4.5 Billion Major Rural Internet Subsidy Program",
-                "summary": "Elon Musk-led SpaceX has written a letter to the Federal Communications Commission (FCC), urging the agency to end the High-Cost program aimed at providing connectivity to rural areas via subsidies for internet service providers (ISPs). SpaceX Says It Has Solved...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/economy/policy/articles/elon-musks-spacex-wants-fcc-100117898.html",
-                "publishDate": "2026-05-20T10:01:17Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.23,
+        "price": 32.08,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,10 +450,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 14.245217,
-            "marketCap": 23067045888,
+            "change": 13.71855,
+            "marketCap": 22959693824,
             "weekLow": 10.594,
-            "weekHigh": 32.455,
+            "weekHigh": 32.54,
             "yearTarget": 35.70833
         },
         "FUNDING": {
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "2 Biotech Stocks Are Surging Today Thanks to This Arthritis Drug",
+                "summary": "Immunovant reports clinically meaningful trial results for its lead drug candidate. That\u2019s good news for Roivant Sciences.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/immunovant-roivant-stock-trial-data-earnings-8bb5bfd7?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T15:38:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Roivant Sciences Q4 Earnings Call Highlights",
                 "summary": "Roivant Sciences (NASDAQ:ROIV) executives used the company\u2019s fourth-quarter earnings call to highlight new open-label data for IMVT-1402 in difficult-to-treat rheumatoid arthritis, upcoming pulmonary hypertension data for mosliciguat and continued preparation for a potential brepocitinib launch in d",
@@ -554,16 +564,6 @@
                 "publishDate": "2026-05-18T18:25:44Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Hedge Fund Drops $37 Million on Rare Disease Biotech Crinetics. Is It a Buy?",
-                "summary": "Crinetics Pharmaceuticals develops oral therapies for rare endocrine diseases.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/coverage/filings/2026/05/18/hedge-fund-drops-usd37-million-on-rare-disease-biotech-crinetics-is-it-a-buy/",
-                "publishDate": "2026-05-18T18:10:27Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.72,
+        "price": 30.71,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.748729,
-            "marketCap": 6374125568,
+            "change": 3.714956,
+            "marketCap": 6372050432,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "CIBC Revises Earnings Estimate for SSR Mining After Hod Maden Stake Sale",
+                "summary": "CIBC Capital Markets on Tuesday revised its 2027 adjusted earnings estimate for SSR Mining (SSRM.TO,",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/cibc-revises-earnings-estimate-ssr-155529436.html",
+                "publishDate": "2026-05-20T15:55:29Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Why SSR Mining (SSRM) is a Top Value Stock for the Long-Term",
                 "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-ssr-mining-tsx-ssrm-132448700.html",
                 "publishDate": "2026-05-12T13:24:48Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Silver Standard Resources Holds Virtual 2026 AGM, Shareholders Approve Directors, Say-on-Pay, PwC",
-                "summary": "SSR Mining Inc. held its 2026 annual meeting of shareholders in a virtual format, with Executive Chairman Rod Antal presiding and outlining the meeting\u2019s procedures, voting rules, and agenda items. Virtual meeting procedures and voting At the outset, the operator noted the meeting was being recorde",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/silver-standard-resources-holds-virtual-2026-agm-shareholders-approve-directors-say-on-pay-pwc-2026-05-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-08T12:07:17Z",
                 "premium": false,
                 "freemium": false
             }
