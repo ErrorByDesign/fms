@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.015,
+        "price": 45.0399,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.659893,
-            "marketCap": 199498186752,
+            "change": 1.7161313,
+            "marketCap": 199608549376,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.723156
+            "yearTarget": 46.738937
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,46 @@
         },
         "NEWS": [
             {
+                "title": "Forget SpaceX. These 2 Space Stocks Could Be the Real Winners Of the Coming IPO Frenzy",
+                "summary": "While what could be the largest IPO on record looms, two smaller publicly traded space names have quietly built real revenue and accelerating customer demand.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/20/forget-spacex-these-2-space-stocks-could-be-the-re/",
+                "publishDate": "2026-05-20T18:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Stock Market Indexes Rally Wednesday as Iran Talks and SpaceX IPO Lift Sentiment",
+                "summary": "Wednesday's rally is a mirror image of Tuesday's sell-off. Here's what changed overnight.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/20/stock-market-indexes-rally-wednesday-as-iran-talks/",
+                "publishDate": "2026-05-20T18:25:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Taps Goldman Sachs to Lead Record-Breaking IPO Amid Trillion-Dollar Valuation Push",
+                "summary": "Musk's SpaceX IPO Shockwave: Goldman Sachs Chosen for Historic Market Debut",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-taps-goldman-sachs-lead-182321806.html",
+                "publishDate": "2026-05-20T18:23:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Targets $75 Billion Raise at Over $2 Trillion Valuation",
+                "summary": "Goldman Sachs and Morgan Stanley are leading banks on SpaceX's planned IPO, which could surpass Saudi Aramco's 2019 listing.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-targets-75-billion-182257528.html",
+                "publishDate": "2026-05-20T18:22:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "OpenAI IPO Filing Could Come 'Very Soon:' Report",
                 "summary": "An OpenAI IPO filing could come later this week as the ChatGPT parent works with bankers, according to a new report.",
                 "source": "Investor's Business Daily",
@@ -380,46 +420,6 @@
                 "publishDate": "2026-05-20T16:42:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Could Rewrite Wall Street Records",
-                "summary": "Elon Musk's rocket company is reportedly targeting one of the biggest public listings ever.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-could-rewrite-wall-154939862.html",
-                "publishDate": "2026-05-20T15:49:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Is Getting Closer to Its Record-Breaking IPO",
-                "summary": "SpaceX appears to have tapped Goldman Sachs to be lead bookrunner for its massive initial public offering.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-goldman-sachs-55895eb6?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-20T15:03:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Delays Starship Launch. IPO Prospectus Due This Week.",
-                "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-starship-launch-v3-super-heavy-ipo-prospectus-elon-musk-space-stocks/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-20T14:54:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Blue Origin Considering Bringing In Outside Investment, Bezos Says",
-                "summary": "Jeff Bezos\u2019 Blue Origin is weighing whether to bring on outside investors for the first time. \u201cWe finally have enough visibility into our future and our financial success,\u201d Bezos said in an interview with CNBC this morning.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/blue-origin-considering-bringing-in-outside-investment-bezos-says-DozgH0fnv9jhBktabAnu?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-20T13:59:50Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.665,
+        "price": 32.285,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 15.792279,
-            "marketCap": 23378378752,
+            "change": 14.445235,
+            "marketCap": 23106410496,
             "weekLow": 10.594,
             "weekHigh": 32.7925,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.835,
+        "price": 30.87,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.1371107,
-            "marketCap": 6397986816,
+            "change": 4.25532,
+            "marketCap": 6405249536,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
