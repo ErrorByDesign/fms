@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.955,
+        "price": 45.015,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5243971,
-            "marketCap": 199232274432,
+            "change": 1.659893,
+            "marketCap": 199498186752,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.701862
+            "yearTarget": 46.723156
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Denmark GDP Jumps 1.9% as Pharma Sector Drives Growth",
+                "summary": "Novo Nordisk-linked pharmaceutical strength helped Denmark post a fourth straight quarter of economic expansion.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/economy/articles/denmark-gdp-jumps-1-9-181410955.html",
+                "publishDate": "2026-05-20T18:14:10Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "How New Wegovy Obesity Trial Data At Novo Nordisk (CPSE:NOVO B) Has Changed Its Investment Story",
                 "summary": "Earlier in May 2026, Novo Nordisk presented new sub-analyses from its OASIS 4 and STEP UP phase 3 trials at the European Congress on Obesity, showing strong weight-loss efficacy, improved physical function and favourable body composition effects for both oral and injectable Wegovy across diverse adult and female patient groups. The company also reported that Wegovy\u2019s oral pill compared favourably with rival orforglipron on weight loss, tolerability and patient preference, reinforcing...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-18T17:55:07Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "3 Deeply Undervalued Stocks You Can Buy for Less Than $100 Right Now",
-                "summary": "These stocks could look like steals in a few years.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/3-deeply-undervalued-stocks-you-can-buy-for-less-t/",
-                "publishDate": "2026-05-18T16:20:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.2047,
+        "price": 2.2001,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.605912,
-            "marketCap": 207028576,
+            "change": 8.37931,
+            "marketCap": 206596624,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,26 @@
         },
         "NEWS": [
             {
+                "title": "OpenAI IPO Filing Could Come 'Very Soon:' Report",
+                "summary": "An OpenAI IPO filing could come later this week as the ChatGPT parent works with bankers, according to a new report.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/openai-ipo-filing-report/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-20T18:15:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Private Markets Push Deeper as SEC Weighs Reporting Rollback",
+                "summary": "Apollo and JPMorgan expand private credit trading while investors gain broader access to unlisted assets and future IPO candidates.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/private-markets-push-deeper-sec-181445185.html",
+                "publishDate": "2026-05-20T18:14:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Wall Street Legend Predicts Elon Musk\u2019s Net Worth Could Soon Exceed NVIDIA\u2019s Entire Market Cap",
                 "summary": "The market has already minted a baker\u2019s dozen of trillion-dollar companies, but Wall Street may soon witness an even stranger situation: One entrepreneur\u2019s personal fortune rivals \u2014 or even exceeds \u2014 the value of the world\u2019s largest public company That possibility no longer sounds far-fetched to billionaire investor Ron Baron. The longtime backer of Elon ... Wall Street Legend Predicts Elon Musk\u2019s Net Worth Could Soon Exceed NVIDIA\u2019s Entire Market Cap",
                 "source": "24/7 Wall St.",
@@ -332,22 +352,12 @@
                 "freemium": false
             },
             {
-                "title": "OpenAI IPO Filing Could Come 'Very Soon:' Report",
-                "summary": "An OpenAI IPO filing could come later this week as the ChatGPT parent works with bankers, according to a new report.",
-                "source": "Investor's Business Daily",
+                "title": "OpenAI barrels towards IPO that may happen in September",
+                "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+                "source": "TechCrunch",
                 "category": "finance",
-                "url": "https://www.investors.com/news/technology/openai-ipo-filing-report/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-20T17:00:48Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "OpenAI IPO filing could come as soon as this week",
-                "summary": "Bankers at Goldman Sachs and Morgan Stanley are helping the company prepare a draft prospectus, with a public debut targeted for as early as September",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/openai-ipo-confidential-filing-goldman-sachs-morgan-stanley-052026",
-                "publishDate": "2026-05-20T16:58:22Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/openai-barrels-towards-ipo-may-172424604.html",
+                "publishDate": "2026-05-20T17:24:24Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-20T13:59:50Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s Terafab Could Ultimately Cost $119 Billion \u2014 Why That Might Be Money Well Spent",
-                "summary": "Elon Musk\u2019s visionary projects have been sparking some huge conversations in the AI world in recent months. Whether it\u2019s the orbital AI data centers, which were given a massive vote of confidence following the recent Google (whose parent company is Alphabet (NASDAQ:GOOGL)) deal with SpaceX, as well as Nvidia (NASDAQ:NVDA) after it announced its space ... Elon Musk\u2019s Terafab Could Ultimately Cost $119 Billion \u2014 Why That Might Be Money Well Spent",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/20/elon-musks-terafab-could-ultimately-cost-119-billion-why-that-might-be-money-well-spent/",
-                "publishDate": "2026-05-20T13:33:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.5,
+        "price": 32.665,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 15.207377,
-            "marketCap": 23260286976,
+            "change": 15.792279,
+            "marketCap": 23378378752,
             "weekLow": 10.594,
             "weekHigh": 32.7925,
             "yearTarget": 35.70833
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Roivant (ROIV) Q4 2025 Earnings Transcript",
+                "summary": "Matthew Gline: Let me just call out the slide numbers.  And given the quality of the clinical data we've seen on ACR, I think it's like certainly a thing to speculate on that the overall profile of 1402 is part of what's contributing to our ability to deliver this data.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/earnings/call-transcripts/2026/05/20/roivant-roiv-q4-2025-earnings-transcript/",
+                "publishDate": "2026-05-20T17:54:28Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Can a New Arthritis Drug Make Immunovant the Next Biotech Star?",
                 "summary": "Immunovant reports clinically meaningful trial results for its lead drug candidate. That\u2019s good news for Roivant Sciences.",
@@ -554,16 +564,6 @@
                 "publishDate": "2026-05-18T18:43:47Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Hedge Fund Drops $40 Million on Gene-Editing Biotech Beam. Is It a Buy?",
-                "summary": "Beam Therapeutics develops precision genetic medicines using base editing technology to target serious inherited diseases.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/coverage/filings/2026/05/18/hedge-fund-drops-usd40-million-on-gene-editing-biotech-beam-is-it-a-buy/",
-                "publishDate": "2026-05-18T18:25:44Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.8,
+        "price": 30.835,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.018908,
-            "marketCap": 6390724608,
+            "change": 4.1371107,
+            "marketCap": 6397986816,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
