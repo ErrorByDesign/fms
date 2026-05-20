@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.1148,
+        "price": 45.205,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.8852772,
-            "marketCap": 199940472832,
+            "change": 2.0887504,
+            "marketCap": 200340242432,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.740902
+            "yearTarget": 46.749924
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.2001,
+        "price": 2.228,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.37931,
-            "marketCap": 206596624,
+            "change": 9.753693,
+            "marketCap": 209216512,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -402,8 +402,8 @@
                 "freemium": false
             },
             {
-                "title": "OpenAI barrels towards IPO that may happen in September",
-                "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership and finances, OpenAI is reportedly back to prepping for its IPO.",
+                "title": "OpenAI barrels toward IPO that may happen in September",
+                "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
                 "source": "TechCrunch",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/openai-barrels-towards-ipo-may-172424604.html",
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.39,
+        "price": 32.37,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 14.809567,
-            "marketCap": 23181559808,
+            "change": 14.751773,
+            "marketCap": 23167244288,
             "weekLow": 10.594,
             "weekHigh": 32.7925,
             "yearTarget": 35.70833
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.65,
+        "price": 30.665,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5123234,
-            "marketCap": 6359601152,
+            "change": 3.5629864,
+            "marketCap": 6362714112,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
