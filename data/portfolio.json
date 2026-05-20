@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.965,
+        "price": 44.955,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5469769,
-            "marketCap": 199276593152,
+            "change": 1.5243971,
+            "marketCap": 199232274432,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.719154
+            "yearTarget": 46.701862
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.2,
+        "price": 2.2047,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.374388,
-            "marketCap": 206587232,
+            "change": 8.605912,
+            "marketCap": 207028576,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Wall Street Legend Predicts Elon Musk\u2019s Net Worth Could Soon Exceed NVIDIA\u2019s Entire Market Cap",
+                "summary": "The market has already minted a baker\u2019s dozen of trillion-dollar companies, but Wall Street may soon witness an even stranger situation: One entrepreneur\u2019s personal fortune rivals \u2014 or even exceeds \u2014 the value of the world\u2019s largest public company That possibility no longer sounds far-fetched to billionaire investor Ron Baron. The longtime backer of Elon ... Wall Street Legend Predicts Elon Musk\u2019s Net Worth Could Soon Exceed NVIDIA\u2019s Entire Market Cap",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/20/wall-street-legend-predicts-elon-musks-net-worth-could-soon-exceed-nvidias-entire-market-cap/",
+                "publishDate": "2026-05-20T17:39:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "OpenAI IPO Filing Could Come 'Very Soon:' Report",
                 "summary": "An OpenAI IPO filing could come later this week as the ChatGPT parent works with bankers, according to a new report.",
                 "source": "Investor's Business Daily",
@@ -332,12 +342,32 @@
                 "freemium": false
             },
             {
-                "title": "OpenAI confidentially filing for IPO as soon as this week",
+                "title": "OpenAI IPO filing could come as soon as this week",
                 "summary": "Bankers at Goldman Sachs and Morgan Stanley are helping the company prepare a draft prospectus, with a public debut targeted for as early as September",
                 "source": "Quartz",
                 "category": "finance",
                 "url": "https://qz.com/openai-ipo-confidential-filing-goldman-sachs-morgan-stanley-052026",
                 "publishDate": "2026-05-20T16:58:22Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "U.S. Stocks Rise as Global Bond Rout Eases",
+                "summary": "STOCKS  The global bond selloff is taking a breather as investors latch onto hopeful signs that oil could begin flowing again through the Strait of Hormuz, potentially easing inflation pressures. Stock indexes moved higher, led by the Nasdaq composite.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/u-s-futures-point-higher-treasurys-steady-as-global-bond-selloff-pauses-f3063312?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T16:58:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "OpenAI Is Preparing to File for an IPO Very Soon",
+                "summary": "ChatGPT-maker OpenAI has been working with bankers to prepare to file for an initial public offering in the coming days or weeks, according to people familiar with the matter.  Bankers at firms including  Goldman Sachs  and  Morgan Stanley  have been helping the artificial-intelligence giant on a draft IPO prospectus it plans to file confidentially with regulators soon, possibly as early as Friday, some of the people said.  The goal is for OpenAI, led by Sam Altman, to be ready to go public as early as September, some of the people said.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/ai/openai-ipo-filing-date-0ec95af5?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T16:42:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-20T13:33:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Goldman Sachs to lead SpaceX IPO as lead-left underwriter",
-                "summary": "The offering is targeting a valuation of more than $2 trillion and aims to raise as much as $75 billion",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/goldman-sachs-spacex-ipo-lead-underwriter-052026",
-                "publishDate": "2026-05-20T13:12:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Best Way to Invest in SpaceX Before Its IPO",
-                "summary": "SpaceX is targeting a valuation of up to $2 trillion when it goes public.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/20/the-best-way-to-invest-in-spacex-before-its-ipo/",
-                "publishDate": "2026-05-20T12:33:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Jim Cramer Believes Starlink Could Crush Traditional Telecom Giants Like AT&T",
-                "summary": "Jim Cramer is pouring cold water on AT&T Inc.'s massive 5G network expansion, warning investors that emerging satellite networks from tech billionaires will easily outpace traditional telecom companies in rural markets. The Threat From the Sky During a recent episode...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-believes-starlink-123107003.html",
-                "publishDate": "2026-05-20T12:31:07Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.59,
+        "price": 32.5,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 15.526414,
-            "marketCap": 23324698624,
+            "change": 15.207377,
+            "marketCap": 23260286976,
             "weekLow": 10.594,
             "weekHigh": 32.7925,
             "yearTarget": 35.70833
@@ -466,22 +466,22 @@
         },
         "NEWS": [
             {
+                "title": "Can a New Arthritis Drug Make Immunovant the Next Biotech Star?",
+                "summary": "Immunovant reports clinically meaningful trial results for its lead drug candidate. That\u2019s good news for Roivant Sciences.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/immunovant-stock-price-arthritis-trial-data-roivant-8bb5bfd7?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T17:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "These Two Biotech Stocks Rocketed \u2014 And One Just Broke Out",
                 "summary": "Immunovant stock shot to a two-year high Wednesday on \"highly compelling\" results for its experimental rheumatoid arthritis treatment.",
                 "source": "Investor's Business Daily",
                 "category": "finance",
                 "url": "https://www.investors.com/news/technology/immunovant-stock-roivant-stock-imvt-1402-rheumatoid-arthritis/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-05-20T17:02:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "2 Biotech Stocks Are Surging Today Thanks to This Arthritis Drug",
-                "summary": "Immunovant reports clinically meaningful trial results for its lead drug candidate. That\u2019s good news for Roivant Sciences.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/immunovant-roivant-stock-trial-data-earnings-8bb5bfd7?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-20T15:38:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.87,
+        "price": 30.8,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.25532,
-            "marketCap": 6405249536,
+            "change": 4.018908,
+            "marketCap": 6390724608,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
