@@ -20,7 +20,7 @@
             "marketCap": 196240785408,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.615234
+            "yearTarget": 46.643616
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "EchoStar Draws Focus As FCC Spectrum Deal And SpaceX Proxy Story Grow",
+                "summary": "FCC approves a US$40b spectrum deal involving SpaceX, AT&T, and EchoStar. EchoStar, ticker NasdaqGS:SATS, is positioned as a beneficiary of the approved transaction. The company is increasingly viewed by some investors as a proxy for a potential SpaceX IPO. EchoStar, ticker NasdaqGS:SATS, operates in satellite communications at a time when low Earth orbit constellations and broadband-from-space projects are attracting intense attention. The recently approved US$40b spectrum deal with SpaceX...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-draws-focus-fcc-spectrum-031457023.html",
+                "publishDate": "2026-05-20T03:14:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Musk's empire as SpaceX counts down to Wall Street liftoff",
                 "summary": "Elon Musk defines himself as an engineer trying to save humanity, while his critics call him a far-right showman who overpromises and underdelivers.Its most prominent project -- a tunnel beneath the Las Vegas Convention Center -- has drawn mixed reviews, with critics noting it amounts to a narrow underground road for Tesla cars rather than the revolutionary transit system Musk once envisioned.\u00a0\narp/dw",
                 "source": "AFP",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-19T17:25:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk Loses Court Battle With OpenAI\u2019s Sam Altman. These Are the Winners.",
-                "summary": "A jury in Oakland, Calif., said the AI company isn\u2019t liable for claims brought by the billionaire Tesla CEO.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/elon-musk-loses-court-battle-openai-ef87160e?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-19T15:36:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "How The Roivant Sciences (ROIV) Story Is Shifting After Settlements And Brepocitinib Milestones",
+                "summary": "Roivant Sciences has seen only a marginal shift in its modeled fair value, from US$35.67 to US$35.71, keeping the headline price target effectively stable. That small move reflects a tug of war in analyst commentary, with optimism around the US$2.25b Genevant and Arbutus settlement and key brepocitinib milestones set against questions about how much of this is already in the stock. Read on to see how to track these shifting views and what to watch as the Roivant story continues to...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/roivant-sciences-roiv-story-shifting-031313541.html",
+                "publishDate": "2026-05-20T03:13:13Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Montes Archimedes Acquisition (ROIV) Upgraded to Buy: Here's Why",
                 "summary": "Montes Archimedes Acquisition (ROIV) might move higher on growing optimism about its earnings prospects, which is reflected by its upgrade to a Zacks Rank #2 (Buy).",
@@ -552,16 +562,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/look-roivant-sciences-roiv-valuation-151257609.html",
                 "publishDate": "2026-05-09T15:12:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here\u2019s Why Roivant Sciences Ltd (ROIV) Rallied in Q1",
-                "summary": "Baron Capital, an investment management company, released its Q1 2026 investor letter for the \u201cBaron Health Care Fund\u201d. A copy of the letter is available to download here. Baron Health Care Fund (the Fund) declined 6.97% (Institutional Shares) in the quarter, compared to the 4.88% decline for the Russell 3000 Health Care Index (the Benchmark) and [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/why-roivant-sciences-ltd-roiv-131000256.html",
-                "publishDate": "2026-05-04T13:10:00Z",
                 "premium": false,
                 "freemium": false
             }
