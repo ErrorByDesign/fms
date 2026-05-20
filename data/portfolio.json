@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7841034,
+            "change": 1.7841,
             "marketCap": 199741931520,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.735443
+            "yearTarget": 46.721554
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,36 @@
         },
         "NEWS": [
             {
+                "title": "Why Goldman Sachs Stock Popped on Wednesday",
+                "summary": "Goldman Sachs won a PR coup today -- and a bit of money, too.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/20/why-goldman-sachs-stock-popped-on-wednesday/",
+                "publishDate": "2026-05-20T20:40:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Delays Starship Launch. IPO Prospectus Due This Week.",
+                "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-starship-launch-v3-super-heavy-ipo-prospectus-elon-musk-space-stocks/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-20T20:15:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Investors Aren't Waiting for a SpaceX IPO. New Space ETFs Are Taking Off",
+                "summary": "Space ETFs have launched in the last two months and are posting performance that is almost as good as chipmakers.",
+                "source": "Investopedia",
+                "category": "finance",
+                "url": "https://www.investopedia.com/investors-aren-t-waiting-for-a-spacex-ipo-new-space-etfs-are-taking-off-11979632",
+                "publishDate": "2026-05-20T19:17:16Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Forget SpaceX. These 2 Space Stocks Could Be the Real Winners Of the Coming IPO Frenzy",
                 "summary": "While what could be the largest IPO on record looms, two smaller publicly traded space names have quietly built real revenue and accelerating customer demand.",
                 "source": "Motley Fool",
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-20T17:43:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Wall Street Legend Predicts Elon Musk\u2019s Net Worth Could Soon Exceed NVIDIA\u2019s Entire Market Cap",
-                "summary": "The market has already minted a baker\u2019s dozen of trillion-dollar companies, but Wall Street may soon witness an even stranger situation: One entrepreneur\u2019s personal fortune rivals \u2014 or even exceeds \u2014 the value of the world\u2019s largest public company That possibility no longer sounds far-fetched to billionaire investor Ron Baron. The longtime backer of Elon ... Wall Street Legend Predicts Elon Musk\u2019s Net Worth Could Soon Exceed NVIDIA\u2019s Entire Market Cap",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/20/wall-street-legend-predicts-elon-musks-net-worth-could-soon-exceed-nvidias-entire-market-cap/",
-                "publishDate": "2026-05-20T17:39:23Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "OpenAI barrels toward IPO that may happen in September",
-                "summary": "A day after Elon Musk lost his lawsuit that threatened OpenAI's structure, leadership, and finances, OpenAI is reportedly back to prepping for its IPO.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/openai-barrels-towards-ipo-may-172424604.html",
-                "publishDate": "2026-05-20T17:24:24Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "U.S. Stocks Rise as Global Bond Rout Eases",
-                "summary": "STOCKS  The global bond selloff is taking a breather as investors latch onto hopeful signs that oil could begin flowing again through the Strait of Hormuz, potentially easing inflation pressures. Stock indexes moved higher, led by the Nasdaq composite.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/u-s-futures-point-higher-treasurys-steady-as-global-bond-selloff-pauses-f3063312?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-20T16:58:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -466,6 +466,16 @@
         },
         "NEWS": [
             {
+                "title": "These Two Biotech Stocks Rocketed \u2014 And One Just Broke Out",
+                "summary": "Immunovant stock shot to a two-year high Wednesday on \"highly compelling\" results for its experimental rheumatoid arthritis treatment.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/immunovant-stock-roivant-stock-imvt-1402-rheumatoid-arthritis/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-20T20:11:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Roivant Sciences Ltd (ROIV) Q4 2025 Earnings Call Highlights: Strategic Settlements and ...",
                 "summary": "Roivant Sciences Ltd (ROIV) strengthens its financial position with a $2.25 billion Moderna settlement and prepares for key drug launches amidst mixed study results.",
                 "source": "GuruFocus.com",
@@ -492,16 +502,6 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/immunovant-stock-price-arthritis-trial-data-roivant-8bb5bfd7?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-20T17:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "These Two Biotech Stocks Rocketed \u2014 And One Just Broke Out",
-                "summary": "Immunovant stock shot to a two-year high Wednesday on \"highly compelling\" results for its experimental rheumatoid arthritis treatment.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/immunovant-stock-roivant-stock-imvt-1402-rheumatoid-arthritis/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-20T17:02:52Z",
                 "premium": false,
                 "freemium": false
             },
