@@ -20,7 +20,7 @@
             "marketCap": 199741931520,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.721554
+            "yearTarget": 46.73523
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 650.66,
+        "price": 650.77,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,10 +306,10 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.55,
-            "marketCap": 1544512864256,
+            "change": 0.02,
+            "marketCap": 1544773959680,
             "weekLow": 202.78,
-            "weekHigh": 650.66,
+            "weekHigh": 650.77,
             "yearTarget": null
         },
         "FUNDING": {
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "Why Goldman Sachs Stock Popped on Wednesday",
-                "summary": "Goldman Sachs won a PR coup today -- and a bit of money, too.",
-                "source": "Motley Fool",
+                "title": "SpaceX files IPO prospectus, offering a peek into its finances",
+                "summary": "SpaceX finally offered investors a public view of its internal finances, as the rocket company filed its S-1 registration statement with the SEC ahead of its investor road show planned for June 5.",
+                "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/20/why-goldman-sachs-stock-popped-on-wednesday/",
-                "publishDate": "2026-05-20T20:40:04Z",
+                "url": "https://finance.yahoo.com/markets/article/spacex-files-ipo-prospectus-offering-a-peek-into-its-finances-205406189.html",
+                "publishDate": "2026-05-20T20:54:06Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Delays Starship Launch. IPO Prospectus Due This Week.",
-                "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO.",
+                "title": "SpaceX IPO filing brings Musk's interplanetary ambitions to Wall Street",
+                "summary": "As Elon Musk's SpaceX races toward what could be the largest IPO in history, its filing delivers a rare mix of hard financial data and bold ambitions \u200cof exploring the frontiers of space.  The filing's references to lunar missions and Mars settlement echo the popular space-age \u200cfuturistic themes of \"The Martian\" and \"Interstellar,\" while grounding those ambitions in the more familiar language of commercial space development.  \"We do not want humans to have the same fate as dinosaurs,\" the company said, as it made a case for interplanetary travel.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-filing-brings-musks-213932487.html",
+                "publishDate": "2026-05-20T21:39:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk\u2019s SpaceX kicks off biggest stock market listing in history",
+                "summary": "Elon Musk has fired the starting gun on what is expected to be the biggest stock market float in history as his rocket company SpaceX filed for its record-breaking $1.75tn listing.",
+                "source": "The Telegraph",
+                "category": "finance",
+                "url": "https://uk.finance.yahoo.com/news/musk-spacex-kicks-off-biggest-213917401.html",
+                "publishDate": "2026-05-20T21:39:17Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Dow Jones Futures: Nvidia Wavers After Soaring Earnings; Stocks Rally, Oil Prices Dive On Iran Hopes",
+                "summary": "Nvidia stock fell late despite strong earnings and guidance. Stocks rallied Wednesday as oil prices dived on Iran hopes.",
                 "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://www.investors.com/news/spacex-starship-launch-v3-super-heavy-ipo-prospectus-elon-musk-space-stocks/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-20T20:15:51Z",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-earnings-stocks-rally-oil-prices-iran-deal-hopes/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-20T21:37:25Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Investors Aren't Waiting for a SpaceX IPO. New Space ETFs Are Taking Off",
-                "summary": "Space ETFs have launched in the last two months and are posting performance that is almost as good as chipmakers.",
-                "source": "Investopedia",
+                "title": "SpaceX files IPO paperwork with SEC, targets Nasdaq under SPCX",
+                "summary": "The S-1 filing reveals a company with $18.7 billion in 2025 revenue that spans rockets, satellite internet, and AI",
+                "source": "Quartz",
                 "category": "finance",
-                "url": "https://www.investopedia.com/investors-aren-t-waiting-for-a-spacex-ipo-new-space-etfs-are-taking-off-11979632",
-                "publishDate": "2026-05-20T19:17:16Z",
+                "url": "https://qz.com/spacex-ipo-sec-filing-nasdaq-spcx-052026",
+                "publishDate": "2026-05-20T21:29:35Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Forget SpaceX. These 2 Space Stocks Could Be the Real Winners Of the Coming IPO Frenzy",
-                "summary": "While what could be the largest IPO on record looms, two smaller publicly traded space names have quietly built real revenue and accelerating customer demand.",
-                "source": "Motley Fool",
+                "title": "SpaceX reveals plans for what could be the biggest-ever initial public offering",
+                "summary": "Elon Musk announced plans Wednesday for one of the biggest sales of stock to the public ever for a space company currently losing billions of dollars year.  Documents filed on Wednesday show Musk\u2019s SpaceX lost $2.6 billion from operations last year on $18.7 billion in revenue, and the losses kept piling up at the start of this year, too.  The prospectus did not put a dollar figure on the amount Musk hopes to raise but various reports have put it at $75 billion or so.",
+                "source": "Associated Press",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/20/forget-spacex-these-2-space-stocks-could-be-the-re/",
-                "publishDate": "2026-05-20T18:26:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reveals-plans-could-biggest-212245591.html",
+                "publishDate": "2026-05-20T21:22:45Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Stock Market Indexes Rally Wednesday as Iran Talks and SpaceX IPO Lift Sentiment",
-                "summary": "Wednesday's rally is a mirror image of Tuesday's sell-off. Here's what changed overnight.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/20/stock-market-indexes-rally-wednesday-as-iran-talks/",
-                "publishDate": "2026-05-20T18:25:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Taps Goldman Sachs to Lead Record-Breaking IPO Amid Trillion-Dollar Valuation Push",
-                "summary": "Musk's SpaceX IPO Shockwave: Goldman Sachs Chosen for Historic Market Debut",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-taps-goldman-sachs-lead-182321806.html",
-                "publishDate": "2026-05-20T18:23:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Targets $75 Billion Raise at Over $2 Trillion Valuation",
-                "summary": "Goldman Sachs and Morgan Stanley are leading banks on SpaceX's planned IPO, which could surpass Saudi Aramco's 2019 listing.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-targets-75-billion-182257528.html",
-                "publishDate": "2026-05-20T18:22:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "OpenAI IPO Filing Could Come 'Very Soon:' Report",
-                "summary": "An OpenAI IPO filing could come later this week as the ChatGPT parent works with bankers, according to a new report.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/openai-ipo-filing-report/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-20T18:15:33Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Private Markets Push Deeper as SEC Weighs Reporting Rollback",
-                "summary": "Apollo and JPMorgan expand private credit trading while investors gain broader access to unlisted assets and future IPO candidates.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/private-markets-push-deeper-sec-181445185.html",
-                "publishDate": "2026-05-20T18:14:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "OpenAI Is Preparing to File for an IPO Very Soon",
-                "summary": "ChatGPT-maker OpenAI has been working with bankers to prepare to file for an initial public offering in the coming days or weeks, according to people familiar with the matter.  Bankers at firms including  Goldman Sachs  and  Morgan Stanley  have been helping the artificial-intelligence giant on a draft IPO prospectus it plans to file confidentially with regulators soon, possibly as early as Friday, some of the people said.  The goal is for OpenAI, led by  Sam Altman,  to be ready to go public as early as September, some of the people said.",
+                "title": "Musk\u2019s Supervoting Stock Gives Him 85% Control of SpaceX",
+                "summary": "Musk controlled 85% of the voting power at SpaceX on May 1, thanks to supervoting class B shares that give insiders 10 votes for every share, compared with one vote for each Class A share being sold to the public.  The structure will make it all but impossible for investors to kick Musk out of his role as CEO.",
                 "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://www.wsj.com/tech/ai/openai-ipo-filing-date-0ec95af5?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-20T17:43:00Z",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/musk-s-supervoting-stock-gives-him-85-control-of-spacex-54cvYcw5O3lODXrClmtJ?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T21:19:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Picks SPCX Ticker for Mega IPO",
+                "summary": "When SpaceX starts trading next month, it\u2019ll be under the ticker SPCX and will be dual listed on the Nasdaq Stock Market and Nasdaq Texas, the filing reveals. It\u2019s a big win for Nasdaq, which competes fiercely with its downtown rival the New York Stock Exchange for new listings.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/spacex-picks-spcx-ticker-for-mega-ipo-fRRceU1medmzIfgbNJTF?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T21:18:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Bound for Mars, Elon Musk's SpaceX unveils filing for blockbuster IPO",
+                "summary": "By Echo Wang and Manya Saini May 20 (Reuters) - SpaceX took the wraps off its IPO filing on Wednesday, opening the books of the company that has already revolutionized rocket technology, with even",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/bound-mars-elon-musks-spacex-211640021.html",
+                "publishDate": "2026-05-20T21:16:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Filing Finally Comes. Mars, Musk, and More Big Things to Watch.",
+                "summary": "The S-1 IPO registration statement for Elon Musk\u2019s rocket company SpaceX arrived late Wednesday afternoon.  Investors can download it here.  The IPO is expected to raise a record amount of money, valuing Elon Musk\u2019s company at roughly $2 trillion\u2014enough to turn the world\u2019s richest person into a trillionaire.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-filing-stock-musk-74d9b0ca?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T21:16:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -466,6 +466,16 @@
         },
         "NEWS": [
             {
+                "title": "2 Biotech Stocks Are Surging Today Thanks to This Arthritis Drug",
+                "summary": "Immunovant reports clinically meaningful trial results for its lead drug candidate. That\u2019s good news for Roivant Sciences.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/immunovant-stock-price-arthritis-trial-data-roivant-8bb5bfd7?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T20:38:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "These Two Biotech Stocks Rocketed \u2014 And One Just Broke Out",
                 "summary": "Immunovant stock shot to a two-year high Wednesday on \"highly compelling\" results for its experimental rheumatoid arthritis treatment.",
                 "source": "Investor's Business Daily",
@@ -492,16 +502,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/earnings/call-transcripts/2026/05/20/roivant-roiv-q4-2025-earnings-transcript/",
                 "publishDate": "2026-05-20T17:54:28Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can a New Arthritis Drug Make Immunovant the Next Biotech Star?",
-                "summary": "Immunovant reports clinically meaningful trial results for its lead drug candidate. That\u2019s good news for Roivant Sciences.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/immunovant-stock-price-arthritis-trial-data-roivant-8bb5bfd7?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-20T17:20:00Z",
                 "premium": false,
                 "freemium": false
             },
