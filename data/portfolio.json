@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.0399,
+        "price": 45.1148,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7161313,
-            "marketCap": 199608549376,
+            "change": 1.8852772,
+            "marketCap": 199940472832,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.738937
+            "yearTarget": 46.740902
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -382,6 +382,16 @@
                 "freemium": false
             },
             {
+                "title": "OpenAI Is Preparing to File for an IPO Very Soon",
+                "summary": "ChatGPT-maker OpenAI has been working with bankers to prepare to file for an initial public offering in the coming days or weeks, according to people familiar with the matter.  Bankers at firms including  Goldman Sachs  and  Morgan Stanley  have been helping the artificial-intelligence giant on a draft IPO prospectus it plans to file confidentially with regulators soon, possibly as early as Friday, some of the people said.  The goal is for OpenAI, led by  Sam Altman,  to be ready to go public as early as September, some of the people said.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/ai/openai-ipo-filing-date-0ec95af5?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T17:43:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Wall Street Legend Predicts Elon Musk\u2019s Net Worth Could Soon Exceed NVIDIA\u2019s Entire Market Cap",
                 "summary": "The market has already minted a baker\u2019s dozen of trillion-dollar companies, but Wall Street may soon witness an even stranger situation: One entrepreneur\u2019s personal fortune rivals \u2014 or even exceeds \u2014 the value of the world\u2019s largest public company That possibility no longer sounds far-fetched to billionaire investor Ron Baron. The longtime backer of Elon ... Wall Street Legend Predicts Elon Musk\u2019s Net Worth Could Soon Exceed NVIDIA\u2019s Entire Market Cap",
                 "source": "24/7 Wall St.",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-20T16:58:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "OpenAI Is Preparing to File for an IPO Very Soon",
-                "summary": "ChatGPT-maker OpenAI has been working with bankers to prepare to file for an initial public offering in the coming days or weeks, according to people familiar with the matter.  Bankers at firms including  Goldman Sachs  and  Morgan Stanley  have been helping the artificial-intelligence giant on a draft IPO prospectus it plans to file confidentially with regulators soon, possibly as early as Friday, some of the people said.  The goal is for OpenAI, led by Sam Altman, to be ready to go public as early as September, some of the people said.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/tech/ai/openai-ipo-filing-date-0ec95af5?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-20T16:42:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.285,
+        "price": 32.39,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 14.445235,
-            "marketCap": 23106410496,
+            "change": 14.809567,
+            "marketCap": 23181559808,
             "weekLow": 10.594,
             "weekHigh": 32.7925,
             "yearTarget": 35.70833
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Roivant Sciences Ltd (ROIV) Q4 2025 Earnings Call Highlights: Strategic Settlements and ...",
+                "summary": "Roivant Sciences Ltd (ROIV) strengthens its financial position with a $2.25 billion Moderna settlement and prepares for key drug launches amidst mixed study results.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/roivant-sciences-ltd-roiv-q4-190050157.html",
+                "publishDate": "2026-05-20T19:00:50Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Roivant (ROIV) Q4 2025 Earnings Transcript",
                 "summary": "Matthew Gline: Let me just call out the slide numbers.  And given the quality of the clinical data we've seen on ACR, I think it's like certainly a thing to speculate on that the overall profile of 1402 is part of what's contributing to our ability to deliver this data.",
@@ -554,16 +564,6 @@
                 "publishDate": "2026-05-19T16:00:03Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Hedge Fund Wagers $36 Million on Biotech Denali After First FDA Approval",
-                "summary": "This biotech develops therapies for neurodegenerative diseases, advancing a broad pipeline through strategic pharmaceutical partnerships.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/coverage/filings/2026/05/18/hedge-fund-wagers-usd36-million-on-biotech-denali-after-first-fda-approval/",
-                "publishDate": "2026-05-18T18:43:47Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.87,
+        "price": 30.65,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.25532,
-            "marketCap": 6405249536,
+            "change": 3.5123234,
+            "marketCap": 6359601152,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
