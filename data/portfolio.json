@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.28,
+        "price": 44.89,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 196240785408,
+            "change": 1.3775985,
+            "marketCap": 198944210944,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.643616
+            "yearTarget": 46.782913
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "How New Wegovy Obesity Trial Data At Novo Nordisk (CPSE:NOVO B) Has Changed Its Investment Story",
+                "summary": "Earlier in May 2026, Novo Nordisk presented new sub-analyses from its OASIS 4 and STEP UP phase 3 trials at the European Congress on Obesity, showing strong weight-loss efficacy, improved physical function and favourable body composition effects for both oral and injectable Wegovy across diverse adult and female patient groups. The company also reported that Wegovy\u2019s oral pill compared favourably with rival orforglipron on weight loss, tolerability and patient preference, reinforcing...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/wegovy-obesity-trial-data-novo-120828076.html",
+                "publishDate": "2026-05-20T12:08:28Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "GLP-1 Drug Giants Race to Go Global With Their Obesity Pills: ETFs to Gain",
                 "summary": "Eli Lilly and Novo Nordisk are accelerating global obesity pill launches as rising GLP-1 demand puts weight-loss ETFs in focus.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-18T16:20:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Top Midday Stories: NextEra, Dominion to Combine in All-Stock Deal; Big Pharma Firms Denied Certiorari by Supreme Court in Medicare Pricing Case",
-                "summary": "The Dow Jones Industrial Average, Nasdaq Composite and S&P 500 Index were down in late-morning tradi",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-nextera-dominion-154626389.html",
-                "publishDate": "2026-05-18T15:46:26Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.03,
+        "price": 2.25,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -9.77778,
-            "marketCap": 190623664,
+            "change": 10.8374405,
+            "marketCap": 211282400,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "EchoStar Draws Focus As FCC Spectrum Deal And SpaceX Proxy Story Grow",
-                "summary": "FCC approves a US$40b spectrum deal involving SpaceX, AT&T, and EchoStar. EchoStar, ticker NasdaqGS:SATS, is positioned as a beneficiary of the approved transaction. The company is increasingly viewed by some investors as a proxy for a potential SpaceX IPO. EchoStar, ticker NasdaqGS:SATS, operates in satellite communications at a time when low Earth orbit constellations and broadband-from-space projects are attracting intense attention. The recently approved US$40b spectrum deal with SpaceX...",
-                "source": "Simply Wall St.",
+                "title": "SpaceX Delays Starship Launch. IPO Prospectus Due This Week.",
+                "summary": "Elon Musk's SpaceX this week will launch its next Starship flight, release the prospectus for its $1.75 trillion IPO.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-draws-focus-fcc-spectrum-031457023.html",
-                "publishDate": "2026-05-20T03:14:57Z",
+                "url": "https://www.investors.com/news/spacex-starship-launch-v3-super-heavy-ipo-prospectus-elon-musk-space-stocks/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-20T14:54:54Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Musk's empire as SpaceX counts down to Wall Street liftoff",
-                "summary": "Elon Musk defines himself as an engineer trying to save humanity, while his critics call him a far-right showman who overpromises and underdelivers.Its most prominent project -- a tunnel beneath the Las Vegas Convention Center -- has drawn mixed reviews, with critics noting it amounts to a narrow underground road for Tesla cars rather than the revolutionary transit system Musk once envisioned.\u00a0\narp/dw",
-                "source": "AFP",
+                "title": "SpaceX Picks Goldman Sachs for Its IPO. What That Means.",
+                "summary": "SpaceX appears to have tapped Goldman Sachs to be lead bookrunner for its massive initial public offering.",
+                "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/musks-empire-spacex-counts-down-020836085.html",
-                "publishDate": "2026-05-20T02:08:36Z",
+                "url": "https://www.barrons.com/articles/spacex-goldman-sachs-ipo-stock-55895eb6?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-20T13:43:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX's IPO moonshot draws some doubters on Wall Street",
-                "summary": "Elon Musk wants to take SpaceX public -- and he's asking investors to believe the rocket and AI company is worth almost $1.75 trillion.\u00a0Musk is asking investors to value the company at nearly 100 times that.\u00a0",
-                "source": "AFP",
+                "title": "Elon Musk\u2019s Terafab Could Ultimately Cost $119 Billion \u2014 Why That Might Be Money Well Spent",
+                "summary": "Elon Musk\u2019s visionary projects have been sparking some huge conversations in the AI world in recent months. Whether it\u2019s the orbital AI data centers, which were given a massive vote of confidence following the recent Google (whose parent company is Alphabet (NASDAQ:GOOGL)) deal with SpaceX, as well as Nvidia (NASDAQ:NVDA) after it announced its space ... Elon Musk\u2019s Terafab Could Ultimately Cost $119 Billion \u2014 Why That Might Be Money Well Spent",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-ipo-moonshot-draws-doubters-020758429.html",
-                "publishDate": "2026-05-20T02:07:58Z",
+                "url": "https://247wallst.com/investing/2026/05/20/elon-musks-terafab-could-ultimately-cost-119-billion-why-that-might-be-money-well-spent/",
+                "publishDate": "2026-05-20T13:33:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Goldman Sachs set to be named lead left underwriter for SpaceX IPO, source says",
-                "summary": "May 19 () - Goldman Sachs is expected to secure the much-coveted lead left position in Elon Musk's rocket and satellite maker SpaceX's \u200cinitial public offering, a source familiar with the matter told  \u200con Tuesday. The position refers to the bank that holds the most senior and prominent role \u200bamong all the underwriters of an IPO deal.",
-                "source": "Reuters",
+                "title": "Goldman Sachs to lead SpaceX IPO as lead-left underwriter",
+                "summary": "The offering is targeting a valuation of more than $2 trillion and aims to raise as much as $75 billion",
+                "source": "Quartz",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-set-named-lead-232035423.html",
-                "publishDate": "2026-05-19T23:20:35Z",
+                "url": "https://qz.com/goldman-sachs-spacex-ipo-lead-underwriter-052026",
+                "publishDate": "2026-05-20T13:12:39Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Exclusive: Goldman to Take Lead-Left Banking Position on SpaceX IPO",
-                "summary": "Goldman Sachs is expected to be named lead banker on SpaceX's initial public offering, according to people familiar with the matter.  Morgan Stanley is also a lead banker, though Goldman is expected to take the coveted lead-left position on the IPO prospectus, expected to be made public as early as Wednesday.  The role is surprising given Elon Musk\u2019s close ties to Morgan Stanley.",
-                "source": "The Wall Street Journal",
+                "title": "The Best Way to Invest in SpaceX Before Its IPO",
+                "summary": "SpaceX is targeting a valuation of up to $2 trillion when it goes public.",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-19-2026/card/exclusive-goldman-to-take-lead-left-position-on-spacex-ipo-T9AO9BwgBToRVEi82aUe?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-19T22:06:49Z",
+                "url": "https://www.fool.com/investing/2026/05/20/the-best-way-to-invest-in-spacex-before-its-ipo/",
+                "publishDate": "2026-05-20T12:33:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Want a Hot Pre-IPO Company in Your Portfolio? Proceed With Caution",
-                "summary": "Adding a sliver of the hottest private companies to your portfolio can be far more tricky than buying stocks.",
-                "source": "The Wall Street Journal",
+                "title": "Why Jim Cramer Believes Starlink Could Crush Traditional Telecom Giants Like AT&T",
+                "summary": "Jim Cramer is pouring cold water on AT&T Inc.'s massive 5G network expansion, warning investors that emerging satellite networks from tech billionaires will easily outpace traditional telecom companies in rural markets. The Threat From the Sky During a recent episode...",
+                "source": "Benzinga",
                 "category": "finance",
-                "url": "https://www.wsj.com/finance/investing/private-company-stock-what-to-know-fdf67ed2?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-19T20:53:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-jim-cramer-believes-starlink-123107003.html",
+                "publishDate": "2026-05-20T12:31:07Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "How Big Could SpaceX And Anthropic Get? The Latest Prediction Market Bets Size Up Pre-IPO Valuations.",
-                "summary": "Polymarket debuted new event contracts that let traders bet on buzzy private company valuations.",
+                "title": "SpaceX Prepares Starship V3 Launch Ahead of $1.75 Trillion IPO",
+                "summary": "Flight 12 debuts orbital refueling, ship-to-ship docking and upgraded Raptor engines",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-prepares-starship-v3-launch-122426736.html",
+                "publishDate": "2026-05-20T12:24:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "5 Things to Know Before the Stock Market Opens",
+                "summary": "News of the day for May 20, 2026",
                 "source": "Investopedia",
                 "category": "finance",
-                "url": "https://www.investopedia.com/how-big-could-spacex-and-anthropic-get-the-latest-prediction-market-bets-size-up-pre-ipo-valuations-11978741",
-                "publishDate": "2026-05-19T19:42:14Z",
+                "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-may-20-2026-11979166",
+                "publishDate": "2026-05-20T12:12:50Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The SpaceX IPO Could Be Weeks Away. Here Are the 2 Tech Stocks That Will Benefit Most.",
-                "summary": "These megacap tech companies are poised to register meaningful gains from the successes of SpaceX.",
+                "title": "Elon Musk's SpaceX Wants The FCC To Kill $4.5 Billion Major Rural Internet Subsidy Program",
+                "summary": "Elon Musk-led SpaceX has written a letter to the Federal Communications Commission (FCC), urging the agency to end the High-Cost program aimed at providing connectivity to rural areas via subsidies for internet service providers (ISPs). SpaceX Says It Has Solved...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/economy/policy/articles/elon-musks-spacex-wants-fcc-100117898.html",
+                "publishDate": "2026-05-20T10:01:17Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Best Space ETF to Buy Before a Summer Rally",
+                "summary": "With the SpaceX IPO nearing, the Tema Space Innovators ETF could be a summertime star.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/19/the-spacex-ipo-could-be-weeks-away-here-are-the-2/",
-                "publishDate": "2026-05-19T19:22:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Could Come as Early as June 12. Thinking of Buying the Stock? Here's What You Need to Know.",
-                "summary": "The space company's stock market debut could be the largest in history. But the risks deserve a careful look before you buy.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/19/the-spacex-ipo-could-come-as-early-as-june-12-thin/",
-                "publishDate": "2026-05-19T18:05:30Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla drops as mounting headwinds test lofty valuation",
-                "summary": "Tesla Inc (NASDAQ:TSLA) shares fell more than 3% on Tuesday, pressured by a combination of legal setbacks, a price increase on its best-selling model and growing concern that an imminent SpaceX listing will draw investor capital away from the electric vehicle maker. Much of the selling...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1092557/tesla-drops-as-mounting-headwinds-test-lofty-valuation-1092557.html",
-                "publishDate": "2026-05-19T17:25:00Z",
+                "url": "https://www.fool.com/investing/2026/05/20/the-best-space-etf-to-buy-before-a-summer-rally/",
+                "publishDate": "2026-05-20T09:50:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.21,
+        "price": 32.18,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,10 +450,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.19089,
-            "marketCap": 20189927424,
+            "change": 14.073029,
+            "marketCap": 23031263232,
             "weekLow": 10.594,
-            "weekHigh": 30.33,
+            "weekHigh": 32.455,
             "yearTarget": 35.70833
         },
         "FUNDING": {
@@ -465,6 +465,56 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Roivant Sciences Q4 Earnings Call Highlights",
+                "summary": "Roivant Sciences (NASDAQ:ROIV) executives used the company\u2019s fourth-quarter earnings call to highlight new open-label data for IMVT-1402 in difficult-to-treat rheumatoid arthritis, upcoming pulmonary hypertension data for mosliciguat and continued preparation for a potential brepocitinib launch in d",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/roivant-sciences-q4-earnings-call-highlights-2026-05-20/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-20T14:07:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why These Two Biotech Stocks Just Rocketed, As One Prepares To Break Out",
+                "summary": "Immunovant stock shot to an 18-month high Wednesday on \"highly compelling\" results for its experimental rheumatoid arthritis treatment.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/immunovant-stock-roivant-stock-imvt-1402-rheumatoid-arthritis/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-20T13:47:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Roivant Shares Climb on Earnings Beat Despite Revenue Shortfall (ROIV)",
+                "summary": "On Wednesday, Roivant Sciences Ltd. (NASDAQ:ROIV) posted fourth-quarter adjusted earnings per share of $0.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/28725/roivant-shares-climb-on-earnings-beat-despite-revenue-shortfall-roiv",
+                "publishDate": "2026-05-20T12:45:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Roivant Sciences Ltd. (ROIV) Reports Q4 Loss, Misses Revenue Estimates",
+                "summary": "Montes Archimedes Acquisition (ROIV) delivered earnings and revenue surprises of -41.18% and -8.56%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/roivant-sciences-ltd-roiv-reports-121502878.html",
+                "publishDate": "2026-05-20T12:15:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Immunovant\u2019s potential autoimmune \u2018blockbuster\u2019; Wave\u2019s RNA editing update",
+                "summary": "Immunovant shares climbed on results an analyst deemed \u201ccompelling\u201d in tough-to-treat arthritis. Elsewhere, Wave\u2019s pioneering rare disease program advanced and Takeda lost an antitrust suit.",
+                "source": "BioPharma Dive",
+                "category": "finance",
+                "url": "https://www.biopharmadive.com/news/immunovant-arthritis-wave-aatd-pfizer-vaccine-takeda-ira/820676/",
+                "publishDate": "2026-05-20T10:43:50Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "How The Roivant Sciences (ROIV) Story Is Shifting After Settlements And Brepocitinib Milestones",
                 "summary": "Roivant Sciences has seen only a marginal shift in its modeled fair value, from US$35.67 to US$35.71, keeping the headline price target effectively stable. That small move reflects a tug of war in analyst commentary, with optimism around the US$2.25b Genevant and Arbutus settlement and key brepocitinib milestones set against questions about how much of this is already in the stock. Read on to see how to track these shifting views and what to watch as the Roivant story continues to...",
@@ -514,56 +564,6 @@
                 "publishDate": "2026-05-18T18:10:27Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Gossamer Bio (GOSS) Reports Q1 Loss, Tops Revenue Estimates",
-                "summary": "Gossamer Bio (GOSS) delivered earnings and revenue surprises of -17.65% and +181.04%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/gossamer-bio-goss-reports-q1-233002212.html",
-                "publishDate": "2026-05-15T23:30:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Invivyd, Inc. (IVVD) Reports Q1 Loss, Lags Revenue Estimates",
-                "summary": "Invivyd, Inc. (IVVD) delivered earnings and revenue surprises of -62.50% and -25.30%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/invivyd-inc-ivvd-reports-q1-121502837.html",
-                "publishDate": "2026-05-14T12:15:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Fate Therapeutics (FATE) Reports Q1 Loss, Misses Revenue Estimates",
-                "summary": "Fate Therapeutics (FATE) delivered earnings and revenue surprises of +10.87% and -25.77%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/fate-therapeutics-fate-reports-q1-134002234.html",
-                "publishDate": "2026-05-13T13:40:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Metagenomi Therapeutics (MGX) Reports Q1 Loss, Misses Revenue Estimates",
-                "summary": "Metagenomi Therapeutics (MGX) delivered earnings and revenue surprises of -2.52% and -68.08%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/metagenomi-therapeutics-mgx-reports-q1-000504979.html",
-                "publishDate": "2026-05-12T00:05:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "A Look At Roivant Sciences (ROIV) Valuation After Encouraging Phase 2 Brepocitinib Data",
-                "summary": "Why the recent Phase 2 data matters for Roivant Sciences (ROIV) Recent interest in Roivant Sciences (ROIV) has centered on Phase 2 results for brepocitinib in cutaneous sarcoidosis, after investor commentary highlighted strong efficacy data and the drug\u2019s potential as a new standard of care. See our latest analysis for Roivant Sciences. At a share price of $28.28, Roivant\u2019s 90 day share price return of 9.53% and year to date share price return of 28.96% sit alongside a very large 1 year total...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/look-roivant-sciences-roiv-valuation-151257609.html",
-                "publishDate": "2026-05-09T15:12:57Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.61,
+        "price": 30.865,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.61328,
-            "marketCap": 6143810560,
+            "change": 4.23843,
+            "marketCap": 6404211712,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Why SSR Mining (SSRM) is a Top Value Stock for the Long-Term",
+                "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-ssrm-top-134005734.html",
+                "publishDate": "2026-05-20T13:40:05Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "SSR Mining Inks Deal to Sell Its Interests in Hod Maden Project",
                 "summary": "SSRM sells its 20% Hod Maden stake for a 4% NSR royalty, sharpening its focus on the Americas and boosting its royalty portfolio.",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://www.marketbeat.com/instant-alerts/silver-standard-resources-holds-virtual-2026-agm-shareholders-approve-directors-say-on-pay-pwc-2026-05-08/?utm_source=yahoofinance&utm_medium=yahoofinance",
                 "publishDate": "2026-05-08T12:07:17Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why SSR Mining Stock Surged 20% Today",
-                "summary": "The gold stock is shining bright after reporting a massive earnings jump and a $1.5 billion strategic move.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/06/why-ssr-mining-stock-surged-20-today/",
-                "publishDate": "2026-05-06T19:23:43Z",
                 "premium": false,
                 "freemium": false
             }
