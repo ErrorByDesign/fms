@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.505,
+        "price": 44.42,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2534662,
-            "marketCap": 197237964800,
+            "change": -1.4422045,
+            "marketCap": 196861247488,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.765015
+            "yearTarget": 46.732445
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -372,6 +372,16 @@
                 "freemium": false
             },
             {
+                "title": "Why SpaceX IPO is trending",
+                "summary": "Elon Musk\u2019s rocket and AI company just released it\u2019s long-awaited IPO. CNN\u2019s David Goldman breaks down what we finally learned about the mysterious company and its finances.",
+                "source": "CNN Business",
+                "category": "finance",
+                "url": "https://www.cnn.com/2026/05/21/business/video/spacex-ipo-trending-cli-hrzn?cid=external-feeds_iluminar_yahoo",
+                "publishDate": "2026-05-21T17:53:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Sector Update: Tech Stocks Advance Thursday Afternoon",
                 "summary": "Tech stocks were higher Thursday afternoon, with the State Street Technology Select Sector SPDR ETF",
                 "source": "MT Newswires",
@@ -386,8 +396,18 @@
                 "summary": "Elon Musk\u2019s SpaceX has said it wants to save humanity from the \u201csame fate as the dinosaurs\u201d as it starts a record-breaking $1.75tn (\u00a31.3tn) initial public offering (IPO).",
                 "source": "The Telegraph",
                 "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/musk-spacex-save-mankind-extinction-174931407.html",
+                "url": "https://www.telegraph.co.uk/business/2026/05/21/musk-spacex-will-save-mankind-from-extinction/",
                 "publishDate": "2026-05-21T17:49:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Space Stocks Surge as SpaceX IPO Frenzy Builds",
+                "summary": "We discuss the investment case for the space economy and highlight key space ETFs.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-surge-spacex-ipo-174600097.html",
+                "publishDate": "2026-05-21T17:46:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/spacex-ipo-filing-elon-musk-tesla-solar-b6d2fdeb?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-21T17:40:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk's SpaceX Files for What Could be Largest IPO in History",
-                "summary": "Space Exploration Technologies, widely known as SpaceX, has filed for an initial public offering in",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-apos-spacex-files-171338008.html",
-                "publishDate": "2026-05-21T17:13:38Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Amkor Technology Targets $11B Revenue by 2030 on AI Packaging, Arizona Ramp",
-                "summary": "Amkor Technology (NASDAQ:AMKR) outlined a multi-year growth strategy centered on advanced semiconductor packaging, saying the technology has moved from a back-end manufacturing step to a critical part of system performance, integration and supply-chain design. During the company presentation, execu",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/amkor-technology-targets-11b-revenue-by-2030-on-ai-packaging-arizona-ramp-2026-05-21/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-21T17:04:54Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.34,
+        "price": 31.305,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3014493,
-            "marketCap": 22541934592,
+            "change": -3.40944,
+            "marketCap": 22516760576,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.57,
+        "price": 30.355,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5530256,
-            "marketCap": 6343002112,
+            "change": -1.2524406,
+            "marketCap": 6298391552,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
