@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.42,
+        "price": 44.355,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.4422045,
-            "marketCap": 196861247488,
+            "change": -1.5864215,
+            "marketCap": 196573184000,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.732445
+            "yearTarget": 46.740726
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,22 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX's biggest IPO risks are also its bull case",
-                "summary": "SpaceX's IPO is built around ambitions that are huge, expensive, and still unfinished.",
+                "title": "Stock market today: Dow, S&P 500, Nasdaq rebound, oil prices reverse on hopes of a US-Iran peace deal",
+                "summary": "US stock futures fell after Nvidia earnings failed to wow investors, and SpaceX took a big step toward its IPO.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacexs-biggest-ipo-risks-are-also-its-bull-case-173659815.html",
-                "publishDate": "2026-05-21T17:36:59Z",
+                "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-rebound-oil-prices-reverse-on-hopes-of-a-us-iran-peace-deal-232311315.html",
+                "publishDate": "2026-05-20T23:23:11Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX: Musk bets heavily on AI, not just rockets, for future gains",
-                "summary": "Essentially, Musk and SpaceX are asking investors to value the company as a vertically integrated AI platform that happens to launch rockets.",
+                "title": "Why Starlink is so important to SpaceX's IPO",
+                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-musk-bets-heavily-on-ai-not-just-rockets-for-future-gains-140612946.html",
-                "publishDate": "2026-05-21T14:06:12Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+                "publishDate": "2026-04-11T17:44:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX files IPO prospectus, offering a peek into its finances",
+                "summary": "SpaceX finally offered investors a public view of its internal finances, as the rocket company filed its S-1 registration statement with the SEC ahead of its investor road show planned for June 5.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/spacex-files-ipo-prospectus-offering-a-peek-into-its-finances-205406189.html",
+                "publishDate": "2026-05-20T20:54:06Z",
                 "premium": false,
                 "freemium": false
             },
@@ -396,7 +406,7 @@
                 "summary": "Elon Musk\u2019s SpaceX has said it wants to save humanity from the \u201csame fate as the dinosaurs\u201d as it starts a record-breaking $1.75tn (\u00a31.3tn) initial public offering (IPO).",
                 "source": "The Telegraph",
                 "category": "finance",
-                "url": "https://www.telegraph.co.uk/business/2026/05/21/musk-spacex-will-save-mankind-from-extinction/",
+                "url": "https://uk.finance.yahoo.com/news/musk-spacex-save-mankind-extinction-174931407.html",
                 "publishDate": "2026-05-21T17:49:31Z",
                 "premium": false,
                 "freemium": false
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-surge-spacex-ipo-174600097.html",
                 "publishDate": "2026-05-21T17:46:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Has Huge Solar Ambitions. The Challenges Are Vast.",
-                "summary": "SpaceX\u2019s idea is to use solar panel arrays to power floating data centers it calls AI compute satellites.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-filing-elon-musk-tesla-solar-b6d2fdeb?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T17:40:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.305,
+        "price": 30.885,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.40944,
-            "marketCap": 22516760576,
+            "change": -4.705337,
+            "marketCap": 22214666240,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.355,
+        "price": 30.29,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2524406,
-            "marketCap": 6298391552,
+            "change": -1.463887,
+            "marketCap": 6284904960,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
