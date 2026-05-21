@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.255,
+        "price": 44.0901,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8082951,
-            "marketCap": 196130013184,
+            "change": -2.174179,
+            "marketCap": 195399188480,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.615402
+            "yearTarget": 46.645992
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,6 +32,16 @@
         },
         "NEWS": [
             {
+                "title": "Semaglutide MASH Data Broadens Novo Nordisk Case For Undervalued Shares",
+                "summary": "Novo Nordisk presented new Phase 3 ESSENCE data on semaglutide\u2019s liver safety and efficacy at EASL 2026. The update includes the first dedicated results in menopausal women and Japanese patients with MASH. Findings suggest a consistent hepatic safety profile across these historically underrepresented groups. Novo Nordisk (CPSE:NOVO B) is drawing fresh attention with these MASH data at a time when its share price stands at DKK288.4. The stock is up 11.8% over the past 30 days but remains...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/semaglutide-mash-data-broadens-novo-161231468.html",
+                "publishDate": "2026-05-21T16:12:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "European Equities Traded in the US as American Depositary Receipts Little Changed in Thursday Trading",
                 "summary": "European equities traded in the US as American depositary receipts were tracking marginally lower la",
                 "source": "MT Newswires",
@@ -39,6 +49,16 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150536399.html",
                 "publishDate": "2026-05-21T15:05:36Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly\u2019s New GLP-1 Drug Looks Like a Weight-Loss Powerhouse in New Trial",
+                "summary": "Eli Lilly\u2019s investigational drug, retatrutide, delivered an average 80-week weight loss of 70 pounds at the highest dose.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/eli-lilly-stock-glp1-drug-weight-loss-08ce2d42?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-21T15:04:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -58,16 +78,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-vs-merck-pharma-141100919.html",
                 "publishDate": "2026-05-21T14:11:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly\u2019s New GLP-1 Drug Looks Like a Weight-Loss Powerhouse in New Trial",
-                "summary": "Eli Lilly\u2019s investigational drug, retatrutide, delivered an average 80-week weight loss of 70 pounds at the highest dose.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-stock-glp1-drug-weight-loss-08ce2d42?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T13:56:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-21T10:07:28Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Lilly\u2019s triple-acting obesity drug hits goal in Phase 3 trial",
-                "summary": "Participants who stayed on the drug lost around one-quarter of their body weight, potentially setting a new benchmark for rivals like Novo Nordisk.",
-                "source": "BioPharma Dive",
-                "category": "finance",
-                "url": "https://www.biopharmadive.com/news/lillys-retatrutide-tripleG-phase3-obesity-data/820851/",
-                "publishDate": "2026-05-21T09:38:53Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.4384484,
+            "change": -5.359097,
             "marketCap": 195516032,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -352,6 +352,26 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Set to Launch Upgraded Starship on Pre-IPO Test Flight",
+                "summary": "SpaceX is preparing to launch a new version of its Starship rocket a day after officially kicking off its IPO process.  The  Elon Musk -led company is targeting a Thursday evening liftoff from its Starbase complex outside of Brownsville, Texas.  The test mission is set to debut Starship \u201cV3,\u201d featuring upgrades designed to prepare for bigger satellites and, one day, potentially settling Mars and mining asteroids.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/spacex-starship-v3-launch-6cd89008?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-21T16:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Inside SpaceX\u2019s IPO Filing: Musk\u2019s Control, xAI Losses, and Anthropic\u2019s Massive AI Deal",
+                "summary": "SpaceX  long-awaited IPO filing arrived Wednesday afternoon, offering investors their first detailed look at Elon Musk\u2019s rocket and AI empire.  SpaceX is going after what it describes as a $28.5 trillion addressable market \u201cto build the systems and technologies necessary to make life multiplanetary, to understand the true nature of the universe, and to extend the light of consciousness to the stars.\u201d  The IPO is expected to raise a record amount of money, valuing Elon Musk\u2019s company at roughly $2 trillion\u2014enough to turn the world\u2019s richest person into a trillionaire.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-filing-musk-stock-ticker-74d9b0ca?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-21T15:56:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Just Revealed the 100-Year Plan for Its Business",
                 "summary": "SpaceX is targeting an IPO valuation near $1.75 trillion against total revenue of roughly $18 billion. That gap is a major part of the SpaceX investment thesis. To justify it, public investors need to believe in something far larger than today\u2019s launch business and Starlink subscriber base. SpaceX\u2019s S-1 filing outlines what that looks like ... SpaceX Just Revealed the 100-Year Plan for Its Business",
                 "source": "24/7 Wall St.",
@@ -368,6 +388,16 @@
                 "category": "finance",
                 "url": "https://www.investors.com/news/spacex-ipo-filing-tesla-intel-terafab-semiconductor-ai-chips/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-05-21T15:31:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "EchoStar Stock Remains One of the Best Ways to Play the SpaceX IPO",
+                "summary": "EchoStar  is one of the best plays on SpaceX, and its stock could benefit ahead of the SpaceX IPO as investors look for ways to get exposure to Elon Musk\u2019s company.  SpaceX filed its eagerly awaited IPO prospectus Wednesday and the deal could get priced by mid June.  It may be tough for individual investors to get an allocation in the SpaceX IPO given that it\u2019s expected to be a hot deal dominated by institutional buyers.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/echostar-stock-price-spacex-ipo-2ce56316?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-21T15:20:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-21T15:14:20Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX's road to landmark IPO filing",
-                "summary": "May 21 (Reuters) - SpaceX's IPO filing finally revealed the finances behind a company aiming to dominate industries ranging from rockets and satellites to AI and data centers.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-road-landmark-ipo-filing-151409545.html",
-                "publishDate": "2026-05-21T15:14:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX May Be a Generational Company, But Its Financials Are Not Very Impressive Right Now",
-                "summary": "SpaceX just released its much-anticipated preliminary prospectus, offering investors a glimpse into the company's inner workings.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/21/spacex-may-be-a-generational-company-but-its-finan/",
-                "publishDate": "2026-05-21T15:12:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Inside SpaceX\u2019s audacious IPO plan",
-                "summary": "Elon Musk\u2019s SpaceX has unveiled the details of one of the most audacious IPOs in history. Its 200,000-word prospectus, released on Wednesday...",
-                "source": "Financial Times",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/inside-spacex-audacious-ipo-plan-015723729.html",
-                "publishDate": "2026-05-21T15:03:46Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.04,
+        "price": 31.24,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.227087,
-            "marketCap": 22326153216,
+            "change": -3.6099973,
+            "marketCap": 22470006784,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.97,
+        "price": 29.87,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.5048811,
-            "marketCap": 6218507264,
+            "change": -2.8301852,
+            "marketCap": 6197758464,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
