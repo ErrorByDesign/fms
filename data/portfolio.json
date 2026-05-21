@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.0901,
+        "price": 44.18,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.174179,
-            "marketCap": 195399188480,
+            "change": -1.9747046,
+            "marketCap": 195797614592,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.645992
+            "yearTarget": 46.710728
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/semaglutide-mash-data-broadens-novo-161231468.html",
                 "publishDate": "2026-05-21T16:12:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Can Mounjaro, Zepbound & Foundayo Keep Fueling LLY's Growth Story?",
+                "summary": "Eli Lilly's GLP-1 portfolio is driving growth in 2026, with Mounjaro, Zepbound and Foundayo gaining traction across obesity, diabetes and related markets.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/mounjaro-zepbound-foundayo-keep-fueling-153500658.html",
+                "publishDate": "2026-05-21T15:35:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-21T12:25:53Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Lower cost Novo, Lilly weight-loss pills draw patients from compounded drugs, doctors say",
-                "summary": "LONDON/NEW YORK, May 21 (Reuters) - Lower prices for weight-loss pills from Novo Nordisk and Eli Lilly are prompting patients to switch from compounded medications to branded Wegovy and Foundayo, according to Reuters interviews with nine U. Prices for the lowest doses of both Novo's oral Wegovy and Lilly's Foundayo tend to be lower than for their injected obesity \u200cmedicines, and at par with those offered by pharmacies that mix the ingredients themselves and make compounded versions.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lower-cost-novo-lilly-weight-100146571.html",
-                "publishDate": "2026-05-21T10:07:28Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.0821,
+        "price": 2.02,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.359097,
-            "marketCap": 195516032,
+            "change": -8.181822,
+            "marketCap": 189684640,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -352,6 +352,16 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Finally Filed and the S-1? Well, She\u2019s a Lot",
+                "summary": "308 pages of rockets, brain chips, $60 billion in liabilities, and a CEO who the company admits doesn't actually work there full time. Welcome to the most Elon IPO ever.",
+                "source": "Moby",
+                "category": "finance",
+                "url": "https://app.moby.co/home/news/news-spacex-finally-filed-and-the-s-1-well-shes-a-lot?utm_source=yahoo_finance&utm_medium=rss",
+                "publishDate": "2026-05-21T16:27:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Set to Launch Upgraded Starship on Pre-IPO Test Flight",
                 "summary": "SpaceX is preparing to launch a new version of its Starship rocket a day after officially kicking off its IPO process.  The  Elon Musk -led company is targeting a Thursday evening liftoff from its Starbase complex outside of Brownsville, Texas.  The test mission is set to debut Starship \u201cV3,\u201d featuring upgrades designed to prepare for bigger satellites and, one day, potentially settling Mars and mining asteroids.",
                 "source": "The Wall Street Journal",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-21T15:15:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Telecom Stocks: What SpaceX IPO Filing Revealed About Starlink's Big Ambitions",
-                "summary": "Starlink faces hurdles turning into a hybrid satellite-terrestrial wireless network operator. The SpaceX IPO has pressured telecom stocks.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/spacex-ipo-starlink-telecom-stocks-att-vz-tmus-asts/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-21T15:14:20Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.24,
+        "price": 31.54,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.6099973,
-            "marketCap": 22470006784,
+            "change": -2.6843534,
+            "marketCap": 22685788160,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.87,
+        "price": 30.17,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8301852,
-            "marketCap": 6197758464,
+            "change": -1.8542606,
+            "marketCap": 6260005888,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
