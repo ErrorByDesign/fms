@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.5087649,
+            "change": -1.50876,
             "marketCap": 196728291328,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.735348
+            "yearTarget": 46.73266
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -342,6 +342,36 @@
                 "freemium": false
             },
             {
+                "title": "Stock Market Today: Dow Up 276 Points Despite Nvidia Fall; AI, Quantum Computing Stocks Jam (Live Coverage)",
+                "summary": "Stock Market Today: The Dow Jones index wavered Thursday after surprise jobless claims data. Nvidia stock fell despite strong earnings.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-jobless-claims-nvidia-stock-nvidia-earnings/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-21T20:33:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Rocket Lab Stock Falls After Announcing $3 Billion Distribution Agreement",
+                "summary": "Rocket Lab announces deal to sell up to $3 billion worth of shares \"from time to time.\" RKLB stock retreats in busy week for space news.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/rocket-lab-stock-distribution-agreement-3-billion-rklb-stock-space/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-21T20:15:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "How SpaceX IPO Mandate and Alternatives Push At Goldman Sachs (GS) Has Changed Its Investment Story",
+                "summary": "In recent weeks, Goldman Sachs has been selected as lead underwriter for SpaceX\u2019s planned IPO, reported stronger-than-expected first-quarter 2026 investment banking results, and expanded in alternative financing by acquiring trade-credit specialist FGI Worldwide. This combination of a high-profile IPO mandate and broader investment banking and alternatives activity reinforces Goldman\u2019s role at the center of large, complex capital markets transactions. We\u2019ll now examine how winning the SpaceX...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-mandate-alternatives-push-200811972.html",
+                "publishDate": "2026-05-21T20:08:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX's Starlink Subscribers Soar, But This Metric Keeps Falling",
                 "summary": "Elon Musk's Starlink satellite service more than doubled subscribers in the first quarter vs. a year earlier.",
                 "source": "Investor's Business Daily",
@@ -372,16 +402,6 @@
                 "freemium": false
             },
             {
-                "title": "Musk Taps SpaceX\u2019s Financial Power to Cut Interest Costs in Half",
-                "summary": "(Bloomberg) -- Elon Musk\u2019s reshaping of SpaceX, xAI and X into a tightly-bound conglomerate has already yielded a significant financial windfall: nearly $1 billion in annual interest savings.Most Read from BloombergSpot the Difference: Putin Gets Trump Treatment From Xi in ChinaIran Says the US\u2019s Latest Proposal Has \u2018Narrowed the Gaps\u2019Modi\u2019s Toffee Gift to Meloni Ignites Rally in Wrong Indian StockIran in Talks With Oman Over Permanent Hormuz Toll SystemStocks and Oil Whipsaw on Mixed US-Iran Si",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/musk-taps-spacex-financial-power-190111602.html",
-                "publishDate": "2026-05-21T19:01:11Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "You Actually Can Invest in the SpaceX IPO on Day 1. Here\u2019s How.",
                 "summary": "Getting a piece of AI powerhouses SpaceX, OpenAI, and Anthropic isn\u2019t easy pre-IPO. It isn\u2018t impossible, though. Here\u2019s how you do it.",
                 "source": "Barrons.com",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-21-2026/card/spacex-s-ai-revenues-haven-t-been-rocketing-upward-UrjPZwmq7LoCJVxHVKCj?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-21T18:29:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Filing Is Moving Rocket Lab, CoreWeave, and Other Stocks",
-                "summary": "SpaceX\u2019s IPO filing is reshaping how investors value launch, satellite, and AI infrastructure companies including Rocket Lab, AST SpaceMobile, CoreWeave, Firefly Aerospace, and EchoStar.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-filing-rocket-lab-coreweave-ast-spacemobile-stock-1848a992?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T18:14:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "A look at the SpaceX IPO by the numbers",
-                "summary": "Elon Musk is all about big numbers \u2014 billions, trillions \u2013 and you can find them sprinkled throughout an extraordinary document he just filed to take his rocket maker public.  Running more than 250 pages, the prospectus for his SpaceX stock debut shows spending at a massive scale \u2014 greater than the economic output of some countries \u2014 and about to grow much larger as he races to make good on his promise to hurl men to distant planets.  Money raised in the initial public offering \u2014 reportedly $75 billion or so \u2014 will help finance those futuristic, fantastical plans.",
-                "source": "Associated Press",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/look-spacex-ipo-numbers-180316593.html",
-                "publishDate": "2026-05-21T18:03:16Z",
                 "premium": false,
                 "freemium": false
             }
