@@ -20,7 +20,7 @@
             "marketCap": 196728291328,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.73266
+            "yearTarget": 46.74945
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 650.77,
+        "price": 651.6,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,15 +306,15 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.02,
-            "marketCap": 1544773959680,
+            "change": 0.12,
+            "marketCap": 1546744102912,
             "weekLow": 202.78,
-            "weekHigh": 650.77,
+            "weekHigh": 651.6,
             "yearTarget": null
         },
         "FUNDING": {
-            "fundingToDate": 8923307008,
-            "latestAmountRaised": 1901446912,
+            "fundingToDate": 6508235776,
+            "latestAmountRaised": 2520000000,
             "latestFundingDate": 1596499200,
             "latestShareClass": "Series N",
             "leadInvestor": "Draper Fisher Jurvetson",
@@ -322,22 +322,82 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX's biggest IPO risks are also its bull case",
-                "summary": "SpaceX's IPO is built around ambitions that are huge, expensive, and still unfinished.",
+                "title": "Stock market today: Dow clinches record high, S&P 500 and Nasdaq rise as stocks rebound on US-Iran peace hopes",
+                "summary": "US stock futures fell after Nvidia earnings failed to wow investors, and SpaceX took a big step toward its IPO.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacexs-biggest-ipo-risks-are-also-its-bull-case-173659815.html",
-                "publishDate": "2026-05-21T17:36:59Z",
+                "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-clinches-record-high-sp-500-and-nasdaq-rise-as-stocks-rebound-on-us-iran-peace-hopes-232311117.html",
+                "publishDate": "2026-05-20T23:23:11Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX: Musk bets heavily on AI, not just rockets, for future gains",
-                "summary": "Essentially, Musk and SpaceX are asking investors to value the company as a vertically integrated AI platform that happens to launch rockets.",
+                "title": "Why Starlink is so important to SpaceX's IPO",
+                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-musk-bets-heavily-on-ai-not-just-rockets-for-future-gains-140612946.html",
-                "publishDate": "2026-05-21T14:06:12Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+                "publishDate": "2026-04-11T17:44:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "NASA Becomes Biggest Space ETF as SpaceX IPO Nears",
+                "summary": "<p>Inflows have tripled the fund's AUM in a week, even as they dilute the very SpaceX exposure investors came for.</p>",
+                "source": "etf.com",
+                "category": "finance",
+                "url": "http://www.etf.com/sections/features/nasa-becomes-biggest-space-etf-spacex-ipo-nears?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+                "publishDate": "2026-05-21T21:37:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Main Street can now bet on OpenAl, SpaceX through Polymarket",
+                "summary": "The biggest financial story of the last decade is not what is happening on Wall Street. It is what is happening just outside of it. The most valuable companies of this generation, the ones running cloud infrastructure, satellite internet, rocket launches and a sizable chunk of artificial ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/investing/main-street-can-now-bet-on-openal-spacex-through-polymarket",
+                "publishDate": "2026-05-21T21:17:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Trading Day: IPO, IPO, it's off to work we go",
+                "summary": "By Jamie McGeever ORLANDO, Florida, May 21 (Reuters) - U.S. stocks ended a choppy session on Thursday in the green, lifted by optimism that a U.S.-Iran peace deal is close at hand, while investors",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/trading-day-ipo-ipo-off-210405064.html",
+                "publishDate": "2026-05-21T21:04:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Spaceships, Quantum Chips Woo Investors Away From Consumer Concerns",
+                "summary": "Spaceships and quantum chips are becoming the latest objects of investors\u2019 fascination\u2014and the latest opportunity to exist in a world away from warning signs about U.S. consumers and fickle peace talks between the U.S. and Iran.  Taken together, there is a sharpening contrast in markets between the wartime inflation surge and the promise of AI, aerospace, and emerging tech\u2014which benefited Thursday from  Nvidia  strong earnings, federal investment in quantum computing and SpaceX\u2019s leap toward the biggest IPO in history.  \u201cIt\u2019s really a dichotomy when you look at the consumer,\u201d said Ken Mahoney, chief executive of Mahoney Asset Management.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/stocks/spaceships-quantum-chips-woo-investors-away-from-consumer-concerns-c456e0b9?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-21T20:53:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Filing Is Moving Rocket Lab, CoreWeave, and Other Stocks",
+                "summary": "SpaceX\u2019s IPO filing is reshaping how investors value launch, satellite, and AI infrastructure companies including Rocket Lab, AST SpaceMobile, CoreWeave, Firefly Aerospace, and EchoStar.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-filing-rocket-lab-coreweave-ast-spacemobile-stock-1848a992?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-21T20:44:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "How The SpaceX IPO Could Boost Other Space Stocks \u2014 And Why One Stands Out",
+                "summary": "Rocket Lab stock could benefit from space industry-related attention generated by the anticipated monster IPO of SpaceX.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-ipo-space-stocks-rocket-lab/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-21T20:43:45Z",
                 "premium": false,
                 "freemium": false
             },
@@ -352,72 +412,12 @@
                 "freemium": false
             },
             {
-                "title": "Rocket Lab Stock Falls After Announcing $3 Billion Distribution Agreement",
-                "summary": "Rocket Lab announces deal to sell up to $3 billion worth of shares \"from time to time.\" RKLB stock retreats in busy week for space news.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/rocket-lab-stock-distribution-agreement-3-billion-rklb-stock-space/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-21T20:15:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How SpaceX IPO Mandate and Alternatives Push At Goldman Sachs (GS) Has Changed Its Investment Story",
-                "summary": "In recent weeks, Goldman Sachs has been selected as lead underwriter for SpaceX\u2019s planned IPO, reported stronger-than-expected first-quarter 2026 investment banking results, and expanded in alternative financing by acquiring trade-credit specialist FGI Worldwide. This combination of a high-profile IPO mandate and broader investment banking and alternatives activity reinforces Goldman\u2019s role at the center of large, complex capital markets transactions. We\u2019ll now examine how winning the SpaceX...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-mandate-alternatives-push-200811972.html",
-                "publishDate": "2026-05-21T20:08:11Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's Starlink Subscribers Soar, But This Metric Keeps Falling",
-                "summary": "Elon Musk's Starlink satellite service more than doubled subscribers in the first quarter vs. a year earlier.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/starlink-spacex-ipo-elon-musk/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-21T19:47:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Forget \u2018TechnoKing\u2019:\u00a0Elon Musk will really be king at SpaceX",
-                "summary": "Musk, who will have more than 50% of the voting power, will have a monarchical grip over the publicly-traded version of SpaceX \u2014 control that goes far beyond what other tech founders enjoy.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/forget-technoking-elon-musk-really-193521413.html",
-                "publishDate": "2026-05-21T19:35:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Inside SpaceX\u2019s IPO Filing: Musk\u2019s Control, xAI Losses, and Anthropic\u2019s Massive AI Deal",
-                "summary": "SpaceX  long-awaited IPO filing arrived Wednesday afternoon, offering investors their first detailed look at Elon Musk\u2019s rocket and AI empire.  SpaceX is going after what it describes as a $28.5 trillion addressable market \u201cto build the systems and technologies necessary to make life multiplanetary, to understand the true nature of the universe, and to extend the light of consciousness to the stars.\u201d  The IPO is expected to raise a record amount of money, valuing Elon Musk\u2019s company at roughly $2 trillion\u2014enough to turn the world\u2019s richest person into a trillionaire.",
+                "title": "Need a Job? SpaceX Is Hiring Brainiacs With \u2018Zero\u2019 AI Experience Required.",
+                "summary": "It\u2019s a tough job market out there, but Musk\u2019s space and satellite company is hiring ahead of its IPO, which is expected to raise as much as $80 billion.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-filing-musk-stock-ticker-74d9b0ca?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T19:09:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "You Actually Can Invest in the SpaceX IPO on Day 1. Here\u2019s How.",
-                "summary": "Getting a piece of AI powerhouses SpaceX, OpenAI, and Anthropic isn\u2019t easy pre-IPO. It isn\u2018t impossible, though. Here\u2019s how you do it.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-stock-retail-buy-36c09d10?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T18:39:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX\u2019s AI Revenues Haven\u2019t Been Rocketing Upward",
-                "summary": "While the Elon Musk company is relying on investors\u2019 zeal for AI\u2014it is one of three pillars of its business, with rockets and internet service\u2014 SpaceX reported relatively paltry revenue compared with rivals from AI.  AI revenues hit $1.3 billion in 2025, up from $892 million in 2024, SpaceX said in its IPO prospectus released Wednesday.  The SpaceX AI figures include revenue from subscriptions to X, formerly Twitter, in a category it calls \u201cAI solutions and infrastructure\u201d revenue.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-21-2026/card/spacex-s-ai-revenues-haven-t-been-rocketing-upward-UrjPZwmq7LoCJVxHVKCj?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T18:29:51Z",
+                "url": "https://www.barrons.com/articles/spacex-ipo-jobs-hiring-elon-musk-4a9f72a6?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-21T20:27:00Z",
                 "premium": false,
                 "freemium": false
             }
