@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.07,
+        "price": 44.135,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7841,
-            "marketCap": 199741931520,
+            "change": -2.0745537,
+            "marketCap": 195598172160,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.709423
+            "yearTarget": 46.61301
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,86 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly\u2019s New GLP-1 Drug Looks Like a Weight-Loss Powerhouse in New Trial",
+                "summary": "Eli Lilly\u2019s investigational drug, retatrutide, delivered an average 80-week weight loss of 70 pounds at the highest dose.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/eli-lilly-stock-glp1-drug-weight-loss-08ce2d42?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-21T13:56:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "New weight-loss shot more powerful than old GLP-1s, Eli Lilly says",
+                "summary": "Lilly said people on the next-generation weight loss medication across three different dosages achieved weight loss of 19% to 28%.",
+                "source": "USA TODAY",
+                "category": "finance",
+                "url": "https://www.usatoday.com/story/money/2026/05/21/retatrutide-weight-loss-shot-eli-lilly/90192588007/",
+                "publishDate": "2026-05-21T13:34:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Hims offers Apotex's generic semaglutide in Canada after Novo patent expiry",
+                "summary": "By Sriparna Roy May 21 (Reuters) - Hims & Hers Health said on Thursday it is now offering Canadians with type 2 diabetes a generic version of semaglutide, the active ingredient in Novo Nordisk's",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://ca.finance.yahoo.com/news/hims-offers-apotexs-generic-semaglutide-130422778.html",
+                "publishDate": "2026-05-21T13:18:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Could Viking Therapeutics Be the Next Eli Lilly?",
+                "summary": "Demand for weight loss drugs may fuel growth for more than one player.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/21/could-viking-therapeutics-be-the-next-eli-lilly/",
+                "publishDate": "2026-05-21T12:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Can Eli Lilly Stock Reach $1800 by 2030? Here Is the Bull Case",
+                "summary": "Eli Lilly (NYSE:LLY) is growing like a software company. Q1 2026 revenue hit $19.80B, up 55.5% year over year, with Mounjaro at $8.66B (+125%) and Zepbound at $4.16B (+80%). CEO David Ricks told investors \u201c2026 is off to a strong start, we delivered 56% revenue growth in the first quarter and raised our full-year revenue ... Can Eli Lilly Stock Reach $1800 by 2030? Here Is the Bull Case",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/21/can-eli-lilly-stock-reach-1800-by-2030-here-is-the-bull-case/",
+                "publishDate": "2026-05-21T12:25:53Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Lower cost Novo, Lilly weight-loss pills draw patients from compounded drugs, doctors say",
+                "summary": "LONDON/NEW YORK, May 21 (Reuters) - Lower prices for weight-loss pills from Novo Nordisk and Eli Lilly are prompting patients to switch from compounded medications to branded Wegovy and Foundayo, according to Reuters interviews with nine U. Prices for the lowest doses of both Novo's oral Wegovy and Lilly's Foundayo tend to be lower than for their injected obesity \u200cmedicines, and at par with those offered by pharmacies that mix the ingredients themselves and make compounded versions.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lower-cost-novo-lilly-weight-100146571.html",
+                "publishDate": "2026-05-21T10:07:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Live Longer and Better. Does Medicine\u2019s New Obsession Really Work?",
+                "summary": "The longevity industry is booming with high-tech tests, drugs, and medical devices. What to know for your health\u2014and personal finances.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/longevity-drugs-healthcare-personal-finance-713570de?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-21T05:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Best Weight Loss Drug Stocks to Buy in 2026",
+                "summary": "If you are looking for a GLP-1 investment, you can buy the leader, the underdog, or the upstart.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/20/best-weight-loss-drug-stocks-to-buy-in-2026/",
+                "publishDate": "2026-05-21T03:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Denmark GDP Jumps 1.9% as Pharma Sector Drives Growth",
                 "summary": "Novo Nordisk-linked pharmaceutical strength helped Denmark post a fourth straight quarter of economic expansion.",
@@ -50,86 +130,6 @@
                 "publishDate": "2026-05-20T12:08:28Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "GLP-1 Drug Giants Race to Go Global With Their Obesity Pills: ETFs to Gain",
-                "summary": "Eli Lilly and Novo Nordisk are accelerating global obesity pill launches as rising GLP-1 demand puts weight-loss ETFs in focus.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/glp-1-drug-giants-race-182700521.html",
-                "publishDate": "2026-05-19T18:27:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Teva Stock Up More Than 100% in a Year: Time to Buy, Hold or Sell?",
-                "summary": "Teva's branded drug growth, biosimilar launches and improving margins are strengthening its long-term outlook despite generics pressure.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/teva-stock-more-100-time-152200118.html",
-                "publishDate": "2026-05-19T15:22:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Some people lose far more weight than others on GLP-1s like Wegovy. Here\u2019s why.",
-                "summary": "Emerging research shows there are \u2018super-responders\u2019 to GLP-1 drugs, and others who don\u2019t respond at all.",
-                "source": "MarketWatch",
-                "category": "health",
-                "url": "https://www.marketwatch.com/story/some-people-lose-far-more-weight-than-others-on-glp-1s-like-wegovy-heres-why-9215257d",
-                "publishDate": "2026-05-19T10:57:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Update: Big Pharma Firms Denied Certiorari by Supreme Court in Medicare Pricing Case",
-                "summary": "(Updates with Novo Nordisk's response in the fourth and fifth paragraphs.) The US Supreme Court o",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/big-pharma-firms-denied-certiorari-081504693.html",
-                "publishDate": "2026-05-19T08:15:04Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Expands Parkinson's Bet With AI Partner And Upside Potential",
-                "summary": "Novo Nordisk (CPSE:NOVO B) is transferring its clinical-stage Parkinson's cell therapy program, including global rights, to Cellular Intelligence. As part of the deal, Novo Nordisk will take an equity stake in Cellular Intelligence and remain eligible for milestones and royalties linked to the therapy. The program holds fast track designation for Parkinson's disease and aims to use AI-supported manufacturing and clinical optimization to accelerate development timelines. Novo Nordisk, best...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-expands-parkinsons-bet-060952463.html",
-                "publishDate": "2026-05-19T06:09:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics' Pill Could Crash the Weight-Loss Party",
-                "summary": "This dark horse in the weight loss drug race is worth keeping on your watch list.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/watch-out-eli-lilly-and-novo-nordisk-viking-therap/",
-                "publishDate": "2026-05-19T01:05:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Stock: Next Stop $2,000?",
-                "summary": "The company is riding an incredible tailwind.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/18/eli-lilly-stock-next-stop-2000/",
-                "publishDate": "2026-05-18T22:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Three Biotechs That Are Top Takeover Targets",
-                "summary": "Eli Lilly (NYSE:LLY) is the stock everyone wants to talk about, and the reasons are obvious: Mounjaro revenue jumped 125% to $8.66 billion last quarter, the company raised full-year revenue guidance to $82 to $85 billion, and the market cap now sits at roughly $881.8 billion. But here\u2019s what you should actually be watching. The ... Three Biotechs That Are Top Takeover Targets",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/18/three-biotechs-that-are-top-takeover-targets/",
-                "publishDate": "2026-05-18T17:55:07Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.2,
+        "price": 2.085,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.37439,
-            "marketCap": 206587232,
+            "change": -5.227273,
+            "marketCap": 195788352,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Wall Street shrugs off Nvidia earnings",
-                "summary": "US stock futures fell after Nvidia earnings failed to wow investors, and SpaceX took a big step toward its IPO.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-wall-street-shrugs-off-nvidia-earnings-232311657.html",
-                "publishDate": "2026-05-20T23:23:11Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tech stocks today: Nvidia stock muted ahead of Q1 earnings call, SpaceX files IPO details",
+                "title": "Tech stocks today: Nvidia stock falls after earnings, SpaceX files IPO details",
                 "summary": "Nvidia earnings report is expected to be the main event for tech investors this week.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-stock-muted-ahead-of-q1-earnings-call-spacex-files-ipo-details-111103932.html",
+                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-stock-falls-after-earnings-spacex-files-ipo-details-111103242.html",
                 "publishDate": "2026-05-18T11:11:03Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Asian stocks surge on Iran hopes and Samsung union talks",
-                "summary": "Shares surged in Tokyo, Seoul and other Asian markets Thursday, fuelled by hopes of a Middle East peace accord and by negotiations averting a planned strike at Samsung Electronics.Overnight gains of US shares, hopes for the end of the war in Iran and drops of oil prices were among factors that cheered Tokyo investors, said brokerage house Monex.",
-                "source": "AFP",
+                "title": "SpaceX: Musk bets heavily on AI, not just rockets, for future gains",
+                "summary": "Essentially, Musk and SpaceX are asking investors to value the company as a vertically integrated AI platform that happens to launch rockets.",
+                "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-surge-iran-hopes-033315042.html",
-                "publishDate": "2026-05-21T03:33:15Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-musk-bets-heavily-on-ai-not-just-rockets-for-future-gains-140612946.html",
+                "publishDate": "2026-05-21T14:06:12Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Reveals $1 Billion Bitcoin Holdings Ahead Of Historic IPO \u2014 Here's How Much The Elon Musk-Led Company Paid For Its Coins",
-                "summary": "SpaceX, the space exploration company led by Elon Musk, disclosed in its IPO filing on Wednesday that it holds more than $1 billion in Bitcoin (CRYPTO: BTC) on its balance sheet. More Details About BTC\u2019s Reserves The company disclosed 18,712 BTC on hand as of March 31, recognized at a fair value of $1.29 billion. At current prices, this stash would be worth $1.45 billion. The total cost basis of these holdings was reported at $661 million, implying an average acquisition cost of around $35,324 p",
-                "source": "Benzinga",
+                "title": "Inside SpaceX\u2019s audacious IPO plan",
+                "summary": "Elon Musk\u2019s SpaceX has unveiled the details of one of the most audacious IPOs in history. Its 200,000-word prospectus, released on Wednesday...",
+                "source": "Financial Times",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/crypto/articles/spacex-reveals-1-billion-bitcoin-031424839.html",
-                "publishDate": "2026-05-21T03:14:24Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/inside-spacex-audacious-ipo-plan-015723729.html",
+                "publishDate": "2026-05-21T15:03:46Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Tesla\u2019s $2 Billion xAI Bet Just Got Folded Into SpaceX: The Hidden Story Behind the IPO",
+                "summary": "Here is the part of the SpaceX IPO story most coverage glossed over: Tesla (NASDAQ:TSLA) wrote a $2 billion check to xAI in January 2026, and weeks later that check effectively cleared into SpaceX. The $2 billion that quietly changed addresses According to the SpaceX S-1, in January 2026, Tesla entered into an agreement with ... Tesla\u2019s $2 Billion xAI Bet Just Got Folded Into SpaceX: The Hidden Story Behind the IPO",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/21/teslas-2-billion-xai-bet-just-got-folded-into-spacex-the-hidden-story-behind-the-ipo/",
+                "publishDate": "2026-05-21T15:00:14Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX files for IPO as rocket company preps for market debut",
-                "summary": "Elon Musk's SpaceX is moving ahead with plans to go public in what some expect will be the biggest IPO ever.",
-                "source": "CBS News",
-                "category": "finance",
-                "url": "https://www.cbsnews.com/news/spacex-initial-public-offering-elon-musk/",
-                "publishDate": "2026-05-21T02:38:31Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX aims for 10,000 annual launches within five years, FAA says",
-                "summary": "By David Shepardson ARLINGTON, Virginia, May 20 (Reuters) - SpaceX aims to reach 10,000 launches annually within five years, but government officials will need to see improved reliability before",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://ca.finance.yahoo.com/news/spacex-aims-10-000-annual-012851624.html",
-                "publishDate": "2026-05-21T01:28:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX reveals Musk company links, from Cybertrucks and jets to stock investments",
-                "summary": "May 20 (Reuters) - SpaceX's IPO filing revealed extensive commercial and financial ties among Elon Musk's companies ranging from Cybertruck purchases and shared private jets to stock investments, showing how deeply intertwined his business \u200cempire has become ahead of what could become the largest IPO in history. While many of the billionaire's companies \u200chave long collaborated, the filing contains previously undisclosed details about how they now form a network bound by commercial agreements, f",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reveals-musk-company-links-012411560.html",
-                "publishDate": "2026-05-21T01:24:11Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's IPO filing is finally out \u2014 here are the highlights",
-                "summary": "Investors have been waiting years for Elon Musk's SpaceX to test the public market waters, with the long-awaited IPO promising to be one of the biggest of all time. Now, it's starting to look like a launch is imminent. On Wednesday, SpaceX filed its Form S-1 with the Securities and Exchange ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/latest-news/spacexs-long-anticipated-ipo-filing-is-out-now-heres-the-highlights",
-                "publishDate": "2026-05-21T01:05:12Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hexagon Purus ASA (HPURF) Q1 2026 Earnings Call Highlights: Revenue Surge and Strategic Moves ...",
-                "summary": "Hexagon Purus ASA (HPURF) reports a 76% revenue increase and strategic divestments, while addressing ongoing profitability and certification challenges.",
+                "title": "Tesla Revenue From Musk Firms Nears $890M",
+                "summary": "Filings show growing financial links across Elon Musk's companies.",
                 "source": "GuruFocus.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/energy/articles/hexagon-purus-asa-hpurf-q1-010022433.html",
-                "publishDate": "2026-05-21T01:00:22Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-revenue-musk-firms-nears-144008648.html",
+                "publishDate": "2026-05-21T14:40:08Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The Secrets Revealed in SpaceX\u2019s IPO Filing",
-                "summary": "Documents related to SpaceX\u2019s initial public offering show the company is unprofitable and CEO Elon Musk controls 85% of the vote.",
-                "source": "The Wall Street Journal",
+                "title": "Rocket Lab Stock Falls After Announcing $3 Billion Distribution Agreement",
+                "summary": "Rocket Lab announces deal to sell up to $3 billion worth of shares \"from time to time.\" RKLB stock retreats in busy week for space news.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://www.wsj.com/business/spacex-ipo-takeaways-cea33689?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T00:38:00Z",
+                "url": "https://www.investors.com/news/rocket-lab-stock-distribution-agreement-3-billion-rklb-stock-space/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-21T14:38:14Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Goldman Chases SpaceX's $75 Billion IPO Prize",
+                "summary": "Goldman and Morgan Stanley are battling for top billing as SpaceX targets a more than $2 trillion valuation.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-chases-spacexs-75-billion-133416827.html",
+                "publishDate": "2026-05-21T14:37:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX's Long-Awaited IPO Is Here and It Could Make Musk a Trillionaire",
+                "summary": "Ticker SPCX will trade on Nasdaq with Musk retaining 85.1% of voting power",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-long-awaited-ipo-could-132651755.html",
+                "publishDate": "2026-05-21T14:37:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic on Track for First Profitable Quarter",
+                "summary": "Q2 revenue jumps to $10.9 billion while operating profit reaches $559 million amid rapid scaling and heavy compute commitments",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-track-first-profitable-quarter-124217577.html",
+                "publishDate": "2026-05-21T14:37:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Tesla\u2019s Stock Price Problem Refuses To Go Away",
+                "summary": "In the shadow of the massive SpaceX IPO, the stock of Elon Musk\u2019s other big company is struggling. SpaceX could debut with a $2 trillion market cap as it raises $80 billion. It will need the money. The SpaceX loss in the first quarter was $4.3 billion against $4.69 billion in revenue. The loss was ... Tesla\u2019s Stock Price Problem Refuses To Go Away",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/21/teslas-stock-price-problem-refuses-to-go-away/",
+                "publishDate": "2026-05-21T14:33:19Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.41,
+        "price": 31.3,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 14.8883,
-            "marketCap": 23311554560,
+            "change": -3.4248707,
+            "marketCap": 22513162240,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.74,
+        "price": 29.76,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.81628,
-            "marketCap": 6378275328,
+            "change": -3.1880271,
+            "marketCap": 6174934528,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
