@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.18,
+        "price": 44.455,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9747046,
-            "marketCap": 195797614592,
+            "change": -1.3645393,
+            "marketCap": 197016371200,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.710728
+            "yearTarget": 46.74865
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.02,
+        "price": 2.0,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -8.181822,
-            "marketCap": 189684640,
+            "change": -9.090911,
+            "marketCap": 187806576,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,32 +322,42 @@
         },
         "NEWS": [
             {
-                "title": "Inside SpaceX's IPO: Goldman Sachs takes prestigious lead spot while Morgan Stanley plays a major role for retail investors",
-                "summary": "Goldman Sachs and Morgan Stanley will serve as the two lead investment banks on the SpaceX IPO, which includes 23 investment banks in total.",
+                "title": "SpaceX's biggest IPO risks are also its bull case",
+                "summary": "SpaceX's IPO is built around ambitions that are huge, expensive, and still unfinished.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/inside-spacexs-ipo-goldman-sachs-takes-prestigious-lead-spot-while-morgan-stanley-plays-a-major-role-for-retail-investors-143633819.html",
-                "publishDate": "2026-05-21T14:36:33Z",
+                "url": "https://finance.yahoo.com/markets/article/spacexs-biggest-ipo-risks-are-also-its-bull-case-173659815.html",
+                "publishDate": "2026-05-21T17:36:59Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX: How to buy before the IPO",
-                "summary": "For investors looking to get in SpaceX before its IPO, it can be done. But there are risks, tradeoffs, and heavy fees.",
+                "title": "SpaceX: Musk bets heavily on AI, not just rockets, for future gains",
+                "summary": "Essentially, Musk and SpaceX are asking investors to value the company as a vertically integrated AI platform that happens to launch rockets.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-how-to-buy-before-the-ipo-140548200.html",
-                "publishDate": "2026-04-07T14:05:48Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-musk-bets-heavily-on-ai-not-just-rockets-for-future-gains-140612946.html",
+                "publishDate": "2026-05-21T14:06:12Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX files IPO prospectus, offering a peek into its finances",
-                "summary": "SpaceX finally offered investors a public view of its internal finances, as the rocket company filed its S-1 registration statement with the SEC ahead of its investor road show planned for June 5.",
-                "source": "Yahoo Finance",
+                "title": "Elon Musk's SpaceX Files for What Could be Largest IPO in History",
+                "summary": "Space Exploration Technologies, widely known as SpaceX, has filed for an initial public offering in",
+                "source": "MT Newswires",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-files-ipo-prospectus-offering-a-peek-into-its-finances-205406189.html",
-                "publishDate": "2026-05-20T20:54:06Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-apos-spacex-files-171338008.html",
+                "publishDate": "2026-05-21T17:13:38Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Amkor Technology Targets $11B Revenue by 2030 on AI Packaging, Arizona Ramp",
+                "summary": "Amkor Technology (NASDAQ:AMKR) outlined a multi-year growth strategy centered on advanced semiconductor packaging, saying the technology has moved from a back-end manufacturing step to a critical part of system performance, integration and supply-chain design. During the company presentation, execu",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/amkor-technology-targets-11b-revenue-by-2030-on-ai-packaging-arizona-ramp-2026-05-21/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-21T17:04:54Z",
                 "premium": false,
                 "freemium": false
             },
@@ -358,6 +368,16 @@
                 "category": "finance",
                 "url": "https://app.moby.co/home/news/news-spacex-finally-filed-and-the-s-1-well-shes-a-lot?utm_source=yahoo_finance&utm_medium=rss",
                 "publishDate": "2026-05-21T16:27:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX's Historic IPO: 5 Things You Need to Know",
+                "summary": "SpaceX will be the largest IPO in history. Stock Strategist Andrew Rocco explains what you need to know.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-historic-ipo-5-things-160200682.html",
+                "publishDate": "2026-05-21T16:02:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-21T15:31:56Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "EchoStar Stock Remains One of the Best Ways to Play the SpaceX IPO",
-                "summary": "EchoStar  is one of the best plays on SpaceX, and its stock could benefit ahead of the SpaceX IPO as investors look for ways to get exposure to Elon Musk\u2019s company.  SpaceX filed its eagerly awaited IPO prospectus Wednesday and the deal could get priced by mid June.  It may be tough for individual investors to get an allocation in the SpaceX IPO given that it\u2019s expected to be a hot deal dominated by institutional buyers.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/echostar-stock-price-spacex-ipo-2ce56316?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T15:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's IPO filing has a whopping 38 pages of risk factors \u2014 here are the biggest dangers, including Elon Musk himself",
-                "summary": "The rocket maker flags Elon Musk's divided attention, $530 million in legal exposure and a Starship program prone to \"rapid unscheduled disassembly.\"",
-                "source": "Moneywise",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-ipo-filing-whopping-38-151500734.html",
-                "publishDate": "2026-05-21T15:15:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.54,
+        "price": 31.645,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6843534,
-            "marketCap": 22685788160,
+            "change": -2.3603806,
+            "marketCap": 22761312256,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.17,
+        "price": 30.44,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8542606,
-            "marketCap": 6260005888,
+            "change": -0.9759247,
+            "marketCap": 6316028416,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
