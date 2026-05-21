@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.105,
+        "price": 44.255,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.1413517,
-            "marketCap": 195465232384,
+            "change": -1.8082951,
+            "marketCap": 196130013184,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.60304
+            "yearTarget": 46.615402
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -122,12 +122,12 @@
                 "freemium": false
             },
             {
-                "title": "Live Longer and Better. Does Medicine\u2019s New Obsession Really Work?",
-                "summary": "The longevity industry is booming with high-tech tests, drugs, and medical devices. What to know for your health\u2014and personal finances.",
-                "source": "Barrons.com",
+                "title": "Lilly\u2019s triple-acting obesity drug hits goal in Phase 3 trial",
+                "summary": "Participants who stayed on the drug lost around one-quarter of their body weight, potentially setting a new benchmark for rivals like Novo Nordisk.",
+                "source": "BioPharma Dive",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/longevity-drugs-healthcare-personal-finance-713570de?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T05:00:00Z",
+                "url": "https://www.biopharmadive.com/news/lillys-retatrutide-tripleG-phase3-obesity-data/820851/",
+                "publishDate": "2026-05-21T09:38:53Z",
                 "premium": false,
                 "freemium": false
             }
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.05,
+        "price": 2.0821,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -6.7114134,
-            "marketCap": 192501728,
+            "change": -5.4384484,
+            "marketCap": 195516032,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,22 +322,22 @@
         },
         "NEWS": [
             {
-                "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise on Iran peace talk doubts",
-                "summary": "US stock futures fell after Nvidia earnings failed to wow investors, and SpaceX took a big step toward its IPO.",
+                "title": "Inside SpaceX's IPO: Goldman Sachs takes prestigious lead spot while Morgan Stanley plays a major role for retail investors",
+                "summary": "Goldman Sachs and Morgan Stanley will serve as the two lead investment banks on the SpaceX IPO, which includes 23 investment banks in total.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-fall-as-oil-prices-rise-on-iran-peace-talk-doubts-232311176.html",
-                "publishDate": "2026-05-20T23:23:11Z",
+                "url": "https://finance.yahoo.com/markets/article/inside-spacexs-ipo-goldman-sachs-takes-prestigious-lead-spot-while-morgan-stanley-plays-a-major-role-for-retail-investors-143633819.html",
+                "publishDate": "2026-05-21T14:36:33Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Why Starlink is so important to SpaceX's IPO",
-                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
+                "title": "SpaceX: How to buy before the IPO",
+                "summary": "For investors looking to get in SpaceX before its IPO, it can be done. But there are risks, tradeoffs, and heavy fees.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
-                "publishDate": "2026-04-11T17:44:46Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-how-to-buy-before-the-ipo-140548200.html",
+                "publishDate": "2026-04-07T14:05:48Z",
                 "premium": false,
                 "freemium": false
             },
@@ -348,6 +348,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/article/spacex-files-ipo-prospectus-offering-a-peek-into-its-finances-205406189.html",
                 "publishDate": "2026-05-20T20:54:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Just Revealed the 100-Year Plan for Its Business",
+                "summary": "SpaceX is targeting an IPO valuation near $1.75 trillion against total revenue of roughly $18 billion. That gap is a major part of the SpaceX investment thesis. To justify it, public investors need to believe in something far larger than today\u2019s launch business and Starlink subscriber base. SpaceX\u2019s S-1 filing outlines what that looks like ... SpaceX Just Revealed the 100-Year Plan for Its Business",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/21/spacex-just-revealed-the-100-year-plan-for-its-business/",
+                "publishDate": "2026-05-21T15:55:55Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-21T15:03:46Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "Tesla\u2019s $2 Billion xAI Bet Just Got Folded Into SpaceX: The Hidden Story Behind the IPO",
-                "summary": "Here is the part of the SpaceX IPO story most coverage glossed over: Tesla (NASDAQ:TSLA) wrote a $2 billion check to xAI in January 2026, and weeks later that check effectively cleared into SpaceX. The $2 billion that quietly changed addresses According to the SpaceX S-1, in January 2026, Tesla entered into an agreement with ... Tesla\u2019s $2 Billion xAI Bet Just Got Folded Into SpaceX: The Hidden Story Behind the IPO",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/21/teslas-2-billion-xai-bet-just-got-folded-into-spacex-the-hidden-story-behind-the-ipo/",
-                "publishDate": "2026-05-21T15:00:14Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.97,
+        "price": 31.04,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.443075,
-            "marketCap": 22275803136,
+            "change": -4.227087,
+            "marketCap": 22326153216,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.77,
+        "price": 29.97,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.1554954,
-            "marketCap": 6177009152,
+            "change": -2.5048811,
+            "marketCap": 6218507264,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
