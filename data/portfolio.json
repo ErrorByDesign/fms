@@ -20,7 +20,7 @@
             "marketCap": 199741931520,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.696274
+            "yearTarget": 46.709423
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -342,6 +342,26 @@
                 "freemium": false
             },
             {
+                "title": "Asian stocks surge on Iran hopes and Samsung union talks",
+                "summary": "Shares surged in Tokyo, Seoul and other Asian markets Thursday, fuelled by hopes of a Middle East peace accord and by negotiations averting a planned strike at Samsung Electronics.Overnight gains of US shares, hopes for the end of the war in Iran and drops of oil prices were among factors that cheered Tokyo investors, said brokerage house Monex.",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/asian-stocks-surge-iran-hopes-033315042.html",
+                "publishDate": "2026-05-21T03:33:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Reveals $1 Billion Bitcoin Holdings Ahead Of Historic IPO \u2014 Here's How Much The Elon Musk-Led Company Paid For Its Coins",
+                "summary": "SpaceX, the space exploration company led by Elon Musk, disclosed in its IPO filing on Wednesday that it holds more than $1 billion in Bitcoin (CRYPTO: BTC) on its balance sheet. More Details About BTC\u2019s Reserves The company disclosed 18,712 BTC on hand as of March 31, recognized at a fair value of $1.29 billion. At current prices, this stash would be worth $1.45 billion. The total cost basis of these holdings was reported at $661 million, implying an average acquisition cost of around $35,324 p",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/crypto/articles/spacex-reveals-1-billion-bitcoin-031424839.html",
+                "publishDate": "2026-05-21T03:14:24Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX files for IPO as rocket company preps for market debut",
                 "summary": "Elon Musk's SpaceX is moving ahead with plans to go public in what some expect will be the biggest IPO ever.",
                 "source": "CBS News",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://www.wsj.com/business/spacex-ipo-takeaways-cea33689?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-21T00:38:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Key Takeaways From SpaceX\u2019s IPO Documents",
-                "summary": "SpaceX\u2019s financials tell two stories.  The first is an established business launching satellites and astronauts to space on the company\u2019s original Falcon rocket as well as growth of its Starlink satellite internet business.  The space business had $4.1 billion in revenue last year, though it is unprofitable.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-20-2026/card/the-key-takeaways-from-spacex-s-ipo-documents-VPPLvPQ4hRrZ5Dr7v7Yy?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T00:05:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX files to go public in huge IPO deal",
-                "summary": "SpaceX filed Wednesday for the an initial public offering that is expected to raise at least $75 billion and would value the company at as much as $2 trillion.",
-                "source": "LA Times",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-files-public-huge-ipo-234043592.html",
-                "publishDate": "2026-05-20T23:40:43Z",
                 "premium": false,
                 "freemium": false
             }
