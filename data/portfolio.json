@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.135,
+        "price": 44.105,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.0745537,
-            "marketCap": 195598172160,
+            "change": -2.1413517,
+            "marketCap": 195465232384,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.61301
+            "yearTarget": 46.60304
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Little Changed in Thursday Trading",
+                "summary": "European equities traded in the US as American depositary receipts were tracking marginally lower la",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150536399.html",
+                "publishDate": "2026-05-21T15:05:36Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "GSK Stock Declines 9% in a Month: Time to Buy, Hold or Exit?",
+                "summary": "GSK shares slide after Q1 despite earnings and sales beats, as investors weigh slowing legacy drug sales against strong Specialty Medicines growth.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/gsk-stock-declines-9-month-142100974.html",
+                "publishDate": "2026-05-21T14:21:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly vs. Merck: Which Pharma Stock Looks Stronger Now?",
+                "summary": "LLY's booming GLP-1 franchise and expanding pipeline strengthen its edge over Merck despite rising competition and pricing pressure.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-vs-merck-pharma-141100919.html",
+                "publishDate": "2026-05-21T14:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly\u2019s New GLP-1 Drug Looks Like a Weight-Loss Powerhouse in New Trial",
                 "summary": "Eli Lilly\u2019s investigational drug, retatrutide, delivered an average 80-week weight loss of 70 pounds at the highest dose.",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-05-21T05:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Best Weight Loss Drug Stocks to Buy in 2026",
-                "summary": "If you are looking for a GLP-1 investment, you can buy the leader, the underdog, or the upstart.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/20/best-weight-loss-drug-stocks-to-buy-in-2026/",
-                "publishDate": "2026-05-21T03:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Denmark GDP Jumps 1.9% as Pharma Sector Drives Growth",
-                "summary": "Novo Nordisk-linked pharmaceutical strength helped Denmark post a fourth straight quarter of economic expansion.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/economy/articles/denmark-gdp-jumps-1-9-181410955.html",
-                "publishDate": "2026-05-20T18:14:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How New Wegovy Obesity Trial Data At Novo Nordisk (CPSE:NOVO B) Has Changed Its Investment Story",
-                "summary": "Earlier in May 2026, Novo Nordisk presented new sub-analyses from its OASIS 4 and STEP UP phase 3 trials at the European Congress on Obesity, showing strong weight-loss efficacy, improved physical function and favourable body composition effects for both oral and injectable Wegovy across diverse adult and female patient groups. The company also reported that Wegovy\u2019s oral pill compared favourably with rival orforglipron on weight loss, tolerability and patient preference, reinforcing...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/wegovy-obesity-trial-data-novo-120828076.html",
-                "publishDate": "2026-05-20T12:08:28Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 2.085,
+        "price": 2.05,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.227273,
-            "marketCap": 195788352,
+            "change": -6.7114134,
+            "marketCap": 192501728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,22 +322,82 @@
         },
         "NEWS": [
             {
-                "title": "Tech stocks today: Nvidia stock falls after earnings, SpaceX files IPO details",
-                "summary": "Nvidia earnings report is expected to be the main event for tech investors this week.",
+                "title": "Stock market today: Dow, S&P 500, Nasdaq fall as oil prices rise on Iran peace talk doubts",
+                "summary": "US stock futures fell after Nvidia earnings failed to wow investors, and SpaceX took a big step toward its IPO.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-nvidia-stock-falls-after-earnings-spacex-files-ipo-details-111103242.html",
-                "publishDate": "2026-05-18T11:11:03Z",
+                "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-fall-as-oil-prices-rise-on-iran-peace-talk-doubts-232311176.html",
+                "publishDate": "2026-05-20T23:23:11Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX: Musk bets heavily on AI, not just rockets, for future gains",
-                "summary": "Essentially, Musk and SpaceX are asking investors to value the company as a vertically integrated AI platform that happens to launch rockets.",
+                "title": "Why Starlink is so important to SpaceX's IPO",
+                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-musk-bets-heavily-on-ai-not-just-rockets-for-future-gains-140612946.html",
-                "publishDate": "2026-05-21T14:06:12Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+                "publishDate": "2026-04-11T17:44:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX files IPO prospectus, offering a peek into its finances",
+                "summary": "SpaceX finally offered investors a public view of its internal finances, as the rocket company filed its S-1 registration statement with the SEC ahead of its investor road show planned for June 5.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/spacex-files-ipo-prospectus-offering-a-peek-into-its-finances-205406189.html",
+                "publishDate": "2026-05-20T20:54:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Filing Shows There Is No Finalized Terafab Deal With Tesla, Intel",
+                "summary": "SpaceX's latest filing shows new details about the agreements with Tesla and Intel, its two partners in the Terafab AI chip factory.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-ipo-filing-tesla-intel-terafab-semiconductor-ai-chips/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-21T15:31:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX's IPO filing has a whopping 38 pages of risk factors \u2014 here are the biggest dangers, including Elon Musk himself",
+                "summary": "The rocket maker flags Elon Musk's divided attention, $530 million in legal exposure and a Starship program prone to \"rapid unscheduled disassembly.\"",
+                "source": "Moneywise",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-ipo-filing-whopping-38-151500734.html",
+                "publishDate": "2026-05-21T15:15:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Telecom Stocks: What SpaceX IPO Filing Revealed About Starlink's Big Ambitions",
+                "summary": "Starlink faces hurdles turning into a hybrid satellite-terrestrial wireless network operator. The SpaceX IPO has pressured telecom stocks.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/spacex-ipo-starlink-telecom-stocks-att-vz-tmus-asts/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-21T15:14:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX's road to landmark IPO filing",
+                "summary": "May 21 (Reuters) - SpaceX's IPO filing finally revealed the finances behind a company aiming to dominate industries ranging from rockets and satellites to AI and data centers.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-road-landmark-ipo-filing-151409545.html",
+                "publishDate": "2026-05-21T15:14:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX May Be a Generational Company, But Its Financials Are Not Very Impressive Right Now",
+                "summary": "SpaceX just released its much-anticipated preliminary prospectus, offering investors a glimpse into the company's inner workings.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/21/spacex-may-be-a-generational-company-but-its-finan/",
+                "publishDate": "2026-05-21T15:12:53Z",
                 "premium": false,
                 "freemium": false
             },
@@ -360,66 +420,6 @@
                 "publishDate": "2026-05-21T15:00:14Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Tesla Revenue From Musk Firms Nears $890M",
-                "summary": "Filings show growing financial links across Elon Musk's companies.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-revenue-musk-firms-nears-144008648.html",
-                "publishDate": "2026-05-21T14:40:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Rocket Lab Stock Falls After Announcing $3 Billion Distribution Agreement",
-                "summary": "Rocket Lab announces deal to sell up to $3 billion worth of shares \"from time to time.\" RKLB stock retreats in busy week for space news.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/rocket-lab-stock-distribution-agreement-3-billion-rklb-stock-space/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-21T14:38:14Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Goldman Chases SpaceX's $75 Billion IPO Prize",
-                "summary": "Goldman and Morgan Stanley are battling for top billing as SpaceX targets a more than $2 trillion valuation.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-chases-spacexs-75-billion-133416827.html",
-                "publishDate": "2026-05-21T14:37:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's Long-Awaited IPO Is Here and It Could Make Musk a Trillionaire",
-                "summary": "Ticker SPCX will trade on Nasdaq with Musk retaining 85.1% of voting power",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-long-awaited-ipo-could-132651755.html",
-                "publishDate": "2026-05-21T14:37:28Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic on Track for First Profitable Quarter",
-                "summary": "Q2 revenue jumps to $10.9 billion while operating profit reaches $559 million amid rapid scaling and heavy compute commitments",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-track-first-profitable-quarter-124217577.html",
-                "publishDate": "2026-05-21T14:37:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla\u2019s Stock Price Problem Refuses To Go Away",
-                "summary": "In the shadow of the massive SpaceX IPO, the stock of Elon Musk\u2019s other big company is struggling. SpaceX could debut with a $2 trillion market cap as it raises $80 billion. It will need the money. The SpaceX loss in the first quarter was $4.3 billion against $4.69 billion in revenue. The loss was ... Tesla\u2019s Stock Price Problem Refuses To Go Away",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/21/teslas-stock-price-problem-refuses-to-go-away/",
-                "publishDate": "2026-05-21T14:33:19Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.3,
+        "price": 30.97,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.4248707,
-            "marketCap": 22513162240,
+            "change": -4.443075,
+            "marketCap": 22275803136,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.76,
+        "price": 29.77,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.1880271,
-            "marketCap": 6174934528,
+            "change": -3.1554954,
+            "marketCap": 6177009152,
             "weekLow": 10.9,
             "weekHigh": 36.52,
             "yearTarget": 43.8
