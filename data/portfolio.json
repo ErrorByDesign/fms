@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.66,
+        "price": 44.815,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.60824615,
-            "marketCap": 197924880384,
+            "change": 0.9574211,
+            "marketCap": 198611812352,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.69346
+            "yearTarget": 46.68352
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://www.proactiveinvestors.com/companies/news/1092762/novo-nordisk-faces-new-glp-1-rival-as-eli-lilly-s-triple-agonist-sets-weight-loss-record-1092762.html",
                 "publishDate": "2026-05-22T15:04:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "LLY Reports Third Phase III Win for Next-Generation Obesity Drug",
+                "summary": "Eli Lilly's retatrutide delivers its third phase III win, showing up to 28.3% weight loss at 80 weeks and broader gains across obesity-related measures.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lly-reports-third-phase-iii-143400347.html",
+                "publishDate": "2026-05-22T14:34:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/semaglutide-mash-data-broadens-novo-161231468.html",
                 "publishDate": "2026-05-21T16:12:31Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can Mounjaro, Zepbound & Foundayo Keep Fueling LLY's Growth Story?",
-                "summary": "Eli Lilly's GLP-1 portfolio is driving growth in 2026, with Mounjaro, Zepbound and Foundayo gaining traction across obesity, diabetes and related markets.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/mounjaro-zepbound-foundayo-keep-fueling-153500658.html",
-                "publishDate": "2026-05-21T15:35:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -342,6 +342,16 @@
                 "freemium": false
             },
             {
+                "title": "Redwire Stock Has Gained Over 40% In A Month \u2014 A Look At How Defense Contracts, SpaceX IPO Buzz Boosted Investor Sentiment",
+                "summary": "Investors appear to be cheering the fresh defense contract wins, rising hype around the SpaceX IPO, and interest in Redwire\u2019s role in the broader space ecosystem.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/redwire-rdw-stock-rally-defense-contract-spacex-ipo-hype/cZgRWzzReoH",
+                "publishDate": "2026-05-22T15:26:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space ETFs surge ahead of SpaceX IPO listing",
                 "summary": "Seven space-focused ETFs have collectively attracted $1.3 billion in new cash over the past month, pushing total assets in the sector to $3.3 billion",
                 "source": "Quartz",
@@ -392,32 +402,22 @@
                 "freemium": false
             },
             {
-                "title": "Forget SpaceX: These IPOs Turned Every $10,000 Into More Than $1 Million",
-                "summary": "Big IPOs have a way of making investors dream big. And few offerings have generated more anticipation than SpaceX, which is expected to begin trading on June 12. The leading space company could raise roughly $25 billion at a valuation approaching $2 trillion, making it the largest public debut ever. That size matters. Historically, mega ... Forget SpaceX: These IPOs Turned Every $10,000 Into More Than $1 Million",
-                "source": "24/7 Wall St.",
+                "title": "SpaceX Wants You To Bankroll Musk's Mars Dream \u2014 And Stay Out Of It",
+                "summary": "Buying shares in Space Exploration Technologies Corp may give investors a chance to own a piece of Elon Musk\u2018s vision for Mars. What it may not give them is much say in how the company is run. Buried within SpaceX\u2019s...",
+                "source": "Benzinga",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/22/forget-spacex-these-ipos-turned-every-10000-into-more-than-1-million/",
-                "publishDate": "2026-05-22T14:24:23Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-wants-bankroll-musks-mars-143102799.html",
+                "publishDate": "2026-05-22T14:31:02Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "12 Zeros and 1 Musk: The Trillionaire Era Officially Begins.",
-                "summary": "Tesla  and SpaceX CEO Elon Musk, already the world\u2019s richest person, is now the world\u2019s first trillionaire.  On Wednesday, his rocket company, SpaceX, released its initial public offering registration statement to the public.  Musk\u2019s Tesla stock, including his 2018 vested stock options, is currently worth about $290 billion.",
-                "source": "Barrons.com",
+                "title": "Pre-Markets Up to Finish the Week Ahead of Memorial Day",
+                "summary": "While the Dow closed at a new all-time high Thursday, Consumer Sentiment Friday is expected to remain at all-time lows.",
+                "source": "Zacks",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/elon-musk-trillionaire-spacex-ipo-tesla-59f01f29?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-22T14:21:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Hype Lifts Industry Stocks",
-                "summary": "Space stocks are rocketing upwards. AST SpaceMobile and Virgin Galactic have each risen more than 9% in Friday's trading session, extending gains from Thursday driven by SpaceX's move toward an initial public offering.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-22-2026/card/spacex-hype-lifts-industry-stocks-n5MXOjRZpQ551AkOX1B5?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-22T14:16:48Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/pre-markets-finish-week-ahead-142500824.html",
+                "publishDate": "2026-05-22T14:25:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.34,
+        "price": 30.53,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7487015,
-            "marketCap": 21822664704,
+            "change": -1.1334147,
+            "marketCap": 21959325696,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.645,
+        "price": 29.74,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9999985,
-            "marketCap": 6151072768,
+            "change": -1.6859511,
+            "marketCap": 6170784256,
             "weekLow": 11.17,
             "weekHigh": 36.52,
             "yearTarget": 43.8
