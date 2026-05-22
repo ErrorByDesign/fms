@@ -20,7 +20,7 @@
             "marketCap": 196728291328,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.717693
+            "yearTarget": 46.714577
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -352,12 +352,22 @@
                 "freemium": false
             },
             {
+                "title": "How SpaceX\u2019s IPO Cements Elon Musk\u2019s Grip on the Company",
+                "summary": "With supervoting shares and help from Texas state law, the CEO has worked to address governance issues he has faced at Tesla.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/how-spacexs-ipo-cements-elon-musks-grip-on-the-company-90ef1ddd?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-22T01:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Postpones Launch of Newly Redesigned Starship",
-                "summary": "SpaceX postponed a launch of the newest version of its Starship rocket, delaying the debut of a vehicle that is essential to its future.  The company could try Friday to conduct the test mission, SpaceX communications manager  Dan Huot  said on the livestream.  The test mission was set to be the first flight for Starship \u201cV3,\u201d a redesigned version of the SpaceX vehicle intended to deploy bigger satellites and, one day, help the company potentially settle Mars and mine asteroids.",
+                "summary": "SpaceX postponed a launch of the newest version of its Starship rocket, delaying the debut of a vehicle that is essential to its future.  The test mission was set to be the first flight for Starship \u201cV3,\u201d a redesigned version of the SpaceX vehicle intended to deploy bigger satellites and, one day, help the company potentially settle Mars and mine asteroids.  Starship is bigger and more powerful than any rocket ever built.",
                 "source": "The Wall Street Journal",
                 "category": "finance",
                 "url": "https://www.wsj.com/science/space-astronomy/spacex-starship-v3-launch-6cd89008?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-22T00:44:00Z",
+                "publishDate": "2026-05-22T01:14:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -409,16 +419,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ipo-mania-spacex-deck-231900171.html",
                 "publishDate": "2026-05-21T23:19:00Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Market Chatter: Cursor Annualized Revenue Reaches $3 Billion Ahead of Potential SpaceX Deal",
-                "summary": "AI coding startup Cursor's annualized revenue reached $3 billion in late April, up from more than $2",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-cursor-annualized-revenue-225609309.html",
-                "publishDate": "2026-05-21T22:56:09Z",
-                "premium": true,
                 "freemium": false
             }
         ],
