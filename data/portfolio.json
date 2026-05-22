@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.39,
+        "price": 44.66,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.50876,
-            "marketCap": 196728291328,
+            "change": 0.60824615,
+            "marketCap": 197924880384,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.714577
+            "yearTarget": 46.69346
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,12 +32,72 @@
         },
         "NEWS": [
             {
+                "title": "Novo Nordisk faces new GLP-1 rival as Eli Lilly's triple agonist sets weight-loss record",
+                "summary": "Citi said Eli Lilly and Co's (NYSE:LLY) experimental obesity drug retatrutide has set a new competitive benchmark for the GLP-1 weight-loss market after a pivotal trial showed patients losing 28% of their body weight over 80 weeks at the highest dose. The results from the TRIUMPH-1 trial, the...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1092762/novo-nordisk-faces-new-glp-1-rival-as-eli-lilly-s-triple-agonist-sets-weight-loss-record-1092762.html",
+                "publishDate": "2026-05-22T15:04:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Buoyed by Robust Corporate Earnings Season",
+                "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131038113.html",
+                "publishDate": "2026-05-22T13:10:38Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Update: Market Chatter: Novo Nordisk, Eli Lilly Weight-Loss Drugs Show Promise in Slowing, Preventing Cancer",
+                "summary": "(Updates with Novo Nordisk's response in the fourth paragraph.) Novo Nordisk's (NVO) Ozempic and",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/market-chatter-novo-nordisk-eli-125335120.html",
+                "publishDate": "2026-05-22T12:53:35Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Lilly and Novo Weight-Loss Drugs Show Potential Cancer Benefits",
+                "summary": "The findings could broaden the long-term opportunity for obesity and diabetes treatments.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lilly-novo-weight-loss-drugs-120255601.html",
+                "publishDate": "2026-05-22T12:02:55Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "HIMS Stock Extends 3-Day Rally: Hims & Hers Targets GLP-1 Gold Rush In Canada After Novo Nordisk Patent Expiry",
+                "summary": "The launch follows Novo Nordisk\u2019s failure to pay a C$250 patent maintenance fee in Canada.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/hims-stock-glp1-canada-novo-nordisk-patent-expiry/cZgRb1mReoG",
+                "publishDate": "2026-05-22T06:24:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Lilly Obesity Drug Shows 28% Weight Loss",
                 "summary": "Late-stage trial data strengthens Lilly's obesity drug pipeline.",
                 "source": "GuruFocus.com",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/lilly-obesity-drug-shows-28-184135022.html",
                 "publishDate": "2026-05-21T18:41:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly Obesity Drug Delivers Up to 28.3% Weight Loss",
+                "summary": "Retatrutide helped patients lose up to 28.3% of body weight over 80 weeks.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/eli-lilly-obesity-drug-delivers-180952080.html",
+                "publishDate": "2026-05-21T18:09:52Z",
                 "premium": false,
                 "freemium": false
             },
@@ -70,66 +130,6 @@
                 "publishDate": "2026-05-21T15:35:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Little Changed in Thursday Trading",
-                "summary": "European equities traded in the US as American depositary receipts were tracking marginally lower la",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150536399.html",
-                "publishDate": "2026-05-21T15:05:36Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly\u2019s New GLP-1 Drug Looks Like a Weight-Loss Powerhouse in New Trial",
-                "summary": "Eli Lilly\u2019s investigational drug, retatrutide, delivered an average 80-week weight loss of 70 pounds at the highest dose.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-stock-glp1-drug-weight-loss-08ce2d42?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-21T15:04:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "GSK Stock Declines 9% in a Month: Time to Buy, Hold or Exit?",
-                "summary": "GSK shares slide after Q1 despite earnings and sales beats, as investors weigh slowing legacy drug sales against strong Specialty Medicines growth.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/gsk-stock-declines-9-month-142100974.html",
-                "publishDate": "2026-05-21T14:21:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly vs. Merck: Which Pharma Stock Looks Stronger Now?",
-                "summary": "LLY's booming GLP-1 franchise and expanding pipeline strengthen its edge over Merck despite rising competition and pricing pressure.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-vs-merck-pharma-141100919.html",
-                "publishDate": "2026-05-21T14:11:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "New weight-loss shot more powerful than old GLP-1s, Eli Lilly says",
-                "summary": "Lilly said people on the next-generation weight loss medication across three different dosages achieved weight loss of 19% to 28%.",
-                "source": "USA TODAY",
-                "category": "finance",
-                "url": "https://www.usatoday.com/story/money/2026/05/21/retatrutide-weight-loss-shot-eli-lilly/90192588007/",
-                "publishDate": "2026-05-21T13:34:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hims offers Apotex's generic semaglutide in Canada after Novo patent expiry",
-                "summary": "By Sriparna Roy May 21 (Reuters) - Hims & Hers Health said on Thursday it is now offering Canadians with type 2 diabetes a generic version of semaglutide, the active ingredient in Novo Nordisk's",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://ca.finance.yahoo.com/news/hims-offers-apotexs-generic-semaglutide-130422778.html",
-                "publishDate": "2026-05-21T13:18:56Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.97,
+        "price": 1.82,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -10.4545,
-            "marketCap": 184989488,
+            "change": -7.614212,
+            "marketCap": 170903984,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,92 +332,92 @@
                 "freemium": false
             },
             {
-                "title": "Why Starlink is so important to SpaceX's IPO",
-                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
+                "title": "SpaceX's biggest IPO risks are also its bull case",
+                "summary": "SpaceX's IPO is built around ambitions that are huge, expensive, and still unfinished.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
-                "publishDate": "2026-04-11T17:44:46Z",
+                "url": "https://finance.yahoo.com/markets/article/spacexs-biggest-ipo-risks-are-also-its-bull-case-173659815.html",
+                "publishDate": "2026-05-21T17:36:59Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX: Musk bets heavily on AI, not just rockets, for future gains",
-                "summary": "Essentially, Musk and SpaceX are asking investors to value the company as a vertically integrated AI platform that happens to launch rockets.",
-                "source": "Yahoo Finance",
+                "title": "Space ETFs surge ahead of SpaceX IPO listing",
+                "summary": "Seven space-focused ETFs have collectively attracted $1.3 billion in new cash over the past month, pushing total assets in the sector to $3.3 billion",
+                "source": "Quartz",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-musk-bets-heavily-on-ai-not-just-rockets-for-future-gains-140612946.html",
-                "publishDate": "2026-05-21T14:06:12Z",
+                "url": "https://qz.com/space-etfs-surging-spacex-ipo-052226",
+                "publishDate": "2026-05-22T15:08:38Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "How SpaceX\u2019s IPO Cements Elon Musk\u2019s Grip on the Company",
-                "summary": "With supervoting shares and help from Texas state law, the CEO has worked to address governance issues he has faced at Tesla.",
-                "source": "The Wall Street Journal",
+                "title": "SpaceX Targets $75 Billion IPO at Up to $2 Trillion Valuation",
+                "summary": "Filing shows Musk retaining control as SpaceX expands deeper into AI, Starlink and space infrastructure ambitions.",
+                "source": "GuruFocus.com",
                 "category": "finance",
-                "url": "https://www.wsj.com/business/how-spacexs-ipo-cements-elon-musks-grip-on-the-company-90ef1ddd?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-22T01:30:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-targets-75-billion-ipo-150332363.html",
+                "publishDate": "2026-05-22T15:03:32Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Postpones Launch of Newly Redesigned Starship",
-                "summary": "SpaceX postponed a launch of the newest version of its Starship rocket, delaying the debut of a vehicle that is essential to its future.  The test mission was set to be the first flight for Starship \u201cV3,\u201d a redesigned version of the SpaceX vehicle intended to deploy bigger satellites and, one day, help the company potentially settle Mars and mine asteroids.  Starship is bigger and more powerful than any rocket ever built.",
-                "source": "The Wall Street Journal",
+                "title": "Grok Could Undermine SpaceX IPO",
+                "summary": "Morningstar warned, \u201c\u2018Financials Look Reckless\u2019: Lifting xAI\u2019s Hood in the SpaceX IPO\u201d. Its AI division, xAI, lost $2.47 billion on $818 million in the first quarter of this year. \u201cIf you compare xAI to a traditional SaaS company, the financials look reckless,\u201d Harrison Rolfes, a senior research analyst at PitchBook, wrote. That may be a ... Grok Could Undermine SpaceX IPO",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://www.wsj.com/science/space-astronomy/spacex-starship-v3-launch-6cd89008?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-22T01:14:00Z",
+                "url": "https://247wallst.com/investing/2026/05/22/grok-could-undermine-spacex-ipo/",
+                "publishDate": "2026-05-22T14:59:19Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Finally Made It's S-1 Public. 3 Things Smart Investors Need to Know About the IPO",
-                "summary": "SpaceX is on the verge of a record-setting IPO and has given investors their first in-depth look at the business.",
-                "source": "Motley Fool",
+                "title": "Five things to know about OpenAI\u2019s potentially record-breaking IPO plans",
+                "summary": "The maker of ChatGPT is preparing to go public in what could be the largest stock market debut in history \u2014 if SpaceX does not get there first.View on euronews",
+                "source": "Euronews",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/21/spacex-finally-made-its-s-1-public-3-things-smart/",
-                "publishDate": "2026-05-22T00:27:31Z",
+                "url": "https://www.euronews.com/2026/05/22/5-things-to-know-about-openais-potentially-record-breaking-ipo-plans?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+                "publishDate": "2026-05-22T14:52:15Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Scrubs Starship Launch as Its $2 Trillion IPO Looms",
-                "summary": "SpaceX scrubbed the test of its huge rocket, Starship, on Thursday, an unfortunate flub ahead of its massive IPO.  Creating reliable space technology isn\u2019t easy, which is one reason SpaceX has a huge competitive moat.  It already handles more than half of the world\u2019s orbital launches with its Falcon 9 rocket.",
+                "title": "Stock Market Rises, Dow Jones Hits New High; Nvidia, Walmart, SpaceX In Focus: Weekly Review",
+                "summary": "The Dow Jones hit a record high with the stock market having another solid week, even though Nvidia and Walmart fell on earnings. SpaceX filed its IPO.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/stock-market-rises-dow-jones-hits-new-high-nvidia-walmart-spacex/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-22T14:36:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Forget SpaceX: These IPOs Turned Every $10,000 Into More Than $1 Million",
+                "summary": "Big IPOs have a way of making investors dream big. And few offerings have generated more anticipation than SpaceX, which is expected to begin trading on June 12. The leading space company could raise roughly $25 billion at a valuation approaching $2 trillion, making it the largest public debut ever. That size matters. Historically, mega ... Forget SpaceX: These IPOs Turned Every $10,000 Into More Than $1 Million",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/22/forget-spacex-these-ipos-turned-every-10000-into-more-than-1-million/",
+                "publishDate": "2026-05-22T14:24:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "12 Zeros and 1 Musk: The Trillionaire Era Officially Begins.",
+                "summary": "Tesla  and SpaceX CEO Elon Musk, already the world\u2019s richest person, is now the world\u2019s first trillionaire.  On Wednesday, his rocket company, SpaceX, released its initial public offering registration statement to the public.  Musk\u2019s Tesla stock, including his 2018 vested stock options, is currently worth about $290 billion.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-starship-launch-ipo-filing-eb48362a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-22T00:25:00Z",
+                "url": "https://www.barrons.com/articles/elon-musk-trillionaire-spacex-ipo-tesla-59f01f29?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-22T14:21:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX scrubs first Starship V3 launch just before liftoff",
-                "summary": "SpaceX fueled the third-generation rocket booster and ship and was just moments away from liftoff, before calling a scrub. It's expected to try again Friday.",
-                "source": "TechCrunch",
+                "title": "SpaceX Hype Lifts Industry Stocks",
+                "summary": "Space stocks are rocketing upwards. AST SpaceMobile and Virgin Galactic have each risen more than 9% in Friday's trading session, extending gains from Thursday driven by SpaceX's move toward an initial public offering.",
+                "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/news/spacex-scrubs-first-starship-v3-000747437.html",
-                "publishDate": "2026-05-22T00:07:47Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The 5 strangest things about SpaceX's IPO prospectus",
-                "summary": "If you're headed out for a long weekend and yearning for a good beach read, consider this buzzy title: Form S-1 Registration Statement Under the Securities Act of 1933: Space Exploration Technologies Corp.",
-                "source": "CNN Business",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/the-5-strangest-things-about-spacexs-ipo-prospectus-235151791.html",
-                "publishDate": "2026-05-21T23:51:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "IPO Mania: SpaceX On Deck",
-                "summary": "SpaceX will be the talk of the town for weeks to come, with its IPO reflecting the largest in history.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ipo-mania-spacex-deck-231900171.html",
-                "publishDate": "2026-05-21T23:19:00Z",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-22-2026/card/spacex-hype-lifts-industry-stocks-n5MXOjRZpQ551AkOX1B5?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-22T14:16:48Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.88,
+        "price": 30.34,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -446,12 +446,12 @@
             "country": "United Kingdom",
             "year": "2014",
             "website": "https://roivant.com",
-            "description": "Roivant Sciences Ltd., a clinical-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of medicines and technologies.\n\nIts clinical product candidates include IMVT-1402, a fully human monoclonal antibody that targets the neonatal fragment crystallizable receptor for the treatment of graves' disease, difficult-to-treat rheumatoid arthritis, sj\u00f6gren's disease, myasthenia gravis, chronic inflammatory demyelinating polyneuropathy, and cutaneous lupus erythematosus indications; batoclimab, a fully human monoclonal antibody for the treatment of thyroid eye disease; and brepocitinib, a potent small molecule inhibitor of TYK2 and JAK1 in development for the treatment of dermatomyositis, non-infectious uveitis, cutaneous sarcoidosis, and other immune-mediated diseases.\n\nThe company's lead program consists of mosliciguat, an inhaled sGC activator for the treatment of pulmonary hypertension associated with interstitial lung disease and other cardiopulmonary diseases.\n\nIn addition, the company offers delivery platforms comprising lipid nanoparticle (LNP) platform and ligand conjugate platform.\n\nRoivant Sciences Ltd. was founded in 2014 and is based in London, United Kingdom.",
+            "description": "Roivant Sciences Ltd., a clinical-stage biopharmaceutical company, focuses on the discovery, development, and commercialization of medicines and technologies.\n\nIts clinical product candidates include IMVT-1402, a fully human monoclonal antibody targeting FcRn in development across several IgG-mediated autoimmune indications; mosliciguat, an inhaled sGC activator in development for pulmonary hypertension associated with interstitial lung disease; neonatal fragment crystallizable receptor for the treatment of graves' disease, difficult-to-treat rheumatoid arthritis, sj\u00f6gren's disease, myasthenia gravis, chronic inflammatory demyelinating polyneuropathy, and cutaneous lupus erythematosus indications; batoclimab, a fully human monoclonal antibody for the treatment of thyroid eye disease; and brepocitinib, a potent small molecule inhibitor of TYK2 and JAK1 in development for the treatment of dermatomyositis, non-infectious uveitis, cutaneous sarcoidosis, and other immune-mediated diseases.\n\nThe company's lead program consists of mosliciguat, an inhaled sGC activator for the treatment of pulmonary hypertension associated with interstitial lung disease and other cardiopulmonary diseases.\n\nIn addition, the company offers delivery platforms comprising a lipid nanoparticle (LNP) platform and a ligand conjugate platform.\n\nRoivant Sciences Ltd. was founded in 2014 and is based in London, United Kingdom.",
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.72077,
-            "marketCap": 22211069952,
+            "change": -1.7487015,
+            "marketCap": 21822664704,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 36.125
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.25,
+        "price": 29.645,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.59401,
-            "marketCap": 6276604928,
+            "change": -1.9999985,
+            "marketCap": 6151072768,
             "weekLow": 11.17,
             "weekHigh": 36.52,
             "yearTarget": 43.8
