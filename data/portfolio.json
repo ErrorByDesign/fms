@@ -20,7 +20,7 @@
             "marketCap": 199254425600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.68287
+            "yearTarget": 46.84073
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
+                "summary": "The ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) sits at an awkward crossroad heading into summer 2026. Shares trade near $19.08, down 5% year-to-date even as the public-side AI mega-caps it holds have ripped higher. That disconnect matters because XOVR is the rare ETF that pairs late-stage private growth (SpaceX is the publicly known anchor) with public ... XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/24/xovr-etf-watch-hyperscaler-ai-capex-before-summer-2026-earnings-season/",
+                "publishDate": "2026-05-24T18:30:52Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Gary Black Explains Why He's 'Not Interested' In SpaceX IPO Despite All The Hype, Investor Explains When He's Likely To Buy The Stock",
+                "summary": "Investor Gary Black said on Thursday that he is not eager to buy into SpaceX's expected initial public offering, arguing that the Elon Musk-led rocket and satellite company appears too expensive at a valuation that may approach $1.75 trillion. Black...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-explains-why-hes-173119085.html",
+                "publishDate": "2026-05-24T17:31:19Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk\u2019s Bugs Bunny Moment: Will SpaceX IPO Tank Tesla Stock?",
                 "summary": "The episode aired in 1948, but the idea is strangely valid today, except that it\u2019s Elon Musk squaring off with himself.  SpaceX is on the cusp of its initial public offering, which will raise a record amount of money.  SpaceX plans to offer a relatively large amount of its stock to smaller retail investors, the same ones who hold Tesla shares.",
                 "source": "Barrons.com",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/intel-joins-spacex-ai-satellites-121037464.html",
                 "publishDate": "2026-05-24T12:10:37Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla Model S Sparked Elon Musk's AI, Robotics And Space Revolution: 'Little Did We Know,' Says Cathie Wood",
-                "summary": "Investor Cathie Wood of ARK Invest has hailed the Tesla Inc. Model S following its sunset for kicking off a \u201crevolution\u201d led by Elon Musk in the artificial intelligence, outer space exploration and robotics sectors. Little Did We Know Wood,...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/tesla-model-sparked-elon-musks-113132838.html",
-                "publishDate": "2026-05-24T11:31:32Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Buried Deep in SpaceX\u2019s Pre-IPO Disclosures: A Threat to Starlink That Sounds Like Science Fiction",
-                "summary": "I\u2019ve been reading SpaceX\u2019s pre-IPO disclosures hunting for the buried sentence others skip. There\u2019s a passage in the risk section that reads like a screenplay: foreign powers, orbital weapons, and a constellation of satellites already in someone\u2019s targeting reticle. It sounds like science fiction. It\u2019s real. Here is the actual language from the document: \u201cThe ... Buried Deep in SpaceX\u2019s Pre-IPO Disclosures: A Threat to Starlink That Sounds Like Science Fiction",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/24/buried-deep-in-spacexs-pre-ipo-disclosures-a-threat-to-starlink-that-sounds-like-science-fiction/",
-                "publishDate": "2026-05-24T11:29:34Z",
                 "premium": false,
                 "freemium": false
             }
