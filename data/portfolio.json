@@ -20,7 +20,7 @@
             "marketCap": 199254425600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.83124
+            "yearTarget": 46.829052
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,16 +332,6 @@
                 "freemium": false
             },
             {
-                "title": "XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
-                "summary": "The ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) sits at an awkward crossroad heading into summer 2026. Shares trade near $19.08, down 5% year-to-date even as the public-side AI mega-caps it holds have ripped higher. That disconnect matters because XOVR is the rare ETF that pairs late-stage private growth (SpaceX is the publicly known anchor) with public ... XOVR ETF: Watch Hyperscaler AI Capex Before Summer 2026 Earnings Season",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/24/xovr-etf-watch-hyperscaler-ai-capex-before-summer-2026-earnings-season/",
-                "publishDate": "2026-05-24T18:30:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant",
                 "summary": "Elon Musk-led commercial spaceflight giant SpaceX\u2018s IPO could become a problem for Tesla Inc. investors and shareholders as the market readies itself for the June IPO date. Muskonomy The upcoming IPO could take investors\u2019 appetite away from Tesla and onto...",
                 "source": "Benzinga",
@@ -418,6 +408,16 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/24/intuitive-machines-wins-2-nasa-contracts-neither-o/",
                 "publishDate": "2026-05-24T12:28:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Intel Joins SpaceX AI Satellites Raising Questions On Valuation And Growth",
+                "summary": "Intel and SpaceX have announced a partnership in semiconductor fabrication for AI-driven satellite networks. The collaboration is tied to SpaceX's recent S-1 filing, which identifies Intel as a core partner in a new chip facility for next-generation AI compute satellites. The move introduces Intel as a supplier of compute hardware for space-based AI clusters, extending the company's reach in global compute supply chains. Intel, NasdaqGS:INTC, is increasingly tied to large scale AI...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/intel-joins-spacex-ai-satellites-121037464.html",
+                "publishDate": "2026-05-24T12:10:37Z",
                 "premium": false,
                 "freemium": false
             }
