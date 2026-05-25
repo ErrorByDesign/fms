@@ -20,7 +20,7 @@
             "marketCap": 199254425600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.84489
+            "yearTarget": 46.83861
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -362,6 +362,16 @@
                 "freemium": false
             },
             {
+                "title": "Telecom Stocks Are Surging Ahead of the SpaceX IPO. This Chart Reminds Us All Rockets Come Crashing Back to Earth Eventually.",
+                "summary": "SpaceX is creating a halo around even old-school telecom stocks. The glow will soon fade.",
+                "source": "Barchart",
+                "category": "finance",
+                "url": "https://www.barchart.com/story/news/2116500/telecom-stocks-are-surging-ahead-of-the-spacex-ipo-this-chart-reminds-us-all-rockets-come-crashing-back-to-earth-eventually",
+                "publishDate": "2026-05-25T15:00:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The Nasdaq\u2019s AI Fast\u2011Track Will Reshape Big Tech \u2014 The S&P Might Be Ready to Change the Rules, Too",
                 "summary": "As the biggest IPOs the world has ever seen touch down, the market, as we know it, is about to change its composition in a big way, especially at the top. With the Nasdaq 100 poised to fast-track SpaceX, Anthropic, and OpenAI in just weeks after their debuts, questions linger about what the S&P 500 ... The Nasdaq\u2019s AI Fast\u2011Track Will Reshape Big Tech \u2014 The S&P Might Be Ready to Change the Rules, Too",
                 "source": "24/7 Wall St.",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-25T12:07:08Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "AI Agents on Base Turn $1.5T SpaceX IPO Into 12-Minute Research Job \u2013 Here\u2019s How",
-                "summary": "AI Agents:- The upcoming SpaceX IPO, expected to be valued between $1.5 trillion and $2 trillion, is already shaping up to be one of the biggest public listings in recent history. Investors are rushing to understand the company\u2019s financials, growth projections, and long-term risks ahead of its expected Nasdaq debut next week. However, a new",
-                "source": "CoinGape",
-                "category": "finance",
-                "url": "https://coingape.com/block-of-fame/pulse/base-ai-agents-turn-1-5t-spacex-ipo-into-12-minute-research-job-heres-how/",
-                "publishDate": "2026-05-25T11:43:44Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Litigation Windfall Driving Roivant Sciences\u2019 Profit Swing Might Change The Case For Investing In Roivant Sciences (ROIV)",
+                "summary": "In May 2026, Roivant Sciences reported fourth-quarter 2026 results showing sales of US$2.52 million, a swing to quarterly net income of US$302.99 million, and full-year 2026 sales of US$8.26 million alongside a wider annual net loss of US$299.77 million. The earnings were heavily influenced by a US$770.2 million litigation settlement gain linked to Genevant\u2019s US$2.25 billion global patent settlement with Moderna, highlighting how non-operating items and asset monetization can meaningfully...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/litigation-windfall-driving-roivant-sciences-210958180.html",
+                "publishDate": "2026-05-25T21:09:58Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Roivant (ROIV) Climbs 15% on Swing to Profits",
                 "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 10 Stocks With Insane Returns Right Now. Roivant Sciences grew its share prices by 14.89 percent on Wednesday to close at $32.41 apiece, as investors took heart from its swing to profitability in the fourth quarter of fiscal year 2026, while positioning portfolios ahead of the launch [\u2026]",
@@ -552,16 +562,6 @@
                 "category": "finance",
                 "url": "https://www.biopharmadive.com/news/immunovant-arthritis-wave-aatd-pfizer-vaccine-takeda-ira/820676/",
                 "publishDate": "2026-05-20T10:43:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How The Roivant Sciences (ROIV) Story Is Shifting After Settlements And Brepocitinib Milestones",
-                "summary": "Roivant Sciences has seen only a marginal shift in its modeled fair value, from US$35.67 to US$35.71, keeping the headline price target effectively stable. That small move reflects a tug of war in analyst commentary, with optimism around the US$2.25b Genevant and Arbutus settlement and key brepocitinib milestones set against questions about how much of this is already in the stock. Read on to see how to track these shifting views and what to watch as the Roivant story continues to...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/roivant-sciences-roiv-story-shifting-031313541.html",
-                "publishDate": "2026-05-20T03:13:13Z",
                 "premium": false,
                 "freemium": false
             }
