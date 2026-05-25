@@ -20,7 +20,7 @@
             "marketCap": 199254425600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.85694
+            "yearTarget": 46.834454
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "CHMP Backs EU Approval of Novo Nordisk's Wegovy Pill for Obesity",
+                "summary": "NVO's Wegovy pill gets CHMP backing, moving it closer to becoming the first oral GLP-1 treatment approved in the EU for weight management.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/chmp-backs-eu-approval-novo-145700733.html",
+                "publishDate": "2026-05-25T14:57:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Investors Heavily Search Novo Nordisk A/S (NVO): Here is What You Need to Know",
                 "summary": "Zacks.com users have recently been watching Novo Nordisk (NVO) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.proactiveinvestors.com/companies/news/1092762/novo-nordisk-faces-new-glp-1-rival-as-eli-lilly-s-triple-agonist-sets-weight-loss-record-1092762.html",
                 "publishDate": "2026-05-22T15:04:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "LLY Reports Third Phase III Win for Next-Generation Obesity Drug",
-                "summary": "Eli Lilly's retatrutide delivers its third phase III win, showing up to 28.3% weight loss at 80 weeks and broader gains across obesity-related measures.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lly-reports-third-phase-iii-143400347.html",
-                "publishDate": "2026-05-22T14:34:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -610,6 +610,16 @@
         },
         "NEWS": [
             {
+                "title": "SSR Mining Is Selling Its Interest in the Copler Mine for $1.5 Billion. Is This a Positive Sign for the Mining Stock?",
+                "summary": "The gold miner is coming off a strong year and expects this year to be even better as it builds a strong balance sheet.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/25/ssr-mining-is-selling-its-interest-in-the-copler/",
+                "publishDate": "2026-05-25T15:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SSR Mining Hod Maden Exit Refocuses Portfolio And Valuation Debate",
                 "summary": "SSR Mining (TSX:SSRM) has agreed to divest its 20% stake and management role in the Hod Maden project in T\u00fcrkiye to Lidya Mines. As part of the transaction, SSR Mining will receive a 4% uncapped net smelter return royalty on future production from Hod Maden. This move completes the company\u2019s transition toward a portfolio focused solely on assets in the Americas. For investors tracking TSX:SSRM, this deal marks a clear shift in how the company is shaping its portfolio. The stock last closed...",
                 "source": "Simply Wall St.",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-upgraded-buy-160004244.html",
                 "publishDate": "2026-05-18T16:00:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSRM or RS: Which Is the Better Value Stock Right Now?",
-                "summary": "SSRM vs. RS: Which Stock Is the Better Value Option?",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssrm-rs-better-value-stock-154004609.html",
-                "publishDate": "2026-05-18T15:40:04Z",
                 "premium": false,
                 "freemium": false
             }
