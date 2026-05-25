@@ -20,7 +20,7 @@
             "marketCap": 199254425600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.852776
+            "yearTarget": 46.84708
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "The $2 Trillion Underwriting Case: Inside Chamath\u2019s Blockbuster SpaceX Math",
+                "summary": "During a highly anticipated segment on the latest All-In Podcast, Chamath Palihapitiya laid out a detailed underwriting case to justify why SpaceX is worth a full two trillion dollars right now. He explained that a twenty-times sales multiple is actually a bargain when you properly measure it against the massive commercial markets that Starlink and ... The $2 Trillion Underwriting Case: Inside Chamath\u2019s Blockbuster SpaceX Math",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/25/the-2-trillion-underwriting-case-inside-chamaths-blockbuster-spacex-math/",
+                "publishDate": "2026-05-25T18:42:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Is Coming. These Are the 3 Most Important Numbers From Its S-1 Filing",
+                "summary": "SpaceX stock is expected to begin trading in a few weeks.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/25/the-spacex-ipo-is-coming-these-are-the-3-most-impo/",
+                "publishDate": "2026-05-25T18:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Want SpaceX Stock Before the IPO? This Under-the-Radar Play Gives You a Back Door In.",
                 "summary": "EchoStar provides one of the few public market ways to get exposure to SpaceX before the IPO.",
                 "source": "Motley Fool",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://coingape.com/block-of-fame/pulse/base-ai-agents-turn-1-5t-spacex-ipo-into-12-minute-research-job-heres-how/",
                 "publishDate": "2026-05-25T11:43:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Is A 'Money Furnace,' Former Hedge Fund Manager Says As Filing Reveals $4.3 Billion Quarterly Loss",
-                "summary": "Elon Musk\u2019s SpaceX is racing toward what may be the largest IPO in history, but Patrick Boyle, former hedge fund manager, says the numbers look more like a science experiment than a business. He called SpaceX a \u201cmoney furnace\u201d, hours...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-money-furnace-former-hedge-113054242.html",
-                "publishDate": "2026-05-25T11:30:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Could Raise $75 Billion. History Suggests This Stock Will Be a Bigger Winner Than SpaceX Itself.",
-                "summary": "Nvidia is positioned to be a quiet beneficiary of SpaceX's public market debut.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/25/the-spacex-ipo-could-raise-75-billion-history-says/",
-                "publishDate": "2026-05-25T08:43:00Z",
                 "premium": false,
                 "freemium": false
             }
