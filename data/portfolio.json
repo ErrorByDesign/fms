@@ -20,7 +20,7 @@
             "marketCap": 199254425600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.814465
+            "yearTarget": 46.82854
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Calls Off Starship V3 Launch, Elon Musk Says 'Another' Attempt Tomorrow Provided This Problem Is Fixed Tonight",
+                "summary": "SpaceX scrubbed the first launch of its third-generation Starship rocket system from its Starbase headquarters in Texas on Thursday, delaying a high-stakes test of Elon Musk's upgraded vehicle as the company moves toward a potentially record-setting public listing. Launch Scrubbed...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-calls-off-starship-v3-213211933.html",
+                "publishDate": "2026-05-24T21:32:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX stock is about to join this growing constellation of public companies building a space-based economy",
+                "summary": "In addition to rocket companies that launch payloads into orbit, others in the sector develop satellites and vehicles or provide space-based services like communications or imagery.",
+                "source": "Fortune",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-join-growing-constellation-193309076.html",
+                "publishDate": "2026-05-24T19:33:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant",
                 "summary": "Elon Musk-led commercial spaceflight giant SpaceX\u2018s IPO could become a problem for Tesla Inc. investors and shareholders as the market readies itself for the June IPO date. Muskonomy The upcoming IPO could take investors\u2019 appetite away from Tesla and onto...",
                 "source": "Benzinga",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-next-gen-rocket-key-122900732.html",
                 "publishDate": "2026-05-24T12:29:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Intuitive Machines Wins 2 NASA Contracts, Neither of Which Matters Much",
-                "summary": "Intuitive Machines keeps growing and winning contracts -- but none so big as the ones it's already won.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/24/intuitive-machines-wins-2-nasa-contracts-neither-o/",
-                "publishDate": "2026-05-24T12:28:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Intel Joins SpaceX AI Satellites Raising Questions On Valuation And Growth",
-                "summary": "Intel and SpaceX have announced a partnership in semiconductor fabrication for AI-driven satellite networks. The collaboration is tied to SpaceX's recent S-1 filing, which identifies Intel as a core partner in a new chip facility for next-generation AI compute satellites. The move introduces Intel as a supplier of compute hardware for space-based AI clusters, extending the company's reach in global compute supply chains. Intel, NasdaqGS:INTC, is increasingly tied to large scale AI...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/intel-joins-spacex-ai-satellites-121037464.html",
-                "publishDate": "2026-05-24T12:10:37Z",
                 "premium": false,
                 "freemium": false
             }
