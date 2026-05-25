@@ -20,7 +20,7 @@
             "marketCap": 199254425600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.815853
+            "yearTarget": 46.849857
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Investors Heavily Search Novo Nordisk A/S (NVO): Here is What You Need to Know",
+                "summary": "Zacks.com users have recently been watching Novo Nordisk (NVO) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-novo-nordisk-130005820.html",
+                "publishDate": "2026-05-25T13:00:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly Just Made a Game-Changing Move in the Billion-Dollar Weight Loss Drug Space. Here's What You Need to Know.",
+                "summary": "The pharma giant is taking steps to expand its portfolio.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/25/eli-lilly-made-game-changing-move/",
+                "publishDate": "2026-05-25T09:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "How The Hims & Hers Health (HIMS) Story Is Shifting With GLP\u20111 Hopes And Margin Questions",
                 "summary": "The blended fair value estimate for Hims & Hers Health has moved from US$24.31 to US$26.82 per share, a change of around 10% in the latest update. That shift reflects a mix of more constructive views tied to the Novo Nordisk partnership and new product optionality, set against ongoing concerns around margins, regulation and execution that keep analyst opinions divided. As you read on, you will see how these moving pieces shape the evolving story and what to watch next in the analyst...",
@@ -109,26 +129,6 @@
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/lly-reports-third-phase-iii-143400347.html",
                 "publishDate": "2026-05-22T14:34:00Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Buoyed by Robust Corporate Earnings Season",
-                "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.5% and the actively trad",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-131038113.html",
-                "publishDate": "2026-05-22T13:10:38Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Update: Market Chatter: Novo Nordisk, Eli Lilly Weight-Loss Drugs Show Promise in Slowing, Preventing Cancer",
-                "summary": "(Updates with Novo Nordisk's response in the fourth paragraph.) Novo Nordisk's (NVO) Ozempic and",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/market-chatter-novo-nordisk-eli-125335120.html",
-                "publishDate": "2026-05-22T12:53:35Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -322,12 +322,92 @@
         },
         "NEWS": [
             {
-                "title": "Elon Musk wants to put data centers in space \u2014 here's what that could actually look like",
-                "summary": "SpaceX founder Elon Musk has said that he wants to put data centers in space for efficiency. One expert told Yahoo Finance how it would actually work.",
+                "title": "SpaceX and OpenAI IPOs could push the AI trade deeper into bubble territory: Chart of the Day",
+                "summary": "SpaceX and OpenAI IPOs could ush the AI trade deeper into bubble territory as bonds raise the cost of waiting.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/elon-musk-wants-to-put-data-centers-in-space--heres-what-that-could-actually-look-like-143000204.html",
-                "publishDate": "2026-05-24T14:30:00Z",
+                "url": "https://finance.yahoo.com/markets/article/spacex-and-openai-ipos-could-push-the-ai-trade-deeper-into-bubble-territory-chart-of-the-day-120000795.html",
+                "publishDate": "2026-05-25T12:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Nasdaq\u2019s AI Fast\u2011Track Will Reshape Big Tech \u2014 The S&P Might Be Ready to Change the Rules, Too",
+                "summary": "As the biggest IPOs the world has ever seen touch down, the market, as we know it, is about to change its composition in a big way, especially at the top. With the Nasdaq 100 poised to fast-track SpaceX, Anthropic, and OpenAI in just weeks after their debuts, questions linger about what the S&P 500 ... The Nasdaq\u2019s AI Fast\u2011Track Will Reshape Big Tech \u2014 The S&P Might Be Ready to Change the Rules, Too",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/25/the-nasdaqs-ai-fast%e2%80%91track-will-reshape-big-tech-and-put-the-index-in-a-different-league-from-the-sp-500/",
+                "publishDate": "2026-05-25T13:24:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX\u2019s $2 Trillion Pitch: Is Elon Musk Quietly Building a Backup Internet for Civilization?",
+                "summary": "On a recent All-In Podcast episode dissecting SpaceX\u2019s S-1 filing, guest investor Gavin Baker and the hosts framed Elon Musk\u2019s privately held rocket and connectivity empire as something more ambitious than a high-growth tech company. David Friedberg argued that \u201chaving a space-based communication network, space-based data centers, and space-based communication back down to Earth wireless\u201d ... SpaceX\u2019s $2 Trillion Pitch: Is Elon Musk Quietly Building a Backup Internet for Civilization?",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/25/spacexs-2-trillion-pitch-is-elon-musk-quietly-building-a-backup-internet-for-civilization/",
+                "publishDate": "2026-05-25T13:22:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Asks 'Would You Really Want There To Be No Hate In The World? Like Really None?' \u2014 Says Maybe You Need The 'Lows' To Appreciate The Highs",
+                "summary": "A world with no hate sounds great until Elon Musk starts wondering whether humans would even recognize happiness anymore. The Tesla and SpaceX CEO drifted into philosophy during a sprawling conversation about artificial intelligence, human nature and dystopian futures, raising...",
+                "source": "Benzinga",
+                "category": "entertainment",
+                "url": "https://www.yahoo.com/entertainment/celebrity/articles/elon-musk-asks-really-want-130111379.html",
+                "publishDate": "2026-05-25T13:01:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Commercial Space Economy Just Crossed a Real Revenue Threshold and After Following This Industry for Years These Are the 3 ETFs Worth Owning",
+                "summary": "The commercial space sector has crossed into recurring commercial revenue at scale. SpaceX\u2019s Starlink unit is now throwing off subscription cash flow at a scale that supports an IPO pipeline being shepherded by Bank of America as lead underwriter. Pure-play satellite operators are booking recurring service revenue rather than one-off launch fees. Even prime defense ... The Commercial Space Economy Just Crossed a Real Revenue Threshold and After Following This Industry for Years These Are the 3 E",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/25/the-commercial-space-economy-just-crossed-a-real-revenue-threshold-and-after-following-this-industry-for-years-these-are-the-3-etfs-worth-owning/",
+                "publishDate": "2026-05-25T12:13:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Posthaste: Worried about a market bubble? You ain't seen nothing yet, warns top BofA strategist",
+                "summary": "Bubble brewing that rivals the roaring '20s, but bulls won't sell until these two things happen",
+                "source": "Financial Post",
+                "category": "finance",
+                "url": "https://financialpost.com/news/market-bubble-brewing-rivals-roaring-20s-warns-top-strategist",
+                "publishDate": "2026-05-25T12:07:08Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "AI Agents on Base Turn $1.5T SpaceX IPO Into 12-Minute Research Job \u2013 Here\u2019s How",
+                "summary": "AI Agents:- The upcoming SpaceX IPO, expected to be valued between $1.5 trillion and $2 trillion, is already shaping up to be one of the biggest public listings in recent history. Investors are rushing to understand the company\u2019s financials, growth projections, and long-term risks ahead of its expected Nasdaq debut next week. However, a new",
+                "source": "CoinGape",
+                "category": "finance",
+                "url": "https://coingape.com/block-of-fame/pulse/base-ai-agents-turn-1-5t-spacex-ipo-into-12-minute-research-job-heres-how/",
+                "publishDate": "2026-05-25T11:43:44Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Is A 'Money Furnace,' Former Hedge Fund Manager Says As Filing Reveals $4.3 Billion Quarterly Loss",
+                "summary": "Elon Musk\u2019s SpaceX is racing toward what may be the largest IPO in history, but Patrick Boyle, former hedge fund manager, says the numbers look more like a science experiment than a business. He called SpaceX a \u201cmoney furnace\u201d, hours...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-money-furnace-former-hedge-113054242.html",
+                "publishDate": "2026-05-25T11:30:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Could Raise $75 Billion. History Suggests This Stock Will Be a Bigger Winner Than SpaceX Itself.",
+                "summary": "Nvidia is positioned to be a quiet beneficiary of SpaceX's public market debut.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/25/the-spacex-ipo-could-raise-75-billion-history-says/",
+                "publishDate": "2026-05-25T08:43:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -338,86 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-calls-off-starship-v3-213211933.html",
                 "publishDate": "2026-05-24T21:32:11Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX stock is about to join this growing constellation of public companies building a space-based economy",
-                "summary": "In addition to rocket companies that launch payloads into orbit, others in the sector develop satellites and vehicles or provide space-based services like communications or imagery.",
-                "source": "Fortune",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-stock-join-growing-constellation-193309076.html",
-                "publishDate": "2026-05-24T19:33:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla Investors Beware? SpaceX IPO Could Pull Cash, Attention And Musk Away From EV Giant",
-                "summary": "Elon Musk-led commercial spaceflight giant SpaceX\u2018s IPO could become a problem for Tesla Inc. investors and shareholders as the market readies itself for the June IPO date. Muskonomy The upcoming IPO could take investors\u2019 appetite away from Tesla and onto...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-investors-beware-spacex-ipo-180153130.html",
-                "publishDate": "2026-05-24T18:01:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Gary Black Explains Why He's 'Not Interested' In SpaceX IPO Despite All The Hype, Investor Explains When He's Likely To Buy The Stock",
-                "summary": "Investor Gary Black said on Thursday that he is not eager to buy into SpaceX's expected initial public offering, arguing that the Elon Musk-led rocket and satellite company appears too expensive at a valuation that may approach $1.75 trillion. Black...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/gary-black-explains-why-hes-173119085.html",
-                "publishDate": "2026-05-24T17:31:19Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s Bugs Bunny Moment: Will SpaceX IPO Tank Tesla Stock?",
-                "summary": "The episode aired in 1948, but the idea is strangely valid today, except that it\u2019s Elon Musk squaring off with himself.  SpaceX is on the cusp of its initial public offering, which will raise a record amount of money.  SpaceX plans to offer a relatively large amount of its stock to smaller retail investors, the same ones who hold Tesla shares.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/elon-musk-spacex-ipo-tesla-stock-3f672899?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-24T16:21:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "BofA raises red flag on SpaceX, OpenAI IPOs",
-                "summary": "Markets do not crash when investors are afraid. They crash when investors are convinced the rules have changed, when even the most cautious money managers find themselves crowded into the same trade because the alternative is missing the year. That is roughly where the US stock market sits in late ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/investing/bofa-raises-red-flag-on-spacex-openai-ipos",
-                "publishDate": "2026-05-24T15:07:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Did SpaceX\u2019s $28.5 Trillion Bombshell Reveal Elon Musk\u2019s Genius \u2014 or Peak Galaxy Brain?",
-                "summary": "The stock market has spent the past year rewarding companies tied to artificial intelligence, data centers, and energy infrastructure. Yet all of those themes may soon take a back seat to a single IPO. On June 12, SpaceX is expected to begin trading publicly in what many investors believe could become the largest IPO in ... Did SpaceX\u2019s $28.5 Trillion Bombshell Reveal Elon Musk\u2019s Genius \u2014 or Peak Galaxy Brain?",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/24/did-spacexs-28-5-trillion-bombshell-reveal-elon-musks-genius-or-peak-galaxy-brain/",
-                "publishDate": "2026-05-24T14:59:22Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Is Going Public: Here's the 1 Thing the Company Must Get Right to Justify a $1.5 Trillion Valuation",
-                "summary": "Is SpaceX worth $1.5 trillion? It had better do this.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/24/spacex-is-going-public-1-and-half-trillion/",
-                "publishDate": "2026-05-24T14:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX\u2019s next-gen rocket is the key to its sky-high valuation, early investor says: \u2018Starship also enables all kinds of frontier markets\u2019",
-                "summary": "SpaceX\u2019s launch business gives it \"access to orbit,\" said Space Capital CEO Chad Anderson.",
-                "source": "Fortune",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-next-gen-rocket-key-122900732.html",
-                "publishDate": "2026-05-24T12:29:00Z",
                 "premium": false,
                 "freemium": false
             }
