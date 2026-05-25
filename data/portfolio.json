@@ -20,7 +20,7 @@
             "marketCap": 199254425600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.84635
+            "yearTarget": 46.844307
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Veeva Systems' AI & Vault CRM Strength Signal More Upside Ahead",
+                "summary": "VEEV's growing Vault CRM adoption and AI momentum, backed by major pharma wins, reinforce confidence in its long-term growth outlook.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/veeva-systems-ai-vault-crm-163000900.html",
+                "publishDate": "2026-05-25T16:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "CHMP Backs EU Approval of Novo Nordisk's Wegovy Pill for Obesity",
                 "summary": "NVO's Wegovy pill gets CHMP backing, moving it closer to becoming the first oral GLP-1 treatment approved in the EU for weight management.",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-close-higher-friday-155753252.html",
                 "publishDate": "2026-05-22T15:57:53Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk faces new GLP-1 rival as Eli Lilly's triple agonist sets weight-loss record",
-                "summary": "Citi said Eli Lilly and Co's (NYSE:LLY) experimental obesity drug retatrutide has set a new competitive benchmark for the GLP-1 weight-loss market after a pivotal trial showed patients losing 28% of their body weight over 80 weeks at the highest dose. The results from the TRIUMPH-1 trial, the...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1092762/novo-nordisk-faces-new-glp-1-rival-as-eli-lilly-s-triple-agonist-sets-weight-loss-record-1092762.html",
-                "publishDate": "2026-05-22T15:04:00Z",
-                "premium": false,
                 "freemium": false
             }
         ],
