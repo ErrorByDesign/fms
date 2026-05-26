@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.355,
+        "price": 44.315,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.3456396,
-            "marketCap": 196573184000,
+            "change": -1.4346095,
+            "marketCap": 196395909120,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.78008
+            "yearTarget": 46.790054
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.73,
+        "price": 1.765,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.464482,
-            "marketCap": 162452688,
+            "change": -3.621173,
+            "marketCap": 165739296,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -342,6 +342,26 @@
                 "freemium": false
             },
             {
+                "title": "Stock Market Today: Nasdaq Leads; Micron Hits Milestone, Drone Deal Lifts This Name (Live Coverage)",
+                "summary": "Stock Market Today: The Dow Jones index falls Tuesday. S&P 500 hits a new high as Micron joins $1 trillion club.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-oil-prices-tumble/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-26T19:26:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Redwire (RDW) Stock Is Up Today",
+                "summary": "Shares of aerospace and defense company Redwire (NYSE:RDW) jumped 27.3% in the morning session after rocket and satellite stocks rallied, sparked by SpaceX's public filing for what was expected to be the largest-ever initial public offering.",
+                "source": "StockStory",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-redwire-rdw-stock-today-191928975.html",
+                "publishDate": "2026-05-26T19:19:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "AI Stocks: SpaceX, OpenAI IPO Buzz Fuel Next Leg Of Rally. Salesforce, Snowflake Earnings Due.",
                 "summary": "AI stocks rally amid SpaceX, OpenAI IPO buzz as investors eye surging demand for compute capacity and monetization.",
                 "source": "Investor's Business Daily",
@@ -382,16 +402,6 @@
                 "freemium": false
             },
             {
-                "title": "Stock Market Today: Nasdaq Shines; Micron Joins $1 Trillion Club, SpaceX Helps Lift These Names (Live Coverage)",
-                "summary": "Stock Market Today: The Dow Jones index falls Tuesday. Micron joins elite club as Qualcomm climbs on TikTok news.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-oil-prices-tumble/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-26T17:52:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "NASA Space ETF\u2019s Gains Have Surpassed Broader US Indices Since Its Recent Listing",
                 "summary": "Shares of Space ETFs, rocket manufacturers and satellite operators have recently surged ahead of SpaceX IPO.",
                 "source": "Stocktwits",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-26T17:37:48Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "XOVR Promised Pre IPO SpaceX Upside, But It Is Down 2% YTD While the S&P 500 Is Up 9%",
-                "summary": "The pitch for ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) is simple. You cannot buy SpaceX shares on your brokerage app, but XOVR can, and the fund packages that exposure inside a normal ticker you trade like any other ETF. XOVR now holds ~$281 million in SpaceX, which works out to about 23% of the fund. Yet ... XOVR Promised Pre IPO SpaceX Upside, But It Is Down 2% YTD While the S&P 500 Is Up 9%",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/26/xovr-promised-pre-ipo-spacex-upside-but-it-is-down-2-ytd-while-the-sp-500-is-up-9/",
-                "publishDate": "2026-05-26T16:59:11Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.44,
+        "price": 29.54,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7356428,
-            "marketCap": 21175320576,
+            "change": -1.4018631,
+            "marketCap": 21247248384,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.73,
+        "price": 30.78,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.3995297,
-            "marketCap": 6376200704,
+            "change": 3.5666265,
+            "marketCap": 6386575360,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
