@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.695,
+        "price": 44.43,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.58941144,
-            "marketCap": 198080004096,
+            "change": -1.1788229,
+            "marketCap": 196905566208,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.75374
+            "yearTarget": 46.751343
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Track Higher in Tuesday Trading",
+                "summary": "European equities traded in the US as American depositary receipts were trending higher late Tuesday",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150915689.html",
+                "publishDate": "2026-05-26T15:09:15Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Can EU Label Expansions of NVO's GLP-1 Drugs Spur Sales Growth?",
+                "summary": "Novo Nordisk's EU label expansions may widen semaglutide use and boost volumes, but pricing pressure and Lilly rivalry can limit recovery.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eu-label-expansions-nvos-glp-141400149.html",
+                "publishDate": "2026-05-26T14:14:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk and Eli Lilly Just Delivered Potential Breakthrough for Cancer Patients",
                 "summary": "New Cancer Research Could Be a Massive Game Changer for Ozempic and Mounjaro",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-26T07:08:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Don't Buy Viking Therapeutics Stock Until You Read This",
-                "summary": "It may be too late for Viking to take on the \"dark horse\" role in the GLP-1 wars.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/25/dont-buy-hot-viking-therapeutics-until-you/",
-                "publishDate": "2026-05-26T00:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Assessing Novo Nordisk (CPSE:NOVO B) Valuation After EU Boost For Wegovy Oral Pill",
-                "summary": "The recent positive opinion from the EMA\u2019s Committee for Medicinal Products for Human Use on the Wegovy pill has pushed Novo Nordisk (CPSE:NOVO B) back into focus for investors watching obesity and cardiovascular treatments. See our latest analysis for Novo Nordisk. These Wegovy updates have arrived during a strong short term rebound in Novo Nordisk\u2019s share price, with a 30 day share price return of 11.18% and 90 day return of 18.61%. However, the year to date share price return is down...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/assessing-novo-nordisk-cpse-novo-001859977.html",
-                "publishDate": "2026-05-26T00:18:59Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.76,
+        "price": 1.77,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.8251393,
-            "marketCap": 165269792,
+            "change": -3.2434218,
+            "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "Tech stocks today: AI stocks look to add to gains as IPO market heats up",
-                "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia\u2019s latest earnings mean for the artificial intelligence trade.",
+                "title": "Tech stocks today: Micron joins $1 trillion club, Qualcomm stock jumps on report of ByteDance chip deal",
+                "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia's latest earnings mean for the artificial intelligence trade.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-ai-stocks-look-to-add-to-gains-as-ipo-market-heats-up-100000410.html",
+                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-micron-joins-1-trillion-club-qualcomm-stock-jumps-on-report-of-bytedance-chip-deal-100000715.html",
                 "publishDate": "2026-05-26T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "American Airlines Starlink Wi-Fi deal: 500 Airbus planes",
+                "summary": "The carrier will install SpaceX's satellite internet on Airbus jets starting early next year, joining United, Southwest, and Alaska Airlines",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/american-airlines-starlink-wifi-airbus-narrow-body-052626",
+                "publishDate": "2026-05-26T15:29:59Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "American Airlines to Offer Starlink Internet on Flights",
+                "summary": "SpaceX has pushed to become a dominant in-flight internet provider, reaching deals with United, Southwest and Alaska Air.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/airlines/american-airlines-to-offer-starlink-internet-on-flights-dcd07845?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-26T15:00:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -342,12 +362,32 @@
                 "freemium": false
             },
             {
+                "title": "Tesla Stock Trades Higher as Investors Remain Focused on SpaceX",
+                "summary": "Tesla stock is going for a second consecutive weekly gain. Shares are in the green in premarket trading Tuesday.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/tesla-stock-spacex-ipo-elon-musk-b811dd8f?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-26T14:27:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Roadshow Begins After Starship Launch",
                 "summary": "Space and satellite stocks are surging as SpaceX begins its IPO roadshow. Elon Musk's company filed last week for what stands to be the biggest initial public offering ever. On Friday, the company's Starship launched and successfully deployed mock satellites before returning to Earth safely. Bloomberg's Ed Ludlow reports.",
                 "source": "Bloomberg",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/spacex-roadshow-begins-starship-launch-142357566.html",
                 "publishDate": "2026-05-26T14:23:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Is a Game You Play at Your Own Risk",
+                "summary": "The largest U.S. IPOs tend to underperform the market, with a not-insignificant share of those stocks delivering negative returns.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-buy-stock-2a4acd38?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-26T14:10:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -380,46 +420,6 @@
                 "publishDate": "2026-05-26T14:05:09Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX IPO filing reveals Mars ambitions, Grok risks and unusual spending disclosures",
-                "summary": "SpaceX\u2019s newly released investor prospectus has offered the public its clearest look yet at the finances, ambitions and internal workings of Elon Musk\u2019s flagship company ahead of its planned $1. 75 trillion stock market debut next month.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/28958/spacex-ipo-filing-reveals-mars-ambitions-grok-risks-and-unusual-spending-disclosures",
-                "publishDate": "2026-05-26T14:03:03Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO targets retail investors as hype builds around record-breaking debut",
-                "summary": "After several sluggish years for the IPO market, SpaceX is preparing to make its public market debut in what could become the largest stock offering in history. The company plans to begin trading on the Nasdaq on June 12 under the ticker symbol SPCX following the filing of its S-1 registration statement.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/28956/spacex-ipo-targets-retail-investors-as-hype-builds-around-record-breaking-debut",
-                "publishDate": "2026-05-26T14:01:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO filing reveals mounting AI losses and Musk\u2019s tight control as company bets on future technologies",
-                "summary": "SpaceX has publicly released its IPO filing, offering investors a detailed look at the scale of Elon Musk\u2019s artificial intelligence ambitions, the financial losses tied to those investments and the company\u2019s reliance on technologies and markets that are still largely undeveloped. The filing outlines a strategy heavily focused on future opportunities ranging from Mars colonisation to space-based AI data centres, as the company seeks to evolve beyond its core rocket and satellite operations into a",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/28954/spacex-ipo-filing-reveals-mounting-ai-losses-and-musks-tight-control-as-company-bets-on-future-technologies",
-                "publishDate": "2026-05-26T14:00:34Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "He Loaned Elon Musk $1 Million When Tesla Was Nearly Bankrupt \u2014 Now He\u2019s About to Make More Than $100 Billion",
-                "summary": "Elon Musk's best friend Antonio Gracias bet early on Musk. His 7.3% SpaceX stake could soon make him one of the 50 wealthiest people alive.",
-                "source": "Entrepreneur",
-                "category": "finance",
-                "url": "https://www.entrepreneur.com/business-news/he-loaned-elon-musk-1-million-when-tesla-was-nearly-bankrupt",
-                "publishDate": "2026-05-26T13:53:18Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.955,
+        "price": 29.81,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.016686117,
-            "marketCap": 21545744384,
+            "change": -0.5006663,
+            "marketCap": 21441449984,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.58,
+        "price": 30.65,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8936765,
-            "marketCap": 6345076736,
+            "change": 3.1292071,
+            "marketCap": 6359601152,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
