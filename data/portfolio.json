@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.395,
+        "price": 44.315,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2566695,
-            "marketCap": 196750458880,
+            "change": -1.4346095,
+            "marketCap": 196395909120,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.767925
+            "yearTarget": 46.776
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.75,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2786918,
-            "marketCap": 166208816,
+            "change": -4.371587,
+            "marketCap": 164330752,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,42 @@
         },
         "NEWS": [
             {
+                "title": "American Airlines stock jumps as the airline picks Starlink for in-flight Wi-Fi service",
+                "summary": "American Airlines struck a deal with SpaceX's Starlink for wifi service on more than 500 of its jets, the latest carrier to go with the satellite internet provider, coming weeks before SpaceX's highly anticipated public offering.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/american-airlines-stock-jumps-as-the-airline-picks-starlink-for-in-flight-wi-fi-service-170454812.html",
+                "publishDate": "2026-05-26T17:04:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tech stocks today: Micron joins $1 trillion club, Qualcomm stock jumps on report of ByteDance chip deal",
                 "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia's latest earnings mean for the artificial intelligence trade.",
                 "source": "Yahoo Finance",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-micron-joins-1-trillion-club-qualcomm-stock-jumps-on-report-of-bytedance-chip-deal-100000715.html",
                 "publishDate": "2026-05-26T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "XOVR Promised Pre IPO SpaceX Upside, But It Is Down 2% YTD While the S&P 500 Is Up 9%",
+                "summary": "The pitch for ERShares Private-Public Crossover ETF (NYSEARCA:XOVR) is simple. You cannot buy SpaceX shares on your brokerage app, but XOVR can, and the fund packages that exposure inside a normal ticker you trade like any other ETF. XOVR now holds ~$281 million in SpaceX, which works out to about 23% of the fund. Yet ... XOVR Promised Pre IPO SpaceX Upside, But It Is Down 2% YTD While the S&P 500 Is Up 9%",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/26/xovr-promised-pre-ipo-spacex-upside-but-it-is-down-2-ytd-while-the-sp-500-is-up-9/",
+                "publishDate": "2026-05-26T16:59:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "American Airlines Stock On Track To Hit 4-Month High Amid Plans To Add Starlink Wi-Fi To 500+ Aircraft",
+                "summary": "The airline is expanding its in-flight connectivity push through a partnership with Starlink to improve passenger streaming and browsing experience.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/american-airlines-aal-starlink-wifi-500-aircraft-stock-rise-premarket/cZgO7ZmReqN",
+                "publishDate": "2026-05-26T16:43:31Z",
                 "premium": false,
                 "freemium": false
             },
@@ -352,6 +382,16 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX\u2019s AI Pursuits Have Yet to Take Off",
+                "summary": "Plus, California studies AI job losses, Anthropic\u2019s revenue soars and Nvidia plays the role of $5 trillion underdog.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/ai/spacexs-ai-pursuits-have-yet-to-take-off-3c25e91e?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-26T16:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Intuitive Machines Stock Keeps Going Up",
                 "summary": "Intuitive Machines already has one $4 billion-plus NASA contract. Is it about to win another one?",
                 "source": "Motley Fool",
@@ -372,52 +412,12 @@
                 "freemium": false
             },
             {
-                "title": "Exclusive-Pentagon spars with SpaceX over Starlink price hike during Iran war",
-                "summary": "By David Jeans NEW YORK, May 26 (Reuters) - As U.S. kamikaze drones guided by Elon Musk\u2019s Starlink network began to make visible gains in the war against Iran, senior SpaceX officials reached a",
-                "source": "Reuters",
+                "title": "Rocket, Satellite Stocks Surge\u00a0as SpaceX IPO Fuels Euphoria",
+                "summary": "(Bloomberg) -- Space and satellite-related stocks soared Tuesday as investor enthusiasm around the industry intensified after Elon Musk\u2019s SpaceX filed for a public offering last week.Most Read from BloombergNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump Doctor Visit Renews Health Scrutiny as 80th Birthday NearsTrump Says He\u2019ll Announce Negotiated Deal With Iran ShortlyRubio Sees Good News Coming on Hormuz as Iran Talks ContinueUS, Iran Inch Toward Deal as Gaps Remain on Uranium, S",
+                "source": "Bloomberg",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/news/exclusive-pentagon-spars-spacex-over-100228916.html",
-                "publishDate": "2026-05-26T15:43:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Could Rewrite the Record Books for Public Listings",
-                "summary": "A potential IPO from SpaceX could dramatically reshape the history of global public offerings, with the Elon Musk-led company reportedly targeting a valuation that would eclipse every previous stock market debut. If current expectations hold, SpaceX could raise far more capital than any company before it and potentially become the first IPO to debut with a valuation approaching $2 trillion.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/28964/spacex-ipo-could-rewrite-the-record-books-for-public-listings",
-                "publishDate": "2026-05-26T15:14:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "American Airlines to Offer Starlink Internet on Flights",
-                "summary": "SpaceX has pushed to become a dominant in-flight internet provider, reaching deals with United, Southwest and Alaska Air.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/business/airlines/american-airlines-to-offer-starlink-internet-on-flights-dcd07845?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-26T15:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "xAI tells staff to limit contact with Cursor employees amid potential deal",
-                "summary": "Investing.com -- Employees at Elon Musk\u2019s xAI received instructions from the company\u2019s general counsel to restrict their interactions with workers from Cursor, an AI coding startup that xAI may acquire, Bloomberg reported on Tuesday.",
-                "source": "Investing.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/xai-tells-staff-limit-contact-145508814.html",
-                "publishDate": "2026-05-26T14:55:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla Stock Trades Higher as Investors Remain Focused on SpaceX",
-                "summary": "Tesla stock is going for a second consecutive weekly gain. Shares are in the green in premarket trading Tuesday.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/tesla-stock-spacex-ipo-elon-musk-b811dd8f?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-26T14:27:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-satellite-stocks-surge-spacex-154532336.html",
+                "publishDate": "2026-05-26T15:45:32Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.865,
+        "price": 29.705,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.31708717,
-            "marketCap": 21481011200,
+            "change": -0.8511321,
+            "marketCap": 21365927936,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.91,
+        "price": 30.92,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.00404,
-            "marketCap": 6413549056,
+            "change": 4.037688,
+            "marketCap": 6415624192,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
