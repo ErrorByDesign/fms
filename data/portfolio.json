@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.45,
+        "price": 44.395,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.1343379,
-            "marketCap": 196994203648,
+            "change": -1.2566695,
+            "marketCap": 196750458880,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.767345
+            "yearTarget": 46.767925
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "AST SpaceMobile Rockets 20%, Planet Labs Soars 15%, Rocket Lab Climbs 6% as SpaceX IPO Lifts the Whole Sector",
+                "summary": "Shares of AST SpaceMobile (NASDAQ:ASTS) are climbing 20% in midday trading on Tuesday. Planet Labs (NYSE:PL) is up 15%, Rocket Lab (NASDAQ:RKLB) is gaining 6%. The rally is being driven by renewed investor focus on SpaceX\u2019s pending public listing. SpaceX filed its S-1 last week. The document frames a roughly $1.75 trillion targeted valuation against ... AST SpaceMobile Rockets 20%, Planet Labs Soars 15%, Rocket Lab Climbs 6% as SpaceX IPO Lifts the Whole Sector",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/26/ast-spacemobile-rockets-20-planet-labs-soars-15-rocket-lab-climbs-6-as-spacex-ipo-lifts-the-whole-sector/",
+                "publishDate": "2026-05-26T16:40:24Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Redwire Stock Is Soaring Today",
+                "summary": "This company is in the right industry at the right time, although it's certainly given investors plenty of bullish news to latch onto of late.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/26/why-redwire-stock-is-soaring-today/",
+                "publishDate": "2026-05-26T16:09:41Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Intuitive Machines Stock Keeps Going Up",
                 "summary": "Intuitive Machines already has one $4 billion-plus NASA contract. Is it about to win another one?",
                 "source": "Motley Fool",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-26T14:27:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Roadshow Begins After Starship Launch",
-                "summary": "Space and satellite stocks are surging as SpaceX begins its IPO roadshow. Elon Musk's company filed last week for what stands to be the biggest initial public offering ever. On Friday, the company's Starship launched and successfully deployed mock satellites before returning to Earth safely. Bloomberg's Ed Ludlow reports.",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/spacex-roadshow-begins-starship-launch-142357566.html",
-                "publishDate": "2026-05-26T14:23:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Is a Game You Play at Your Own Risk",
-                "summary": "The largest U.S. IPOs tend to underperform the market, with a not-insignificant share of those stocks delivering negative returns.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-buy-stock-2a4acd38?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-26T14:10:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.72,
+        "price": 29.865,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.80106735,
-            "marketCap": 21376716800,
+            "change": -0.31708717,
+            "marketCap": 21481011200,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.68,
+        "price": 30.91,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2301514,
-            "marketCap": 6365826048,
+            "change": 4.00404,
+            "marketCap": 6413549056,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
