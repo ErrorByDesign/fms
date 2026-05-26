@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.96,
+        "price": 44.695,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.28407,
-            "marketCap": 199254425600,
+            "change": -0.58941144,
+            "marketCap": 198080004096,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.815052
+            "yearTarget": 46.75374
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,86 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk and Eli Lilly Just Delivered Potential Breakthrough for Cancer Patients",
+                "summary": "New Cancer Research Could Be a Massive Game Changer for Ozempic and Mounjaro",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-eli-lilly-just-132550586.html",
+                "publishDate": "2026-05-26T13:25:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Live Longer and Better. Does \u2019Biohacking\u2019 Really Work?",
+                "summary": "The longevity industry is booming with high-tech tests, drugs, and medical devices. What to know for your health\u2014and personal finances.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/longevity-drugs-healthcare-personal-finance-713570de?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-26T13:24:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "AMGN Stock Down 13% in 3 Months: Buy the Dip or Book Profits?",
+                "summary": "Amgen faces LOE headwinds and pricing pressure, yet key growth drugs and biosimilars continue gaining traction.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/amgn-stock-down-13-3-132100204.html",
+                "publishDate": "2026-05-26T13:21:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "If Viking Therapeutics Is Acquired, Here\u2019s Who Wins",
+                "summary": "Polymarket traders are watching one biotech more closely than any other for an acquisition. Viking Therapeutics (NASDAQ: VKTX) carries a 38.5% implied probability of being acquired before 2027, with all-time volume above $1.68 million on that single contract. The hook is obesity. Viking\u2019s VK2735 dual GLP-1/GIP agonist is arguably the most advanced obesity asset not ... If Viking Therapeutics Is Acquired, Here\u2019s Who Wins",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/26/if-viking-therapeutics-is-acquired-heres-who-wins/",
+                "publishDate": "2026-05-26T12:50:16Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "4 Large-Cap Pharma Stocks to Buy as Industry Recovery Accelerates",
+                "summary": "In the Large-Cap Pharmaceuticals industry, LLY, J&J, NVO and BAYRY are worth retaining as the industry shows some recovery.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/4-large-cap-pharma-stocks-124900514.html",
+                "publishDate": "2026-05-26T12:49:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Beat the Market the Zacks Way: ORIX, Starbucks, Alphabet in Focus",
+                "summary": "IX, SBUX and GOOGL rallied after Zacks upgrades and portfolio additions, while major indexes stayed volatile amid Fed and inflation concerns.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-orix-123400379.html",
+                "publishDate": "2026-05-26T12:34:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Prediction: These 2 Obesity Drug Stocks Could Double in 2026",
+                "summary": "These players are seeing exciting results in clinical trials.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/26/prediction-these-2-obesity-drug-stocks-could-doubl/",
+                "publishDate": "2026-05-26T08:24:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Nears EU Nod For Oral Wegovy And Investor Opportunity",
+                "summary": "Novo Nordisk (NYSE:NVO) received a positive opinion from the European Medicines Agency supporting EU approval of its oral Wegovy obesity treatment. The therapy would be the first oral GLP-1 option for obesity in Europe if formally authorized by the European Commission. The development follows a strong U.S. launch for the Wegovy pill and comes ahead of planned international rollouts. Novo Nordisk, known for its diabetes and obesity treatments, is now moving closer to bringing an oral Wegovy...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nears-eu-nod-070800752.html",
+                "publishDate": "2026-05-26T07:08:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Don't Buy Viking Therapeutics Stock Until You Read This",
                 "summary": "It may be too late for Viking to take on the \"dark horse\" role in the GLP-1 wars.",
@@ -50,86 +130,6 @@
                 "publishDate": "2026-05-26T00:18:59Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Eli Lilly Just Got a Huge Vote of Confidence From Morgan Stanley -- and It's All About Mounjaro",
-                "summary": "The efficacy of Eli Lilly's new, still-in-development GLP-1 drug is gaining attention, but don't forget its older GLP-1 drugs just yet.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/25/eli-lilly-just-got-a-huge-vote-of-confidence-from/",
-                "publishDate": "2026-05-25T23:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Veeva Systems' AI & Vault CRM Strength Signal More Upside Ahead",
-                "summary": "VEEV's growing Vault CRM adoption and AI momentum, backed by major pharma wins, reinforce confidence in its long-term growth outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/veeva-systems-ai-vault-crm-163000900.html",
-                "publishDate": "2026-05-25T16:30:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "CHMP Backs EU Approval of Novo Nordisk's Wegovy Pill for Obesity",
-                "summary": "NVO's Wegovy pill gets CHMP backing, moving it closer to becoming the first oral GLP-1 treatment approved in the EU for weight management.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/chmp-backs-eu-approval-novo-145700733.html",
-                "publishDate": "2026-05-25T14:57:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Investors Heavily Search Novo Nordisk A/S (NVO): Here is What You Need to Know",
-                "summary": "Zacks.com users have recently been watching Novo Nordisk (NVO) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-novo-nordisk-130005820.html",
-                "publishDate": "2026-05-25T13:00:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Just Made a Game-Changing Move in the Billion-Dollar Weight Loss Drug Space. Here's What You Need to Know.",
-                "summary": "The pharma giant is taking steps to expand its portfolio.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/25/eli-lilly-made-game-changing-move/",
-                "publishDate": "2026-05-25T09:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How The Hims & Hers Health (HIMS) Story Is Shifting With GLP\u20111 Hopes And Margin Questions",
-                "summary": "The blended fair value estimate for Hims & Hers Health has moved from US$24.31 to US$26.82 per share, a change of around 10% in the latest update. That shift reflects a mix of more constructive views tied to the Novo Nordisk partnership and new product optionality, set against ongoing concerns around margins, regulation and execution that keep analyst opinions divided. As you read on, you will see how these moving pieces shape the evolving story and what to watch next in the analyst...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/hims-hers-health-hims-story-080959266.html",
-                "publishDate": "2026-05-24T08:09:59Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Gain Late Afternoon",
-                "summary": "Healthcare stocks rose late Friday afternoon, with the NYSE Healthcare Index advancing 1.1% and the",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-gain-afternoon-192325167.html",
-                "publishDate": "2026-05-22T19:23:25Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Citi Raises its Price Target on Lexicon Pharmaceuticals (LXRX)",
-                "summary": "Lexicon Pharmaceuticals, Inc. (NASDAQ:LXRX) is one of the 10 Best Penny Stocks to Buy for Long Term. On May 11, 2026, Citi raised the firm\u2019s price target on Lexicon Pharmaceuticals, Inc. (NASDAQ:LXRX) to $3.10 from $2.30 and maintained a Buy rating following the company\u2019s Q1 2026 earnings report. On May 7, 2026, Lexicon Pharmaceuticals, Inc. [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/citi-raises-price-target-lexicon-184311858.html",
-                "publishDate": "2026-05-22T18:43:11Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.83,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -7.1065984,
-            "marketCap": 171843024,
+            "change": -3.8251393,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX and OpenAI IPOs could push the AI trade deeper into bubble territory: Chart of the Day",
-                "summary": "SpaceX and OpenAI IPOs could ush the AI trade deeper into bubble territory as bonds raise the cost of waiting.",
+                "title": "Tech stocks today: AI stocks look to add to gains as IPO market heats up",
+                "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia\u2019s latest earnings mean for the artificial intelligence trade.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-and-openai-ipos-could-push-the-ai-trade-deeper-into-bubble-territory-chart-of-the-day-120000795.html",
-                "publishDate": "2026-05-25T12:00:00Z",
+                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-ai-stocks-look-to-add-to-gains-as-ipo-market-heats-up-100000410.html",
+                "publishDate": "2026-05-26T10:00:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Analysis-SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
-                "summary": "Wall Street is abuzz with next month's expected blockbuster debut of Elon Musk's rocket and satellite maker SpaceX, but few of the biggest IPOs in recent years have paid off for investors who bought in when the deals came to market.  A Reuters analysis \u200cof the 50 IPOs with the highest valuations in the past five years shows that investors would have been better off buying an S&P 500 \u200cindex fund about three-quarters of the time.  An investor who bought each of the IPOs tracked \u200bby Reuters would be up an average of 27% through May 21.",
-                "source": "Reuters",
+                "title": "xAI tells staff to limit contact with Cursor employees amid potential deal",
+                "summary": "Investing.com -- Employees at Elon Musk\u2019s xAI received instructions from the company\u2019s general counsel to restrict their interactions with workers from Cursor, an AI coding startup that xAI may acquire, Bloomberg reported on Tuesday.",
+                "source": "Investing.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-spacex-debut-draws-crowd-000323470.html",
-                "publishDate": "2026-05-26T00:03:23Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/xai-tells-staff-limit-contact-145508814.html",
+                "publishDate": "2026-05-26T14:55:08Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX\u2019s IPO Is a Bet Gravity Doesn\u2019t Apply to Elon Musk",
-                "summary": "To launch the biggest offering ever, the space baron is drawing on his real power: everyday investors.",
-                "source": "The Wall Street Journal",
+                "title": "SpaceX Roadshow Begins After Starship Launch",
+                "summary": "Space and satellite stocks are surging as SpaceX begins its IPO roadshow. Elon Musk's company filed last week for what stands to be the biggest initial public offering ever. On Friday, the company's Starship launched and successfully deployed mock satellites before returning to Earth safely. Bloomberg's Ed Ludlow reports.",
+                "source": "Bloomberg",
                 "category": "finance",
-                "url": "https://www.wsj.com/tech/spacexs-ipo-is-a-bet-gravity-doesnt-apply-to-elon-musk-f798e814?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-25T21:13:00Z",
+                "url": "https://finance.yahoo.com/video/spacex-roadshow-begins-starship-launch-142357566.html",
+                "publishDate": "2026-05-26T14:23:57Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The $2 Trillion Underwriting Case: Inside Chamath\u2019s Blockbuster SpaceX Math",
-                "summary": "During a highly anticipated segment on the latest All-In Podcast, Chamath Palihapitiya laid out a detailed underwriting case to justify why SpaceX is worth a full two trillion dollars right now. He explained that a twenty-times sales multiple is actually a bargain when you properly measure it against the massive commercial markets that Starlink and ... The $2 Trillion Underwriting Case: Inside Chamath\u2019s Blockbuster SpaceX Math",
-                "source": "24/7 Wall St.",
+                "title": "Space Stock Rally Continues After SpaceX Prospectus, Starship Explosion",
+                "summary": "Space stocks continue to surge with Redwire, Rocket Lab, Firefly Aerospace among leaders after SpaceX prospectus, Starship launch.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/25/the-2-trillion-underwriting-case-inside-chamaths-blockbuster-spacex-math/",
-                "publishDate": "2026-05-25T18:42:03Z",
+                "url": "https://www.investors.com/news/spacex-ipo-momentum-starship-launch-space-stocks-rdw-rklb-fly-voyg-spir/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-26T14:08:54Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The SpaceX IPO Is Coming. These Are the 3 Most Important Numbers From Its S-1 Filing",
-                "summary": "SpaceX stock is expected to begin trading in a few weeks.",
-                "source": "Motley Fool",
+                "title": "SpaceX IPO Could Reshape the Space Industry as Investors Weigh Musk\u2019s Vision and Risks",
+                "summary": "After more than 20 years operating as a private company, SpaceX appears closer than ever to entering public markets. Reports suggesting a potential 2026 IPO \u2014 possibly valuing the company at around $1.",
+                "source": "InvestorsHub",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/25/the-spacex-ipo-is-coming-these-are-the-3-most-impo/",
-                "publishDate": "2026-05-25T18:20:00Z",
+                "url": "https://investorshub.advfn.com/market-news/article/28962/spacex-ipo-could-reshape-the-space-industry-as-investors-weigh-musks-vision-and-risks",
+                "publishDate": "2026-05-26T14:07:54Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Want SpaceX Stock Before the IPO? This Under-the-Radar Play Gives You a Back Door In.",
-                "summary": "EchoStar provides one of the few public market ways to get exposure to SpaceX before the IPO.",
-                "source": "Motley Fool",
+                "title": "Investors seeking SpaceX exposure have alternatives ahead of blockbuster IPO",
+                "summary": "Interest in commercial space investing has surged in recent years, with SpaceX emerging as one of the sector\u2019s most sought-after private companies thanks to its reusable rocket business and rapidly expanding Starlink satellite network. According to recent SEC filings, SpaceX is preparing for a potential June IPO at a valuation target of approximately $1.",
+                "source": "InvestorsHub",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/25/want-spacex-stock-ipo-under-radar-stock-sats/",
-                "publishDate": "2026-05-25T15:14:44Z",
+                "url": "https://investorshub.advfn.com/market-news/article/28960/investors-seeking-spacex-exposure-have-alternatives-ahead-of-blockbuster-ipo",
+                "publishDate": "2026-05-26T14:05:09Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Telecom Stocks Are Surging Ahead of the SpaceX IPO. This Chart Reminds Us All Rockets Come Crashing Back to Earth Eventually.",
-                "summary": "SpaceX is creating a halo around even old-school telecom stocks. The glow will soon fade.",
-                "source": "Barchart",
+                "title": "SpaceX IPO filing reveals Mars ambitions, Grok risks and unusual spending disclosures",
+                "summary": "SpaceX\u2019s newly released investor prospectus has offered the public its clearest look yet at the finances, ambitions and internal workings of Elon Musk\u2019s flagship company ahead of its planned $1. 75 trillion stock market debut next month.",
+                "source": "InvestorsHub",
                 "category": "finance",
-                "url": "https://www.barchart.com/story/news/2116500/telecom-stocks-are-surging-ahead-of-the-spacex-ipo-this-chart-reminds-us-all-rockets-come-crashing-back-to-earth-eventually",
-                "publishDate": "2026-05-25T15:00:02Z",
+                "url": "https://investorshub.advfn.com/market-news/article/28958/spacex-ipo-filing-reveals-mars-ambitions-grok-risks-and-unusual-spending-disclosures",
+                "publishDate": "2026-05-26T14:03:03Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The Nasdaq\u2019s AI Fast\u2011Track Will Reshape Big Tech \u2014 The S&P Might Be Ready to Change the Rules, Too",
-                "summary": "As the biggest IPOs the world has ever seen touch down, the market, as we know it, is about to change its composition in a big way, especially at the top. With the Nasdaq 100 poised to fast-track SpaceX, Anthropic, and OpenAI in just weeks after their debuts, questions linger about what the S&P 500 ... The Nasdaq\u2019s AI Fast\u2011Track Will Reshape Big Tech \u2014 The S&P Might Be Ready to Change the Rules, Too",
-                "source": "24/7 Wall St.",
+                "title": "SpaceX IPO targets retail investors as hype builds around record-breaking debut",
+                "summary": "After several sluggish years for the IPO market, SpaceX is preparing to make its public market debut in what could become the largest stock offering in history. The company plans to begin trading on the Nasdaq on June 12 under the ticker symbol SPCX following the filing of its S-1 registration statement.",
+                "source": "InvestorsHub",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/25/the-nasdaqs-ai-fast%e2%80%91track-will-reshape-big-tech-and-put-the-index-in-a-different-league-from-the-sp-500/",
-                "publishDate": "2026-05-25T13:24:54Z",
+                "url": "https://investorshub.advfn.com/market-news/article/28956/spacex-ipo-targets-retail-investors-as-hype-builds-around-record-breaking-debut",
+                "publishDate": "2026-05-26T14:01:53Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX\u2019s $2 Trillion Pitch: Is Elon Musk Quietly Building a Backup Internet for Civilization?",
-                "summary": "On a recent All-In Podcast episode dissecting SpaceX\u2019s S-1 filing, guest investor Gavin Baker and the hosts framed Elon Musk\u2019s privately held rocket and connectivity empire as something more ambitious than a high-growth tech company. David Friedberg argued that \u201chaving a space-based communication network, space-based data centers, and space-based communication back down to Earth wireless\u201d ... SpaceX\u2019s $2 Trillion Pitch: Is Elon Musk Quietly Building a Backup Internet for Civilization?",
-                "source": "24/7 Wall St.",
+                "title": "SpaceX IPO filing reveals mounting AI losses and Musk\u2019s tight control as company bets on future technologies",
+                "summary": "SpaceX has publicly released its IPO filing, offering investors a detailed look at the scale of Elon Musk\u2019s artificial intelligence ambitions, the financial losses tied to those investments and the company\u2019s reliance on technologies and markets that are still largely undeveloped. The filing outlines a strategy heavily focused on future opportunities ranging from Mars colonisation to space-based AI data centres, as the company seeks to evolve beyond its core rocket and satellite operations into a",
+                "source": "InvestorsHub",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/25/spacexs-2-trillion-pitch-is-elon-musk-quietly-building-a-backup-internet-for-civilization/",
-                "publishDate": "2026-05-25T13:22:27Z",
+                "url": "https://investorshub.advfn.com/market-news/article/28954/spacex-ipo-filing-reveals-mounting-ai-losses-and-musks-tight-control-as-company-bets-on-future-technologies",
+                "publishDate": "2026-05-26T14:00:34Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Elon Musk Asks 'Would You Really Want There To Be No Hate In The World? Like Really None?' \u2014 Says Maybe You Need The 'Lows' To Appreciate The Highs",
-                "summary": "A world with no hate sounds great until Elon Musk starts wondering whether humans would even recognize happiness anymore. The Tesla and SpaceX CEO drifted into philosophy during a sprawling conversation about artificial intelligence, human nature and dystopian futures, raising...",
-                "source": "Benzinga",
-                "category": "entertainment",
-                "url": "https://www.yahoo.com/entertainment/celebrity/articles/elon-musk-asks-really-want-130111379.html",
-                "publishDate": "2026-05-25T13:01:11Z",
+                "title": "He Loaned Elon Musk $1 Million When Tesla Was Nearly Bankrupt \u2014 Now He\u2019s About to Make More Than $100 Billion",
+                "summary": "Elon Musk's best friend Antonio Gracias bet early on Musk. His 7.3% SpaceX stake could soon make him one of the 50 wealthiest people alive.",
+                "source": "Entrepreneur",
+                "category": "finance",
+                "url": "https://www.entrepreneur.com/business-news/he-loaned-elon-musk-1-million-when-tesla-was-nearly-bankrupt",
+                "publishDate": "2026-05-26T13:53:18Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.96,
+        "price": 29.955,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.979275,
-            "marketCap": 21549340672,
+            "change": -0.016686117,
+            "marketCap": 21545744384,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Assessing Roivant Sciences (ROIV) Valuation After Strong Recent Share Price Momentum",
+                "summary": "Roivant Sciences stock performance snapshot Roivant Sciences (ROIV) has drawn investor attention recently after its share price closed at US$29.96, with total return around 9% over the past month and about 5% over the past 3 months. See our latest analysis for Roivant Sciences. While the share price slipped about 3% over the last day, Roivant Sciences still has a 36.62% year to date share price return and a very large 1 year total shareholder return, suggesting recent momentum follows a much...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-roivant-sciences-roiv-valuation-061015048.html",
+                "publishDate": "2026-05-26T06:10:15Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "TD Cowen Raises its Price Target on Roivant Sciences (ROIV)",
                 "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 15 High Growth Stocks to Buy and Hold for the Next Decade. On May 21, 2026, TD Cowen raised the firm\u2019s price target on Roivant Sciences Ltd. (NASDAQ:ROIV) to $41 from $38 and maintained a Buy rating on the shares. TD Cowen said IMVT-1402 toplined impressive Ph2b [\u2026]",
@@ -554,16 +564,6 @@
                 "publishDate": "2026-05-20T12:45:02Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Roivant Sciences Ltd. (ROIV) Reports Q4 Loss, Misses Revenue Estimates",
-                "summary": "Montes Archimedes Acquisition (ROIV) delivered earnings and revenue surprises of -41.18% and -8.56%, respectively, for the quarter ended March 2026. Do the numbers hold clues to what lies ahead for the stock?",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/roivant-sciences-ltd-roiv-reports-121502878.html",
-                "publishDate": "2026-05-20T12:15:02Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.72,
+        "price": 30.58,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7520685,
-            "marketCap": 6166634496,
+            "change": 2.8936765,
+            "marketCap": 6345076736,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -609,6 +609,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "SSR Mining Inc. (SSRM) Sells 20% Equity Interest in Hod Maden",
+                "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the best commodity stocks to buy for the supercycle. SSR Mining Inc. (NASDAQ:SSRM) announced on May 18 its entry into a definitive agreement with Lidya Mines to sell its 20% ownership stake and its operatorship position in the Hod Maden development project for an uncapped 4.0% net smelter [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-inc-ssrm-sells-120821415.html",
+                "publishDate": "2026-05-26T12:08:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "BofA Cuts PT on Royal Gold (RGLD) Following Plans to Reduce Ownership in Hod Maden to 15%",
+                "summary": "Royal Gold, Inc. (NASDAQ:RGLD) is one of the best commodity stocks to buy for the supercycle. BofA cut the price target on Royal Gold, Inc. (NASDAQ:RGLD) to $245 from $246 on May 19, reiterating an Underperform rating on the shares. The rating came after SSR Mining Inc. (NASDAQ:SSRM) announced a definitive agreement with Lidya Mines of [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/bofa-cuts-pt-royal-gold-120758409.html",
+                "publishDate": "2026-05-26T12:07:58Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "SSR Mining Is Selling Its Interest in the Copler Mine for $1.5 Billion. Is This a Positive Sign for the Mining Stock?",
                 "summary": "The gold miner is coming off a strong year and expects this year to be even better as it builds a strong balance sheet.",
@@ -686,26 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-ssrm-top-134504083.html",
                 "publishDate": "2026-05-19T13:45:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Agrees to Sell 20% Equity Stake in Hod Maden",
-                "summary": "SSR Mining (SSRM.TO) has agreed to sell its 20% ownership stake and its operatorship position in the",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-agrees-sell-20-103525395.html",
-                "publishDate": "2026-05-19T10:35:25Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining (SSRM) Upgraded to Buy: Here's What You Should Know",
-                "summary": "SSR Mining (SSRM) has been upgraded to a Zacks Rank #2 (Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-upgraded-buy-160004244.html",
-                "publishDate": "2026-05-18T16:00:04Z",
                 "premium": false,
                 "freemium": false
             }
