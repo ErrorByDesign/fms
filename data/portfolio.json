@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.425,
+        "price": 44.365,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.1899463,
-            "marketCap": 196883415040,
+            "change": -1.3233929,
+            "marketCap": 196617502720,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.769455
+            "yearTarget": 46.77768
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.7954,
+        "price": 1.77,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8907114,
-            "marketCap": 168593968,
+            "change": -3.2786918,
+            "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Intel's $43 Billion Government Windfall Gains Momentum With Apple Deal",
+                "summary": "Apple is reportedly testing Intel's foundry business as the US chipmaker pushes for a broader manufacturing comeback.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/intels-43-billion-government-windfall-181740516.html",
+                "publishDate": "2026-05-26T18:17:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Bitcoin ETFs bleed $1B as capital rotates into HYPE, SOL, XRP",
+                "summary": "On this episode of CoinDesk's Public Keys from the New York Stock Exchange, host Jennifer Sanasie unpacks a busy weekend \u2014 SpaceX's S-1 revealing 18,712 BTC on the balance sheet, Kevin Warsh's first full week as Fed Chair, and the SEC pushing back its innovation exemption for tokenized stocks. Bitwise Asset Management Head of Research Ryan Rasmussen joins to break down the bull and bear case for Hyperliquid, how Bitwise is differentiating BHYPE with in-house staking and 10% of management fees reinvested into HYPE, and why wealth managers are finally moving beyond BTC and ETH. Hyperliquid Strategies CEO David Schamis lays the foundation on how crypto margin trading works and why leverage amplifies timing risk. Plus, Calamos Global Head of ETFs Matt Kaufman explains how the firm's protected Bitcoin ETFs are pulling in fresh capital as spot Bitcoin funds bleed $1.26 billion in a single week. - This episode of Public Keys is brought to you by Kraken. For more: https://pro.kraken.com/",
+                "source": "CoinDesk",
+                "category": "finance",
+                "url": "http://videos.coindesk.com/previews/LQSosK3L",
+                "publishDate": "2026-05-26T17:56:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Stock Market Today: Nasdaq Shines; Micron Joins $1 Trillion Club, SpaceX Helps Lift These Names (Live Coverage)",
                 "summary": "Stock Market Today: The Dow Jones index falls Tuesday. Micron joins elite club as Qualcomm climbs on TikTok news.",
                 "source": "Investor's Business Daily",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-26T16:40:24Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why Redwire Stock Is Soaring Today",
-                "summary": "This company is in the right industry at the right time, although it's certainly given investors plenty of bullish news to latch onto of late.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/26/why-redwire-stock-is-soaring-today/",
-                "publishDate": "2026-05-26T16:09:41Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX\u2019s AI Pursuits Have Yet to Take Off",
-                "summary": "Plus, California studies AI job losses, Anthropic\u2019s revenue soars and Nvidia plays the role of $5 trillion underdog.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/tech/ai/spacexs-ai-pursuits-have-yet-to-take-off-3c25e91e?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-26T16:00:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.525,
+        "price": 29.41,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.4519342,
-            "marketCap": 21236457472,
+            "change": -1.8357786,
+            "marketCap": 21153742848,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.75,
+        "price": 30.71,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.4645164,
-            "marketCap": 6380350464,
+            "change": 3.3310895,
+            "marketCap": 6372050432,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
