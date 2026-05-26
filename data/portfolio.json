@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.315,
+        "price": 44.19,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.4346095,
-            "marketCap": 196395909120,
+            "change": -1.7126344,
+            "marketCap": 195841933312,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.790054
+            "yearTarget": 46.798073
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
+                "summary": "Healthcare stocks were lower late Tuesday afternoon, with the NYSE Healthcare Index shedding 0.7% an",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-decline-afternoon-195437936.html",
+                "publishDate": "2026-05-26T19:54:37Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Hims & Hers faces steep climb to hit 2026 guidance as Wegovy churn risk looms, says BofA",
                 "summary": "Hims & Hers Health (NYSE: HIMS) faces a demanding customer acquisition challenge to hit its 2026 revenue guidance amid rising churn risks tied to its oral Wegovy subscription model, Bank of America said. Analysts estimate HIMS would need to add approximately 225,000 new oral Wegovy...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-26T13:21:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "If Viking Therapeutics Is Acquired, Here\u2019s Who Wins",
-                "summary": "Polymarket traders are watching one biotech more closely than any other for an acquisition. Viking Therapeutics (NASDAQ: VKTX) carries a 38.5% implied probability of being acquired before 2027, with all-time volume above $1.68 million on that single contract. The hook is obesity. Viking\u2019s VK2735 dual GLP-1/GIP agonist is arguably the most advanced obesity asset not ... If Viking Therapeutics Is Acquired, Here\u2019s Who Wins",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/26/if-viking-therapeutics-is-acquired-heres-who-wins/",
-                "publishDate": "2026-05-26T12:50:16Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.765,
+        "price": 1.72,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.621173,
-            "marketCap": 165739296,
+            "change": -6.0109296,
+            "marketCap": 161513664,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -342,16 +342,6 @@
                 "freemium": false
             },
             {
-                "title": "Stock Market Today: Nasdaq Leads; Micron Hits Milestone, Drone Deal Lifts This Name (Live Coverage)",
-                "summary": "Stock Market Today: The Dow Jones index falls Tuesday. S&P 500 hits a new high as Micron joins $1 trillion club.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-oil-prices-tumble/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-26T19:26:31Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Why Redwire (RDW) Stock Is Up Today",
                 "summary": "Shares of aerospace and defense company Redwire (NYSE:RDW) jumped 27.3% in the morning session after rocket and satellite stocks rallied, sparked by SpaceX's public filing for what was expected to be the largest-ever initial public offering.",
                 "source": "StockStory",
@@ -388,6 +378,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/intels-43-billion-government-windfall-181740516.html",
                 "publishDate": "2026-05-26T18:17:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Refutes Report Claiming SpaceX Hiked Starlink Fees For Pentagon Drones: \u2018False\u2019",
+                "summary": "A report in Reuters stated that SpaceX and the Pentagon are at odds over whether Starlink usage on LUCAS drones should be billed under a higher-cost aviation service plan.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-refutes-starlink-fee-hike-pentagon-drones-spacex-reuters/cZgOa65Reqr",
+                "publishDate": "2026-05-26T18:12:29Z",
                 "premium": false,
                 "freemium": false
             },
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.54,
+        "price": 29.665,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.4018631,
-            "marketCap": 21247248384,
+            "change": -0.9846401,
+            "marketCap": 21337157632,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.78,
+        "price": 30.91,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5666265,
-            "marketCap": 6386575360,
+            "change": 4.00404,
+            "marketCap": 6413549056,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
