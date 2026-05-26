@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7126344,
+            "change": -1.71263,
             "marketCap": 195841933312,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.798073
+            "yearTarget": 46.795517
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -342,12 +342,52 @@
                 "freemium": false
             },
             {
+                "title": "Tesla Stock Trades Higher as Investors Remain Focused on SpaceX",
+                "summary": "Tesla stock is going for a second consecutive weekly gain. Shares are in the green in premarket trading Tuesday.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/tesla-stock-spacex-ipo-elon-musk-b811dd8f?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-26T20:06:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk\u2019s Bugs Bunny Moment: Will SpaceX IPO Tank Tesla Stock?",
+                "summary": "The episode aired in 1948, but the idea is strangely valid today, except that it\u2019s Elon Musk squaring off with himself.  SpaceX is on the cusp of its initial public offering, which will raise a record amount of money.  SpaceX plans to offer a relatively large amount of its stock to smaller retail investors, the same ones who hold Tesla shares.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/elon-musk-spacex-ipo-tesla-stock-3f672899?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-26T20:04:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Tesla Investor Shares How Retail Investors Can Participate In Blockbuster SpaceX IPO Via Robinhood, Sofi",
+                "summary": "As the Elon Musk-led commercial space flight giant SpaceX gears up for its IPO, here\u2019s how you can participate in the listing via platforms like Robinhood Markets Inc., E-TRADE and SoFi Technologies Inc.. SpaceX IPO: What Retail Investors Need To...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-investor-shares-retail-investors-193125184.html",
+                "publishDate": "2026-05-26T19:31:25Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Redwire (RDW) Stock Is Up Today",
                 "summary": "Shares of aerospace and defense company Redwire (NYSE:RDW) jumped 27.3% in the morning session after rocket and satellite stocks rallied, sparked by SpaceX's public filing for what was expected to be the largest-ever initial public offering.",
                 "source": "StockStory",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/why-redwire-rdw-stock-today-191928975.html",
                 "publishDate": "2026-05-26T19:19:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Forget the SpaceX IPO. These 2 New Stocks Stand Out Right Now.",
+                "summary": "Recent IPOs Pattern Group and Ethos Technologies are showing constructive technical patterns even as investors continue waiting for a SpaceX public offering.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/pattern-group-ethos-technologies-stock-ipo-spacex-9a5352ca?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-26T19:08:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -378,46 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/intels-43-billion-government-windfall-181740516.html",
                 "publishDate": "2026-05-26T18:17:40Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Refutes Report Claiming SpaceX Hiked Starlink Fees For Pentagon Drones: \u2018False\u2019",
-                "summary": "A report in Reuters stated that SpaceX and the Pentagon are at odds over whether Starlink usage on LUCAS drones should be billed under a higher-cost aviation service plan.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-refutes-starlink-fee-hike-pentagon-drones-spacex-reuters/cZgOa65Reqr",
-                "publishDate": "2026-05-26T18:12:29Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Bitcoin ETFs bleed $1B as capital rotates into HYPE, SOL, XRP",
-                "summary": "On this episode of CoinDesk's Public Keys from the New York Stock Exchange, host Jennifer Sanasie unpacks a busy weekend \u2014 SpaceX's S-1 revealing 18,712 BTC on the balance sheet, Kevin Warsh's first full week as Fed Chair, and the SEC pushing back its innovation exemption for tokenized stocks. Bitwise Asset Management Head of Research Ryan Rasmussen joins to break down the bull and bear case for Hyperliquid, how Bitwise is differentiating BHYPE with in-house staking and 10% of management fees reinvested into HYPE, and why wealth managers are finally moving beyond BTC and ETH. Hyperliquid Strategies CEO David Schamis lays the foundation on how crypto margin trading works and why leverage amplifies timing risk. Plus, Calamos Global Head of ETFs Matt Kaufman explains how the firm's protected Bitcoin ETFs are pulling in fresh capital as spot Bitcoin funds bleed $1.26 billion in a single week. - This episode of Public Keys is brought to you by Kraken. For more: https://pro.kraken.com/",
-                "source": "CoinDesk",
-                "category": "finance",
-                "url": "http://videos.coindesk.com/previews/LQSosK3L",
-                "publishDate": "2026-05-26T17:56:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "NASA Space ETF\u2019s Gains Have Surpassed Broader US Indices Since Its Recent Listing",
-                "summary": "Shares of Space ETFs, rocket manufacturers and satellite operators have recently surged ahead of SpaceX IPO.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/nasa-space-etf-s-gains-have-surpassed-broader-us-indices-since-its-recent-listing/cZgO9RKReqp",
-                "publishDate": "2026-05-26T17:37:49Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space Stocks Soar After SpaceX Files for Record-Breaking IPO",
-                "summary": "Rocket Lab, AST SpaceMobile Rally as SpaceX IPO Excitement Builds",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-soar-spacex-files-173748406.html",
-                "publishDate": "2026-05-26T17:37:48Z",
                 "premium": false,
                 "freemium": false
             }
@@ -610,6 +610,16 @@
         },
         "NEWS": [
             {
+                "title": "Harvest Investment Services Dumps 356,000 Adaptive Biotechnologies (ADPT) Shares Worth $5.7 Million",
+                "summary": "Adaptive Biotechnologies develops immune-driven diagnostics and research tools for the life sciences and healthcare sectors.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/coverage/filings/2026/05/26/harvest-investment-dumps-356-000-adaptive-biotechnologies-adpt-shares-worth-usd5-7-million/",
+                "publishDate": "2026-05-26T20:23:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SSR Mining Inc. (SSRM) Sells 20% Equity Interest in Hod Maden",
                 "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the best commodity stocks to buy for the supercycle. SSR Mining Inc. (NASDAQ:SSRM) announced on May 18 its entry into a definitive agreement with Lidya Mines to sell its 20% ownership stake and its operatorship position in the Hod Maden development project for an uncapped 4.0% net smelter [\u2026]",
                 "source": "Insider Monkey",
@@ -697,16 +707,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-markets-maintains-ssr-142539650.html",
                 "publishDate": "2026-05-19T14:25:39Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Why SSR Mining (SSRM) is a Top Growth Stock for the Long-Term",
-                "summary": "Whether you're a value, growth, or momentum investor, finding strong stocks becomes easier with the Zacks Style Scores, a top feature of the Zacks Premium research service.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-ssrm-top-134504083.html",
-                "publishDate": "2026-05-19T13:45:04Z",
-                "premium": false,
                 "freemium": false
             }
         ],
