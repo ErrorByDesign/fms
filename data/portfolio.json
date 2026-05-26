@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.39,
+        "price": 44.425,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2677929,
-            "marketCap": 196728291328,
+            "change": -1.1899463,
+            "marketCap": 196883415040,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.754612
+            "yearTarget": 46.769455
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk POSEIDON Data Highlights Residual Inflammatory Risk And New Opportunity",
+                "summary": "Novo Nordisk (CPSE:NOVO B) reported new findings from its POSEIDON study on cardiovascular inflammation in patients with heart disease. The study highlights a high prevalence of cardiovascular inflammation among patients already receiving treatment for atherosclerotic cardiovascular disease. Results point to an unmet medical need for therapies that can address residual inflammatory risk beyond current standard care. Novo Nordisk, known for its cardiometabolic and related therapies, now has...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-poseidon-data-highlights-181042447.html",
+                "publishDate": "2026-05-26T18:10:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sector Update: Healthcare Stocks Decline Tuesday Afternoon",
+                "summary": "Healthcare stocks were lower Tuesday afternoon, with the NYSE Healthcare Index shedding 0.6% and the",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-decline-tuesday-175029396.html",
+                "publishDate": "2026-05-26T17:50:29Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Ozempic, Other Weight Drug Users Cut Back On Eating Out. What That Means For Restaurants.",
+                "summary": "Weight-loss drugs such as Novo Nordisk's Ozempic and Wegovy are disrupting eating habits, and restaurants should prepare for changes, an analyst says.  More than half of Americans taking GLP-1 drugs including Eli Lilly's Mounjaro have changed their eating habits, a survey by UBS found.  \"Our survey results suggest GLP-1 users are more likely to eat less calories while taking GLP-1 drugs, with survey respondents dining out less, changing eating habits, and appreciating healthier foods more,\" UBS analysts led by Dennis Geiger said in a note to clients.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/ozempic-glp-1-weight-loss-drugs-restaurants/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-26T17:36:47Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Equities Traded in the US as American Depositary Receipts Track Higher in Tuesday Trading",
                 "summary": "European equities traded in the US as American depositary receipts were trending higher late Tuesday",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-05-26T12:49:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Beat the Market the Zacks Way: ORIX, Starbucks, Alphabet in Focus",
-                "summary": "IX, SBUX and GOOGL rallied after Zacks upgrades and portfolio additions, while major indexes stayed volatile amid Fed and inflation concerns.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-orix-123400379.html",
-                "publishDate": "2026-05-26T12:34:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Prediction: These 2 Obesity Drug Stocks Could Double in 2026",
-                "summary": "These players are seeing exciting results in clinical trials.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/26/prediction-these-2-obesity-drug-stocks-could-doubl/",
-                "publishDate": "2026-05-26T08:24:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Nears EU Nod For Oral Wegovy And Investor Opportunity",
-                "summary": "Novo Nordisk (NYSE:NVO) received a positive opinion from the European Medicines Agency supporting EU approval of its oral Wegovy obesity treatment. The therapy would be the first oral GLP-1 option for obesity in Europe if formally authorized by the European Commission. The development follows a strong U.S. launch for the Wegovy pill and comes ahead of planned international rollouts. Novo Nordisk, known for its diabetes and obesity treatments, is now moving closer to bringing an oral Wegovy...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nears-eu-nod-070800752.html",
-                "publishDate": "2026-05-26T07:08:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.74,
+        "price": 1.7954,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.9180346,
-            "marketCap": 163391728,
+            "change": -1.8907114,
+            "marketCap": 168593968,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Stock Market Today: Nasdaq Shines; Micron Joins $1 Trillion Club, SpaceX Helps Lift These Names (Live Coverage)",
+                "summary": "Stock Market Today: The Dow Jones index falls Tuesday. Micron joins elite club as Qualcomm climbs on TikTok news.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-us-iran-deal-oil-prices-tumble/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-26T17:52:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "NASA Space ETF\u2019s Gains Have Surpassed Broader US Indices Since Its Recent Listing",
+                "summary": "Shares of Space ETFs, rocket manufacturers and satellite operators have recently surged ahead of SpaceX IPO.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/nasa-space-etf-s-gains-have-surpassed-broader-us-indices-since-its-recent-listing/cZgO9RKReqp",
+                "publishDate": "2026-05-26T17:37:49Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space Stocks Soar After SpaceX Files for Record-Breaking IPO",
                 "summary": "Rocket Lab, AST SpaceMobile Rally as SpaceX IPO Excitement Builds",
                 "source": "GuruFocus.com",
@@ -353,7 +373,7 @@
             },
             {
                 "title": "Rocket, Satellite Stocks Surge\u00a0as SpaceX IPO Fuels Euphoria",
-                "summary": "(Bloomberg) -- Space and satellite-related stocks soared Tuesday as investor enthusiasm around the industry intensified after Elon Musk\u2019s SpaceX filed for a public offering last week.Most Read from BloombergNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump Doctor Visit Renews Health Scrutiny as 80th Birthday NearsTrump Says He\u2019ll Announce Negotiated Deal With Iran ShortlyRubio Sees Good News Coming on Hormuz as Iran Talks ContinueUS, Iran Inch Toward Deal as Gaps Remain on Uranium, S",
+                "summary": "(Bloomberg) -- Space and satellite-related stocks soared Tuesday as investor enthusiasm around the industry intensified after Elon Musk\u2019s SpaceX filed for a public offering last week.Most Read from BloombergIran\u2019s Khamenei Says No Going Back for Middle East Rocked by WarUS Strikes Targets in Iran Even as Trump Hails Progress on DealRussia Tells US to Evacuate Its Diplomats and Citizens From KyivThese AI Gurus Are Charging Wall Street Banks $25,000 a DayPutin Signs Law on Use of Army to Aid Russi",
                 "source": "Bloomberg",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-satellite-stocks-surge-spacex-154532336.html",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-26T16:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why Intuitive Machines Stock Keeps Going Up",
-                "summary": "Intuitive Machines already has one $4 billion-plus NASA contract. Is it about to win another one?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/26/why-intuitive-machines-stock-keeps-going-up/",
-                "publishDate": "2026-05-26T15:57:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Forget SpaceX: The Next Red-Hot IPO Is Here and It\u2019s a Quantum Computing Stock",
-                "summary": "The IPO market is waking up again, and few offerings have generated as much buzz as SpaceX. Between Elon Musk\u2019s star power, the company\u2019s reported multi-trillion-dollar valuation it is seeking, and dreams of Mars colonization, it is easy to see why investors are excited. But history says investors chasing blockbuster IPOs right out of the ... Forget SpaceX: The Next Red-Hot IPO Is Here and It\u2019s a Quantum Computing Stock",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/26/forget-spacex-the-next-red-hot-ipo-is-here-and-its-a-quantum-computing-stock/",
-                "publishDate": "2026-05-26T15:47:54Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.6,
+        "price": 29.525,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2011969,
-            "marketCap": 21290403840,
+            "change": -1.4519342,
+            "marketCap": 21236457472,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.9767,
+        "price": 30.75,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.2284675,
-            "marketCap": 6427388416,
+            "change": 3.4645164,
+            "marketCap": 6380350464,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
