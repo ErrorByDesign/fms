@@ -20,7 +20,7 @@
             "marketCap": 199254425600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.83861
+            "yearTarget": 46.802296
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Don't Buy Viking Therapeutics Stock Until You Read This",
+                "summary": "It may be too late for Viking to take on the \"dark horse\" role in the GLP-1 wars.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/25/dont-buy-hot-viking-therapeutics-until-you/",
+                "publishDate": "2026-05-26T00:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Assessing Novo Nordisk (CPSE:NOVO B) Valuation After EU Boost For Wegovy Oral Pill",
+                "summary": "The recent positive opinion from the EMA\u2019s Committee for Medicinal Products for Human Use on the Wegovy pill has pushed Novo Nordisk (CPSE:NOVO B) back into focus for investors watching obesity and cardiovascular treatments. See our latest analysis for Novo Nordisk. These Wegovy updates have arrived during a strong short term rebound in Novo Nordisk\u2019s share price, with a 30 day share price return of 11.18% and 90 day return of 18.61%. However, the year to date share price return is down...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/assessing-novo-nordisk-cpse-novo-001859977.html",
+                "publishDate": "2026-05-26T00:18:59Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly Just Got a Huge Vote of Confidence From Morgan Stanley -- and It's All About Mounjaro",
+                "summary": "The efficacy of Eli Lilly's new, still-in-development GLP-1 drug is gaining attention, but don't forget its older GLP-1 drugs just yet.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/25/eli-lilly-just-got-a-huge-vote-of-confidence-from/",
+                "publishDate": "2026-05-25T23:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Veeva Systems' AI & Vault CRM Strength Signal More Upside Ahead",
                 "summary": "VEEV's growing Vault CRM adoption and AI momentum, backed by major pharma wins, reinforce confidence in its long-term growth outlook.",
@@ -99,36 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/citi-raises-price-target-lexicon-184311858.html",
                 "publishDate": "2026-05-22T18:43:11Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Weighs AI Push And Wegovy Pill Rollout Against Valuation",
-                "summary": "Novo Nordisk (NYSE:NVO) has entered a partnership with OpenAI to apply artificial intelligence across drug discovery, manufacturing, and supply chain operations. The company is preparing a global rollout of the oral Wegovy weight loss pill after its US launch. Recent trial data for semaglutide and pipeline drugs such as Amycretin and CagriSema indicate further progress in obesity and metabolic disease treatments. Novo Nordisk is drawing fresh attention as it pairs an AI push with a growing...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-weighs-ai-push-181445159.html",
-                "publishDate": "2026-05-22T18:14:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Gain Friday Afternoon",
-                "summary": "Healthcare stocks rose Friday afternoon, with the NYSE Healthcare Index advancing 0.8% and the State",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-gain-friday-173935936.html",
-                "publishDate": "2026-05-22T17:39:35Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "European Stocks Close Higher Friday; German Q1 GDP Increases, Semiconductor Shares Gain",
-                "summary": "European stock markets closed higher Friday as the Stoxx Europe 600 rose 0.7%, Germany's DAX 40 clim",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-close-higher-friday-155753252.html",
-                "publishDate": "2026-05-22T15:57:53Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Analysis-SpaceX debut draws a crowd, but few recent hot IPOs outpace the market",
+                "summary": "Wall Street is abuzz with next month's expected blockbuster debut of Elon Musk's rocket and satellite maker SpaceX, but few of the biggest IPOs in recent years have paid off for investors who bought in when the deals came to market.  A Reuters analysis \u200cof the 50 IPOs with the highest valuations in the past five years shows that investors would have been better off buying an S&P 500 \u200cindex fund about three-quarters of the time.  An investor who bought each of the IPOs tracked \u200bby Reuters would be up an average of 27% through May 21.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/analysis-spacex-debut-draws-crowd-000323470.html",
+                "publishDate": "2026-05-26T00:03:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX\u2019s IPO Is a Bet Gravity Doesn\u2019t Apply to Elon Musk",
+                "summary": "To launch the biggest offering ever, the space baron is drawing on his real power: everyday investors.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/spacexs-ipo-is-a-bet-gravity-doesnt-apply-to-elon-musk-f798e814?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-25T21:13:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The $2 Trillion Underwriting Case: Inside Chamath\u2019s Blockbuster SpaceX Math",
                 "summary": "During a highly anticipated segment on the latest All-In Podcast, Chamath Palihapitiya laid out a detailed underwriting case to justify why SpaceX is worth a full two trillion dollars right now. He explained that a twenty-times sales multiple is actually a bargain when you properly measure it against the massive commercial markets that Starlink and ... The $2 Trillion Underwriting Case: Inside Chamath\u2019s Blockbuster SpaceX Math",
                 "source": "24/7 Wall St.",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-25T13:01:11Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "The Commercial Space Economy Just Crossed a Real Revenue Threshold and After Following This Industry for Years These Are the 3 ETFs Worth Owning",
-                "summary": "The commercial space sector has crossed into recurring commercial revenue at scale. SpaceX\u2019s Starlink unit is now throwing off subscription cash flow at a scale that supports an IPO pipeline being shepherded by Bank of America as lead underwriter. Pure-play satellite operators are booking recurring service revenue rather than one-off launch fees. Even prime defense ... The Commercial Space Economy Just Crossed a Real Revenue Threshold and After Following This Industry for Years These Are the 3 E",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/25/the-commercial-space-economy-just-crossed-a-real-revenue-threshold-and-after-following-this-industry-for-years-these-are-the-3-etfs-worth-owning/",
-                "publishDate": "2026-05-25T12:13:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Posthaste: Worried about a market bubble? You ain't seen nothing yet, warns top BofA strategist",
-                "summary": "Bubble brewing that rivals the roaring '20s, but bulls won't sell until these two things happen",
-                "source": "Financial Post",
-                "category": "finance",
-                "url": "https://financialpost.com/news/market-bubble-brewing-rivals-roaring-20s-warns-top-strategist",
-                "publishDate": "2026-05-25T12:07:08Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "TD Cowen Raises its Price Target on Roivant Sciences (ROIV)",
+                "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 15 High Growth Stocks to Buy and Hold for the Next Decade. On May 21, 2026, TD Cowen raised the firm\u2019s price target on Roivant Sciences Ltd. (NASDAQ:ROIV) to $41 from $38 and maintained a Buy rating on the shares. TD Cowen said IMVT-1402 toplined impressive Ph2b [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/td-cowen-raises-price-target-234846717.html",
+                "publishDate": "2026-05-25T23:48:46Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Litigation Windfall Driving Roivant Sciences\u2019 Profit Swing Might Change The Case For Investing In Roivant Sciences (ROIV)",
                 "summary": "In May 2026, Roivant Sciences reported fourth-quarter 2026 results showing sales of US$2.52 million, a swing to quarterly net income of US$302.99 million, and full-year 2026 sales of US$8.26 million alongside a wider annual net loss of US$299.77 million. The earnings were heavily influenced by a US$770.2 million litigation settlement gain linked to Genevant\u2019s US$2.25 billion global patent settlement with Moderna, highlighting how non-operating items and asset monetization can meaningfully...",
@@ -552,16 +562,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/roivant-sciences-ltd-roiv-reports-121502878.html",
                 "publishDate": "2026-05-20T12:15:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Immunovant\u2019s potential autoimmune \u2018blockbuster\u2019; Wave\u2019s RNA editing update",
-                "summary": "Immunovant shares climbed on results an analyst deemed \u201ccompelling\u201d in tough-to-treat arthritis. Elsewhere, Wave\u2019s pioneering rare disease program advanced and Takeda lost an antitrust suit.",
-                "source": "BioPharma Dive",
-                "category": "finance",
-                "url": "https://www.biopharmadive.com/news/immunovant-arthritis-wave-aatd-pfizer-vaccine-takeda-ira/820676/",
-                "publishDate": "2026-05-20T10:43:50Z",
                 "premium": false,
                 "freemium": false
             }
