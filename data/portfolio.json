@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.315,
+        "price": 44.39,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.4346095,
-            "marketCap": 196395909120,
+            "change": -1.2677929,
+            "marketCap": 196728291328,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.776
+            "yearTarget": 46.754612
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.75,
+        "price": 1.74,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.371587,
-            "marketCap": 164330752,
+            "change": -4.9180346,
+            "marketCap": 163391728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,22 +322,22 @@
         },
         "NEWS": [
             {
-                "title": "American Airlines stock jumps as the airline picks Starlink for in-flight Wi-Fi service",
-                "summary": "American Airlines struck a deal with SpaceX's Starlink for wifi service on more than 500 of its jets, the latest carrier to go with the satellite internet provider, coming weeks before SpaceX's highly anticipated public offering.",
+                "title": "SpaceX IPO ignites a rocket-fueled frenzy in these stocks and ETFs",
+                "summary": "Investors race to get space exposure ahead of the SpaceX IPO.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/american-airlines-stock-jumps-as-the-airline-picks-starlink-for-in-flight-wi-fi-service-170454812.html",
-                "publishDate": "2026-05-26T17:04:54Z",
+                "url": "https://finance.yahoo.com/markets/article/spacex-ipo-ignites-a-rocket-fueled-frenzy-in-these-stocks-and-etfs-172429621.html",
+                "publishDate": "2026-05-26T17:24:29Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Tech stocks today: Micron joins $1 trillion club, Qualcomm stock jumps on report of ByteDance chip deal",
-                "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia's latest earnings mean for the artificial intelligence trade.",
-                "source": "Yahoo Finance",
+                "title": "Space Stocks Soar After SpaceX Files for Record-Breaking IPO",
+                "summary": "Rocket Lab, AST SpaceMobile Rally as SpaceX IPO Excitement Builds",
+                "source": "GuruFocus.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-micron-joins-1-trillion-club-qualcomm-stock-jumps-on-report-of-bytedance-chip-deal-100000715.html",
-                "publishDate": "2026-05-26T10:00:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-soar-spacex-files-173748406.html",
+                "publishDate": "2026-05-26T17:37:48Z",
                 "premium": false,
                 "freemium": false
             },
@@ -348,6 +348,16 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/05/26/xovr-promised-pre-ipo-spacex-upside-but-it-is-down-2-ytd-while-the-sp-500-is-up-9/",
                 "publishDate": "2026-05-26T16:59:11Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Rocket, Satellite Stocks Surge\u00a0as SpaceX IPO Fuels Euphoria",
+                "summary": "(Bloomberg) -- Space and satellite-related stocks soared Tuesday as investor enthusiasm around the industry intensified after Elon Musk\u2019s SpaceX filed for a public offering last week.Most Read from BloombergNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump Doctor Visit Renews Health Scrutiny as 80th Birthday NearsTrump Says He\u2019ll Announce Negotiated Deal With Iran ShortlyRubio Sees Good News Coming on Hormuz as Iran Talks ContinueUS, Iran Inch Toward Deal as Gaps Remain on Uranium, S",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-satellite-stocks-surge-spacex-154532336.html",
+                "publishDate": "2026-05-26T16:56:43Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-26T15:47:54Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Rocket, Satellite Stocks Surge\u00a0as SpaceX IPO Fuels Euphoria",
-                "summary": "(Bloomberg) -- Space and satellite-related stocks soared Tuesday as investor enthusiasm around the industry intensified after Elon Musk\u2019s SpaceX filed for a public offering last week.Most Read from BloombergNvidia CEO Urges Super Micro to Tighten Up on ComplianceTrump Doctor Visit Renews Health Scrutiny as 80th Birthday NearsTrump Says He\u2019ll Announce Negotiated Deal With Iran ShortlyRubio Sees Good News Coming on Hormuz as Iran Talks ContinueUS, Iran Inch Toward Deal as Gaps Remain on Uranium, S",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-satellite-stocks-surge-spacex-154532336.html",
-                "publishDate": "2026-05-26T15:45:32Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.705,
+        "price": 29.6,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.8511321,
-            "marketCap": 21365927936,
+            "change": -1.2011969,
+            "marketCap": 21290403840,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.92,
+        "price": 30.9767,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.037688,
-            "marketCap": 6415624192,
+            "change": 4.2284675,
+            "marketCap": 6427388416,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
