@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.365,
+        "price": 44.355,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.3233929,
-            "marketCap": 196617502720,
+            "change": -1.3456396,
+            "marketCap": 196573184000,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.77768
+            "yearTarget": 46.78008
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Hims & Hers faces steep climb to hit 2026 guidance as Wegovy churn risk looms, says BofA",
+                "summary": "Hims & Hers Health (NYSE: HIMS) faces a demanding customer acquisition challenge to hit its 2026 revenue guidance amid rising churn risks tied to its oral Wegovy subscription model, Bank of America said. Analysts estimate HIMS would need to add approximately 225,000 new oral Wegovy...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1092908/hims-hers-faces-steep-climb-to-hit-2026-guidance-as-wegovy-churn-risk-looms-says-bofa-1092908.html",
+                "publishDate": "2026-05-26T18:54:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk POSEIDON Data Highlights Residual Inflammatory Risk And New Opportunity",
                 "summary": "Novo Nordisk (CPSE:NOVO B) reported new findings from its POSEIDON study on cardiovascular inflammation in patients with heart disease. The study highlights a high prevalence of cardiovascular inflammation among patients already receiving treatment for atherosclerotic cardiovascular disease. Results point to an unmet medical need for therapies that can address residual inflammatory risk beyond current standard care. Novo Nordisk, known for its cardiometabolic and related therapies, now has...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-26T12:50:16Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "4 Large-Cap Pharma Stocks to Buy as Industry Recovery Accelerates",
-                "summary": "In the Large-Cap Pharmaceuticals industry, LLY, J&J, NVO and BAYRY are worth retaining as the industry shows some recovery.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/4-large-cap-pharma-stocks-124900514.html",
-                "publishDate": "2026-05-26T12:49:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.73,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2786918,
-            "marketCap": 166208816,
+            "change": -5.464482,
+            "marketCap": 162452688,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,36 @@
                 "freemium": false
             },
             {
+                "title": "American Airlines stock jumps as the airline picks Starlink for in-flight Wi-Fi service",
+                "summary": "American Airlines struck a deal with SpaceX's Starlink for Wi-Fi service on more than 500 of its jets, the latest carrier to go with the satellite internet provider, coming weeks before SpaceX's highly anticipated public offering.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/american-airlines-stock-jumps-as-the-airline-picks-starlink-for-in-flight-wi-fi-service-170454812.html",
+                "publishDate": "2026-05-26T17:04:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "AI Stocks: SpaceX, OpenAI IPO Buzz Fuel Next Leg Of Rally. Salesforce, Snowflake Earnings Due.",
+                "summary": "AI stocks rally amid SpaceX, OpenAI IPO buzz as investors eye surging demand for compute capacity and monetization.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/ai-stocks-artificial-intelligence-stocks-may262026/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-26T18:58:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX\u2019s Starlink nabs American Airlines contract, another win for its IPO",
+                "summary": "American Airlines said Tuesday it plans to install Starlink on more than 500 Airbus aircraft, the latest carrier win for IPO-bound SpaceX.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/spacex-starlink-nabs-american-airlines-184804548.html",
+                "publishDate": "2026-05-26T18:48:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Intel's $43 Billion Government Windfall Gains Momentum With Apple Deal",
                 "summary": "Apple is reportedly testing Intel's foundry business as the US chipmaker pushes for a broader manufacturing comeback.",
                 "source": "GuruFocus.com",
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-26T16:59:11Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Rocket, Satellite Stocks Surge\u00a0as SpaceX IPO Fuels Euphoria",
-                "summary": "(Bloomberg) -- Space and satellite-related stocks soared Tuesday as investor enthusiasm around the industry intensified after Elon Musk\u2019s SpaceX filed for a public offering last week.Most Read from BloombergIran\u2019s Khamenei Says No Going Back for Middle East Rocked by WarUS Strikes Targets in Iran Even as Trump Hails Progress on DealRussia Tells US to Evacuate Its Diplomats and Citizens From KyivThese AI Gurus Are Charging Wall Street Banks $25,000 a DayPutin Signs Law on Use of Army to Aid Russi",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-satellite-stocks-surge-spacex-154532336.html",
-                "publishDate": "2026-05-26T16:56:43Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "American Airlines Stock On Track To Hit 4-Month High Amid Plans To Add Starlink Wi-Fi To 500+ Aircraft",
-                "summary": "The airline is expanding its in-flight connectivity push through a partnership with Starlink to improve passenger streaming and browsing experience.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/american-airlines-aal-starlink-wifi-500-aircraft-stock-rise-premarket/cZgO7ZmReqN",
-                "publishDate": "2026-05-26T16:43:31Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "AST SpaceMobile Rockets 20%, Planet Labs Soars 15%, Rocket Lab Climbs 6% as SpaceX IPO Lifts the Whole Sector",
-                "summary": "Shares of AST SpaceMobile (NASDAQ:ASTS) are climbing 20% in midday trading on Tuesday. Planet Labs (NYSE:PL) is up 15%, Rocket Lab (NASDAQ:RKLB) is gaining 6%. The rally is being driven by renewed investor focus on SpaceX\u2019s pending public listing. SpaceX filed its S-1 last week. The document frames a roughly $1.75 trillion targeted valuation against ... AST SpaceMobile Rockets 20%, Planet Labs Soars 15%, Rocket Lab Climbs 6% as SpaceX IPO Lifts the Whole Sector",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/26/ast-spacemobile-rockets-20-planet-labs-soars-15-rocket-lab-climbs-6-as-spacex-ipo-lifts-the-whole-sector/",
-                "publishDate": "2026-05-26T16:40:24Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.41,
+        "price": 29.44,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8357786,
-            "marketCap": 21153742848,
+            "change": -1.7356428,
+            "marketCap": 21175320576,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.71,
+        "price": 30.73,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.3310895,
-            "marketCap": 6372050432,
+            "change": 3.3995297,
+            "marketCap": 6376200704,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
