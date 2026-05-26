@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.43,
+        "price": 44.45,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.1788229,
-            "marketCap": 196905566208,
+            "change": -1.1343379,
+            "marketCap": 196994203648,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.751343
+            "yearTarget": 46.767345
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2434218,
+            "change": -3.2786918,
             "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -332,12 +332,42 @@
                 "freemium": false
             },
             {
-                "title": "American Airlines Starlink Wi-Fi deal: 500 Airbus planes",
-                "summary": "The carrier will install SpaceX's satellite internet on Airbus jets starting early next year, joining United, Southwest, and Alaska Airlines",
-                "source": "Quartz",
+                "title": "Why Intuitive Machines Stock Keeps Going Up",
+                "summary": "Intuitive Machines already has one $4 billion-plus NASA contract. Is it about to win another one?",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://qz.com/american-airlines-starlink-wifi-airbus-narrow-body-052626",
-                "publishDate": "2026-05-26T15:29:59Z",
+                "url": "https://www.fool.com/investing/2026/05/26/why-intuitive-machines-stock-keeps-going-up/",
+                "publishDate": "2026-05-26T15:57:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Forget SpaceX: The Next Red-Hot IPO Is Here and It\u2019s a Quantum Computing Stock",
+                "summary": "The IPO market is waking up again, and few offerings have generated as much buzz as SpaceX. Between Elon Musk\u2019s star power, the company\u2019s reported multi-trillion-dollar valuation it is seeking, and dreams of Mars colonization, it is easy to see why investors are excited. But history says investors chasing blockbuster IPOs right out of the ... Forget SpaceX: The Next Red-Hot IPO Is Here and It\u2019s a Quantum Computing Stock",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/26/forget-spacex-the-next-red-hot-ipo-is-here-and-its-a-quantum-computing-stock/",
+                "publishDate": "2026-05-26T15:47:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Exclusive-Pentagon spars with SpaceX over Starlink price hike during Iran war",
+                "summary": "By David Jeans NEW YORK, May 26 (Reuters) - As U.S. kamikaze drones guided by Elon Musk\u2019s Starlink network began to make visible gains in the war against Iran, senior SpaceX officials reached a",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/news/exclusive-pentagon-spars-spacex-over-100228916.html",
+                "publishDate": "2026-05-26T15:43:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Could Rewrite the Record Books for Public Listings",
+                "summary": "A potential IPO from SpaceX could dramatically reshape the history of global public offerings, with the Elon Musk-led company reportedly targeting a valuation that would eclipse every previous stock market debut. If current expectations hold, SpaceX could raise far more capital than any company before it and potentially become the first IPO to debut with a valuation approaching $2 trillion.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/28964/spacex-ipo-could-rewrite-the-record-books-for-public-listings",
+                "publishDate": "2026-05-26T15:14:21Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-26T14:10:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Space Stock Rally Continues After SpaceX Prospectus, Starship Explosion",
-                "summary": "Space stocks continue to surge with Redwire, Rocket Lab, Firefly Aerospace among leaders after SpaceX prospectus, Starship launch.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-ipo-momentum-starship-launch-space-stocks-rdw-rklb-fly-voyg-spir/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-26T14:08:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Could Reshape the Space Industry as Investors Weigh Musk\u2019s Vision and Risks",
-                "summary": "After more than 20 years operating as a private company, SpaceX appears closer than ever to entering public markets. Reports suggesting a potential 2026 IPO \u2014 possibly valuing the company at around $1.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/28962/spacex-ipo-could-reshape-the-space-industry-as-investors-weigh-musks-vision-and-risks",
-                "publishDate": "2026-05-26T14:07:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Investors seeking SpaceX exposure have alternatives ahead of blockbuster IPO",
-                "summary": "Interest in commercial space investing has surged in recent years, with SpaceX emerging as one of the sector\u2019s most sought-after private companies thanks to its reusable rocket business and rapidly expanding Starlink satellite network. According to recent SEC filings, SpaceX is preparing for a potential June IPO at a valuation target of approximately $1.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/28960/investors-seeking-spacex-exposure-have-alternatives-ahead-of-blockbuster-ipo",
-                "publishDate": "2026-05-26T14:05:09Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.81,
+        "price": 29.72,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5006663,
-            "marketCap": 21441449984,
+            "change": -0.80106735,
+            "marketCap": 21376716800,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 38.625
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.65,
+        "price": 30.68,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.1292071,
-            "marketCap": 6359601152,
+            "change": 3.2301514,
+            "marketCap": 6365826048,
             "weekLow": 11.27,
             "weekHigh": 36.52,
             "yearTarget": 43.8
