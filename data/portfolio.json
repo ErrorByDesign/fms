@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.19,
+        "price": 45.13,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.71263,
-            "marketCap": 195841933312,
+            "change": 2.1271837,
+            "marketCap": 200007843840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.81826
+            "yearTarget": 46.792606
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "HIMS Stock Heads For Weekly Loss \u2014 But Ex-Netflix CFO Is Buying The Dip Despite BofA\u2019s GLP-1 Warning",
+                "summary": "BofA cut its HIMS price target to $25 from $28, while warning that the company\u2019s 2026 outlook depends on a \u201csignificant\u201d ramp-up in GLP-1 growth.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/hims-stock-weekly-loss-netflix-cfo-buying-dip-bofa-glp1-warning/cZgXUjlReAJ",
+                "publishDate": "2026-05-27T04:43:58Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
                 "summary": "Healthcare stocks were lower late Tuesday afternoon, with the NYSE Healthcare Index shedding 0.7% an",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-26T13:24:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "AMGN Stock Down 13% in 3 Months: Buy the Dip or Book Profits?",
-                "summary": "Amgen faces LOE headwinds and pricing pressure, yet key growth drugs and biosimilars continue gaining traction.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/amgn-stock-down-13-3-132100204.html",
-                "publishDate": "2026-05-26T13:21:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.72,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -6.01093,
-            "marketCap": 161513664,
+            "change": 2.3255792,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 652.93,
+        "price": 130.82,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,7 +306,7 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.2,
+            "change": 0.16,
             "marketCap": 1549901234176,
             "weekLow": 202.78,
             "weekHigh": 652.93,
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX IPO ignites a rocket-fueled frenzy in these stocks and ETFs",
-                "summary": "Investors race to get space exposure ahead of the SpaceX IPO.",
+                "title": "SpaceX is powering a new ETF race: Chart of the Day",
+                "summary": "SpaceX is not public yet, but the race to own it is already rearranging the ETF market.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-ipo-ignites-a-rocket-fueled-frenzy-in-these-stocks-and-etfs-172429621.html",
-                "publishDate": "2026-05-26T17:24:29Z",
+                "url": "https://finance.yahoo.com/markets/article/spacex-is-powering-a-new-etf-race-chart-of-the-day-100000512.html",
+                "publishDate": "2026-05-27T10:00:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "American Airlines stock jumps as the airline picks Starlink for in-flight Wi-Fi service",
-                "summary": "American Airlines struck a deal with SpaceX's Starlink for Wi-Fi service on more than 500 of its jets, the latest carrier to go with the satellite internet provider, coming weeks before SpaceX's highly anticipated public offering.",
-                "source": "Yahoo Finance",
+                "title": "Prediction: Elon Musk Will Become the World\u2019s First Trillionaire on June 12th",
+                "summary": "Here\u2019s a prediction worth marking on the calendar: Tesla (NASDAQ:TSLA) CEO Elon Musk will become the world\u2019s first trillionaire on June 12, the reported IPO date for SpaceX. The catalyst is easy to figure out: SpaceX\u2019s public debut will, for the first time, place a continuously quoted market value on the largest single component of ... Prediction: Elon Musk Will Become the World\u2019s First Trillionaire on June 12th",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/american-airlines-stock-jumps-as-the-airline-picks-starlink-for-in-flight-wi-fi-service-170454812.html",
-                "publishDate": "2026-05-26T17:04:54Z",
+                "url": "https://247wallst.com/investing/2026/05/27/prediction-elon-musk-will-become-the-worlds-first-trillionaire-on-june-12th/",
+                "publishDate": "2026-05-27T13:41:40Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "ASTS Stock Jumps Overnight: Europe\u2019s Push Against Starlink Shines Spotlight On AST SpaceMobile\u2019s Vodafone JV",
-                "summary": "Europe\u2019s \u201ctech sovereignty\u201d push has drawn fresh attention to Satellite Connect Europe, AST SpaceMobile\u2019s joint venture with Vodafone.",
+                "title": "Elon Musk\u2019s SpaceX Bitcoin Holdings Could Eclipse Public Companies After IPO Despite Tiny Valuation Share, Grayscale Says",
+                "summary": "More diversified companies are expected to adopt Bitcoin as part of treasury diversification and fiat currency hedging strategies, Grayscale\u2019s Head of Research says.",
                 "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/asts-stock-europe-starlink-push-vodafone-jv-spacex/cZgXuH2ReAc",
-                "publishDate": "2026-05-27T02:25:05Z",
+                "url": "https://stocktwits.com/news-articles/markets/equity/spacex-bitcoin-holdings-largest-ipo-grayscale/cZggaAeRer4",
+                "publishDate": "2026-05-27T13:36:17Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The SpaceX IPO Could Be the Biggest in History. Here's What Investors Should Know Before It Lists",
-                "summary": "The rocket and satellite company is heading for a record-setting debut, but its newly public financials tell a more complicated story.",
-                "source": "Motley Fool",
+                "title": "Alphabet Explores Orbital Data Centers To Power Long Term AI Growth",
+                "summary": "Google, part of Alphabet (NasdaqGS:GOOGL), is reportedly in advanced talks with SpaceX to deploy space-based data centers, aiming to support AI and cloud workloads. Google has joined the Data Center Innovation Initiative alongside Amazon, Meta, and Microsoft to test and co-fund next generation energy and materials technologies for data centers. For investors watching Alphabet, these moves sit at the intersection of cloud infrastructure, AI computing, and energy use. Space-based data...",
+                "source": "Simply Wall St.",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/26/the-spacex-ipo-could-be-the-biggest-in-history-her/",
-                "publishDate": "2026-05-27T01:56:00Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/alphabet-explores-orbital-data-centers-130815257.html",
+                "publishDate": "2026-05-27T13:08:15Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "MNTS Stock Eyes Best Month Ever After Former Astronaut Buys Shares \u2014 Traders Bet On SpaceX IPO Spillover",
-                "summary": "Momentus said the market value of its outstanding shares was $79.8 million, based on its highest Nasdaq closing price over the previous 60 days.",
+                "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
+                "summary": "The database provider is eyeing a public debut within the next few years.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/clickhouse-triples-anualized-revenue-250m-130420958.html",
+                "publishDate": "2026-05-27T13:04:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "MNTS Stock Surged Past Its 200-DMA Yesterday \u2013 Today\u2019s Pre-Market Jump Proves It Could Be A Conviction Move",
+                "summary": "Momentus signed agreements with existing institutional investors on Wednesday to raise about $25 million through a private placement of nearly 2.94 million shares.",
                 "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/mnts-stock-best-month-spacex-ipo-spillover-chris-hadfield-buy/cZgXssJReq6",
-                "publishDate": "2026-05-27T01:07:35Z",
+                "url": "https://stocktwits.com/news-articles/markets/equity/mnts-stock-200-dma-fund-raising-spacex-momentum/cZggBamRerG",
+                "publishDate": "2026-05-27T12:42:15Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX's tiered IPO lockup aims to build a ladder, not a cliff",
-                "summary": "SpaceX\u2019s Starship 39 rocket launches on May 22 during a test flight in Texas. Ronaldo Schemidt/Getty Images The largest planned IPO on record will not have the typical 180-day lockup for existing investors. SpaceX has built a tiered, rolling release schedule designed to meter\u2014not block\u2014sales by its longest-tenured shareholders. While the approach is mainly aimed at tempering stock price volatility, staggered lockups have not always kept a hot, newly listed stock\u2019s price high. Facebook\u2018s 2012 IPO",
-                "source": "Pitchbook",
+                "title": "Why Joby Aviation Stock Is Climbing Today",
+                "summary": "Joby Aviation Gains as FAA Progress and New York Flights Keep the Air Taxi Dream Alive",
+                "source": "GuruFocus.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-tiered-ipo-lockup-aims-231258563.html",
-                "publishDate": "2026-05-26T23:12:58Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-joby-aviation-stock-climbing-123539610.html",
+                "publishDate": "2026-05-27T12:35:39Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Musk mulled combining Tesla and SpaceX - report",
-                "summary": "Investing.com -- Elon Musk has discussed with colleagues the possibility of combining SpaceX with Tesla, according to a CNBC report on Tuesday.",
-                "source": "Investing.com",
+                "title": "Space Force awards SpaceX $2.29B satellite network contract",
+                "summary": "The deal covers the Space Data Network Backbone, a low Earth orbit constellation the Pentagon sees as foundational to its Golden Dome missile defense initiative",
+                "source": "Quartz",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/musk-mulled-combining-tesla-spacex-220221536.html",
-                "publishDate": "2026-05-26T22:02:21Z",
+                "url": "https://qz.com/space-force-spacex-space-data-network-backbone-contract-052726",
+                "publishDate": "2026-05-27T12:19:20Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Here's Who Shouldn't Invest in SpaceX",
-                "summary": "SpaceX is a highly recognizable name, but that doesn't mean everyone should buy shares.",
-                "source": "Motley Fool",
+                "title": "This Space Stocks Boom Has Echoes of the EV Bubble. Red Flags as Rocket Lab and AST Soar.",
+                "summary": "The technical Wall Street term for investors short-selling space stocks right now is \u201cgetting your face ripped off.\u201d  Shares of commercial space companies are on fire lately.  Coming into Wednesday trading, shares of  Rocket Lab  and  AST SpaceMobile  to name two, were up 74% and 55%, respectively, over the past month, leaving them both up more than 380% over the past 12 months.",
+                "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/26/heres-who-shouldnt-invest-in-spacex/",
-                "publishDate": "2026-05-26T21:57:00Z",
+                "url": "https://www.barrons.com/articles/spacex-ipo-rocket-labs-stock-ast-spacemobile-e74fd3a8?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-27T12:01:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX set for fast entry into US, global indexes under new FTSE rules",
-                "summary": "Elon Musk's SpaceX is eligible for inclusion in both the Russell U.S. Equity Indexes and FTSE \u200cGlobal Equity Index Series under newly announced fast-entry rules, according \u200cto index provider FTSE Russell.  FTSE Russell, a London Stock Exchange Group business, proposed introducing \u200ba fast-entry mechanism for initial public offerings and revising eligibility requirements for its Russell U.S. Equity Indexes in February.  SpaceX is estimated to carry an investable market capitalization of about $70 billion, a figure that clears \u200ctwo major index eligibility \u2060thresholds \u2014 the $17.5 billion market-adjusted breakpoint for Russell Top 500 inclusion and the $13.5 billion fast-entry threshold set by the \u2060FTSE GEIS, the index provider said.",
-                "source": "Reuters",
+                "title": "SpaceX's Record IPO Hinges On Starship Working: Flight 12 Has Good News For Investors",
+                "summary": "Elon Musk\u2019s SpaceX pulled off a rough but successful test flight of its upgraded Starship V3 on Friday, days after filing publicly for what may become the largest ever IPO. The SpaceX prospectus told investors its growth strategy is \u201chighly...",
+                "source": "Benzinga",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-set-fast-entry-us-214118178.html",
-                "publishDate": "2026-05-26T21:41:18Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space Stock Rally Continues After SpaceX Prospectus, Starship Explosion",
-                "summary": "Space stocks continue to surge with Redwire, Rocket Lab, Firefly Aerospace among leaders after SpaceX prospectus, Starship launch.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-ipo-momentum-starship-launch-space-stocks-rdw-rklb-fly-voyg-spir/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-26T21:25:02Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-record-ipo-hinges-starship-113104680.html",
+                "publishDate": "2026-05-27T11:31:04Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.665,
+        "price": 29.215,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.98464,
-            "marketCap": 21337157632,
+            "change": -1.5169417,
+            "marketCap": 21013485568,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.91,
+        "price": 30.14,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.00404,
-            "marketCap": 6413549056,
+            "change": -2.4911046,
+            "marketCap": 6253780992,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
