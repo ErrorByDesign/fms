@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.835,
+        "price": 44.745,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4596074,
-            "marketCap": 198700449792,
+            "change": 1.2559892,
+            "marketCap": 198301581312,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.764286
+            "yearTarget": 46.76094
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "2 Space Stocks That Are Quietly Becoming Some of the Market's Best Opportunities",
+                "summary": "Space is becoming increasingly important to national security, and these two companies could become big winners as a result.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/27/2-space-stocks-that-are-quietly-becoming-some-of/",
+                "publishDate": "2026-05-27T17:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "AST SpaceMobile Surges 8%; Virgin Galactic, Rocket Lab Ride the SpaceX IPO Wave",
+                "summary": "Shares of AST SpaceMobile (NASDAQ:ASTS) are up 8% in midday trading on May 27, changing hands near $129. The satellite direct-to-cell name is leading a space-sector sympathy rally tied to SpaceX IPO buzz. The move extends an already torrid run. ASTS stock is up 78% year to date (YTD), making it the headline mover in ... AST SpaceMobile Surges 8%; Virgin Galactic, Rocket Lab Ride the SpaceX IPO Wave",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/27/ast-spacemobile-surges-8-virgin-galactic-rocket-lab-ride-the-spacex-ipo-wave/",
+                "publishDate": "2026-05-27T17:48:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX, Firefly Aerospace Land Contracts. Pentagon Debates Starlink Pricing.",
                 "summary": "The space rally continues ahead of the upcoming SpaceX IPO. Meanwhile, SpaceX won a $2.3 billion contract, and Firefly landed a NASA award. Starlink inked deals with the Pentagon and American Airlines.",
                 "source": "Investor's Business Daily",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-27T15:10:28Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Nasdaq President on Winning SpaceX IPO, Rule Changes",
-                "summary": "Nasdaq President Nelson Griggs says no rules were broken in winning the SpaceX initial public offering, which could be the largest ever. He does talk about new rules that let companies get added to its index faster. He speaks on \"Bloomberg Open Interest.\"",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/nasdaq-president-winning-spacex-ipo-150555133.html",
-                "publishDate": "2026-05-27T15:05:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX won't break the IPO market",
-                "summary": "SpaceX isn't going to break the IPO market, despite some concerns that it may do so.",
-                "source": "Axios",
-                "category": "finance",
-                "url": "https://www.axios.com/2026/05/27/spacex-ipo-market#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-                "publishDate": "2026-05-27T14:34:30Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.395,
+        "price": 29.41,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.910165,
-            "marketCap": 21142953984,
+            "change": -0.85960245,
+            "marketCap": 21153742848,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.16,
+        "price": 30.12,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4263992,
-            "marketCap": 6257930752,
+            "change": -2.556631,
+            "marketCap": 6249631232,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
