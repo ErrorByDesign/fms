@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8146654,
+            "change": 0.814665,
             "marketCap": 197437390848,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.7752
+            "yearTarget": 46.776875
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk Is Beating Eli Lilly in the Obesity Pill Market. Should Lilly Investors Be Worried?",
+                "summary": "There is no reason to panic just yet.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/27/novo-nordisk-is-beating-eli-lilly-in-the-obesity-p/",
+                "publishDate": "2026-05-27T20:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Hims Insider Makes First Stock Purchase Since 2021 Amid Weight-Loss Drug Pivot",
                 "summary": "Hims & Hers Health shares have slumped in 2026 as the telehealth provider moves away from selling compounded GLP-1 medications.",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150915689.html",
                 "publishDate": "2026-05-26T15:09:15Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Can EU Label Expansions of NVO's GLP-1 Drugs Spur Sales Growth?",
-                "summary": "Novo Nordisk's EU label expansions may widen semaglutide use and boost volumes, but pricing pressure and Lilly rivalry can limit recovery.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eu-label-expansions-nvos-glp-141400149.html",
-                "publishDate": "2026-05-26T14:14:00Z",
-                "premium": false,
                 "freemium": false
             }
         ],
