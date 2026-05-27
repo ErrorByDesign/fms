@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.775,
+        "price": 44.745,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3238355,
-            "marketCap": 198434553856,
+            "change": 1.255941,
+            "marketCap": 198301581312,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.771854
+            "yearTarget": 46.785908
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.735,
+        "price": 1.75,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8720922,
-            "marketCap": 162922208,
+            "change": 1.7492695,
+            "marketCap": 164330752,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "US space stocks rise on SpaceX IPO hype",
+                "summary": "<body><p>STORY: :: SpaceX</p><p>Shares of U.S. space companies soared on Wednesday, continuing their rise as investors bet that the upcoming mammoth IPO of Elon Musk's SpaceX could force Wall Street to rethink how it values the space economy.</p><p>Shares of Intuitive Machines shot up more than 13%, AST SpaceMobile jumped almost 7%, while Virgin Galactic added more than 10% at one point in Wednesday morning trading.</p><p>:: Rocket Lab</p><p>:: Archive</p><p>Shares of Rocket Lab and Planet Labs also rose, following big gains in the last two sessions.</p><p>SpaceX is poised to become the first trillion-dollar U.S. market debut, immediately cementing it as one of the world's most valuable publicly traded firms.</p><p>:: SpaceX</p><p>Other public companies related to space travel are hoping to benefit from renewed investor attention.</p><p>:: Spacepharma</p><p>Many have struggled to sustain premium valuations despite growing demand for satellite communications, launch services and defense-related off-planet infrastructure.</p><p>:: SpaceX</p><p>SpaceX last week took the wraps off its IPO filing, which showed how the company is betting its future on transitioning into an AI powerhouse, with expectations of long-term infrastructure dominance.</p></body>",
+                "source": "Reuters Videos",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/us-space-stocks-rise-spacex-183731077.html",
+                "publishDate": "2026-05-27T18:37:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "FAA Requires SpaceX Investigation Before Next Starship Mission",
+                "summary": "Before SpaceX can launch its Starship rocket again, the company needs to conduct an investigation into why the booster didn\u2019t perform as expected during the company\u2019s test flight last Friday, according to the Federal Aviation Administration.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-27-2026/card/faa-requires-spacex-investigation-before-next-starship-mission-4OwcpzRKOKkacFNt22wL?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-27T18:33:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tesla, SpaceX merger inevitable, early investor says",
                 "summary": "Investing.com -- A merger between Elon Musk's space exploration company SpaceX and his EV giant Tesla Inc. is inevitable and only a question of timing, according to early SpaceX investor Peter Diamandis.",
                 "source": "Investing.com",
@@ -348,6 +368,16 @@
                 "category": "finance",
                 "url": "https://www.thestreet.com/crypto/markets/analyst-issues-major-prediction-on-elon-musks-spacex-ipo",
                 "publishDate": "2026-05-27T18:18:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Memory Shortage Is Minting Trillion-Dollar Companies\u2014And the Fastest-Growing ETF in History",
+                "summary": "Shares of Micron soared nearly 20% on Tuesday, lifting its market value above $1 trillion and bringing the Roundhill Memory ETF's return to nearly 120% in less than two months.",
+                "source": "Investopedia",
+                "category": "finance",
+                "url": "https://www.investopedia.com/the-memory-shortage-is-minting-trillion-dollar-companies-and-the-fastest-growing-etf-in-history-dram-11984678",
+                "publishDate": "2026-05-27T17:53:08Z",
                 "premium": false,
                 "freemium": false
             },
@@ -382,42 +412,12 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX, Firefly Aerospace Land Contracts. Pentagon Debates Starlink Pricing.",
-                "summary": "The space rally continues ahead of the upcoming SpaceX IPO. Meanwhile, SpaceX won a $2.3 billion contract, and Firefly landed a NASA award. Starlink inked deals with the Pentagon and American Airlines.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-space-force-contract-starlink-pentagon-american-airlines-firefly-aerospace-nasa-space-stocks/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-27T17:21:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Could Create a New Wave of Millionaires. Investing in It Isn't the Only Way to Play.",
-                "summary": "SpaceX's IPO could reward investors in more ways than one.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/27/the-spacex-ipo-could-create-a-new-wave-of-milliona/",
-                "publishDate": "2026-05-27T17:11:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Investor Powerlaw Debuts on Nasdaq as IPO Race Heats Up",
-                "summary": "(Bloomberg) -- Powerlaw Corp., a closed-end fund that owns stakes in Elon Musk\u2019s SpaceX and artificial intelligence firm OpenAI, traded well above the value of its underlying investments in its debut on Wednesday, capitalizing on retail investors\u2019 clamor for exposure to the hottest private tech companies.Most Read from BloombergIran\u2019s Khamenei Says No Going Back for Middle East Rocked by WarSingapore Hands Byju's Founder His First Ever Jail TermPutin Signs Law on Use of Army to Aid Russians Deta",
+                "title": "SpaceX-Tesla Merger Is \u2018Only a Matter of When,\u2019 Early Investor Says",
+                "summary": "(Bloomberg) -- A post-IPO merger between SpaceX and Tesla Inc. is inevitable and only a question of timing, because Elon Musk will want to consolidate control across his companies, according to early SpaceX investor Peter Diamandis.Most Read from BloombergIran\u2019s Khamenei Says No Going Back for Middle East Rocked by WarSingapore Hands Byju's Founder His First Ever Jail TermPutin Signs Law on Use of Army to Aid Russians Detained AbroadRussia Tells US to Evacuate Its Diplomats and Citizens From Kyi",
                 "source": "Bloomberg",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/news/spacex-investor-powerlaw-debuts-nasdaq-164325368.html",
-                "publishDate": "2026-05-27T16:43:25Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "EchoStar (SATS) Is Down 9.8% After Transferring Spectrum To SpaceX-Linked Trusts Has The Bull Case Changed?",
-                "summary": "EchoStar Corporation has already completed the closing of its Spectrum Transfer under an amended license purchase agreement involving SpaceX and Spectrum Business Trust 2025-1, moving a substantial portion of its spectrum assets into the trust as part of a multi-stage transaction. This complex deal not only reshapes EchoStar\u2019s spectrum portfolio but also strengthens its role as a rare public-market conduit for SpaceX exposure ahead of the anticipated IPO. With EchoStar\u2019s spectrum transfer to...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-sats-down-9-8-160707132.html",
-                "publishDate": "2026-05-27T16:07:07Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-only-matter-172243212.html",
+                "publishDate": "2026-05-27T17:22:43Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.45,
+        "price": 29.5,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.7247603,
-            "marketCap": 21182513152,
+            "change": -0.5562141,
+            "marketCap": 21218476032,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.135,
+        "price": 30.02,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.507278,
-            "marketCap": 6252743680,
+            "change": -2.8793252,
+            "marketCap": 6228881920,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
