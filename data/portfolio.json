@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.745,
+        "price": 44.775,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2559892,
-            "marketCap": 198301581312,
+            "change": 1.3238355,
+            "marketCap": 198434553856,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.76094
+            "yearTarget": 46.771854
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.72,
+        "price": 1.735,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 161513664,
+            "change": 0.8720922,
+            "marketCap": 162922208,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Tesla, SpaceX merger inevitable, early investor says",
+                "summary": "Investing.com -- A merger between Elon Musk's space exploration company SpaceX and his EV giant Tesla Inc. is inevitable and only a question of timing, according to early SpaceX investor Peter Diamandis.",
+                "source": "Investing.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-inevitable-early-182330641.html",
+                "publishDate": "2026-05-27T18:23:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Analyst issues major prediction on Elon Musk's SpaceX IPO",
+                "summary": "When Elon Musk's SpaceX goes public in early June, it will arrive on the markets with a new distinction, according to Grayscale's Head of Research, Zach Pandl. Musk's space company filed for an initial public offering on May 20, confirming plans to list on Nasdaq under the ticker SPCX. The ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/crypto/markets/analyst-issues-major-prediction-on-elon-musks-spacex-ipo",
+                "publishDate": "2026-05-27T18:18:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "2 Space Stocks That Are Quietly Becoming Some of the Market's Best Opportunities",
                 "summary": "Space is becoming increasingly important to national security, and these two companies could become big winners as a result.",
                 "source": "Motley Fool",
@@ -348,6 +368,16 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/05/27/ast-spacemobile-surges-8-virgin-galactic-rocket-lab-ride-the-spacex-ipo-wave/",
                 "publishDate": "2026-05-27T17:48:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX's Orbital Solar Push Has Elon Musk Thinking Bigger Than Ever\u2014 He Says The '10X' Trend Will Last For Years",
+                "summary": "SpaceX Founder, Elon Musk, anticipates a steady surge in space solar power, according to his recent post. On Monday, Musk responded to a post by David Holz, founder of MidJourney, highlighting SpaceX\u2019s escalating solar power capacity in space. Holz noted...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/spacexs-orbital-solar-push-elon-173048196.html",
+                "publishDate": "2026-05-27T17:30:48Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-27T16:07:07Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "An Upcoming IPO Could Soon Surpass NVIDIA As The World\u2019s Most Valuable Company (It\u2019s Not SpaceX)",
-                "summary": "The biggest IPO conversation right now centers on SpaceX\u2019s reported June 12 listing. Gavin Baker, founder and Chief Investment Officer of Atreides Management, thinks investors are watching the wrong name. On a recent episode of the Invest Like the Best YouTube channel, Baker argued that Anthropic, the private AI lab behind Claude, has a more ... An Upcoming IPO Could Soon Surpass NVIDIA As The World\u2019s Most Valuable Company (It\u2019s Not SpaceX)",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/27/an-upcoming-ipo-could-soon-surpass-nvidia-as-the-worlds-most-valuable-company-its-not-spacex/",
-                "publishDate": "2026-05-27T16:02:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk's SpaceX is going public. 5 things to know about its IPO",
-                "summary": "Billionaire Elon Musk's SpaceX is planning an initial public offering in June that could be the largest ever. Here's what you need to know about it.",
-                "source": "USA TODAY",
-                "category": "finance",
-                "url": "https://www.usatoday.com/story/news/nation/2026/05/27/spacex-ipo-elon-musk/90257916007/",
-                "publishDate": "2026-05-27T15:48:14Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Bitcoin Falls Below $75K \u2013 SpaceX, OpenAI, Anthropic IPOs Are \u2018Draining\u2019 Liquidity From Crypto, Says Analyst",
-                "summary": "Upcoming public market debuts from SpaceX, OpenAI, and Anthropic are increasingly being viewed as competition for capital flowing into crypto and technology stocks.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-falls-below-75-k-spacex-openai-anthropic-ipos-are-draining-liquidity-from-crypto/cZggg9RRerX",
-                "publishDate": "2026-05-27T15:10:28Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.41,
+        "price": 29.45,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.85960245,
-            "marketCap": 21153742848,
+            "change": -0.7247603,
+            "marketCap": 21182513152,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.12,
+        "price": 30.135,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.556631,
-            "marketCap": 6249631232,
+            "change": -2.507278,
+            "marketCap": 6252743680,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
