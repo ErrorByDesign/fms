@@ -20,7 +20,7 @@
             "marketCap": 197437390848,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.776875
+            "yearTarget": 46.79115
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NVO) Among Our Most Undervalued Foreign Stocks to Buy Now",
+                "summary": "Novo Nordisk A/S (NYSE:NVO) is one of the Most Undervalued Foreign Stocks to Buy Now. On May 6, Reuters reported that Novo Nordisk A/S (NYSE:NVO) topped first-quarter profit forecasts and also raised the full-year outlook slightly. The results were driven by the company\u2019s new Wegovy weight-loss pill, which was launched in the US in January. [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-among-most-213937280.html",
+                "publishDate": "2026-05-27T21:39:37Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Is Beating Eli Lilly in the Obesity Pill Market. Should Lilly Investors Be Worried?",
                 "summary": "There is no reason to panic just yet.",
@@ -119,16 +129,6 @@
                 "url": "https://www.investors.com/news/ozempic-glp-1-weight-loss-drugs-restaurants/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-05-26T17:36:47Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Track Higher in Tuesday Trading",
-                "summary": "European equities traded in the US as American depositary receipts were trending higher late Tuesday",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150915689.html",
-                "publishDate": "2026-05-26T15:09:15Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -332,6 +332,66 @@
                 "freemium": false
             },
             {
+                "title": "Stocks making big moves yesterday: Allient, AutoZone, Redwire, Marvell Technology, and AppLovin",
+                "summary": "Check out the companies making headlines yesterday:",
+                "source": "StockStory",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-213724778.html",
+                "publishDate": "2026-05-27T21:37:24Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here's How Much Bitcoin Elon Musk Would Control If SpaceX and Tesla Merge",
+                "summary": "If Tesla and SpaceX merged\u2014as is a reported possibility\u2014then Elon Musk's combined entity would hold billions of dollars' worth of Bitcoin.",
+                "source": "decrypt",
+                "category": "finance",
+                "url": "https://decrypt.co/369240/how-much-bitcoin-elon-musk-control-spacex-tesla-merge",
+                "publishDate": "2026-05-27T21:07:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Open Sesame \u2014 Heard on the Street Recap",
+                "summary": "Oil prices fell on a new report of progress in negotiations.  Iran\u2019s state broadcaster reported that a draft framework being negotiated with the U.S. includes restoring commercial shipping to prewar levels within a month.  President Trump, speaking at a cabinet meeting, signaled that he was prepared to keep negotiating but didn\u2019t exclude further military action.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-27-2026/card/open-sesame-heard-on-the-street-recap-VVEgNy9dnyxfYNDlQuyA?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-27T20:51:08Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Starship Grounded After Mishap. Pentagon Awards Contract, Debates Starlink Prices.",
+                "summary": "The FAA grounded Starship after its booster explosion. SpaceX won a $2.3 billion contract, and Firefly landed a NASA award. Starlink inked deals with the Pentagon and American Airlines",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-space-force-contract-starlink-pentagon-american-airlines-firefly-aerospace-nasa-space-stocks/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-27T20:46:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Just Revealed Its Finances. Is It a Warning Sign to Stay Away?",
+                "summary": "The company is losing money and bleeding cash.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/27/spacex-reveal-finances-warning-ipo/",
+                "publishDate": "2026-05-27T20:36:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Tesla Stock Could Be Setting Up for a Major Breakout, Charts Show",
+                "summary": "Tesla stock is approaching key technical resistance levels as improving momentum, bullish reversal patterns, and renewed enthusiasm around Elon Musk\u2019s AI and robotics ecosystem support the setup.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/tesla-stock-bullish-setup-multiple-timeframes-ea863aa3?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-27T19:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Sector Update: Consumer Stocks Rise Late Afternoon",
                 "summary": "Consumer stocks were higher late Wednesday afternoon, with the State Street Consumer Staples Select",
                 "source": "MT Newswires",
@@ -358,66 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/us-space-stocks-rise-spacex-183731077.html",
                 "publishDate": "2026-05-27T18:37:31Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "FAA Requires SpaceX Investigation Before Next Starship Mission",
-                "summary": "Before SpaceX can launch its Starship rocket again, the company needs to conduct an investigation into why the booster didn\u2019t perform as expected during the company\u2019s test flight last Friday, according to the Federal Aviation Administration.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-27-2026/card/faa-requires-spacex-investigation-before-next-starship-mission-4OwcpzRKOKkacFNt22wL?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-27T18:33:48Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla, SpaceX merger inevitable, early investor says",
-                "summary": "Investing.com -- A merger between Elon Musk's space exploration company SpaceX and his EV giant Tesla Inc. is inevitable and only a question of timing, according to early SpaceX investor Peter Diamandis.",
-                "source": "Investing.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/tesla-spacex-merger-inevitable-early-182330641.html",
-                "publishDate": "2026-05-27T18:23:30Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Analyst issues major prediction on Elon Musk's SpaceX IPO",
-                "summary": "When Elon Musk's SpaceX goes public in early June, it will arrive on the markets with a new distinction, according to Grayscale's Head of Research, Zach Pandl. Musk's space company filed for an initial public offering on May 20, confirming plans to list on Nasdaq under the ticker SPCX. The ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/crypto/markets/analyst-issues-major-prediction-on-elon-musks-spacex-ipo",
-                "publishDate": "2026-05-27T18:18:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Memory Shortage Is Minting Trillion-Dollar Companies\u2014And the Fastest-Growing ETF in History",
-                "summary": "Shares of Micron soared nearly 20% on Tuesday, lifting its market value above $1 trillion and bringing the Roundhill Memory ETF's return to nearly 120% in less than two months.",
-                "source": "Investopedia",
-                "category": "finance",
-                "url": "https://www.investopedia.com/the-memory-shortage-is-minting-trillion-dollar-companies-and-the-fastest-growing-etf-in-history-dram-11984678",
-                "publishDate": "2026-05-27T17:53:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "2 Space Stocks That Are Quietly Becoming Some of the Market's Best Opportunities",
-                "summary": "Space is becoming increasingly important to national security, and these two companies could become big winners as a result.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/27/2-space-stocks-that-are-quietly-becoming-some-of/",
-                "publishDate": "2026-05-27T17:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "AST SpaceMobile Surges 8%; Virgin Galactic, Rocket Lab Ride the SpaceX IPO Wave",
-                "summary": "Shares of AST SpaceMobile (NASDAQ:ASTS) are up 8% in midday trading on May 27, changing hands near $129. The satellite direct-to-cell name is leading a space-sector sympathy rally tied to SpaceX IPO buzz. The move extends an already torrid run. ASTS stock is up 78% year to date (YTD), making it the headline mover in ... AST SpaceMobile Surges 8%; Virgin Galactic, Rocket Lab Ride the SpaceX IPO Wave",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/27/ast-spacemobile-surges-8-virgin-galactic-rocket-lab-ride-the-spacex-ipo-wave/",
-                "publishDate": "2026-05-27T17:48:04Z",
                 "premium": false,
                 "freemium": false
             }
