@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.745,
+        "price": 44.55,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.255941,
-            "marketCap": 198301581312,
+            "change": 0.8146654,
+            "marketCap": 197437390848,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.778915
+            "yearTarget": 46.7752
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7441844,
+            "change": 1.7441843,
             "marketCap": 164330752,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -352,16 +352,6 @@
                 "freemium": false
             },
             {
-                "title": "Stock Market Today: Dow Higher As Oil Falls To $90; Tesla Gains Amid SpaceX Chatter (Live Coverage)",
-                "summary": "Stock Market Today: The Dow Jones index rises Wednesday as oil prices continue to tumble. Micron stock advances.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-micron-stock-mu-2/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-27T19:15:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "US space stocks rise on SpaceX IPO hype",
                 "summary": "<body><p>STORY: :: SpaceX</p><p>Shares of U.S. space companies soared on Wednesday, continuing their rise as investors bet that the upcoming mammoth IPO of Elon Musk's SpaceX could force Wall Street to rethink how it values the space economy.</p><p>Shares of Intuitive Machines shot up more than 13%, AST SpaceMobile jumped almost 7%, while Virgin Galactic added more than 10% at one point in Wednesday morning trading.</p><p>:: Rocket Lab</p><p>:: Archive</p><p>Shares of Rocket Lab and Planet Labs also rose, following big gains in the last two sessions.</p><p>SpaceX is poised to become the first trillion-dollar U.S. market debut, immediately cementing it as one of the world's most valuable publicly traded firms.</p><p>:: SpaceX</p><p>Other public companies related to space travel are hoping to benefit from renewed investor attention.</p><p>:: Spacepharma</p><p>Many have struggled to sustain premium valuations despite growing demand for satellite communications, launch services and defense-related off-planet infrastructure.</p><p>:: SpaceX</p><p>SpaceX last week took the wraps off its IPO filing, which showed how the company is betting its future on transitioning into an AI powerhouse, with expectations of long-term infrastructure dominance.</p></body>",
                 "source": "Reuters Videos",
@@ -420,6 +410,16 @@
                 "publishDate": "2026-05-27T17:50:00Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "AST SpaceMobile Surges 8%; Virgin Galactic, Rocket Lab Ride the SpaceX IPO Wave",
+                "summary": "Shares of AST SpaceMobile (NASDAQ:ASTS) are up 8% in midday trading on May 27, changing hands near $129. The satellite direct-to-cell name is leading a space-sector sympathy rally tied to SpaceX IPO buzz. The move extends an already torrid run. ASTS stock is up 78% year to date (YTD), making it the headline mover in ... AST SpaceMobile Surges 8%; Virgin Galactic, Rocket Lab Ride the SpaceX IPO Wave",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/27/ast-spacemobile-surges-8-virgin-galactic-rocket-lab-ride-the-spacex-ipo-wave/",
+                "publishDate": "2026-05-27T17:48:04Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.445,
+        "price": 29.58,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.7416188,
-            "marketCap": 21178916864,
+            "change": -0.28653628,
+            "marketCap": 21276018688,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.89,
+        "price": 29.71,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2999043,
-            "marketCap": 6201908224,
+            "change": -3.8822412,
+            "marketCap": 6164559360,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
