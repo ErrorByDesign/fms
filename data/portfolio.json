@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.91,
+        "price": 44.815,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.6293308,
-            "marketCap": 199032848384,
+            "change": 1.4143472,
+            "marketCap": 198611812352,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.789032
+            "yearTarget": 46.75985
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.78,
+        "price": 1.72,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.4883687,
-            "marketCap": 167147856,
+            "change": 0.0,
+            "marketCap": 161513664,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,12 +332,12 @@
                 "freemium": false
             },
             {
-                "title": "American Airlines stock jumps as the airline picks Starlink for in-flight Wi-Fi service",
-                "summary": "American Airlines struck a deal with SpaceX's Starlink for Wi-Fi service on more than 500 of its jets, the latest carrier to go with the satellite internet provider, coming weeks before SpaceX's highly anticipated public offering.",
-                "source": "Yahoo Finance",
+                "title": "SpaceX Investor Powerlaw Debuts on Nasdaq as IPO Race Heats Up",
+                "summary": "(Bloomberg) -- Powerlaw Corp., a closed-end fund that owns stakes in Elon Musk\u2019s SpaceX and artificial intelligence firm OpenAI, traded well above the value of its underlying investments in its debut on Wednesday, capitalizing on retail investors\u2019 clamor for exposure to the hottest private tech companies.Most Read from BloombergIran\u2019s Khamenei Says No Going Back for Middle East Rocked by WarSingapore Hands Byju's Founder His First Ever Jail TermPutin Signs Law on Use of Army to Aid Russians Deta",
+                "source": "Bloomberg",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/american-airlines-stock-jumps-as-the-airline-picks-starlink-for-in-flight-wi-fi-service-170454812.html",
-                "publishDate": "2026-05-26T17:04:54Z",
+                "url": "https://finance.yahoo.com/news/spacex-investor-powerlaw-debuts-nasdaq-164325368.html",
+                "publishDate": "2026-05-27T16:43:25Z",
                 "premium": false,
                 "freemium": false
             },
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.135,
+        "price": 29.185,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7866195,
-            "marketCap": 20955942912,
+            "change": -1.6180732,
+            "marketCap": 20991905792,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.13,
+        "price": 30.0,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.5234575,
-            "marketCap": 6251705856,
+            "change": -2.9440305,
+            "marketCap": 6224732160,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
