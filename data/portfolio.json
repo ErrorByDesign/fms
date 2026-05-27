@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.0,
+        "price": 44.965,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.8329971,
-            "marketCap": 199431700480,
+            "change": 1.7539924,
+            "marketCap": 199276593152,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.79071
+            "yearTarget": 46.781464
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Hims Insider Makes First Stock Purchase Since 2021 Amid Weight-Loss Drug Pivot",
+                "summary": "Hims & Hers Health shares have slumped in 2026 as the telehealth provider moves away from selling compounded GLP-1 medications.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/hims-stock-insider-weight-loss-glp1-drug-0388a2a7?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-27T15:32:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk vs. Amgen: Which Pharma Stock Is the Better Buy?",
+                "summary": "NVO and AMGN square off as GLP-1 leadership, pipeline depth and diversification shape a compelling healthcare stock comparison.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-vs-amgen-pharma-143200820.html",
+                "publishDate": "2026-05-27T14:32:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "HIMS Stock Heads For Weekly Loss \u2014 But Ex-Netflix CFO Is Buying The Dip Despite BofA\u2019s GLP-1 Warning",
                 "summary": "BofA cut its HIMS price target to $25 from $28, while warning that the company\u2019s 2026 outlook depends on a \u201csignificant\u201d ramp-up in GLP-1 growth.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-26T14:14:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk and Eli Lilly Just Delivered Potential Breakthrough for Cancer Patients",
-                "summary": "New Cancer Research Could Be a Massive Game Changer for Ozempic and Mounjaro",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-eli-lilly-just-132550586.html",
-                "publishDate": "2026-05-26T13:25:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Live Longer and Better. Does \u2019Biohacking\u2019 Really Work?",
-                "summary": "The longevity industry is booming with high-tech tests, drugs, and medical devices. What to know for your health\u2014and personal finances.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/longevity-drugs-healthcare-personal-finance-713570de?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-26T13:24:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.72,
+        "price": 1.78,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 161513664,
+            "change": 3.4883687,
+            "marketCap": 167147856,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -342,12 +342,52 @@
                 "freemium": false
             },
             {
+                "title": "EchoStar (SATS) Is Down 9.8% After Transferring Spectrum To SpaceX-Linked Trusts Has The Bull Case Changed?",
+                "summary": "EchoStar Corporation has already completed the closing of its Spectrum Transfer under an amended license purchase agreement involving SpaceX and Spectrum Business Trust 2025-1, moving a substantial portion of its spectrum assets into the trust as part of a multi-stage transaction. This complex deal not only reshapes EchoStar\u2019s spectrum portfolio but also strengthens its role as a rare public-market conduit for SpaceX exposure ahead of the anticipated IPO. With EchoStar\u2019s spectrum transfer to...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/echostar-sats-down-9-8-160707132.html",
+                "publishDate": "2026-05-27T16:07:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "An Upcoming IPO Could Soon Surpass NVIDIA As The World\u2019s Most Valuable Company (It\u2019s Not SpaceX)",
+                "summary": "The biggest IPO conversation right now centers on SpaceX\u2019s reported June 12 listing. Gavin Baker, founder and Chief Investment Officer of Atreides Management, thinks investors are watching the wrong name. On a recent episode of the Invest Like the Best YouTube channel, Baker argued that Anthropic, the private AI lab behind Claude, has a more ... An Upcoming IPO Could Soon Surpass NVIDIA As The World\u2019s Most Valuable Company (It\u2019s Not SpaceX)",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/27/an-upcoming-ipo-could-soon-surpass-nvidia-as-the-worlds-most-valuable-company-its-not-spacex/",
+                "publishDate": "2026-05-27T16:02:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk's SpaceX is going public. 5 things to know about its IPO",
+                "summary": "Billionaire Elon Musk's SpaceX is planning an initial public offering in June that could be the largest ever. Here's what you need to know about it.",
+                "source": "USA TODAY",
+                "category": "finance",
+                "url": "https://www.usatoday.com/story/news/nation/2026/05/27/spacex-ipo-elon-musk/90257916007/",
+                "publishDate": "2026-05-27T15:48:14Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Bitcoin Falls Below $75K \u2013 SpaceX, OpenAI, Anthropic IPOs Are \u2018Draining\u2019 Liquidity From Crypto, Says Analyst",
                 "summary": "Upcoming public market debuts from SpaceX, OpenAI, and Anthropic are increasingly being viewed as competition for capital flowing into crypto and technology stocks.",
                 "source": "Stocktwits",
                 "category": "finance",
                 "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-falls-below-75-k-spacex-openai-anthropic-ipos-are-draining-liquidity-from-crypto/cZggg9RRerX",
                 "publishDate": "2026-05-27T15:10:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Nasdaq President on Winning SpaceX IPO, Rule Changes",
+                "summary": "Nasdaq President Nelson Griggs says no rules were broken in winning the SpaceX initial public offering, which could be the largest ever. He does talk about new rules that let companies get added to its index faster. He speaks on \"Bloomberg Open Interest.\"",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/nasdaq-president-winning-spacex-ipo-150555133.html",
+                "publishDate": "2026-05-27T15:05:55Z",
                 "premium": false,
                 "freemium": false
             },
@@ -380,46 +420,6 @@
                 "publishDate": "2026-05-27T13:41:40Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s SpaceX Bitcoin Holdings Could Eclipse Public Companies After IPO Despite Tiny Valuation Share, Grayscale Says",
-                "summary": "More diversified companies are expected to adopt Bitcoin as part of treasury diversification and fiat currency hedging strategies, Grayscale\u2019s Head of Research says.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/spacex-bitcoin-holdings-largest-ipo-grayscale/cZggaAeRer4",
-                "publishDate": "2026-05-27T13:36:17Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Alphabet Explores Orbital Data Centers To Power Long Term AI Growth",
-                "summary": "Google, part of Alphabet (NasdaqGS:GOOGL), is reportedly in advanced talks with SpaceX to deploy space-based data centers, aiming to support AI and cloud workloads. Google has joined the Data Center Innovation Initiative alongside Amazon, Meta, and Microsoft to test and co-fund next generation energy and materials technologies for data centers. For investors watching Alphabet, these moves sit at the intersection of cloud infrastructure, AI computing, and energy use. Space-based data...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/alphabet-explores-orbital-data-centers-130815257.html",
-                "publishDate": "2026-05-27T13:08:15Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "ClickHouse triples anualized revenue to $250M, charting a path toward an IPO",
-                "summary": "The database provider is eyeing a public debut within the next few years.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/clickhouse-triples-anualized-revenue-250m-130420958.html",
-                "publishDate": "2026-05-27T13:04:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "MNTS Stock Surged Past Its 200-DMA Yesterday \u2013 Today\u2019s Pre-Market Jump Proves It Could Be A Conviction Move",
-                "summary": "Momentus signed agreements with existing institutional investors on Wednesday to raise about $25 million through a private placement of nearly 2.94 million shares.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/mnts-stock-200-dma-fund-raising-spacex-momentum/cZggBamRerG",
-                "publishDate": "2026-05-27T12:42:15Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.18,
+        "price": 29.21,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6349254,
-            "marketCap": 20988309504,
+            "change": -1.5338001,
+            "marketCap": 21009887232,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.2,
+        "price": 29.98,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2969882,
-            "marketCap": 6266230784,
+            "change": -3.0087361,
+            "marketCap": 6220582400,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
