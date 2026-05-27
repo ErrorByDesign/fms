@@ -20,7 +20,7 @@
             "marketCap": 198301581312,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.785908
+            "yearTarget": 46.778915
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7492695,
+            "change": 1.7441844,
             "marketCap": 164330752,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -332,6 +332,36 @@
                 "freemium": false
             },
             {
+                "title": "Sector Update: Consumer Stocks Rise Late Afternoon",
+                "summary": "Consumer stocks were higher late Wednesday afternoon, with the State Street Consumer Staples Select",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-193151137.html",
+                "publishDate": "2026-05-27T19:31:51Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Russell Indexes Adjust For SpaceX IPO, Shifting Market Profile",
+                "summary": "Major IPO stocks could gain entry into the Russell indexes just a few days after going public under changes FTSE Russell made to reflect upcoming IPOs and the stock market's growth.  The new rules mean that a large IPO such as SpaceX could be in the Russell U.S. Indexes after the fifth day of trading.  FTSE Russell said IPOs must meet certain requirements for the Fast Entry Rule.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/russell-indexes-adjust-for-spacex-ipo-shifting-market-profile/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-27T19:27:19Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Stock Market Today: Dow Higher As Oil Falls To $90; Tesla Gains Amid SpaceX Chatter (Live Coverage)",
+                "summary": "Stock Market Today: The Dow Jones index rises Wednesday as oil prices continue to tumble. Micron stock advances.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-oil-prices-micron-stock-mu-2/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-27T19:15:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "US space stocks rise on SpaceX IPO hype",
                 "summary": "<body><p>STORY: :: SpaceX</p><p>Shares of U.S. space companies soared on Wednesday, continuing their rise as investors bet that the upcoming mammoth IPO of Elon Musk's SpaceX could force Wall Street to rethink how it values the space economy.</p><p>Shares of Intuitive Machines shot up more than 13%, AST SpaceMobile jumped almost 7%, while Virgin Galactic added more than 10% at one point in Wednesday morning trading.</p><p>:: Rocket Lab</p><p>:: Archive</p><p>Shares of Rocket Lab and Planet Labs also rose, following big gains in the last two sessions.</p><p>SpaceX is poised to become the first trillion-dollar U.S. market debut, immediately cementing it as one of the world's most valuable publicly traded firms.</p><p>:: SpaceX</p><p>Other public companies related to space travel are hoping to benefit from renewed investor attention.</p><p>:: Spacepharma</p><p>Many have struggled to sustain premium valuations despite growing demand for satellite communications, launch services and defense-related off-planet infrastructure.</p><p>:: SpaceX</p><p>SpaceX last week took the wraps off its IPO filing, which showed how the company is betting its future on transitioning into an AI powerhouse, with expectations of long-term infrastructure dominance.</p></body>",
                 "source": "Reuters Videos",
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-27T17:50:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "AST SpaceMobile Surges 8%; Virgin Galactic, Rocket Lab Ride the SpaceX IPO Wave",
-                "summary": "Shares of AST SpaceMobile (NASDAQ:ASTS) are up 8% in midday trading on May 27, changing hands near $129. The satellite direct-to-cell name is leading a space-sector sympathy rally tied to SpaceX IPO buzz. The move extends an already torrid run. ASTS stock is up 78% year to date (YTD), making it the headline mover in ... AST SpaceMobile Surges 8%; Virgin Galactic, Rocket Lab Ride the SpaceX IPO Wave",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/27/ast-spacemobile-surges-8-virgin-galactic-rocket-lab-ride-the-spacex-ipo-wave/",
-                "publishDate": "2026-05-27T17:48:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's Orbital Solar Push Has Elon Musk Thinking Bigger Than Ever\u2014 He Says The '10X' Trend Will Last For Years",
-                "summary": "SpaceX Founder, Elon Musk, anticipates a steady surge in space solar power, according to his recent post. On Monday, Musk responded to a post by David Holz, founder of MidJourney, highlighting SpaceX\u2019s escalating solar power capacity in space. Holz noted...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/spacexs-orbital-solar-push-elon-173048196.html",
-                "publishDate": "2026-05-27T17:30:48Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX-Tesla Merger Is \u2018Only a Matter of When,\u2019 Early Investor Says",
-                "summary": "(Bloomberg) -- A post-IPO merger between SpaceX and Tesla Inc. is inevitable and only a question of timing, because Elon Musk will want to consolidate control across his companies, according to early SpaceX investor Peter Diamandis.Most Read from BloombergIran\u2019s Khamenei Says No Going Back for Middle East Rocked by WarSingapore Hands Byju's Founder His First Ever Jail TermPutin Signs Law on Use of Army to Aid Russians Detained AbroadRussia Tells US to Evacuate Its Diplomats and Citizens From Kyi",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-tesla-merger-only-matter-172243212.html",
-                "publishDate": "2026-05-27T17:22:43Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.5,
+        "price": 29.445,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5562141,
-            "marketCap": 21218476032,
+            "change": -0.7416188,
+            "marketCap": 21178916864,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.02,
+        "price": 29.89,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8793252,
-            "marketCap": 6228881920,
+            "change": -3.2999043,
+            "marketCap": 6201908224,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Newmont vs. SSR Mining: Which Gold Stock Is a Better Buy in 2026?",
+                "summary": "This is a battle between a gold giant generating record cash flows and a smaller miner about to sell its most problematic mine and get $1.5 billion.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/coverage/better-buy/2026/05/27/newmont-vs-ssr-mining-which-gold-stock-is-a-better-buy-in-2026/",
+                "publishDate": "2026-05-27T19:13:32Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Harvest Investment Services Dumps 356,000 Adaptive Biotechnologies (ADPT) Shares Worth $5.7 Million",
                 "summary": "Adaptive Biotechnologies develops immune-driven diagnostics and research tools for the life sciences and healthcare sectors.",
@@ -697,16 +707,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-inks-deal-sell-162700772.html",
                 "publishDate": "2026-05-19T16:27:00Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "RBC Capital Markets Maintains SSR Mining's Sector Perform Rating, US$45 Price Target",
-                "summary": "RBC Capital Markets gave SSR Mining (SSRM.TO) a sector perform rating with a price target of US$45 a",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/rbc-capital-markets-maintains-ssr-142539650.html",
-                "publishDate": "2026-05-19T14:25:39Z",
-                "premium": true,
                 "freemium": false
             }
         ],
