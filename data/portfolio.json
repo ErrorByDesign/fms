@@ -20,7 +20,7 @@
             "marketCap": 195841933312,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.790348
+            "yearTarget": 46.80572
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -6.0109296,
+            "change": -6.01093,
             "marketCap": 161513664,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -342,82 +342,82 @@
                 "freemium": false
             },
             {
+                "title": "ASTS Stock Jumps Overnight: Europe\u2019s Push Against Starlink Shines Spotlight On AST SpaceMobile\u2019s Vodafone JV",
+                "summary": "Europe\u2019s \u201ctech sovereignty\u201d push has drawn fresh attention to Satellite Connect Europe, AST SpaceMobile\u2019s joint venture with Vodafone.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/asts-stock-europe-starlink-push-vodafone-jv-spacex/cZgXuH2ReAc",
+                "publishDate": "2026-05-27T02:25:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Could Be the Biggest in History. Here's What Investors Should Know Before It Lists",
+                "summary": "The rocket and satellite company is heading for a record-setting debut, but its newly public financials tell a more complicated story.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/26/the-spacex-ipo-could-be-the-biggest-in-history-her/",
+                "publishDate": "2026-05-27T01:56:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "MNTS Stock Eyes Best Month Ever After Former Astronaut Buys Shares \u2014 Traders Bet On SpaceX IPO Spillover",
+                "summary": "Momentus said the market value of its outstanding shares was $79.8 million, based on its highest Nasdaq closing price over the previous 60 days.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/mnts-stock-best-month-spacex-ipo-spillover-chris-hadfield-buy/cZgXssJReq6",
+                "publishDate": "2026-05-27T01:07:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX's tiered IPO lockup aims to build a ladder, not a cliff",
+                "summary": "SpaceX\u2019s Starship 39 rocket launches on May 22 during a test flight in Texas. Ronaldo Schemidt/Getty Images The largest planned IPO on record will not have the typical 180-day lockup for existing investors. SpaceX has built a tiered, rolling release schedule designed to meter\u2014not block\u2014sales by its longest-tenured shareholders. While the approach is mainly aimed at tempering stock price volatility, staggered lockups have not always kept a hot, newly listed stock\u2019s price high. Facebook\u2018s 2012 IPO",
+                "source": "Pitchbook",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-tiered-ipo-lockup-aims-231258563.html",
+                "publishDate": "2026-05-26T23:12:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk mulled combining Tesla and SpaceX - report",
+                "summary": "Investing.com -- Elon Musk has discussed with colleagues the possibility of combining SpaceX with Tesla, according to a CNBC report on Tuesday.",
+                "source": "Investing.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/musk-mulled-combining-tesla-spacex-220221536.html",
+                "publishDate": "2026-05-26T22:02:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here's Who Shouldn't Invest in SpaceX",
+                "summary": "SpaceX is a highly recognizable name, but that doesn't mean everyone should buy shares.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/26/heres-who-shouldnt-invest-in-spacex/",
+                "publishDate": "2026-05-26T21:57:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX set for fast entry into US, global indexes under new FTSE rules",
+                "summary": "Elon Musk's SpaceX is eligible for inclusion in both the Russell U.S. Equity Indexes and FTSE \u200cGlobal Equity Index Series under newly announced fast-entry rules, according \u200cto index provider FTSE Russell.  FTSE Russell, a London Stock Exchange Group business, proposed introducing \u200ba fast-entry mechanism for initial public offerings and revising eligibility requirements for its Russell U.S. Equity Indexes in February.  SpaceX is estimated to carry an investable market capitalization of about $70 billion, a figure that clears \u200ctwo major index eligibility \u2060thresholds \u2014 the $17.5 billion market-adjusted breakpoint for Russell Top 500 inclusion and the $13.5 billion fast-entry threshold set by the \u2060FTSE GEIS, the index provider said.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-set-fast-entry-us-214118178.html",
+                "publishDate": "2026-05-26T21:41:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space Stock Rally Continues After SpaceX Prospectus, Starship Explosion",
                 "summary": "Space stocks continue to surge with Redwire, Rocket Lab, Firefly Aerospace among leaders after SpaceX prospectus, Starship launch.",
                 "source": "Investor's Business Daily",
                 "category": "finance",
                 "url": "https://www.investors.com/news/spacex-ipo-momentum-starship-launch-space-stocks-rdw-rklb-fly-voyg-spir/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-05-26T21:25:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "US Space Force awards SpaceX $2.29 billion contract for military space data network",
-                "summary": "The U.S. Space Force has awarded SpaceX a $2.29 billion contract to build \u200ca secure, high-speed satellite communications network to connect \u200cmilitary sensors and weapons platforms across the globe, the service announced on Tuesday.  The \u200bfixed-price nontraditional contracting agreement covers the Space Data Network (SDN) Backbone, a resilient network architecture providing high-capacity and low-latency data transport for the military.  Space Force said the vendor must deliver a fully \u200coperational prototype capability by \u2060the end of 2027.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/us-space-force-awards-spacex-211250093.html",
-                "publishDate": "2026-05-26T21:12:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Starship\u2019s path to reusability looks murky after SpaceX\u2019s S-1",
-                "summary": "SpaceX's recent IPO and Starship rocket test flight delivered two big data points that offer a realistic vision for the coming years \u2014 and one that may disappoint both the company's boosters and its critics.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/starship-path-reusability-looks-murky-210356575.html",
-                "publishDate": "2026-05-26T21:03:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Rocket, Satellite Stocks Surge\u00a0as SpaceX IPO Fuels Euphoria",
-                "summary": "(Bloomberg) -- Space and satellite-related stocks soared Tuesday as investor enthusiasm around the industry intensified.Most Read from BloombergIran\u2019s Khamenei Says No Going Back for Middle East Rocked by WarRussia Tells US to Evacuate Its Diplomats and Citizens From KyivUS Strikes Targets in Iran Even as Trump Hails Progress on DealPutin Signs Law on Use of Army to Aid Russians Detained AbroadThese AI Gurus Are Charging Wall Street Banks $25,000 a DayGrowing excitement around the burgeoning spa",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/rocket-satellite-stocks-surge-spacex-154532336.html",
-                "publishDate": "2026-05-26T20:52:30Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Investors Are Hunting for the Next Big Thing in Stocks. Is That Good for the Market?",
-                "summary": "There's a growing concern that the coming wave of IPOs could \"crowd out\" the broader stock market and trigger a selloff, according to Deutsche Bank strategists.",
-                "source": "Investopedia",
-                "category": "finance",
-                "url": "https://www.investopedia.com/investors-are-hunting-for-the-next-big-thing-in-stocks-is-that-good-for-the-market-spacex-ipo-11983848",
-                "publishDate": "2026-05-26T20:35:14Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthony Scaramucci Says The 'Holy Trinity' Of SpaceX, OpenAI And Anthropic IPOs Could Become A Dangerous Market Warning Sign",
-                "summary": "Wall Street veteran Anthony Scaramucci is sounding the alarm on a potential market top, warning that the highly anticipated public debuts of SpaceX, OpenAI, and Anthropic could signal the symbolic end of the current tech boom. The \u2018Holy Trinity\u2019 Of...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthony-scaramucci-says-holy-trinity-203111692.html",
-                "publishDate": "2026-05-26T20:31:11Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla Stock Trades Higher as Investors Remain Focused on SpaceX",
-                "summary": "Tesla stock is going for a second consecutive weekly gain. Shares are in the green in premarket trading Tuesday.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/tesla-stock-spacex-ipo-elon-musk-b811dd8f?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-26T20:06:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s Bugs Bunny Moment: Will SpaceX IPO Tank Tesla Stock?",
-                "summary": "The episode aired in 1948, but the idea is strangely valid today, except that it\u2019s Elon Musk squaring off with himself.  SpaceX is on the cusp of its initial public offering, which will raise a record amount of money.  SpaceX plans to offer a relatively large amount of its stock to smaller retail investors, the same ones who hold Tesla shares.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/elon-musk-spacex-ipo-tesla-stock-3f672899?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-26T20:04:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -450,11 +450,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.9846401,
+            "change": -0.98464,
             "marketCap": 21337157632,
             "weekLow": 10.594,
             "weekHigh": 32.793,
-            "yearTarget": 38.625
+            "yearTarget": 39.04167
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -596,7 +596,7 @@
         "FINANCIALS": {
             "change": 4.00404,
             "marketCap": 6413549056,
-            "weekLow": 11.27,
+            "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
         },
