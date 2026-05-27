@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.815,
+        "price": 44.835,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4143472,
-            "marketCap": 198611812352,
+            "change": 1.4596074,
+            "marketCap": 198700449792,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.75985
+            "yearTarget": 46.764286
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,12 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "Tech stocks today: Samsung defuses strike threat, Micron and SK Hynix join the $1 trillion club",
-                "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia's latest earnings mean for the artificial intelligence trade.",
+                "title": "SpaceX is powering a new ETF race: Chart of the Day",
+                "summary": "SpaceX is not public yet, but the race to own it is already rearranging the ETF market.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-samsung-defuses-strike-threat-micron-and-sk-hynix-join-the-1-trillion-club-100000981.html",
-                "publishDate": "2026-05-26T10:00:00Z",
+                "url": "https://finance.yahoo.com/markets/article/spacex-is-powering-a-new-etf-race-chart-of-the-day-100000512.html",
+                "publishDate": "2026-05-27T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX, Firefly Aerospace Land Contracts. Pentagon Debates Starlink Pricing.",
+                "summary": "The space rally continues ahead of the upcoming SpaceX IPO. Meanwhile, SpaceX won a $2.3 billion contract, and Firefly landed a NASA award. Starlink inked deals with the Pentagon and American Airlines.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-space-force-contract-starlink-pentagon-american-airlines-firefly-aerospace-nasa-space-stocks/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-27T17:21:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Could Create a New Wave of Millionaires. Investing in It Isn't the Only Way to Play.",
+                "summary": "SpaceX's IPO could reward investors in more ways than one.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/27/the-spacex-ipo-could-create-a-new-wave-of-milliona/",
+                "publishDate": "2026-05-27T17:11:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-27T14:34:30Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "FTSE Russell Latest to Make U.S. Index Inclusion Easier ahead of SpaceX IPO",
-                "summary": "Large-cap companies can be included in the Russell series of indexes after five days of public trading if the value of their publicly available shares is larger than the index cutoff.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/ftse-russell-latest-to-make-u-s-index-inclusion-easier-ahead-of-spacex-ipo-35157adf?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-27T14:27:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Prediction: Elon Musk Will Become the World\u2019s First Trillionaire on June 12th",
-                "summary": "Here\u2019s a prediction worth marking on the calendar: Tesla (NASDAQ:TSLA) CEO Elon Musk will become the world\u2019s first trillionaire on June 12, the reported IPO date for SpaceX. The catalyst is easy to figure out: SpaceX\u2019s public debut will, for the first time, place a continuously quoted market value on the largest single component of ... Prediction: Elon Musk Will Become the World\u2019s First Trillionaire on June 12th",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/27/prediction-elon-musk-will-become-the-worlds-first-trillionaire-on-june-12th/",
-                "publishDate": "2026-05-27T13:41:40Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.185,
+        "price": 29.395,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6180732,
-            "marketCap": 20991905792,
+            "change": -0.910165,
+            "marketCap": 21142953984,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.0,
+        "price": 30.16,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9440305,
-            "marketCap": 6224732160,
+            "change": -2.4263992,
+            "marketCap": 6257930752,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
