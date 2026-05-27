@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.13,
+        "price": 45.0,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1271837,
-            "marketCap": 200007843840,
+            "change": 1.8329971,
+            "marketCap": 199431700480,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.792606
+            "yearTarget": 46.79071
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.76,
+        "price": 1.72,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.3255792,
-            "marketCap": 165269792,
+            "change": 0.0,
+            "marketCap": 161513664,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,52 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX is powering a new ETF race: Chart of the Day",
-                "summary": "SpaceX is not public yet, but the race to own it is already rearranging the ETF market.",
+                "title": "Tech stocks today: Samsung defuses strike threat, Micron and SK Hynix join the $1 trillion club",
+                "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia's latest earnings mean for the artificial intelligence trade.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-is-powering-a-new-etf-race-chart-of-the-day-100000512.html",
-                "publishDate": "2026-05-27T10:00:00Z",
+                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-samsung-defuses-strike-threat-micron-and-sk-hynix-join-the-1-trillion-club-100000981.html",
+                "publishDate": "2026-05-26T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "American Airlines stock jumps as the airline picks Starlink for in-flight Wi-Fi service",
+                "summary": "American Airlines struck a deal with SpaceX's Starlink for Wi-Fi service on more than 500 of its jets, the latest carrier to go with the satellite internet provider, coming weeks before SpaceX's highly anticipated public offering.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/american-airlines-stock-jumps-as-the-airline-picks-starlink-for-in-flight-wi-fi-service-170454812.html",
+                "publishDate": "2026-05-26T17:04:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Bitcoin Falls Below $75K \u2013 SpaceX, OpenAI, Anthropic IPOs Are \u2018Draining\u2019 Liquidity From Crypto, Says Analyst",
+                "summary": "Upcoming public market debuts from SpaceX, OpenAI, and Anthropic are increasingly being viewed as competition for capital flowing into crypto and technology stocks.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-falls-below-75-k-spacex-openai-anthropic-ipos-are-draining-liquidity-from-crypto/cZggg9RRerX",
+                "publishDate": "2026-05-27T15:10:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX won't break the IPO market",
+                "summary": "SpaceX isn't going to break the IPO market, despite some concerns that it may do so.",
+                "source": "Axios",
+                "category": "finance",
+                "url": "https://www.axios.com/2026/05/27/spacex-ipo-market#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+                "publishDate": "2026-05-27T14:34:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "FTSE Russell Latest to Make U.S. Index Inclusion Easier ahead of SpaceX IPO",
+                "summary": "Large-cap companies can be included in the Russell series of indexes after five days of public trading if the value of their publicly available shares is larger than the index cutoff.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/stocks/ftse-russell-latest-to-make-u-s-index-inclusion-easier-ahead-of-spacex-ipo-35157adf?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-27T14:27:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -380,46 +420,6 @@
                 "publishDate": "2026-05-27T12:42:15Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why Joby Aviation Stock Is Climbing Today",
-                "summary": "Joby Aviation Gains as FAA Progress and New York Flights Keep the Air Taxi Dream Alive",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/why-joby-aviation-stock-climbing-123539610.html",
-                "publishDate": "2026-05-27T12:35:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space Force awards SpaceX $2.29B satellite network contract",
-                "summary": "The deal covers the Space Data Network Backbone, a low Earth orbit constellation the Pentagon sees as foundational to its Golden Dome missile defense initiative",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/space-force-spacex-space-data-network-backbone-contract-052726",
-                "publishDate": "2026-05-27T12:19:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "This Space Stocks Boom Has Echoes of the EV Bubble. Red Flags as Rocket Lab and AST Soar.",
-                "summary": "The technical Wall Street term for investors short-selling space stocks right now is \u201cgetting your face ripped off.\u201d  Shares of commercial space companies are on fire lately.  Coming into Wednesday trading, shares of  Rocket Lab  and  AST SpaceMobile  to name two, were up 74% and 55%, respectively, over the past month, leaving them both up more than 380% over the past 12 months.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-rocket-labs-stock-ast-spacemobile-e74fd3a8?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-27T12:01:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's Record IPO Hinges On Starship Working: Flight 12 Has Good News For Investors",
-                "summary": "Elon Musk\u2019s SpaceX pulled off a rough but successful test flight of its upgraded Starship V3 on Friday, days after filing publicly for what may become the largest ever IPO. The SpaceX prospectus told investors its growth strategy is \u201chighly...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-record-ipo-hinges-starship-113104680.html",
-                "publishDate": "2026-05-27T11:31:04Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.215,
+        "price": 29.18,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.5169417,
-            "marketCap": 21013485568,
+            "change": -1.6349254,
+            "marketCap": 20988309504,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.14,
+        "price": 30.2,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4911046,
-            "marketCap": 6253780992,
+            "change": -2.2969882,
+            "marketCap": 6266230784,
             "weekLow": 11.39,
             "weekHigh": 36.52,
             "yearTarget": 43.8
