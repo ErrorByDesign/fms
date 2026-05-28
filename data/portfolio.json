@@ -20,7 +20,7 @@
             "marketCap": 201644130304,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.85891
+            "yearTarget": 46.870457
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly Stock on Track for Record as Insurance Coverage Expands for Zepbound",
+                "summary": "Eli Lilly shares are on pace to hit a new all-time closing high on news of increased insurance coverage for its blockbuster weight-loss drug Zepbound.  Lilly shares were recently up 4.4% to $1,130.90.  Pharmacy-benefit manager CVS Caremark decided to add back Lilly\u2019s Zepbound weight-loss drug to its lists of preferred drugs.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-28-2026/card/eli-lilly-back-in-1-trillion-club-as-insurance-coverage-expands-for-zepbound-vcfO0WlOdiC7Li988bBv?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-28T19:41:28Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "CVS will add these weight-loss options to drug plans",
                 "summary": "CVS Health will reinstate coverage of Eli Lilly's weight-loss injectable Zepbound and begin coverage of the anti-obesity pill Foundayo.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://stocktwits.com/news-articles/markets/equity/lly-nvo-glp1-rally-viking-therapeutics-upside-call/cZgiaIuResW",
                 "publishDate": "2026-05-28T08:48:59Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Among Our Most Undervalued Foreign Stocks to Buy Now",
-                "summary": "Novo Nordisk A/S (NYSE:NVO) is one of the Most Undervalued Foreign Stocks to Buy Now. On May 6, Reuters reported that Novo Nordisk A/S (NYSE:NVO) topped first-quarter profit forecasts and also raised the full-year outlook slightly. The results were driven by the company\u2019s new Wegovy weight-loss pill, which was launched in the US in January. [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-among-most-213937280.html",
-                "publishDate": "2026-05-27T21:39:37Z",
                 "premium": false,
                 "freemium": false
             }
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "9 \u2018Hidden\u2019 Space Stocks Haven\u2019t Joined SpaceX IPO Bubble Yet",
+                "summary": "Rocket Lab and AST SpaceMobile have surged as investors bet on the next phase of the space economy. But aerospace giants including Boeing, Airbus, and Lockheed Martin could also benefit from growing enthusiasm around SpaceX.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/space-stocks-spacex-ipo-boeing-lockheed-airbus-a3190f30?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-28T21:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "How Can Retail Investors Take Part in the SpaceX IPO?",
                 "summary": "SpaceX is targeting a debut on the Nasdaq in early June.",
                 "source": "Motley Fool",
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/musk-defends-ai-ambitions-ipo-173300346.html",
                 "publishDate": "2026-05-28T17:33:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX\u2019s Mega-IPO Faces a Huge Risk No One Knows About",
-                "summary": "Helium is used in rocket propulsion, but the gas is hard to come by these days because of the Iran war. SpaceX didn\u2019t list it as a risk in its IPO filing.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-helium-iran-war-a1491f0f?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-28T17:28:00Z",
                 "premium": false,
                 "freemium": false
             }
