@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.685,
+        "price": 45.51,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.547704,
-            "marketCap": 202419535872,
+            "change": 2.1548803,
+            "marketCap": 201644130304,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.866653
+            "yearTarget": 46.855698
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.7887,
+        "price": 1.74,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2114277,
-            "marketCap": 167964816,
+            "change": -0.571428,
+            "marketCap": 163391728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,16 +322,6 @@
         },
         "NEWS": [
             {
-                "title": "Anthropic more valuable than OpenAI in latest funding round",
-                "summary": "Anthropic is more valuable than OpenAI in latest funding round.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/anthropic-more-valuable-than-openai-in-latest-funding-round-184115376.html",
-                "publishDate": "2026-05-28T18:41:15Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Tech stocks today: Anthropic overtakes OpenAI as world's most valuable AI startup",
                 "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia's latest earnings mean for the artificial intelligence trade.",
                 "source": "Yahoo Finance",
@@ -420,6 +410,16 @@
                 "publishDate": "2026-05-28T16:16:32Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
+                "summary": "Elon Musk is publicly reframing xAI\u2019s massive Anthropic compute deal as short-term and cancellable, despite SpaceX\u2019s own S-1 filing describing payments through May 2029.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/long-anthropic-lease-spacex-opinions-153600934.html",
+                "publishDate": "2026-05-28T15:36:00Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.93,
+        "price": 29.88,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1832333,
-            "marketCap": 21527762944,
+            "change": 1.0141963,
+            "marketCap": 21491798016,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.31,
+        "price": 30.15,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.0195234,
-            "marketCap": 6289054208,
+            "change": 1.4809847,
+            "marketCap": 6255855616,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
