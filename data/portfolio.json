@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.65,
+        "price": 45.685,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.469141,
-            "marketCap": 202264461312,
+            "change": 2.547704,
+            "marketCap": 202419535872,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.872505
+            "yearTarget": 46.874844
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly Stock Heads for Record Close. CVS Weight-Loss Drug Coverage Drives It Higher.",
+                "summary": "CVS Health\u2019s Caremark will resume insurance coverage of Eli Lilly\u2019s Zepbound and separately begin covering its Foundayo weight-loss pill.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/eli-lilly-stock-cvs-weight-loss-drugs-9e061182?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-28T16:37:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Contrarian Opinion: Novo Nordisk Is A Better Buy Than Eli Lilly Right Now",
                 "summary": "Novo Nordisk lost its lead in the GLP-1 race, but Eli Lilly's valuation is a bit rich.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-stock-hits-record-203900546.html",
                 "publishDate": "2026-05-27T20:39:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Is Beating Eli Lilly in the Obesity Pill Market. Should Lilly Investors Be Worried?",
-                "summary": "There is no reason to panic just yet.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/27/novo-nordisk-is-beating-eli-lilly-in-the-obesity-p/",
-                "publishDate": "2026-05-27T20:20:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX\u2019s Mega-IPO Faces a Huge Risk No One Knows About",
+                "summary": "Helium is used in rocket propulsion, but the gas is hard to come by these days because of the Iran war. SpaceX didn\u2019t list it as a risk in its IPO filing.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-helium-iran-war-a1491f0f?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-28T17:28:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Prediction: Elon Musk\u2019s SpaceX Will Buy Intel for $1 Trillion",
                 "summary": "The market\u2019s AI arms race is no longer just about chatbots and software. It\u2019s becoming a battle over electricity, data centers, and perhaps most importantly \u2014 chips. That\u2019s why Elon Musk\u2019s next move after SpaceX\u2019s highly anticipated June 12 IPO may surprise investors. Not another rocket launch. Not a social media platform. Not even another ... Prediction: Elon Musk\u2019s SpaceX Will Buy Intel for $1 Trillion",
                 "source": "24/7 Wall St.",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-28T14:14:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Could a SpaceX-Tesla Merger Happen Earlier Than Expected?",
-                "summary": "A massive merger between SpaceX and Tesla may be inevitable.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/28/could-a-spacex-tesla-merger-happen-earlier-than-ex/",
-                "publishDate": "2026-05-28T13:50:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.64,
+        "price": 29.65,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.20283796,
-            "marketCap": 21319174144,
+            "change": 0.23664536,
+            "marketCap": 21326366720,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.28,
+        "price": 30.24,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9185514,
-            "marketCap": 6282829824,
+            "change": 1.7839135,
+            "marketCap": 6274529792,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
