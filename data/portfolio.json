@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.715,
+        "price": 45.8501,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.6150415,
-            "marketCap": 202552442880,
+            "change": 2.9182992,
+            "marketCap": 203151048704,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.85387
+            "yearTarget": 46.854897
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,12 +322,32 @@
         },
         "NEWS": [
             {
+                "title": "Anthropic more valuable than OpenAI in latest funding round",
+                "summary": "Anthropic is more valuable than OpenAI in latest funding round.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/anthropic-more-valuable-than-openai-in-latest-funding-round-184115376.html",
+                "publishDate": "2026-05-28T18:41:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Tech stocks today: Anthropic overtakes OpenAI as world's most valuable AI startup",
                 "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia's latest earnings mean for the artificial intelligence trade.",
                 "source": "Yahoo Finance",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-anthropic-overtakes-openai-as-worlds-most-valuable-ai-startup-100000319.html",
                 "publishDate": "2026-05-26T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Clarifies SpaceX, Anthropic AI Deal. It's Not As Big As Expected.",
+                "summary": "Elon Musk clarifies SpaceX's AI compute deal with Anthropic is much shorter than the IPO prospectus implied. Space stocks pare rally.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/elon-musk-clarifies-spacex-anthropic-ai-deal-its-not-as-big-as-expected/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-28T18:37:31Z",
                 "premium": false,
                 "freemium": false
             },
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-28T15:19:31Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "These 2 Cheap Biotech Stocks Offer Potential for Low-Beta Growth",
-                "summary": "If you\u2019re looking to diversify outside of AI, especially as AI investors look to trim their winners to save up for that mega-cap AI IPO boom on the horizon, with SpaceX leading the way, the biotech space is more than worth exploring, especially as some of the AI benefits start to trickle downstream towards biotech ... These 2 Cheap Biotech Stocks Offer Potential for Low-Beta Growth",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/28/these-2-cheap-biotech-stocks-offer-potential-for-low-beta-growth/",
-                "publishDate": "2026-05-28T15:04:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Musk clarifies SpaceX Anthropic Colossus deal is 6-month lease",
-                "summary": "The clarification contradicts earlier reports of a deal running through May 2029, and raises questions about SpaceX's IPO disclosure",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/musk-spacex-anthropic-colossus-lease-six-month-052826",
-                "publishDate": "2026-05-28T14:30:33Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.745,
+        "price": 29.855,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.55781245,
-            "marketCap": 21394698240,
+            "change": 0.92968094,
+            "marketCap": 21473816576,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.22,
+        "price": 30.3,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7165946,
-            "marketCap": 6270380032,
+            "change": 1.9858639,
+            "marketCap": 6286979072,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
