@@ -20,7 +20,7 @@
             "marketCap": 197390598144,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.71051
+            "yearTarget": 46.643177
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,46 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Could Be Worth More Than Tesla the Moment It Goes Public. Here's Why.",
+                "summary": "The rocket and satellite company is preparing for what could be the biggest initial public offering in history -- and at the reported targeted valuation, it would already be larger than its CEO's other megacap company.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/27/spacex-could-be-worth-more-than-tesla-the-moment-i/",
+                "publishDate": "2026-05-28T03:22:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "ASTS Stock Slips Overnight: AST SpaceMobile President Cashes Out $3.3M As BlueBird 9 Nears SpaceX Mission",
+                "summary": "ASTS confirmed that BlueBird 9 arrived at Cape Canaveral ahead of its next Falcon 9 launch with SpaceX.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/asts-stock-president-stock-sale-bluebird-9-spacex-mission/cZgiRm4Resb",
+                "publishDate": "2026-05-28T02:47:41Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "American Airlines deal hands SpaceX bold new pre-IPO boost",
+                "summary": "Most of us judge a company by what it does for our day-to-day life. The bank that approved the mortgage. The streaming service that babysat the kids over the holidays. The airline that lost a checked bag in Charlotte. We rarely think about boardroom math, satellite constellations, or registration ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/investing/american-airlines-deal-hands-spacex-bold-new-pre-ipo-boost",
+                "publishDate": "2026-05-28T02:47:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Next Threat To Nvidia Isn't A Chipmaker \u2014 It's An IPO",
+                "summary": "For the past two years, Nvidia Corp has emerged as Wall Street\u2019s preferred way to bet on artificial intelligence. It benefited from an arms race among AI developers scrambling to secure computing power. The next challenge to its dominance in...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/next-threat-nvidia-isnt-chipmaker-023105525.html",
+                "publishDate": "2026-05-28T02:31:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "MNTS, ASTC, RKTO Soar As NASA Ramps Up Moon Missions \u2014 But Isaacman Warns Orbital Economy Is \u2018Grossly Overstated\u2019",
                 "summary": "Smaller space stocks surged after NASA outlined plans for near-monthly moon missions starting in 2027.",
                 "source": "Stocktwits",
@@ -378,46 +418,6 @@
                 "category": "finance",
                 "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-27-2026/card/elon-musk-s-biggest-fan-is-an-83-year-old-celebrity-investor-EXq8nxbZBMDPQa3E6WL2?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-27T22:45:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "NASA Isn't the Only Space ETF Catching the SpaceX Wave",
-                "summary": "<p>Three space ETFs are now over $1 billion in assets, and the category-wide rally extends well beyond the one fund with SpaceX shares.</p>",
-                "source": "etf.com",
-                "category": "finance",
-                "url": "http://www.etf.com/sections/features/nasa-isnt-only-space-etf-catching-spacex-wave?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
-                "publishDate": "2026-05-27T22:33:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space Stock Short Squeeze: The Final Act of the SpaceX IPO Hype?",
-                "summary": "The technical Wall Street term for investors short selling space stocks right now is \u201cgetting your face ripped off.\u201d  Shares of commercial space companies were on fire coming into Wednesday trading.  Over the past month, shares of  Rocket Lab  and  AST SpaceMobile  \u2014to name two\u2014are up 74% and 55%, respectively, leaving them both up more than 380% over the past 12 months.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-rocket-labs-stock-ast-spacemobile-e74fd3a8?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-27T22:15:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "FTSE Russell Latest to Make U.S. Index Inclusion Easier ahead of SpaceX IPO",
-                "summary": "Large-cap companies can be included in the Russell series of indexes after five days of public trading if the value of their publicly available shares is larger than the index cutoff.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/ftse-russell-latest-to-make-u-s-index-inclusion-easier-ahead-of-spacex-ipo-35157adf?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-27T21:41:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Stocks making big moves yesterday: Allient, AutoZone, Redwire, Marvell Technology, and AppLovin",
-                "summary": "Check out the companies making headlines yesterday:",
-                "source": "StockStory",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-213724778.html",
-                "publishDate": "2026-05-27T21:37:24Z",
                 "premium": false,
                 "freemium": false
             }
