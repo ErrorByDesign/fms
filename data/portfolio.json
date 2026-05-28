@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": 0.814665,
-            "marketCap": 197437390848,
+            "marketCap": 197390598144,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.79115
+            "yearTarget": 46.71051
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-among-most-213937280.html",
                 "publishDate": "2026-05-27T21:39:37Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly Stock Hits Record Highs, Becomes First Pharmaceutical Firm Worth $1 Trillion",
+                "summary": "Eli Lilly (LLY) stock has surged to new record highs of over $1,000 a share, cementing its position as one of the market's most dominant growth stories and the first pharmaceutical firm worth $1 trillion.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-stock-hits-record-203900546.html",
+                "publishDate": "2026-05-27T20:39:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-26T17:50:29Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "Ozempic, Other Weight Drug Users Cut Back On Eating Out. What That Means For Restaurants.",
-                "summary": "Weight-loss drugs such as Novo Nordisk's Ozempic and Wegovy are disrupting eating habits, and restaurants should prepare for changes, an analyst says.  More than half of Americans taking GLP-1 drugs including Eli Lilly's Mounjaro have changed their eating habits, a survey by UBS found.  \"Our survey results suggest GLP-1 users are more likely to eat less calories while taking GLP-1 drugs, with survey respondents dining out less, changing eating habits, and appreciating healthier foods more,\" UBS analysts led by Dennis Geiger said in a note to clients.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/ozempic-glp-1-weight-loss-drugs-restaurants/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-26T17:36:47Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7441843,
+            "change": 1.74418,
             "marketCap": 164330752,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -332,92 +332,92 @@
                 "freemium": false
             },
             {
+                "title": "MNTS, ASTC, RKTO Soar As NASA Ramps Up Moon Missions \u2014 But Isaacman Warns Orbital Economy Is \u2018Grossly Overstated\u2019",
+                "summary": "Smaller space stocks surged after NASA outlined plans for near-monthly moon missions starting in 2027.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/mnts-astc-rkto-nasa-moon-missions-isaacman-space-economy-warning/cZgL6rPRery",
+                "publishDate": "2026-05-28T01:39:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk's SpaceX Pushed For Starlink Fee Hike During Iran War\u2014 And The Pentagon Caved As No Rival Matched Its Reach: Report",
+                "summary": "Elon Musk\u2019s SpaceX had reportedly requested a price hike from the Pentagon for the use of its Starlink network during the Iran war, leading to tensions between the two. Senior officials from SpaceX have claimed that the Pentagon has been...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musks-spacex-pushed-starlink-013109385.html",
+                "publishDate": "2026-05-28T01:31:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Prospectus: The Good, The Bad, The Verdict",
+                "summary": "SpaceX has filed its S-1 in anticipation of an IPO. The team digs into the details, examining what stands out in this monumental, possibly $2 trillion, public offering.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/27/the-spacex-ipo-prospectus-the-good-the-bad-the-verdict/",
+                "publishDate": "2026-05-27T23:57:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Teases A Space\u2011Energy Boom \u2014 Rocket Lab's Little-Known Solar Arm Is Ready For It",
+                "summary": "Elon Musk may have just handed investors a new way to think about the space economy\u2014and it has little to do with rockets. Responding to a post on X that highlighted the rapid growth of Starlink\u2018s orbital solar capacity, Musk...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/energy/articles/elon-musk-teases-space-energy-233101824.html",
+                "publishDate": "2026-05-27T23:31:01Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk\u2019s Biggest Fan Is an 83-Year-Old Celebrity Investor",
+                "summary": "Ron Baron is in a slump, and he is counting on his friend Elon Musk to lift him out of it. The 83-year-old celebrity investor\u2019s largest fund is down for the year, but his prospects could brighten if SpaceX shares soar next month in what is expected to be the biggest-ever stock-market debut.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-27-2026/card/elon-musk-s-biggest-fan-is-an-83-year-old-celebrity-investor-EXq8nxbZBMDPQa3E6WL2?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-27T22:45:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "NASA Isn't the Only Space ETF Catching the SpaceX Wave",
+                "summary": "<p>Three space ETFs are now over $1 billion in assets, and the category-wide rally extends well beyond the one fund with SpaceX shares.</p>",
+                "source": "etf.com",
+                "category": "finance",
+                "url": "http://www.etf.com/sections/features/nasa-isnt-only-space-etf-catching-spacex-wave?utm_source=yahoo-finance&utm_medium=rss&utm_campaign=yahoo-finance-rss",
+                "publishDate": "2026-05-27T22:33:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Space Stock Short Squeeze: The Final Act of the SpaceX IPO Hype?",
+                "summary": "The technical Wall Street term for investors short selling space stocks right now is \u201cgetting your face ripped off.\u201d  Shares of commercial space companies were on fire coming into Wednesday trading.  Over the past month, shares of  Rocket Lab  and  AST SpaceMobile  \u2014to name two\u2014are up 74% and 55%, respectively, leaving them both up more than 380% over the past 12 months.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-rocket-labs-stock-ast-spacemobile-e74fd3a8?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-27T22:15:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "FTSE Russell Latest to Make U.S. Index Inclusion Easier ahead of SpaceX IPO",
+                "summary": "Large-cap companies can be included in the Russell series of indexes after five days of public trading if the value of their publicly available shares is larger than the index cutoff.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/stocks/ftse-russell-latest-to-make-u-s-index-inclusion-easier-ahead-of-spacex-ipo-35157adf?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-27T21:41:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Stocks making big moves yesterday: Allient, AutoZone, Redwire, Marvell Technology, and AppLovin",
                 "summary": "Check out the companies making headlines yesterday:",
                 "source": "StockStory",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-making-big-moves-yesterday-213724778.html",
                 "publishDate": "2026-05-27T21:37:24Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's How Much Bitcoin Elon Musk Would Control If SpaceX and Tesla Merge",
-                "summary": "If Tesla and SpaceX merged\u2014as is a reported possibility\u2014then Elon Musk's combined entity would hold billions of dollars' worth of Bitcoin.",
-                "source": "decrypt",
-                "category": "finance",
-                "url": "https://decrypt.co/369240/how-much-bitcoin-elon-musk-control-spacex-tesla-merge",
-                "publishDate": "2026-05-27T21:07:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Open Sesame \u2014 Heard on the Street Recap",
-                "summary": "Oil prices fell on a new report of progress in negotiations.  Iran\u2019s state broadcaster reported that a draft framework being negotiated with the U.S. includes restoring commercial shipping to prewar levels within a month.  President Trump, speaking at a cabinet meeting, signaled that he was prepared to keep negotiating but didn\u2019t exclude further military action.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-27-2026/card/open-sesame-heard-on-the-street-recap-VVEgNy9dnyxfYNDlQuyA?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-27T20:51:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Starship Grounded After Mishap. Pentagon Awards Contract, Debates Starlink Prices.",
-                "summary": "The FAA grounded Starship after its booster explosion. SpaceX won a $2.3 billion contract, and Firefly landed a NASA award. Starlink inked deals with the Pentagon and American Airlines",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-space-force-contract-starlink-pentagon-american-airlines-firefly-aerospace-nasa-space-stocks/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-27T20:46:12Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Just Revealed Its Finances. Is It a Warning Sign to Stay Away?",
-                "summary": "The company is losing money and bleeding cash.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/27/spacex-reveal-finances-warning-ipo/",
-                "publishDate": "2026-05-27T20:36:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla Stock Could Be Setting Up for a Major Breakout, Charts Show",
-                "summary": "Tesla stock is approaching key technical resistance levels as improving momentum, bullish reversal patterns, and renewed enthusiasm around Elon Musk\u2019s AI and robotics ecosystem support the setup.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/tesla-stock-bullish-setup-multiple-timeframes-ea863aa3?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-27T19:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Consumer Stocks Rise Late Afternoon",
-                "summary": "Consumer stocks were higher late Wednesday afternoon, with the State Street Consumer Staples Select",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/sector-consumer-stocks-rise-afternoon-193151137.html",
-                "publishDate": "2026-05-27T19:31:51Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Russell Indexes Adjust For SpaceX IPO, Shifting Market Profile",
-                "summary": "Major IPO stocks could gain entry into the Russell indexes just a few days after going public under changes FTSE Russell made to reflect upcoming IPOs and the stock market's growth.  The new rules mean that a large IPO such as SpaceX could be in the Russell U.S. Indexes after the fifth day of trading.  FTSE Russell said IPOs must meet certain requirements for the Fast Entry Rule.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/russell-indexes-adjust-for-spacex-ipo-shifting-market-profile/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-27T19:27:19Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "US space stocks rise on SpaceX IPO hype",
-                "summary": "<body><p>STORY: :: SpaceX</p><p>Shares of U.S. space companies soared on Wednesday, continuing their rise as investors bet that the upcoming mammoth IPO of Elon Musk's SpaceX could force Wall Street to rethink how it values the space economy.</p><p>Shares of Intuitive Machines shot up more than 13%, AST SpaceMobile jumped almost 7%, while Virgin Galactic added more than 10% at one point in Wednesday morning trading.</p><p>:: Rocket Lab</p><p>:: Archive</p><p>Shares of Rocket Lab and Planet Labs also rose, following big gains in the last two sessions.</p><p>SpaceX is poised to become the first trillion-dollar U.S. market debut, immediately cementing it as one of the world's most valuable publicly traded firms.</p><p>:: SpaceX</p><p>Other public companies related to space travel are hoping to benefit from renewed investor attention.</p><p>:: Spacepharma</p><p>Many have struggled to sustain premium valuations despite growing demand for satellite communications, launch services and defense-related off-planet infrastructure.</p><p>:: SpaceX</p><p>SpaceX last week took the wraps off its IPO filing, which showed how the company is betting its future on transitioning into an AI powerhouse, with expectations of long-term infrastructure dominance.</p></body>",
-                "source": "Reuters Videos",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/us-space-stocks-rise-spacex-183731077.html",
-                "publishDate": "2026-05-27T18:37:31Z",
                 "premium": false,
                 "freemium": false
             }
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.28653628,
+            "change": -0.286536,
             "marketCap": 21276018688,
             "weekLow": 10.594,
             "weekHigh": 32.793,
@@ -594,9 +594,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.8822412,
+            "change": -3.88224,
             "marketCap": 6164559360,
-            "weekLow": 11.39,
+            "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
         },
