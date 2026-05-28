@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.545,
+        "price": 45.61,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2334433,
-            "marketCap": 201799204864,
+            "change": 2.379352,
+            "marketCap": 202087219200,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.867973
+            "yearTarget": 46.894
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Contrarian Opinion: Novo Nordisk Is A Better Buy Than Eli Lilly Right Now",
+                "summary": "Novo Nordisk lost its lead in the GLP-1 race, but Eli Lilly's valuation is a bit rich.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/28/contarian-opinion-novo-nordisk-is-a-better-buy-tha/",
+                "publishDate": "2026-05-28T16:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk faces complex GLP-1 landscape as oral launch patterns diverge from injectables",
                 "summary": "Novo Nordisk's (NYSE:NVO) investor relations team presented at Deutsche Bank's European Champions Conference, with the broker maintaining its hold rating and DKK290 target price on the Danish pharma group. The key takeaway concerned the launch of Novo's oral semaglutide product, where the...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-27T20:20:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Hims Insider Makes First Stock Purchase Since 2021 Amid Weight-Loss Drug Pivot",
-                "summary": "Hims & Hers Health shares have slumped in 2026 as the telehealth provider moves away from selling compounded GLP-1 medications.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/hims-stock-insider-weight-loss-glp1-drug-0388a2a7?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-27T15:32:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.7698,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.142856,
-            "marketCap": 166208816,
+            "change": 1.1312963,
+            "marketCap": 166190032,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Prediction: Elon Musk\u2019s SpaceX Will Buy Intel for $1 Trillion",
+                "summary": "The market\u2019s AI arms race is no longer just about chatbots and software. It\u2019s becoming a battle over electricity, data centers, and perhaps most importantly \u2014 chips. That\u2019s why Elon Musk\u2019s next move after SpaceX\u2019s highly anticipated June 12 IPO may surprise investors. Not another rocket launch. Not a social media platform. Not even another ... Prediction: Elon Musk\u2019s SpaceX Will Buy Intel for $1 Trillion",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/28/prediction-elon-musks-spacex-will-buy-intel-for-1-trillion/",
+                "publishDate": "2026-05-28T16:16:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
                 "summary": "Elon Musk is publicly reframing xAI\u2019s massive Anthropic compute deal as short-term and cancellable, despite SpaceX\u2019s own S-1 filing describing payments through May 2029.",
                 "source": "TechCrunch",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-28T13:23:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX's Secret Metric",
-                "summary": "Imagine a private company pouring billions into unproven mega-rockets and moonshot ambitions suddenly being valued at over $1.75 trillion. Almost 2x what Apple was worth a decade ago. More than the GDP of most nations.",
-                "source": "Trefis",
-                "category": "finance",
-                "url": "https://www.trefis.com/articles/600575/spacexs-secret-metric/2026-05-28",
-                "publishDate": "2026-05-28T13:12:42Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.62,
+        "price": 29.67,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.1352296,
-            "marketCap": 21304788992,
+            "change": 0.30426016,
+            "marketCap": 21340751872,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.06,
+        "price": 30.325,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1780559,
-            "marketCap": 6237181440,
+            "change": 2.070016,
+            "marketCap": 6292167168,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
