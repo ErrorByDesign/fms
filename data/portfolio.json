@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.55,
+        "price": 45.5601,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.814665,
-            "marketCap": 197390598144,
+            "change": 2.267343,
+            "marketCap": 201866117120,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.643177
+            "yearTarget": 46.870018
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,66 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk faces complex GLP-1 landscape as oral launch patterns diverge from injectables",
+                "summary": "Novo Nordisk's (NYSE:NVO) investor relations team presented at Deutsche Bank's European Champions Conference, with the broker maintaining its hold rating and DKK290 target price on the Danish pharma group. The key takeaway concerned the launch of Novo's oral semaglutide product, where the...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1093035/novo-nordisk-faces-complex-glp-1-landscape-as-oral-launch-patterns-diverge-from-injectables-1093035.html",
+                "publishDate": "2026-05-28T13:03:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Small biotech firms quicker to 'latch onto' AI than big ones, says Tencent Healthcare President",
+                "summary": "Small biotech firms \"latch onto\" AI more quickly than bigger firms, the head of \u200cChinese tech giant Tencent's healthcare division said on \u200cThursday, as more businesses embrace AI to improve efficiency.  Pharmaceutical companies are also increasingly \u200bturning to AI to accelerate research and development, betting on new modeling tools and automated labs to improve efficiency and slash costs as well as drug development timelines.  Drugmakers including Novo Nordisk \u200cand Eli Lilly have \u2060announced AI-related collaborations with technology firms.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/small-biotech-firms-quicker-latch-113344052.html",
+                "publishDate": "2026-05-28T11:33:44Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "CVS Caremark adds Zepbound and Foundayo to insurance coverage",
+                "summary": "The pharmacy benefit manager dropped Zepbound a year ago in favor of rival Wegovy \u2014 now both Lilly and Novo Nordisk drugs will be co-preferred options",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/cvs-caremark-zepbound-foundayo-eli-lilly-formulary-052826",
+                "publishDate": "2026-05-28T11:20:25Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "CVS obesity drug deal puts Lilly on equal footing with Novo",
+                "summary": "The agreement includes Lilly\u2019s new pill Foundayo and\u00a0restores coverage for Zepbound, erasing what had been a commercial edge for rival Novo Nordisk.",
+                "source": "BioPharma Dive",
+                "category": "finance",
+                "url": "https://www.biopharmadive.com/news/lilly-cvs-caremark-formulary-zepbound-foundayo-obesity-glp1/821327/",
+                "publishDate": "2026-05-28T11:09:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "CVS brings back coverage for Lilly's obesity drug Zepbound",
+                "summary": "May 28 () - CVS Health said on Thursday it will add Eli Lilly's weight-loss drug Zepbound back to some \u200cof its drug lists as an additional preferred option \u200cfor insurance coverage. Caremark, CVS' pharmacy benefit management unit, had dropped Zepbound from coverage \u200bon July 1 last year, while continuing to reimburse for rival Novo Nordisk's Wegovy after negotiating a more favorable price from the Danish drugmaker.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/cvs-brings-back-coverage-lillys-104713259.html",
+                "publishDate": "2026-05-28T10:49:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "LLY, NVO Stocks Led May\u2019s GLP-1 Rally \u2014 But This Smaller \u2018Differentiated Player\u2019 Got A Bold 160% Upside Call",
+                "summary": "Truist called Viking a \u201cdifferentiated player\u201d in the crowded obesity market, highlighting its flagship VK2735 candidate and dual oral-plus-injectable GLP-1 strategy.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/lly-nvo-glp1-rally-viking-therapeutics-upside-call/cZgiaIuResW",
+                "publishDate": "2026-05-28T08:48:59Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NVO) Among Our Most Undervalued Foreign Stocks to Buy Now",
                 "summary": "Novo Nordisk A/S (NYSE:NVO) is one of the Most Undervalued Foreign Stocks to Buy Now. On May 6, Reuters reported that Novo Nordisk A/S (NYSE:NVO) topped first-quarter profit forecasts and also raised the full-year outlook slightly. The results were driven by the company\u2019s new Wegovy weight-loss pill, which was launched in the US in January. [\u2026]",
@@ -70,66 +130,6 @@
                 "publishDate": "2026-05-27T15:32:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk vs. Amgen: Which Pharma Stock Is the Better Buy?",
-                "summary": "NVO and AMGN square off as GLP-1 leadership, pipeline depth and diversification shape a compelling healthcare stock comparison.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-vs-amgen-pharma-143200820.html",
-                "publishDate": "2026-05-27T14:32:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "HIMS Stock Heads For Weekly Loss \u2014 But Ex-Netflix CFO Is Buying The Dip Despite BofA\u2019s GLP-1 Warning",
-                "summary": "BofA cut its HIMS price target to $25 from $28, while warning that the company\u2019s 2026 outlook depends on a \u201csignificant\u201d ramp-up in GLP-1 growth.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/hims-stock-weekly-loss-netflix-cfo-buying-dip-bofa-glp1-warning/cZgXUjlReAJ",
-                "publishDate": "2026-05-27T04:43:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Decline Late Afternoon",
-                "summary": "Healthcare stocks were lower late Tuesday afternoon, with the NYSE Healthcare Index shedding 0.7% an",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-decline-afternoon-195437936.html",
-                "publishDate": "2026-05-26T19:54:37Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Hims & Hers faces steep climb to hit 2026 guidance as Wegovy churn risk looms, says BofA",
-                "summary": "Hims & Hers Health (NYSE: HIMS) faces a demanding customer acquisition challenge to hit its 2026 revenue guidance amid rising churn risks tied to its oral Wegovy subscription model, Bank of America said. Analysts estimate HIMS would need to add approximately 225,000 new oral Wegovy...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1092908/hims-hers-faces-steep-climb-to-hit-2026-guidance-as-wegovy-churn-risk-looms-says-bofa-1092908.html",
-                "publishDate": "2026-05-26T18:54:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk POSEIDON Data Highlights Residual Inflammatory Risk And New Opportunity",
-                "summary": "Novo Nordisk (CPSE:NOVO B) reported new findings from its POSEIDON study on cardiovascular inflammation in patients with heart disease. The study highlights a high prevalence of cardiovascular inflammation among patients already receiving treatment for atherosclerotic cardiovascular disease. Results point to an unmet medical need for therapies that can address residual inflammatory risk beyond current standard care. Novo Nordisk, known for its cardiometabolic and related therapies, now has...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-poseidon-data-highlights-181042447.html",
-                "publishDate": "2026-05-26T18:10:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Decline Tuesday Afternoon",
-                "summary": "Healthcare stocks were lower Tuesday afternoon, with the NYSE Healthcare Index shedding 0.6% and the",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-decline-tuesday-175029396.html",
-                "publishDate": "2026-05-26T17:50:29Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.75,
+        "price": 1.73,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.74418,
-            "marketCap": 164330752,
+            "change": -1.142856,
+            "marketCap": 162452688,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 130.82,
+        "price": 131.03,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX is powering a new ETF race: Chart of the Day",
-                "summary": "SpaceX is not public yet, but the race to own it is already rearranging the ETF market.",
-                "source": "Yahoo Finance",
+                "title": "Intuitive Machines Rallies 9%, Rocket Lab and Planet Labs Decline in Space Stock Divergence",
+                "summary": "Shares of Intuitive Machines (NASDAQ:LUNR) are up 9% in mid-morning trading Thursday, while Rocket Lab (NASDAQ:RKLB) stock is down 3% and Planet Labs (NYSE:PL) stock is lower by 2%. LUNR stock changed hands near $44, RKLB stock around $146, and PL stock near $49. No company issued material news this morning, which makes the split ... Intuitive Machines Rallies 9%, Rocket Lab and Planet Labs Decline in Space Stock Divergence",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-is-powering-a-new-etf-race-chart-of-the-day-100000512.html",
-                "publishDate": "2026-05-27T10:00:00Z",
+                "url": "https://247wallst.com/investing/2026/05/28/intuitive-machines-rallies-9-rocket-lab-and-planet-labs-decline-in-space-stock-divergence/",
+                "publishDate": "2026-05-28T15:00:11Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Could Be Worth More Than Tesla the Moment It Goes Public. Here's Why.",
-                "summary": "The rocket and satellite company is preparing for what could be the biggest initial public offering in history -- and at the reported targeted valuation, it would already be larger than its CEO's other megacap company.",
+                "title": "Musk clarifies SpaceX Anthropic Colossus deal is 6-month lease",
+                "summary": "The clarification contradicts earlier reports of a deal running through May 2029, and raises questions about SpaceX's IPO disclosure",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/musk-spacex-anthropic-colossus-lease-six-month-052826",
+                "publishDate": "2026-05-28T14:30:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Exclusive: Founders Fund partner Scott Nolan talks SpaceX",
+                "summary": "Founders Fund was one of the earliest investors in SpaceX, investing $20 million in 2008. It kept backing the company, with a stake that could be worth more than $60 billion.",
+                "source": "Axios",
+                "category": "finance",
+                "url": "https://www.axios.com/2026/05/28/spacex-founders-fund-musk#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+                "publishDate": "2026-05-28T14:21:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Clarifies SpaceX, Anthropic AI Deal. It's Not As Big As Expected.",
+                "summary": "Elon Musk clarifies SpaceX's AI compute deal with Anthropic is much shorter than the IPO prospectus implied. Space stocks pare rally.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/elon-musk-clarifies-spacex-anthropic-ai-deal-its-not-as-big-as-expected/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-28T14:19:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "9 \u2018Hidden\u2019 Space Stocks Haven\u2019t Joined SpaceX IPO Bubble Yet",
+                "summary": "Rocket Lab and AST SpaceMobile have surged as investors bet on the next phase of the space economy. But aerospace giants including Boeing, Airbus, and Lockheed Martin could also benefit from growing enthusiasm around SpaceX.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/space-stocks-spacex-ipo-boeing-lockheed-airbus-a3190f30?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-28T14:14:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Could a SpaceX-Tesla Merger Happen Earlier Than Expected?",
+                "summary": "A massive merger between SpaceX and Tesla may be inevitable.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/27/spacex-could-be-worth-more-than-tesla-the-moment-i/",
-                "publishDate": "2026-05-28T03:22:00Z",
+                "url": "https://www.fool.com/investing/2026/05/28/could-a-spacex-tesla-merger-happen-earlier-than-ex/",
+                "publishDate": "2026-05-28T13:50:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "ASTS Stock Slips Overnight: AST SpaceMobile President Cashes Out $3.3M As BlueBird 9 Nears SpaceX Mission",
-                "summary": "ASTS confirmed that BlueBird 9 arrived at Cape Canaveral ahead of its next Falcon 9 launch with SpaceX.",
+                "title": "Tesla and SpaceX Merger Would Make Elon Musk A Major Bitcoin Holder",
+                "summary": "Elon Musk could become one of the world\u2019s top five corporate owners of Bitcoin (CRYPTO: $BTC) should his comp...",
+                "source": "CryptoProwl",
+                "category": "finance",
+                "url": "https://www.cryptoprowl.com/releases/tesla-and-spacex-merger-would-make-elon-musk-a-major-bitcoin-holder-5692",
+                "publishDate": "2026-05-28T13:23:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX's Secret Metric",
+                "summary": "Imagine a private company pouring billions into unproven mega-rockets and moonshot ambitions suddenly being valued at over $1.75 trillion. Almost 2x what Apple was worth a decade ago. More than the GDP of most nations.",
+                "source": "Trefis",
+                "category": "finance",
+                "url": "https://www.trefis.com/articles/600575/spacexs-secret-metric/2026-05-28",
+                "publishDate": "2026-05-28T13:12:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "GNS Stock On Track To Wipe Out May Losses \u2013 The Company That Dumped Bitcoin Now Wants To Hold SpaceX, OpenAI",
+                "summary": "GNS stock surged 30%, on track to wipe out May losses after swapping its Bitcoin strategy for an $800M AI treasury with SpaceX and OpenAI.",
                 "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/asts-stock-president-stock-sale-bluebird-9-spacex-mission/cZgiRm4Resb",
-                "publishDate": "2026-05-28T02:47:41Z",
+                "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/gns-stock-genius-group-bitcoin-spacex-openai-pivot/cZgi14CRes8",
+                "publishDate": "2026-05-28T13:09:34Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "American Airlines deal hands SpaceX bold new pre-IPO boost",
-                "summary": "Most of us judge a company by what it does for our day-to-day life. The bank that approved the mortgage. The streaming service that babysat the kids over the holidays. The airline that lost a checked bag in Charlotte. We rarely think about boardroom math, satellite constellations, or registration ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/investing/american-airlines-deal-hands-spacex-bold-new-pre-ipo-boost",
-                "publishDate": "2026-05-28T02:47:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Next Threat To Nvidia Isn't A Chipmaker \u2014 It's An IPO",
-                "summary": "For the past two years, Nvidia Corp has emerged as Wall Street\u2019s preferred way to bet on artificial intelligence. It benefited from an arms race among AI developers scrambling to secure computing power. The next challenge to its dominance in...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/next-threat-nvidia-isnt-chipmaker-023105525.html",
-                "publishDate": "2026-05-28T02:31:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "MNTS, ASTC, RKTO Soar As NASA Ramps Up Moon Missions \u2014 But Isaacman Warns Orbital Economy Is \u2018Grossly Overstated\u2019",
-                "summary": "Smaller space stocks surged after NASA outlined plans for near-monthly moon missions starting in 2027.",
+                "title": "Elon Musk Warns SpaceX Could Pull Back Anthropic\u2019s $45B AI Compute Deal If Capacity Gets \u2018Super Tight\u2019",
+                "summary": "Musk clarified that SpaceX has not committed to leasing Colossus AI compute capacity to Anthropic for years.",
                 "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/mnts-astc-rkto-nasa-moon-missions-isaacman-space-economy-warning/cZgL6rPRery",
-                "publishDate": "2026-05-28T01:39:48Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk's SpaceX Pushed For Starlink Fee Hike During Iran War\u2014 And The Pentagon Caved As No Rival Matched Its Reach: Report",
-                "summary": "Elon Musk\u2019s SpaceX had reportedly requested a price hike from the Pentagon for the use of its Starlink network during the Iran war, leading to tensions between the two. Senior officials from SpaceX have claimed that the Pentagon has been...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musks-spacex-pushed-starlink-013109385.html",
-                "publishDate": "2026-05-28T01:31:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Prospectus: The Good, The Bad, The Verdict",
-                "summary": "SpaceX has filed its S-1 in anticipation of an IPO. The team digs into the details, examining what stands out in this monumental, possibly $2 trillion, public offering.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/27/the-spacex-ipo-prospectus-the-good-the-bad-the-verdict/",
-                "publishDate": "2026-05-27T23:57:32Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Teases A Space\u2011Energy Boom \u2014 Rocket Lab's Little-Known Solar Arm Is Ready For It",
-                "summary": "Elon Musk may have just handed investors a new way to think about the space economy\u2014and it has little to do with rockets. Responding to a post on X that highlighted the rapid growth of Starlink\u2018s orbital solar capacity, Musk...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/energy/articles/elon-musk-teases-space-energy-233101824.html",
-                "publishDate": "2026-05-27T23:31:01Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s Biggest Fan Is an 83-Year-Old Celebrity Investor",
-                "summary": "Ron Baron is in a slump, and he is counting on his friend Elon Musk to lift him out of it. The 83-year-old celebrity investor\u2019s largest fund is down for the year, but his prospects could brighten if SpaceX shares soar next month in what is expected to be the biggest-ever stock-market debut.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-27-2026/card/elon-musk-s-biggest-fan-is-an-83-year-old-celebrity-investor-EXq8nxbZBMDPQa3E6WL2?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-27T22:45:56Z",
+                "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-spacex-anthropic-deal-45b-pull-back-if-capacity-tight/cZgi1R0ResF",
+                "publishDate": "2026-05-28T13:03:44Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.58,
+        "price": 29.68,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.286536,
-            "marketCap": 21276018688,
+            "change": 0.33806756,
+            "marketCap": 21347946496,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.71,
+        "price": 29.63,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.88224,
-            "marketCap": 6164559360,
+            "change": -0.26926935,
+            "marketCap": 6147960320,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
