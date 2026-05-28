@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.71,
+        "price": 45.545,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,8 +16,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.6038156,
-            "marketCap": 202530291712,
+            "change": 2.2334433,
+            "marketCap": 201799204864,
             "weekLow": 35.12,
             "weekHigh": 81.44,
             "yearTarget": 46.867973
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
+                "summary": "Elon Musk is publicly reframing xAI\u2019s massive Anthropic compute deal as short-term and cancellable, despite SpaceX\u2019s own S-1 filing describing payments through May 2029.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/long-anthropic-lease-spacex-opinions-153600934.html",
+                "publishDate": "2026-05-28T15:36:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Will SpaceX Merge With Tesla? Elon Musk\u2019s Combined Company Would Own Over 30,000 BTC",
                 "summary": "The combined Bitcoin treasury would rank fifth among all public corporate Bitcoin holders globally.",
                 "source": "Stocktwits",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-28T13:12:42Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "GNS Stock On Track To Wipe Out May Losses \u2013 The Company That Dumped Bitcoin Now Wants To Hold SpaceX, OpenAI",
-                "summary": "GNS stock surged 30%, on track to wipe out May losses after swapping its Bitcoin strategy for an $800M AI treasury with SpaceX and OpenAI.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/gns-stock-genius-group-bitcoin-spacex-openai-pivot/cZgi14CRes8",
-                "publishDate": "2026-05-28T13:09:34Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.7,
+        "price": 29.62,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.40568236,
-            "marketCap": 21362331648,
+            "change": 0.1352296,
+            "marketCap": 21304788992,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.865,
+        "price": 30.06,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5217122,
-            "marketCap": 6196720640,
+            "change": 1.1780559,
+            "marketCap": 6237181440,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
