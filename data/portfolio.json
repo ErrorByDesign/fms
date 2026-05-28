@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.8501,
+        "price": 45.685,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9182992,
-            "marketCap": 203151048704,
+            "change": 2.547704,
+            "marketCap": 202419535872,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.854897
+            "yearTarget": 46.866653
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -342,6 +342,26 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Investor Says Tesla-SpaceX Merger Is Only A Matter Of Time",
+                "summary": "Early SpaceX investor Peter Diamandis says Musk could eventually combine Tesla and SpaceX after the IPO.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-says-tesla-spacex-194248210.html",
+                "publishDate": "2026-05-28T19:42:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges",
+                "summary": "Artificial intelligence company Anthropic said Thursday it raised $65 billion in private funding that will push its valuation to $965 billion, a whopping number that makes the five-year-old maker of the Claude chatbot one of the world's most valuable startups as it careens toward a likely Wall Street debut.  Anthropic said it's now making annualized revenue of $47 billion from selling its technology to people and organizations using Claude to write code and do other work and personal tasks on their behalf.  Anthropic was formed in 2021 by ex-OpenAI leaders and now both AI firms, along with Elon Musk's rocket and AI company SpaceX, are all expected to become publicly traded.",
+                "source": "Associated Press",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-vaults-965-billion-valuation-191826779.html",
+                "publishDate": "2026-05-28T19:18:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Elon Musk Clarifies SpaceX, Anthropic AI Deal. It's Not As Big As Expected.",
                 "summary": "Elon Musk clarifies SpaceX's AI compute deal with Anthropic is much shorter than the IPO prospectus implied. Space stocks pare rally.",
                 "source": "Investor's Business Daily",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-05-28T16:16:32Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
-                "summary": "Elon Musk is publicly reframing xAI\u2019s massive Anthropic compute deal as short-term and cancellable, despite SpaceX\u2019s own S-1 filing describing payments through May 2029.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/long-anthropic-lease-spacex-opinions-153600934.html",
-                "publishDate": "2026-05-28T15:36:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Will SpaceX Merge With Tesla? Elon Musk\u2019s Combined Company Would Own Over 30,000 BTC",
-                "summary": "The combined Bitcoin treasury would rank fifth among all public corporate Bitcoin holders globally.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/tesla-spacex-merge-elon-musk-combined-company-bitcoin/cZgimFnResx",
-                "publishDate": "2026-05-28T15:19:31Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.855,
+        "price": 29.93,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.92968094,
-            "marketCap": 21473816576,
+            "change": 1.1832333,
+            "marketCap": 21527762944,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.3,
+        "price": 30.31,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9858639,
-            "marketCap": 6286979072,
+            "change": 2.0195234,
+            "marketCap": 6289054208,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
