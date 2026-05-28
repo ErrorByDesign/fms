@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1548803,
+            "change": 2.15488,
             "marketCap": 201644130304,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.855698
+            "yearTarget": 46.85891
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,36 @@
                 "freemium": false
             },
             {
+                "title": "How Can Retail Investors Take Part in the SpaceX IPO?",
+                "summary": "SpaceX is targeting a debut on the Nasdaq in early June.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/28/how-can-retail-investors-invest-in-spacex-ipo/",
+                "publishDate": "2026-05-28T20:36:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk Wants to Merge SpaceX and Tesla. If He Does, He\u2019ll Control a $3.4 Trillion Empire",
+                "summary": "Elon Musk is talking openly about merging Tesla (NASDAQ:TSLA) and SpaceX, and he is doing it at a strange and convenient moment. SpaceX filed its S-1 on May 20, 2026, targeting a $1.75 trillion valuation, which would be the largest IPO in human history. Tesla, the publicly traded half of the Musk universe, sits at ... Musk Wants to Merge SpaceX and Tesla. If He Does, He\u2019ll Control a $3.4 Trillion Empire",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/05/28/musk-wants-to-merge-spacex-and-tesla-if-he-does-hell-control-a-3-4-trillion-empire/",
+                "publishDate": "2026-05-28T20:35:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Clarifies SpaceX, Anthropic AI Deal. It's Not As Big As Expected.",
+                "summary": "Elon Musk clarifies SpaceX's AI compute deal with Anthropic is much shorter than the IPO prospectus implied. Space stocks pare rally.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/elon-musk-clarifies-spacex-anthropic-ai-deal-its-not-as-big-as-expected/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-28T20:16:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Investor Says Tesla-SpaceX Merger Is Only A Matter Of Time",
                 "summary": "Early SpaceX investor Peter Diamandis says Musk could eventually combine Tesla and SpaceX after the IPO.",
                 "source": "GuruFocus.com",
@@ -348,16 +378,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-vaults-965-billion-valuation-191826779.html",
                 "publishDate": "2026-05-28T19:18:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Clarifies SpaceX, Anthropic AI Deal. It's Not As Big As Expected.",
-                "summary": "Elon Musk clarifies SpaceX's AI compute deal with Anthropic is much shorter than the IPO prospectus implied. Space stocks pare rally.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/elon-musk-clarifies-spacex-anthropic-ai-deal-its-not-as-big-as-expected/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-28T18:37:31Z",
                 "premium": false,
                 "freemium": false
             },
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/spacex-ipo-helium-iran-war-a1491f0f?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-05-28T17:28:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Prediction: Elon Musk\u2019s SpaceX Will Buy Intel for $1 Trillion",
-                "summary": "The market\u2019s AI arms race is no longer just about chatbots and software. It\u2019s becoming a battle over electricity, data centers, and perhaps most importantly \u2014 chips. That\u2019s why Elon Musk\u2019s next move after SpaceX\u2019s highly anticipated June 12 IPO may surprise investors. Not another rocket launch. Not a social media platform. Not even another ... Prediction: Elon Musk\u2019s SpaceX Will Buy Intel for $1 Trillion",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/28/prediction-elon-musks-spacex-will-buy-intel-for-1-trillion/",
-                "publishDate": "2026-05-28T16:16:32Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How long is Anthropic\u2019s lease with SpaceX? Opinions vary.",
-                "summary": "Elon Musk is publicly reframing xAI\u2019s massive Anthropic compute deal as short-term and cancellable, despite SpaceX\u2019s own S-1 filing describing payments through May 2029.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/long-anthropic-lease-spacex-opinions-153600934.html",
-                "publishDate": "2026-05-28T15:36:00Z",
                 "premium": false,
                 "freemium": false
             }
