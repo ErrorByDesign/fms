@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.5601,
+        "price": 45.71,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.267343,
-            "marketCap": 201866117120,
+            "change": 2.6038156,
+            "marketCap": 202530291712,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.870018
+            "yearTarget": 46.867973
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.73,
+        "price": 1.77,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.142856,
-            "marketCap": 162452688,
+            "change": 1.142856,
+            "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,22 @@
         },
         "NEWS": [
             {
-                "title": "Intuitive Machines Rallies 9%, Rocket Lab and Planet Labs Decline in Space Stock Divergence",
-                "summary": "Shares of Intuitive Machines (NASDAQ:LUNR) are up 9% in mid-morning trading Thursday, while Rocket Lab (NASDAQ:RKLB) stock is down 3% and Planet Labs (NYSE:PL) stock is lower by 2%. LUNR stock changed hands near $44, RKLB stock around $146, and PL stock near $49. No company issued material news this morning, which makes the split ... Intuitive Machines Rallies 9%, Rocket Lab and Planet Labs Decline in Space Stock Divergence",
+                "title": "Will SpaceX Merge With Tesla? Elon Musk\u2019s Combined Company Would Own Over 30,000 BTC",
+                "summary": "The combined Bitcoin treasury would rank fifth among all public corporate Bitcoin holders globally.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/tesla-spacex-merge-elon-musk-combined-company-bitcoin/cZgimFnResx",
+                "publishDate": "2026-05-28T15:19:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "These 2 Cheap Biotech Stocks Offer Potential for Low-Beta Growth",
+                "summary": "If you\u2019re looking to diversify outside of AI, especially as AI investors look to trim their winners to save up for that mega-cap AI IPO boom on the horizon, with SpaceX leading the way, the biotech space is more than worth exploring, especially as some of the AI benefits start to trickle downstream towards biotech ... These 2 Cheap Biotech Stocks Offer Potential for Low-Beta Growth",
                 "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/28/intuitive-machines-rallies-9-rocket-lab-and-planet-labs-decline-in-space-stock-divergence/",
-                "publishDate": "2026-05-28T15:00:11Z",
+                "url": "https://247wallst.com/investing/2026/05/28/these-2-cheap-biotech-stocks-offer-potential-for-low-beta-growth/",
+                "publishDate": "2026-05-28T15:04:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-28T13:09:34Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk Warns SpaceX Could Pull Back Anthropic\u2019s $45B AI Compute Deal If Capacity Gets \u2018Super Tight\u2019",
-                "summary": "Musk clarified that SpaceX has not committed to leasing Colossus AI compute capacity to Anthropic for years.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-spacex-anthropic-deal-45b-pull-back-if-capacity-tight/cZgi1R0ResF",
-                "publishDate": "2026-05-28T13:03:44Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.68,
+        "price": 29.7,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.33806756,
-            "marketCap": 21347946496,
+            "change": 0.40568236,
+            "marketCap": 21362331648,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.63,
+        "price": 29.865,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.26926935,
-            "marketCap": 6147960320,
+            "change": 0.5217122,
+            "marketCap": 6196720640,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
