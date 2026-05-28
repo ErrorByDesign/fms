@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.685,
+        "price": 45.715,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.547704,
-            "marketCap": 202419535872,
+            "change": 2.6150415,
+            "marketCap": 202552442880,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.874844
+            "yearTarget": 46.85387
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "CVS will add these weight-loss options to drug plans",
+                "summary": "CVS Health will reinstate coverage of Eli Lilly's weight-loss injectable Zepbound and begin coverage of the anti-obesity pill Foundayo.",
+                "source": "USA TODAY",
+                "category": "finance",
+                "url": "https://www.usatoday.com/story/money/2026/05/28/cvs-zepbound-foundayo-drug-plans-weight-loss/90293671007/",
+                "publishDate": "2026-05-28T18:07:42Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly Stock Heads for Record Close. CVS Weight-Loss Drug Coverage Drives It Higher.",
                 "summary": "CVS Health\u2019s Caremark will resume insurance coverage of Eli Lilly\u2019s Zepbound and separately begin covering its Foundayo weight-loss pill.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-27T21:39:37Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Eli Lilly Stock Hits Record Highs, Becomes First Pharmaceutical Firm Worth $1 Trillion",
-                "summary": "Eli Lilly (LLY) stock has surged to new record highs of over $1,000 a share, cementing its position as one of the market's most dominant growth stories and the first pharmaceutical firm worth $1 trillion.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-stock-hits-record-203900546.html",
-                "publishDate": "2026-05-27T20:39:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.76,
+        "price": 1.7887,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.571428,
-            "marketCap": 165269792,
+            "change": 2.2114277,
+            "marketCap": 167964816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,36 @@
         },
         "NEWS": [
             {
+                "title": "Tech stocks today: Anthropic overtakes OpenAI as world's most valuable AI startup",
+                "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia's latest earnings mean for the artificial intelligence trade.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-anthropic-overtakes-openai-as-worlds-most-valuable-ai-startup-100000319.html",
+                "publishDate": "2026-05-26T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Michael Burry drops bombshell on SpaceX, OpenAI IPOs",
+                "summary": "Hedge fund manager Michael Burry, who gained popularity for correctly predicting the housing market crash in 2008, has a new prediction for the global markets. Burry wrote an X post on May 27 in which he predicted that the upcoming initial public offerings (IPOs) of SpaceX, Anthropic, and OpenAI ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/crypto/markets/michael-burry-drops-bombshell-on-spacex-openai-anthropic-ipos",
+                "publishDate": "2026-05-28T18:17:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Jeff Bezos lands bold new NASA moon win over Elon Musk",
+                "summary": "In business, losing the first round rarely ends the fight. The biggest fortunes get rebuilt on second chances, third chances, and the patience to keep showing up after everyone has written you off. For most of the past five years, Elon Musk's SpaceX has been the obvious winner of NASA's expensive ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/technology/jeff-bezos-lands-bold-new-nasa-moon-win-over-elon-musk",
+                "publishDate": "2026-05-28T18:17:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Musk defends AI ambitions as IPO reveals trouble",
                 "summary": "Elon Musk insists that his artificial intelligence venture xAI remains a serious competitor, pushing back against mounting doubts after revelations that the supercomputing facilities built to power his own AI models are being rented out to a rival.It has also landed a Pentagon contract worth up to $200 million alongside rivals including Google and OpenAI.\nBuilt quickly, the Colossus facilities in Memphis have been a source of controversy, after xAI installed dozens of natural gas turbines to pow",
                 "source": "AFP",
@@ -390,36 +420,6 @@
                 "publishDate": "2026-05-28T14:30:33Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Exclusive: Founders Fund partner Scott Nolan talks SpaceX",
-                "summary": "Founders Fund was one of the earliest investors in SpaceX, investing $20 million in 2008. It kept backing the company, with a stake that could be worth more than $60 billion.",
-                "source": "Axios",
-                "category": "finance",
-                "url": "https://www.axios.com/2026/05/28/spacex-founders-fund-musk#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-                "publishDate": "2026-05-28T14:21:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Clarifies SpaceX, Anthropic AI Deal. It's Not As Big As Expected.",
-                "summary": "Elon Musk clarifies SpaceX's AI compute deal with Anthropic is much shorter than the IPO prospectus implied. Space stocks pare rally.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/elon-musk-clarifies-spacex-anthropic-ai-deal-its-not-as-big-as-expected/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-28T14:19:15Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "9 \u2018Hidden\u2019 Space Stocks Haven\u2019t Joined SpaceX IPO Bubble Yet",
-                "summary": "Rocket Lab and AST SpaceMobile have surged as investors bet on the next phase of the space economy. But aerospace giants including Boeing, Airbus, and Lockheed Martin could also benefit from growing enthusiasm around SpaceX.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/space-stocks-spacex-ipo-boeing-lockheed-airbus-a3190f30?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-28T14:14:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.65,
+        "price": 29.745,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.23664536,
-            "marketCap": 21326366720,
+            "change": 0.55781245,
+            "marketCap": 21394698240,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.24,
+        "price": 30.22,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7839135,
-            "marketCap": 6274529792,
+            "change": 1.7165946,
+            "marketCap": 6270380032,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
