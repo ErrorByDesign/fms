@@ -20,7 +20,7 @@
             "marketCap": 202264461312,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.878788
+            "yearTarget": 46.872505
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.799,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8307352,
-            "marketCap": 168932016,
+            "change": 0.571428,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Musk defends AI ambitions as IPO reveals trouble",
+                "summary": "Elon Musk insists that his artificial intelligence venture xAI remains a serious competitor, pushing back against mounting doubts after revelations that the supercomputing facilities built to power his own AI models are being rented out to a rival.It has also landed a Pentagon contract worth up to $200 million alongside rivals including Google and OpenAI.\nBuilt quickly, the Colossus facilities in Memphis have been a source of controversy, after xAI installed dozens of natural gas turbines to pow",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/musk-defends-ai-ambitions-ipo-173300346.html",
+                "publishDate": "2026-05-28T17:33:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Prediction: Elon Musk\u2019s SpaceX Will Buy Intel for $1 Trillion",
                 "summary": "The market\u2019s AI arms race is no longer just about chatbots and software. It\u2019s becoming a battle over electricity, data centers, and perhaps most importantly \u2014 chips. That\u2019s why Elon Musk\u2019s next move after SpaceX\u2019s highly anticipated June 12 IPO may surprise investors. Not another rocket launch. Not a social media platform. Not even another ... Prediction: Elon Musk\u2019s SpaceX Will Buy Intel for $1 Trillion",
                 "source": "24/7 Wall St.",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-28T13:50:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Tesla and SpaceX Merger Would Make Elon Musk A Major Bitcoin Holder",
-                "summary": "Elon Musk could become one of the world\u2019s top five corporate owners of Bitcoin (CRYPTO: $BTC) should his comp...",
-                "source": "CryptoProwl",
-                "category": "finance",
-                "url": "https://www.cryptoprowl.com/releases/tesla-and-spacex-merger-would-make-elon-musk-a-major-bitcoin-holder-5692",
-                "publishDate": "2026-05-28T13:23:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.6,
+        "price": 29.64,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0676148,
-            "marketCap": 21290403840,
+            "change": 0.20283796,
+            "marketCap": 21319174144,
             "weekLow": 10.594,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.3,
+        "price": 30.28,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9858639,
-            "marketCap": 6286979072,
+            "change": 1.9185514,
+            "marketCap": 6282829824,
             "weekLow": 11.58,
             "weekHigh": 36.52,
             "yearTarget": 43.8
