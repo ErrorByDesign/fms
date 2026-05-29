@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.725,
+        "price": 45.655,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.472424,
-            "marketCap": 202596745216,
+            "change": 0.3186123,
+            "marketCap": 202286596096,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.96552
+            "yearTarget": 46.97887
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.86,
+        "price": 1.9,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.8965516,
-            "marketCap": 174660112,
+            "change": 9.1954,
+            "marketCap": 178416240,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "Voyager Technologies Growth Outlook Looks Strong on Defense, Space Demand, Wedbush Says",
+                "summary": "Voyager Technologies (VOYG) has a stronger growth outlook as defense demand, space infrastructure wo",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/voyager-technologies-growth-outlook-looks-151724714.html",
+                "publishDate": "2026-05-29T15:17:24Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
                 "title": "Did SpaceX Lower Its IPO Valuation Target? Here's What Elon Musk Said",
                 "summary": "Musk\u2019s clarification comes after a Bloomberg report on Thursday stated that SpaceX had lowered its valuation target to $1.8 trillion, from its previous aim of over $2 trillion.",
                 "source": "Stocktwits",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-05-29T13:02:43Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Hype Spurs Crypto Shadow Market for Pre-IPO Bets",
-                "summary": "(Bloomberg) -- As SpaceX edges closer to what could be the largest initial public offering in history, a corner of the crypto market is already pricing the debut \u2014 and recent history suggests the numbers are worth watching.Most Read from BloombergSingapore Hands Byju's Founder His First Ever Jail TermApple to Overhaul iOS 27 Siri, AI Features: Here's a First PeekCVS Returns Zepbound to Drug Plans After Lilly Slashes PriceSpaceX Said to Cut IPO Value Goal to at Least $1.8 TrillionUS, Iran Agree t",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/crypto/articles/spacex-ipo-hype-spurs-crypto-091532209.html",
-                "publishDate": "2026-05-29T12:50:41Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.165,
+        "price": 30.035,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9538212,
-            "marketCap": 21696792576,
+            "change": 0.51874393,
+            "marketCap": 21603287040,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.23,
+        "price": 30.97,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5820894,
-            "marketCap": 6479946240,
+            "change": 2.7197337,
+            "marketCap": 6425998336,
             "weekLow": 11.6,
             "weekHigh": 36.52,
             "yearTarget": 43.8
