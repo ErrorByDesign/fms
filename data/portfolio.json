@@ -20,7 +20,7 @@
             "marketCap": 201644130304,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.870457
+            "yearTarget": 46.865925
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly Jumps as CVS Expands Weight-Loss Drug Coverage",
+                "summary": "The change could improve patient access and support future sales growth.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-jumps-cvs-expands-221445298.html",
+                "publishDate": "2026-05-28T22:14:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "CVS Restores Coverage for Lilly's Zepbound",
+                "summary": "The move gives patients broader access to Lilly's obesity drugs and strengthens competition with Novo Nordisk.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/cvs-restores-coverage-lillys-zepbound-220703093.html",
+                "publishDate": "2026-05-28T22:07:03Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly Stock on Track for Record as Insurance Coverage Expands for Zepbound",
                 "summary": "Eli Lilly shares are on pace to hit a new all-time closing high on news of increased insurance coverage for its blockbuster weight-loss drug Zepbound.  Lilly shares were recently up 4.4% to $1,130.90.  Pharmacy-benefit manager CVS Caremark decided to add back Lilly\u2019s Zepbound weight-loss drug to its lists of preferred drugs.",
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://www.biopharmadive.com/news/lilly-cvs-caremark-formulary-zepbound-foundayo-obesity-glp1/821327/",
                 "publishDate": "2026-05-28T11:09:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "CVS brings back coverage for Lilly's obesity drug Zepbound",
-                "summary": "May 28 () - CVS Health said on Thursday it will add Eli Lilly's weight-loss drug Zepbound back to some \u200cof its drug lists as an additional preferred option \u200cfor insurance coverage. Caremark, CVS' pharmacy benefit management unit, had dropped Zepbound from coverage \u200bon July 1 last year, while continuing to reimburse for rival Novo Nordisk's Wegovy after negotiating a more favorable price from the Danish drugmaker.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/cvs-brings-back-coverage-lillys-104713259.html",
-                "publishDate": "2026-05-28T10:49:34Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "LLY, NVO Stocks Led May\u2019s GLP-1 Rally \u2014 But This Smaller \u2018Differentiated Player\u2019 Got A Bold 160% Upside Call",
-                "summary": "Truist called Viking a \u201cdifferentiated player\u201d in the crowded obesity market, highlighting its flagship VK2735 candidate and dual oral-plus-injectable GLP-1 strategy.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/lly-nvo-glp1-rally-viking-therapeutics-upside-call/cZgiaIuResW",
-                "publishDate": "2026-05-28T08:48:59Z",
                 "premium": false,
                 "freemium": false
             }
@@ -332,6 +332,56 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Lowers IPO Valuation Target To At Least $1.8 Trillion: Bloomberg",
+                "summary": "Elon Musk's space and AI company reportedly aims to raise $75 billion. The SpaceX IPO could take place as soon as June 11.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-ipo-elon-musk-valuation-target-1-8-trillion/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-05-29T01:46:22Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Lowers IPO Valuation Target to at Least $1.8 Trillion",
+                "summary": "(Bloomberg) -- SpaceX is currently targeting a valuation of at least $1.8 trillion in its initial public offering, according to people familiar with the matter, as Elon Musk\u2019s rocket and artificial intelligence company nears its debut.Most Read from BloombergSingapore Hands Byju's Founder His First Ever Jail TermApple to Overhaul iOS 27 Siri, AI Features: Here's a First PeekIran\u2019s Khamenei Says No Going Back for Middle East Rocked by WarCVS Returns Zepbound to Drug Plans After Lilly Slashes Pric",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-lowers-ipo-valuation-target-012204740.html",
+                "publishDate": "2026-05-29T01:22:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Viasat Q4 Earnings Call Highlights",
+                "summary": "Viasat (NASDAQ:VSAT) reported record backlog, modest revenue growth and positive free cash flow for fiscal 2026, while executives said the satellite communications company is positioning for growth from new satellite capacity, defense technology programs and a planned shared space infrastructure ven",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/viasat-q4-earnings-call-highlights-2026-05-28/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-29T00:08:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Delta Airlines Touts Amazon.com, Inc. (AMZN)\u2019s in-Flight Wi-Fi Capabilities amid Starlink Tussle",
+                "summary": "Amazon.com, Inc. (NASDAQ:AMZN) is one of the best 52-week high stocks to invest in, according to short sellers. On May 18, Delta Air Lines CEO Ed Bastian defended the company\u2019s decision to settle on Amazon.com Inc. (NASDAQ:AMZN) to provide in-flight Wi-Fi service in its airplanes. The airline settled on Amazon Leo service over SpaceX\u2019s Starlink [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/delta-airlines-touts-amazon-com-233934258.html",
+                "publishDate": "2026-05-28T23:39:34Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk Lived On $1 A Day Grocery Budget When He Came To America Eating Hot Dogs, Pasta, And Oranges \u2014'That Can Go Pretty Far'",
+                "summary": "The world's richest man once stress-tested adulthood with hot dogs, oranges and a grocery budget smaller than the price of a gas-station coffee today. Long before Tesla and SpaceX turned Elon Musk into one of the most recognizable billionaires on...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/economy/articles/elon-musk-lived-1-day-230010747.html",
+                "publishDate": "2026-05-28T23:00:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "9 \u2018Hidden\u2019 Space Stocks Haven\u2019t Joined SpaceX IPO Bubble Yet",
                 "summary": "Rocket Lab and AST SpaceMobile have surged as investors bet on the next phase of the space economy. But aerospace giants including Boeing, Airbus, and Lockheed Martin could also benefit from growing enthusiasm around SpaceX.",
                 "source": "Barrons.com",
@@ -370,56 +420,6 @@
                 "publishDate": "2026-05-28T20:16:09Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Investor Says Tesla-SpaceX Merger Is Only A Matter Of Time",
-                "summary": "Early SpaceX investor Peter Diamandis says Musk could eventually combine Tesla and SpaceX after the IPO.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-investor-says-tesla-spacex-194248210.html",
-                "publishDate": "2026-05-28T19:42:48Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic vaults to a $965 billion valuation with new funding as Claude demand surges",
-                "summary": "Artificial intelligence company Anthropic said Thursday it raised $65 billion in private funding that will push its valuation to $965 billion, a whopping number that makes the five-year-old maker of the Claude chatbot one of the world's most valuable startups as it careens toward a likely Wall Street debut.  Anthropic said it's now making annualized revenue of $47 billion from selling its technology to people and organizations using Claude to write code and do other work and personal tasks on their behalf.  Anthropic was formed in 2021 by ex-OpenAI leaders and now both AI firms, along with Elon Musk's rocket and AI company SpaceX, are all expected to become publicly traded.",
-                "source": "Associated Press",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/anthropic-vaults-965-billion-valuation-191826779.html",
-                "publishDate": "2026-05-28T19:18:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Michael Burry drops bombshell on SpaceX, OpenAI IPOs",
-                "summary": "Hedge fund manager Michael Burry, who gained popularity for correctly predicting the housing market crash in 2008, has a new prediction for the global markets. Burry wrote an X post on May 27 in which he predicted that the upcoming initial public offerings (IPOs) of SpaceX, Anthropic, and OpenAI ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/crypto/markets/michael-burry-drops-bombshell-on-spacex-openai-anthropic-ipos",
-                "publishDate": "2026-05-28T18:17:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Jeff Bezos lands bold new NASA moon win over Elon Musk",
-                "summary": "In business, losing the first round rarely ends the fight. The biggest fortunes get rebuilt on second chances, third chances, and the patience to keep showing up after everyone has written you off. For most of the past five years, Elon Musk's SpaceX has been the obvious winner of NASA's expensive ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/technology/jeff-bezos-lands-bold-new-nasa-moon-win-over-elon-musk",
-                "publishDate": "2026-05-28T18:17:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Musk defends AI ambitions as IPO reveals trouble",
-                "summary": "Elon Musk insists that his artificial intelligence venture xAI remains a serious competitor, pushing back against mounting doubts after revelations that the supercomputing facilities built to power his own AI models are being rented out to a rival.It has also landed a Pentagon contract worth up to $200 million alongside rivals including Google and OpenAI.\nBuilt quickly, the Colossus facilities in Memphis have been a source of controversy, after xAI installed dozens of natural gas turbines to pow",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/musk-defends-ai-ambitions-ipo-173300346.html",
-                "publishDate": "2026-05-28T17:33:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -450,9 +450,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0141963,
+            "change": 1.0142,
             "marketCap": 21491798016,
-            "weekLow": 10.594,
+            "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
         },
@@ -594,9 +594,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4809847,
+            "change": 1.48098,
             "marketCap": 6255855616,
-            "weekLow": 11.58,
+            "weekLow": 11.6,
             "weekHigh": 36.52,
             "yearTarget": 43.8
         },
@@ -608,108 +608,7 @@
             "leadInvestor": "",
             "totalFundingRounds": null
         },
-        "NEWS": [
-            {
-                "title": "Newmont vs. SSR Mining: Which Gold Stock Is a Better Buy in 2026?",
-                "summary": "This is a battle between a gold giant generating record cash flows and a smaller miner about to sell its most problematic mine and get $1.5 billion.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/coverage/better-buy/2026/05/27/newmont-vs-ssr-mining-which-gold-stock-is-a-better-buy-in-2026/",
-                "publishDate": "2026-05-27T19:13:32Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Harvest Investment Services Dumps 356,000 Adaptive Biotechnologies (ADPT) Shares Worth $5.7 Million",
-                "summary": "Adaptive Biotechnologies develops immune-driven diagnostics and research tools for the life sciences and healthcare sectors.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/coverage/filings/2026/05/26/harvest-investment-dumps-356-000-adaptive-biotechnologies-adpt-shares-worth-usd5-7-million/",
-                "publishDate": "2026-05-26T20:23:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Inc. (SSRM) Sells 20% Equity Interest in Hod Maden",
-                "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the best commodity stocks to buy for the supercycle. SSR Mining Inc. (NASDAQ:SSRM) announced on May 18 its entry into a definitive agreement with Lidya Mines to sell its 20% ownership stake and its operatorship position in the Hod Maden development project for an uncapped 4.0% net smelter [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-inc-ssrm-sells-120821415.html",
-                "publishDate": "2026-05-26T12:08:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "BofA Cuts PT on Royal Gold (RGLD) Following Plans to Reduce Ownership in Hod Maden to 15%",
-                "summary": "Royal Gold, Inc. (NASDAQ:RGLD) is one of the best commodity stocks to buy for the supercycle. BofA cut the price target on Royal Gold, Inc. (NASDAQ:RGLD) to $245 from $246 on May 19, reiterating an Underperform rating on the shares. The rating came after SSR Mining Inc. (NASDAQ:SSRM) announced a definitive agreement with Lidya Mines of [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/commodities/articles/bofa-cuts-pt-royal-gold-120758409.html",
-                "publishDate": "2026-05-26T12:07:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Is Selling Its Interest in the Copler Mine for $1.5 Billion. Is This a Positive Sign for the Mining Stock?",
-                "summary": "The gold miner is coming off a strong year and expects this year to be even better as it builds a strong balance sheet.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/25/ssr-mining-is-selling-its-interest-in-the-copler/",
-                "publishDate": "2026-05-25T15:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Hod Maden Exit Refocuses Portfolio And Valuation Debate",
-                "summary": "SSR Mining (TSX:SSRM) has agreed to divest its 20% stake and management role in the Hod Maden project in T\u00fcrkiye to Lidya Mines. As part of the transaction, SSR Mining will receive a 4% uncapped net smelter return royalty on future production from Hod Maden. This move completes the company\u2019s transition toward a portfolio focused solely on assets in the Americas. For investors tracking TSX:SSRM, this deal marks a clear shift in how the company is shaping its portfolio. The stock last closed...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-hod-maden-exit-061404374.html",
-                "publishDate": "2026-05-23T06:14:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Royal Gold Reduces Cost Exposure With Hod Maden Stake Restructuring",
-                "summary": "RGLD cuts its Hod Maden stake to 15% for a new royalty interest to lower capital and operating cost exposure.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-reduces-cost-exposure-172500622.html",
-                "publishDate": "2026-05-22T17:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "CIBC Revises Earnings Estimate for SSR Mining After Hod Maden Stake Sale",
-                "summary": "CIBC Capital Markets on Tuesday revised its 2027 adjusted earnings estimate for SSR Mining (SSRM.TO,",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/cibc-revises-earnings-estimate-ssr-155529436.html",
-                "publishDate": "2026-05-20T15:55:29Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Why SSR Mining (SSRM) is a Top Value Stock for the Long-Term",
-                "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-ssrm-top-134005734.html",
-                "publishDate": "2026-05-20T13:40:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Inks Deal to Sell Its Interests in Hod Maden Project",
-                "summary": "SSRM sells its 20% Hod Maden stake for a 4% NSR royalty, sharpening its focus on the Americas and boosting its royalty portfolio.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-inks-deal-sell-162700772.html",
-                "publishDate": "2026-05-19T16:27:00Z",
-                "premium": false,
-                "freemium": false
-            }
-        ],
+        "NEWS": [],
         "RATINGS": {
             "analystCount": 5,
             "recommendationKey": "strong_buy",
