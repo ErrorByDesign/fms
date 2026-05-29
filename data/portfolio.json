@@ -20,7 +20,7 @@
             "marketCap": 201644130304,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.865925
+            "yearTarget": 46.817165
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Are Hot IPOs a Sign of a Market Top? One Analyst Thinks So. Here's What Investors Should Do.",
+                "summary": "The IPO market is heating up, but that shouldn't change investors' core strategies.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/28/are-hot-ipos-a-sign-of-a-market-top-one-analyst-th/",
+                "publishDate": "2026-05-29T03:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Hyperliquid SpaceX Perp Drops 45% as Retail Liquidations Top $1.5 Million",
+                "summary": "Hyperliquid\u2019s (CRYPTO: $HYPE) synthetic SpaceX market turned sharply against leveraged traders Thursday after...",
+                "source": "CryptoProwl",
+                "category": "finance",
+                "url": "https://www.cryptoprowl.com/releases/hyperliquid-spacex-perp-drops-45-as-retail-liquidations-top-15-million-5707",
+                "publishDate": "2026-05-29T03:10:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Lowers IPO Valuation Target To At Least $1.8 Trillion: Bloomberg",
                 "summary": "Elon Musk's space and AI company reportedly aims to raise $75 billion. The SpaceX IPO could take place as soon as June 11.",
                 "source": "Investor's Business Daily",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/28/how-can-retail-investors-invest-in-spacex-ipo/",
                 "publishDate": "2026-05-28T20:36:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Musk Wants to Merge SpaceX and Tesla. If He Does, He\u2019ll Control a $3.4 Trillion Empire",
-                "summary": "Elon Musk is talking openly about merging Tesla (NASDAQ:TSLA) and SpaceX, and he is doing it at a strange and convenient moment. SpaceX filed its S-1 on May 20, 2026, targeting a $1.75 trillion valuation, which would be the largest IPO in human history. Tesla, the publicly traded half of the Musk universe, sits at ... Musk Wants to Merge SpaceX and Tesla. If He Does, He\u2019ll Control a $3.4 Trillion Empire",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/28/musk-wants-to-merge-spacex-and-tesla-if-he-does-hell-control-a-3-4-trillion-empire/",
-                "publishDate": "2026-05-28T20:35:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk Clarifies SpaceX, Anthropic AI Deal. It's Not As Big As Expected.",
-                "summary": "Elon Musk clarifies SpaceX's AI compute deal with Anthropic is much shorter than the IPO prospectus implied. Space stocks pare rally.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/elon-musk-clarifies-spacex-anthropic-ai-deal-its-not-as-big-as-expected/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-28T20:16:09Z",
                 "premium": false,
                 "freemium": false
             }
@@ -608,7 +608,108 @@
             "leadInvestor": "",
             "totalFundingRounds": null
         },
-        "NEWS": [],
+        "NEWS": [
+            {
+                "title": "Newmont vs. SSR Mining: Which Gold Stock Is a Better Buy in 2026?",
+                "summary": "This is a battle between a gold giant generating record cash flows and a smaller miner about to sell its most problematic mine and get $1.5 billion.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/coverage/better-buy/2026/05/27/newmont-vs-ssr-mining-which-gold-stock-is-a-better-buy-in-2026/",
+                "publishDate": "2026-05-27T19:13:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Harvest Investment Services Dumps 356,000 Adaptive Biotechnologies (ADPT) Shares Worth $5.7 Million",
+                "summary": "Adaptive Biotechnologies develops immune-driven diagnostics and research tools for the life sciences and healthcare sectors.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/coverage/filings/2026/05/26/harvest-investment-dumps-356-000-adaptive-biotechnologies-adpt-shares-worth-usd5-7-million/",
+                "publishDate": "2026-05-26T20:23:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SSR Mining Inc. (SSRM) Sells 20% Equity Interest in Hod Maden",
+                "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the best commodity stocks to buy for the supercycle. SSR Mining Inc. (NASDAQ:SSRM) announced on May 18 its entry into a definitive agreement with Lidya Mines to sell its 20% ownership stake and its operatorship position in the Hod Maden development project for an uncapped 4.0% net smelter [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-inc-ssrm-sells-120821415.html",
+                "publishDate": "2026-05-26T12:08:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "BofA Cuts PT on Royal Gold (RGLD) Following Plans to Reduce Ownership in Hod Maden to 15%",
+                "summary": "Royal Gold, Inc. (NASDAQ:RGLD) is one of the best commodity stocks to buy for the supercycle. BofA cut the price target on Royal Gold, Inc. (NASDAQ:RGLD) to $245 from $246 on May 19, reiterating an Underperform rating on the shares. The rating came after SSR Mining Inc. (NASDAQ:SSRM) announced a definitive agreement with Lidya Mines of [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/bofa-cuts-pt-royal-gold-120758409.html",
+                "publishDate": "2026-05-26T12:07:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SSR Mining Is Selling Its Interest in the Copler Mine for $1.5 Billion. Is This a Positive Sign for the Mining Stock?",
+                "summary": "The gold miner is coming off a strong year and expects this year to be even better as it builds a strong balance sheet.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/25/ssr-mining-is-selling-its-interest-in-the-copler/",
+                "publishDate": "2026-05-25T15:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SSR Mining Hod Maden Exit Refocuses Portfolio And Valuation Debate",
+                "summary": "SSR Mining (TSX:SSRM) has agreed to divest its 20% stake and management role in the Hod Maden project in T\u00fcrkiye to Lidya Mines. As part of the transaction, SSR Mining will receive a 4% uncapped net smelter return royalty on future production from Hod Maden. This move completes the company\u2019s transition toward a portfolio focused solely on assets in the Americas. For investors tracking TSX:SSRM, this deal marks a clear shift in how the company is shaping its portfolio. The stock last closed...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-hod-maden-exit-061404374.html",
+                "publishDate": "2026-05-23T06:14:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Royal Gold Reduces Cost Exposure With Hod Maden Stake Restructuring",
+                "summary": "RGLD cuts its Hod Maden stake to 15% for a new royalty interest to lower capital and operating cost exposure.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-reduces-cost-exposure-172500622.html",
+                "publishDate": "2026-05-22T17:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "CIBC Revises Earnings Estimate for SSR Mining After Hod Maden Stake Sale",
+                "summary": "CIBC Capital Markets on Tuesday revised its 2027 adjusted earnings estimate for SSR Mining (SSRM.TO,",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/cibc-revises-earnings-estimate-ssr-155529436.html",
+                "publishDate": "2026-05-20T15:55:29Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Why SSR Mining (SSRM) is a Top Value Stock for the Long-Term",
+                "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-ssrm-top-134005734.html",
+                "publishDate": "2026-05-20T13:40:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SSR Mining Inks Deal to Sell Its Interests in Hod Maden Project",
+                "summary": "SSRM sells its 20% Hod Maden stake for a 4% NSR royalty, sharpening its focus on the Americas and boosting its royalty portfolio.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-inks-deal-sell-162700772.html",
+                "publishDate": "2026-05-19T16:27:00Z",
+                "premium": false,
+                "freemium": false
+            }
+        ],
         "RATINGS": {
             "analystCount": 5,
             "recommendationKey": "strong_buy",
