@@ -20,7 +20,7 @@
             "marketCap": 201954295808,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.90625
+            "yearTarget": 46.9026
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Buys 8% of Tesla\u2019s Cybertrucks\u2014and It Doesn\u2019t Get a Discount",
+                "summary": "FEATURE  You would think Tesla would give SpaceX a volume discount. That isn\u2019t the case, though. It turns out, one of the biggest fans of Tesla\u2019s Cybertruck is SpaceX. Elon Musk\u2019s rocket company has spent $131 million on the avant-garde truck.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/tesla-cybertruck-spacex-elon-musk-9d3e1a1e?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-05-31T19:21:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The SpaceX IPO Is Weeks Away: Here's What History Says Happens After It Starts Trading",
                 "summary": "SpaceX's IPO is unprecedentedly large. Here's what the biggest IPOs in history have done after trading.",
                 "source": "Motley Fool",
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/31/2-space-stocks-buy-before-spacex-ipo-june-12/",
                 "publishDate": "2026-05-31T13:05:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 Things I Learned from the SpaceX IPO Prospectus Last Week",
-                "summary": "After years of guessing, SpaceX finally showed its cards last week.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/31/3-things-i-learned-from-the-spacex-ipo-prospectus/",
-                "publishDate": "2026-05-31T11:27:00Z",
                 "premium": false,
                 "freemium": false
             }
