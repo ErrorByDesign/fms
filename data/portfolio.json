@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.655,
+        "price": 45.58,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.3186123,
-            "marketCap": 202286596096,
+            "change": 0.15382,
+            "marketCap": 201954295808,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.97887
+            "yearTarget": 46.917965
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,12 +32,52 @@
         },
         "NEWS": [
             {
-                "title": "Eli Lilly's $1 trillion valuation cements its status as Wall Street's ultimate weight-loss play",
-                "summary": "Eli Lilly's $1 trillion comeback is powered by the company's experimental next-generation obesity drug, Reta.",
-                "source": "Yahoo Finance",
+                "title": "Lilly's New Drug Just Delivered the Largest Weight Loss Ever Seen in a Clinical Trial -- Here's What It Means for Investors",
+                "summary": "Eli Lilly is working on a new GLP-1 drug, and early results suggest it could be a big winner.",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/eli-lillys-1-trillion-valuation-cements-its-status-as-wall-streets-ultimate-weight-loss-play-100000788.html",
-                "publishDate": "2026-05-29T10:00:00Z",
+                "url": "https://www.fool.com/investing/2026/05/30/lillys-new-drug-just-delivered-the-largest-weight/",
+                "publishDate": "2026-05-30T12:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "CVS Decision Tests Novo Nordisk Wegovy Edge And Valuation Story",
+                "summary": "CVS Caremark has granted preferred formulary status to both Novo Nordisk's Wegovy and Eli Lilly's Zepbound and Foundayo. This decision reverses Wegovy's prior commercial advantage within CVS Caremark's GLP-1 obesity drug coverage. The change affects access and competitive positioning for GLP-1 obesity therapies in CVS Caremark's network. Novo Nordisk, listed as CPSE:NOVO B, is a key player in GLP-1 based therapies, with Wegovy at the center of its obesity drug portfolio. CVS Caremark's move...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-decision-tests-novo-nordisk-110621754.html",
+                "publishDate": "2026-05-30T11:06:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Stock Split Watch: Is Eli Lilly Next?",
+                "summary": "Lilly has split its stock in the past.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/30/stock-split-watch-is-eli-lilly-next/",
+                "publishDate": "2026-05-30T08:10:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly (LLY): Top Healthcare Stock Pick of Claude AI",
+                "summary": "We just covered the Claude Stock Portfolio: Top 10 Stocks to Buy According to AI Chatbot. Eli Lilly and Company (NYSE:LLY) ranks #2 (see Claude Stock Portfolio: Top 5 Stocks to Buy According to AI Chatbot). Number of Hedge Funds: 137 Eli Lilly and Company (NYSE:LLY) is among the top stock picks of the Claude [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-lly-top-healthcare-200844274.html",
+                "publishDate": "2026-05-29T20:08:44Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "LLY Stock Gains 4% to All-Time High: Is Obesity Access the Catalyst?",
+                "summary": "Eli Lilly hits a record high after CVS expands coverage for Foundayo and Zepbound, boosting obesity drug access and raising the stakes in its rivalry with NVO.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lly-stock-gains-4-time-144900164.html",
+                "publishDate": "2026-05-29T14:49:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -48,6 +88,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/lilly-reopens-zepbound-access-10-142216007.html",
                 "publishDate": "2026-05-29T14:22:16Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly's $1 trillion valuation cements its status as Wall Street's ultimate weight-loss play",
+                "summary": "Eli Lilly's $1 trillion comeback is powered by the company's experimental next-generation obesity drug, Reta.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/eli-lillys-1-trillion-valuation-cements-its-status-as-wall-streets-ultimate-weight-loss-play-100000788.html",
+                "publishDate": "2026-05-29T10:00:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -80,56 +130,6 @@
                 "publishDate": "2026-05-28T19:41:28Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "CVS will add these weight-loss options to drug plans",
-                "summary": "CVS Health will reinstate coverage of Eli Lilly's weight-loss injectable Zepbound and begin coverage of the anti-obesity pill Foundayo.",
-                "source": "USA TODAY",
-                "category": "finance",
-                "url": "https://www.usatoday.com/story/money/2026/05/28/cvs-zepbound-foundayo-drug-plans-weight-loss/90293671007/",
-                "publishDate": "2026-05-28T18:07:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Stock Heads for Record Close. CVS Weight-Loss Drug Coverage Drives It Higher.",
-                "summary": "CVS Health\u2019s Caremark will resume insurance coverage of Eli Lilly\u2019s Zepbound and separately begin covering its Foundayo weight-loss pill.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-stock-cvs-weight-loss-drugs-9e061182?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-28T16:37:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Contrarian Opinion: Novo Nordisk Is A Better Buy Than Eli Lilly Right Now",
-                "summary": "Novo Nordisk lost its lead in the GLP-1 race, but Eli Lilly's valuation is a bit rich.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/28/contarian-opinion-novo-nordisk-is-a-better-buy-tha/",
-                "publishDate": "2026-05-28T16:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hims & Hers Eyes Global Growth: Will $1.15B Eucalyptus Deal Fuel Its Recovery or Dilute Shareholders?",
-                "summary": "Hims & Hers is acquiring Australian telehealth platform Eucalyptus as part of its international expansion plan while using $350 million in convertible senior notes.",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/originals/hims-and-hers-eyes-global-growth-will-115b-eucalyptus-deal-fuel-its-recovery-or-dilute-shareholders/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-28T13:15:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk faces complex GLP-1 landscape as oral launch patterns diverge from injectables",
-                "summary": "Novo Nordisk's (NYSE:NVO) investor relations team presented at Deutsche Bank's European Champions Conference, with the broker maintaining its hold rating and DKK290 target price on the Danish pharma group. The key takeaway concerned the launch of Novo's oral semaglutide product, where the...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1093035/novo-nordisk-faces-complex-glp-1-landscape-as-oral-launch-patterns-diverge-from-injectables-1093035.html",
-                "publishDate": "2026-05-28T13:03:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.9,
+        "price": 1.83,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 9.1954,
-            "marketCap": 178416240,
+            "change": 5.17242,
+            "marketCap": 171843024,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -278,8 +278,8 @@
         ],
         "RATINGS": {
             "analystCount": 4,
-            "recommendationKey": "strong_buy",
-            "recommendationMean": 1.5,
+            "recommendationKey": "none",
+            "recommendationMean": "recommendationMean",
             "strongBuy": 0,
             "buy": 2,
             "hold": 1,
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 145.11,
+        "price": 128.87,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,7 +306,7 @@
             ]
         },
         "FINANCIALS": {
-            "change": 10.75,
+            "change": -1.68,
             "marketCap": 1549901234176,
             "weekLow": 202.78,
             "weekHigh": 652.93,
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "Tech stocks today: Dell stock soars on AI sales, Anthropic overtakes OpenAI as world's most valuable AI startup",
-                "summary": "Tech stocks rose to start the holiday-shortened week as investors looked to the latest mega IPOs and continued to assess what Nvidia's latest earnings mean for the artificial intelligence trade.",
+                "title": "IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day",
+                "summary": "Wall Street used to get the growth story early. Now it often only gets the receipt.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-dell-stock-soars-on-ai-sales-anthropic-overtakes-openai-as-worlds-most-valuable-ai-startup-100000518.html",
-                "publishDate": "2026-05-26T10:00:00Z",
+                "url": "https://finance.yahoo.com/markets/article/ipos-are-no-longer-wall-streets-starting-line--theyre-the-exit-ramp-chart-of-the-day-114434009.html",
+                "publishDate": "2026-05-31T11:44:34Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Voyager Technologies Growth Outlook Looks Strong on Defense, Space Demand, Wedbush Says",
-                "summary": "Voyager Technologies (VOYG) has a stronger growth outlook as defense demand, space infrastructure wo",
-                "source": "MT Newswires",
+                "title": "'Rockets are hard': Elon Musk responds to Jeff Bezos' rocket explosion as his own SpaceX glides to a $1.8T IPO",
+                "summary": "Blue Origin's New Glenn rocket exploded during a hot-fire test, and Elon Musk had some thoughts about it as SpaceX heads toward what could be the biggest IPO yet.",
+                "source": "Moneywise",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/voyager-technologies-growth-outlook-looks-151724714.html",
-                "publishDate": "2026-05-29T15:17:24Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Did SpaceX Lower Its IPO Valuation Target? Here's What Elon Musk Said",
-                "summary": "Musk\u2019s clarification comes after a Bloomberg report on Thursday stated that SpaceX had lowered its valuation target to $1.8 trillion, from its previous aim of over $2 trillion.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/did-spacex-lower-ipo-valuation-target-heres-what-elon-musk-said/cZgSq9nReMQ",
-                "publishDate": "2026-05-29T14:22:57Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/rockets-hard-elon-musk-responds-151500401.html",
+                "publishDate": "2026-05-31T15:15:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Can\u2019t Buy SpaceX Yet? Wall Street Says This $150 Stock Is the Next Best Thing. But There\u2019s a Catch",
-                "summary": "Rocket Lab (NASDAQ:RKLB) has become Wall Street\u2019s go-to substitute for SpaceX, which Polymarket traders now give a 94.6% probability of going public by June 30, 2026, and retail money chasing the space theme has to land somewhere. Rocket Lab operates small-payload launch with Electron, hypersonic test work with HASTE, and a fast-growing Space Systems business ... Can\u2019t Buy SpaceX Yet? Wall Street Says This $150 Stock Is the Next Best Thing. But There\u2019s a Catch",
-                "source": "24/7 Wall St.",
+                "title": "SpaceX lands a $4 billion deal right before its IPO",
+                "summary": "Most people size up a company by what it does for them on a Tuesday. The bank that cleared the mortgage. The phone that holds a charge. The internet that works when the power line outside does not. Wall Street sizes up a company by something colder. It wants proof that the money coming in this year ...",
+                "source": "TheStreet",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/05/29/cant-buy-spacex-yet-wall-street-says-this-150-stock-is-the-next-best-thing-but-theres-a-catch/",
-                "publishDate": "2026-05-29T13:48:58Z",
+                "url": "https://www.thestreet.com/investing/stocks/spacex-lands-a-4-billion-deal-right-before-its-ipo",
+                "publishDate": "2026-05-31T14:07:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Said to Cut IPO Value Goal to at Least $1.8 Trillion",
-                "summary": "(Bloomberg) -- SpaceX is currently targeting a valuation of at least $1.8 trillion in its initial public offering, according to people familiar with the matter, as Elon Musk\u2019s rocket and artificial intelligence company nears its debut.Most Read from BloombergSingapore Hands Byju's Founder His First Ever Jail TermApple to Overhaul iOS 27 Siri, AI Features: Here's a First PeekCVS Returns Zepbound to Drug Plans After Lilly Slashes PriceSpaceX Said to Cut IPO Value Goal to at Least $1.8 TrillionUS,",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-lowers-ipo-valuation-target-012204740.html",
-                "publishDate": "2026-05-29T13:47:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hyperliquid Is 'Bigger Than Nasdaq,' Says ICE CEO \u2014 HYPE Eyes New Record High, While ETFs Top $100M",
-                "summary": "HYPE approaches an all-time high as spot Hyperliquid ETFs top $100M in inflows and the ICE CEO calls the 11-person platform \"bigger than Nasdaq.\"",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/ice-ceo-hyperliquid-bigger-than-nasdaq-hype-etf-flows/cZgSYIEReM7",
-                "publishDate": "2026-05-29T13:42:30Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-                "summary": "Danish pension fund Akademikerpension said on Friday it had \u200cplaced SpaceX on its portfolio exclusion list \u200cahead of the company's initial public offering, citing concerns \u200babout the governance structure and what it said was an overvalued stock.  \u2022 Market indications point to a valuation of at least $1.8 trillion for \u200cSpaceX, Akademikerpension \u2060said in a statement, adding that it was difficult to justify a \u2060market valuation above $1 trillion.  \u2022 Investors are asked to accept an unprecedentedly low risk premium for \u200ba highly \u200buncertain company, the \u200bpension fund said.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/danish-pension-fund-excludes-spacex-132954371.html",
-                "publishDate": "2026-05-29T13:29:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk's Next Mega Move -- Tesla-SpaceX Merger Talk Heats Up",
-                "summary": "Tesla-SpaceX Merger Buzz Ignites Fresh Elon Musk Speculation",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-next-mega-move-132457087.html",
-                "publishDate": "2026-05-29T13:24:57Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's Growth Story Is All About Rockets and AI, but This Is What's Driving Its Business Right Now",
-                "summary": "Starlink is an integral and key part of SpaceX's business, and without it, the company's financials would look much worse.",
+                "title": "Could Buying Rocket Lab Stock Today Set You Up for Life?",
+                "summary": "The anticipated launch of the company's Neutron rocket will have major implications for investors.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/29/spacexs-growth-story-is-all-about-rockets-but-this/",
-                "publishDate": "2026-05-29T13:20:00Z",
+                "url": "https://www.fool.com/investing/2026/05/31/could-buying-rocket-lab-stock-today-set-you-up-for/",
+                "publishDate": "2026-05-31T13:50:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Tema ETFs launches $NASA, the first pure-play space fund with SpaceX exposure",
-                "summary": "Yuri Kojian, Chief Investment Officer at Tema ETFs and portfolio manager of the new $NASA ETF, discusses the fund's launch and its unique position as the first pure-play space fund with direct SpaceX exposure. He delves into the portfolio's strategy, highlighting key holdings such as AST SpaceMobile ($SASTS), Rocket Lab ($RKLB), and Intuitive Machines ($LUNR), and explains why the fund excludes legacy aerospace companies like Boeing. Kojian also shares insights on the evolving space economy, including upcoming IPOs and the role of international players like OHB SE.",
-                "source": "Stocktwits",
+                "title": "Elon Musk Says Economy Cannot Function Without Prices: Tesla And SpaceX CEO Shares Stinging Critique Of Socialist Central Planning",
+                "summary": "On Wednesday, Elon Musk showed his support for the years-old Austrian school of economics, associated with Ludwig von Mises, saying that prices are an important factor for an economy to function properly. In a post on X, Musk wrote, \"Prices...",
+                "source": "Benzinga",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/video/tema-etfs-launches-nasa-first-130243134.html",
-                "publishDate": "2026-05-29T13:02:43Z",
+                "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-says-economy-cannot-133228052.html",
+                "publishDate": "2026-05-31T13:32:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "2 Space Stocks to Buy Before the SpaceX IPO on June 12",
+                "summary": "The SpaceX IPO is putting the focus on the massive opportunity in space, and these two stocks stand to benefit.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/31/2-space-stocks-buy-before-spacex-ipo-june-12/",
+                "publishDate": "2026-05-31T13:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "3 Things I Learned from the SpaceX IPO Prospectus Last Week",
+                "summary": "After years of guessing, SpaceX finally showed its cards last week.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/31/3-things-i-learned-from-the-spacex-ipo-prospectus/",
+                "publishDate": "2026-05-31T11:27:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "How Elon Musk Is Attempting The (Almost) Impossible With The SpaceX IPO",
+                "summary": "Elon Musk\u2019s SpaceX is barreling toward what may become the largest IPO in history, and one MIT professor says the whole thing reads like a Jekyll and Hyde story. Sinan Aral, an MIT Sloan professor and director of the MIT...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-attempting-almost-impossible-104928854.html",
+                "publishDate": "2026-05-31T10:49:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Stock Market Is Doing Something That's Virtually Unprecedented -- and History Shows There's No Mistaking What Comes Next",
+                "summary": "This has only been witnessed one other time since the early 1870s.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/31/stock-market-doing-something-unprecedented-history/",
+                "publishDate": "2026-05-31T10:26:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Final Frontier Is Becoming Big Business. Here Are 3 Space Stocks to Buy Now.",
+                "summary": "The easy money on SpaceX was made before the IPO even happened. Here are three space stocks offering more potential profit.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/31/the-final-frontier-is-becoming-big-business-here-a/",
+                "publishDate": "2026-05-31T10:26:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.035,
+        "price": 29.99,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.51874393,
-            "marketCap": 21603287040,
+            "change": 0.368141,
+            "marketCap": 21570918400,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.97,
+        "price": 31.22,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,9 +594,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.7197337,
-            "marketCap": 6425998336,
-            "weekLow": 11.6,
+            "change": 3.54892,
+            "marketCap": 6477871104,
+            "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
         },
