@@ -20,7 +20,7 @@
             "marketCap": 201954295808,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.93041
+            "yearTarget": 46.9026
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -392,6 +392,16 @@
                 "freemium": false
             },
             {
+                "title": "This Tiny Space Stock Just Exploded 100%. Here\u2019s Why Investors Are Piling In.",
+                "summary": "Momentus stock recently doubled overnight as SpaceX hype continues to sweep Wall Street.",
+                "source": "Barchart",
+                "category": "finance",
+                "url": "https://www.barchart.com/story/news/2223183/this-tiny-space-stock-just-exploded-100-heres-why-investors-are-piling-in",
+                "publishDate": "2026-05-31T13:30:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "2 Space Stocks to Buy Before the SpaceX IPO on June 12",
                 "summary": "The SpaceX IPO is putting the focus on the massive opportunity in space, and these two stocks stand to benefit.",
                 "source": "Motley Fool",
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/31/3-things-i-learned-from-the-spacex-ipo-prospectus/",
                 "publishDate": "2026-05-31T11:27:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How Elon Musk Is Attempting The (Almost) Impossible With The SpaceX IPO",
-                "summary": "Elon Musk\u2019s SpaceX is barreling toward what may become the largest IPO in history, and one MIT professor says the whole thing reads like a Jekyll and Hyde story. Sinan Aral, an MIT Sloan professor and director of the MIT...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musk-attempting-almost-impossible-104928854.html",
-                "publishDate": "2026-05-31T10:49:28Z",
                 "premium": false,
                 "freemium": false
             }
