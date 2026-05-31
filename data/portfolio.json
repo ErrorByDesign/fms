@@ -20,7 +20,7 @@
             "marketCap": 201954295808,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.9026
+            "yearTarget": 46.94059
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Why Redwire Stock Skyrocketed This Week",
+                "summary": "SpaceX's upcoming $2 trillion IPO has had a powerful bullish impact on Redwire.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/05/31/why-redwire-stock-skyrocketed-this-week/",
+                "publishDate": "2026-05-31T21:38:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "This Week in Crypto: MicroStrategy\u2019s Bitcoin Fears Fade, $500M Claude Bill, Thiel Stock Halves",
+                "summary": "This week in crypto, Bitcoin shook off sell-off fears, a firm burned $500M on Claude AI, and a Thiel-backed stock halved.",
+                "source": "BeInCrypto",
+                "category": "finance",
+                "url": "https://beincrypto.com/this-week-crypto-bitcoin-claude-bill-spacex-peter-thiel-stock/",
+                "publishDate": "2026-05-31T20:58:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Buys 8% of Tesla\u2019s Cybertrucks\u2014and It Doesn\u2019t Get a Discount",
                 "summary": "FEATURE  You would think Tesla would give SpaceX a volume discount. That isn\u2019t the case, though. It turns out, one of the biggest fans of Tesla\u2019s Cybertruck is SpaceX. Elon Musk\u2019s rocket company has spent $131 million on the avant-garde truck.",
                 "source": "Barrons.com",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/economy/policy/articles/elon-musk-says-economy-cannot-133228052.html",
                 "publishDate": "2026-05-31T13:32:28Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "This Tiny Space Stock Just Exploded 100%. Here\u2019s Why Investors Are Piling In.",
-                "summary": "Momentus stock recently doubled overnight as SpaceX hype continues to sweep Wall Street.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/2223183/this-tiny-space-stock-just-exploded-100-heres-why-investors-are-piling-in",
-                "publishDate": "2026-05-31T13:30:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "2 Space Stocks to Buy Before the SpaceX IPO on June 12",
-                "summary": "The SpaceX IPO is putting the focus on the massive opportunity in space, and these two stocks stand to benefit.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/31/2-space-stocks-buy-before-spacex-ipo-june-12/",
-                "publishDate": "2026-05-31T13:05:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -610,6 +610,16 @@
         },
         "NEWS": [
             {
+                "title": "A Look At SSR Mining\u2019s Valuation As It Considers A US$1.5b Copler Mine Sale",
+                "summary": "SSR Mining (TSX:SSRM) is reportedly preparing to sell its Copler mine in T\u00fcrkiye for about US$1.5b in cash. The transaction would reshape its asset mix and free up meaningful capital. See our latest analysis for SSR Mining. The potential sale news comes after a strong run in SSR Mining\u2019s share price, with a year to date share price return of 45.72% and a 1 year total shareholder return of 165.17%. However, the 90 day share price return slipped 1.37%, which suggests recent momentum has cooled...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/look-ssr-mining-valuation-considers-210717509.html",
+                "publishDate": "2026-05-31T21:07:17Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Newmont vs. SSR Mining: Which Gold Stock Is a Better Buy in 2026?",
                 "summary": "This is a battle between a gold giant generating record cash flows and a smaller miner about to sell its most problematic mine and get $1.5 billion.",
                 "source": "Motley Fool",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-ssrm-top-134005734.html",
                 "publishDate": "2026-05-20T13:40:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Inks Deal to Sell Its Interests in Hod Maden Project",
-                "summary": "SSRM sells its 20% Hod Maden stake for a 4% NSR royalty, sharpening its focus on the Americas and boosting its royalty portfolio.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-inks-deal-sell-162700772.html",
-                "publishDate": "2026-05-19T16:27:00Z",
                 "premium": false,
                 "freemium": false
             }
