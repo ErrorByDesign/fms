@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.4001,
+        "price": 44.275,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.5886378,
-            "marketCap": 196726439936,
+            "change": -2.8630984,
+            "marketCap": 196172152832,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.778645
+            "yearTarget": 46.754932
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,92 +332,92 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX Details Insider Share Allocation Ahead of Potential Mega IPO",
-                "summary": "SpaceX (NASDAQ:SPCX) has provided additional details about its anticipated initial public offering, revealing plans to reserve a portion of shares for employees and individuals connected to senior management through a special directed share program. The latest disclosure was included in an amended prospectus filed on Monday as the aerospace company continues preparations for one of the most closely watched stock market debuts in history.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29457/spacex-details-insider-share-allocation-ahead-of-potential-mega-ipo",
-                "publishDate": "2026-06-01T14:48:28Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Space Stock Rally Gets a Big Reality Check",
-                "summary": "Space stocks, which have been on an epic tear, are trading lower to start a new month.  Be wary as the SpaceX initial public offering looms.  Shares of  Redwire  which makes solar arrays and antennas for space, among other things, were down 6.8% in early trading at $22.89 after Jefferies analyst Sheila Kahyaoglu downgraded the stock to Hold from Buy following a run-up that has left shares up 163% over the past month.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/space-stock-ufo-spacex-rocket-lab-firefly-51fa11e5?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T14:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Nvidia Says Vera Is 1.8 Times Faster Than x86 Chips",
-                "summary": "Anthropic, OpenAI and SpaceX will be among the first major users of Nvidia's Vera CPUs.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-says-vera-1-8-142954193.html",
-                "publishDate": "2026-06-01T14:29:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Reserves Up to 5% of IPO Stock for Staff and Friends",
-                "summary": "(Bloomberg) -- SpaceX will reserve up to 5% of shares in its upcoming initial public offering for certain employees and friends and family of its executive officers, the company disclosed in an amended filing.Most Read from BloombergUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedBerkshire Hathaway to Buy Taylor Morrison for $6.8 BillionA Rare \u2018Super\u2019 El Ni\u00f1o Is Looking More Likely. Here\u2019s What to ExpectStrait of Hormuz Ship Transits Are Rising Thanks to US HelpPro-Trump Outsider W",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reserves-5-ipo-stock-121245215.html",
-                "publishDate": "2026-06-01T13:16:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX reveals more trillion-dollar IPO details\u2014Special share program for insiders",
-                "summary": "Investing.com -- SpaceX will reserve up to 5% of shares in its upcoming initial public offering for certain employees and friends and family of its executive officers, the company disclosed in an amended filing.",
-                "source": "Investing.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reveals-more-trillion-dollar-130331692.html",
-                "publishDate": "2026-06-01T13:03:31Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Zacks Investment Ideas feature highlights: Gilat Satellite Networks, Satellogic and EchoStar",
-                "summary": "GILT draws attention ahead of the SpaceX IPO as revenue growth, earnings estimate upgrades and satellite demand fuel investor interest.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-130200841.html",
-                "publishDate": "2026-06-01T13:02:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Reports of a Future SpaceX-Tesla Merger Are Picking Up Steam. But Is Such a Complex Deal Actually Feasible?",
-                "summary": "Media reports and even people betting on Kalshi continue to see an increasing likelihood that all of Elon Musk's companies could soon merge.",
+                "title": "Why June 12 (or Soon After) Could Be a Make-or-Break Day for the Stock Market",
+                "summary": "A company of great importance to artificial intelligence (AI) is planning to go public.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/01/report-future-spacex-tesla-merger-complex/",
-                "publishDate": "2026-06-01T12:57:00Z",
+                "url": "https://www.fool.com/investing/2026/06/01/june-12-could-be-a-make-or-break-stock-market/",
+                "publishDate": "2026-06-01T15:54:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The Odds SpaceX Merges With Tesla Are Higher Than You Think",
-                "summary": "Wedbush analyst Dan Ives believes there is better than an 80% chance Tesla and SpaceX merger in 2027.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-tesla-merger-elon-musk-79229b32?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T12:54:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Phrase Elon Musk Slipped Into SpaceX\u2019s IPO Documents That Sounds Like Science Fiction",
-                "summary": "Let me tell you what corporate IPO filings usually sound like: risk factors, addressable markets, operating segments. Recently I opened SpaceX\u2019s pre-IPO disclosures and found a sentence that stopped me cold. It reads less like investor boilerplate and more like the opening crawl of a Christopher Nolan film. Buried inside the IPO paperwork is this ... The Phrase Elon Musk Slipped Into SpaceX\u2019s IPO Documents That Sounds Like Science Fiction",
+                "title": "Michael Burry Just Called Nvidia\u2019s SpaceX Chip Deal \u2018Fugazi.\u2019 Here\u2019s Why It All Seems Wrong",
+                "summary": "Investors have watched Nvidia (NASDAQ:NVDA) ride the AI wave to extraordinary heights, with data center revenue exploding in recent years. Yet amid the hype, one of Wall Street\u2019s sharpest skeptics keeps raising red flags about its financing arrangements. Michael Burry, the investor who foresaw the 2008 housing crisis, took to his Cassandra Unchained Substack and ... Michael Burry Just Called Nvidia\u2019s SpaceX Chip Deal \u2018Fugazi.\u2019 Here\u2019s Why It All Seems Wrong",
                 "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/01/the-phrase-elon-musk-slipped-into-spacexs-ipo-documents-that-sounds-like-science-fiction/",
-                "publishDate": "2026-06-01T12:43:01Z",
+                "url": "https://247wallst.com/investing/2026/06/01/michael-burry-just-called-nvidias-spacex-chip-deal-fugazi-heres-why-it-all-seems-wrong/",
+                "publishDate": "2026-06-01T15:45:41Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX reserves 5% of IPO shares for staff and insiders",
+                "summary": "The aerospace company disclosed the allocation in an amended filing, and those shares won't be subject to lockup restrictions",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/spacex-ipo-directed-share-program-employees-friends-family-060126",
+                "publishDate": "2026-06-01T15:43:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO targets retail investors as hype builds around record-breaking debut",
+                "summary": "After several sluggish years for the IPO market, SpaceX (NASDAQ:SPCX) is preparing to make its public market debut in what could become the largest stock offering in history. The company plans to begin trading on the Nasdaq on June 12 under the ticker symbol SPCX following the filing of its S-1 registration statement.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/29463/spacex-ipo-targets-retail-investors-as-hype-builds-around-record-breaking-debut",
+                "publishDate": "2026-06-01T15:23:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Could Rewrite the Record Books for Public Listings",
+                "summary": "A potential IPO from SpaceX (NASDAQ:SPCX) could dramatically reshape the history of global public offerings, with the Elon Musk-led company reportedly targeting a valuation that would eclipse every previous stock market debut. If current expectations hold, SpaceX could raise far more capital than any company before it and potentially become the first IPO to debut with a valuation approaching $2 trillion.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/29469/spacex-ipo-could-rewrite-the-record-books-for-public-listings",
+                "publishDate": "2026-06-01T15:23:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk says SpaceX\u2019s Colossus AI agreement with Anthropic currently limited to six months",
+                "summary": "SpaceX (NASDAQ:SPCX) CEO Elon Musk said Thursday that the company\u2019s agreement to lease computing capacity from its Colossus AI data center clusters to Anthropic was initially structured as a six-month arrangement, despite the possibility that the partnership could continue for a longer period. \u201cSpaceX has not committed to leasing Colossus for years, although it\u2019s possible that may be what happens,\u201d Musk wrote in a post on X.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/29475/musk-says-spacexs-colossus-ai-agreement-with-anthropic-currently-limited-to-six-months",
+                "publishDate": "2026-06-01T15:23:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Starship Test Boosts Confidence in IPO Despite Ongoing Technical Challenges",
+                "summary": "SpaceX\u2019s (NASDAQ:SPCX) upgraded Starship launch on Friday delivered enough progress to reinforce investor confidence ahead of Elon Musk\u2019s planned $1. 75 trillion IPO, even though the test also highlighted that achieving full rocket reusability remains an unfinished challenge.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/29471/spacex-starship-test-boosts-confidence-in-ipo-despite-ongoing-technical-challenges",
+                "publishDate": "2026-06-01T15:23:01Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Could Reshape the Space Industry as Investors Weigh Musk\u2019s Vision and Risks",
+                "summary": "After more than 20 years operating as a private company, SpaceX (NASDAQ:SPCX) appears closer than ever to entering public markets. Reports suggesting a potential 2026 IPO \u2014 possibly valuing the company at around $1.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/29467/spacex-ipo-could-reshape-the-space-industry-as-investors-weigh-musks-vision-and-risks",
+                "publishDate": "2026-06-01T15:22:53Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO filing reveals Mars ambitions, Grok risks and unusual spending disclosures",
+                "summary": "SpaceX\u2019s (NASDAQ:SPCX) newly released investor prospectus has offered the public its clearest look yet at the finances, ambitions and internal workings of Elon Musk\u2019s flagship company ahead of its planned $1. 75 trillion stock market debut next month.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/29465/spacex-ipo-filing-reveals-mars-ambitions-grok-risks-and-unusual-spending-disclosures",
+                "publishDate": "2026-06-01T15:22:44Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.315,
+        "price": 29.28,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2507477,
-            "marketCap": 21085411328,
+            "change": -2.3674529,
+            "marketCap": 21060237312,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.82,
+        "price": 29.85,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.484304,
-            "marketCap": 6187383808,
+            "change": -4.3882093,
+            "marketCap": 6193608704,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
