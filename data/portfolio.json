@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3128612,
+            "change": -3.31286,
             "marketCap": 195263840256,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.812065
+            "yearTarget": 46.812866
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,36 @@
                 "freemium": false
             },
             {
+                "title": "Anthropic, maker of AI chatbot Claude, files for a public stock sale",
+                "summary": "Anthropic, maker of the chatbot Claude, said Monday that it had filed confidential paperwork with federal regulators in preparation for selling its stock to the public. The company is expected to be one of three trillion-dollar debuts on the stock market this year, along with Elon Musk\u2019s rocket and AI venture SpaceX and OpenAI, maker of ChatGPT. SpaceX filed to go public in April and OpenAI is expected to do so soon. (The Washington Post has a content partnership with OpenAI.)Subscribe to The Po",
+                "source": "Washington Post",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-maker-of-ai-chatbot-claude-files-for-a-public-stock-sale-174924069.html",
+                "publishDate": "2026-06-01T20:32:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic confidentially files for\u00a0IPO, beating OpenAI",
+                "summary": "<body><p>STORY: AI giant Anthropic has filed the paperwork to go public, the company said Monday.</p><p>It takes an early lead over rival and ChatGPT owner OpenAI&nbsp;in a race that will define the future business shape of artificial intelligence.</p><p>Anthropic, which makes agentic coding assistant Claude Code, did not disclose the size or the terms of the offering.&nbsp;</p><p>Confidential submissions let companies advance IPO preparations while shielding sensitive financial details from rivals and the public.</p><p>Its last fundraising round gave it a valuation of nearly $1 trillion, making it worth more than OpenAI.</p><p>The crucial step toward a listing comes on the heels of SpaceX's mega-IPO, which is on course to rewrite the record books.</p><p>The Elon Musk-led company is pursuing a $75 billion offering at a $1.75 trillion valuation and could begin trading within two weeks.</p><p>And a source close to the matter told Reuters that OpenAI is set to confidentially file for a U.S. IPO in the coming weeks, too.</p><p>One analyst told Reuters, the demand for capital from these IPOs will be so considerable that it is likely to create disruptions in the capital markets, so going public early will be a huge advantage.&nbsp;</p></body>",
+                "source": "Reuters Videos",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/anthropic-confidentially-files-ipo-beating-203235792.html",
+                "publishDate": "2026-06-01T20:32:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Instant View: Anthropic IPO filing ratifies Wall Street's AI obsession",
+                "summary": "AI giant Anthropic said on Monday it has confidentially filed for a U.S. initial public offering, teeing up a watershed moment for Wall Street's AI frenzy.  Tech stocks continue to lead the Nasdaq Composite and S&P 500 in a record-breaking market rally, while Elon \u200cMusk's SpaceX is set to price its IPO this month and Anthropic rival OpenAI, led by Sam Altman, is waiting on deck.  U.S. stocks were \u200cmixed on Monday afternoon, with the Nasdaq up 0.3%, the S&P 500 up 0.1% and the Dow industrials off 0.3%.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/instant-view-anthropic-ipo-filing-201203187.html",
+                "publishDate": "2026-06-01T20:12:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Better Investment Option: SpaceX or Cerebras?",
                 "summary": "The IPO market is heating up, and both stocks have promise, but one looks like the better investment right now.",
                 "source": "Motley Fool",
@@ -388,36 +418,6 @@
                 "category": "finance",
                 "url": "https://www.cbsnews.com/news/anthropic-ipo-confidential-filing-claude-ai/",
                 "publishDate": "2026-06-01T18:30:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Claude Maker Anthropic Confidentially Files for IPO Ahead of OpenAI",
-                "summary": "Anthropic confidentially filed for an initial public offering in the US on Monday as the artificial",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/claude-maker-anthropic-confidentially-files-182612224.html",
-                "publishDate": "2026-06-01T18:26:12Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Water access is now a risk factor in SpaceX\u2019s IPO",
-                "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/water-access-now-risk-factor-181953961.html",
-                "publishDate": "2026-06-01T18:19:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Reserves 5% IPO Shares As $1.8 Trillion Target Looms",
-                "summary": "SpaceX's amended filing details its directed share program, Anthropic compute deal and new water scarcity risk.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reserves-5-ipo-shares-181857241.html",
-                "publishDate": "2026-06-01T18:18:57Z",
                 "premium": false,
                 "freemium": false
             }
