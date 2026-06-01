@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.275,
+        "price": 44.1545,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8630984,
-            "marketCap": 196172152832,
+            "change": -3.127474,
+            "marketCap": 195638231040,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.754932
+            "yearTarget": 46.770493
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,92 +332,92 @@
                 "freemium": false
             },
             {
-                "title": "Why June 12 (or Soon After) Could Be a Make-or-Break Day for the Stock Market",
-                "summary": "A company of great importance to artificial intelligence (AI) is planning to go public.",
+                "title": "Anthropic confidentially files for initial public offering on US stock market",
+                "summary": "Financial stakes of AI race rise as Elon Musk\u2019s SpaceX, OpenAI and Anthropic are slated to go public this year",
+                "source": "The Guardian",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-confidentially-files-initial-public-163600968.html",
+                "publishDate": "2026-06-01T16:36:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "AI giant Anthropic confidentially files for US IPO as investors bet big on AI future",
+                "summary": "June 1 () - AI giant Anthropic said on Monday it has confidentially filed for a U. initial public offering, teeing up what could become a watershed moment for \u200cWall Street's AI frenzy.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://uk.finance.yahoo.com/news/ai-giant-anthropic-confidentially-files-160453688.html",
+                "publishDate": "2026-06-01T16:26:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Should You Buy Rocket Lab Stock Ahead of the SpaceX IPO?",
+                "summary": "The global space economy is projected to reach $2 trillion by 2040, and Rocket Lab is well-positioned to capitalize on this growth.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/01/june-12-could-be-a-make-or-break-stock-market/",
-                "publishDate": "2026-06-01T15:54:00Z",
+                "url": "https://www.fool.com/investing/2026/06/01/should-you-buy-rocket-lab-stock-ahead-of-the-space/",
+                "publishDate": "2026-06-01T16:25:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Michael Burry Just Called Nvidia\u2019s SpaceX Chip Deal \u2018Fugazi.\u2019 Here\u2019s Why It All Seems Wrong",
-                "summary": "Investors have watched Nvidia (NASDAQ:NVDA) ride the AI wave to extraordinary heights, with data center revenue exploding in recent years. Yet amid the hype, one of Wall Street\u2019s sharpest skeptics keeps raising red flags about its financing arrangements. Michael Burry, the investor who foresaw the 2008 housing crisis, took to his Cassandra Unchained Substack and ... Michael Burry Just Called Nvidia\u2019s SpaceX Chip Deal \u2018Fugazi.\u2019 Here\u2019s Why It All Seems Wrong",
-                "source": "24/7 Wall St.",
+                "title": "SpaceX: This ETF-Focused Options Trade Offers Pre-IPO Exposure While Collecting A Premium",
+                "summary": "The SpaceX IPO is on Wall Street's radar. A few funds have SpaceX exposure, including the ERShares Private-Public Crossover ETF, or XOVR.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/01/michael-burry-just-called-nvidias-spacex-chip-deal-fugazi-heres-why-it-all-seems-wrong/",
-                "publishDate": "2026-06-01T15:45:41Z",
+                "url": "https://www.investors.com/research/options/spacex-ipo-stock-etf-options-trade-premium/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-01T16:18:30Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX reserves 5% of IPO shares for staff and insiders",
-                "summary": "The aerospace company disclosed the allocation in an amended filing, and those shares won't be subject to lockup restrictions",
-                "source": "Quartz",
+                "title": "Anthropic files for its IPO",
+                "summary": "Anthropic on Monday announced that it has filed confidential IPO papers with the U.S. Securities & Exchange Commission.",
+                "source": "Axios",
                 "category": "finance",
-                "url": "https://qz.com/spacex-ipo-directed-share-program-employees-friends-family-060126",
-                "publishDate": "2026-06-01T15:43:51Z",
+                "url": "https://www.axios.com/2026/06/01/anthropic-ipo-openai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+                "publishDate": "2026-06-01T16:10:43Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO targets retail investors as hype builds around record-breaking debut",
-                "summary": "After several sluggish years for the IPO market, SpaceX (NASDAQ:SPCX) is preparing to make its public market debut in what could become the largest stock offering in history. The company plans to begin trading on the Nasdaq on June 12 under the ticker symbol SPCX following the filing of its S-1 registration statement.",
-                "source": "InvestorsHub",
+                "title": "Anthropic Files Confidential S-1: Joins $3 Trillion AI IPO Race",
+                "summary": "Anthropic has reportedly filed a confidential S-1 with the SEC, accelerating its IPO alongside SpaceX and OpenAI. What you need to know.",
+                "source": "BeInCrypto",
                 "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29463/spacex-ipo-targets-retail-investors-as-hype-builds-around-record-breaking-debut",
-                "publishDate": "2026-06-01T15:23:35Z",
+                "url": "https://beincrypto.com/anthropic-confidential-ipo/",
+                "publishDate": "2026-06-01T16:10:08Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO Could Rewrite the Record Books for Public Listings",
-                "summary": "A potential IPO from SpaceX (NASDAQ:SPCX) could dramatically reshape the history of global public offerings, with the Elon Musk-led company reportedly targeting a valuation that would eclipse every previous stock market debut. If current expectations hold, SpaceX could raise far more capital than any company before it and potentially become the first IPO to debut with a valuation approaching $2 trillion.",
-                "source": "InvestorsHub",
+                "title": "SpaceX says it may issue \u2018significant\u2019 equity in \u2018future transactions\u2019",
+                "summary": "The company added a warning to prospective investors that a major dilution could be in the cards after it goes public.",
+                "source": "TechCrunch",
                 "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29469/spacex-ipo-could-rewrite-the-record-books-for-public-listings",
-                "publishDate": "2026-06-01T15:23:28Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-says-may-issue-significant-160956737.html",
+                "publishDate": "2026-06-01T16:09:56Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Musk says SpaceX\u2019s Colossus AI agreement with Anthropic currently limited to six months",
-                "summary": "SpaceX (NASDAQ:SPCX) CEO Elon Musk said Thursday that the company\u2019s agreement to lease computing capacity from its Colossus AI data center clusters to Anthropic was initially structured as a six-month arrangement, despite the possibility that the partnership could continue for a longer period. \u201cSpaceX has not committed to leasing Colossus for years, although it\u2019s possible that may be what happens,\u201d Musk wrote in a post on X.",
-                "source": "InvestorsHub",
+                "title": "Anthropic Just Filed Confidentially for an IPO",
+                "summary": "The Claude-maker is racing OpenAI and SpaceX to the public markets",
+                "source": "Moby",
                 "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29475/musk-says-spacexs-colossus-ai-agreement-with-anthropic-currently-limited-to-six-months",
-                "publishDate": "2026-06-01T15:23:07Z",
+                "url": "https://app.moby.co/home/news/news-anthropic-just-filed-confidentially-for-an-ipo?utm_source=yahoo_finance&utm_medium=rss",
+                "publishDate": "2026-06-01T16:09:44Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Starship Test Boosts Confidence in IPO Despite Ongoing Technical Challenges",
-                "summary": "SpaceX\u2019s (NASDAQ:SPCX) upgraded Starship launch on Friday delivered enough progress to reinforce investor confidence ahead of Elon Musk\u2019s planned $1. 75 trillion IPO, even though the test also highlighted that achieving full rocket reusability remains an unfinished challenge.",
-                "source": "InvestorsHub",
+                "title": "Blue Origin Setback Tests Amazon Kuiper Ambitions And Airline Connectivity Plans",
+                "summary": "Blue Origin's New Glenn rocket recently exploded during testing, creating new delays for Amazon.com's Project Kuiper satellite rollout. The setback raises questions about the pace and reliability of Amazon's satellite deployments compared with competitors in global broadband. At the same time, Amazon's satellite broadband unit, Amazon Leo, has secured key airline deals, including Delta Air Lines choosing it for in flight Wi Fi over SpaceX's Starlink. For investors watching NasdaqGS:AMZN at...",
+                "source": "Simply Wall St.",
                 "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29471/spacex-starship-test-boosts-confidence-in-ipo-despite-ongoing-technical-challenges",
-                "publishDate": "2026-06-01T15:23:01Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Could Reshape the Space Industry as Investors Weigh Musk\u2019s Vision and Risks",
-                "summary": "After more than 20 years operating as a private company, SpaceX (NASDAQ:SPCX) appears closer than ever to entering public markets. Reports suggesting a potential 2026 IPO \u2014 possibly valuing the company at around $1.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29467/spacex-ipo-could-reshape-the-space-industry-as-investors-weigh-musks-vision-and-risks",
-                "publishDate": "2026-06-01T15:22:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO filing reveals Mars ambitions, Grok risks and unusual spending disclosures",
-                "summary": "SpaceX\u2019s (NASDAQ:SPCX) newly released investor prospectus has offered the public its clearest look yet at the finances, ambitions and internal workings of Elon Musk\u2019s flagship company ahead of its planned $1. 75 trillion stock market debut next month.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29465/spacex-ipo-filing-reveals-mars-ambitions-grok-risks-and-unusual-spending-disclosures",
-                "publishDate": "2026-06-01T15:22:44Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/blue-origin-setback-tests-amazon-160724255.html",
+                "publishDate": "2026-06-01T16:07:24Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.28,
+        "price": 29.275,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.3674529,
-            "marketCap": 21060237312,
+            "change": -2.3841286,
+            "marketCap": 21056641024,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.85,
+        "price": 29.91,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.3882093,
-            "marketCap": 6193608704,
+            "change": -4.1960263,
+            "marketCap": 6206057984,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
