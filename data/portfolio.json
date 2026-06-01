@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.265,
+        "price": 44.4001,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8850424,
-            "marketCap": 196127834112,
+            "change": -2.5886378,
+            "marketCap": 196726439936,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.752174
+            "yearTarget": 46.778645
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8678,
+        "price": 1.82,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.0655713,
-            "marketCap": 175392560,
+            "change": -0.5464476,
+            "marketCap": 170903984,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Details Insider Share Allocation Ahead of Potential Mega IPO",
+                "summary": "SpaceX (NASDAQ:SPCX) has provided additional details about its anticipated initial public offering, revealing plans to reserve a portion of shares for employees and individuals connected to senior management through a special directed share program. The latest disclosure was included in an amended prospectus filed on Monday as the aerospace company continues preparations for one of the most closely watched stock market debuts in history.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/29457/spacex-details-insider-share-allocation-ahead-of-potential-mega-ipo",
+                "publishDate": "2026-06-01T14:48:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Space Stock Rally Gets a Big Reality Check",
+                "summary": "Space stocks, which have been on an epic tear, are trading lower to start a new month.  Be wary as the SpaceX initial public offering looms.  Shares of  Redwire  which makes solar arrays and antennas for space, among other things, were down 6.8% in early trading at $22.89 after Jefferies analyst Sheila Kahyaoglu downgraded the stock to Hold from Buy following a run-up that has left shares up 163% over the past month.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/space-stock-ufo-spacex-rocket-lab-firefly-51fa11e5?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-01T14:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Nvidia Says Vera Is 1.8 Times Faster Than x86 Chips",
                 "summary": "Anthropic, OpenAI and SpaceX will be among the first major users of Nvidia's Vera CPUs.",
                 "source": "GuruFocus.com",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-06-01T12:43:01Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "A Step-by-Step Guide to Buying SpaceX at the IPO Price",
-                "summary": "SpaceX IPO shares are expected to be available through Fidelity, E-Trade, Robinhood, Charles Schwab, and SoFi, but allocations aren\u2019t guaranteed.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-how-to-buy-stock-4733583f?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T12:43:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Redwire Stock a Buy Ahead of the SpaceX IPO?",
-                "summary": "SpaceX's initial public offering is shining a spotlight on the growing space economy.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/01/is-redwire-stock-a-buy-ahead-of-the-spacex-ipo/",
-                "publishDate": "2026-06-01T12:12:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.21,
+        "price": 29.315,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6008692,
-            "marketCap": 21009887232,
+            "change": -2.2507477,
+            "marketCap": 21085411328,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.405,
+        "price": 29.82,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.8135767,
-            "marketCap": 6101275136,
+            "change": -4.484304,
+            "marketCap": 6187383808,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
