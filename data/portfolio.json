@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.21,
+        "price": 44.2407,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.0057101,
-            "marketCap": 195884138496,
+            "change": -2.9383545,
+            "marketCap": 196020174848,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.82599
+            "yearTarget": 46.813885
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Anthropic Files Confidential S-1 as $1 Trillion IPO Window Opens",
+                "summary": "The filing follows a $965 billion Series H valuation.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-files-confidential-1-1-181246257.html",
+                "publishDate": "2026-06-01T18:12:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic confidentially files for initial public offering on US stock market",
+                "summary": "Financial stakes of AI race rise as Elon Musk\u2019s SpaceX, OpenAI and Anthropic are slated to go public this year",
+                "source": "The Guardian",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-confidentially-files-initial-public-163600968.html",
+                "publishDate": "2026-06-01T18:12:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX's $1.8 Trillion IPO Math Raises Questions For Investors",
                 "summary": "SpaceX, OpenAI and Anthropic could reach public markets at unprecedented valuations.",
                 "source": "GuruFocus.com",
@@ -358,6 +378,16 @@
                 "category": "finance",
                 "url": "https://uk.finance.yahoo.com/news/ai-giant-anthropic-confidentially-files-160453688.html",
                 "publishDate": "2026-06-01T17:24:29Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic confidentially files to go public",
+                "summary": "Anthropic on Monday said it filed confidential plans for an initial public offering, setting it up for what\u2019s expected to be one of the most anticipated market debuts in years.",
+                "source": "CNN Business",
+                "category": "finance",
+                "url": "https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing",
+                "publishDate": "2026-06-01T17:14:39Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-06-01T16:57:08Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why It Matters if OpenAI or Anthropic Wins the IPO Race",
-                "summary": "The window for initial public offerings is decidedly open, with a receptive market.  Only digital-design platform  Figma\u2019s  \u00a0absurd 250% rise last year was bigger for a company valued at more than $10 billion at listing in the past five years, according to FactSet data.  Elon Musk\u2019s  SpaceX plans to follow up this summer in what may well be the largest IPO in history\u2014with a targeted valuation of $1.5 trillion.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/openai-anthropic-ipo-race-0cf0ed36?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T16:53:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Files Paperwork With SEC For Wall Street Debut",
-                "summary": "Anthropic did not disclose the size \u200cor terms of \u200bthe offering.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-files-paperwork-with-sec-for-wall-street-debut/cZ0gUViRevc",
-                "publishDate": "2026-06-01T16:47:31Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic confidentially files for IPO",
-                "summary": "The AI company closed a US$65-billion funding round last week valuing it at US$900 billion",
-                "source": "Financial Post",
-                "category": "finance",
-                "url": "https://financialpost.com/financial-times/anthropic-confidentially-files-ipo",
-                "publishDate": "2026-06-01T16:44:33Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.47,
+        "price": 29.485,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7339128,
-            "marketCap": 21196898304,
+            "change": -1.6838919,
+            "marketCap": 21207687168,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.37,
+        "price": 30.32,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7226088,
-            "marketCap": 6301504000,
+            "change": -2.8827662,
+            "marketCap": 6291129344,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
