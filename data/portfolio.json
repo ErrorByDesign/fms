@@ -20,7 +20,7 @@
             "marketCap": 195263840256,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.812866
+            "yearTarget": 46.83394
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,12 +332,82 @@
                 "freemium": false
             },
             {
-                "title": "Anthropic, maker of AI chatbot Claude, files for a public stock sale",
+                "title": "Elon Musk's SpaceX Warns $1.75 Billion IPO Investors of Potential Future Share Dilution",
+                "summary": "SpaceX's amended IPO filing signals the company may issue substantial new shares in future transactions as Elon Musk expands its ambitions.",
+                "source": "decrypt",
+                "category": "finance",
+                "url": "https://decrypt.co/369670/elon-musks-spacex-warns-ipo-investors-potential-future-share-dilution",
+                "publishDate": "2026-06-01T21:11:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Commercial Space Just Crossed $500 Billion in Backlog and These 3 ETFs Own the Pure Play Names",
+                "summary": "The commercial space sector now sits above $500 billion in market value, per NOAA\u2019s Office of Space Commerce, with order books for satellite operators, launch providers, and earth-observation companies stretching years into the future. SpaceX filed its S-1 with the SEC on May 20, 2026, Rocket Lab\u2019s Neutron is targeting a fourth-quarter 2026 debut, and ... Commercial Space Just Crossed $500 Billion in Backlog and These 3 ETFs Own the Pure Play Names",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/01/commercial-space-just-crossed-500-billion-in-backlog-and-these-3-etfs-own-the-pure-play-names/",
+                "publishDate": "2026-06-01T21:09:08Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Analyst Firm Places SpaceX Valuation Well Below Most Others",
+                "summary": "SpaceX plans to go public as early as this month in what's expected to be the biggest IPO in history.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-ipo-valuation/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-01T20:52:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO",
                 "summary": "Anthropic, maker of the chatbot Claude, said Monday that it had filed confidential paperwork with federal regulators in preparation for selling its stock to the public. The company is expected to be one of three trillion-dollar debuts on the stock market this year, along with Elon Musk\u2019s rocket and AI venture SpaceX and OpenAI, maker of ChatGPT. SpaceX filed to go public in April and OpenAI is expected to do so soon. (The Washington Post has a content partnership with OpenAI.)Subscribe to The Po",
                 "source": "Washington Post",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-maker-of-ai-chatbot-claude-files-for-a-public-stock-sale-174924069.html",
-                "publishDate": "2026-06-01T20:32:54Z",
+                "publishDate": "2026-06-01T20:51:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Odds SpaceX Merges With Tesla Are Higher Than You Think",
+                "summary": "Wedbush analyst Dan Ives believes there is better than an 80% chance Tesla and SpaceX merger in 2027.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-tesla-merger-elon-musk-79229b32?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-01T20:46:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX reserves 5% of IPO shares for select employees and individuals",
+                "summary": "Investing.com -- SpaceX has set aside 5% of shares in its planned initial public offering for certain employees and individuals chosen by executive officers, exempting them from post-IPO lock-up restrictions, according to a regulatory filing released Monday.",
+                "source": "Investing.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reserves-5-ipo-shares-203419761.html",
+                "publishDate": "2026-06-01T20:34:19Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Foolish to view Anthropic, SpaceX IPOs as 'lottery ticket,' CIO says",
+                "summary": "<body><p>STORY: AI giant Anthropic has confidentially filed for a U.S. initial public offering, the company said on Monday, edging ahead of rival OpenAI in a closely watched race to reach public markets.</p><p>\"I think it's an easy narrative to say it matters who gets to the IPO door first, Anthropic or OpenAI,\" said Long.</p><p>He added that success will be measured more by which company \"runs a better business [and] is more plugged into the fundamental needs\" of its clients over the longterm.</p></body>",
+                "source": "Reuters Videos",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/foolish-view-anthropic-spacex-ipos-203348632.html",
+                "publishDate": "2026-06-01T20:33:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Space Stock Rally Gets a Big Reality Check",
+                "summary": "Space stocks, which have been on an epic tear, are trading lower to start a new month.  Be wary as the SpaceX initial public offering looms.  Shares of  Redwire  which makes solar arrays and antennas for space, among other things, were down almost 16% on Monday, to $20.68, while the  gained 0.3%, after Jefferies analyst Sheila Kahyaoglu downgraded the stock to Hold from Buy following a run-up that has left shares up 163% over the past month.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/space-stock-ufo-spacex-rocket-lab-firefly-51fa11e5?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-01T20:33:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -348,76 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/anthropic-confidentially-files-ipo-beating-203235792.html",
                 "publishDate": "2026-06-01T20:32:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Instant View: Anthropic IPO filing ratifies Wall Street's AI obsession",
-                "summary": "AI giant Anthropic said on Monday it has confidentially filed for a U.S. initial public offering, teeing up a watershed moment for Wall Street's AI frenzy.  Tech stocks continue to lead the Nasdaq Composite and S&P 500 in a record-breaking market rally, while Elon \u200cMusk's SpaceX is set to price its IPO this month and Anthropic rival OpenAI, led by Sam Altman, is waiting on deck.  U.S. stocks were \u200cmixed on Monday afternoon, with the Nasdaq up 0.3%, the S&P 500 up 0.1% and the Dow industrials off 0.3%.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/instant-view-anthropic-ipo-filing-201203187.html",
-                "publishDate": "2026-06-01T20:12:03Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Better Investment Option: SpaceX or Cerebras?",
-                "summary": "The IPO market is heating up, and both stocks have promise, but one looks like the better investment right now.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/01/better-investment-option-spacex-or-cerebras/",
-                "publishDate": "2026-06-01T19:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic files to go public in a potentially trillion-dollar debut",
-                "summary": "Anthropic on Monday said it filed plans for an initial public offering, setting it up for a share sale that could value the company in the trillion-dollar range as it races against rival OpenAI.",
-                "source": "CNN Business",
-                "category": "finance",
-                "url": "https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing",
-                "publishDate": "2026-06-01T19:30:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO: 5 Surprising Facts Just Revealed",
-                "summary": "SpaceX just filed its S-1 ahead of what could be the largest IPO in history.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/01/spacex-ipo-5-surprising-facts-just-revealed/",
-                "publishDate": "2026-06-01T19:09:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Files to Go Public in Blockbuster Year for IPOs",
-                "summary": "The filing could put the company behind Claude on a path to go public this fall, assuming it proceeds as planned.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/tech/anthropic-ipo-paperwork-9a48c35e?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T18:42:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Jeff Bezos' Blue Origin Suffers New Glenn Explosion\u2014Elon Musk Says 'Hope You Recover\u2026'",
-                "summary": "Jeff Bezos-backed commercial space flight company Blue Origin\u2018s outer space goals hit a setback as the flagship New Glenn rocket exploded during Thursday\u2019s static fire test at the Kennedy Space Center in Cape Canaveral, Florida. New Glenn Explodes, Elon Musk...",
-                "source": "Benzinga",
-                "category": "news",
-                "url": "https://www.yahoo.com/news/science/articles/jeff-bezos-blue-origin-suffers-183103530.html",
-                "publishDate": "2026-06-01T18:31:03Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic files for IPO, setting up public-market test of AI boom",
-                "summary": "The filing sets up Anthropic, the maker of the Claude AI chatbot, to sell its shares to the public.",
-                "source": "CBS News",
-                "category": "finance",
-                "url": "https://www.cbsnews.com/news/anthropic-ipo-confidential-filing-claude-ai/",
-                "publishDate": "2026-06-01T18:30:26Z",
                 "premium": false,
                 "freemium": false
             }
@@ -571,7 +571,7 @@
             "recommendationKey": "strong_buy",
             "recommendationMean": 1.30769,
             "strongBuy": 2,
-            "buy": 9,
+            "buy": 10,
             "hold": 1,
             "sell": 0,
             "strongSell": 0
