@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.095,
+        "price": 44.21,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2580092,
-            "marketCap": 195374612480,
+            "change": -3.0057101,
+            "marketCap": 195884138496,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.79094
+            "yearTarget": 46.82599
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.82,
+        "price": 1.79,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5464476,
-            "marketCap": 170903984,
+            "change": -2.1857967,
+            "marketCap": 168086880,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,12 +332,52 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX's $1.8 Trillion IPO Math Raises Questions For Investors",
+                "summary": "SpaceX, OpenAI and Anthropic could reach public markets at unprecedented valuations.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-1-8-trillion-ipo-174139950.html",
+                "publishDate": "2026-06-01T17:41:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "RDW Stock On Track For Biggest Single-Day Drop In 6 Months \u2013 This Analyst Downgraded Redwire On Valuation Concerns",
+                "summary": "Jefferies noted that Redwire and space-related stocks have seen significant momentum so far this year, driven by the buzz surrounding SpaceX\u2019s planned public listing.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/rdw-stock-on-track-for-biggest-single-day-drop-in-6-months-this-analyst-downgraded-redwire-on-valuation-concerns/cZ0gzsgRevE",
+                "publishDate": "2026-06-01T17:30:35Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic confidentially files for US IPO, beating OpenAI",
+                "summary": "June 1 (Reuters) - AI giant Anthropic has confidentially filed for a U. initial public offering, the company said on Monday, taking an early lead over rival OpenAI in a race that will define the future business shape of \u200cartificial intelligence.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://uk.finance.yahoo.com/news/ai-giant-anthropic-confidentially-files-160453688.html",
+                "publishDate": "2026-06-01T17:24:29Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Anthropic files for IPO, setting up public-market test of AI boom",
                 "summary": "The filing sets up Anthropic, the maker of the Claude AI chatbot, to sell its shares to the public.",
                 "source": "CBS News",
                 "category": "finance",
                 "url": "https://www.cbsnews.com/news/anthropic-ipo-confidential-filing-claude-ai/",
                 "publishDate": "2026-06-01T17:05:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic Files for IPO",
+                "summary": "Anthropic has confidentially submitted a draft S-1 to the SEC for a proposed initial public offering.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/anthropic-ipo-filing-debut-e11b792d?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-01T17:05:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -362,62 +402,22 @@
                 "freemium": false
             },
             {
+                "title": "Anthropic Files Paperwork With SEC For Wall Street Debut",
+                "summary": "Anthropic did not disclose the size \u200cor terms of \u200bthe offering.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/anthropic-files-paperwork-with-sec-for-wall-street-debut/cZ0gUViRevc",
+                "publishDate": "2026-06-01T16:47:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Anthropic confidentially files for IPO",
                 "summary": "The AI company closed a US$65-billion funding round last week valuing it at US$900 billion",
                 "source": "Financial Post",
                 "category": "finance",
                 "url": "https://financialpost.com/financial-times/anthropic-confidentially-files-ipo",
                 "publishDate": "2026-06-01T16:44:33Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic files to go public",
-                "summary": "The company said Monday it has filed confidentially for an IPO.",
-                "source": "TechCrunch",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-files-public-163655473.html",
-                "publishDate": "2026-06-01T16:36:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic confidentially files for initial public offering on US stock market",
-                "summary": "Financial stakes of AI race rise as Elon Musk\u2019s SpaceX, OpenAI and Anthropic are slated to go public this year",
-                "source": "The Guardian",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-confidentially-files-initial-public-163600968.html",
-                "publishDate": "2026-06-01T16:36:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "AI giant Anthropic confidentially files for US IPO as investors bet big on AI future",
-                "summary": "June 1 () - AI giant Anthropic said on Monday it has confidentially filed for a U. initial public offering, teeing up what could become a watershed moment for \u200cWall Street's AI frenzy.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/ai-giant-anthropic-confidentially-files-160453688.html",
-                "publishDate": "2026-06-01T16:26:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Filing: Latest Twist in Potential Blockbuster Year for IPOs",
-                "summary": "Anthropic, the $965 billion-valuation artificial intelligence lab, has filed confidentially for an initial public offering, the company said Monday. It is set to be a huge year for new listings, with Elon Musk\u2019s SpaceX preparing to stage what is likely to be the largest IPO ever next week.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-01-2026/card/anthropic-filing-latest-twist-in-potential-blockbuster-year-for-ipos-9VbSSYFee9PLGeAZRWHz?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T16:25:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Should You Buy Rocket Lab Stock Ahead of the SpaceX IPO?",
-                "summary": "The global space economy is projected to reach $2 trillion by 2040, and Rocket Lab is well-positioned to capitalize on this growth.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/01/should-you-buy-rocket-lab-stock-ahead-of-the-space/",
-                "publishDate": "2026-06-01T16:25:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.345,
+        "price": 29.47,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.1507185,
-            "marketCap": 21106989056,
+            "change": -1.7339128,
+            "marketCap": 21196898304,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.1701,
+        "price": 30.37,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3629086,
-            "marketCap": 6260026368,
+            "change": -2.7226088,
+            "marketCap": 6301504000,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
