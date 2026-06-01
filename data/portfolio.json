@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.2237,
+        "price": 44.115,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9758894,
-            "marketCap": 195944857600,
+            "change": -3.2144818,
+            "marketCap": 195463233536,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.809074
+            "yearTarget": 46.810757
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -352,6 +352,16 @@
                 "freemium": false
             },
             {
+                "title": "Jeff Bezos' Blue Origin Suffers New Glenn Explosion\u2014Elon Musk Says 'Hope You Recover\u2026'",
+                "summary": "Jeff Bezos-backed commercial space flight company Blue Origin\u2018s outer space goals hit a setback as the flagship New Glenn rocket exploded during Thursday\u2019s static fire test at the Kennedy Space Center in Cape Canaveral, Florida. New Glenn Explodes, Elon Musk...",
+                "source": "Benzinga",
+                "category": "news",
+                "url": "https://www.yahoo.com/news/science/articles/jeff-bezos-blue-origin-suffers-183103530.html",
+                "publishDate": "2026-06-01T18:31:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Anthropic files for IPO, setting up public-market test of AI boom",
                 "summary": "The filing sets up Anthropic, the maker of the Claude AI chatbot, to sell its shares to the public.",
                 "source": "CBS News",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-01T18:12:30Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Anthropic, maker of AI chatbot Claude, files for a public stock sale",
-                "summary": "Anthropic, maker of the chatbot Claude, said Monday that it had filed confidential paperwork with federal regulators in preparation for selling its stock to the public. The company is expected to be one of three trillion-dollar debuts on the stock market this year, along with Elon Musk's rocket and AI venture SpaceX and OpenAI, maker of ChatGPT. SpaceX filed to go public in April and OpenAI is expected to do so soon. (The Washington Post has a content partnership with OpenAI.)Subscribe to The Po",
-                "source": "Washington Post",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-maker-of-ai-chatbot-claude-files-for-a-public-stock-sale-174924069.html",
-                "publishDate": "2026-06-01T17:49:24Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.475,
+        "price": 29.345,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7172371,
-            "marketCap": 21200494592,
+            "change": -2.1503599,
+            "marketCap": 21106989056,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.05,
+        "price": 29.92,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.747598,
-            "marketCap": 6235106304,
+            "change": -4.1639953,
+            "marketCap": 6208133120,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
