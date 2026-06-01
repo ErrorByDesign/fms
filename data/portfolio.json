@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.285,
+        "price": 44.2237,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8414743,
-            "marketCap": 196216455168,
+            "change": -2.9758894,
+            "marketCap": 195944857600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.82293
+            "yearTarget": 46.809074
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.79,
+        "price": 1.81,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.1857967,
-            "marketCap": 168086880,
+            "change": -1.0929016,
+            "marketCap": 169964944,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX IPO: 5 Surprising Facts Just Revealed",
+                "summary": "SpaceX just filed its S-1 ahead of what could be the largest IPO in history.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/01/spacex-ipo-5-surprising-facts-just-revealed/",
+                "publishDate": "2026-06-01T19:09:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic Files to Go Public in Blockbuster Year for IPOs",
+                "summary": "The filing could put the company behind Claude on a path to go public this fall, assuming it proceeds as planned.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/anthropic-ipo-paperwork-9a48c35e?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-01T18:42:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Anthropic files for IPO, setting up public-market test of AI boom",
                 "summary": "The filing sets up Anthropic, the maker of the Claude AI chatbot, to sell its shares to the public.",
                 "source": "CBS News",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-06-01T17:49:24Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "One analyst calls SpaceX's IPO filing \u2018unserious, empty, hallucinatory, and borderline dishonest\u2019",
-                "summary": "Skyrocketing? Prof G Markets co-host Ed Elson says the main things soaring at Elon Musk\u2019s firm are costs and losses.",
-                "source": "Moneywise",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/one-analyst-calls-spacexs-ipo-174500309.html",
-                "publishDate": "2026-06-01T17:45:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's $1.8 Trillion IPO Math Raises Questions For Investors",
-                "summary": "SpaceX, OpenAI and Anthropic could reach public markets at unprecedented valuations.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-1-8-trillion-ipo-174139950.html",
-                "publishDate": "2026-06-01T17:41:39Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.495,
+        "price": 29.475,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6505467,
-            "marketCap": 21214881792,
+            "change": -1.7172371,
+            "marketCap": 21200494592,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.23,
+        "price": 30.05,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.1710436,
-            "marketCap": 6272455168,
+            "change": -3.747598,
+            "marketCap": 6235106304,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
