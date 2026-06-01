@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.58,
+        "price": 44.265,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.15382,
-            "marketCap": 201954295808,
+            "change": -2.8850424,
+            "marketCap": 196127834112,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.85254
+            "yearTarget": 46.752174
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is Eli Lilly Starting an Nvidia-Style Run?",
+                "summary": "Lilly shares soared more than 18% in May.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/01/is-eli-lilly-starting-an-nvidia-style-run/",
+                "publishDate": "2026-06-01T10:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "5 Best Growth Stocks for the Next 10 Years",
+                "summary": "These 5 long-term growth stocks could benefit from AI, cybersecurity, GLP-1 drugs, and fintech trends over the next decade",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/originals/5-best-growth-stocks-for-the-next-10-years/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-05-31T11:45:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Lilly's New Drug Just Delivered the Largest Weight Loss Ever Seen in a Clinical Trial -- Here's What It Means for Investors",
                 "summary": "Eli Lilly is working on a new GLP-1 drug, and early results suggest it could be a big winner.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-28T22:14:45Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "CVS Restores Coverage for Lilly's Zepbound",
-                "summary": "The move gives patients broader access to Lilly's obesity drugs and strengthens competition with Novo Nordisk.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/cvs-restores-coverage-lillys-zepbound-220703093.html",
-                "publishDate": "2026-05-28T22:07:03Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Stock on Track for Record as Insurance Coverage Expands for Zepbound",
-                "summary": "Eli Lilly shares are on pace to hit a new all-time closing high on news of increased insurance coverage for its blockbuster weight-loss drug Zepbound.  Lilly shares were recently up 4.4% to $1,130.90.  Pharmacy-benefit manager CVS Caremark decided to add back Lilly\u2019s Zepbound weight-loss drug to its lists of preferred drugs.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-05-28-2026/card/eli-lilly-back-in-1-trillion-club-as-insurance-coverage-expands-for-zepbound-vcfO0WlOdiC7Li988bBv?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-28T19:41:28Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.83,
+        "price": 1.8678,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.1724157,
-            "marketCap": 171843024,
+            "change": 2.0655713,
+            "marketCap": 175392560,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "IPOs are no longer Wall Street's starting line \u2014 they're the exit ramp: Chart of the Day",
-                "summary": "Wall Street used to get the growth story early. Now it often only gets the receipt.",
+                "title": "The 2026 stock market has a key factor the dot-com boom lacked",
+                "summary": "There\u2019s an important distinction between the hot backdrop for markets in 2026 and the lead-up to the dot-com crash in the late 90s and early 2000s: The quality of IPOs.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/ipos-are-no-longer-wall-streets-starting-line--theyre-the-exit-ramp-chart-of-the-day-114434009.html",
-                "publishDate": "2026-05-31T11:44:34Z",
+                "url": "https://finance.yahoo.com/markets/article/the-2026-stock-market-has-a-key-factor-the-dot-com-boom-lacked-121423029.html",
+                "publishDate": "2026-06-01T12:14:23Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Redwire (RDW) Adds 40% This Week as Space Developments Heat Up",
-                "summary": "Redwire Corp. (NYSE:RDW) is one of the 10 Stocks With Effortless 38-78% Gains. Redwire saw its share prices climb by 40.5 percent week-on-week, following a flurry of developments in the space sector that fueled rosy prospects for key players. The rally was primarily driven by growth expectations for space players following the National Aeronautics and [\u2026]",
-                "source": "Insider Monkey",
+                "title": "Nvidia Says Vera Is 1.8 Times Faster Than x86 Chips",
+                "summary": "Anthropic, OpenAI and SpaceX will be among the first major users of Nvidia's Vera CPUs.",
+                "source": "GuruFocus.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/redwire-rdw-adds-40-week-030554950.html",
-                "publishDate": "2026-06-01T03:05:54Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/nvidia-says-vera-1-8-142954193.html",
+                "publishDate": "2026-06-01T14:29:54Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SPCE Stock Caps Best Month Ever: Retail Bulls Swarm Richard Branson's Space Firm As New Investor Emerges Ahead Of SpaceX IPO",
-                "summary": "A substantial portion of the disclosed stake by RichRich Capital is in call options, making it a largely options-backed bet on SPCE.",
-                "source": "Stocktwits",
+                "title": "SpaceX Reserves Up to 5% of IPO Stock for Staff and Friends",
+                "summary": "(Bloomberg) -- SpaceX will reserve up to 5% of shares in its upcoming initial public offering for certain employees and friends and family of its executive officers, the company disclosed in an amended filing.Most Read from BloombergUS Says Deals With Iran for Safe Hormuz Transit Are ProhibitedBerkshire Hathaway to Buy Taylor Morrison for $6.8 BillionA Rare \u2018Super\u2019 El Ni\u00f1o Is Looking More Likely. Here\u2019s What to ExpectStrait of Hormuz Ship Transits Are Rising Thanks to US HelpPro-Trump Outsider W",
+                "source": "Bloomberg",
                 "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/spce-stock-best-month-ever-new-investor-spacex-ipo/cZ0gQGoReuj",
-                "publishDate": "2026-06-01T02:40:06Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reserves-5-ipo-stock-121245215.html",
+                "publishDate": "2026-06-01T13:16:45Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO Exposure: Which ETFs, Mutual Funds Own Biggest Share Of Elon Musk's Space Giant?",
-                "summary": "SpaceX has filed its paperwork to go public, with an offering likely valuing the Elon Musk-founded space company at $1.75 trillion or more. Investors looking to get access to SpaceX stock ahead of the IPO have several options from public...",
-                "source": "Benzinga",
+                "title": "SpaceX reveals more trillion-dollar IPO details\u2014Special share program for insiders",
+                "summary": "Investing.com -- SpaceX will reserve up to 5% of shares in its upcoming initial public offering for certain employees and friends and family of its executive officers, the company disclosed in an amended filing.",
+                "source": "Investing.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-exposure-etfs-mutual-013107179.html",
-                "publishDate": "2026-06-01T01:31:07Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reveals-more-trillion-dollar-130331692.html",
+                "publishDate": "2026-06-01T13:03:31Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Their Duplex Has Been Fine. Their AI Stocks Have Been Incredible. Now They Are Debating Whether To 'Sell Duplex For More Stocks?'",
-                "summary": "A real estate investor is trying to decide whether it\u2019s still worth holding onto a rental property after watching their AI stocks make a lot more money. The investor recently posted on Reddit about their situation, saying they bought a...",
-                "source": "Benzinga",
+                "title": "Zacks Investment Ideas feature highlights: Gilat Satellite Networks, Satellogic and EchoStar",
+                "summary": "GILT draws attention ahead of the SpaceX IPO as revenue growth, earnings estimate upgrades and satellite demand fuel investor interest.",
+                "source": "Zacks",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/duplex-fine-ai-stocks-incredible-010051043.html",
-                "publishDate": "2026-06-01T01:00:51Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-investment-ideas-feature-highlights-130200841.html",
+                "publishDate": "2026-06-01T13:02:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Surprise! This Company, Already Set to Make History, May Be Next to Join the Trillion-Dollar Club.",
-                "summary": "This company is a bit different from today's trillion-dollar players.",
+                "title": "Reports of a Future SpaceX-Tesla Merger Are Picking Up Steam. But Is Such a Complex Deal Actually Feasible?",
+                "summary": "Media reports and even people betting on Kalshi continue to see an increasing likelihood that all of Elon Musk's companies could soon merge.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/31/surprise-this-company-already-set-to-make-history/",
-                "publishDate": "2026-05-31T22:30:00Z",
+                "url": "https://www.fool.com/investing/2026/06/01/report-future-spacex-tesla-merger-complex/",
+                "publishDate": "2026-06-01T12:57:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Why Redwire Stock Skyrocketed This Week",
-                "summary": "SpaceX's upcoming $2 trillion IPO has had a powerful bullish impact on Redwire.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/31/why-redwire-stock-skyrocketed-this-week/",
-                "publishDate": "2026-05-31T21:38:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "This Week in Crypto: MicroStrategy\u2019s Bitcoin Fears Fade, $500M Claude Bill, Thiel Stock Halves",
-                "summary": "This week in crypto, Bitcoin shook off sell-off fears, a firm burned $500M on Claude AI, and a Thiel-backed stock halved.",
-                "source": "BeInCrypto",
-                "category": "finance",
-                "url": "https://beincrypto.com/this-week-crypto-bitcoin-claude-bill-spacex-peter-thiel-stock/",
-                "publishDate": "2026-05-31T20:58:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Buys 8% of Tesla\u2019s Cybertrucks\u2014and It Doesn\u2019t Get a Discount",
-                "summary": "FEATURE  You would think Tesla would give SpaceX a volume discount. That isn\u2019t the case, though. It turns out, one of the biggest fans of Tesla\u2019s Cybertruck is SpaceX. Elon Musk\u2019s rocket company has spent $131 million on the avant-garde truck.",
+                "title": "The Odds SpaceX Merges With Tesla Are Higher Than You Think",
+                "summary": "Wedbush analyst Dan Ives believes there is better than an 80% chance Tesla and SpaceX merger in 2027.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/tesla-cybertruck-spacex-elon-musk-9d3e1a1e?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-05-31T19:21:00Z",
+                "url": "https://www.barrons.com/articles/spacex-tesla-merger-elon-musk-79229b32?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-01T12:54:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The SpaceX IPO Is Weeks Away: Here's What History Says Happens After It Starts Trading",
-                "summary": "SpaceX's IPO is unprecedentedly large. Here's what the biggest IPOs in history have done after trading.",
+                "title": "The Phrase Elon Musk Slipped Into SpaceX\u2019s IPO Documents That Sounds Like Science Fiction",
+                "summary": "Let me tell you what corporate IPO filings usually sound like: risk factors, addressable markets, operating segments. Recently I opened SpaceX\u2019s pre-IPO disclosures and found a sentence that stopped me cold. It reads less like investor boilerplate and more like the opening crawl of a Christopher Nolan film. Buried inside the IPO paperwork is this ... The Phrase Elon Musk Slipped Into SpaceX\u2019s IPO Documents That Sounds Like Science Fiction",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/01/the-phrase-elon-musk-slipped-into-spacexs-ipo-documents-that-sounds-like-science-fiction/",
+                "publishDate": "2026-06-01T12:43:01Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "A Step-by-Step Guide to Buying SpaceX at the IPO Price",
+                "summary": "SpaceX IPO shares are expected to be available through Fidelity, E-Trade, Robinhood, Charles Schwab, and SoFi, but allocations aren\u2019t guaranteed.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-how-to-buy-stock-4733583f?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-01T12:43:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Is Redwire Stock a Buy Ahead of the SpaceX IPO?",
+                "summary": "SpaceX's initial public offering is shining a spotlight on the growing space economy.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/31/spacex-ipo-weeks-away-what-history-trading/",
-                "publishDate": "2026-05-31T18:10:00Z",
+                "url": "https://www.fool.com/investing/2026/06/01/is-redwire-stock-a-buy-ahead-of-the-spacex-ipo/",
+                "publishDate": "2026-06-01T12:12:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.99,
+        "price": 29.21,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.36814126,
-            "marketCap": 21570918400,
+            "change": -2.6008692,
+            "marketCap": 21009887232,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.22,
+        "price": 29.405,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5489213,
-            "marketCap": 6477871104,
+            "change": -5.8135767,
+            "marketCap": 6101275136,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
