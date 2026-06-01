@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.115,
+        "price": 44.07,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2144818,
-            "marketCap": 195463233536,
+            "change": -3.3128612,
+            "marketCap": 195263840256,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.810757
+            "yearTarget": 46.812065
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.81,
+        "price": 1.78,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0929016,
-            "marketCap": 169964944,
+            "change": -2.7322443,
+            "marketCap": 167147856,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Better Investment Option: SpaceX or Cerebras?",
+                "summary": "The IPO market is heating up, and both stocks have promise, but one looks like the better investment right now.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/01/better-investment-option-spacex-or-cerebras/",
+                "publishDate": "2026-06-01T19:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic files to go public in a potentially trillion-dollar debut",
+                "summary": "Anthropic on Monday said it filed plans for an initial public offering, setting it up for a share sale that could value the company in the trillion-dollar range as it races against rival OpenAI.",
+                "source": "CNN Business",
+                "category": "finance",
+                "url": "https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing",
+                "publishDate": "2026-06-01T19:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX IPO: 5 Surprising Facts Just Revealed",
                 "summary": "SpaceX just filed its S-1 ahead of what could be the largest IPO in history.",
                 "source": "Motley Fool",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-06-01T18:18:57Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Anthropic Files Confidential S-1 as $1 Trillion IPO Window Opens",
-                "summary": "The filing follows a $965 billion Series H valuation.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-files-confidential-1-1-181246257.html",
-                "publishDate": "2026-06-01T18:12:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic confidentially files for initial public offering on US stock market",
-                "summary": "Financial stakes of AI race rise as Elon Musk\u2019s SpaceX, OpenAI and Anthropic are slated to go public this year",
-                "source": "The Guardian",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-confidentially-files-initial-public-163600968.html",
-                "publishDate": "2026-06-01T18:12:30Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.345,
+        "price": 29.09,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.1503599,
-            "marketCap": 21106989056,
+            "change": -3.000999,
+            "marketCap": 20923576320,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.92,
+        "price": 29.82,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.1639953,
-            "marketCap": 6208133120,
+            "change": -4.4843035,
+            "marketCap": 6187383808,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
