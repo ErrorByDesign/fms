@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.2407,
+        "price": 44.285,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9383545,
-            "marketCap": 196020174848,
+            "change": -2.8414743,
+            "marketCap": 196216455168,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.813885
+            "yearTarget": 46.82293
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,46 @@
                 "freemium": false
             },
             {
+                "title": "Anthropic files for IPO, setting up public-market test of AI boom",
+                "summary": "The filing sets up Anthropic, the maker of the Claude AI chatbot, to sell its shares to the public.",
+                "source": "CBS News",
+                "category": "finance",
+                "url": "https://www.cbsnews.com/news/anthropic-ipo-confidential-filing-claude-ai/",
+                "publishDate": "2026-06-01T18:30:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Claude Maker Anthropic Confidentially Files for IPO Ahead of OpenAI",
+                "summary": "Anthropic confidentially filed for an initial public offering in the US on Monday as the artificial",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/claude-maker-anthropic-confidentially-files-182612224.html",
+                "publishDate": "2026-06-01T18:26:12Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Water access is now a risk factor in SpaceX\u2019s IPO",
+                "summary": "The company says it needs \"significant\" water resources to cool its data centers, and that access to abundant, affordable water is a challenge.",
+                "source": "TechCrunch",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/water-access-now-risk-factor-181953961.html",
+                "publishDate": "2026-06-01T18:19:53Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Reserves 5% IPO Shares As $1.8 Trillion Target Looms",
+                "summary": "SpaceX's amended filing details its directed share program, Anthropic compute deal and new water scarcity risk.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reserves-5-ipo-shares-181857241.html",
+                "publishDate": "2026-06-01T18:18:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Anthropic Files Confidential S-1 as $1 Trillion IPO Window Opens",
                 "summary": "The filing follows a $965 billion Series H valuation.",
                 "source": "GuruFocus.com",
@@ -352,72 +392,32 @@
                 "freemium": false
             },
             {
+                "title": "Anthropic, maker of AI chatbot Claude, files for a public stock sale",
+                "summary": "Anthropic, maker of the chatbot Claude, said Monday that it had filed confidential paperwork with federal regulators in preparation for selling its stock to the public. The company is expected to be one of three trillion-dollar debuts on the stock market this year, along with Elon Musk's rocket and AI venture SpaceX and OpenAI, maker of ChatGPT. SpaceX filed to go public in April and OpenAI is expected to do so soon. (The Washington Post has a content partnership with OpenAI.)Subscribe to The Po",
+                "source": "Washington Post",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-maker-of-ai-chatbot-claude-files-for-a-public-stock-sale-174924069.html",
+                "publishDate": "2026-06-01T17:49:24Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "One analyst calls SpaceX's IPO filing \u2018unserious, empty, hallucinatory, and borderline dishonest\u2019",
+                "summary": "Skyrocketing? Prof G Markets co-host Ed Elson says the main things soaring at Elon Musk\u2019s firm are costs and losses.",
+                "source": "Moneywise",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/one-analyst-calls-spacexs-ipo-174500309.html",
+                "publishDate": "2026-06-01T17:45:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX's $1.8 Trillion IPO Math Raises Questions For Investors",
                 "summary": "SpaceX, OpenAI and Anthropic could reach public markets at unprecedented valuations.",
                 "source": "GuruFocus.com",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-1-8-trillion-ipo-174139950.html",
                 "publishDate": "2026-06-01T17:41:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "RDW Stock On Track For Biggest Single-Day Drop In 6 Months \u2013 This Analyst Downgraded Redwire On Valuation Concerns",
-                "summary": "Jefferies noted that Redwire and space-related stocks have seen significant momentum so far this year, driven by the buzz surrounding SpaceX\u2019s planned public listing.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/rdw-stock-on-track-for-biggest-single-day-drop-in-6-months-this-analyst-downgraded-redwire-on-valuation-concerns/cZ0gzsgRevE",
-                "publishDate": "2026-06-01T17:30:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic confidentially files for US IPO, beating OpenAI",
-                "summary": "June 1 (Reuters) - AI giant Anthropic has confidentially filed for a U. initial public offering, the company said on Monday, taking an early lead over rival OpenAI in a race that will define the future business shape of \u200cartificial intelligence.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/ai-giant-anthropic-confidentially-files-160453688.html",
-                "publishDate": "2026-06-01T17:24:29Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic confidentially files to go public",
-                "summary": "Anthropic on Monday said it filed confidential plans for an initial public offering, setting it up for what\u2019s expected to be one of the most anticipated market debuts in years.",
-                "source": "CNN Business",
-                "category": "finance",
-                "url": "https://www.cnn.com/2026/06/01/tech/anthropic-ipo-filing",
-                "publishDate": "2026-06-01T17:14:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic files for IPO, setting up public-market test of AI boom",
-                "summary": "The filing sets up Anthropic, the maker of the Claude AI chatbot, to sell its shares to the public.",
-                "source": "CBS News",
-                "category": "finance",
-                "url": "https://www.cbsnews.com/news/anthropic-ipo-confidential-filing-claude-ai/",
-                "publishDate": "2026-06-01T17:05:07Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Files for IPO",
-                "summary": "Anthropic has confidentially submitted a draft S-1 to the SEC for a proposed initial public offering.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/anthropic-ipo-filing-debut-e11b792d?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T17:05:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Redwire cut to Hold as valuation outpaces fundamentals, says Jefferies",
-                "summary": "Investing.com -- Jefferies downgraded shares of Redwire to Hold from Buy, arguing that the space infrastructure company's sharp stock rally has largely priced in its bullish growth outlook, leaving limited near-term upside despite strong industry tailwinds.",
-                "source": "Investing.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/redwire-cut-hold-valuation-outpaces-165708411.html",
-                "publishDate": "2026-06-01T16:57:08Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.485,
+        "price": 29.495,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6838919,
-            "marketCap": 21207687168,
+            "change": -1.6505467,
+            "marketCap": 21214881792,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.32,
+        "price": 30.23,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8827662,
-            "marketCap": 6291129344,
+            "change": -3.1710436,
+            "marketCap": 6272455168,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
