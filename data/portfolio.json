@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.85,
+        "price": 42.895,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7683258,
-            "marketCap": 189822287872,
+            "change": -2.6662111,
+            "marketCap": 190021648384,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.767727
+            "yearTarget": 46.75261
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.82,
+        "price": 1.8799,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2471955,
-            "marketCap": 170903984,
+            "change": 5.61236,
+            "marketCap": 176528784,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,11 +322,31 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX valued at just $780 billion by Morningstar, less than half its IPO target",
+                "summary": "SpaceX just got slapped with a bearish valuation ahead of its monster IPO coming up later this month.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/spacex-valued-at-just-780-billion-by-morningstar-less-than-half-its-ipo-target-174617034.html",
+                "publishDate": "2026-06-02T17:46:17Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Is Now Powering the AI Arms Race. These 2 Stocks Let You Invest in the Infrastructure Behind It.",
+                "summary": "SpaceX's new blockbuster deal with Anthropic launches the rocket company into the AI wars.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/02/spacex-power-ai-arms-race-stocks-invest/",
+                "publishDate": "2026-06-02T17:47:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "British investors to get pre-market access to SpaceX\u2019s $1.8tn listing",
                 "summary": "British investors are to be offered the chance to buy SpaceX shares before they begin trading on the US stock market in a historic first.",
                 "source": "The Telegraph",
                 "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/british-investors-pre-market-access-165950976.html",
+                "url": "https://www.telegraph.co.uk/business/2026/06/02/british-investors-pre-market-access-spacexs-18tn-listing/",
                 "publishDate": "2026-06-02T16:59:50Z",
                 "premium": false,
                 "freemium": false
@@ -400,26 +420,6 @@
                 "publishDate": "2026-06-02T15:52:59Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "AI\u2019s $1tn mega-floats risk pushing market towards new dotcom bubble",
-                "summary": "The euphoria surrounding AI has surged to its next exhilarating \u2013 and dangerous \u2013 level.",
-                "source": "The Telegraph",
-                "category": "finance",
-                "url": "https://www.telegraph.co.uk/business/2026/06/02/ai-1tn-megafloats-risk-pushing-market-new-dotcom-bubble/",
-                "publishDate": "2026-06-02T15:50:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Virgin Galactic Stock Plummets 34%. Here\u2019s Why.",
-                "summary": "Space stocks have been all the rage lately, ahead of SpaceX\u2019s massive initial public offering.  Shares of the space tourism pioneer dived 34% in early trading on Tuesday to $5, while the  was down 0.1%.  Setting off the decline was the company\u2019s announcement that it plans to pay back millions in debt by issuing stock.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T15:50:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.13,
+        "price": 28.09,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3001065,
-            "marketCap": 20233076736,
+            "change": -3.4376073,
+            "marketCap": 20204306432,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.65,
+        "price": 29.71,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.56989825,
-            "marketCap": 6152110080,
+            "change": -0.368882,
+            "marketCap": 6164559360,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
