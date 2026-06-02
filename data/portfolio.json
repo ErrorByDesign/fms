@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.042,
+        "price": 43.0094,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.332229,
-            "marketCap": 190672846848,
+            "change": -2.4066265,
+            "marketCap": 190528421888,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.840427
+            "yearTarget": 46.831966
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,36 @@
         },
         "NEWS": [
             {
+                "title": "Space Stocks Slide Again As ETF Drops Nearly 10% In Two Days",
+                "summary": "SpaceX IPO excitement fades as space stocks tumble following valuation cuts and renewed risk concerns.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-slide-again-etf-155259326.html",
+                "publishDate": "2026-06-02T15:52:59Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "AI\u2019s $1tn mega-floats risk pushing market towards new dotcom bubble",
+                "summary": "The euphoria surrounding AI has surged to its next exhilarating \u2013 and dangerous \u2013 level.",
+                "source": "The Telegraph",
+                "category": "finance",
+                "url": "https://uk.finance.yahoo.com/news/ai-1tn-mega-floats-risk-155052230.html",
+                "publishDate": "2026-06-02T15:50:52Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Virgin Galactic Stock Plummets 34%. Here\u2019s Why.",
+                "summary": "Space stocks have been all the rage lately, ahead of SpaceX\u2019s massive initial public offering.  Shares of the space tourism pioneer dived 34% in early trading on Tuesday to $5, while the  was down 0.1%.  Setting off the decline was the company\u2019s announcement that it plans to pay back millions in debt by issuing stock.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T15:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Anthropic Files For IPO After Reaching $965 Billion Valuation",
                 "summary": "The Claude maker moves ahead of OpenAI as competition for AI capital intensifies.",
                 "source": "GuruFocus.com",
@@ -332,12 +362,32 @@
                 "freemium": false
             },
             {
+                "title": "Voyager Technologies to acquire lunar lander company Astrobotic",
+                "summary": "Voyager Technologies announced Tuesday it plans to acquire Astrobotic Technology, the company that\u2019s vying to become the next to stick a lander on the moon. Pittsburgh-based Astrobotic is on track to launch its Griffin lander this year, slated to fly on a SpaceX Falcon Heavy on what would be the company\u2019s second attempt to fly a lander to the moon. Astrobotic, founded in 2007, also has a hand ...",
+                "source": "Orlando Sentinel",
+                "category": "finance",
+                "url": "https://www.orlandosentinel.com/2026/06/02/voyager-technologies-to-acquire-lunar-lander-company-astrobotic/",
+                "publishDate": "2026-06-02T15:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Palantir, XAI, PayPal, and Robinhood stock analysis",
                 "summary": "Shay Boloor, chief market strategist at Futurum, breaks down Palantir's strong earnings report and future guidance. He also analyzes Elon Musk's decision to merge XAI and SpaceX, and the implications for Tesla shareholders. Finally, Balor offers insights into the struggles of PayPal and the potential of Robinhood as a 'super app'.",
                 "source": "Stocktwits",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/palantir-xai-paypal-robinhood-stock-150033501.html",
                 "publishDate": "2026-06-02T15:00:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "CoreWeave Last Year, Now SpaceX: Decade Defining IPOs?",
+                "summary": "The biggest story surrounding the IPO landscape is, of course, none other than SpaceX. But CoreWeave's debut last year shouldn't be forgotten either.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-last-now-spacex-decade-150000030.html",
+                "publishDate": "2026-06-02T15:00:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -370,56 +420,6 @@
                 "publishDate": "2026-06-02T14:43:26Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Anthropic IPO storylines to watch",
-                "summary": "Anthropic officially started its IPO clock yesterday, filing a confidential registration statement with the SEC.",
-                "source": "Axios",
-                "category": "finance",
-                "url": "https://www.axios.com/2026/06/02/anthropic-ipo-storylines-openai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-                "publishDate": "2026-06-02T14:40:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Should You Buy the SpaceX IPO? Here's My Honest Take",
-                "summary": "SpaceX is set to go public in the biggest IPO of all time.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/02/should-you-buy-the-spacex-ipo-heres-my-honest-take/",
-                "publishDate": "2026-06-02T14:31:12Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Is Whipping Space Stocks Into a Frenzy",
-                "summary": "Investors can expect volatility heading into the SpaceX IPO and after shares of Elon Musk\u2019s rocket company start trading.  Shares of Rocket Lab, AST,  Intuitive Machines Firefly Aerospace  and  Redwire  dropped an average of 11%.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/space-stock-spacex-ipo-rocketlab-ast-28e16929?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T14:09:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla Was One of the Greatest Stock IPOs Ever. Why SpaceX Can\u2019t Repeat Its Success.",
-                "summary": "Tesla  stock dipped early Tuesday as CEO Elon Musk reminded investors about where his EV company started and how far it\u2019s come.  The move came after Musk tweeted that Tesla\u2019s IPO market cap was only 0.1% of its current market cap.  The tweet also comes just ahead of SpaceX\u2019s massive IPO, which is expected to raise a record amount of cash, and could value the rocket company at $2 trillion.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/tesla-stock-price-spacex-ipo-012631fc?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T14:05:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "GNS Stock Gains On First Investments Into SpaceX, OpenAI, Anthropic For $100M AI Treasury",
-                "summary": "The portfolio also provides smaller exposures to other private companies, including Shield AI, Anduril, Kraken, Canva and Epic Games.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/gns-stock-rallies-genius-group-ai-treasury-spacex-openai-anthropic/cZ00GeuRewo",
-                "publishDate": "2026-06-02T13:57:37Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.055,
+        "price": 28.11,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.557923,
-            "marketCap": 20179130368,
+            "change": -3.3688536,
+            "marketCap": 20218691584,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.89,
+        "price": 29.81,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.23474076,
-            "marketCap": 6201908224,
+            "change": -0.03353531,
+            "marketCap": 6185308672,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
