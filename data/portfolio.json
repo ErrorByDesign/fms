@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.875,
+        "price": 42.82,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7115946,
-            "marketCap": 189933043712,
+            "change": -2.8363967,
+            "marketCap": 189689397248,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.78701
+            "yearTarget": 46.786137
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.82,
+        "price": 1.83,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2471955,
-            "marketCap": 170903984,
+            "change": 2.8089929,
+            "marketCap": 171843024,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,26 @@
         },
         "NEWS": [
             {
+                "title": "British investors to get pre-market access to SpaceX\u2019s $1.8tn listing",
+                "summary": "British investors are to be offered the chance to buy SpaceX shares before they begin trading on the US stock market in a historic first.",
+                "source": "The Telegraph",
+                "category": "finance",
+                "url": "https://uk.finance.yahoo.com/news/british-investors-pre-market-access-165950976.html",
+                "publishDate": "2026-06-02T16:59:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Analyst Brings SpaceX Valuation Down To Earth",
+                "summary": "SpaceX plans to go public as early as this month in what's expected to be the biggest IPO in history.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-ipo-valuation/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-02T16:56:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Exclusive-SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say",
                 "summary": "By Echo Wang June 2 (Reuters) - SpaceX, Elon Musk's rocket and satellite company, plans to raise at least $75 billion in its record initial public offering, two people familiar with the matter told",
                 "source": "Reuters",
@@ -342,12 +362,32 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Staffers Prep for Multimillion-Dollar Windfalls by Pushing for VIP Terms",
+                "summary": "(Bloomberg) -- More than 1,000 current and former SpaceX employees have banded together to negotiate with wealth management firms for better pricing and access to sophisticated tax-saving financial products ahead of an initial public offering that is set to turn many of them into multi-millionaires.Most Read from BloombergRussia Finance Officials Tell Putin War Spending Is UnaffordableCanada Dips Into Technical Recession for First Time Since 2020Alphabet to Raise $80 Billion in Equity for AI Spe",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-staffers-prep-multimillion-dollar-161212196.html",
+                "publishDate": "2026-06-02T16:12:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The Only Public Space Stock Even Elon Musk Can\u2019t Dismiss",
                 "summary": "Here\u2019s the uncomfortable truth for anyone who wants exposure to the space economy: the company that dominates it isn\u2019t public. SpaceX prints launches, prints Starlink revenue, and prints headlines. You can\u2019t buy it. So when SpaceX itself bothers to name the rivals it actually watches, that list matters. The names cited include United Launch Alliance, ... The Only Public Space Stock Even Elon Musk Can\u2019t Dismiss",
                 "source": "24/7 Wall St.",
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/06/02/the-only-public-space-stock-even-elon-musk-cant-dismiss/",
                 "publishDate": "2026-06-02T16:09:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Virgin Galactic's Stock Soared to Start the Week. Now It's Coming Back to Earth.",
+                "summary": "To the moon? Perhaps not\u2014but shares of suborbital flight company Virgin Galactic are certainly on a ride this week.",
+                "source": "Investopedia",
+                "category": "finance",
+                "url": "https://www.investopedia.com/virgin-galactic-stock-soared-to-start-the-week-now-it-is-coming-back-to-earth-spce-11988515",
+                "publishDate": "2026-06-02T16:02:19Z",
                 "premium": false,
                 "freemium": false
             },
@@ -366,7 +406,7 @@
                 "summary": "The euphoria surrounding AI has surged to its next exhilarating \u2013 and dangerous \u2013 level.",
                 "source": "The Telegraph",
                 "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/ai-1tn-mega-floats-risk-155052230.html",
+                "url": "https://www.telegraph.co.uk/business/2026/06/02/ai-1tn-megafloats-risk-pushing-market-new-dotcom-bubble/",
                 "publishDate": "2026-06-02T15:50:52Z",
                 "premium": false,
                 "freemium": false
@@ -378,46 +418,6 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-06-02T15:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Files For IPO After Reaching $965 Billion Valuation",
-                "summary": "The Claude maker moves ahead of OpenAI as competition for AI capital intensifies.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-files-ipo-reaching-965-152836422.html",
-                "publishDate": "2026-06-02T15:28:36Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Voyager Technologies to acquire lunar lander company Astrobotic",
-                "summary": "Voyager Technologies announced Tuesday it plans to acquire Astrobotic Technology, the company that\u2019s vying to become the next to stick a lander on the moon. Pittsburgh-based Astrobotic is on track to launch its Griffin lander this year, slated to fly on a SpaceX Falcon Heavy on what would be the company\u2019s second attempt to fly a lander to the moon. Astrobotic, founded in 2007, also has a hand ...",
-                "source": "Orlando Sentinel",
-                "category": "finance",
-                "url": "https://www.orlandosentinel.com/2026/06/02/voyager-technologies-to-acquire-lunar-lander-company-astrobotic/",
-                "publishDate": "2026-06-02T15:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Palantir, XAI, PayPal, and Robinhood stock analysis",
-                "summary": "Shay Boloor, chief market strategist at Futurum, breaks down Palantir's strong earnings report and future guidance. He also analyzes Elon Musk's decision to merge XAI and SpaceX, and the implications for Tesla shareholders. Finally, Balor offers insights into the struggles of PayPal and the potential of Robinhood as a 'super app'.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/palantir-xai-paypal-robinhood-stock-150033501.html",
-                "publishDate": "2026-06-02T15:00:33Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "CoreWeave Last Year, Now SpaceX: Decade Defining IPOs?",
-                "summary": "The biggest story surrounding the IPO landscape is, of course, none other than SpaceX. But CoreWeave's debut last year shouldn't be forgotten either.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/coreweave-last-now-spacex-decade-150000030.html",
-                "publishDate": "2026-06-02T15:00:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.105,
+        "price": 28.11,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3860455,
-            "marketCap": 20215093248,
+            "change": -3.3688536,
+            "marketCap": 20218691584,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.76,
+        "price": 29.71,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.201138,
-            "marketCap": 6174934528,
+            "change": -0.368882,
+            "marketCap": 6164559360,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
