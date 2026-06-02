@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.07,
+        "price": 43.125,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.31286,
-            "marketCap": 195226812416,
+            "change": -2.1443152,
+            "marketCap": 191040536576,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.82293
+            "yearTarget": 46.849693
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is Novo Nordisk A/S (NVO) Expanding Its Lead in Diabetes and Weight Loss Ahead of ADA Conference?",
+                "summary": "We recently compiled a list of the 11 Most Undervalued Pharma Stocks to Invest In. Novo Nordisk A/S (NYSE:NVO) is one of the most undervalued stocks to invest in. TheFly reported on May 27 that NVO announced that it will present new clinical findings from its cardiometabolic portfolio at the 2026 Scientific Sessions of the American [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nvo-expanding-lead-141027884.html",
+                "publishDate": "2026-06-02T14:10:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Pfizer's Obesity and Oncology Pipeline Sets Up a Catalyst-Rich 2026",
+                "summary": "PFE targets a catalyst-rich 2026 with pivotal obesity and oncology studies, key data readouts, and regulatory decisions across its pipeline.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/pfizers-obesity-oncology-pipeline-sets-130800477.html",
+                "publishDate": "2026-06-02T13:08:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Is Eli Lilly Starting an Nvidia-Style Run?",
                 "summary": "Lilly shares soared more than 18% in May.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-05-29T14:22:16Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Eli Lilly's $1 trillion valuation cements its status as Wall Street's ultimate weight-loss play",
-                "summary": "Eli Lilly's $1 trillion comeback is powered by the company's experimental next-generation obesity drug, Reta.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/eli-lillys-1-trillion-valuation-cements-its-status-as-wall-streets-ultimate-weight-loss-play-100000788.html",
-                "publishDate": "2026-05-29T10:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Jumps as CVS Expands Weight-Loss Drug Coverage",
-                "summary": "The change could improve patient access and support future sales growth.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-jumps-cvs-expands-221445298.html",
-                "publishDate": "2026-05-28T22:14:45Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.78,
+        "price": 1.79,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.73224,
-            "marketCap": 167147856,
+            "change": 0.5617972,
+            "marketCap": 168086880,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 128.87,
+        "price": 128.88,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,7 +306,7 @@
             ]
         },
         "FINANCIALS": {
-            "change": -1.68,
+            "change": 0.0,
             "marketCap": 1549901234176,
             "weekLow": 202.78,
             "weekHigh": 652.93,
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "The 2026 stock market has a key factor the dot-com boom lacked",
-                "summary": "There\u2019s an important distinction between the hot backdrop for markets in 2026 and the lead-up to the dot-com crash in the late 90s and early 2000s: The quality of IPOs.",
-                "source": "Yahoo Finance",
+                "title": "SpaceX Seeks IPO Fee Cut From Wall Street Bankers",
+                "summary": "SpaceX is negotiating to pay razor-thin fees to Wall Street firms handling its IPO, with banks still likely to rake in about $500 million from the record-setting debut. Sridhar Natarajan reports on Bloomberg Television.",
+                "source": "Bloomberg",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/the-2026-stock-market-has-a-key-factor-the-dot-com-boom-lacked-121423029.html",
-                "publishDate": "2026-06-01T12:14:23Z",
+                "url": "https://finance.yahoo.com/video/spacex-seeks-ipo-fee-cut-144426907.html",
+                "publishDate": "2026-06-02T14:44:26Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Is SpaceX IPO Hype And Launch-Risk Jitters Altering The Investment Case For Planet Labs (PL)?",
-                "summary": "Planet Labs PBC has recently been swept up in heightened interest in space companies ahead of a potential SpaceX IPO, with sentiment also whipsawing after a Blue Origin New Glenn rocket explosion raised concerns about launch risks and costs across the sector. This cluster of sector-wide events highlights how Planet Labs\u2019 share price can be driven as much by broader space-industry enthusiasm and anxiety as by its own fundamentals. We\u2019ll examine how this sector-wide enthusiasm linked to the...",
-                "source": "Simply Wall St.",
+                "title": "Impulse Space raises $500M Series D, valued at $4.26B",
+                "summary": "The round values Impulse Space at $4.26 billion and brings total capital raised to over $1 billion",
+                "source": "Quartz",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-hype-launch-risk-031207103.html",
-                "publishDate": "2026-06-02T03:12:07Z",
+                "url": "https://qz.com/impulse-space-500-million-series-d-in-space-mobility-060226",
+                "publishDate": "2026-06-02T14:43:26Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The Best Way to Invest in the SpaceX IPO Is Hiding in Plain Sight",
-                "summary": "SpaceX could soon become a top-10 holding in the S&P 500, giving index fund investors significant exposure.",
+                "title": "Anthropic IPO storylines to watch",
+                "summary": "Anthropic officially started its IPO clock yesterday, filing a confidential registration statement with the SEC.",
+                "source": "Axios",
+                "category": "finance",
+                "url": "https://www.axios.com/2026/06/02/anthropic-ipo-storylines-openai#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+                "publishDate": "2026-06-02T14:40:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Should You Buy the SpaceX IPO? Here's My Honest Take",
+                "summary": "SpaceX is set to go public in the biggest IPO of all time.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/01/the-best-way-to-invest-in-the-spacex-ipo/",
-                "publishDate": "2026-06-02T02:20:00Z",
+                "url": "https://www.fool.com/investing/2026/06/02/should-you-buy-the-spacex-ipo-heres-my-honest-take/",
+                "publishDate": "2026-06-02T14:31:12Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Blue Origin launch pad repairs could take 'serious time', NASA chief tells CNBC",
-                "summary": "Damage to a Blue Origin launch pad from the spectacular explosion of the company's giant New Glenn rocket \u200cduring a test firing of its engines last week will \"take \u200csome serious time\" to repair, NASA Administrator Jared Isaacman told CNBC on Monday.  The mishap came \u2060at a critical time for the Blue Origin rocket and Amazon satellite ventures of billionaire Jeff Bezos, who is seeking to compete on a more \u200bequal footing \u200bwith Elon Musk's SpaceX, the world's \u200bleading private space launch service.  Company \u200cand industry sources said over the weekend that the explosion had left the launch pad \"practically destroyed\" and in need of repairs that engineers expect will disrupt operations for at least six months.",
-                "source": "Reuters",
+                "title": "The SpaceX IPO Is Whipping Space Stocks Into a Frenzy",
+                "summary": "Investors can expect volatility heading into the SpaceX IPO and after shares of Elon Musk\u2019s rocket company start trading.  Shares of Rocket Lab, AST,  Intuitive Machines Firefly Aerospace  and  Redwire  dropped an average of 11%.",
+                "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/blue-origin-launch-pad-repairs-020902157.html",
-                "publishDate": "2026-06-02T02:09:02Z",
+                "url": "https://www.barrons.com/articles/space-stock-spacex-ipo-rocketlab-ast-28e16929?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T14:09:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SPCE Stock Bucks Space Sector Selloff Ahead Of SpaceX IPO \u2014 Richard Branson's Virgin Galactic Torches $64M In Short Bets",
-                "summary": "S3 Partners said short exposure of $118.3 million exceeds the combined active and passive institutional long positions.",
+                "title": "Tesla Was One of the Greatest Stock IPOs Ever. Why SpaceX Can\u2019t Repeat Its Success.",
+                "summary": "Tesla  stock dipped early Tuesday as CEO Elon Musk reminded investors about where his EV company started and how far it\u2019s come.  The move came after Musk tweeted that Tesla\u2019s IPO market cap was only 0.1% of its current market cap.  The tweet also comes just ahead of SpaceX\u2019s massive IPO, which is expected to raise a record amount of cash, and could value the rocket company at $2 trillion.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/tesla-stock-price-spacex-ipo-012631fc?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T14:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "GNS Stock Gains On First Investments Into SpaceX, OpenAI, Anthropic For $100M AI Treasury",
+                "summary": "The portfolio also provides smaller exposures to other private companies, including Shield AI, Anduril, Kraken, Canva and Epic Games.",
                 "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/spce-stock-defies-space-selloff-spacex-ipo-short-squeeze/cZ0iSb0RevZ",
-                "publishDate": "2026-06-02T01:58:06Z",
+                "url": "https://stocktwits.com/news-articles/markets/cryptocurrency/gns-stock-rallies-genius-group-ai-treasury-spacex-openai-anthropic/cZ00GeuRewo",
+                "publishDate": "2026-06-02T13:57:37Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Bernie Sanders unveils bold plan to hand Americans half of OpenAI and Anthropic",
-                "summary": "Sen. Bernie Sanders has unveiled a sweeping legislative proposal for artificial intelligence giants. In an opinion piece published in the New York Times on June 1, the Vermont senator outlined what he is calling the American A.I. Sovereign Wealth Fund Act. This comes at a time when some of the ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/crypto/markets/bernie-sanders-unveils-bold-plan-to-hand-americans-half-of-openai-and-anthropic",
-                "publishDate": "2026-06-02T01:03:27Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Rocket Lab Stock Plummeted Today",
-                "summary": "What's causing setbacks for Rocket Lab stock's incredible rally?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/01/why-rocket-lab-stock-plummeted-today/",
-                "publishDate": "2026-06-01T22:13:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Takes a Big Step Closer to Massive IPO\u2014What You Need to Know",
-                "summary": "AI startup Anthropic said it filed confidentially for an initial public offering. It's expected to be one of the biggest in history.",
-                "source": "Investopedia",
-                "category": "finance",
-                "url": "https://www.investopedia.com/anthropic-takes-a-big-step-closer-to-massive-ipo-what-you-need-to-know-11988303",
-                "publishDate": "2026-06-01T21:49:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why It Matters if OpenAI or Anthropic Wins the IPO Race",
-                "summary": "The window for initial public offerings is decidedly open, with a receptive market.  Only digital-design platform  Figma\u2019s  \u00a0absurd 250% rise last year was bigger for a company valued at more than $10 billion at listing in the past five years, according to FactSet data.  Elon Musk\u2019s  SpaceX plans to follow up this summer in what may well be the largest IPO in history\u2014with a targeted valuation of $1.5 trillion.",
+                "title": "Alphabet\u2019s Mega Fundraising Shows the Value of Being a Public Company",
+                "summary": "In AI, money talks. The ability to tap stock market capital is important again, after a quarter of a century of being all but irrelevant.",
                 "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/openai-anthropic-ipo-race-0cf0ed36?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T21:21:00Z",
+                "url": "https://www.wsj.com/finance/stocks/alphabet-google-stock-fundraising-33aeaa9c?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T13:46:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Rekindled IPOs Fuel Private Equity Hopes for Exit Revival",
-                "summary": "A logjam of unsold assets has buyout firms eager to list, but mixed debuts and erratic markets keep windows for new issues narrow.",
-                "source": "The Wall Street Journal",
+                "title": "Virgin Galactic Shares Slide After Debt Redemption Plan Involving New Stock Issuance (SPCE)",
+                "summary": "Virgin Galactic (NYSE:SPCE) shares dropped 15% on Tuesday after the space tourism company revealed plans to redeem a portion of its outstanding debt through the issuance of common shares, a move that will dilute existing shareholders. The announcement came after a strong rally in the stock, with shares gaining 22% on Monday and soaring approximately 180% over the past month amid renewed investor enthusiasm for space-related companies and speculation surrounding a potential SpaceX public offering",
+                "source": "InvestorsHub",
                 "category": "finance",
-                "url": "https://www.wsj.com/pro/private-equity/rekindled-ipos-fuel-private-equity-hopes-for-exit-revival-f6f8bd91?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T21:15:00Z",
+                "url": "https://investorshub.advfn.com/market-news/article/29548/virgin-galactic-shares-slide-after-debt-redemption-plan-involving-new-stock-issuance-spce",
+                "publishDate": "2026-06-02T13:39:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Morningstar values SpaceX at $780 billion, below IPO target",
+                "summary": "The research firm says SpaceX has been significantly overvalued and warns investors to wait for better prices after the debut",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/morningstar-spacex-valuation-ipo-780-billion-060226",
+                "publishDate": "2026-06-02T13:35:14Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.09,
+        "price": 28.25,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.001,
-            "marketCap": 20923576320,
+            "change": -2.8875906,
+            "marketCap": 20319389696,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.82,
+        "price": 29.76,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.4843,
-            "marketCap": 6187383808,
+            "change": -0.20120545,
+            "marketCap": 6174934528,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
