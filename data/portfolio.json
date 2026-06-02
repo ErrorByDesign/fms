@@ -20,7 +20,7 @@
             "marketCap": 190132387840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.811115
+            "yearTarget": 46.804054
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,36 @@
                 "freemium": false
             },
             {
+                "title": "Blue Origin To Fly Again This Year, CEO Says. Space Stocks Jump On NASA Update.",
+                "summary": "Blue Origin should fly again in 2026 after New Glenn explosion. Space stocks jump on NASA commercial station plans.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/blue-origin-new-glenn-update-nasa-commercial-space-station-iss-spacex-space-stocks-voyager-voyg-space-force/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-02T20:36:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO is coming. Could it push Elon Musk past $1 trillion?",
+                "summary": "SpaceX\u2019s IPO could be one of the biggest ever. Here\u2019s what to know about timing, valuation and what it means for Elon Musk.",
+                "source": "The Tennessean",
+                "category": "finance",
+                "url": "https://www.commercialappeal.com/story/money/business/2026/06/02/spacex-ipo-launch-date-valuation-elon-musk/90368607007/",
+                "publishDate": "2026-06-02T20:23:52Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "NASA ETF attracts $2.6B amid SpaceX IPO frenzy",
+                "summary": "Space has become the hottest trade on Wall Street, and one ETF is gaining massive traction. Retail investors are rushing to get a piece of SpaceX before it goes public. Some are buying the stock directly through brokerage platforms, while others are turning to a fund that already owns it. The ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/investing/etfs/nasa-etf-attracts-2-6b-amid-spacex-ipo-frenzy",
+                "publishDate": "2026-06-02T20:23:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Redwire Stock Shot Up 168% In May",
                 "summary": "Space stocks are gaining momentum ahead of the SpaceX IPO.",
                 "source": "Motley Fool",
@@ -348,16 +378,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/02/rocket-lab-stock-came-off-my-buy-list-when-i-saw-t/",
                 "publishDate": "2026-06-02T19:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Blue Origin To Fly Again This Year, CEO Says. Space Stocks Jump On NASA Update.",
-                "summary": "Blue Origin should fly again in 2026 after New Glenn explosion. Space stocks jump on NASA commercial station plans.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/blue-origin-new-glenn-update-nasa-commercial-space-station-iss-spacex-space-stocks-voyager-voyg-space-force/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-02T18:54:23Z",
                 "premium": false,
                 "freemium": false
             },
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-06-02T17:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Is Now Powering the AI Arms Race. These 2 Stocks Let You Invest in the Infrastructure Behind It.",
-                "summary": "SpaceX's new blockbuster deal with Anthropic launches the rocket company into the AI wars.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/02/spacex-power-ai-arms-race-stocks-invest/",
-                "publishDate": "2026-06-02T17:47:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Frenzy: Inside the Hottest Space ETF",
-                "summary": "We discuss the SpaceX IPO and the NASA ETF.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-frenzy-inside-hottest-174100609.html",
-                "publishDate": "2026-06-02T17:41:00Z",
                 "premium": false,
                 "freemium": false
             }
