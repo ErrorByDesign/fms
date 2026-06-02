@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": -3.31286,
-            "marketCap": 195263840256,
+            "marketCap": 195226812416,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.83394
+            "yearTarget": 46.808277
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7322443,
+            "change": -2.73224,
             "marketCap": 167147856,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -281,7 +281,7 @@
             "recommendationKey": "none",
             "recommendationMean": "recommendationMean",
             "strongBuy": 0,
-            "buy": 2,
+            "buy": 3,
             "hold": 1,
             "sell": 0,
             "strongSell": 0
@@ -332,92 +332,92 @@
                 "freemium": false
             },
             {
-                "title": "Elon Musk's SpaceX Warns $1.75 Billion IPO Investors of Potential Future Share Dilution",
-                "summary": "SpaceX's amended IPO filing signals the company may issue substantial new shares in future transactions as Elon Musk expands its ambitions.",
-                "source": "decrypt",
+                "title": "The Best Way to Invest in the SpaceX IPO Is Hiding in Plain Sight",
+                "summary": "SpaceX could soon become a top-10 holding in the S&P 500, giving index fund investors significant exposure.",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://decrypt.co/369670/elon-musks-spacex-warns-ipo-investors-potential-future-share-dilution",
-                "publishDate": "2026-06-01T21:11:23Z",
+                "url": "https://www.fool.com/investing/2026/06/01/the-best-way-to-invest-in-the-spacex-ipo/",
+                "publishDate": "2026-06-02T02:20:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Commercial Space Just Crossed $500 Billion in Backlog and These 3 ETFs Own the Pure Play Names",
-                "summary": "The commercial space sector now sits above $500 billion in market value, per NOAA\u2019s Office of Space Commerce, with order books for satellite operators, launch providers, and earth-observation companies stretching years into the future. SpaceX filed its S-1 with the SEC on May 20, 2026, Rocket Lab\u2019s Neutron is targeting a fourth-quarter 2026 debut, and ... Commercial Space Just Crossed $500 Billion in Backlog and These 3 ETFs Own the Pure Play Names",
-                "source": "24/7 Wall St.",
+                "title": "Blue Origin launch pad repairs could take 'serious time', NASA chief tells CNBC",
+                "summary": "Damage to a Blue Origin launch pad from the spectacular explosion of the company's giant New Glenn rocket \u200cduring a test firing of its engines last week will \"take \u200csome serious time\" to repair, NASA Administrator Jared Isaacman told CNBC on Monday.  The mishap came \u2060at a critical time for the Blue Origin rocket and Amazon satellite ventures of billionaire Jeff Bezos, who is seeking to compete on a more \u200bequal footing \u200bwith Elon Musk's SpaceX, the world's \u200bleading private space launch service.  Company \u200cand industry sources said over the weekend that the explosion had left the launch pad \"practically destroyed\" and in need of repairs that engineers expect will disrupt operations for at least six months.",
+                "source": "Reuters",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/01/commercial-space-just-crossed-500-billion-in-backlog-and-these-3-etfs-own-the-pure-play-names/",
-                "publishDate": "2026-06-01T21:09:08Z",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/blue-origin-launch-pad-repairs-020902157.html",
+                "publishDate": "2026-06-02T02:09:02Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Analyst Firm Places SpaceX Valuation Well Below Most Others",
-                "summary": "SpaceX plans to go public as early as this month in what's expected to be the biggest IPO in history.",
-                "source": "Investor's Business Daily",
+                "title": "SPCE Stock Bucks Space Sector Selloff Ahead Of SpaceX IPO \u2014 Richard Branson's Virgin Galactic Torches $64M In Short Bets",
+                "summary": "S3 Partners said short exposure of $118.3 million exceeds the combined active and passive institutional long positions.",
+                "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://www.investors.com/news/spacex-ipo-valuation/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-01T20:52:54Z",
+                "url": "https://stocktwits.com/news-articles/markets/equity/spce-stock-defies-space-selloff-spacex-ipo-short-squeeze/cZ0iSb0RevZ",
+                "publishDate": "2026-06-02T01:58:06Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The AI boom could be heading to millions of 401(k)s as Anthropic files for IPO",
-                "summary": "Anthropic, maker of the chatbot Claude, said Monday that it had filed confidential paperwork with federal regulators in preparation for selling its stock to the public. The company is expected to be one of three trillion-dollar debuts on the stock market this year, along with Elon Musk\u2019s rocket and AI venture SpaceX and OpenAI, maker of ChatGPT. SpaceX filed to go public in April and OpenAI is expected to do so soon. (The Washington Post has a content partnership with OpenAI.)Subscribe to The Po",
-                "source": "Washington Post",
+                "title": "Bernie Sanders unveils bold plan to hand Americans half of OpenAI and Anthropic",
+                "summary": "Sen. Bernie Sanders has unveiled a sweeping legislative proposal for artificial intelligence giants. In an opinion piece published in the New York Times on June 1, the Vermont senator outlined what he is calling the American A.I. Sovereign Wealth Fund Act. This comes at a time when some of the ...",
+                "source": "TheStreet",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-maker-of-ai-chatbot-claude-files-for-a-public-stock-sale-174924069.html",
-                "publishDate": "2026-06-01T20:51:48Z",
+                "url": "https://www.thestreet.com/crypto/markets/bernie-sanders-unveils-bold-plan-to-hand-americans-half-of-openai-and-anthropic",
+                "publishDate": "2026-06-02T01:03:27Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The Odds SpaceX Merges With Tesla Are Higher Than You Think",
-                "summary": "Wedbush analyst Dan Ives believes there is better than an 80% chance Tesla and SpaceX merger in 2027.",
-                "source": "Barrons.com",
+                "title": "Why Rocket Lab Stock Plummeted Today",
+                "summary": "What's causing setbacks for Rocket Lab stock's incredible rally?",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-tesla-merger-elon-musk-79229b32?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T20:46:00Z",
+                "url": "https://www.fool.com/investing/2026/06/01/why-rocket-lab-stock-plummeted-today/",
+                "publishDate": "2026-06-01T22:13:39Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX reserves 5% of IPO shares for select employees and individuals",
-                "summary": "Investing.com -- SpaceX has set aside 5% of shares in its planned initial public offering for certain employees and individuals chosen by executive officers, exempting them from post-IPO lock-up restrictions, according to a regulatory filing released Monday.",
-                "source": "Investing.com",
+                "title": "Anthropic Takes a Big Step Closer to Massive IPO\u2014What You Need to Know",
+                "summary": "AI startup Anthropic said it filed confidentially for an initial public offering. It's expected to be one of the biggest in history.",
+                "source": "Investopedia",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-reserves-5-ipo-shares-203419761.html",
-                "publishDate": "2026-06-01T20:34:19Z",
+                "url": "https://www.investopedia.com/anthropic-takes-a-big-step-closer-to-massive-ipo-what-you-need-to-know-11988303",
+                "publishDate": "2026-06-01T21:49:51Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Foolish to view Anthropic, SpaceX IPOs as 'lottery ticket,' CIO says",
-                "summary": "<body><p>STORY: AI giant Anthropic has confidentially filed for a U.S. initial public offering, the company said on Monday, edging ahead of rival OpenAI in a closely watched race to reach public markets.</p><p>\"I think it's an easy narrative to say it matters who gets to the IPO door first, Anthropic or OpenAI,\" said Long.</p><p>He added that success will be measured more by which company \"runs a better business [and] is more plugged into the fundamental needs\" of its clients over the longterm.</p></body>",
-                "source": "Reuters Videos",
+                "title": "Why It Matters if OpenAI or Anthropic Wins the IPO Race",
+                "summary": "The window for initial public offerings is decidedly open, with a receptive market.  Only digital-design platform  Figma\u2019s  \u00a0absurd 250% rise last year was bigger for a company valued at more than $10 billion at listing in the past five years, according to FactSet data.  Elon Musk\u2019s  SpaceX plans to follow up this summer in what may well be the largest IPO in history\u2014with a targeted valuation of $1.5 trillion.",
+                "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/video/foolish-view-anthropic-spacex-ipos-203348632.html",
-                "publishDate": "2026-06-01T20:33:48Z",
+                "url": "https://www.wsj.com/finance/stocks/openai-anthropic-ipo-race-0cf0ed36?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-01T21:21:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The Space Stock Rally Gets a Big Reality Check",
-                "summary": "Space stocks, which have been on an epic tear, are trading lower to start a new month.  Be wary as the SpaceX initial public offering looms.  Shares of  Redwire  which makes solar arrays and antennas for space, among other things, were down almost 16% on Monday, to $20.68, while the  gained 0.3%, after Jefferies analyst Sheila Kahyaoglu downgraded the stock to Hold from Buy following a run-up that has left shares up 163% over the past month.",
-                "source": "Barrons.com",
+                "title": "Rekindled IPOs Fuel Private Equity Hopes for Exit Revival",
+                "summary": "A logjam of unsold assets has buyout firms eager to list, but mixed debuts and erratic markets keep windows for new issues narrow.",
+                "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/space-stock-ufo-spacex-rocket-lab-firefly-51fa11e5?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-01T20:33:00Z",
+                "url": "https://www.wsj.com/pro/private-equity/rekindled-ipos-fuel-private-equity-hopes-for-exit-revival-f6f8bd91?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-01T21:15:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Anthropic confidentially files for\u00a0IPO, beating OpenAI",
-                "summary": "<body><p>STORY: AI giant Anthropic has filed the paperwork to go public, the company said Monday.</p><p>It takes an early lead over rival and ChatGPT owner OpenAI&nbsp;in a race that will define the future business shape of artificial intelligence.</p><p>Anthropic, which makes agentic coding assistant Claude Code, did not disclose the size or the terms of the offering.&nbsp;</p><p>Confidential submissions let companies advance IPO preparations while shielding sensitive financial details from rivals and the public.</p><p>Its last fundraising round gave it a valuation of nearly $1 trillion, making it worth more than OpenAI.</p><p>The crucial step toward a listing comes on the heels of SpaceX's mega-IPO, which is on course to rewrite the record books.</p><p>The Elon Musk-led company is pursuing a $75 billion offering at a $1.75 trillion valuation and could begin trading within two weeks.</p><p>And a source close to the matter told Reuters that OpenAI is set to confidentially file for a U.S. IPO in the coming weeks, too.</p><p>One analyst told Reuters, the demand for capital from these IPOs will be so considerable that it is likely to create disruptions in the capital markets, so going public early will be a huge advantage.&nbsp;</p></body>",
-                "source": "Reuters Videos",
+                "title": "Analysts Are Starting To Pick Apart the Big IPOs. They're Not All Raging Bulls",
+                "summary": "Anthropic filed IPO paperwork on Monday, setting it up to follow SpaceX, which Morningstar analysts argued investors should hold off on buying until after the initial excitement dies down.",
+                "source": "Investopedia",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/video/anthropic-confidentially-files-ipo-beating-203235792.html",
-                "publishDate": "2026-06-01T20:32:35Z",
+                "url": "https://www.investopedia.com/analysts-are-starting-to-pick-apart-the-big-ipos-they-re-not-all-raging-bulls-spcx-11988468",
+                "publishDate": "2026-06-01T21:12:54Z",
                 "premium": false,
                 "freemium": false
             }
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.000999,
+            "change": -3.001,
             "marketCap": 20923576320,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.4843035,
+            "change": -4.4843,
             "marketCap": 6187383808,
             "weekLow": 11.67,
             "weekHigh": 36.52,
