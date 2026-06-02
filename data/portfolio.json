@@ -20,7 +20,7 @@
             "marketCap": 190132387840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.804054
+            "yearTarget": 46.817894
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,12 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX valued at just $780 billion by Morningstar, less than half its IPO target",
-                "summary": "SpaceX just got slapped with a bearish valuation ahead of its monster IPO coming up later this month.",
-                "source": "Yahoo Finance",
+                "title": "Why Planet Labs (PL) Stock Is Up Today",
+                "summary": "Shares of earth imaging satellite company Planet Labs (NYSE:PL) jumped 6.3% in the afternoon session after the company announced it had shipped its Pelican-11 tech demonstration satellite to its launch site, coupled with broader investor enthusiasm for the space sector.",
+                "source": "StockStory",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-valued-at-just-780-billion-by-morningstar-less-than-half-its-ipo-target-174617034.html",
-                "publishDate": "2026-06-02T17:46:17Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/why-planet-labs-pl-stock-205323337.html",
+                "publishDate": "2026-06-02T20:53:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Halo, Virgin Galactic Reality: Behind a 39% Stock Crash.",
+                "summary": "Space stocks have been all the rage ahead of SpaceX\u2019s massive initial public offering.  Virgin Galactic  however, just lost some major altitude.  Shares of the space tourism pioneer dived 39% in Tuesday trading, closing at $4.59.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T20:44:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Goldman CEO David Solomon says markets are in greed mode",
+                "summary": "David Solomon said ample liquidity could support trillion-dollar listings from OpenAI, Anthropic, and SpaceX",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/goldman-sachs-david-solomon-greed-markets-ai-ipos-060226",
+                "publishDate": "2026-06-02T20:37:31Z",
                 "premium": false,
                 "freemium": false
             },
@@ -352,6 +372,16 @@
                 "freemium": false
             },
             {
+                "title": "The SpaceX IPO Is Whipping Space Stocks Into a Frenzy",
+                "summary": "Investors can expect volatility heading into the SpaceX IPO and after shares of Elon Musk\u2019s rocket company start trading.  Shares of Rocket Lab, AST,  Intuitive Machines Firefly Aerospace  and  Redwire  dropped an average of 11%.  A Jefferies downgrade of Redwire to Hold from Buy seemed to catalyze profit-taking.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/space-stock-spacex-ipo-rocketlab-ast-28e16929?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T20:23:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "NASA ETF attracts $2.6B amid SpaceX IPO frenzy",
                 "summary": "Space has become the hottest trade on Wall Street, and one ETF is gaining massive traction. Retail investors are rushing to get a piece of SpaceX before it goes public. Some are buying the stock directly through brokerage platforms, while others are turning to a fund that already owns it. The ...",
                 "source": "TheStreet",
@@ -362,62 +392,32 @@
                 "freemium": false
             },
             {
+                "title": "Tesla\u2019s IPO Was One of the Greatest Ever. Why SpaceX Can\u2019t Hope to Repeat Its Success.",
+                "summary": "Tesla  stock bounced on Tuesday as CEO Elon Musk reminded investors about where his EV company started and how far it\u2019s come.  Don\u2019t expect SpaceX to follow the same trajectory even as Musk tries to justify SpaceX\u2019s valuation.  The move came after Musk tweeted that Tesla\u2019s IPO market cap was only 0.1% of its current market cap.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-tesla-stock-price-012631fc?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T20:17:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Eyeing Roughly $1.75 Trillion Valuation in IPO Next Week",
+                "summary": "Banks are in line to make hundreds of millions of dollars from the offering; JPM has an additional role as party planner.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/banking/spacex-eyeing-roughly-1-75-trillion-valuation-in-ipo-next-week-57066029?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T20:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Why Redwire Stock Shot Up 168% In May",
                 "summary": "Space stocks are gaining momentum ahead of the SpaceX IPO.",
                 "source": "Motley Fool",
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/02/why-redwire-stock-shot-up-168-in-may/",
                 "publishDate": "2026-06-02T19:35:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Rocket Lab Stock Came Off My Buy List When I Saw This Figure in the SpaceX S-1",
-                "summary": "I'm no longer prepared for liftoff with a Rocket Lab investment.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/02/rocket-lab-stock-came-off-my-buy-list-when-i-saw-t/",
-                "publishDate": "2026-06-02T19:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Venture Capital's Role in the AI Boom: EisnerAmper Industry Leader Ryan Keating, Live at Nasdaq",
-                "summary": "Watch the interview below, or Click HERE: Exec Edge hosted a fireside chat on June 1 at Nasdaq MarketSite with Ryan Keating, Industry Leader, Venture Services at EisnerAmper. Mr. Keating was joined by Editor-at-Large Jarrett Banks and they discussed the newly-formed Venture Services group which Ryan leads and how AI is reshaping the venture ecosystem by [\u2026] The post Venture Capital's Role in the AI Boom: EisnerAmper Industry Leader Ryan Keating, Live at Nasdaq appeared first on ExecEdge.",
-                "source": "Exec Edge",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/venture-capitals-role-in-the-ai-boom-eisneramper-industry-leader-ryan-keating-live-at-nasdaq-184400668.html",
-                "publishDate": "2026-06-02T18:44:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Goldman Sachs CEO says markets in \"greed\" mode amid AI IPO wave",
-                "summary": "Investing.com -- Goldman Sachs CEO David Solomon said Tuesday that there is sufficient capital available as major artificial intelligence companies prepare to enter public markets.",
-                "source": "Investing.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-ceo-says-markets-182518910.html",
-                "publishDate": "2026-06-02T18:25:18Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "6 IPOs to Watch This Week Ahead of the SpaceX Main Event",
-                "summary": "Everyone is waiting for the SpaceX IPO. But don\u2019t sleep on big debuts from other unicorns, such as gas engine maker Innio and quantum computer firm Quantinuum.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/6-ipos-to-watch-this-week-ahead-spacex-f46496ef?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T18:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Virgin Galactic Stock Plummets 39%. Here\u2019s Why.",
-                "summary": "Space stocks have been all the rage lately, ahead of SpaceX\u2019s massive initial public offering.  Shares of the space tourism pioneer dived 39% in midday trading on Tuesday to $4.62, putting it on pace for its largest one-day drop ever, according to Dow Jones Market Data.  Setting off the decline was the company\u2019s announcement Tuesday that it plans to pay back millions in debt by issuing stock.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T17:50:00Z",
                 "premium": false,
                 "freemium": false
             }
