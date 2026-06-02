@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.895,
+        "price": 43.045,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6662111,
-            "marketCap": 190021648384,
+            "change": -2.3258488,
+            "marketCap": 190686134272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.75261
+            "yearTarget": 46.785625
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8799,
+        "price": 1.84,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.61236,
-            "marketCap": 176528784,
+            "change": 3.37079,
+            "marketCap": 172782048,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "Goldman Sachs CEO says markets in \"greed\" mode amid AI IPO wave",
+                "summary": "Investing.com -- Goldman Sachs CEO David Solomon said Tuesday that there is sufficient capital available as major artificial intelligence companies prepare to enter public markets.",
+                "source": "Investing.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-ceo-says-markets-182518910.html",
+                "publishDate": "2026-06-02T18:25:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Is Now Powering the AI Arms Race. These 2 Stocks Let You Invest in the Infrastructure Behind It.",
                 "summary": "SpaceX's new blockbuster deal with Anthropic launches the rocket company into the AI wars.",
                 "source": "Motley Fool",
@@ -383,7 +393,7 @@
             },
             {
                 "title": "SpaceX Staffers Prep for Multimillion-Dollar Windfalls by Pushing for VIP Terms",
-                "summary": "(Bloomberg) -- More than 1,000 current and former SpaceX employees have banded together to negotiate with wealth management firms for better pricing and access to sophisticated tax-saving financial products ahead of an initial public offering that is set to turn many of them into multi-millionaires.Most Read from BloombergRussia Finance Officials Tell Putin War Spending Is UnaffordableCanada Dips Into Technical Recession for First Time Since 2020Alphabet to Raise $80 Billion in Equity for AI Spe",
+                "summary": "(Bloomberg) -- More than 1,000 current and former SpaceX employees have banded together to negotiate with wealth management firms for better pricing and access to sophisticated tax-saving financial products ahead of an initial public offering that is set to turn many of them into multi-millionaires.Most Read from BloombergRussia Finance Officials Tell Putin War Spending Is UnaffordableCanada Dips Into Technical Recession for First Time Since 2020Andrew Left Found Guilty in Case That Spooked Shor",
                 "source": "Bloomberg",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-staffers-prep-multimillion-dollar-161212196.html",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-02T16:02:19Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Space Stocks Slide Again As ETF Drops Nearly 10% In Two Days",
-                "summary": "SpaceX IPO excitement fades as space stocks tumble following valuation cuts and renewed risk concerns.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/space-stocks-slide-again-etf-155259326.html",
-                "publishDate": "2026-06-02T15:52:59Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.09,
+        "price": 28.26,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.4376073,
-            "marketCap": 20204306432,
+            "change": -2.8532138,
+            "marketCap": 20326582272,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.71,
+        "price": 29.72,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.368882,
-            "marketCap": 6164559360,
+            "change": -0.3353467,
+            "marketCap": 6166634496,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
