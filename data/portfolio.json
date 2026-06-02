@@ -20,7 +20,7 @@
             "marketCap": 195226812416,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.808277
+            "yearTarget": 46.82293
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -134,12 +134,12 @@
         ],
         "RATINGS": {
             "analystCount": 12,
-            "recommendationKey": 6,
+            "recommendationKey": 4,
             "recommendationMean": 2.35714,
             "strongBuy": 1,
-            "buy": 6,
-            "hold": 5,
-            "sell": 1,
+            "buy": 4,
+            "hold": 9,
+            "sell": 0,
             "strongSell": 0
         }
     },
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "Is SpaceX IPO Hype And Launch-Risk Jitters Altering The Investment Case For Planet Labs (PL)?",
+                "summary": "Planet Labs PBC has recently been swept up in heightened interest in space companies ahead of a potential SpaceX IPO, with sentiment also whipsawing after a Blue Origin New Glenn rocket explosion raised concerns about launch risks and costs across the sector. This cluster of sector-wide events highlights how Planet Labs\u2019 share price can be driven as much by broader space-industry enthusiasm and anxiety as by its own fundamentals. We\u2019ll examine how this sector-wide enthusiasm linked to the...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-hype-launch-risk-031207103.html",
+                "publishDate": "2026-06-02T03:12:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The Best Way to Invest in the SpaceX IPO Is Hiding in Plain Sight",
                 "summary": "SpaceX could soon become a top-10 holding in the S&P 500, giving index fund investors significant exposure.",
                 "source": "Motley Fool",
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://www.wsj.com/pro/private-equity/rekindled-ipos-fuel-private-equity-hopes-for-exit-revival-f6f8bd91?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-06-01T21:15:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Analysts Are Starting To Pick Apart the Big IPOs. They're Not All Raging Bulls",
-                "summary": "Anthropic filed IPO paperwork on Monday, setting it up to follow SpaceX, which Morningstar analysts argued investors should hold off on buying until after the initial excitement dies down.",
-                "source": "Investopedia",
-                "category": "finance",
-                "url": "https://www.investopedia.com/analysts-are-starting-to-pick-apart-the-big-ipos-they-re-not-all-raging-bulls-spcx-11988468",
-                "publishDate": "2026-06-01T21:12:54Z",
                 "premium": false,
                 "freemium": false
             }
@@ -714,11 +714,11 @@
             "analystCount": 5,
             "recommendationKey": "strong_buy",
             "recommendationMean": 1.5,
-            "strongBuy": 2,
-            "buy": 3,
-            "hold": 4,
+            "strongBuy": 3,
+            "buy": 6,
+            "hold": 1,
             "sell": 0,
-            "strongSell": 1
+            "strongSell": 0
         }
     }
 }
