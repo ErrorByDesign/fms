@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.045,
+        "price": 43.035,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.3258488,
-            "marketCap": 190686134272,
+            "change": -2.348536,
+            "marketCap": 190641831936,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.785625
+            "yearTarget": 46.805656
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "Blue Origin To Fly Again This Year, CEO Says. Space Stocks Jump On NASA Update.",
+                "summary": "Blue Origin should fly again in 2026 after New Glenn explosion. Space stocks jump on NASA commercial station plans.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/blue-origin-new-glenn-update-nasa-commercial-space-station-iss-spacex-space-stocks-voyager-voyg-space-force/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-02T18:54:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Goldman Sachs CEO says markets in \"greed\" mode amid AI IPO wave",
                 "summary": "Investing.com -- Goldman Sachs CEO David Solomon said Tuesday that there is sufficient capital available as major artificial intelligence companies prepare to enter public markets.",
                 "source": "Investing.com",
@@ -348,6 +358,16 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/02/spacex-power-ai-arms-race-stocks-invest/",
                 "publishDate": "2026-06-02T17:47:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Frenzy: Inside the Hottest Space ETF",
+                "summary": "We discuss the SpaceX IPO and the NASA ETF.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-frenzy-inside-hottest-174100609.html",
+                "publishDate": "2026-06-02T17:41:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -400,26 +420,6 @@
                 "publishDate": "2026-06-02T16:12:12Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "The Only Public Space Stock Even Elon Musk Can\u2019t Dismiss",
-                "summary": "Here\u2019s the uncomfortable truth for anyone who wants exposure to the space economy: the company that dominates it isn\u2019t public. SpaceX prints launches, prints Starlink revenue, and prints headlines. You can\u2019t buy it. So when SpaceX itself bothers to name the rivals it actually watches, that list matters. The names cited include United Launch Alliance, ... The Only Public Space Stock Even Elon Musk Can\u2019t Dismiss",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/02/the-only-public-space-stock-even-elon-musk-cant-dismiss/",
-                "publishDate": "2026-06-02T16:09:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Virgin Galactic's Stock Soared to Start the Week. Now It's Coming Back to Earth.",
-                "summary": "To the moon? Perhaps not\u2014but shares of suborbital flight company Virgin Galactic are certainly on a ride this week.",
-                "source": "Investopedia",
-                "category": "finance",
-                "url": "https://www.investopedia.com/virgin-galactic-stock-soared-to-start-the-week-now-it-is-coming-back-to-earth-spce-11988515",
-                "publishDate": "2026-06-02T16:02:19Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.26,
+        "price": 28.25,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8532138,
-            "marketCap": 20326582272,
+            "change": -2.8875906,
+            "marketCap": 20319389696,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.72,
+        "price": 29.84,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.3353467,
-            "marketCap": 6166634496,
+            "change": 0.06707062,
+            "marketCap": 6191533568,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
