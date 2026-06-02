@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.0094,
+        "price": 42.875,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4066265,
-            "marketCap": 190528421888,
+            "change": -2.7115946,
+            "marketCap": 189933043712,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.831966
+            "yearTarget": 46.78701
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,36 @@
         },
         "NEWS": [
             {
+                "title": "Exclusive-SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say",
+                "summary": "By Echo Wang June 2 (Reuters) - SpaceX, Elon Musk's rocket and satellite company, plans to raise at least $75 billion in its record initial public offering, two people familiar with the matter told",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-spacex-targets-1-75-161439908.html",
+                "publishDate": "2026-06-02T16:31:49Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "This Space Stock Crashed 38% Today \u2013 Here\u2019s Why Investors Are Wary",
+                "summary": "Virgin Galactic stock recorded its biggest single-day slide after announcing a debt repayment mechanism involving the issuance of common stock.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/this-space-stock-crashed-38-today-here-s-why-investors-are-wary/cZ00PDARew6",
+                "publishDate": "2026-06-02T16:14:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Only Public Space Stock Even Elon Musk Can\u2019t Dismiss",
+                "summary": "Here\u2019s the uncomfortable truth for anyone who wants exposure to the space economy: the company that dominates it isn\u2019t public. SpaceX prints launches, prints Starlink revenue, and prints headlines. You can\u2019t buy it. So when SpaceX itself bothers to name the rivals it actually watches, that list matters. The names cited include United Launch Alliance, ... The Only Public Space Stock Even Elon Musk Can\u2019t Dismiss",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/02/the-only-public-space-stock-even-elon-musk-cant-dismiss/",
+                "publishDate": "2026-06-02T16:09:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Space Stocks Slide Again As ETF Drops Nearly 10% In Two Days",
                 "summary": "SpaceX IPO excitement fades as space stocks tumble following valuation cuts and renewed risk concerns.",
                 "source": "GuruFocus.com",
@@ -390,36 +420,6 @@
                 "publishDate": "2026-06-02T15:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX\u2019s IPO Is the Final Frontier for Index Funds",
-                "summary": "Later this month, SpaceX should launch a stock offering expected to raise something like $80 billion.  SpaceX is reportedly targeting a total valuation of at least $1.5 trillion.  Index providers\u2014the firms that compile market averages like the S&P 500, the Nasdaq 100, the Russell 1000 and so on\u2014have been scurrying to accommodate these titanic deals.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/investing/spacexs-ipo-is-the-final-frontier-for-index-funds-2b411b81?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T14:55:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Seeks IPO Fee Cut From Wall Street Bankers",
-                "summary": "SpaceX is negotiating to pay razor-thin fees to Wall Street firms handling its IPO, with banks still likely to rake in about $500 million from the record-setting debut. Sridhar Natarajan reports on Bloomberg Television.",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/spacex-seeks-ipo-fee-cut-144426907.html",
-                "publishDate": "2026-06-02T14:44:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Impulse Space raises $500M Series D, valued at $4.26B",
-                "summary": "The round values Impulse Space at $4.26 billion and brings total capital raised to over $1 billion",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/impulse-space-500-million-series-d-in-space-mobility-060226",
-                "publishDate": "2026-06-02T14:43:26Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.11,
+        "price": 28.105,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3688536,
-            "marketCap": 20218691584,
+            "change": -3.3860455,
+            "marketCap": 20215093248,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.81,
+        "price": 29.76,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.03353531,
-            "marketCap": 6185308672,
+            "change": -0.201138,
+            "marketCap": 6174934528,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
