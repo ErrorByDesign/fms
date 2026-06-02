@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.125,
+        "price": 43.042,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.1443152,
-            "marketCap": 191040536576,
+            "change": -2.332229,
+            "marketCap": 190672846848,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.849693
+            "yearTarget": 46.840427
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Viking Therapeutics' Q3 Catalyst That Could Turn Eli Lilly's and Novo Nordisk's Daily Weight Loss Pill Strategy Upside Down",
+                "summary": "An upcoming trial result could change how investors think about the weight-loss drug market.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/02/viking-therapeutics-q3-catalyst-turn-eli-lilly/",
+                "publishDate": "2026-06-02T15:08:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Is Novo Nordisk A/S (NVO) Expanding Its Lead in Diabetes and Weight Loss Ahead of ADA Conference?",
                 "summary": "We recently compiled a list of the 11 Most Undervalued Pharma Stocks to Invest In. Novo Nordisk A/S (NYSE:NVO) is one of the most undervalued stocks to invest in. TheFly reported on May 27 that NVO announced that it will present new clinical findings from its cardiometabolic portfolio at the 2026 Scientific Sessions of the American [\u2026]",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-05-29T14:49:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Lilly Reopens Zepbound Access For 10 Million US Patients",
-                "summary": "CVS restores broader Zepbound coverage after price cuts, putting Wegovy and Zepbound on equal footing.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lilly-reopens-zepbound-access-10-142216007.html",
-                "publishDate": "2026-05-29T14:22:16Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.79,
+        "price": 1.82,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5617972,
-            "marketCap": 168086880,
+            "change": 2.2471955,
+            "marketCap": 170903984,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,36 @@
         },
         "NEWS": [
             {
+                "title": "Anthropic Files For IPO After Reaching $965 Billion Valuation",
+                "summary": "The Claude maker moves ahead of OpenAI as competition for AI capital intensifies.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-files-ipo-reaching-965-152836422.html",
+                "publishDate": "2026-06-02T15:28:36Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Palantir, XAI, PayPal, and Robinhood stock analysis",
+                "summary": "Shay Boloor, chief market strategist at Futurum, breaks down Palantir's strong earnings report and future guidance. He also analyzes Elon Musk's decision to merge XAI and SpaceX, and the implications for Tesla shareholders. Finally, Balor offers insights into the struggles of PayPal and the potential of Robinhood as a 'super app'.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/palantir-xai-paypal-robinhood-stock-150033501.html",
+                "publishDate": "2026-06-02T15:00:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX\u2019s IPO Is the Final Frontier for Index Funds",
+                "summary": "Later this month, SpaceX should launch a stock offering expected to raise something like $80 billion.  SpaceX is reportedly targeting a total valuation of at least $1.5 trillion.  Index providers\u2014the firms that compile market averages like the S&P 500, the Nasdaq 100, the Russell 1000 and so on\u2014have been scurrying to accommodate these titanic deals.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/finance/investing/spacexs-ipo-is-the-final-frontier-for-index-funds-2b411b81?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T14:55:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Seeks IPO Fee Cut From Wall Street Bankers",
                 "summary": "SpaceX is negotiating to pay razor-thin fees to Wall Street firms handling its IPO, with banks still likely to rake in about $500 million from the record-setting debut. Sridhar Natarajan reports on Bloomberg Television.",
                 "source": "Bloomberg",
@@ -390,36 +420,6 @@
                 "publishDate": "2026-06-02T13:57:37Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Alphabet\u2019s Mega Fundraising Shows the Value of Being a Public Company",
-                "summary": "In AI, money talks. The ability to tap stock market capital is important again, after a quarter of a century of being all but irrelevant.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/alphabet-google-stock-fundraising-33aeaa9c?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T13:46:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Virgin Galactic Shares Slide After Debt Redemption Plan Involving New Stock Issuance (SPCE)",
-                "summary": "Virgin Galactic (NYSE:SPCE) shares dropped 15% on Tuesday after the space tourism company revealed plans to redeem a portion of its outstanding debt through the issuance of common shares, a move that will dilute existing shareholders. The announcement came after a strong rally in the stock, with shares gaining 22% on Monday and soaring approximately 180% over the past month amid renewed investor enthusiasm for space-related companies and speculation surrounding a potential SpaceX public offering",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29548/virgin-galactic-shares-slide-after-debt-redemption-plan-involving-new-stock-issuance-spce",
-                "publishDate": "2026-06-02T13:39:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Morningstar values SpaceX at $780 billion, below IPO target",
-                "summary": "The research firm says SpaceX has been significantly overvalued and warns investors to wait for better prices after the debut",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/morningstar-spacex-valuation-ipo-780-billion-060226",
-                "publishDate": "2026-06-02T13:35:14Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.25,
+        "price": 28.055,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8875906,
-            "marketCap": 20319389696,
+            "change": -3.557923,
+            "marketCap": 20179130368,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.76,
+        "price": 29.89,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.20120545,
-            "marketCap": 6174934528,
+            "change": 0.23474076,
+            "marketCap": 6201908224,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
