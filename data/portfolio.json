@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.035,
+        "price": 42.945,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.348536,
-            "marketCap": 190641831936,
+            "change": -2.552757,
+            "marketCap": 190243143680,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.805656
+            "yearTarget": 46.81083
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.84,
+        "price": 1.82,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.37079,
-            "marketCap": 172782048,
+            "change": 2.2471955,
+            "marketCap": 170903984,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "Why Redwire Stock Shot Up 168% In May",
+                "summary": "Space stocks are gaining momentum ahead of the SpaceX IPO.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/02/why-redwire-stock-shot-up-168-in-may/",
+                "publishDate": "2026-06-02T19:35:53Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Rocket Lab Stock Came Off My Buy List When I Saw This Figure in the SpaceX S-1",
+                "summary": "I'm no longer prepared for liftoff with a Rocket Lab investment.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/02/rocket-lab-stock-came-off-my-buy-list-when-i-saw-t/",
+                "publishDate": "2026-06-02T19:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Blue Origin To Fly Again This Year, CEO Says. Space Stocks Jump On NASA Update.",
                 "summary": "Blue Origin should fly again in 2026 after New Glenn explosion. Space stocks jump on NASA commercial station plans.",
                 "source": "Investor's Business Daily",
@@ -342,12 +362,42 @@
                 "freemium": false
             },
             {
+                "title": "Venture Capital's Role in the AI Boom: EisnerAmper Industry Leader Ryan Keating, Live at Nasdaq",
+                "summary": "Watch the interview below, or Click HERE: Exec Edge hosted a fireside chat on June 1 at Nasdaq MarketSite with Ryan Keating, Industry Leader, Venture Services at EisnerAmper. Mr. Keating was joined by Editor-at-Large Jarrett Banks and they discussed the newly-formed Venture Services group which Ryan leads and how AI is reshaping the venture ecosystem by [\u2026] The post Venture Capital's Role in the AI Boom: EisnerAmper Industry Leader Ryan Keating, Live at Nasdaq appeared first on ExecEdge.",
+                "source": "Exec Edge",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/venture-capitals-role-in-the-ai-boom-eisneramper-industry-leader-ryan-keating-live-at-nasdaq-184400668.html",
+                "publishDate": "2026-06-02T18:44:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Goldman Sachs CEO says markets in \"greed\" mode amid AI IPO wave",
                 "summary": "Investing.com -- Goldman Sachs CEO David Solomon said Tuesday that there is sufficient capital available as major artificial intelligence companies prepare to enter public markets.",
                 "source": "Investing.com",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/goldman-sachs-ceo-says-markets-182518910.html",
                 "publishDate": "2026-06-02T18:25:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "6 IPOs to Watch This Week Ahead of the SpaceX Main Event",
+                "summary": "Everyone is waiting for the SpaceX IPO. But don\u2019t sleep on big debuts from other unicorns, such as gas engine maker Innio and quantum computer firm Quantinuum.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/6-ipos-to-watch-this-week-ahead-spacex-f46496ef?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T18:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Virgin Galactic Stock Plummets 39%. Here\u2019s Why.",
+                "summary": "Space stocks have been all the rage lately, ahead of SpaceX\u2019s massive initial public offering.  Shares of the space tourism pioneer dived 39% in midday trading on Tuesday to $4.62, putting it on pace for its largest one-day drop ever, according to Dow Jones Market Data.  Setting off the decline was the company\u2019s announcement Tuesday that it plans to pay back millions in debt by issuing stock.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T17:50:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -370,56 +420,6 @@
                 "publishDate": "2026-06-02T17:41:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "British investors to get pre-market access to SpaceX\u2019s $1.8tn listing",
-                "summary": "British investors are to be offered the chance to buy SpaceX shares before they begin trading on the US stock market in a historic first.",
-                "source": "The Telegraph",
-                "category": "finance",
-                "url": "https://www.telegraph.co.uk/business/2026/06/02/british-investors-pre-market-access-spacexs-18tn-listing/",
-                "publishDate": "2026-06-02T16:59:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Analyst Brings SpaceX Valuation Down To Earth",
-                "summary": "SpaceX plans to go public as early as this month in what's expected to be the biggest IPO in history.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-ipo-valuation/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-02T16:56:23Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Exclusive-SpaceX targets $1.75 trillion valuation including greenshoe option in record IPO, sources say",
-                "summary": "By Echo Wang June 2 (Reuters) - SpaceX, Elon Musk's rocket and satellite company, plans to raise at least $75 billion in its record initial public offering, two people familiar with the matter told",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-spacex-targets-1-75-161439908.html",
-                "publishDate": "2026-06-02T16:31:49Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "This Space Stock Crashed 38% Today \u2013 Here\u2019s Why Investors Are Wary",
-                "summary": "Virgin Galactic stock recorded its biggest single-day slide after announcing a debt repayment mechanism involving the issuance of common stock.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/this-space-stock-crashed-38-today-here-s-why-investors-are-wary/cZ00PDARew6",
-                "publishDate": "2026-06-02T16:14:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Staffers Prep for Multimillion-Dollar Windfalls by Pushing for VIP Terms",
-                "summary": "(Bloomberg) -- More than 1,000 current and former SpaceX employees have banded together to negotiate with wealth management firms for better pricing and access to sophisticated tax-saving financial products ahead of an initial public offering that is set to turn many of them into multi-millionaires.Most Read from BloombergRussia Finance Officials Tell Putin War Spending Is UnaffordableCanada Dips Into Technical Recession for First Time Since 2020Andrew Left Found Guilty in Case That Spooked Shor",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-staffers-prep-multimillion-dollar-161212196.html",
-                "publishDate": "2026-06-02T16:12:12Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.25,
+        "price": 28.245,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8875906,
-            "marketCap": 20319389696,
+            "change": -2.9047759,
+            "marketCap": 20315793408,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.84,
+        "price": 29.83,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.06707062,
-            "marketCap": 6191533568,
+            "change": 0.03353531,
+            "marketCap": 6189458432,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
