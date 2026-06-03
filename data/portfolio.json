@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.92,
+        "price": 42.17,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -12,15 +12,15 @@
             "country": "Denmark",
             "year": "1923",
             "website": "https://www.novonordisk.com",
-            "description": "Novo Nordisk A/S, together with its subsidiaries, engages in the research and development, manufacture, and distribution of pharmaceutical products.\n\nIt operates through two segments, Obesity and Diabetes Care, and Rare Disease.\n\nThe Obesity and Diabetes care segment provides products for diabetes, obesity, cardiovascular, and other emerging therapy areas.\n\nThe Rare Disease segment offers products in the areas of rare blood disorders, rare endocrine disorders, and hormone replacement therapy.\n\nThe company also provides NovoPen 6 and NovoPen Echo Plus, smart insulin pens; Dose Check, an insulin dose guidance application; and growth hormone pens and injection needles.\n\nIt operates in Europe, Canada, the United States, Japan, Korea, Oceania, Southeast Asia, Mainland China, Hong Kong and Taiwan, Latin America, the Middle East, and Africa.\n\nNovo Nordisk A/S was founded in 1923 and is headquartered in Bagsvaerd, Denmark.",
+            "description": "Novo Nordisk A/S, together with its subsidiaries, engages in the research and development, manufacture, and distribution of pharmaceutical products.\n\nIt operates through two segments, Obesity and Diabetes Care, and Rare Disease.\n\nThe Obesity and Diabetes care segment provides products for diabetes, obesity, cardiovascular, and other emerging therapy areas.\n\nThe Rare Disease segment offers products in the areas of rare blood disorders, rare endocrine disorders, and hormone replacement therapy.\n\nThe company also provides NovoPen 6 and NovoPen Echo Plus, smart insulin pens; Dose Check, an insulin dose guidance application; growth hormone pens and injection needles; and Wegovy pill an oral glucagon-like peptide-1 (GLP-1) receptor agonist therapy for weight management.\n\nIt operates in Europe, Canada, the United States, Japan, Korea, Oceania, Southeast Asia, Mainland China, Hong Kong and Taiwan, Latin America, the Middle East, and Africa.\n\nNovo Nordisk A/S was founded in 1923 and is headquartered in Bagsvaerd, Denmark.",
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.60949,
-            "marketCap": 190132387840,
+            "change": -1.7472336,
+            "marketCap": 186809942016,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.801937
+            "yearTarget": 46.716297
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,66 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk launches Wegovy pill in UAE, its first global market",
+                "summary": "A launch in the United Arab Emirates comes as Novo works to recover ground in the weight loss drug market against rival Eli Lilly",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/novo-nordisk-wegovy-pill-uae-launch-060326",
+                "publishDate": "2026-06-03T13:19:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "5 Stocks Set to Cash in on The Next 90-Million Customer Industry. (It\u2019s Not AI)",
+                "summary": "Wells Fargo\u2019s chief agriculture economist Dr. Michael Swanson told Bloomberg Businessweek on May 29 that GLP-1 weight-loss drugs (Ozempic, Wegovy, Mounjaro, Zepbound) will eventually match statins at roughly 90 million prescriptions, calling the trend \u201chere to stay\u201d because it\u2019s prescribed, not faddish. So this is the next 90-million-customer industry, sitting in plain sight while everyone ... 5 Stocks Set to Cash in on The Next 90-Million Customer Industry. (It\u2019s Not AI)",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/03/5-stocks-set-to-cash-in-on-the-next-90-million-customer-industry-its-not-ai/",
+                "publishDate": "2026-06-03T12:38:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Bull vs. Bear: The Quick Take on Viking Therapeutics Stock",
+                "summary": "The pharmaceutical company's most promising drug candidate has some potential advantages over its rivals.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/03/bull-vs-bear-the-quick-take-on-viking-therapeutics/",
+                "publishDate": "2026-06-03T11:09:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Expands Wegovy Rollout with Launch of Weight-Loss Pill in UAE (NVO)",
+                "summary": "Novo Nordisk (NYSE:NVO) has introduced the tablet form of its blockbuster obesity treatment Wegovy in the United Arab Emirates, marking the second country worldwide to receive the oral version of the medication. The launch follows regulatory approval granted earlier this week by health authorities in the UAE and comes several months after the Danish pharmaceutical group debuted the product in the United States.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/29632/novo-nordisk-expands-wegovy-rollout-with-launch-of-weight-loss-pill-in-uae-nvo",
+                "publishDate": "2026-06-03T10:21:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Expands Wegovy Pill Reach And Builds Global Obesity Care Model",
+                "summary": "Novo Nordisk (CPSE:NOVO B) has launched the Wegovy pill in the UAE, the first country outside the U.S. to offer this oral obesity treatment. Regulators in the EU have issued positive opinions recommending approval of both the Wegovy pill and a higher dose injectable formulation. The company is expanding obesity care access through partnerships, including a collaboration with NOVI Health in Singapore. Novo Nordisk, through CPSE:NOVO B, is a major player in obesity and diabetes care, and...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-expands-wegovy-pill-100749184.html",
+                "publishDate": "2026-06-03T10:07:49Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Is Novo Nordisk Stock Climbing Premarket Today?",
+                "summary": "The UAE launch marks the start of Novo's global rollout, with additional launches planned later this year.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/why-is-novo-nordisk-stock-climbing-premarket-today/cZ0SCUBRex5",
+                "publishDate": "2026-06-03T08:40:54Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Viking Therapeutics' Q3 Catalyst That Could Turn Eli Lilly's and Novo Nordisk's Daily Weight Loss Pill Strategy Upside Down",
                 "summary": "An upcoming trial result could change how investors think about the weight-loss drug market.",
@@ -70,66 +130,6 @@
                 "publishDate": "2026-06-01T10:25:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "5 Best Growth Stocks for the Next 10 Years",
-                "summary": "These 5 long-term growth stocks could benefit from AI, cybersecurity, GLP-1 drugs, and fintech trends over the next decade",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/originals/5-best-growth-stocks-for-the-next-10-years/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-31T11:45:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Lilly's New Drug Just Delivered the Largest Weight Loss Ever Seen in a Clinical Trial -- Here's What It Means for Investors",
-                "summary": "Eli Lilly is working on a new GLP-1 drug, and early results suggest it could be a big winner.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/30/lillys-new-drug-just-delivered-the-largest-weight/",
-                "publishDate": "2026-05-30T12:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "CVS Decision Tests Novo Nordisk Wegovy Edge And Valuation Story",
-                "summary": "CVS Caremark has granted preferred formulary status to both Novo Nordisk's Wegovy and Eli Lilly's Zepbound and Foundayo. This decision reverses Wegovy's prior commercial advantage within CVS Caremark's GLP-1 obesity drug coverage. The change affects access and competitive positioning for GLP-1 obesity therapies in CVS Caremark's network. Novo Nordisk, listed as CPSE:NOVO B, is a key player in GLP-1 based therapies, with Wegovy at the center of its obesity drug portfolio. CVS Caremark's move...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/cvs-decision-tests-novo-nordisk-110621754.html",
-                "publishDate": "2026-05-30T11:06:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Stock Split Watch: Is Eli Lilly Next?",
-                "summary": "Lilly has split its stock in the past.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/30/stock-split-watch-is-eli-lilly-next/",
-                "publishDate": "2026-05-30T08:10:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly (LLY): Top Healthcare Stock Pick of Claude AI",
-                "summary": "We just covered the Claude Stock Portfolio: Top 10 Stocks to Buy According to AI Chatbot. Eli Lilly and Company (NYSE:LLY) ranks #2 (see Claude Stock Portfolio: Top 5 Stocks to Buy According to AI Chatbot). Number of Hedge Funds: 137 Eli Lilly and Company (NYSE:LLY) is among the top stock picks of the Claude [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lilly-lly-top-healthcare-200844274.html",
-                "publishDate": "2026-05-29T20:08:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "LLY Stock Gains 4% to All-Time High: Is Obesity Access the Catalyst?",
-                "summary": "Eli Lilly hits a record high after CVS expands coverage for Foundayo and Zepbound, boosting obesity drug access and raising the stakes in its rivalry with NVO.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lly-stock-gains-4-time-144900164.html",
-                "publishDate": "2026-05-29T14:49:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.82,
+        "price": 1.81,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2472,
-            "marketCap": 170903984,
+            "change": -0.54945654,
+            "marketCap": 169964944,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "How The Hayward Holdings (HAYW) Investment Story Is Evolving Without New Analyst Guidance",
-                "summary": "Hayward Holdings has seen no changes to its quoted price targets, which leaves you working with the same headline expectations the market was using previously. With no fresh analyst commentary reshaping the story, the existing views on the stock remain the reference point for now. In the sections that follow, you will see practical ways to track how this narrative evolves and what to watch when new updates eventually arrive. Wall Street's queuing for one rocket. While SpaceX counts down to...",
-                "source": "Simply Wall St.",
+                "title": "SpaceX Is About to IPO. History Says a 55% Stock Drop Could Be Coming Next.",
+                "summary": "While SpaceX\u2019s anticipated public debut has Wall Street salivating over what could be the most consequential IPO in a decade, the historical record offers a sobering warning. The company filed its S-1 in May, outlining three business segments: Space (Falcon and Starship launch services), Connectivity (the Starlink broadband network), and AI (X and Grok subscriptions). ... SpaceX Is About to IPO. History Says a 55% Stock Drop Could Be Coming Next.",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/hayward-holdings-hayw-investment-story-031134014.html",
-                "publishDate": "2026-06-03T03:11:34Z",
+                "url": "https://247wallst.com/investing/2026/06/03/spacex-is-about-to-ipo-history-says-a-55-stock-drop-could-be-coming-next/",
+                "publishDate": "2026-06-03T14:54:21Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "How The Equinix (EQIX) Investment Story Is Shifting With New Targets And AI Demand",
-                "summary": "Recent analyst work on Equinix has centered on fresh price targets around and above US$1,100, with some bullish cases moving targets by more than US$200 per share. Those higher targets sit alongside a more cautious tone from others who worry the stock\u2019s rally already bakes in optimistic growth and execution assumptions. As you read on, you will see how to track these shifting views and what they might mean for your own understanding of the Equinix story. Wall Street's queuing for one rocket...",
-                "source": "Simply Wall St.",
+                "title": "Goldman Sachs CEO David Solomon Thinks There's Enough \"Greed\" to Absorb the SpaceX, OpenAI, and Anthropic IPOs",
+                "summary": "Goldman Sachs stands to benefit from a big IPO push, so it's not shocking that its CEO is upbeat about investor demand for now.",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/equinix-eqix-investment-story-shifting-030937495.html",
-                "publishDate": "2026-06-03T03:09:37Z",
+                "url": "https://www.fool.com/investing/2026/06/03/goldman-sachs-ceo-david-solomon-thinks-theres-enough-greed-to-absorb-the-spacex-openai-and-anthropic-ipos/",
+                "publishDate": "2026-06-03T14:42:46Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Wedbush's Ives on AI Rally, SpaceX IPO",
-                "summary": "Dan Ives, Global Head of Technology Research at Wedbush Securities, discusses the revival of the AI trade and looks ahead to the listings of OpenAI, Anthropic and SpaceX. He speaks with Haidi Stroud-Watts and Paul Allen on Bloomberg: The Asia Trade.",
-                "source": "Bloomberg",
+                "title": "Here Are The Latest Odds That Elon Musk Will Merge Tesla And SpaceX",
+                "summary": "Multiple analysts believe a merger between Tesla and SpaceX will happen eventually. Tesla stock was up on Wednesday morning.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/video/wedbushs-ives-ai-rally-spacex-024423187.html",
-                "publishDate": "2026-06-03T02:44:23Z",
+                "url": "https://www.investors.com/news/tesla-spacex-merger-elon-musk-odds/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-03T14:37:22Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Seeks $135 a Share for $75 Billion IPO, Reuters Says",
-                "summary": "(Bloomberg) -- SpaceX aims to sell 555.6 million shares \u200bat $135 apiece for its record-breaking $75 \u200bbillion \u2060initial public \u200boffering, Reuters reported, citing an unidentified person familiar with the matter. Most Read from BloombergRussia Finance Officials Tell Putin War Spending Is UnaffordableTrump to Get Audit Immunity as $1.8 Billion Fund in DoubtCanada Dips Into Technical Recession for First Time Since 2020SpaceX Staffers Prep for Multimillion-Dollar Windfalls by Pushing for VIP TermsAndr",
+                "title": "UFO Turned a Forgotten Thesis Into 165% Returns While the S&P Gained 11%",
+                "summary": "$10,000 parked in the Procure Space ETF (NYSEARCA:UFO) on May 29, 2025 at $24.64 was worth roughly $26,500 twelve months later, and most of that move happened in the last four months. UFO closed last Friday at $65.31, up 69% year to date and 165% over the trailing year. The SPDR S&P 500 ETF Trust ... UFO Turned a Forgotten Thesis Into 165% Returns While the S&P Gained 11%",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/03/ufo-turned-a-forgotten-thesis-into-165-returns-while-the-sp-gained-11/",
+                "publishDate": "2026-06-03T14:30:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Target Valuation Lowered Again. Why That\u2019s a Red Flag for the Stock Market.",
+                "summary": "SpaceX is targeting a $1.75 trillion valuation in an IPO next week, according to The Wall Street Journal.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-stock-valuation-lowered-33633e8a?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-03T14:23:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Intuitive Machines Is Selling Stock. It\u2019s Another Warning Sign for Space Investors.",
+                "summary": "Intuitive Machines  is using the stock market\u2019s recent strength to raise needed capital.  On Wednesday, the maker of lunar landers and other space technology announced plans to sell $5oo million in stock.  Coming into Wednesday trading, Intuitive Machines stock had surged 54% over the past month.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/intuitive-machines-stock-space-companies-be5f0f57?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-03T14:19:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX will disrupt $1.6 trillion US communications industry, Oppenheimer says",
+                "summary": "SpaceX will disrupt the $1.6 trillion U.S. communications industry as the Elon Musk-led company's \u200csatellite broadband unit Starlink expands, Oppenheimer said in a \u200cnote on Wednesday, adding that legacy broadband providers like AT&T may be most \u200bat risk.  \u2022 Oppenheimer said companies such as AT&T, Verizon Communications and T-Mobile could see \u2060faster declines in subscribers and revenue going forward.  \u2022 Oppenheimer \u200braised its 2030 estimates for \u200bU.S. broadband subscribers to \u200c15 million from 10 million earlier.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-disrupt-1-6-trillion-141640758.html",
+                "publishDate": "2026-06-03T14:16:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Vanguard fund becomes first ETF to top $1tn in assets",
+                "summary": "Vanguard\u2019s S&P 500 tracker has become the first exchange traded fund to reach $1tn in assets, in a sign of the weight of passive money that stands...",
+                "source": "Financial Times",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/vanguard-fund-becomes-first-etf-135736000.html",
+                "publishDate": "2026-06-03T13:57:36Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Said to Target $75 Billion in IPO at $135 Per Share",
+                "summary": "(Bloomberg) -- SpaceX is planning to offer shares \u200bat $135 apiece to raise $75 \u200bbillion in its \u2060initial public \u200boffering, according to people familiar with the matter, as Elon Musk rejects another Wall Street convention by setting a fixed price ahead of the marketing phase of the deal.Most Read from BloombergTrump Begins Rebuilding His Tariff Wall, Citing Forced LaborRussia Finance Officials Tell Putin War Spending Is UnaffordableTrump to Get Audit Immunity as $1.8 Billion Fund in DoubtTikTok Bi",
                 "source": "Bloomberg",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-seeks-135-share-75-015553054.html",
-                "publishDate": "2026-06-03T01:55:53Z",
+                "publishDate": "2026-06-03T13:42:39Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Will SpaceX IPO make Elon Musk a trillionaire?",
-                "summary": "He is already the richest man in the world, but when SpaceX finally makes its hotly anticipated stock market debut, Elon Musk could become the planet's first trillionaire.Robinson said Musk could take on an \"aura of God\" for some people should he become the world's first trillionaire -- but might develop a bit of a god complex himself as a result.",
-                "source": "AFP",
+                "title": "SpaceX IPO Could Trigger $30 Trillion Worth Of 401(k), Retirement Money To Buy SPCX As Dan Ives Predicts Tesla Merger In 2027",
+                "summary": "Elon Musk-led SpaceX\u2018s upcoming IPO could trigger retirement funds, including 401 (k) accounts, worth trillions to invest in the commercial space flight giant following its June public listing. $30 Trillion Worth Of Retirement Funds In a post on X on...",
+                "source": "Benzinga",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-elon-musk-trillionaire-013720475.html",
-                "publishDate": "2026-06-03T01:37:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Before SpaceX goes public, a scramble to get on bandwagon",
-                "summary": "As SpaceX prepares its long-awaited stock market debut, investors everywhere are scrambling to get a piece of the action -- through investment funds, related company stocks, and even online prediction markets.\n\"$14 billion has poured into SpaceX linked funds since Musk confirmed the IPO...Another option is exchange-traded funds, or ETFs -- investment vehicles that anyone can buy on the stock market.",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-goes-public-scramble-bandwagon-012521965.html",
-                "publishDate": "2026-06-03T01:25:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why AST SpaceMobile Stock Zoomed 53.5% Higher Last Month",
-                "summary": "The satellite internet provider is seeing a boost ahead of the SpaceX IPO.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/02/why-ast-spacemobile-stock-zoomed-535-higher-last-m/",
-                "publishDate": "2026-06-03T01:12:24Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Plans To Sell 555.6 Million Shares At $135",
-                "summary": "SpaceX IPO: Elon Musk's company plans to sell 556.6 million shares at $135 in its initial public offering, raising $75 billion, Reuters reported late Tuesday.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-ipo-sell-555-6-million-shares-135/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-03T00:53:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Exclusive-SpaceX plans to set IPO price at $135 per share, targeting $75 billion raise, source says",
-                "summary": "In a surprise move ahead of its investor roadshow, Elon Musk's SpaceX plans to fix its IPO price at $135 per share to raise a record-setting $75 billion, according to a source familiar with the matter.  The rocket and satellite communications company plans to sell 555.6 million shares, the source said.  The listing leads a wave of high-profile private companies preparing to test public markets after years of muted large-cap IPO activity, with SpaceX \u200cexpected to be followed by artificial intelligence giants OpenAI and Anthropic.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-spacex-plans-raise-75-002646159.html",
-                "publishDate": "2026-06-03T00:26:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Experts Believe \"SpaceX's IPO Is a Bet Gravity Doesn't Apply to Elon Musk.\" Here's the Truth.",
-                "summary": "Experts are worried about SpaceX's sky-high valuation.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/02/experts-believe-spacexs-ipo-is-a-bet-gravity-doesn/",
-                "publishDate": "2026-06-03T00:25:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-could-trigger-30-133040594.html",
+                "publishDate": "2026-06-03T13:30:40Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.25,
+        "price": 28.6,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.88759,
-            "marketCap": 20319389696,
+            "change": 1.2389394,
+            "marketCap": 20571133952,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.81,
+        "price": 29.56,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.0335353,
-            "marketCap": 6185308672,
+            "change": -0.83864474,
+            "marketCap": 6133435904,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Yum! Brands upgraded, Chipotle downgraded: Wall Street's top analyst calls",
+                "summary": "Yum! Brands upgraded, Chipotle downgraded: Wall Street's top analyst calls",
+                "source": "The Fly",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-upgraded-chipotle-downgraded-135544251.html",
+                "publishDate": "2026-06-03T13:55:44Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "A Look At SSR Mining\u2019s Valuation As It Considers A US$1.5b Copler Mine Sale",
                 "summary": "SSR Mining (TSX:SSRM) is reportedly preparing to sell its Copler mine in T\u00fcrkiye for about US$1.5b in cash. The transaction would reshape its asset mix and free up meaningful capital. See our latest analysis for SSR Mining. The potential sale news comes after a strong run in SSR Mining\u2019s share price, with a year to date share price return of 45.72% and a 1 year total shareholder return of 165.17%. However, the 90 day share price return slipped 1.37%, which suggests recent momentum has cooled...",
@@ -697,16 +707,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/cibc-revises-earnings-estimate-ssr-155529436.html",
                 "publishDate": "2026-05-20T15:55:29Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Why SSR Mining (SSRM) is a Top Value Stock for the Long-Term",
-                "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/why-ssr-mining-ssrm-top-134005734.html",
-                "publishDate": "2026-05-20T13:40:05Z",
-                "premium": false,
                 "freemium": false
             }
         ],
