@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.94,
+        "price": 42.085,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2833169,
-            "marketCap": 185791070208,
+            "change": -1.945478,
+            "marketCap": 186433404928,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.672863
+            "yearTarget": 46.682137
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "This Space Stock Crashed Over 15% Today \u2013 Retail Says Intuitive Machines Is Going Through \u2018An Impressive Run Of Bad Luck\u2019",
+                "summary": "The company stated in an SEC filing that it intends to use the net proceeds from the stock offering to purchase common units from its operating company, for a total of $500 million.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/this-space-stock-crashed-over-15-today-retail-says-intuitive-machines-is-going-through-an-impressive-run-of-bad-luck/cZ0jQhMReU7",
+                "publishDate": "2026-06-03T17:05:16Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Top Midday Stories: Alphabet Upsizes Equity Capital Raise to $84.75 Billion; SpaceX Planning $135 a Share IPO",
                 "summary": "All three major US stock indexes were down late-morning Wednesday, as oil prices and US Treasury yie",
                 "source": "MT Newswires",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-03T14:23:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Intuitive Machines Is Selling Stock. It\u2019s Another Warning Sign for Space Investors.",
-                "summary": "Intuitive Machines  is using the stock market\u2019s recent strength to raise needed capital.  On Wednesday, the maker of lunar landers and other space technology announced plans to sell $5oo million in stock.  Coming into Wednesday trading, Intuitive Machines stock had surged 54% over the past month.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/intuitive-machines-stock-space-companies-be5f0f57?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-03T14:19:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.495,
+        "price": 28.435,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8672596,
-            "marketCap": 20495609856,
+            "change": 0.6548654,
+            "marketCap": 20452454400,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.015,
+        "price": 29.03,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6668906,
-            "marketCap": 6020353536,
+            "change": -2.6183243,
+            "marketCap": 6023465984,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Boyd Gaming, Chipotle Mexican Grill, Conagra, Dollar General, MGM Resorts International, Omnicom Group, Yum! Brands, and More",
+                "summary": "Mid-Day Stocks: Stocks are trading lower on Wednesday, as oil and yields move higher. Once again, it was \u201cWelcome back, my friends to the show that never ends.\u201d On cue, the never-say-die stock market shook off early worries and all the major indices closed higher on Tuesday. Like the proverbial broken record, the S&P 500 ... Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Boyd Gaming, Chipotle Mexican Grill, Conagra, Dollar General, MGM Resorts International, Omnicom Group, Yum! Bra",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/03/here-are-wednesdays-top-wall-street-analyst-research-calls-boyd-gaming-chipotle-mexican-grill-conagra-dollar-general-mgm-resorts-international-omnicom-group-yum-brands-and-more/",
+                "publishDate": "2026-06-03T17:08:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Yum! Brands upgraded, Chipotle downgraded: Wall Street's top analyst calls",
                 "summary": "Yum! Brands upgraded, Chipotle downgraded: Wall Street's top analyst calls",
@@ -697,16 +707,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-reduces-cost-exposure-172500622.html",
                 "publishDate": "2026-05-22T17:25:00Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "CIBC Revises Earnings Estimate for SSR Mining After Hod Maden Stake Sale",
-                "summary": "CIBC Capital Markets on Tuesday revised its 2027 adjusted earnings estimate for SSR Mining (SSRM.TO,",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/cibc-revises-earnings-estimate-ssr-155529436.html",
-                "publishDate": "2026-05-20T15:55:29Z",
-                "premium": true,
                 "freemium": false
             }
         ],
