@@ -20,7 +20,7 @@
             "marketCap": 186056867840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.68272
+            "yearTarget": 46.680836
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,22 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "What's justifying SpaceX's $2T valuation target ahead of IPO?",
-                "summary": "According to Reuters, SpaceX (SPAX.PVT) is gunning for an IPO date of Friday, June 12, with hopes to begin trading on the Nasdaq at $135 per share. This could launch the value of Elon Musk's private space operator to $2 trillion. Yahoo Finance Senior Reporter Pras Subramanian lays out the most valuable segments of the space company that Wall Street is watching.",
-                "source": "Yahoo Finance Video",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/whats-justifying-spacexs-2t-valuation-201500982.html",
-                "publishDate": "2026-06-03T20:15:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "SpaceX IPO: How to buy before June 12",
                 "summary": "If reports are accurate, SpaceX will price its monster IPO the night of June 11, with trading beginning as early as Friday, June 12.",
                 "source": "Yahoo Finance",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-how-to-buy-before-june-12-140548493.html",
                 "publishDate": "2026-04-07T14:05:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX, Anthropic may change rules of IPO market, expert says",
+                "summary": "<body><p>STORY: In a surprise move ahead of its investor roadshow, Elon Musk's SpaceX plans to fix its IPO price at $135 \u200cper share to raise a record-setting $75 billion, according to a source familiar with the matter.</p><p>The rocket and satellite communications company plans to sell 555.6 million shares, the source said. It is aiming for a valuation of $1.75 trillion, two other people said.</p><p>\"We've had a very dead IPO market for a while, so there hasn't been a regular flow to be looking at how markets look at this, how institutional investors look at it,\" Miller said.</p></body>",
+                "source": "Reuters Videos",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/spacex-anthropic-may-change-rules-204023815.html",
+                "publishDate": "2026-06-03T20:40:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Should You Forget the $2 Trillion SpaceX IPO and Buy This $7 Space Stock Instead?",
+                "summary": "SpaceX is gearing up for what could be the largest IPO in history later this month.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/03/should-you-forget-the-2-trillion-spacex-ipo-and-bu/",
+                "publishDate": "2026-06-03T20:35:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -409,16 +419,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-said-pick-morgan-stanley-175802678.html",
                 "publishDate": "2026-06-03T17:58:02Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Tech Stocks Mixed Wednesday Afternoon",
-                "summary": "Tech stocks were mixed Wednesday afternoon, with the State Street Technology Select Sector SPDR ETF",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-wednesday-175209234.html",
-                "publishDate": "2026-06-03T17:52:09Z",
-                "premium": true,
                 "freemium": false
             }
         ],
