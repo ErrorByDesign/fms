@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.155,
+        "price": 42.1701,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7823845,
-            "marketCap": 186743504896,
+            "change": -1.7471972,
+            "marketCap": 186810400768,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.679314
+            "yearTarget": 46.68004
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Here's What I Think Is Really Going on With Novo Nordisk Stock",
+                "summary": "There is light at the end of the tunnel.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/03/heres-what-i-think-is-really-going-on-with-novo-no/",
+                "publishDate": "2026-06-03T19:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk is taking its Wegovy pill beyond the U.S.",
                 "summary": "Novo Brings Oral Obesity Drug To UAE Patients",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.marketbeat.com/originals/eli-lilly-wins-back-cvs-health-reverting-novos-advantage/?utm_source=yahoofinance&utm_medium=yahoofinance",
                 "publishDate": "2026-06-02T15:15:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Viking Therapeutics' Q3 Catalyst That Could Turn Eli Lilly's and Novo Nordisk's Daily Weight Loss Pill Strategy Upside Down",
-                "summary": "An upcoming trial result could change how investors think about the weight-loss drug market.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/02/viking-therapeutics-q3-catalyst-turn-eli-lilly/",
-                "publishDate": "2026-06-02T15:08:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX Targets $75 Billion IPO at Up to $1.8 Trillion Valuation",
+                "summary": "SpaceX plans 555.6 million share sale as investors watch the largest IPO push on record.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-targets-75-billion-ipo-190542990.html",
+                "publishDate": "2026-06-03T19:05:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Are You Waiting for the SpaceX IPO? Check Out These 3 Space Stocks Instead.",
                 "summary": "AST SpaceMobile, Intuitive Machines, and Rocket Lab are among the most promising space stocks right now.",
                 "source": "Motley Fool",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-03T17:12:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "This Space Stock Crashed Over 15% Today \u2013 Retail Says Intuitive Machines Is Going Through \u2018An Impressive Run Of Bad Luck\u2019",
-                "summary": "The company stated in an SEC filing that it intends to use the net proceeds from the stock offering to purchase common units from its operating company, for a total of $500 million.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/this-space-stock-crashed-over-15-today-retail-says-intuitive-machines-is-going-through-an-impressive-run-of-bad-luck/cZ0jQhMReU7",
-                "publishDate": "2026-06-03T17:05:16Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.575,
+        "price": 28.525,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1504452,
-            "marketCap": 20553152512,
+            "change": 0.97345,
+            "marketCap": 20517187584,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.2,
+        "price": 29.21,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.046289,
-            "marketCap": 6058739712,
+            "change": -2.0127487,
+            "marketCap": 6060813824,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
