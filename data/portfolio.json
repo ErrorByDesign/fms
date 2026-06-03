@@ -20,7 +20,7 @@
             "marketCap": 190132387840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.817894
+            "yearTarget": 46.793343
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2471957,
+            "change": 2.2472,
             "marketCap": 170903984,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "Why Planet Labs (PL) Stock Is Up Today",
-                "summary": "Shares of earth imaging satellite company Planet Labs (NYSE:PL) jumped 6.3% in the afternoon session after the company announced it had shipped its Pelican-11 tech demonstration satellite to its launch site, coupled with broader investor enthusiasm for the space sector.",
-                "source": "StockStory",
+                "title": "SpaceX Seeks $135 a Share for $75 Billion IPO, Reuters Says",
+                "summary": "(Bloomberg) -- SpaceX aims to sell 555.6 million shares \u200bat $135 apiece for its record-breaking $75 \u200bbillion \u2060initial public \u200boffering, Reuters reported, citing an unidentified person familiar with the matter. Most Read from BloombergRussia Finance Officials Tell Putin War Spending Is UnaffordableTrump to Get Audit Immunity as $1.8 Billion Fund in DoubtCanada Dips Into Technical Recession for First Time Since 2020SpaceX Staffers Prep for Multimillion-Dollar Windfalls by Pushing for VIP TermsAndr",
+                "source": "Bloomberg",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/why-planet-labs-pl-stock-205323337.html",
-                "publishDate": "2026-06-02T20:53:23Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-seeks-135-share-75-015553054.html",
+                "publishDate": "2026-06-03T01:55:53Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Halo, Virgin Galactic Reality: Behind a 39% Stock Crash.",
-                "summary": "Space stocks have been all the rage ahead of SpaceX\u2019s massive initial public offering.  Virgin Galactic  however, just lost some major altitude.  Shares of the space tourism pioneer dived 39% in Tuesday trading, closing at $4.59.",
-                "source": "Barrons.com",
+                "title": "Will SpaceX IPO make Elon Musk a trillionaire?",
+                "summary": "He is already the richest man in the world, but when SpaceX finally makes its hotly anticipated stock market debut, Elon Musk could become the planet's first trillionaire.Robinson said Musk could take on an \"aura of God\" for some people should he become the world's first trillionaire -- but might develop a bit of a god complex himself as a result.",
+                "source": "AFP",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T20:44:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-elon-musk-trillionaire-013720475.html",
+                "publishDate": "2026-06-03T01:37:20Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Goldman CEO David Solomon says markets are in greed mode",
-                "summary": "David Solomon said ample liquidity could support trillion-dollar listings from OpenAI, Anthropic, and SpaceX",
-                "source": "Quartz",
+                "title": "Before SpaceX goes public, a scramble to get on bandwagon",
+                "summary": "As SpaceX prepares its long-awaited stock market debut, investors everywhere are scrambling to get a piece of the action -- through investment funds, related company stocks, and even online prediction markets.\n\"$14 billion has poured into SpaceX linked funds since Musk confirmed the IPO...Another option is exchange-traded funds, or ETFs -- investment vehicles that anyone can buy on the stock market.",
+                "source": "AFP",
                 "category": "finance",
-                "url": "https://qz.com/goldman-sachs-david-solomon-greed-markets-ai-ipos-060226",
-                "publishDate": "2026-06-02T20:37:31Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-goes-public-scramble-bandwagon-012521965.html",
+                "publishDate": "2026-06-03T01:25:21Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Blue Origin To Fly Again This Year, CEO Says. Space Stocks Jump On NASA Update.",
-                "summary": "Blue Origin should fly again in 2026 after New Glenn explosion. Space stocks jump on NASA commercial station plans.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/blue-origin-new-glenn-update-nasa-commercial-space-station-iss-spacex-space-stocks-voyager-voyg-space-force/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-02T20:36:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO is coming. Could it push Elon Musk past $1 trillion?",
-                "summary": "SpaceX\u2019s IPO could be one of the biggest ever. Here\u2019s what to know about timing, valuation and what it means for Elon Musk.",
-                "source": "The Tennessean",
-                "category": "finance",
-                "url": "https://www.commercialappeal.com/story/money/business/2026/06/02/spacex-ipo-launch-date-valuation-elon-musk/90368607007/",
-                "publishDate": "2026-06-02T20:23:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Is Whipping Space Stocks Into a Frenzy",
-                "summary": "Investors can expect volatility heading into the SpaceX IPO and after shares of Elon Musk\u2019s rocket company start trading.  Shares of Rocket Lab, AST,  Intuitive Machines Firefly Aerospace  and  Redwire  dropped an average of 11%.  A Jefferies downgrade of Redwire to Hold from Buy seemed to catalyze profit-taking.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/space-stock-spacex-ipo-rocketlab-ast-28e16929?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T20:23:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "NASA ETF attracts $2.6B amid SpaceX IPO frenzy",
-                "summary": "Space has become the hottest trade on Wall Street, and one ETF is gaining massive traction. Retail investors are rushing to get a piece of SpaceX before it goes public. Some are buying the stock directly through brokerage platforms, while others are turning to a fund that already owns it. The ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/investing/etfs/nasa-etf-attracts-2-6b-amid-spacex-ipo-frenzy",
-                "publishDate": "2026-06-02T20:23:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Tesla\u2019s IPO Was One of the Greatest Ever. Why SpaceX Can\u2019t Hope to Repeat Its Success.",
-                "summary": "Tesla  stock bounced on Tuesday as CEO Elon Musk reminded investors about where his EV company started and how far it\u2019s come.  Don\u2019t expect SpaceX to follow the same trajectory even as Musk tries to justify SpaceX\u2019s valuation.  The move came after Musk tweeted that Tesla\u2019s IPO market cap was only 0.1% of its current market cap.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-tesla-stock-price-012631fc?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T20:17:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Eyeing Roughly $1.75 Trillion Valuation in IPO Next Week",
-                "summary": "Banks are in line to make hundreds of millions of dollars from the offering; JPM has an additional role as party planner.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/finance/banking/spacex-eyeing-roughly-1-75-trillion-valuation-in-ipo-next-week-57066029?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-02T20:11:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Redwire Stock Shot Up 168% In May",
-                "summary": "Space stocks are gaining momentum ahead of the SpaceX IPO.",
+                "title": "Why AST SpaceMobile Stock Zoomed 53.5% Higher Last Month",
+                "summary": "The satellite internet provider is seeing a boost ahead of the SpaceX IPO.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/02/why-redwire-stock-shot-up-168-in-may/",
-                "publishDate": "2026-06-02T19:35:53Z",
+                "url": "https://www.fool.com/investing/2026/06/02/why-ast-spacemobile-stock-zoomed-535-higher-last-m/",
+                "publishDate": "2026-06-03T01:12:24Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Plans To Sell 555.6 Million Shares At $135",
+                "summary": "SpaceX IPO: Elon Musk's company plans to sell 556.6 million shares at $135 in its initial public offering, raising $75 billion, Reuters reported late Tuesday.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/spacex-ipo-sell-555-6-million-shares-135/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-03T00:53:52Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Exclusive-SpaceX plans to price record-setting IPO at $135 per share, source says",
+                "summary": "Elon Musk's SpaceX plans to price its initial public offering at $135 per share, selling 555.6 million shares to raise $75 billion in the largest IPO \u200cever, a source familiar with the matter told Reuters.  Reuters reported earlier on Tuesday that the rocket \u200cand satellite communications company hoped to raise at least $75 billion, at a valuation of $1.75 trillion.  The listing leads a wave of high-profile private companies \u200bpreparing to test public markets after years of muted large-cap IPO activity, with SpaceX widely viewed as one of the most consequential offerings in recent history alongside artificial intelligence giants OpenAI and Anthropic.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/exclusive-spacex-plans-raise-75-002646159.html",
+                "publishDate": "2026-06-03T00:26:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Experts Believe \"SpaceX's IPO Is a Bet Gravity Doesn't Apply to Elon Musk.\" Here's the Truth.",
+                "summary": "Experts are worried about SpaceX's sky-high valuation.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/02/experts-believe-spacexs-ipo-is-a-bet-gravity-doesn/",
+                "publishDate": "2026-06-03T00:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "$3.6 Million an Hour\u2014and Other Ways to Measure Elon Musk\u2019s Fortune",
+                "summary": "Millions of houses, thousands of jets, every NFL and NBA team: Imagine the things a trillionaire could buy.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/tech/3-6-million-an-hourand-other-ways-to-measure-elon-musks-fortune-04e590a5?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-03T00:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic's IPO is Just Ahead. Here's What You Need to Know.",
+                "summary": "The AI company submitted a confidential filing this week.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/02/anthropics-ipo-is-just-ahead-heres-what-you-need-t/",
+                "publishDate": "2026-06-02T23:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Valuation Could Put Company in Top Seven by Market Cap",
+                "summary": "$1.75 trillion That is the valuation being considered by SpaceX in its blockbuster initial public offering planned for next week. That number could change a lot in coming days, but if it holds it would make Elon Musk\u2019s rocket maker the seventh-largest U.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-02-2026/card/spacex-valuation-could-put-company-in-top-seven-by-market-cap-4L5cPJB6wsFRIAlDaOWt?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-02T22:30:04Z",
                 "premium": false,
                 "freemium": false
             }
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.887591,
+            "change": -2.88759,
             "marketCap": 20319389696,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.03353531,
+            "change": -0.0335353,
             "marketCap": 6185308672,
             "weekLow": 11.67,
             "weekHigh": 36.52,
