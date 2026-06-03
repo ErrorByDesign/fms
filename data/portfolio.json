@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.125,
+        "price": 41.94,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8522792,
-            "marketCap": 186610614272,
+            "change": -2.2833169,
+            "marketCap": 185791070208,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.674675
+            "yearTarget": 46.672863
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.81,
+        "price": 1.77,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.54945654,
-            "marketCap": 169964944,
+            "change": -2.7472565,
+            "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,11 +322,11 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX IPO: How to buy before June 12th",
-                "summary": "If reports are accurate, SpaceX will price its monster IPO the night of June 11th, with trading beginning as early as Friday, June 12th.",
+                "title": "SpaceX IPO: How to buy before June 12",
+                "summary": "If reports are accurate, SpaceX will price its monster IPO the night of June 11, with trading beginning as early as Friday, June 12.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-how-to-buy-before-june-12th-140548440.html",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-how-to-buy-before-june-12-140548493.html",
                 "publishDate": "2026-04-07T14:05:48Z",
                 "premium": false,
                 "freemium": false
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.54,
+        "price": 28.495,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.026552,
-            "marketCap": 20527978496,
+            "change": 0.8672596,
+            "marketCap": 20495609856,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.25,
+        "price": 29.015,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8785625,
-            "marketCap": 6069113856,
+            "change": -2.6668906,
+            "marketCap": 6020353536,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
