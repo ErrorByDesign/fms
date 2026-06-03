@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.12,
+        "price": 42.0,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8639312,
-            "marketCap": 186588446720,
+            "change": -2.14352,
+            "marketCap": 186056867840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.67924
+            "yearTarget": 46.68272
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "ASML Becomes Europe's Most Valuable Stock Ever",
+                "summary": "The Dutch chipmaker eclipses Novo Nordisk's 2024 peak as AI infrastructure demand drives a 130% rally.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/asml-becomes-europes-most-valuable-201249967.html",
+                "publishDate": "2026-06-03T20:12:49Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Denmark GDP Forecast Raised to 3.7% as Exports Power Ahead",
+                "summary": "Danske Bank lifts Denmark outlook again as Novo Nordisk demand supports export growth.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/economy/articles/denmark-gdp-forecast-raised-3-201221283.html",
+                "publishDate": "2026-06-03T20:12:21Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Here's What I Think Is Really Going on With Novo Nordisk Stock",
                 "summary": "There is light at the end of the tunnel.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-06-03T10:07:49Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why Is Novo Nordisk Stock Climbing Premarket Today?",
-                "summary": "The UAE launch marks the start of Novo's global rollout, with additional launches planned later this year.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/why-is-novo-nordisk-stock-climbing-premarket-today/cZ0SCUBRex5",
-                "publishDate": "2026-06-03T08:40:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Wins Back CVS Health, Reverting Novo's Advantage",
-                "summary": "Eli Lilly and Company just secured a big win as it looks to expand GLP-1 access, mending its partnership with top pharmacy benefit manager CVS Health.",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/originals/eli-lilly-wins-back-cvs-health-reverting-novos-advantage/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-06-02T15:15:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.7899,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.653852,
-            "marketCap": 168077488,
+            "change": -3.2967064,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,32 @@
         },
         "NEWS": [
             {
+                "title": "What's justifying SpaceX's $2T valuation target ahead of IPO?",
+                "summary": "According to Reuters, SpaceX (SPAX.PVT) is gunning for an IPO date of Friday, June 12, with hopes to begin trading on the Nasdaq at $135 per share. This could launch the value of Elon Musk's private space operator to $2 trillion. Yahoo Finance Senior Reporter Pras Subramanian lays out the most valuable segments of the space company that Wall Street is watching.",
+                "source": "Yahoo Finance Video",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/whats-justifying-spacexs-2t-valuation-201500982.html",
+                "publishDate": "2026-06-03T20:15:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX IPO: How to buy before June 12",
                 "summary": "If reports are accurate, SpaceX will price its monster IPO the night of June 11, with trading beginning as early as Friday, June 12.",
                 "source": "Yahoo Finance",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-how-to-buy-before-june-12-140548493.html",
                 "publishDate": "2026-04-07T14:05:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "2 Artificial Intelligence (AI) Stocks Poised to Win Big From Anthropic's IPO",
+                "summary": "Anthropic has confidentially filed its S-1 with the Securities and Exchange Commission.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/03/2-artificial-intelligence-ai-stocks-poised-to-win/",
+                "publishDate": "2026-06-03T20:07:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -400,26 +420,6 @@
                 "publishDate": "2026-06-03T17:52:09Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX employees are banding together to get primo pricing for tax-saving advice as they prepare to make millions",
-                "summary": "A group representing billions in SpaceX stock is negotiating discounted access to elite financial advisers and tax strategies ahead of what could be the largest IPO in history.",
-                "source": "Moneywise",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-employees-banding-together-primo-174500501.html",
-                "publishDate": "2026-06-03T17:45:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Prediction: Eli Lilly Will Be Worth More Than SpaceX in 2 Years",
-                "summary": "SpaceX looks like a rocket, but don't fly too close to the sun. Here's why Eli Lilly is likely a better stock to own.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/prediction-eli-lilly-worth-more-spacex-stock/",
-                "publishDate": "2026-06-03T17:37:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.615,
+        "price": 28.7,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2920346,
-            "marketCap": 20581922816,
+            "change": 1.5929232,
+            "marketCap": 20643061760,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.16,
+        "price": 28.89,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.180475,
-            "marketCap": 6050439680,
+            "change": -3.086213,
+            "marketCap": 5994417152,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
