@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.1701,
+        "price": 42.12,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7471972,
-            "marketCap": 186810400768,
+            "change": -1.8639312,
+            "marketCap": 186588446720,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.68004
+            "yearTarget": 46.67924
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "UK lawmaker Jess Asato sues Elon Musk\u2019s xAI over deepfakes",
+                "summary": "Investing.com -- British lawmaker Jess Asato filed a lawsuit against Elon Musk's xAI on Wednesday, claiming the company's Grok AI platform was used to generate fake sexualized images of her.",
+                "source": "Investing.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/uk-lawmaker-jess-asato-sues-193620490.html",
+                "publishDate": "2026-06-03T19:36:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Eyes Record $75 Billion IPO",
+                "summary": "The offering could value Elon Musk's SpaceX at about $1.75 trillion.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-eyes-record-75-billion-193429381.html",
+                "publishDate": "2026-06-03T19:34:29Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Targets $75 Billion IPO at Up to $1.8 Trillion Valuation",
                 "summary": "SpaceX plans 555.6 million share sale as investors watch the largest IPO push on record.",
                 "source": "GuruFocus.com",
@@ -348,6 +368,16 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/03/are-you-waiting-for-the-spacex-ipo-check-out-these/",
                 "publishDate": "2026-06-03T18:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Halo, Virgin Galactic Reality: Behind a 39% Stock Crash.",
+                "summary": "Space stocks have been all the rage ahead of SpaceX\u2019s massive initial public offering.  Virgin Galactic  however, just lost some major altitude.  Shares of the space tourism pioneer dived 39% in Tuesday trading, closing at $4.59.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-03T18:03:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-06-03T17:37:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Priced Its IPO at $135, So Wall Street Cynics Can Go Kick Rocks",
-                "summary": "The traditional book-building process exists so Wall Street can tell you what your company is worth, but Elon would rather not know",
-                "source": "Moby",
-                "category": "finance",
-                "url": "https://app.moby.co/home/news/news-spacex-priced-its-ipo-at-135-so-wall-street-cynics-can-go-kick-rocks?utm_source=yahoo_finance&utm_medium=rss",
-                "publishDate": "2026-06-03T17:26:40Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "6 IPOs to Watch This Week Ahead of the SpaceX Main Event",
-                "summary": "Everyone is waiting for the SpaceX IPO. But don\u2019t sleep on big debuts from other unicorns, such as gas engine maker Innio and quantum computer firm Quantinuum.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/6-ipos-to-watch-this-week-ahead-spacex-f46496ef?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-03T17:19:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX\u2019s Target Valuation Lowered Again. Why That\u2019s a Red Flag for the Stock Market.",
-                "summary": "SpaceX is targeting a $1.75 trillion valuation in an IPO next week, according to The Wall Street Journal.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-stock-valuation-lowered-33633e8a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-03T17:12:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.525,
+        "price": 28.615,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.97345,
-            "marketCap": 20517187584,
+            "change": 1.2920346,
+            "marketCap": 20581922816,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.21,
+        "price": 29.16,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.0127487,
-            "marketCap": 6060813824,
+            "change": -2.180475,
+            "marketCap": 6050439680,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
