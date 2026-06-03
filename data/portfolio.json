@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.085,
+        "price": 42.175,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.945478,
-            "marketCap": 186433404928,
+            "change": -1.7357851,
+            "marketCap": 186832093184,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.682137
+            "yearTarget": 46.675694
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -342,6 +342,16 @@
                 "freemium": false
             },
             {
+                "title": "We Might Have Just Learned What SpaceX's IPO Price Will Be",
+                "summary": "Stock Offering Could Take Place as Soon as Next Week, According to Reports",
+                "source": "Investopedia",
+                "category": "finance",
+                "url": "https://www.investopedia.com/we-might-have-just-learned-what-spacex-ipo-price-will-be-stock-spcx-11989887",
+                "publishDate": "2026-06-03T16:28:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Top Midday Stories: Alphabet Upsizes Equity Capital Raise to $84.75 Billion; SpaceX Planning $135 a Share IPO",
                 "summary": "All three major US stock indexes were down late-morning Wednesday, as oil prices and US Treasury yie",
                 "source": "MT Newswires",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-03T14:30:33Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Target Valuation Lowered Again. Why That\u2019s a Red Flag for the Stock Market.",
-                "summary": "SpaceX is targeting a $1.75 trillion valuation in an IPO next week, according to The Wall Street Journal.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-stock-valuation-lowered-33633e8a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-03T14:23:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.435,
+        "price": 28.49,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6548654,
-            "marketCap": 20452454400,
+            "change": 0.8495567,
+            "marketCap": 20492013568,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.03,
+        "price": 29.09,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6183243,
-            "marketCap": 6023465984,
+            "change": -2.4152946,
+            "marketCap": 6035915264,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
