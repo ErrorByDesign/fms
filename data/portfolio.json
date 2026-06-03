@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.175,
+        "price": 42.18,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7357851,
-            "marketCap": 186832093184,
+            "change": -1.724133,
+            "marketCap": 186854260736,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.675694
+            "yearTarget": 46.66975
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.7899,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7472565,
-            "marketCap": 166208816,
+            "change": -1.6721352,
+            "marketCap": 168077488,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,92 +332,92 @@
                 "freemium": false
             },
             {
+                "title": "Are You Waiting for the SpaceX IPO? Check Out These 3 Space Stocks Instead.",
+                "summary": "AST SpaceMobile, Intuitive Machines, and Rocket Lab are among the most promising space stocks right now.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/03/are-you-waiting-for-the-spacex-ipo-check-out-these/",
+                "publishDate": "2026-06-03T18:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic said to pick Morgan Stanley and Goldman to lead IPO",
+                "summary": "Investing.com -- Anthropic PBC has selected banks to lead its initial public offering, according to a Bloomberg report Wednesday. The artificial intelligence company, which makes the Claude chatbot, has chosen Morgan Stanley and Goldman Sachs Group Inc. to lead the offering. JPMorgan Chase & Co. will also work on the deal, the report said.",
+                "source": "Investing.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-said-pick-morgan-stanley-175802678.html",
+                "publishDate": "2026-06-03T17:58:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sector Update: Tech Stocks Mixed Wednesday Afternoon",
+                "summary": "Tech stocks were mixed Wednesday afternoon, with the State Street Technology Select Sector SPDR ETF",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-mixed-wednesday-175209234.html",
+                "publishDate": "2026-06-03T17:52:09Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX employees are banding together to get primo pricing for tax-saving advice as they prepare to make millions",
+                "summary": "A group representing billions in SpaceX stock is negotiating discounted access to elite financial advisers and tax strategies ahead of what could be the largest IPO in history.",
+                "source": "Moneywise",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-employees-banding-together-primo-174500501.html",
+                "publishDate": "2026-06-03T17:45:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Prediction: Eli Lilly Will Be Worth More Than SpaceX in 2 Years",
+                "summary": "SpaceX looks like a rocket, but don't fly too close to the sun. Here's why Eli Lilly is likely a better stock to own.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/03/prediction-eli-lilly-worth-more-spacex-stock/",
+                "publishDate": "2026-06-03T17:37:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Priced Its IPO at $135, So Wall Street Cynics Can Go Kick Rocks",
+                "summary": "The traditional book-building process exists so Wall Street can tell you what your company is worth, but Elon would rather not know",
+                "source": "Moby",
+                "category": "finance",
+                "url": "https://app.moby.co/home/news/news-spacex-priced-its-ipo-at-135-so-wall-street-cynics-can-go-kick-rocks?utm_source=yahoo_finance&utm_medium=rss",
+                "publishDate": "2026-06-03T17:26:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "6 IPOs to Watch This Week Ahead of the SpaceX Main Event",
+                "summary": "Everyone is waiting for the SpaceX IPO. But don\u2019t sleep on big debuts from other unicorns, such as gas engine maker Innio and quantum computer firm Quantinuum.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/6-ipos-to-watch-this-week-ahead-spacex-f46496ef?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-03T17:19:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX\u2019s Target Valuation Lowered Again. Why That\u2019s a Red Flag for the Stock Market.",
+                "summary": "SpaceX is targeting a $1.75 trillion valuation in an IPO next week, according to The Wall Street Journal.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-stock-valuation-lowered-33633e8a?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-03T17:12:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "This Space Stock Crashed Over 15% Today \u2013 Retail Says Intuitive Machines Is Going Through \u2018An Impressive Run Of Bad Luck\u2019",
                 "summary": "The company stated in an SEC filing that it intends to use the net proceeds from the stock offering to purchase common units from its operating company, for a total of $500 million.",
                 "source": "Stocktwits",
                 "category": "finance",
                 "url": "https://stocktwits.com/news-articles/markets/equity/this-space-stock-crashed-over-15-today-retail-says-intuitive-machines-is-going-through-an-impressive-run-of-bad-luck/cZ0jQhMReU7",
                 "publishDate": "2026-06-03T17:05:16Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "We Might Have Just Learned What SpaceX's IPO Price Will Be",
-                "summary": "Stock Offering Could Take Place as Soon as Next Week, According to Reports",
-                "source": "Investopedia",
-                "category": "finance",
-                "url": "https://www.investopedia.com/we-might-have-just-learned-what-spacex-ipo-price-will-be-stock-spcx-11989887",
-                "publishDate": "2026-06-03T16:28:43Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Top Midday Stories: Alphabet Upsizes Equity Capital Raise to $84.75 Billion; SpaceX Planning $135 a Share IPO",
-                "summary": "All three major US stock indexes were down late-morning Wednesday, as oil prices and US Treasury yie",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-alphabet-upsizes-155803869.html",
-                "publishDate": "2026-06-03T15:58:03Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's Projected $1.75 Trillion IPO Overvalues the Company By More Than 50%, According to This Wall Street Analyst",
-                "summary": "SpaceX is attempting to go public at the largest valuation ever.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/spacex-s-projected-usd1-75-trillion-ipo-overvalues-the-company-by-more-than-50-according-to-this-wall-street-analyst/",
-                "publishDate": "2026-06-03T15:39:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Should You Invest in This Popular ETF Before SpaceX's IPO on June 12?",
-                "summary": "SpaceX is the hottest name in IPOs right now. Should you invest through this ETF?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/should-you-invest-in-this-popular-etf-before-space/",
-                "publishDate": "2026-06-03T15:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Is About to IPO. History Says a 55% Stock Drop Could Be Coming Next.",
-                "summary": "While SpaceX\u2019s anticipated public debut has Wall Street salivating over what could be the most consequential IPO in a decade, the historical record offers a sobering warning. The company filed its S-1 in May, outlining three business segments: Space (Falcon and Starship launch services), Connectivity (the Starlink broadband network), and AI (X and Grok subscriptions). ... SpaceX Is About to IPO. History Says a 55% Stock Drop Could Be Coming Next.",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/03/spacex-is-about-to-ipo-history-says-a-55-stock-drop-could-be-coming-next/",
-                "publishDate": "2026-06-03T14:54:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Goldman Sachs CEO David Solomon Thinks There's Enough \"Greed\" to Absorb the SpaceX, OpenAI, and Anthropic IPOs",
-                "summary": "Goldman Sachs stands to benefit from a big IPO push, so it's not shocking that its CEO is upbeat about investor demand for now.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/goldman-sachs-ceo-david-solomon-thinks-theres-enough-greed-to-absorb-the-spacex-openai-and-anthropic-ipos/",
-                "publishDate": "2026-06-03T14:42:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here Are The Latest Odds That Elon Musk Will Merge Tesla And SpaceX",
-                "summary": "Multiple analysts believe a merger between Tesla and SpaceX will happen eventually. Tesla stock was up on Wednesday morning.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/tesla-spacex-merger-elon-musk-odds/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-03T14:37:22Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "UFO Turned a Forgotten Thesis Into 165% Returns While the S&P Gained 11%",
-                "summary": "$10,000 parked in the Procure Space ETF (NYSEARCA:UFO) on May 29, 2025 at $24.64 was worth roughly $26,500 twelve months later, and most of that move happened in the last four months. UFO closed last Friday at $65.31, up 69% year to date and 165% over the trailing year. The SPDR S&P 500 ETF Trust ... UFO Turned a Forgotten Thesis Into 165% Returns While the S&P Gained 11%",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/03/ufo-turned-a-forgotten-thesis-into-165-returns-while-the-sp-gained-11/",
-                "publishDate": "2026-06-03T14:30:33Z",
                 "premium": false,
                 "freemium": false
             }
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.09,
+        "price": 29.065,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4152946,
-            "marketCap": 6035915264,
+            "change": -2.499158,
+            "marketCap": 6030728192,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
