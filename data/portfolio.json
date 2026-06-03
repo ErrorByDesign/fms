@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.17,
+        "price": 42.215,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7472336,
-            "marketCap": 186809942016,
+            "change": -1.6425864,
+            "marketCap": 187009302528,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.716297
+            "yearTarget": 46.709328
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -92,6 +92,16 @@
                 "freemium": false
             },
             {
+                "title": "Eli Lilly Wins Back CVS Health, Reverting Novo's Advantage",
+                "summary": "Eli Lilly and Company just secured a big win as it looks to expand GLP-1 access, mending its partnership with top pharmacy benefit manager CVS Health.",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/originals/eli-lilly-wins-back-cvs-health-reverting-novos-advantage/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-06-02T15:15:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Viking Therapeutics' Q3 Catalyst That Could Turn Eli Lilly's and Novo Nordisk's Daily Weight Loss Pill Strategy Upside Down",
                 "summary": "An upcoming trial result could change how investors think about the weight-loss drug market.",
                 "source": "Motley Fool",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/pfizers-obesity-oncology-pipeline-sets-130800477.html",
                 "publishDate": "2026-06-02T13:08:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Eli Lilly Starting an Nvidia-Style Run?",
-                "summary": "Lilly shares soared more than 18% in May.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/01/is-eli-lilly-starting-an-nvidia-style-run/",
-                "publishDate": "2026-06-01T10:25:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,6 +322,26 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX IPO: How to buy before June 12th",
+                "summary": "If reports are accurate, SpaceX will price its monster IPO the night of June 11th, with trading beginning as early as Friday, June 12th.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-how-to-buy-before-june-12th-140548440.html",
+                "publishDate": "2026-04-07T14:05:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Should You Invest in This Popular ETF Before SpaceX's IPO on June 12?",
+                "summary": "SpaceX is the hottest name in IPOs right now. Should you invest through this ETF?",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/03/should-you-invest-in-this-popular-etf-before-space/",
+                "publishDate": "2026-06-03T15:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Is About to IPO. History Says a 55% Stock Drop Could Be Coming Next.",
                 "summary": "While SpaceX\u2019s anticipated public debut has Wall Street salivating over what could be the most consequential IPO in a decade, the historical record offers a sobering warning. The company filed its S-1 in May, outlining three business segments: Space (Falcon and Starship launch services), Connectivity (the Starlink broadband network), and AI (X and Grok subscriptions). ... SpaceX Is About to IPO. History Says a 55% Stock Drop Could Be Coming Next.",
                 "source": "24/7 Wall St.",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-06-03T13:57:36Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX Said to Target $75 Billion in IPO at $135 Per Share",
-                "summary": "(Bloomberg) -- SpaceX is planning to offer shares \u200bat $135 apiece to raise $75 \u200bbillion in its \u2060initial public \u200boffering, according to people familiar with the matter, as Elon Musk rejects another Wall Street convention by setting a fixed price ahead of the marketing phase of the deal.Most Read from BloombergTrump Begins Rebuilding His Tariff Wall, Citing Forced LaborRussia Finance Officials Tell Putin War Spending Is UnaffordableTrump to Get Audit Immunity as $1.8 Billion Fund in DoubtTikTok Bi",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-seeks-135-share-75-015553054.html",
-                "publishDate": "2026-06-03T13:42:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Could Trigger $30 Trillion Worth Of 401(k), Retirement Money To Buy SPCX As Dan Ives Predicts Tesla Merger In 2027",
-                "summary": "Elon Musk-led SpaceX\u2018s upcoming IPO could trigger retirement funds, including 401 (k) accounts, worth trillions to invest in the commercial space flight giant following its June public listing. $30 Trillion Worth Of Retirement Funds In a post on X on...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-could-trigger-30-133040594.html",
-                "publishDate": "2026-06-03T13:30:40Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.6,
+        "price": 28.615,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2389394,
-            "marketCap": 20571133952,
+            "change": 1.2920346,
+            "marketCap": 20581922816,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.56,
+        "price": 29.2,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.83864474,
-            "marketCap": 6133435904,
+            "change": -2.046289,
+            "marketCap": 6058739712,
             "weekLow": 11.67,
             "weekHigh": 36.52,
             "yearTarget": 43.8
