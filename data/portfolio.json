@@ -20,7 +20,7 @@
             "marketCap": 186056867840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.680836
+            "yearTarget": 46.692722
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX confirms it will seek $75 billion in record IPO",
+                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-confirms-it-will-seek-75-billion-in-record-ipo-213415033.html",
+                "publishDate": "2026-06-03T21:34:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX IPO: How to buy before June 12",
                 "summary": "If reports are accurate, SpaceX will price its monster IPO the night of June 11, with trading beginning as early as Friday, June 12.",
                 "source": "Yahoo Finance",
@@ -332,92 +342,82 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX, Anthropic may change rules of IPO market, expert says",
-                "summary": "<body><p>STORY: In a surprise move ahead of its investor roadshow, Elon Musk's SpaceX plans to fix its IPO price at $135 \u200cper share to raise a record-setting $75 billion, according to a source familiar with the matter.</p><p>The rocket and satellite communications company plans to sell 555.6 million shares, the source said. It is aiming for a valuation of $1.75 trillion, two other people said.</p><p>\"We've had a very dead IPO market for a while, so there hasn't been a regular flow to be looking at how markets look at this, how institutional investors look at it,\" Miller said.</p></body>",
-                "source": "Reuters Videos",
+                "title": "Dow Jones Futures Fall As Broadcom, CrowdStrike Dive On Earnings; SpaceX IPO Price Target Set",
+                "summary": "Broadcom and CrowdStrike fell late on earnings. The SpaceX IPO price target and size have been set with the offering next week.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/video/spacex-anthropic-may-change-rules-204023815.html",
-                "publishDate": "2026-06-03T20:40:23Z",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-broadcom-crowdstrike-earnings-spacex-ipo-price-target/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-03T21:37:58Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Should You Forget the $2 Trillion SpaceX IPO and Buy This $7 Space Stock Instead?",
-                "summary": "SpaceX is gearing up for what could be the largest IPO in history later this month.",
-                "source": "Motley Fool",
+                "title": "Terms Revealed for SpaceX\u2019s Unconventional $75 Billion IPO",
+                "summary": "The company plans to sell shares at $135 apiece, eschewing the norm of setting a price range and incorporating investor feedback.",
+                "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/should-you-forget-the-2-trillion-spacex-ipo-and-bu/",
-                "publishDate": "2026-06-03T20:35:00Z",
+                "url": "https://www.wsj.com/business/spacex-ipo-would-raise-75-billion-281b0886?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-03T21:08:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "2 Artificial Intelligence (AI) Stocks Poised to Win Big From Anthropic's IPO",
-                "summary": "Anthropic has confidentially filed its S-1 with the Securities and Exchange Commission.",
-                "source": "Motley Fool",
+                "title": "SpaceX IPO Plans To Sell 555.6 Million Shares At $135. Nasdaq Debut Next Week.",
+                "summary": "SpaceX IPO: Elon Musk's company plans to sell 556.6 million shares at $135 in its initial public offering, raising $75 billion.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/2-artificial-intelligence-ai-stocks-poised-to-win/",
-                "publishDate": "2026-06-03T20:07:00Z",
+                "url": "https://www.investors.com/news/spacex-ipo-sell-555-6-million-shares-135/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-03T21:02:36Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "UK lawmaker Jess Asato sues Elon Musk\u2019s xAI over deepfakes",
-                "summary": "Investing.com -- British lawmaker Jess Asato filed a lawsuit against Elon Musk's xAI on Wednesday, claiming the company's Grok AI platform was used to generate fake sexualized images of her.",
-                "source": "Investing.com",
+                "title": "SpaceX's IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
+                "summary": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world's first trillionaire.  The company, formally known as Space Exploration Technologies Corp., said Wednesday it will sell 555.6 million shares at $135 a piece.  The offering would give SpaceX a market value of $1.77 trillion.",
+                "source": "Associated Press",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/uk-lawmaker-jess-asato-sues-193620490.html",
-                "publishDate": "2026-06-03T19:36:20Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-ipo-set-biggest-ever-210150845.html",
+                "publishDate": "2026-06-03T21:01:50Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Eyes Record $75 Billion IPO",
-                "summary": "The offering could value Elon Musk's SpaceX at about $1.75 trillion.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-eyes-record-75-billion-193429381.html",
-                "publishDate": "2026-06-03T19:34:29Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Targets $75 Billion IPO at Up to $1.8 Trillion Valuation",
-                "summary": "SpaceX plans 555.6 million share sale as investors watch the largest IPO push on record.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-targets-75-billion-ipo-190542990.html",
-                "publishDate": "2026-06-03T19:05:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Are You Waiting for the SpaceX IPO? Check Out These 3 Space Stocks Instead.",
-                "summary": "AST SpaceMobile, Intuitive Machines, and Rocket Lab are among the most promising space stocks right now.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/are-you-waiting-for-the-spacex-ipo-check-out-these/",
-                "publishDate": "2026-06-03T18:05:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Halo, Virgin Galactic Reality: Behind a 39% Stock Crash.",
-                "summary": "Space stocks have been all the rage ahead of SpaceX\u2019s massive initial public offering.  Virgin Galactic  however, just lost some major altitude.  Shares of the space tourism pioneer dived 39% in Tuesday trading, closing at $4.59.",
+                "title": "SpaceX\u2019s Target Valuation Lowered Again. Why That\u2019s a Red Flag for the Stock Market.",
+                "summary": "SpaceX is targeting a $1.75 trillion valuation in an IPO next week, according to The Wall Street Journal.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/virgin-galactic-stock-price-6e0eab16?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-03T18:03:00Z",
+                "url": "https://www.barrons.com/articles/spacex-ipo-stock-valuation-lowered-33633e8a?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-03T20:57:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Anthropic said to pick Morgan Stanley and Goldman to lead IPO",
-                "summary": "Investing.com -- Anthropic PBC has selected banks to lead its initial public offering, according to a Bloomberg report Wednesday. The artificial intelligence company, which makes the Claude chatbot, has chosen Morgan Stanley and Goldman Sachs Group Inc. to lead the offering. JPMorgan Chase & Co. will also work on the deal, the report said.",
-                "source": "Investing.com",
+                "title": "SpaceX plans to raise up to $75 billion in an IPO that would be the largest ever and could make Elon Musk a trillionaire",
+                "summary": "SpaceX plans to raise up to $75 billion in an IPO that would be the largest ever and could make Elon Musk a trillionaire.",
+                "source": "Associated Press",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-said-pick-morgan-stanley-175802678.html",
-                "publishDate": "2026-06-03T17:58:02Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-plans-raise-75-billion-205638475.html",
+                "publishDate": "2026-06-03T20:56:38Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Plans to Sell Around $75 Billion of Shares in IPO",
+                "summary": "SpaceX plans to sell around $75 billion of shares in its upcoming IPO, according to an updated filing from the company Wednesday afternoon. The company plans to sell 555,555,555 shares priced at $135 apiece.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/spacex-plans-to-sell-around-75-billion-of-shares-in-ipo-8vzr8byx2xoIzn93T4Gl?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-03T20:54:24Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX plans to raise $75B in its IPO",
+                "summary": "SpaceX disclosed Wednesday that it plans to raise $75 billion in its initial public offering, which is expected to occur within a few weeks.",
+                "source": "Axios",
+                "category": "finance",
+                "url": "https://www.axios.com/2026/06/03/spacex-ipo-raise#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
+                "publishDate": "2026-06-03T20:53:17Z",
                 "premium": false,
                 "freemium": false
             }
