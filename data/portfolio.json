@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.01,
+        "price": 43.9001,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.7857103,
-            "marketCap": 194961014784,
+            "change": 4.5240493,
+            "marketCap": 194474164224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.299416
+            "yearTarget": 47.294342
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "This Small-Cap Biotech Just Soared Over 160% \u2014 What Is The Novo Nordisk Connection?",
+                "summary": "Veru will evaluate enobosarm alongside Novo Nordisk\u2019s Wegovy in the Phase 2b PLATEAU trial in older adults with obesity.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/why-is-veru-stock-soaring-today-novo-nordisk-connection/cZ0ZkHjRey6",
+                "publishDate": "2026-06-04T17:16:12Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Veru Teams Up With Novo Nordisk for Obesity Combination Therapy Trial (VERU)",
                 "summary": "Veru Inc. (NASDAQ:VERU) has entered into a clinical supply agreement with Novo Nordisk A/S (NYSE:NVO) to support its upcoming Phase 2b PLATEAU study, which will investigate a combination treatment for obesity in older adults.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://qz.com/novo-nordisk-wegovy-pill-uae-launch-060326",
                 "publishDate": "2026-06-03T13:19:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "5 Stocks Set to Cash in on The Next 90-Million Customer Industry. (It\u2019s Not AI)",
-                "summary": "Wells Fargo\u2019s chief agriculture economist Dr. Michael Swanson told Bloomberg Businessweek on May 29 that GLP-1 weight-loss drugs (Ozempic, Wegovy, Mounjaro, Zepbound) will eventually match statins at roughly 90 million prescriptions, calling the trend \u201chere to stay\u201d because it\u2019s prescribed, not faddish. So this is the next 90-million-customer industry, sitting in plain sight while everyone ... 5 Stocks Set to Cash in on The Next 90-Million Customer Industry. (It\u2019s Not AI)",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/03/5-stocks-set-to-cash-in-on-the-next-90-million-customer-industry-its-not-ai/",
-                "publishDate": "2026-06-03T12:38:12Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,22 +322,42 @@
         },
         "NEWS": [
             {
-                "title": "Stock market today: Dow jumps 850 points, Nasdaq slips after Broadcom outlook flop",
-                "summary": "US stock futures slipped as doubts about President Trump's ability to end the war with Iran rattled Wall Street.",
+                "title": "SpaceX IPO is coming to your 401(k). Should you be concerned?",
+                "summary": "If you're investing in a 401(k) for retirement via broad index funds, a sliver of the rocket and satellite company is likely to wind up in your account without you buying a single share.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-jumps-850-points-nasdaq-slips-after-broadcom-outlook-flop-230054620.html",
-                "publishDate": "2026-06-03T23:00:54Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-is-coming-to-your-401k-should-you-be-concerned-154603442.html",
+                "publishDate": "2026-06-04T15:46:03Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week",
-                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
-                "source": "Yahoo Finance",
+                "title": "3 Stocks Poised to Make Billions from the Anthropic IPO",
+                "summary": "Anthropic is joining in on the IPO fray to win tens of billions in capital and likely a valuation in the trillions. This IPO could significantly benefit Amazon (NASDAQ:AMZN), Salesforce (NYSE:CRM), and Alphabet (NASDAQ:GOOG). Before we look into how, let\u2019s take a look at the IPO first. Anthropic\u2019s decision for an IPO comes after SpaceX\u2019s decision to ... 3 Stocks Poised to Make Billions from the Anthropic IPO",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-launches-ipo-website-for-retail-investors-as-it-seeks-record-75-billion-in-public-offering-next-week-213415729.html",
-                "publishDate": "2026-06-03T21:34:15Z",
+                "url": "https://247wallst.com/investing/2026/06/04/3-stocks-poised-to-make-billions-from-the-anthropic-ipo/",
+                "publishDate": "2026-06-04T17:30:17Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "JPMorgan Mobilizes 2,500 Clients Ahead Of $1.8 Trillion SpaceX IPO",
+                "summary": "Dimon's nationwide push could signal major investor demand before SpaceX's planned public listing.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-mobilizes-2-500-clients-172936665.html",
+                "publishDate": "2026-06-04T17:29:36Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Is Going Public Soon. Here's How to Buy Stock Before Shares Are Widely Available.",
+                "summary": "The SpaceX IPO is expected to happen next week.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/04/spacex-ipo-soon-how-buy-stock-before/",
+                "publishDate": "2026-06-04T17:08:38Z",
                 "premium": false,
                 "freemium": false
             },
@@ -348,6 +368,16 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/06/04/goldman-sachs-predicts-spacex-revenue-will-surge-100x-by-2030/",
                 "publishDate": "2026-06-04T16:31:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Elon Musk's SpaceX Is Weeks From Going Public\u2014Polymarket Trader Are Betting It Will Be Worth $2 Trillion",
+                "summary": "As Elon Musk-led SpaceX is weeks away from its public debut, bettors on the Prediction Market platform Polymarket have weighed in on the closing market capitalization of the commercial space flight company following the IPO. Polymarket Bettors Weigh In On...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-weeks-going-163105138.html",
+                "publishDate": "2026-06-04T16:31:05Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-06-04T16:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Databricks CEO Plans to Avoid IPO During Year of Huge Offerings",
-                "summary": "(Bloomberg) -- Databricks, a data software company, plans to sell shares to the public at some point, but won\u2019t tap the public markets this year amid a flurry of planned tech IPOs.Most Read from BloombergGlazer Family Members Study Manchester United Stake SaleRepublican-Led House Votes to Stop Iran War, Rebuking TrumpTrump Begins Rebuilding His Tariff Wall, Citing Forced LaborBroadcom Slides by Most in More Than a Year on AI Outlook MissTrump to Get Audit Immunity as $1.8 Billion Fund in DoubtTh",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/databricks-ceo-plans-avoid-ipo-155905048.html",
-                "publishDate": "2026-06-04T15:59:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "ASTS Plagued by Competitive Pressure, Macro Risks: Time to Rethink?",
-                "summary": "AST SpaceMobile faces macro headwinds, rivals like Starlink, and falling estimates, yet a three-satellite Bluebird launch this month could shift the story.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/asts-plagued-competitive-pressure-macro-155800891.html",
-                "publishDate": "2026-06-04T15:58:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's AI Revenue Could Eclipse Starlink \u2014 Goldman Forecasts 100-Fold Surge To $322B By 2030",
-                "summary": "According to a report by The Financial Times, Goldman expects SpaceX\u2019s total revenue to rise 25-fold to $474 billion by 2030, up from $18.7 billion in 2025.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/spacex-ai-revenue-soar-100-times-322b-2030-spcx-ipo-roadshow/cZ0ZKosReyw",
-                "publishDate": "2026-06-04T15:56:32Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.325,
+        "price": 29.27,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1777003,
-            "marketCap": 21092605952,
+            "change": 1.9860616,
+            "marketCap": 21053044736,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.49,
+        "price": 29.39,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.0768445,
-            "marketCap": 6118911488,
+            "change": 1.7307028,
+            "marketCap": 6098162688,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
