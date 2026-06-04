@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.0,
+        "price": 44.215,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.14352,
-            "marketCap": 186056867840,
+            "change": 5.27381,
+            "marketCap": 195869147136,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.225685
+            "yearTarget": 47.31487
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Veru Teams Up With Novo Nordisk for Obesity Combination Therapy Trial (VERU)",
+                "summary": "Veru Inc. (NASDAQ:VERU) has entered into a clinical supply agreement with Novo Nordisk A/S (NYSE:NVO) to support its upcoming Phase 2b PLATEAU study, which will investigate a combination treatment for obesity in older adults.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/29805/veru-teams-up-with-novo-nordisk-for-obesity-combination-therapy-trial-veru",
+                "publishDate": "2026-06-04T14:22:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly Sees More Dealmaking Ahead as Management Looks To Leverage Its GLP-1 Success",
+                "summary": "Eli Lilly knows that its GLP-1 windfall comes with an end date, so it is acting now to prepare.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/04/eli-lilly-sees-more-dealmaking-ahead-as-management-looks-to-leverage-its-glp-1-success/",
+                "publishDate": "2026-06-04T13:47:47Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "ASML Becomes Europe's Most Valuable Stock Ever",
                 "summary": "The Dutch chipmaker eclipses Novo Nordisk's 2024 peak as AI infrastructure demand drives a 130% rally.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-06-03T11:09:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Expands Wegovy Rollout with Launch of Weight-Loss Pill in UAE (NVO)",
-                "summary": "Novo Nordisk (NYSE:NVO) has introduced the tablet form of its blockbuster obesity treatment Wegovy in the United Arab Emirates, marking the second country worldwide to receive the oral version of the medication. The launch follows regulatory approval granted earlier this week by health authorities in the UAE and comes several months after the Danish pharmaceutical group debuted the product in the United States.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29632/novo-nordisk-expands-wegovy-rollout-with-launch-of-weight-loss-pill-in-uae-nvo",
-                "publishDate": "2026-06-03T10:21:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Expands Wegovy Pill Reach And Builds Global Obesity Care Model",
-                "summary": "Novo Nordisk (CPSE:NOVO B) has launched the Wegovy pill in the UAE, the first country outside the U.S. to offer this oral obesity treatment. Regulators in the EU have issued positive opinions recommending approval of both the Wegovy pill and a higher dose injectable formulation. The company is expanding obesity care access through partnerships, including a collaboration with NOVI Health in Singapore. Novo Nordisk, through CPSE:NOVO B, is a major player in obesity and diabetes care, and...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-expands-wegovy-pill-100749184.html",
-                "publishDate": "2026-06-03T10:07:49Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.76,
+        "price": 1.81,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.29671,
-            "marketCap": 165269792,
+            "change": 2.8409064,
+            "marketCap": 169964944,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Iran war threatens to drag on",
-                "summary": "US stock futures slipped as doubts about President Trump\u2019s ability to end the war with Iran rattled Wall Street.",
+                "title": "SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week",
+                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-iran-war-threatens-to-drag-on-230054858.html",
-                "publishDate": "2026-06-03T23:00:54Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-launches-ipo-website-for-retail-investors-as-it-seeks-record-75-billion-in-public-offering-next-week-213415729.html",
+                "publishDate": "2026-06-03T21:34:15Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Dow Jones Futures: Broadcom, CrowdStrike Dive On Earnings; SpaceX IPO Price Target Set",
-                "summary": "Broadcom and CrowdStrike fell late on earnings. The SpaceX IPO price target and size have been set with the offering next week.",
-                "source": "Investor's Business Daily",
+                "title": "$650bn wiped from chip giants as AI bubble fears grow",
+                "summary": "More than $650bn has been wiped from the value of America\u2019s microchip giants amid fears that the AI boom is running out of steam.",
+                "source": "The Telegraph",
                 "category": "finance",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-broadcom-crowdstrike-earnings-spacex-ipo-price-target/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-04T03:09:51Z",
+                "url": "https://uk.finance.yahoo.com/news/chip-giants-plunge-ai-sell-132518956.html",
+                "publishDate": "2026-06-04T15:10:10Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The SpaceX IPO Could Blow Up This Mega-Popular Investing Strategy",
-                "summary": "Stock market indexes are bending over backwards to cater to Elon Musk.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/the-spacex-ipo-could-blow-up-this-mega-popular-inv/",
-                "publishDate": "2026-06-04T02:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Anthropic Files S-1 Opening The IPO Floodgates, Analyst Says",
-                "summary": "Anthropic has confidentially submitted a draft registration statement on Form S-1 to the SEC, putting the AI company on a path toward a potential public offering \u2014 and igniting what Wedbush analyst Dan Ives is calling a full-on race to...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-files-1-opening-ipo-023107799.html",
-                "publishDate": "2026-06-04T02:31:07Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "ASTS, RKLB, SPCE, RDW Stocks Extend Selloff Overnight \u2014 Analyst Backs 'Betting Against Space' Trade As Jefferies Courts SpaceX Bears",
-                "summary": "Hedge funds seeking bearish bets on SpaceX have reportedly approached Jefferies, which was absent from the IPO's underwriting lineup.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/asts-rklb-spce-rdw-stocks-selloff-spacex-bear-trade/cZ0mDd6ReUt",
-                "publishDate": "2026-06-04T01:51:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Quantinuum Prices IPO at $60 a Share. It\u2019s Slated to Go Public Thursday.",
-                "summary": "Quantinuum raised $1.68 billion in its upsized initial public offering late Wednesday, setting the stage for one of the most anticipated tech listings of the year.  The quantum computing company priced its IPO of 28 million shares at $60 apiece.  Underwriters have been granted a 30-day option to sell an additional 4.2 million shares if demand is higher than expected, Quantinuum said.",
+                "title": "SpaceX Has Set Terms for Its Massive IPO: Orders, Listing, What Happens Next",
+                "summary": "This is tool banks such as Goldman Sachs and Morgan Stanley use to build an order book for the SpaceX IPO.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/quantinuum-ipo-stock-pricing-quantum-computing-915ac49d?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T00:46:00Z",
+                "url": "https://www.barrons.com/articles/spacex-ipo-price-orders-8d846645?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T14:24:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX stock market debut set to make Elon Musk a trillionaire",
-                "summary": "SpaceX plans to raise up to $75bn (\u00a356bn) when it goes public this month \u2013 putting Elon Musk on course to become the world's first trillionaire.  The space company is gearing up for what is expected to be the largest-ever stock market debut.  It says it will sell 555.6 million shares at $135 (\u00a3100) a piece in its initial public offering (IPO).",
-                "source": "Sky News",
+                "title": "Elon Musk\u2019s New Role: Why SpaceX Just Became a \u2018Neo Cloud\u2019 for Anthropic",
+                "summary": "Elon Musk spent the last two years pushing Grok and feuding with OpenAI. The host of The AI Daily Brief argues he has quietly changed jobs. SpaceX is now functioning as a \u201cneo cloud\u201d by providing both Colossus-1 and Colossus-2 data centers to Anthropic\u2019s Claude, which has been \u201cseverely compute constrained throughout the year.\u201d The ... Elon Musk\u2019s New Role: Why SpaceX Just Became a \u2018Neo Cloud\u2019 for Anthropic",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/spacex-stock-market-debut-set-004400103.html",
-                "publishDate": "2026-06-04T00:44:00Z",
+                "url": "https://247wallst.com/investing/2026/06/04/elon-musks-new-role-why-spacex-just-became-a-neo-cloud-for-anthropic/",
+                "publishDate": "2026-06-04T14:19:35Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX, the sprawling company targeting the stars, Mars and an IPO",
-                "summary": "Elon Musk founded SpaceX in 2002 with the lofty goal of ferrying humans to Mars and setting up colonies on the neighboring planet.- Space industry dominance -\nMusk, the South African-born serial entrepreneur, founded SpaceX when he was 30 years old.",
+                "title": "6 IPOs to Watch This Week Ahead of the SpaceX Main Event",
+                "summary": "Everyone is waiting for the SpaceX IPO. But don\u2019t sleep on big debuts from other unicorns, such as gas engine maker Innio and quantum computer firm Quantinuum.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/6-ipos-to-watch-this-week-ahead-spacex-f46496ef?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T14:18:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Coinbase launches SpaceX pre-IPO perpetual futures for international users",
+                "summary": "The USDC-settled contracts let eligible traders outside the U.S. gain price exposure to SpaceX before its expected IPO next week",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/coinbase-spacex-pre-ipo-perpetual-futures-international-060426",
+                "publishDate": "2026-06-04T14:11:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Space Stocks Are Sliding as SpaceX IPO Fever Cools",
+                "summary": "Shares of Rocket Lab were down again early Thursday. Through Wednesday trading, the stock was down 24% over the past week.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/space-stock-rocket-lab-ast-spacex-ipo-1e3fb48b?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T14:04:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Coinbase Launches SpaceX Pre-IPO Perp Ahead of June 12 IPO",
+                "summary": "Coinbase's SpaceX pre-IPO perp runs on USDC and auto-converts after IPO, joining a wave of exchanges including Binance, Hyperliquid, Crypto.com.",
+                "source": "Bankless",
+                "category": "finance",
+                "url": "https://www.bankless.com/read/news/coinbase-launches-spacex-pre-ipo-perp-ahead-of-june-12-ipo",
+                "publishDate": "2026-06-04T14:01:52Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Terms Revealed for SpaceX\u2019s Unconventional $75 Billion IPO",
+                "summary": "The company plans to sell shares at $135 apiece, eschewing the norm of setting a price range and incorporating investor feedback.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/spacex-ipo-would-raise-75-billion-281b0886?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T13:56:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Oil drops, stocks mixed on Mideast war, AI uncertainty",
+                "summary": "Oil prices and the dollar retreated Thursday while stock markets were mixed as traders tracked conflicting events in the Middle East war, while a disappointing outlook from US chipmaker Broadcom weighed on AI stocks.Elsewhere, a disappointing forecast by chip giant Broadcom stoked concerns about AI stock valuations, which have soared in recent months and helped push equity indexes to record highs.",
                 "source": "AFP",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-sprawling-company-targeting-stars-001216278.html",
-                "publishDate": "2026-06-04T00:12:16Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "'Big Short' Star Steve Eisman Warns SpaceX Will Be A 'Retail Cult Stock' With A 'Crazy' Valuation Compared To NVDA",
-                "summary": "\u201cBig Short\u201d investor Steve Eisman said this week that SpaceX\u2019s expected IPO valuation is \u201ckind of crazy,\u201d and the only way to justify it is for the stock to become a \u201cretail cult stock.\u201d SpaceX is expected to debut June...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/big-short-star-steve-eisman-233112728.html",
-                "publishDate": "2026-06-03T23:31:12Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX or Tesla: What Will Be the Better Buy on June 12?",
-                "summary": "SpaceX stock is expected to begin trading by the end of next week.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/spacex-or-tesla-what-will-be-the-better-buy-on-jun/",
-                "publishDate": "2026-06-03T23:20:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html",
+                "publishDate": "2026-06-04T13:52:39Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.7,
+        "price": 29.23,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.59292,
-            "marketCap": 20643061760,
+            "change": 1.8466856,
+            "marketCap": 21024274432,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.89,
+        "price": 29.65,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,11 +594,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.08621,
-            "marketCap": 5994417152,
+            "change": 2.6306689,
+            "marketCap": 6152110080,
             "weekLow": 11.7,
             "weekHigh": 36.52,
-            "yearTarget": 43.8
+            "yearTarget": 42.8
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Here's Why SSR Mining (SSRM) is a Strong Growth Stock",
+                "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-ssr-mining-ssrm-134505368.html",
+                "publishDate": "2026-06-04T13:45:05Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Boyd Gaming, Chipotle Mexican Grill, Conagra, Dollar General, MGM Resorts International, Omnicom Group, Yum! Brands, and More",
                 "summary": "Mid-Day Stocks: Stocks are trading lower on Wednesday, as oil and yields move higher. Once again, it was \u201cWelcome back, my friends to the show that never ends.\u201d On cue, the never-say-die stock market shook off early worries and all the major indices closed higher on Tuesday. Like the proverbial broken record, the S&P 500 ... Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Boyd Gaming, Chipotle Mexican Grill, Conagra, Dollar General, MGM Resorts International, Omnicom Group, Yum! Bra",
@@ -698,22 +708,12 @@
                 "publishDate": "2026-05-23T06:14:04Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Royal Gold Reduces Cost Exposure With Hod Maden Stake Restructuring",
-                "summary": "RGLD cuts its Hod Maden stake to 15% for a new royalty interest to lower capital and operating cost exposure.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-reduces-cost-exposure-172500622.html",
-                "publishDate": "2026-05-22T17:25:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
             "analystCount": 5,
             "recommendationKey": "strong_buy",
-            "recommendationMean": 1.5,
+            "recommendationMean": 1.4,
             "strongBuy": 3,
             "buy": 6,
             "hold": 1,
