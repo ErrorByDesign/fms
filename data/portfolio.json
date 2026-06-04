@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.825,
+        "price": 43.655,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.34524,
-            "marketCap": 194141487104,
+            "change": 3.9404733,
+            "marketCap": 193388380160,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.26105
+            "yearTarget": 47.25863
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,6 +332,26 @@
                 "freemium": false
             },
             {
+                "title": "CNBC\u2019s Jim Cramer Predicts SpaceX IPO Will Double to $4 Trillion. He Says Two Factors Will Lead to Massive Buying.",
+                "summary": "CNBC\u2019s Jim Cramer is making a paradoxical call on the pending SpaceX IPO. On Squawk on the Street this week, he predicted the stock could double on its opening trade to a $4 trillion valuation, while publicly trying to talk retail investors out of buying. The mechanics he points to (a microscopic float and forced ... CNBC\u2019s Jim Cramer Predicts SpaceX IPO Will Double to $4 Trillion. He Says Two Factors Will Lead to Massive Buying.",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/04/cnbcs-jim-cramer-predicts-spacex-ipo-will-double-to-4-trillion-he-says-two-factors-will-lead-to-massive-buying/",
+                "publishDate": "2026-06-04T19:39:08Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Goldman Sachs Just Predicted SpaceX's AI Revenue Will Be This Number By 2030",
+                "summary": "Goldman is one of the main bookrunners for the SpaceX initial public offering.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/04/goldman-sachs-just-predicted-spacex-s-ai-revenue-will-be-this-number-by-2030/",
+                "publishDate": "2026-06-04T19:25:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The Space Economy ETF That Turned $10,000 Into $26,500 in One Year",
                 "summary": "$10,000 dropped into the Procure Space ETF (NYSEARCA:UFO) on the first trading day of 2026 was worth about $16,200 by the close on May 29, 2026, a price-only run from $40.32 to $65.31 that works out to a 62% gain in five months. Pin the clock to New Year\u2019s Eve instead of the first trading ... The Space Economy ETF That Turned $10,000 Into $26,500 in One Year",
                 "source": "24/7 Wall St.",
@@ -400,26 +420,6 @@
                 "publishDate": "2026-06-04T18:05:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "6 IPOs to Watch This Week Ahead of the SpaceX Main Event",
-                "summary": "Everyone is waiting for the SpaceX IPO. But don\u2019t sleep on big debuts from other unicorns, such as gas engine maker Innio and quantum computer firm Quantinuum.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/6-ipos-to-watch-this-week-ahead-spacex-f46496ef?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T17:55:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Quantinuum Stock Trades Higher in Blockbuster Quantum IPO Debut",
-                "summary": "Quantinuum  stock debuted 13% above its initial public offering price on Thursday, opening at $68 in a major win for the quantum-computing sector at large.  Quantinuum raised $1.68 billion in its upsized initial public offering late Wednesday, setting the stage for one of the most anticipated tech listings of the year.  The quantum computing company\u2019s IPO of 28 million shares was priced at $60 apiece.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/quantinuum-ipo-stock-pricing-quantum-computing-915ac49d?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T17:54:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.245,
+        "price": 29.52,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.8989549,
-            "marketCap": 21035063296,
+            "change": 2.8571417,
+            "marketCap": 21232863232,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.345,
+        "price": 29.4,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5749393,
-            "marketCap": 6088825344,
+            "change": 1.7653176,
+            "marketCap": 6100237312,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
