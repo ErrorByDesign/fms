@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.9001,
+        "price": 43.7601,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.5240493,
-            "marketCap": 194474164224,
+            "change": 4.190717,
+            "marketCap": 193853980672,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.294342
+            "yearTarget": 47.295074
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.825,
+        "price": 1.8,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.693185,
-            "marketCap": 171373504,
+            "change": 2.272725,
+            "marketCap": 169025920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,6 +332,66 @@
                 "freemium": false
             },
             {
+                "title": "Fidelity Bends the Rules for SpaceX\u2019s IPO. You Only Need $2,000 in Your Account.",
+                "summary": "The brokerage giant is letting customers with as little as $2,000 in a trading account submit offers to buy SpaceX at the IPO price.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/buy-spacex-stock-ipo-fidelity-brokers-30399d08?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T18:06:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Could Be the Ultimate Meme Stock -- Investors Should Avoid This Unprecedented IPO",
+                "summary": "SpaceX may be a remarkable company, but its IPO could prove far less rewarding for ordinary investors.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/04/spacex-could-be-the-ultimate-meme-stock-investors/",
+                "publishDate": "2026-06-04T18:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "6 IPOs to Watch This Week Ahead of the SpaceX Main Event",
+                "summary": "Everyone is waiting for the SpaceX IPO. But don\u2019t sleep on big debuts from other unicorns, such as gas engine maker Innio and quantum computer firm Quantinuum.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/6-ipos-to-watch-this-week-ahead-spacex-f46496ef?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T17:55:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Quantinuum Stock Trades Higher in Blockbuster Quantum IPO Debut",
+                "summary": "Quantinuum  stock debuted 13% above its initial public offering price on Thursday, opening at $68 in a major win for the quantum-computing sector at large.  Quantinuum raised $1.68 billion in its upsized initial public offering late Wednesday, setting the stage for one of the most anticipated tech listings of the year.  The quantum computing company\u2019s IPO of 28 million shares was priced at $60 apiece.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/quantinuum-ipo-stock-pricing-quantum-computing-915ac49d?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T17:54:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sector Update: Tech Stocks Fall Thursday Afternoon",
+                "summary": "Tech stocks were lower Thursday afternoon, with the State Street Technology Select Sector SPDR ETF (",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-thursday-174410931.html",
+                "publishDate": "2026-06-04T17:44:10Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: The Devil Is in the Details",
+                "summary": "This is tool banks such as Goldman Sachs and Morgan Stanley use to build an order book for the SpaceX IPO.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-space-exploration-offering-8d846645?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T17:38:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "3 Stocks Poised to Make Billions from the Anthropic IPO",
                 "summary": "Anthropic is joining in on the IPO fray to win tens of billions in capital and likely a valuation in the trillions. This IPO could significantly benefit Amazon (NASDAQ:AMZN), Salesforce (NYSE:CRM), and Alphabet (NASDAQ:GOOG). Before we look into how, let\u2019s take a look at the IPO first. Anthropic\u2019s decision for an IPO comes after SpaceX\u2019s decision to ... 3 Stocks Poised to Make Billions from the Anthropic IPO",
                 "source": "24/7 Wall St.",
@@ -360,66 +420,6 @@
                 "publishDate": "2026-06-04T17:08:38Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Goldman Sachs Predicts SpaceX Revenue Will Surge 100X By 2030",
-                "summary": "The pitch behind the largest U.S. stock market debut in history rests on one number, and it asks investors to suspend a lot of disbelief. Goldman Sachs (NYSE:GS), the lead underwriter on the deal, told a potential IPO investor it expects SpaceX\u2019s AI division revenue to climb roughly 100 times by 2030. That projection, reported ... Goldman Sachs Predicts SpaceX Revenue Will Surge 100X By 2030",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/04/goldman-sachs-predicts-spacex-revenue-will-surge-100x-by-2030/",
-                "publishDate": "2026-06-04T16:31:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk's SpaceX Is Weeks From Going Public\u2014Polymarket Trader Are Betting It Will Be Worth $2 Trillion",
-                "summary": "As Elon Musk-led SpaceX is weeks away from its public debut, bettors on the Prediction Market platform Polymarket have weighed in on the closing market capitalization of the commercial space flight company following the IPO. Polymarket Bettors Weigh In On...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/elon-musks-spacex-weeks-going-163105138.html",
-                "publishDate": "2026-06-04T16:31:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Market Chatter: Goldman Sachs Sees SpaceX's AI Revenue Rising to $322 Billion by 2030",
-                "summary": "Goldman Sachs Group (GS) projects that SpaceX's (SPCX) $1.78 trillion initial public offering valuat",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/market-chatter-goldman-sachs-sees-162332144.html",
-                "publishDate": "2026-06-04T16:23:32Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX sets the stage for a record $75 billion IPO",
-                "summary": "Elon Musk\u2019s SpaceX unveiled plans Wednesday to raise $75 billion in an initial public offering of its stock that would value the company at roughly $1.77 trillion. The blockbuster debut could make Musk \u2013 already the world\u2019s richest person \u2013 the first trillionaire.",
-                "source": "CNN Business",
-                "category": "finance",
-                "url": "https://www.cnn.com/2026/06/03/business/spacex-ipo-valuation-musk",
-                "publishDate": "2026-06-04T16:22:13Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can Wall Street Absorb $3.5 Trillion in New IPOs? SpaceX and Anthropic Could Trigger the Biggest Liquidity Stress Test",
-                "summary": "The stock market has spent the past two years rewarding one theme above all others: artificial intelligence. Capital has flowed into a relatively small group of companies, pushing the valuations of AI leaders to levels few investors would have imagined in 2023. But what happens when two of the world\u2019s most anticipated private companies suddenly ... Can Wall Street Absorb $3.5 Trillion in New IPOs? SpaceX and Anthropic Could Trigger the Biggest Liquidity Stress Test",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/04/can-wall-street-absorb-3-5-trillion-in-new-ipos-spacex-and-anthropic-could-trigger-the-biggest-liquidity-stress-test/",
-                "publishDate": "2026-06-04T16:05:18Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space ETFs Skyrocket in May: Can the Rally Last?",
-                "summary": "Space stocks soared on SpaceX IPO excitement and orbital AI ambitions, but a Blue Origin test explosion highlighted the sector's risks.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/space-etfs-skyrocket-may-rally-160000394.html",
-                "publishDate": "2026-06-04T16:00:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.27,
+        "price": 29.265,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9860616,
-            "marketCap": 21053044736,
+            "change": 1.9686363,
+            "marketCap": 21049448448,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.39,
+        "price": 29.33,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7307028,
-            "marketCap": 6098162688,
+            "change": 1.5230203,
+            "marketCap": 6085712896,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
