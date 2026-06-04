@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.215,
+        "price": 44.32,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.27381,
-            "marketCap": 195869147136,
+            "change": 5.523809,
+            "marketCap": 196334288896,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.31487
+            "yearTarget": 47.31494
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,12 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week",
-                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
+                "title": "JPMorgan's Jamie Dimon to flex massive branch network in SpaceX IPO pitch",
+                "summary": "Dimon is trying to leverage JPMorgan's 5,000 location branch network to drum up more investor interest in the SpaceX IPO.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-launches-ipo-website-for-retail-investors-as-it-seeks-record-75-billion-in-public-offering-next-week-213415729.html",
-                "publishDate": "2026-06-03T21:34:15Z",
+                "url": "https://finance.yahoo.com/markets/article/jpmorgans-jamie-dimon-to-flex-massive-branch-network-in-spacex-ipo-pitch-153058850.html",
+                "publishDate": "2026-06-04T15:30:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Blue Origin's explosion just made SpaceX even harder to catch",
+                "summary": "Every company that runs away with a market eventually needs one thing it can never admit to wanting: a real rival. Competition is what keeps a leader sharp, keeps customers from feeling trapped, and keeps regulators from circling. A monopoly looks great on a spreadsheet and terrible in a headline. ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/technology/blue-origins-explosion-just-made-spacex-even-harder-to-catch",
+                "publishDate": "2026-06-04T15:33:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Goldman Sachs expects SpaceX's AI revenue to surge 100-fold by 2030, FT reports",
+                "summary": "Goldman Sachs expects revenue from SpaceX's AI division to \u200csurge to $322 billion by 2030, \u200cup from $3.2 billion in 2025, according to the \u200bWall Street bank's forecasts shared with a potential investor, the Financial Times reported on Thursday.  The investment bank estimates SpaceX's \u200ctotal revenue to \u2060reach $474 billion in 2030 from $18.7 billion last year, the report \u2060added.  Goldman's forecasts show that the bank expects revenue at SpaceX's AI segment \u200bto soar \u200b388% from a \u200byear earlier to $15.6 \u200cbillion in 2026, and reach $34.5 billion in 2027, according to the report, citing a person familiar with the matter.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-expects-spacexs-ai-152151131.html",
+                "publishDate": "2026-06-04T15:21:51Z",
                 "premium": false,
                 "freemium": false
             },
@@ -338,6 +358,16 @@
                 "category": "finance",
                 "url": "https://uk.finance.yahoo.com/news/chip-giants-plunge-ai-sell-132518956.html",
                 "publishDate": "2026-06-04T15:10:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX SEC filing references \u201cAI compute satellite\u201d ahead of combined IPO with xAI",
+                "summary": "SpaceX's SEC filing materials formally reference AI compute satellites and data center environments.",
+                "source": "Blockspace",
+                "category": "finance",
+                "url": "https://blockspace.media/insight/spacex-sec-filing-ai-compute-satellites-ipo/",
+                "publishDate": "2026-06-04T14:37:35Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-06-04T14:04:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Coinbase Launches SpaceX Pre-IPO Perp Ahead of June 12 IPO",
-                "summary": "Coinbase's SpaceX pre-IPO perp runs on USDC and auto-converts after IPO, joining a wave of exchanges including Binance, Hyperliquid, Crypto.com.",
-                "source": "Bankless",
-                "category": "finance",
-                "url": "https://www.bankless.com/read/news/coinbase-launches-spacex-pre-ipo-perp-ahead-of-june-12-ipo",
-                "publishDate": "2026-06-04T14:01:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Terms Revealed for SpaceX\u2019s Unconventional $75 Billion IPO",
-                "summary": "The company plans to sell shares at $135 apiece, eschewing the norm of setting a price range and incorporating investor feedback.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/business/spacex-ipo-would-raise-75-billion-281b0886?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T13:56:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Oil drops, stocks mixed on Mideast war, AI uncertainty",
-                "summary": "Oil prices and the dollar retreated Thursday while stock markets were mixed as traders tracked conflicting events in the Middle East war, while a disappointing outlook from US chipmaker Broadcom weighed on AI stocks.Elsewhere, a disappointing forecast by chip giant Broadcom stoked concerns about AI stock valuations, which have soared in recent months and helped push equity indexes to record highs.",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/stocks-drop-ai-rate-hike-030621040.html",
-                "publishDate": "2026-06-04T13:52:39Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.23,
+        "price": 29.305,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.8466856,
-            "marketCap": 21024274432,
+            "change": 2.1080122,
+            "marketCap": 21078218752,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.65,
+        "price": 29.45,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.6306689,
-            "marketCap": 6152110080,
+            "change": 1.9383918,
+            "marketCap": 6110612480,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
