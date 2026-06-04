@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.655,
+        "price": 43.75,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.9404733,
-            "marketCap": 193388380160,
+            "change": 4.166667,
+            "marketCap": 193809235968,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.25863
+            "yearTarget": 47.254883
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.7999,
+        "price": 1.79,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.267049,
-            "marketCap": 169016528,
+            "change": 1.7045438,
+            "marketCap": 168086880,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,13 +322,53 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX IPO is coming to your 401(k). Should you be concerned?",
-                "summary": "If you're investing in a 401(k) for retirement via broad index funds, a sliver of the rocket and satellite company is likely to wind up in your account without you buying a single share.",
+                "title": "Stock market today: Dow jumps 875 points to record high, S&P 500 rebounds after Broadcom stumble",
+                "summary": "US stock futures slipped as doubts about President Trump's ability to end the war with Iran rattled Wall Street.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-is-coming-to-your-401k-should-you-be-concerned-154603442.html",
-                "publishDate": "2026-06-04T15:46:03Z",
+                "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-jumps-875-points-to-record-high-sp-500-rebounds-after-broadcom-stumble-230054952.html",
+                "publishDate": "2026-06-03T23:00:54Z",
                 "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week",
+                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-launches-ipo-website-for-retail-investors-as-it-seeks-record-75-billion-in-public-offering-next-week-213415729.html",
+                "publishDate": "2026-06-03T21:34:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: rockets, AI losses and Musk in control",
+                "summary": "SpaceX is inviting investors to bet on Elon Musk's vision of AI data centers in space and humans on Mars.The sky-high valuation for SpaceX -- nearly $1.8 trillion -- is based on the idea that his legendary run will continue and that Musk can achieve his goal of data centers in space and putting people on Mars.",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-rockets-ai-losses-200312350.html",
+                "publishDate": "2026-06-04T20:03:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Forget SpaceX: Here's The Blockbuster IPO I'm Waiting For",
+                "summary": "Anthropic just filed its S-1 to go public later this year.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/04/forget-spacex-heres-the-blockbuster-ipo-im-waiting/",
+                "publishDate": "2026-06-04T20:03:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sector Update: Tech Stocks Fall Late Afternoon",
+                "summary": "Tech stocks were lower late Thursday afternoon, with the State Street Technology Select Sector SPDR",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-fall-afternoon-195023232.html",
+                "publishDate": "2026-06-04T19:50:23Z",
+                "premium": true,
                 "freemium": false
             },
             {
@@ -352,72 +392,32 @@
                 "freemium": false
             },
             {
+                "title": "Fidelity Just Made It Easier to Buy the SpaceX IPO",
+                "summary": "The brokerage giant is letting customers with as little as $2,000 in a trading account submit offers to buy SpaceX at the IPO price.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/buy-spacex-stock-ipo-fidelity-brokers-30399d08?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T19:24:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "A Step-by-Step Guide to Buying SpaceX at the IPO Price",
+                "summary": "SpaceX IPO shares are expected to be available through Fidelity, E-Trade, Robinhood, Charles Schwab, and SoFi, but allocations aren\u2019t guaranteed.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-how-to-buy-stock-4733583f?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T19:08:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "The Space Economy ETF That Turned $10,000 Into $26,500 in One Year",
                 "summary": "$10,000 dropped into the Procure Space ETF (NYSEARCA:UFO) on the first trading day of 2026 was worth about $16,200 by the close on May 29, 2026, a price-only run from $40.32 to $65.31 that works out to a 62% gain in five months. Pin the clock to New Year\u2019s Eve instead of the first trading ... The Space Economy ETF That Turned $10,000 Into $26,500 in One Year",
                 "source": "24/7 Wall St.",
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/06/04/the-space-economy-etf-that-turned-10000-into-26500-in-one-year/",
                 "publishDate": "2026-06-04T18:45:33Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why the iShares Semiconductor ETF (SOXX) Jumped 23% in May",
-                "summary": "The hot streak in the chip sector continued.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/04/why-the-ishares-semiconductor-etf-soxx-jumped-23-i/",
-                "publishDate": "2026-06-04T18:40:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Fidelity Cuts SpaceX IPO Eligibility by 99%, But 5 Rules Could Cost You Access",
-                "summary": "Fidelity slashed the SpaceX IPO minimum to $2,000, but five brokerage flip rules can lock retail investors out fast.",
-                "source": "BeInCrypto",
-                "category": "finance",
-                "url": "https://beincrypto.com/fidelity-spacex-ipo-flipping-rules/",
-                "publishDate": "2026-06-04T18:33:19Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Virgin Galactic Surges 14%, Rocket Lab Gains 6% as SpaceX IPO Roadshow Fuels the Space Trade",
-                "summary": "Space stocks are catching a strong updraft in midday trading. Virgin Galactic (NYSE:SPCE) stock is up 14% to $4.87, while Rocket Lab (NASDAQ:RKLB) stock is climbing 6% to around $122. The likely backdrop: SpaceX\u2019s IPO roadshow is currently underway, and the buzz appears to be lifting sentiment across the publicly traded space proxies. Per Financial ... Virgin Galactic Surges 14%, Rocket Lab Gains 6% as SpaceX IPO Roadshow Fuels the Space Trade",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/04/virgin-galactic-surges-14-rocket-lab-gains-6-as-spacex-ipo-roadshow-fuels-the-space-trade/",
-                "publishDate": "2026-06-04T18:19:15Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Citigroup (C) Might Get a Role in OpenAI IPO",
-                "summary": "Citigroup Inc. (NYSE:C) is one of the Best Low Cost Stocks to Buy According to Hedge Funds. On May 29, Bloomberg reported that OpenAI had held early discussions with Citigroup Inc. (NYSE:C) and JPMorgan Chase about roles in its upcoming IPO. \u200bAlthough the talks are still in the early stages, two banks are expected to [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/citigroup-c-might-role-openai-181023428.html",
-                "publishDate": "2026-06-04T18:10:23Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Fidelity Bends the Rules for SpaceX\u2019s IPO. You Only Need $2,000 in Your Account.",
-                "summary": "The brokerage giant is letting customers with as little as $2,000 in a trading account submit offers to buy SpaceX at the IPO price.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/buy-spacex-stock-ipo-fidelity-brokers-30399d08?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T18:06:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Could Be the Ultimate Meme Stock -- Investors Should Avoid This Unprecedented IPO",
-                "summary": "SpaceX may be a remarkable company, but its IPO could prove far less rewarding for ordinary investors.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/04/spacex-could-be-the-ultimate-meme-stock-investors/",
-                "publishDate": "2026-06-04T18:05:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.52,
+        "price": 29.53,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8571417,
-            "marketCap": 21232863232,
+            "change": 2.8919857,
+            "marketCap": 21240055808,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.4,
+        "price": 29.46,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7653176,
-            "marketCap": 6100237312,
+            "change": 1.9729999,
+            "marketCap": 6112686592,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
