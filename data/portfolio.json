@@ -20,7 +20,7 @@
             "marketCap": 186056867840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.723625
+            "yearTarget": 47.225685
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -337,7 +337,27 @@
                 "source": "Investor's Business Daily",
                 "category": "finance",
                 "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-broadcom-crowdstrike-earnings-spacex-ipo-price-target/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-04T02:29:56Z",
+                "publishDate": "2026-06-04T03:09:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Could Blow Up This Mega-Popular Investing Strategy",
+                "summary": "Stock market indexes are bending over backwards to cater to Elon Musk.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/03/the-spacex-ipo-could-blow-up-this-mega-popular-inv/",
+                "publishDate": "2026-06-04T02:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic Files S-1 Opening The IPO Floodgates, Analyst Says",
+                "summary": "Anthropic has confidentially submitted a draft registration statement on Form S-1 to the SEC, putting the AI company on a path toward a potential public offering \u2014 and igniting what Wedbush analyst Dan Ives is calling a full-on race to...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/anthropic-files-1-opening-ipo-023107799.html",
+                "publishDate": "2026-06-04T02:31:07Z",
                 "premium": false,
                 "freemium": false
             },
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/03/spacex-or-tesla-what-will-be-the-better-buy-on-jun/",
                 "publishDate": "2026-06-03T23:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Nomura's Nanavati on Asia M&A Momentum, Strategy",
-                "summary": "Nomura Head of Investment Banking for Asia ex-Japan Jwalant Nanavati shares his perspective on how landmark listings like SpaceX could shape the appetite for mergers and acquisitions across Asia and beyond. He speaks with Haslinda Amin from the sidelines of 'Nomura Investment Forum Asia' in Singapore.",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/nomuras-nanavati-asia-m-momentum-222839307.html",
-                "publishDate": "2026-06-03T22:28:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX aims to raise record $75 bn in stock market debut",
-                "summary": "SpaceX, the rocket and satellite company led by US billionaire Elon Musk, aims to raise approximately $75 billion in a record initial public offering, the company said in a regulatory filing on Wednesday, valuing the company at $1.765 trillion.It now has some 10.3 million subscribers across 164 markets, the company says.",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-aims-raise-record-75-222218531.html",
-                "publishDate": "2026-06-03T22:22:18Z",
                 "premium": false,
                 "freemium": false
             }
