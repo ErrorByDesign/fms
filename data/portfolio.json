@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.125,
+        "price": 44.01,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.0595236,
-            "marketCap": 195470458880,
+            "change": 4.7857103,
+            "marketCap": 194961014784,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.31023
+            "yearTarget": 47.299416
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -48,6 +48,16 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/04/eli-lilly-sees-more-dealmaking-ahead-as-management-looks-to-leverage-its-glp-1-success/",
                 "publishDate": "2026-06-04T13:47:47Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "ASML Becomes Biggest Company in European History",
+                "summary": "A share price rally pushed ASML's market cap to $668 billion on Wednesday, beating a European record set by Novo Nordisk in June 2024.",
+                "source": "The Daily Upside",
+                "category": "finance",
+                "url": "https://www.thedailyupside.com/technology/semiconductors/asml-becomes-biggest-company-in-european-history/",
+                "publishDate": "2026-06-04T04:01:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-03T12:38:12Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Bull vs. Bear: The Quick Take on Viking Therapeutics Stock",
-                "summary": "The pharmaceutical company's most promising drug candidate has some potential advantages over its rivals.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/03/bull-vs-bear-the-quick-take-on-viking-therapeutics/",
-                "publishDate": "2026-06-03T11:09:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.83,
+        "price": 1.825,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.9772756,
-            "marketCap": 171843024,
+            "change": 3.693185,
+            "marketCap": 171373504,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,22 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX IPO is coming to your 401(k). Should you be concerned?",
-                "summary": "If you're investing in a 401(k) for retirement via broad index funds, a sliver of the rocket and satellite company is likely to wind up in your account without you buying a single share.",
+                "title": "Stock market today: Dow jumps 850 points, Nasdaq slips after Broadcom outlook flop",
+                "summary": "US stock futures slipped as doubts about President Trump's ability to end the war with Iran rattled Wall Street.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-is-coming-to-your-401k-should-you-be-concerned-154603442.html",
-                "publishDate": "2026-06-04T15:46:03Z",
+                "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-jumps-850-points-nasdaq-slips-after-broadcom-outlook-flop-230054620.html",
+                "publishDate": "2026-06-03T23:00:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week",
+                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-launches-ipo-website-for-retail-investors-as-it-seeks-record-75-billion-in-public-offering-next-week-213415729.html",
+                "publishDate": "2026-06-03T21:34:15Z",
                 "premium": false,
                 "freemium": false
             },
@@ -352,12 +362,32 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX sets the stage for a record $75 billion IPO",
+                "summary": "Elon Musk\u2019s SpaceX unveiled plans Wednesday to raise $75 billion in an initial public offering of its stock that would value the company at roughly $1.77 trillion. The blockbuster debut could make Musk \u2013 already the world\u2019s richest person \u2013 the first trillionaire.",
+                "source": "CNN Business",
+                "category": "finance",
+                "url": "https://www.cnn.com/2026/06/03/business/spacex-ipo-valuation-musk",
+                "publishDate": "2026-06-04T16:22:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Can Wall Street Absorb $3.5 Trillion in New IPOs? SpaceX and Anthropic Could Trigger the Biggest Liquidity Stress Test",
                 "summary": "The stock market has spent the past two years rewarding one theme above all others: artificial intelligence. Capital has flowed into a relatively small group of companies, pushing the valuations of AI leaders to levels few investors would have imagined in 2023. But what happens when two of the world\u2019s most anticipated private companies suddenly ... Can Wall Street Absorb $3.5 Trillion in New IPOs? SpaceX and Anthropic Could Trigger the Biggest Liquidity Stress Test",
                 "source": "24/7 Wall St.",
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/06/04/can-wall-street-absorb-3-5-trillion-in-new-ipos-spacex-and-anthropic-could-trigger-the-biggest-liquidity-stress-test/",
                 "publishDate": "2026-06-04T16:05:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Space ETFs Skyrocket in May: Can the Rally Last?",
+                "summary": "Space stocks soared on SpaceX IPO excitement and orbital AI ambitions, but a Blue Origin test explosion highlighted the sector's risks.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/space-etfs-skyrocket-may-rally-160000394.html",
+                "publishDate": "2026-06-04T16:00:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -372,52 +402,22 @@
                 "freemium": false
             },
             {
-                "title": "A Guide to Buying SpaceX Shares via Your Brokerage Account",
-                "summary": "SpaceX is rolling out the red carpet for individual investors who want in on its initial public offering, and there will likely be no shortage of demand.  Fidelity Investments,  Charles Schwab Robinhood Markets SoFi Technologies  and  Morgan Stanley  E*Trade are all expected to offer shares to their customers.  How many shares they get to dole out will depend on how much is snapped up first by institutional investors and the ultrarich.",
-                "source": "The Wall Street Journal",
+                "title": "ASTS Plagued by Competitive Pressure, Macro Risks: Time to Rethink?",
+                "summary": "AST SpaceMobile faces macro headwinds, rivals like Starlink, and falling estimates, yet a three-satellite Bluebird launch this month could shift the story.",
+                "source": "Zacks",
                 "category": "finance",
-                "url": "https://www.wsj.com/finance/stocks/a-guide-to-buying-spacex-shares-via-your-brokerage-account-54407f2d?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T15:45:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/asts-plagued-competitive-pressure-macro-155800891.html",
+                "publishDate": "2026-06-04T15:58:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Anthropic Just Gave Investors One More Reason To Avoid the SpaceX IPO",
-                "summary": "Anthropic makes xAI look significantly overvalued.",
-                "source": "Motley Fool",
+                "title": "SpaceX's AI Revenue Could Eclipse Starlink \u2014 Goldman Forecasts 100-Fold Surge To $322B By 2030",
+                "summary": "According to a report by The Financial Times, Goldman expects SpaceX\u2019s total revenue to rise 25-fold to $474 billion by 2030, up from $18.7 billion in 2025.",
+                "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/04/anthropic-just-gave-investors-one-more-reason-to-a/",
-                "publishDate": "2026-06-04T15:40:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Blue Origin's explosion just made SpaceX even harder to catch",
-                "summary": "Every company that runs away with a market eventually needs one thing it can never admit to wanting: a real rival. Competition is what keeps a leader sharp, keeps customers from feeling trapped, and keeps regulators from circling. A monopoly looks great on a spreadsheet and terrible in a headline. ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/technology/blue-origins-explosion-just-made-spacex-even-harder-to-catch",
-                "publishDate": "2026-06-04T15:33:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Goldman Sachs expects SpaceX's AI revenue to surge 100-fold by 2030, FT reports",
-                "summary": "Goldman Sachs expects revenue from SpaceX's AI division to surge to $322 billion by 2030, up from $3.2 billion \u200cin 2025, according to the Wall Street bank's forecasts shared \u200cwith a potential investor, the Financial Times reported on Thursday.  The investment bank has estimated \u200bSpaceX's total revenue to reach $474 billion in 2030 from $18.7 billion last year, the report added.  Goldman has forecast revenue at SpaceX's AI segment to soar 388% from a year earlier to $15.6 billion in 2026, and reach $34.5 \u200cbillion in 2027, according to \u2060the report, citing a person familiar with the matter.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-expects-spacexs-ai-152151131.html",
-                "publishDate": "2026-06-04T15:21:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Quantinuum IPO Is Priced at $60 a Share. It\u2019s Slated to Go Public Thursday.",
-                "summary": "The quantum computing company\u2019s IPO of 28 million shares was priced at $60 apiece.  Underwriters have been granted a 30-day option to sell an additional 4.2 million shares if demand is higher than expected, Quantinuum said.  From SpaceX to Anthropic, the pipeline of blockbuster IPOs is moving fast.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/quantinuum-ipo-stock-pricing-quantum-computing-915ac49d?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T15:12:00Z",
+                "url": "https://stocktwits.com/news-articles/markets/equity/spacex-ai-revenue-soar-100-times-322b-2030-spcx-ipo-roadshow/cZ0ZKosReyw",
+                "publishDate": "2026-06-04T15:56:32Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.355,
+        "price": 29.325,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2822256,
-            "marketCap": 21114181632,
+            "change": 2.1777003,
+            "marketCap": 21092605952,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.44,
+        "price": 29.49,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9037769,
-            "marketCap": 6108537344,
+            "change": 2.0768445,
+            "marketCap": 6118911488,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
