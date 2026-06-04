@@ -20,7 +20,7 @@
             "marketCap": 194141487104,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.275593
+            "yearTarget": 47.26105
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,22 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "Stock market today: Dow jumps 850 points, Nasdaq rebounds after Broadcom outlook flop",
-                "summary": "US stock futures slipped as doubts about President Trump's ability to end the war with Iran rattled Wall Street.",
+                "title": "SpaceX IPO is coming to your 401(k). Should you be concerned?",
+                "summary": "If you're investing in a 401(k) for retirement via broad index funds, a sliver of the rocket and satellite company is likely to wind up in your account without you buying a single share.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-jumps-850-points-nasdaq-rebounds-after-broadcom-outlook-flop-230054634.html",
-                "publishDate": "2026-06-03T23:00:54Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-is-coming-to-your-401k-should-you-be-concerned-154603442.html",
+                "publishDate": "2026-06-04T15:46:03Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week",
-                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
-                "source": "Yahoo Finance",
+                "title": "The Space Economy ETF That Turned $10,000 Into $26,500 in One Year",
+                "summary": "$10,000 dropped into the Procure Space ETF (NYSEARCA:UFO) on the first trading day of 2026 was worth about $16,200 by the close on May 29, 2026, a price-only run from $40.32 to $65.31 that works out to a 62% gain in five months. Pin the clock to New Year\u2019s Eve instead of the first trading ... The Space Economy ETF That Turned $10,000 Into $26,500 in One Year",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-launches-ipo-website-for-retail-investors-as-it-seeks-record-75-billion-in-public-offering-next-week-213415729.html",
-                "publishDate": "2026-06-03T21:34:15Z",
+                "url": "https://247wallst.com/investing/2026/06/04/the-space-economy-etf-that-turned-10000-into-26500-in-one-year/",
+                "publishDate": "2026-06-04T18:45:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why the iShares Semiconductor ETF (SOXX) Jumped 23% in May",
+                "summary": "The hot streak in the chip sector continued.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/04/why-the-ishares-semiconductor-etf-soxx-jumped-23-i/",
+                "publishDate": "2026-06-04T18:40:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-04T17:54:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Sector Update: Tech Stocks Fall Thursday Afternoon",
-                "summary": "Tech stocks were lower Thursday afternoon, with the State Street Technology Select Sector SPDR ETF (",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/sector-tech-stocks-fall-thursday-174410931.html",
-                "publishDate": "2026-06-04T17:44:10Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.28,
+        "price": 29.245,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.0209055,
-            "marketCap": 21060237312,
+            "change": 1.8989549,
+            "marketCap": 21035063296,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.34,
+        "price": 29.345,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5576351,
-            "marketCap": 6087788032,
+            "change": 1.5749393,
+            "marketCap": 6088825344,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
