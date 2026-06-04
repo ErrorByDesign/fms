@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.166667,
+            "change": 4.16667,
             "marketCap": 193809235968,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.254883
+            "yearTarget": 47.255764
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -342,6 +342,26 @@
                 "freemium": false
             },
             {
+                "title": "Major tech IPOs fetch mixed results \u2014 remember that as SpaceX, OpenAI listings loom",
+                "summary": "Mega IPOs from SpaceX, Anthropic, and OpenAI are already turning heads on Wall Street and Main Street, expected to fetch some of the steepest valuations in the history of U.S. markets. However, those banking on these IPOs being a guaranteed payday might want to revisit those assumptions. Despite ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/investing/major-tech-ipos-fetch-mixed-results-remember-that-as-spacex-openai-listings-loom",
+                "publishDate": "2026-06-04T20:23:47Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "AppLovin Rival Liftoff Stock Jumps After IPO",
+                "summary": "Liftoff Mobile \u2014 a potential rival to AppLovin in the mobile advertising tech space \u2014 completed an initial public offering Thursday, selling 19 million shares at 23, above its 2o to 22 range.  The response highlights investor appetite for new offerings, with the much-anticipated SpaceX IPO expected next week. Shares of quantum computing player Quantinuum climbed as much as 18% in its debut Thursday before retreating.  Liftoff stock rose 19.6% to close at 27.51 on the stock market today.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/liftoff-ipo-stock-applovin-news/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-04T20:12:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX IPO: rockets, AI losses and Musk in control",
                 "summary": "SpaceX is inviting investors to bet on Elon Musk's vision of AI data centers in space and humans on Mars.The sky-high valuation for SpaceX -- nearly $1.8 trillion -- is based on the idea that his legendary run will continue and that Musk can achieve his goal of data centers in space and putting people on Mars.",
                 "source": "AFP",
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/buy-spacex-stock-ipo-fidelity-brokers-30399d08?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-06-04T19:24:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "A Step-by-Step Guide to Buying SpaceX at the IPO Price",
-                "summary": "SpaceX IPO shares are expected to be available through Fidelity, E-Trade, Robinhood, Charles Schwab, and SoFi, but allocations aren\u2019t guaranteed.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-how-to-buy-stock-4733583f?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T19:08:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Space Economy ETF That Turned $10,000 Into $26,500 in One Year",
-                "summary": "$10,000 dropped into the Procure Space ETF (NYSEARCA:UFO) on the first trading day of 2026 was worth about $16,200 by the close on May 29, 2026, a price-only run from $40.32 to $65.31 that works out to a 62% gain in five months. Pin the clock to New Year\u2019s Eve instead of the first trading ... The Space Economy ETF That Turned $10,000 Into $26,500 in One Year",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/04/the-space-economy-etf-that-turned-10000-into-26500-in-one-year/",
-                "publishDate": "2026-06-04T18:45:33Z",
                 "premium": false,
                 "freemium": false
             }
