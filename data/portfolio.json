@@ -20,7 +20,7 @@
             "marketCap": 193809235968,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.255764
+            "yearTarget": 47.278683
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,12 +332,32 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week",
-                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
-                "source": "Yahoo Finance",
+                "title": "Wall Street giants tout SpaceX in glitzy pre-IPO investor events\u00a0",
+                "summary": "By Tatiana Bautzer and Nupur Anand NEW YORK, June 4 (Reuters) - Wall Street's investment banking giants are feting investors at splashy investor events that kicked off on Thursday, giving hopeful",
+                "source": "Reuters",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-launches-ipo-website-for-retail-investors-as-it-seeks-record-75-billion-in-public-offering-next-week-213415729.html",
-                "publishDate": "2026-06-03T21:34:15Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-giants-tout-spacex-212001170.html",
+                "publishDate": "2026-06-04T21:25:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Want to Invest in the Hottest Upcoming IPOs Now, Including SpaceX, Anthropic, and OpenAI? This Is the Fund for You.",
+                "summary": "The ARK Venture Fund is a way to get into hot IPOs early.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/04/invest-in-hottest-ipo-now-spacex-openai-fund/",
+                "publishDate": "2026-06-04T21:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Fidelity Just Made It Easier to Buy the SpaceX IPO",
+                "summary": "The brokerage giant is letting customers with as little as $2,000 in a trading account submit offers to buy SpaceX at the IPO price.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/buy-spacex-stock-ipo-fidelity-brokers-30399d08?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T20:26:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/06/04/cnbcs-jim-cramer-predicts-spacex-ipo-will-double-to-4-trillion-he-says-two-factors-will-lead-to-massive-buying/",
                 "publishDate": "2026-06-04T19:39:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Goldman Sachs Just Predicted SpaceX's AI Revenue Will Be This Number By 2030",
-                "summary": "Goldman is one of the main bookrunners for the SpaceX initial public offering.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/04/goldman-sachs-just-predicted-spacex-s-ai-revenue-will-be-this-number-by-2030/",
-                "publishDate": "2026-06-04T19:25:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Fidelity Just Made It Easier to Buy the SpaceX IPO",
-                "summary": "The brokerage giant is letting customers with as little as $2,000 in a trading account submit offers to buy SpaceX at the IPO price.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/buy-spacex-stock-ipo-fidelity-brokers-30399d08?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T19:24:00Z",
                 "premium": false,
                 "freemium": false
             }
