@@ -20,7 +20,7 @@
             "marketCap": 186056867840,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.692722
+            "yearTarget": 46.723625
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2967064,
+            "change": -3.29671,
             "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -290,7 +290,7 @@
     "SPAX.PVT": {
         "stockType": "PRIVATE",
         "default": true,
-        "price": 128.88,
+        "price": 129.01,
         "COMPANY": {
             "name": "SpaceX",
             "ticker": "SPAX.PVT",
@@ -306,7 +306,7 @@
             ]
         },
         "FINANCIALS": {
-            "change": 0.0,
+            "change": 0.02,
             "marketCap": 1549901234176,
             "weekLow": 202.78,
             "weekHigh": 652.93,
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX confirms it will seek $75 billion in record IPO",
-                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
+                "title": "Stock market today: Dow, S&P 500, Nasdaq futures slip as Iran war threatens to drag on",
+                "summary": "US stock futures slipped as doubts about President Trump\u2019s ability to end the war with Iran rattled Wall Street.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-confirms-it-will-seek-75-billion-in-record-ipo-213415033.html",
-                "publishDate": "2026-06-03T21:34:15Z",
+                "url": "https://finance.yahoo.com/economy/live/stock-market-today-dow-sp-500-nasdaq-futures-slip-as-iran-war-threatens-to-drag-on-230054858.html",
+                "publishDate": "2026-06-03T23:00:54Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO: How to buy before June 12",
-                "summary": "If reports are accurate, SpaceX will price its monster IPO the night of June 11, with trading beginning as early as Friday, June 12.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-how-to-buy-before-june-12-140548493.html",
-                "publishDate": "2026-04-07T14:05:48Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Dow Jones Futures Fall As Broadcom, CrowdStrike Dive On Earnings; SpaceX IPO Price Target Set",
+                "title": "Dow Jones Futures: Broadcom, CrowdStrike Dive On Earnings; SpaceX IPO Price Target Set",
                 "summary": "Broadcom and CrowdStrike fell late on earnings. The SpaceX IPO price target and size have been set with the offering next week.",
                 "source": "Investor's Business Daily",
                 "category": "finance",
                 "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-broadcom-crowdstrike-earnings-spacex-ipo-price-target/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-03T21:37:58Z",
+                "publishDate": "2026-06-04T02:29:56Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Terms Revealed for SpaceX\u2019s Unconventional $75 Billion IPO",
-                "summary": "The company plans to sell shares at $135 apiece, eschewing the norm of setting a price range and incorporating investor feedback.",
-                "source": "The Wall Street Journal",
+                "title": "ASTS, RKLB, SPCE, RDW Stocks Extend Selloff Overnight \u2014 Analyst Backs 'Betting Against Space' Trade As Jefferies Courts SpaceX Bears",
+                "summary": "Hedge funds seeking bearish bets on SpaceX have reportedly approached Jefferies, which was absent from the IPO's underwriting lineup.",
+                "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://www.wsj.com/business/spacex-ipo-would-raise-75-billion-281b0886?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-03T21:08:00Z",
+                "url": "https://stocktwits.com/news-articles/markets/equity/asts-rklb-spce-rdw-stocks-selloff-spacex-bear-trade/cZ0mDd6ReUt",
+                "publishDate": "2026-06-04T01:51:53Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO Plans To Sell 555.6 Million Shares At $135. Nasdaq Debut Next Week.",
-                "summary": "SpaceX IPO: Elon Musk's company plans to sell 556.6 million shares at $135 in its initial public offering, raising $75 billion.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/spacex-ipo-sell-555-6-million-shares-135/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-03T21:02:36Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX's IPO is set to be the biggest ever and could make Elon Musk a trillionaire",
-                "summary": "SpaceX says it plans to raise up to $75 billion when it goes public this month, setting the stage for the largest-ever stock market debut and putting Elon Musk on course to becoming the world's first trillionaire.  The company, formally known as Space Exploration Technologies Corp., said Wednesday it will sell 555.6 million shares at $135 a piece.  The offering would give SpaceX a market value of $1.77 trillion.",
-                "source": "Associated Press",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacexs-ipo-set-biggest-ever-210150845.html",
-                "publishDate": "2026-06-03T21:01:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX\u2019s Target Valuation Lowered Again. Why That\u2019s a Red Flag for the Stock Market.",
-                "summary": "SpaceX is targeting a $1.75 trillion valuation in an IPO next week, according to The Wall Street Journal.",
+                "title": "Quantinuum Prices IPO at $60 a Share. It\u2019s Slated to Go Public Thursday.",
+                "summary": "Quantinuum raised $1.68 billion in its upsized initial public offering late Wednesday, setting the stage for one of the most anticipated tech listings of the year.  The quantum computing company priced its IPO of 28 million shares at $60 apiece.  Underwriters have been granted a 30-day option to sell an additional 4.2 million shares if demand is higher than expected, Quantinuum said.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-stock-valuation-lowered-33633e8a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-03T20:57:00Z",
+                "url": "https://www.barrons.com/articles/quantinuum-ipo-stock-pricing-quantum-computing-915ac49d?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T00:46:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX plans to raise up to $75 billion in an IPO that would be the largest ever and could make Elon Musk a trillionaire",
-                "summary": "SpaceX plans to raise up to $75 billion in an IPO that would be the largest ever and could make Elon Musk a trillionaire.",
-                "source": "Associated Press",
+                "title": "SpaceX stock market debut set to make Elon Musk a trillionaire",
+                "summary": "SpaceX plans to raise up to $75bn (\u00a356bn) when it goes public this month \u2013 putting Elon Musk on course to become the world's first trillionaire.  The space company is gearing up for what is expected to be the largest-ever stock market debut.  It says it will sell 555.6 million shares at $135 (\u00a3100) a piece in its initial public offering (IPO).",
+                "source": "Sky News",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-plans-raise-75-billion-205638475.html",
-                "publishDate": "2026-06-03T20:56:38Z",
+                "url": "https://uk.finance.yahoo.com/news/spacex-stock-market-debut-set-004400103.html",
+                "publishDate": "2026-06-04T00:44:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX Plans to Sell Around $75 Billion of Shares in IPO",
-                "summary": "SpaceX plans to sell around $75 billion of shares in its upcoming IPO, according to an updated filing from the company Wednesday afternoon. The company plans to sell 555,555,555 shares priced at $135 apiece.",
-                "source": "The Wall Street Journal",
+                "title": "SpaceX, the sprawling company targeting the stars, Mars and an IPO",
+                "summary": "Elon Musk founded SpaceX in 2002 with the lofty goal of ferrying humans to Mars and setting up colonies on the neighboring planet.- Space industry dominance -\nMusk, the South African-born serial entrepreneur, founded SpaceX when he was 30 years old.",
+                "source": "AFP",
                 "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-03-2026/card/spacex-plans-to-sell-around-75-billion-of-shares-in-ipo-8vzr8byx2xoIzn93T4Gl?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-03T20:54:24Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-sprawling-company-targeting-stars-001216278.html",
+                "publishDate": "2026-06-04T00:12:16Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX plans to raise $75B in its IPO",
-                "summary": "SpaceX disclosed Wednesday that it plans to raise $75 billion in its initial public offering, which is expected to occur within a few weeks.",
-                "source": "Axios",
+                "title": "'Big Short' Star Steve Eisman Warns SpaceX Will Be A 'Retail Cult Stock' With A 'Crazy' Valuation Compared To NVDA",
+                "summary": "\u201cBig Short\u201d investor Steve Eisman said this week that SpaceX\u2019s expected IPO valuation is \u201ckind of crazy,\u201d and the only way to justify it is for the stock to become a \u201cretail cult stock.\u201d SpaceX is expected to debut June...",
+                "source": "Benzinga",
                 "category": "finance",
-                "url": "https://www.axios.com/2026/06/03/spacex-ipo-raise#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
-                "publishDate": "2026-06-03T20:53:17Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/big-short-star-steve-eisman-233112728.html",
+                "publishDate": "2026-06-03T23:31:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX or Tesla: What Will Be the Better Buy on June 12?",
+                "summary": "SpaceX stock is expected to begin trading by the end of next week.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/03/spacex-or-tesla-what-will-be-the-better-buy-on-jun/",
+                "publishDate": "2026-06-03T23:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Nomura's Nanavati on Asia M&A Momentum, Strategy",
+                "summary": "Nomura Head of Investment Banking for Asia ex-Japan Jwalant Nanavati shares his perspective on how landmark listings like SpaceX could shape the appetite for mergers and acquisitions across Asia and beyond. He speaks with Haslinda Amin from the sidelines of 'Nomura Investment Forum Asia' in Singapore.",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/nomuras-nanavati-asia-m-momentum-222839307.html",
+                "publishDate": "2026-06-03T22:28:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX aims to raise record $75 bn in stock market debut",
+                "summary": "SpaceX, the rocket and satellite company led by US billionaire Elon Musk, aims to raise approximately $75 billion in a record initial public offering, the company said in a regulatory filing on Wednesday, valuing the company at $1.765 trillion.It now has some 10.3 million subscribers across 164 markets, the company says.",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-aims-raise-record-75-222218531.html",
+                "publishDate": "2026-06-03T22:22:18Z",
                 "premium": false,
                 "freemium": false
             }
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5929232,
+            "change": 1.59292,
             "marketCap": 20643061760,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -594,9 +594,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.086213,
+            "change": -3.08621,
             "marketCap": 5994417152,
-            "weekLow": 11.67,
+            "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 43.8
         },
