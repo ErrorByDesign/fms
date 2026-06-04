@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.32,
+        "price": 44.03,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.523809,
-            "marketCap": 196334288896,
+            "change": 4.8321795,
+            "marketCap": 195049603072,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.31494
+            "yearTarget": 47.320316
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,12 +322,52 @@
         },
         "NEWS": [
             {
-                "title": "JPMorgan's Jamie Dimon to flex massive branch network in SpaceX IPO pitch",
-                "summary": "Dimon is trying to leverage JPMorgan's 5,000 location branch network to drum up more investor interest in the SpaceX IPO.",
+                "title": "Stock market today: Dow jumps, Nasdaq sinks after Broadcom earnings flop",
+                "summary": "US stock futures slipped as doubts about President Trump's ability to end the war with Iran rattled Wall Street.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/jpmorgans-jamie-dimon-to-flex-massive-branch-network-in-spacex-ipo-pitch-153058850.html",
-                "publishDate": "2026-06-04T15:30:58Z",
+                "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-jumps-nasdaq-sinks-after-broadcom-earnings-flop-230054846.html",
+                "publishDate": "2026-06-03T23:00:54Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX launches IPO website for retail investors as it seeks record $75 billion in public offering next week",
+                "summary": "Confirming earlier reporting, SpaceX said in a filing it will seek proceeds of $75 billion from its IPO, a record amount for any initial public offering.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-launches-ipo-website-for-retail-investors-as-it-seeks-record-75-billion-in-public-offering-next-week-213415729.html",
+                "publishDate": "2026-06-03T21:34:15Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: How to buy before June 12",
+                "summary": "If reports are accurate, SpaceX will price its monster IPO the night of June 11, with trading beginning as early as Friday, June 12.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-how-to-buy-before-june-12-140548493.html",
+                "publishDate": "2026-04-07T14:05:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Can Wall Street Absorb $3.5 Trillion in New IPOs? SpaceX and Anthropic Could Trigger the Biggest Liquidity Stress Test",
+                "summary": "The stock market has spent the past two years rewarding one theme above all others: artificial intelligence. Capital has flowed into a relatively small group of companies, pushing the valuations of AI leaders to levels few investors would have imagined in 2023. But what happens when two of the world\u2019s most anticipated private companies suddenly ... Can Wall Street Absorb $3.5 Trillion in New IPOs? SpaceX and Anthropic Could Trigger the Biggest Liquidity Stress Test",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/04/can-wall-street-absorb-3-5-trillion-in-new-ipos-spacex-and-anthropic-could-trigger-the-biggest-liquidity-stress-test/",
+                "publishDate": "2026-06-04T16:05:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Anthropic Just Gave Investors One More Reason To Avoid the SpaceX IPO",
+                "summary": "Anthropic makes xAI look significantly overvalued.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/04/anthropic-just-gave-investors-one-more-reason-to-a/",
+                "publishDate": "2026-06-04T15:40:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -343,7 +383,7 @@
             },
             {
                 "title": "Goldman Sachs expects SpaceX's AI revenue to surge 100-fold by 2030, FT reports",
-                "summary": "Goldman Sachs expects revenue from SpaceX's AI division to \u200csurge to $322 billion by 2030, \u200cup from $3.2 billion in 2025, according to the \u200bWall Street bank's forecasts shared with a potential investor, the Financial Times reported on Thursday.  The investment bank estimates SpaceX's \u200ctotal revenue to \u2060reach $474 billion in 2030 from $18.7 billion last year, the report \u2060added.  Goldman's forecasts show that the bank expects revenue at SpaceX's AI segment \u200bto soar \u200b388% from a \u200byear earlier to $15.6 \u200cbillion in 2026, and reach $34.5 billion in 2027, according to the report, citing a person familiar with the matter.",
+                "summary": "Goldman Sachs expects revenue from SpaceX's AI division to surge to $322 billion by 2030, up from $3.2 billion \u200cin 2025, according to the Wall Street bank's forecasts shared \u200cwith a potential investor, the Financial Times reported on Thursday.  The investment bank has estimated \u200bSpaceX's total revenue to reach $474 billion in 2030 from $18.7 billion last year, the report added.  Goldman has forecast revenue at SpaceX's AI segment to soar 388% from a year earlier to $15.6 billion in 2026, and reach $34.5 \u200cbillion in 2027, according to \u2060the report, citing a person familiar with the matter.",
                 "source": "Reuters",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/articles/goldman-sachs-expects-spacexs-ai-152151131.html",
@@ -380,46 +420,6 @@
                 "publishDate": "2026-06-04T14:24:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Elon Musk\u2019s New Role: Why SpaceX Just Became a \u2018Neo Cloud\u2019 for Anthropic",
-                "summary": "Elon Musk spent the last two years pushing Grok and feuding with OpenAI. The host of The AI Daily Brief argues he has quietly changed jobs. SpaceX is now functioning as a \u201cneo cloud\u201d by providing both Colossus-1 and Colossus-2 data centers to Anthropic\u2019s Claude, which has been \u201cseverely compute constrained throughout the year.\u201d The ... Elon Musk\u2019s New Role: Why SpaceX Just Became a \u2018Neo Cloud\u2019 for Anthropic",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/04/elon-musks-new-role-why-spacex-just-became-a-neo-cloud-for-anthropic/",
-                "publishDate": "2026-06-04T14:19:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "6 IPOs to Watch This Week Ahead of the SpaceX Main Event",
-                "summary": "Everyone is waiting for the SpaceX IPO. But don\u2019t sleep on big debuts from other unicorns, such as gas engine maker Innio and quantum computer firm Quantinuum.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/6-ipos-to-watch-this-week-ahead-spacex-f46496ef?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T14:18:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Coinbase launches SpaceX pre-IPO perpetual futures for international users",
-                "summary": "The USDC-settled contracts let eligible traders outside the U.S. gain price exposure to SpaceX before its expected IPO next week",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/coinbase-spacex-pre-ipo-perpetual-futures-international-060426",
-                "publishDate": "2026-06-04T14:11:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Space Stocks Are Sliding as SpaceX IPO Fever Cools",
-                "summary": "Shares of Rocket Lab were down again early Thursday. Through Wednesday trading, the stock was down 24% over the past week.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/space-stock-rocket-lab-ast-spacex-ipo-1e3fb48b?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T14:04:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.305,
+        "price": 29.315,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1080122,
-            "marketCap": 21078218752,
+            "change": 2.1428564,
+            "marketCap": 21085411328,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.45,
+        "price": 29.525,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9383918,
-            "marketCap": 6110612480,
+            "change": 2.1979933,
+            "marketCap": 6126173696,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
