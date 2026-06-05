@@ -20,7 +20,7 @@
             "marketCap": 193809235968,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.266483
+            "yearTarget": 47.269497
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,12 +332,32 @@
                 "freemium": false
             },
             {
+                "title": "Wall Street's biggest banks just landed Anthropic IPO",
+                "summary": "The biggest companies rarely go public because they are short on cash. They go public because the people who built them, and the investors who funded them, eventually want a way to turn paper wealth into real money. For most of the past four years, that exit door stayed mostly shut. Valuations ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/investing/stocks/wall-streets-biggest-banks-just-landed-the-al-ipo-of-the-year",
+                "publishDate": "2026-06-05T03:33:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Dow Jones Futures: Techs Fall After Dow Hits High, AI Shrugs Off Broadcom, Ciena; Jobs Report Looms",
                 "summary": "Dow Jones futures edged lower overnight, while S&P 500 futures and Nasdaq futures fell modestly. The May jobs report is on tap before Friday's open. S&P Dow Jones Indices announced late Thursday that it won't fast track SpaceX and other upcoming megacap IPOs such as Anthropic and OpenAI into the benchmark index.",
                 "source": "Investor's Business Daily",
                 "category": "finance",
                 "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-broadcom-ciena-jobs-report/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-05T02:38:33Z",
+                "publishDate": "2026-06-05T03:06:29Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Is PL Stock Sliding Nearly 4% In Overnight Trading?",
+                "summary": "Gross margin fell to 56% and is expected to decline further next quarter.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/why-is-pl-stock-sliding-in-overnight-trading/cZ0F5xzRezS",
+                "publishDate": "2026-06-05T02:52:55Z",
                 "premium": false,
                 "freemium": false
             },
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://stocktwits.com/news-articles/markets/equity/spacex-starlink-12-million-customers-160-countries-growth/cZ0FbZzRezg",
                 "publishDate": "2026-06-05T00:09:51Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Goldman Sachs makes bold prediction for biggest IPO in 2026",
-                "summary": "Elon Musk's SpaceX is inching closer to its public debut. But what seems to be catching more attention is its artificial intelligence division. Goldman Sachs reportedly expects revenue from SpaceX's artificial intelligence division to balloon roughly 100-fold by the end of the decade. The ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/crypto/markets/goldman-sachs-makes-bold-prediction-for-biggest-ipo-in-2026",
-                "publishDate": "2026-06-05T00:09:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "S&P 500 Won\u2019t Change Rules for SpaceX",
-                "summary": "S&P Dow Jones Indices said Thursday it won't fast-track the inclusion of SpaceX and this year's other giant IPOs into the S&P 500.  Rules governing the benchmark stock index require newly listed companies to trade on an exchange for at least a year and to show a track record of liquidity and profitability before they become eligible for inclusion.  The committee that oversees the index had considered waiving those requirements to speed the inclusion of SpaceX, OpenAI and other so-called megacap companies that could go public as soon as this year.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-04-2026/card/s-p-500-won-t-change-rules-for-spacex-fu643rf2e4Q6ECr50ztj?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T23:58:25Z",
                 "premium": false,
                 "freemium": false
             }
