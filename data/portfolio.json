@@ -20,7 +20,7 @@
             "marketCap": 193809235968,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.278683
+            "yearTarget": 47.266483
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7045438,
+            "change": 1.70454,
             "marketCap": 168086880,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -332,92 +332,92 @@
                 "freemium": false
             },
             {
-                "title": "Wall Street giants tout SpaceX in glitzy pre-IPO investor events\u00a0",
-                "summary": "By Tatiana Bautzer and Nupur Anand NEW YORK, June 4 (Reuters) - Wall Street's investment banking giants are feting investors at splashy investor events that kicked off on Thursday, giving hopeful",
+                "title": "Dow Jones Futures: Techs Fall After Dow Hits High, AI Shrugs Off Broadcom, Ciena; Jobs Report Looms",
+                "summary": "Dow Jones futures edged lower overnight, while S&P 500 futures and Nasdaq futures fell modestly. The May jobs report is on tap before Friday's open. S&P Dow Jones Indices announced late Thursday that it won't fast track SpaceX and other upcoming megacap IPOs such as Anthropic and OpenAI into the benchmark index.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-ai-stocks-broadcom-ciena-jobs-report/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-05T02:38:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "2 Tech Stocks I Would Buy Before SpaceX",
+                "summary": "These are both highly profitable and have several revenue streams.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/04/2-tech-stocks-i-would-buy-before-spacex/",
+                "publishDate": "2026-06-05T02:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "ASTS, RKLB, RDW, SIDU Slip Overnight: Retail Hopes For SpaceX-Fueled S&P 500 Buying Frenzy Take A Hit",
+                "summary": "The drop came after a broad space rally on Thursday, driven by SpaceX's high-profile JPMorgan IPO roadshow.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/space-stocks-slip-spacex-sp500-retail-hopes-hit/cZ0FPNHRezh",
+                "publishDate": "2026-06-05T02:02:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Wall Street giants tout SpaceX as Musk speaks at pre-IPO investor event",
+                "summary": "By Tatiana Bautzer and Nupur Anand NEW YORK, June 4 (Reuters) - Wall Street's investment banking giants are feting hopeful buyers of Elon Musk's SpaceX at splashy events that kicked off on Thursday,",
                 "source": "Reuters",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/wall-street-giants-tout-spacex-212001170.html",
-                "publishDate": "2026-06-04T21:25:30Z",
+                "publishDate": "2026-06-05T01:39:11Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Want to Invest in the Hottest Upcoming IPOs Now, Including SpaceX, Anthropic, and OpenAI? This Is the Fund for You.",
-                "summary": "The ARK Venture Fund is a way to get into hot IPOs early.",
+                "title": "New details on SpaceX IPO, amendment to filing listing water access as risk factor",
+                "summary": "SpaceX is going public this month, and it could be the largest-ever stock market debut. As it plans this move, SpaceX has amended the language in its IPO filing to address the company's growing need for water, particularly to expand its data centers. CBS News' Kelly O'Grady reports, and University of California, Riverside, associate professor Shaolei Ren joins to discuss.",
+                "source": "CBS News Videos",
+                "category": "news",
+                "url": "https://www.yahoo.com/news/videos/details-spacex-ipo-amendment-filing-011327053.html",
+                "publishDate": "2026-06-05T01:13:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "When Will SpaceX, Anthropic, and OpenAI Join the S&P 500 Index?",
+                "summary": "S&P Dow Jones is considering altering its index admission policy to fast-track their entries.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/04/invest-in-hottest-ipo-now-spacex-openai-fund/",
-                "publishDate": "2026-06-04T21:05:00Z",
+                "url": "https://www.fool.com/investing/2026/06/04/when-will-spacex-anthropic-and-openai-join-sp500/",
+                "publishDate": "2026-06-05T00:34:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Fidelity Just Made It Easier to Buy the SpaceX IPO",
-                "summary": "The brokerage giant is letting customers with as little as $2,000 in a trading account submit offers to buy SpaceX at the IPO price.",
-                "source": "Barrons.com",
+                "title": "SpaceX\u2019s Starlink Surpasses 12M Customers Across 160 Countries As Growth Accelerates",
+                "summary": "Starlink continues its fast expansion across global markets, with subscriber growth accelerating alongside rising satellite capacity.",
+                "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/buy-spacex-stock-ipo-fidelity-brokers-30399d08?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-04T20:26:00Z",
+                "url": "https://stocktwits.com/news-articles/markets/equity/spacex-starlink-12-million-customers-160-countries-growth/cZ0FbZzRezg",
+                "publishDate": "2026-06-05T00:09:51Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Major tech IPOs fetch mixed results \u2014 remember that as SpaceX, OpenAI listings loom",
-                "summary": "Mega IPOs from SpaceX, Anthropic, and OpenAI are already turning heads on Wall Street and Main Street, expected to fetch some of the steepest valuations in the history of U.S. markets. However, those banking on these IPOs being a guaranteed payday might want to revisit those assumptions. Despite ...",
+                "title": "Goldman Sachs makes bold prediction for biggest IPO in 2026",
+                "summary": "Elon Musk's SpaceX is inching closer to its public debut. But what seems to be catching more attention is its artificial intelligence division. Goldman Sachs reportedly expects revenue from SpaceX's artificial intelligence division to balloon roughly 100-fold by the end of the decade. The ...",
                 "source": "TheStreet",
                 "category": "finance",
-                "url": "https://www.thestreet.com/investing/major-tech-ipos-fetch-mixed-results-remember-that-as-spacex-openai-listings-loom",
-                "publishDate": "2026-06-04T20:23:47Z",
+                "url": "https://www.thestreet.com/crypto/markets/goldman-sachs-makes-bold-prediction-for-biggest-ipo-in-2026",
+                "publishDate": "2026-06-05T00:09:21Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "AppLovin Rival Liftoff Stock Jumps After IPO",
-                "summary": "Liftoff Mobile \u2014 a potential rival to AppLovin in the mobile advertising tech space \u2014 completed an initial public offering Thursday, selling 19 million shares at 23, above its 2o to 22 range.  The response highlights investor appetite for new offerings, with the much-anticipated SpaceX IPO expected next week. Shares of quantum computing player Quantinuum climbed as much as 18% in its debut Thursday before retreating.  Liftoff stock rose 19.6% to close at 27.51 on the stock market today.",
-                "source": "Investor's Business Daily",
+                "title": "S&P 500 Won\u2019t Change Rules for SpaceX",
+                "summary": "S&P Dow Jones Indices said Thursday it won't fast-track the inclusion of SpaceX and this year's other giant IPOs into the S&P 500.  Rules governing the benchmark stock index require newly listed companies to trade on an exchange for at least a year and to show a track record of liquidity and profitability before they become eligible for inclusion.  The committee that oversees the index had considered waiving those requirements to speed the inclusion of SpaceX, OpenAI and other so-called megacap companies that could go public as soon as this year.",
+                "source": "The Wall Street Journal",
                 "category": "finance",
-                "url": "https://www.investors.com/news/technology/liftoff-ipo-stock-applovin-news/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-04T20:12:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO: rockets, AI losses and Musk in control",
-                "summary": "SpaceX is inviting investors to bet on Elon Musk's vision of AI data centers in space and humans on Mars.The sky-high valuation for SpaceX -- nearly $1.8 trillion -- is based on the idea that his legendary run will continue and that Musk can achieve his goal of data centers in space and putting people on Mars.",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-rockets-ai-losses-200312350.html",
-                "publishDate": "2026-06-04T20:03:12Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Forget SpaceX: Here's The Blockbuster IPO I'm Waiting For",
-                "summary": "Anthropic just filed its S-1 to go public later this year.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/04/forget-spacex-heres-the-blockbuster-ipo-im-waiting/",
-                "publishDate": "2026-06-04T20:03:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Tech Stocks Fall Late Afternoon",
-                "summary": "Tech stocks were lower late Thursday afternoon, with the State Street Technology Select Sector SPDR",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/sector-tech-stocks-fall-afternoon-195023232.html",
-                "publishDate": "2026-06-04T19:50:23Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "CNBC\u2019s Jim Cramer Predicts SpaceX IPO Will Double to $4 Trillion. He Says Two Factors Will Lead to Massive Buying.",
-                "summary": "CNBC\u2019s Jim Cramer is making a paradoxical call on the pending SpaceX IPO. On Squawk on the Street this week, he predicted the stock could double on its opening trade to a $4 trillion valuation, while publicly trying to talk retail investors out of buying. The mechanics he points to (a microscopic float and forced ... CNBC\u2019s Jim Cramer Predicts SpaceX IPO Will Double to $4 Trillion. He Says Two Factors Will Lead to Massive Buying.",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/04/cnbcs-jim-cramer-predicts-spacex-ipo-will-double-to-4-trillion-he-says-two-factors-will-lead-to-massive-buying/",
-                "publishDate": "2026-06-04T19:39:08Z",
+                "url": "https://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-06-04-2026/card/s-p-500-won-t-change-rules-for-spacex-fu643rf2e4Q6ECr50ztj?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-04T23:58:25Z",
                 "premium": false,
                 "freemium": false
             }
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8919857,
+            "change": 2.89199,
             "marketCap": 21240055808,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9729999,
+            "change": 1.973,
             "marketCap": 6112686592,
             "weekLow": 11.7,
             "weekHigh": 36.52,
