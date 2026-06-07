@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.505,
+        "price": 42.96,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.55999756,
-            "marketCap": 192723910656,
+            "change": -1.80572,
+            "marketCap": 190309597184,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.947308
+            "yearTarget": 46.898663
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,56 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "80% of Wegovy Pill Users Never Took a Weight Loss Drug Before. Does This Number Change the Entire Novo Nordisk Bear Case?",
+                "summary": "Novo Nordisk could maintain this latest early-mover advantage longer than you think.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/07/80-of-wegovy-pill-users-never-took-a-weight-loss/",
+                "publishDate": "2026-06-07T13:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Eyes Next GLP 1 Wave With Amycretin Trial Results",
+                "summary": "Novo Nordisk (CPSE:NOVO B) reported positive phase 2 data for its investigational drug amycretin (zenagamtide), a dual GLP-1 and amylin receptor agonist. The phase 2 trial in adults with type 2 diabetes showed strong glycemic control and significant weight loss, with no clear plateau at higher doses. Safety and efficacy data support moving amycretin into phase 3 trials for both diabetes and obesity. This is the first major update on this new pipeline candidate as Novo Nordisk seeks to...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-eyes-next-glp-151204776.html",
+                "publishDate": "2026-06-06T15:12:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo's Wegovy Pill Isn't Just Beating Expectations -- It's Obliterating Them. Is the Beaten-Down Stock a Buy Now?",
+                "summary": "Investors appear to have left Novo Nordisk behind as they focus on Eli Lilly; that could be a mistake.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/06/novos-wegovy-pill-isnt-just-beating-expectations-i/",
+                "publishDate": "2026-06-06T13:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo And Lilly Push Beyond US As Only 1%-2% Use Obesity Drugs Globally",
+                "summary": "Both drugmakers are expanding internationally as pricing and access remain major barriers.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-lilly-push-beyond-us-183108101.html",
+                "publishDate": "2026-06-05T18:31:08Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "GLP-1 Sales Forecast Jumps To $150 Billion By 2030",
+                "summary": "TD Cowen raises its 2030 GLP-1 sales forecast as Lilly and Novo are expected to keep dominant market shares.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/glp-1-sales-forecast-jumps-171933527.html",
+                "publishDate": "2026-06-05T17:19:33Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Jim Cramer Details How Eli Lilly Could Defeat Competitors",
                 "summary": "Eli Lilly and Company (NYSE:LLY) was among Jim Cramer\u2019s stock calls on Mad Money, as he highlighted several opportunities in out-of-favor sectors. Cramer mentioned the stock while discussing the woes of the healthcare industry, as he said: Next worst is healthcare. Oh, this group has just been annihilated. I\u2019ve never seen it trading this bad [\u2026]",
@@ -80,56 +130,6 @@
                 "publishDate": "2026-06-05T12:53:47Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Tests Wegovy Combinations In Older Adults With Veru Trial",
-                "summary": "Novo Nordisk (CPSE:NOVO B) has signed a clinical supply agreement with Veru Inc. to provide Wegovy for a Phase 2b obesity trial in older adults. The PLATEAU study will test Wegovy alongside Veru\u2019s enobosarm, a selective androgen receptor modulator, in combination therapy. Novo Nordisk retains no development rights to enobosarm but has secured a right of first negotiation for potential future collaborations with Veru. For investors tracking CPSE:NOVO B, this agreement comes as the share...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-tests-wegovy-combinations-060913576.html",
-                "publishDate": "2026-06-05T06:09:13Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "This Small-Cap Biotech Just Soared Over 160% \u2014 What Is The Novo Nordisk Connection?",
-                "summary": "Veru will evaluate enobosarm alongside Novo Nordisk\u2019s Wegovy in the Phase 2b PLATEAU trial in older adults with obesity.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/why-is-veru-stock-soaring-today-novo-nordisk-connection/cZ0ZkHjRey6",
-                "publishDate": "2026-06-04T17:16:12Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Veru Teams Up With Novo Nordisk for Obesity Combination Therapy Trial (VERU)",
-                "summary": "Veru Inc. (NASDAQ:VERU) has entered into a clinical supply agreement with Novo Nordisk A/S (NYSE:NVO) to support its upcoming Phase 2b PLATEAU study, which will investigate a combination treatment for obesity in older adults.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29805/veru-teams-up-with-novo-nordisk-for-obesity-combination-therapy-trial-veru",
-                "publishDate": "2026-06-04T14:22:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Sees More Dealmaking Ahead as Management Looks To Leverage Its GLP-1 Success",
-                "summary": "Eli Lilly knows that its GLP-1 windfall comes with an end date, so it is acting now to prepare.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/04/eli-lilly-sees-more-dealmaking-ahead-as-management-looks-to-leverage-its-glp-1-success/",
-                "publishDate": "2026-06-04T13:47:47Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "ASML Becomes Biggest Company in European History",
-                "summary": "A share price rally pushed ASML's market cap to $668 billion on Wednesday, beating a European record set by Novo Nordisk in June 2024.",
-                "source": "The Daily Upside",
-                "category": "finance",
-                "url": "https://www.thedailyupside.com/technology/semiconductors/asml-becomes-biggest-company-in-european-history/",
-                "publishDate": "2026-06-04T04:01:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.79,
+        "price": 1.71,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 168086880,
+            "change": -4.46927,
+            "marketCap": 160574624,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,102 +322,102 @@
         },
         "NEWS": [
             {
-                "title": "Elon Musk poised to be world's first trillionaire",
-                "summary": "Elon Musk is poised to become the world's first trillionaire when SpaceX stock debuts next week, with the company's target IPO price valuing his stake at a considerable $866.5 billion on paper.",
+                "title": "Stocks reel from a coming rate hike \u2014 and brace for a huge IPO: What to watch this week",
+                "summary": "The highly anticipated SpaceX IPO, Oracle earnings, and inflation data will keep investors busy this week.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/elon-musk-poised-to-be-worlds-first-trillionaire-143438498.html",
-                "publishDate": "2026-06-05T14:34:38Z",
+                "url": "https://finance.yahoo.com/news/stocks-reel-from-a-coming-rate-hike--and-brace-for-a-huge-ipo-what-to-watch-this-week-114019489.html",
+                "publishDate": "2026-06-07T11:40:19Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Tech stocks today: Chip stocks remain pressured as Broadcom earnings spook AI investors",
-                "summary": "This week, tech investors will be watching chip and cybersecurity earnings, the impact of AI on labor market data, and the Computex annual chip summit.",
-                "source": "Yahoo Finance",
+                "title": "Standard Chartered CIO Warns Mega AI IPO Wave Could Create Near-Term Market Headwinds",
+                "summary": "The planned stock market debuts of Anthropic, OpenAI and SpaceX (NASDAQ:SPCX) could create short-term pressure on financial markets as investors absorb a large volume of new equity offerings, according to Steve Brice, Global Chief Investment Officer for Wealth Solutions at Standard Chartered. Speaking on CNBC\u2019s \u201cAccess Middle East\u201d on Tuesday, Brice said the scale of the upcoming listings may create temporary challenges for market participants.",
+                "source": "InvestorsHub",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/live/tech-stocks-today-chip-stocks-remain-pressured-as-broadcom-earnings-spook-ai-investors-100000607.html",
-                "publishDate": "2026-06-01T10:00:00Z",
+                "url": "https://investorshub.advfn.com/market-news/article/29927/standard-chartered-cio-warns-mega-ai-ipo-wave-could-create-near-term-market-headwinds",
+                "publishDate": "2026-06-07T15:09:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Stock market today: Dow jumps 875 points to record high, S&P 500 rebounds after Broadcom stumble",
-                "summary": "US stock futures slipped as doubts about President Trump's ability to end the war with Iran rattled Wall Street.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/live/stock-market-today-dow-jumps-875-points-to-record-high-sp-500-rebounds-after-broadcom-stumble-230054952.html",
-                "publishDate": "2026-06-03T23:00:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO: Is This Space and AI Stock Really Only Worth $780 Billion?",
-                "summary": "A recent report from Morningstar is sounding the alarm.",
+                "title": "1 Fresh Warning About the SpaceX IPO",
+                "summary": "There are several risks investors should consider.",
                 "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/05/spacex-ipo-is-this-space-and-ai-stock-really-only/",
-                "publishDate": "2026-06-05T15:25:00Z",
+                "url": "https://www.fool.com/investing/2026/06/07/1-fresh-warning-about-the-spacex-ipo/",
+                "publishDate": "2026-06-07T14:57:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Ripple (XRP) Slides 6% as Crypto Risks Becoming a \u201cFirst Casualty\u201d of the SpaceX IPO",
-                "summary": "Ripple\u2019s XRP token is taking a hit on Friday, June 5. The cryptocurrency is down 6% to $1.103, extending a multi-day slide that has dragged the broader digital asset complex into the red. Bitcoin (CRYPTO:BTC) and Ethereum (CRYPTO:ETH) are also down, but the XRP move stands out given the token\u2019s famously devoted retail following. The selling ... Ripple (XRP) Slides 6% as Crypto Risks Becoming a \u201cFirst Casualty\u201d of the SpaceX IPO",
+                "title": "Cryptocurrency exchange Bybit to open SpaceX tokenized IPO access",
+                "summary": "Cryptocurrency exchange Bybit said it will offer retail investors access to tokenized \u200cinitial public offerings (IPOs) at the offering price, starting \u200cwith SpaceX as its first offering.  \u2022 For the SpaceX offering, registration and subscription will run from June \u200c7 to June \u206011, 2026, with allocations to be finalised between June 11 and June 12.  \u2022 Users will be able to \u200bpurchase shares \u200bat IPO pricing bypassing \u200bsecondary market competition without \u200cthe need to open or maintain traditional brokerage accounts.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/crypto/articles/cryptocurrency-exchange-bybit-open-spacex-144043401.html",
+                "publishDate": "2026-06-07T14:40:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The S&P 500 Wiped Out $1.4 Trillion in Market Cap After Red-Hot Jobs Report. Here\u2019s Why",
+                "summary": "Just days after the S&P 500 climbed to a fresh record high as artificial intelligence stocks extended their remarkable rally, investors got a reminder that markets rarely move in a straight line. Friday\u2019s sell-off erased roughly $1.4 trillion in market value from S&P 500 companies and marked the benchmark index\u2019s steepest one-day decline since October ... The S&P 500 Wiped Out $1.4 Trillion in Market Cap After Red-Hot Jobs Report. Here\u2019s Why",
                 "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/05/ripple-xrp-slides-6-as-crypto-risks-becoming-a-first-casualty-of-the-spacex-ipo/",
-                "publishDate": "2026-06-05T15:09:23Z",
+                "url": "https://247wallst.com/investing/2026/06/07/the-sp-500-wiped-out-1-4-trillion-in-market-cap-after-red-hot-jobs-report-heres-why/",
+                "publishDate": "2026-06-07T14:37:32Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "How Seriously Should Investors Take SpaceX's AI Narrative?",
-                "summary": "SpaceX lands rockets on drone ships, launches more payload to orbit than every other company combined, and runs the world's largest satellite internet network.",
-                "source": "Trefis",
+                "title": "Alphabet Weighs SpaceX AI Deal And $85b Raise Against Valuation Concerns",
+                "summary": "Alphabet (NasdaqGS:GOOGL) has signed a multi year AI infrastructure agreement with SpaceX to access more than 100,000 Nvidia GPUs housed in SpaceX data centers. The deal is tied to Alphabet's record US$85b equity raise, anchored by Berkshire Hathaway, to fund expanded AI compute capacity. The arrangement highlights growing competition for high end chips between large AI players and points to SpaceX's data centers playing a larger role in AI supply chains. Alphabet enters this agreement with...",
+                "source": "Simply Wall St.",
                 "category": "finance",
-                "url": "https://www.trefis.com/articles/601581/how-seriously-should-investors-take-spacexs-ai-narrative/2026-06-05",
-                "publishDate": "2026-06-05T14:59:29Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/alphabet-weighs-spacex-ai-deal-141246480.html",
+                "publishDate": "2026-06-07T14:12:46Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Musk Just Spoke to SpaceX Investors. $3.4 Trillion in Sales and 5 More Things to Know.",
-                "summary": "SpaceX details are coming out ahead of its expected IPO. Trading in the space stock should start June 12.",
-                "source": "Barrons.com",
+                "title": "Dow Jones Futures Due Amid Market Rally's First Real Test; SpaceX IPO, Apple, Oracle Ahead",
+                "summary": "The market rally broke key support; here's what to do. The SpaceX IPO, Apple's AI push and Oracle earnings loom.",
+                "source": "Investor's Business Daily",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-elon-musk-investors-d28ab20a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-05T14:44:00Z",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-07T13:59:24Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO Effect? Space ETFs Surpass $5 Billion In Assets For The First Time Ever",
-                "summary": "SpaceX\u2018s IPO could be leading a charge for exchange-traded funds (ETFs) dealing with space companies\u2019 stock as the June public listing draws closer. Space ETFs Surpass $5 Billion In a post on X on Wednesday, The Kobeissi Letter posted that...",
-                "source": "Benzinga",
+                "title": "The IPO Market Is Heating Up Again. These Financial Stocks Stand to Win.",
+                "summary": "Animal spirits are running high as private companies like SpaceX and OpenAI look to go public.",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-effect-space-etfs-143108382.html",
-                "publishDate": "2026-06-05T14:31:08Z",
+                "url": "https://www.fool.com/investing/2026/06/07/the-ipo-market-is-heating-up-again-these-financial/",
+                "publishDate": "2026-06-07T13:35:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "AI fever spreads, but are markets masking economic cracks?",
-                "summary": "SpaceX's record-smashing IPO plan shows investors are eager to keep pouring money into all things AI, even as alarm bells ring for the wider economy.\u00a0SpaceX meanwhile aims to raise $75 billion in an initial public offering expected next week, by far the largest IPO ever.",
-                "source": "AFP",
+                "title": "What Jensen Huang Just Said About Elon Musk Shows Why Tesla May Be Worth More Than SpaceX",
+                "summary": "Artificial intelligence has created some of the biggest winners in market history. Nvidia\u2018s (NASDAQ:NVDA) market value has surged into the trillions as companies race to build AI infrastructure, while investors have rewarded businesses tied to data centers, chips, and cloud computing. Yet the next phase of AI may not live inside servers. It may walk ... What Jensen Huang Just Said About Elon Musk Shows Why Tesla May Be Worth More Than SpaceX",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/economy/articles/ai-fever-spreads-markets-masking-141643374.html",
-                "publishDate": "2026-06-05T14:16:43Z",
+                "url": "https://247wallst.com/investing/2026/06/07/what-jensen-huang-just-said-about-elon-musk-shows-why-tesla-may-be-worth-more-than-spacex/",
+                "publishDate": "2026-06-07T12:58:19Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "How to invest in Elon Musk\u2019s SpaceX IPO \u2013 and whether you should",
-                "summary": "Investors hope every stock they pick will go \u201cto the moon\u201d, but some companies take that more literally than others.",
-                "source": "The Telegraph",
+                "title": "2 Stocks That Win No Matter What Happens to SpaceX After Its IPO",
+                "summary": "The SpaceX IPO is going to be huge, but no one knows what the stock will do once it's public.",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/invest-elon-musk-spacex-ipo-140914587.html",
-                "publishDate": "2026-06-05T14:09:14Z",
+                "url": "https://www.fool.com/investing/2026/06/07/2-stocks-that-win-no-matter-what-happens-to-spacex/",
+                "publishDate": "2026-06-07T12:35:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.445,
+        "price": 28.58,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.28784624,
-            "marketCap": 21178916864,
+            "change": -3.21707,
+            "marketCap": 20556748800,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.01,
+        "price": 26.73,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -8.320594,
-            "marketCap": 5604334080,
+            "change": -9.2668,
+            "marketCap": 5546236416,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
