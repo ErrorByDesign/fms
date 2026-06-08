@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.995,
+        "price": 41.87,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.246276,
-            "marketCap": 186034716672,
+            "change": -2.5372443,
+            "marketCap": 185480970240,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.995327
+            "yearTarget": 46.971092
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is Novo Nordisk A/S (NVO) A Good Stock To Buy Now?",
+                "summary": "Is NVO a good stock to buy? We came across a bullish thesis on Novo Nordisk A/S on Hated Moats\u2019s Substack by Hated Moats Investors. In this article, we will summarize the bulls\u2019 thesis on NVO. Novo Nordisk A/S\u2019s share was trading at $42.96 as of June 5th. NVO\u2019s trailing and forward P/E were 10.09 and 12.77 [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-good-stock-152126911.html",
+                "publishDate": "2026-06-08T15:21:26Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Equities Traded in the US as American Depositary Receipts Start Week Higher in Monday Trading",
                 "summary": "European equities traded in the US as American depositary receipts kicked off the week higher late M",
@@ -72,6 +82,16 @@
                 "freemium": false
             },
             {
+                "title": "ADA \u201826: Lilly\u2019s dominance, Pfizer\u2019s \u2018foundational\u2019 drug and Roche\u2019s \u2018me-too\u2019 option",
+                "summary": "At a big meeting for weight loss drugs, Lilly\u2019s \u201ctriple G\u201d therapy set a new standard as lingering doubts surrounded other competing treatments.",
+                "source": "BioPharma Dive",
+                "category": "finance",
+                "url": "https://www.biopharmadive.com/news/ada-2026-lilly-retatrutide-pfizer-berobenatide-roche-enicepatide/822208/",
+                "publishDate": "2026-06-08T11:01:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Novo Nordisk shares retreat after ADA conference updates fail to excite investors (NVO)",
                 "summary": "Novo Nordisk (NYSE:NVO) shares fell 3% on Monday as investors digested new data and commercial updates presented by the company during the American Diabetes Association (ADA) conference over the weekend. While the event featured encouraging clinical findings for Novo\u2019s next-generation diabetes therapies, analysts said the overall readout provided little that would materially alter the company\u2019s near-term competitive position.",
                 "source": "InvestorsHub",
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://www.wsj.com/health/pharma/novo-nordisk-weight-loss-pill-prescriptions-hit-three-million-since-launch-43349d33?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-06-08T06:42:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Wall Street sees huge upside as Novo Nordisk backs biotech company",
-                "summary": "Veru (VERU) stock has not been easy to own. The little biotech has spent years persuading investors that its experimental obesity technique can matter in a market dominated by giants. That's a tough sell with Novo Nordisk (NVO) and Eli Lilly (LLY) already owning the narrative with blockbuster ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/health/wall-street-sees-huge-upside-novo-nordisk-veru-deal",
-                "publishDate": "2026-06-08T02:03:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "80% of Wegovy Pill Users Never Took a Weight Loss Drug Before. Does This Number Change the Entire Novo Nordisk Bear Case?",
-                "summary": "Novo Nordisk could maintain this latest early-mover advantage longer than you think.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/07/80-of-wegovy-pill-users-never-took-a-weight-loss/",
-                "publishDate": "2026-06-07T13:05:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -372,6 +372,16 @@
                 "freemium": false
             },
             {
+                "title": "Wall Street Bank Warns SpaceX IPO Could Trigger Large Sell-Off in Popular Semiconductor Stocks",
+                "summary": "BNP Paribas is warning clients that this week\u2019s SpaceX IPO could do something the AI rally has not yet had to absorb: force a wave of selling in the very semiconductor stocks that have driven the market higher. Retail investors are expected to be heavy buyers of the IPO, and they will need to raise ... Wall Street Bank Warns SpaceX IPO Could Trigger Large Sell-Off in Popular Semiconductor Stocks",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/08/wall-street-bank-warns-spacex-ipo-could-trigger-large-sell-off-in-popular-semiconductor-stocks/",
+                "publishDate": "2026-06-08T14:55:30Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Ranking the Market\u2019s Bets on 3 Blockbuster IPOs: OpenAI, Stripe, and Consensys",
                 "summary": "The 2026 initial public offering (IPO) calendar has narrowed down to a handful of marquee names that retail and institutional investors have been waiting on for years. While the SpaceX IPO grabs the headlines, three others also stand out: OpenAI, Stripe, and Consensys (the parent of MetaMask). All three are still private, with no listed ... Ranking the Market\u2019s Bets on 3 Blockbuster IPOs: OpenAI, Stripe, and Consensys",
                 "source": "24/7 Wall St.",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-08T14:06:05Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Tesla Stock Rises Ahead of SpaceX\u2019s Friday IPO",
-                "summary": "Investors are waiting to see if some investors will sell Tesla stock to buy SpaceX shares.  The two companies have grown close, collaborating on AI applications and semiconductor manufacturing.  Any merger will be after the SpaceX IPO.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/tesla-stock-price-spacex-ipo-1f0ca91c?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-08T13:59:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.68,
+        "price": 28.76,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.34989637,
-            "marketCap": 20628674560,
+            "change": 0.6298121,
+            "marketCap": 20686217216,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.1,
+        "price": 27.13,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3842157,
-            "marketCap": 5623008256,
+            "change": 1.4964446,
+            "marketCap": 5629232640,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
