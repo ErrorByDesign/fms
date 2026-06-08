@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.87,
+        "price": 41.71,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.5372443,
-            "marketCap": 185480970240,
+            "change": -2.9096835,
+            "marketCap": 184772182016,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.971092
+            "yearTarget": 46.989597
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -49,6 +49,16 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151025326.html",
                 "publishDate": "2026-06-08T15:10:25Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Real-World Data Supports Ozempic Against LLY's Mounjaro",
+                "summary": "NVO says real-world data show Ozempic 2 mg matches Eli Lilly's Mounjaro on glucose control and is linked to a higher likelihood of meaningful weight loss.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-real-world-data-150000458.html",
+                "publishDate": "2026-06-08T15:00:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.pharmavoice.com/news/3-potential-takeover-targets-obesity-lilly-viking-kailera-structure/822173/",
                 "publishDate": "2026-06-08T08:58:37Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Weight-Loss Pill Prescriptions Hit Three Million Since Launch",
-                "summary": "The Danish drugmaker said the pill hit one million prescriptions 12 weeks after reaching U.S. pharmacies and online providers, and reached a further two million prescriptions in the following 10 weeks.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/novo-nordisk-weight-loss-pill-prescriptions-hit-three-million-since-launch-43349d33?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-08T06:42:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.76,
+        "price": 28.65,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6298121,
-            "marketCap": 20686217216,
+            "change": 0.24492545,
+            "marketCap": 20607096832,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.13,
+        "price": 27.05,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4964446,
-            "marketCap": 5629232640,
+            "change": 1.1971556,
+            "marketCap": 5612633088,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
