@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.625,
+        "price": 41.57,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.10754,
-            "marketCap": 184395644928,
+            "change": -3.2355666,
+            "marketCap": 184151998464,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.972614
+            "yearTarget": 46.976315
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,12 +32,42 @@
         },
         "NEWS": [
             {
+                "title": "Novo Drops 3.2% As CEO Eyes Longevity And Aesthetics",
+                "summary": "Novo's CEO says semaglutide could push the company beyond obesity and diabetes into longevity and appearance-related medicine.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-drops-3-2-ceo-172618657.html",
+                "publishDate": "2026-06-08T17:26:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "A Weight-Loss Rival Just Crashed 23%. Why That's Great News for Eli Lilly and Novo Nordisk.",
                 "summary": "Zealand Pharma's stock is cratering today after disappointing results from a late-stage trial of its GLP-1 dual-receptor agonist drug.",
                 "source": "Motley Fool",
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/08/a-weight-loss-rival-just-crashed-23-why-that-s-great-news-for-eli-lilly-and-novo-nordisk/",
                 "publishDate": "2026-06-08T16:34:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "ALT and the Rise of Dual Agonists Targeting Liver Disease",
+                "summary": "Altimmune's dual-agonist pemvidutide faces key 2026 tests in MASH and alcohol-related diseases that could validate its multi-pathway liver strategy.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/alt-rise-dual-agonists-targeting-160900840.html",
+                "publishDate": "2026-06-08T16:09:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "ALT Stock Guide to Pemvidutide's MASH, AUD and ALD Setup",
+                "summary": "Altimmune is betting on pemvidutide across MASH and alcohol-related liver diseases, with key 2026 data and a planned Phase III launch shaping its path.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/alt-stock-guide-pemvidutides-mash-160600871.html",
+                "publishDate": "2026-06-08T16:06:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -100,36 +130,6 @@
                 "publishDate": "2026-06-08T15:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Can Wegovy Pill's Rapid Uptake Give Novo Nordisk an Edge Over LLY?",
-                "summary": "NVO's oral Wegovy launch is off to a blistering start, topping 3 million prescriptions in five months and drawing many first-time GLP-1 users.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/wegovy-pills-rapid-uptake-novo-133600327.html",
-                "publishDate": "2026-06-08T13:36:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Explores Wegovy Combination And Wider Semaglutide Benefits As Shares Fall",
-                "summary": "Novo Nordisk (NYSE:NVO) has entered a clinical supply agreement with Veru to test a combination of Wegovy and enobosarm in an obesity trial focused on older adults. The company also presented new semaglutide data at the American Diabetes Association Scientific Sessions on health effects beyond weight loss. The stock most recently closed at $42.96, with the share price down 18.0% year to date and down 41.2% over the past year. Novo Nordisk, trading under NYSE:NVO, is drawing attention as it...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-explores-wegovy-combination-131818715.html",
-                "publishDate": "2026-06-08T13:18:18Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Wegovy pill reaches 3 million U.S. prescriptions",
-                "summary": "More than 80% of new Wegovy pill prescriptions are for patients who had never previously taken a GLP-1 drug",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/novo-nordisk-wegovy-pill-3-million-prescriptions-060826",
-                "publishDate": "2026-06-08T12:22:24Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9044409,
+            "change": 2.9239738,
             "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.89,
+        "price": 26.915,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5985778,
-            "marketCap": 5579435008,
+            "change": 0.6921114,
+            "marketCap": 5584622592,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
