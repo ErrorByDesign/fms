@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.71,
+        "price": 41.645,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.9096835,
-            "marketCap": 184772182016,
+            "change": -3.060984,
+            "marketCap": 184484249600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.989597
+            "yearTarget": 46.97733
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "A Weight-Loss Rival Just Crashed 23%. Why That's Great News for Eli Lilly and Novo Nordisk.",
+                "summary": "Zealand Pharma's stock is cratering today after disappointing results from a late-stage trial of its GLP-1 dual-receptor agonist drug.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/08/a-weight-loss-rival-just-crashed-23-why-that-s-great-news-for-eli-lilly-and-novo-nordisk/",
+                "publishDate": "2026-06-08T16:34:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One Stock Is Rising.",
+                "summary": "The weight-loss rivals provided positive updates on their obesity treatments but to differing reactions among investors.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/eli-lilly-stock-novo-nordisk-weight-loss-02bcd4bc?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-08T15:55:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Is Novo Nordisk A/S (NVO) A Good Stock To Buy Now?",
                 "summary": "Is NVO a good stock to buy? We came across a bullish thesis on Novo Nordisk A/S on Hated Moats\u2019s Substack by Hated Moats Investors. In this article, we will summarize the bulls\u2019 thesis on NVO. Novo Nordisk A/S\u2019s share was trading at $42.96 as of June 5th. NVO\u2019s trailing and forward P/E were 10.09 and 12.77 [\u2026]",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-06-08T10:42:46Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One Stock Is Rising.",
-                "summary": "The weight-loss rivals provided positive updates on their obesity treatments but to differing reactions among investors.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-stock-novo-nordisk-weight-loss-02bcd4bc?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-08T09:44:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 potential takeover targets in obesity",
-                "summary": "Momentum is building to bring a next-generation weight loss drug to market, which could set up these three biotechs to strike a deal with a larger pharma.",
-                "source": "Pharma Voice",
-                "category": "finance",
-                "url": "https://www.pharmavoice.com/news/3-potential-takeover-targets-obesity-lilly-viking-kailera-structure/822173/",
-                "publishDate": "2026-06-08T08:58:37Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.76,
+        "price": 1.77,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9239738,
-            "marketCap": 165269792,
+            "change": 3.5087686,
+            "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.65,
+        "price": 28.54,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.24492545,
-            "marketCap": 20607096832,
+            "change": -0.13995454,
+            "marketCap": 20527978496,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.05,
+        "price": 27.015,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1971556,
-            "marketCap": 5612633088,
+            "change": 1.0662172,
+            "marketCap": 5605371392,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
