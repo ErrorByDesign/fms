@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.26,
+        "price": 41.02,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.9576316,
-            "marketCap": 182778707968,
+            "change": -4.5158257,
+            "marketCap": 181715533824,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.94029
+            "yearTarget": 46.93913
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One Stock Is Rising.",
+                "summary": "The weight-loss rivals provided positive updates on their obesity treatments but to differing reactions among investors.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/eli-lilly-stock-novo-nordisk-weight-loss-02bcd4bc?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-08T19:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Drops 3.2% As CEO Eyes Longevity And Aesthetics",
                 "summary": "Novo's CEO says semaglutide could push the company beyond obesity and diabetes into longevity and appearance-related medicine.",
@@ -68,16 +78,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/alt-stock-guide-pemvidutides-mash-160600871.html",
                 "publishDate": "2026-06-08T16:06:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One Stock Is Rising.",
-                "summary": "The weight-loss rivals provided positive updates on their obesity treatments but to differing reactions among investors.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-stock-novo-nordisk-weight-loss-02bcd4bc?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-08T15:55:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.88,
+        "price": 28.49,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0496824,
-            "marketCap": 20772528128,
+            "change": -0.31490606,
+            "marketCap": 20492013568,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.5,
+        "price": 26.61,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.86045474,
-            "marketCap": 5498513408,
+            "change": -0.4489298,
+            "marketCap": 5521337344,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
