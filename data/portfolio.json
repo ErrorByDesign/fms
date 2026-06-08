@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.57,
+        "price": 41.365,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2355666,
-            "marketCap": 184151998464,
+            "change": -3.7127502,
+            "marketCap": 183243866112,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.976315
+            "yearTarget": 46.970512
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -342,6 +342,16 @@
                 "freemium": false
             },
             {
+                "title": "SpaceX IPO Is 2 Times Oversubscribed. That\u2019s Not as Good as It Sounds.",
+                "summary": "SpaceX\u2019s IPO has attracted roughly $150 billion in orders for $75 billion of stock. Investors are watching whether demand builds enough to support a strong first-day rally.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-oversubscribed-demand-stock-price-803ce3df?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-08T17:14:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Is Going Public at $1.8 Trillion. Here's What Investors Need to Know Before the Biggest IPO in History.",
                 "summary": "The SpaceX IPO is about far more than launching rockets.",
                 "source": "Motley Fool",
@@ -402,16 +412,6 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO Is 2 Times Oversubscribed. That\u2019s Not as Good as It Sounds.",
-                "summary": "SpaceX\u2019s IPO has attracted roughly $150 billion in orders for $75 billion of stock. Investors are watching whether demand builds enough to support a strong first-day rally.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-oversubscribed-demand-stock-price-803ce3df?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-08T14:14:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "How to Buy the SpaceX IPO Stock? Crypto Users Have an Inside Lane",
                 "summary": "The SpaceX IPO is twice oversubscribed. Crypto users on Bybit and Kraken can subscribe to tokenized shares using USDC before June 11.",
                 "source": "BeInCrypto",
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.41,
+        "price": 28.415,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5948218,
-            "marketCap": 20434472960,
+            "change": -0.5773233,
+            "marketCap": 20438069248,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.915,
+        "price": 26.855,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6921114,
-            "marketCap": 5584622592,
+            "change": 0.46763936,
+            "marketCap": 5572172800,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
