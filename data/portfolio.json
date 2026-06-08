@@ -20,7 +20,7 @@
             "marketCap": 181715533824,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.937897
+            "yearTarget": 46.969063
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -402,22 +402,22 @@
                 "freemium": false
             },
             {
-                "title": "Bitcoin Price Rebounds From 2-Month Low. SpaceX IPO Siphons Capital, Analyst Says.",
-                "summary": "Bitcoin price rebounds modestly after falling to a two-month low. ETF outflows persist as SpaceX IPO amasses liquidity. Crypto stocks rise.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/bitcoin-price-rebound-liquidations-etf-flows-spacex-ipo-capital/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-08T14:15:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "How to Buy the SpaceX IPO Stock? Crypto Users Have an Inside Lane",
                 "summary": "The SpaceX IPO is twice oversubscribed. Crypto users on Bybit and Kraken can subscribe to tokenized shares using USDC before June 11.",
                 "source": "BeInCrypto",
                 "category": "finance",
                 "url": "https://beincrypto.com/how-to-buy-spacex-ipo-crypto-tokenized-shares/",
                 "publishDate": "2026-06-08T14:06:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX: The Problem With Starlink's Next 10 Million Users",
+                "summary": "SpaceX is set to go public in a few days at a valuation north of $1.7 trillion. The narrative has quite a few big, futuristic bets: Starship, orbital data centers, and ambitions that stretch far beyond Earth. But the business doing much of the heavy lifting today is Starlink. The satellite internet network has become SpaceX's primary profit engine, but it also carries some very real risks. Average revenue per user is falling, capital requirements remain heavy, and each new wave of customers appe",
+                "source": "Trefis",
+                "category": "finance",
+                "url": "https://www.trefis.com/articles/601928/spacex-the-problem-with-starlinks-next-10-million-users/2026-06-08",
+                "publishDate": "2026-06-08T13:57:49Z",
                 "premium": false,
                 "freemium": false
             }
