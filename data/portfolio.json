@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.645,
+        "price": 41.625,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.060984,
-            "marketCap": 184484249600,
+            "change": -3.10754,
+            "marketCap": 184395644928,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.97733
+            "yearTarget": 46.972614
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -48,6 +48,26 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/eli-lilly-stock-novo-nordisk-weight-loss-02bcd4bc?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-06-08T15:55:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Is Altimmune Worth Buying Ahead of 2026 Catalysts?",
+                "summary": "ALT faces a catalyst-packed 2026, with a pivotal MASH study launch and alcohol-use-disorder data set to test pemvidutide's multi-indication story.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/altimmune-worth-buying-ahead-2026-155300710.html",
+                "publishDate": "2026-06-08T15:53:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Roche, Nurix Team Up to Advance BTK Degrader Bexobrutideg",
+                "summary": "Roche collaborates with Nurix on bexobrutideg, a BTK degrader for blood cancers, while expanding potential use into immunology and neurology.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/roche-nurix-team-advance-btk-154100954.html",
+                "publishDate": "2026-06-08T15:41:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -110,26 +130,6 @@
                 "publishDate": "2026-06-08T12:22:24Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "ADA \u201826: Lilly\u2019s dominance, Pfizer\u2019s \u2018foundational\u2019 drug and Roche\u2019s \u2018me-too\u2019 option",
-                "summary": "At a big meeting for weight loss drugs, Lilly\u2019s \u201ctriple G\u201d therapy set a new standard as lingering doubts surrounded other competing treatments.",
-                "source": "BioPharma Dive",
-                "category": "finance",
-                "url": "https://www.biopharmadive.com/news/ada-2026-lilly-retatrutide-pfizer-berobenatide-roche-enicepatide/822208/",
-                "publishDate": "2026-06-08T11:01:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk shares retreat after ADA conference updates fail to excite investors (NVO)",
-                "summary": "Novo Nordisk (NYSE:NVO) shares fell 3% on Monday as investors digested new data and commercial updates presented by the company during the American Diabetes Association (ADA) conference over the weekend. While the event featured encouraging clinical findings for Novo\u2019s next-generation diabetes therapies, analysts said the overall readout provided little that would materially alter the company\u2019s near-term competitive position.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/29963/novo-nordisk-shares-retreat-after-ada-conference-updates-fail-to-excite-investors-nvo",
-                "publishDate": "2026-06-08T10:42:46Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5087686,
-            "marketCap": 166208816,
+            "change": 2.9044409,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.54,
+        "price": 28.41,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.13995454,
-            "marketCap": 20527978496,
+            "change": -0.5948218,
+            "marketCap": 20434472960,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.015,
+        "price": 26.89,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0662172,
-            "marketCap": 5605371392,
+            "change": 0.5985778,
+            "marketCap": 5579435008,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
