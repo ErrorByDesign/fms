@@ -20,7 +20,7 @@
             "marketCap": 190309597184,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.933846
+            "yearTarget": 46.93978
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -332,12 +332,32 @@
                 "freemium": false
             },
             {
+                "title": "Better Aerospace ETF: Tema's NASA (Which Includes SpaceX) vs. U.S. Global's JETS",
+                "summary": "Explore how these funds differ in sector focus, risk profiles, and portfolio strategies as they target distinct segments of the aerospace industry.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/coverage/etfs/2026/06/07/better-aerospace-etf-tema-s-nasa-which-includes-spacex-vs-u-s-global-s-jets/",
+                "publishDate": "2026-06-08T03:20:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO Now Accessible Via Crypto Exchange Bybit's Tokenized Offering, But Here's What You Should Know",
+                "summary": "Cryptocurrency exchange Bybit announced on Saturday that it will enable investors to participate in the tokenized initial public offering linked to Elon Musk\u2019s aerospace giant, SpaceX. Use USDC To Buy SpaceX The offering will be via Bybit IPO Express, a platform that lets users submit a subscription request for a tokenized representation of an IPO. Eligible users can sign up for the SpaceX IPO offering and submit subscription requests using supported cryptocurrencies, including USDC (CRYPTO: USD",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/crypto/articles/spacex-ipo-now-accessible-via-031205018.html",
+                "publishDate": "2026-06-08T03:12:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Dow Jones Futures Fall, Techs Rise As Iran, Israel Exchange Fire; Market Rally Faces First Real Test",
                 "summary": "Futures fell after Iran fired missiles at Israel, which retaliated despite Trump urging restraint. The SpaceX IPO, Apple's AI push and Oracle earnings are ahead.",
                 "source": "Investor's Business Daily",
                 "category": "finance",
                 "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-08T02:25:57Z",
+                "publishDate": "2026-06-08T02:55:19Z",
                 "premium": false,
                 "freemium": false
             },
@@ -398,26 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/markets-face-triple-threat-iran-224339869.html",
                 "publishDate": "2026-06-07T22:43:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
-                "summary": "Investors interested in buying this newly minted stock at its IPO have much to consider.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/07/reasons-to-buy-spacex-stock-ipo-reason-wait/",
-                "publishDate": "2026-06-07T21:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Ten Trump Officials Sit On Up To $44 Million In Record SpaceX IPO: 'No Analogs,' Ethics Lawyers Say",
-                "summary": "Elon Musk\u2018s SpaceX is days away from what may become the biggest IPO ever, but a report Wednesday morning reports at least 10 Trump administration officials hold stakes worth as much as $44 million in the rocket company and xAI,...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ten-trump-officials-sit-44-213121029.html",
-                "publishDate": "2026-06-07T21:31:21Z",
                 "premium": false,
                 "freemium": false
             }
