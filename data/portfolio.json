@@ -20,7 +20,7 @@
             "marketCap": 190309597184,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.867588
+            "yearTarget": 46.933846
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Wall Street sees huge upside as Novo Nordisk backs biotech company",
+                "summary": "Veru (VERU) stock has not been easy to own. The little biotech has spent years persuading investors that its experimental obesity technique can matter in a market dominated by giants. That's a tough sell with Novo Nordisk (NVO) and Eli Lilly (LLY) already owning the narrative with blockbuster ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/health/wall-street-sees-huge-upside-novo-nordisk-veru-deal",
+                "publishDate": "2026-06-08T02:03:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "80% of Wegovy Pill Users Never Took a Weight Loss Drug Before. Does This Number Change the Entire Novo Nordisk Bear Case?",
                 "summary": "Novo Nordisk could maintain this latest early-mover advantage longer than you think.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/lly-rises-14-month-hold-125600959.html",
                 "publishDate": "2026-06-05T12:56:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "TD Cowen Raises GLP-1 Sales Forecast To $150B By 2030 \u2013 Industry Leaders LLY, NVO To Remain Dominant",
-                "summary": "TD Cowen expects around 59 million patients worldwide to be using GLP-1 therapies by the end of the decade, up sharply from its previous estimate of 46 million.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/td-cowen-glp1-sales-forecast-lilly-novo-to-remain-leaders/cZ0FkzQReCB",
-                "publishDate": "2026-06-05T12:53:47Z",
                 "premium": false,
                 "freemium": false
             }
@@ -332,6 +332,76 @@
                 "freemium": false
             },
             {
+                "title": "Dow Jones Futures Fall, Techs Rise As Iran, Israel Exchange Fire; Market Rally Faces First Real Test",
+                "summary": "Futures fell after Iran fired missiles at Israel, which retaliated despite Trump urging restraint. The SpaceX IPO, Apple's AI push and Oracle earnings are ahead.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-08T02:25:57Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Dan Ives spills the beans on SpaceX future",
+                "summary": "The best investments are usually the ones you are not allowed to make. By the time a great company finally opens its doors to the public, the people who got in early have already collected the part of the story worth telling. What reaches everyone else tends to be the receipt, marked up and handed ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/investing/dan-ives-spills-the-beans-on-spacex-future",
+                "publishDate": "2026-06-08T01:03:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "How SpaceX Became Embedded in America\u2019s War Machine",
+                "summary": "Pledges to quickly deploy technology and ties cultivated with the Pentagon have helped land new contracts totaling billions of dollars.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/politics/national-security/how-spacex-became-embedded-in-americas-war-machine-ca4878e8?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-08T01:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Prediction: SpaceX Won't Merge With Tesla. It's Going to Buy This Nvidia-Backed Artificial Intelligence (AI) Company Instead.",
+                "summary": "Some investors think SpaceX could be interested in combining with Tesla following its $75 billion IPO.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/07/prediction-spacex-wont-merge-with-tesla-its-going/",
+                "publishDate": "2026-06-08T00:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX's AI Business Lost $6.4 Billion Last Year \u2014 And That's Exactly The Point",
+                "summary": "SpaceX\u2018s AI business lost a staggering $6.4 billion last year. Most companies would call that a problem. Elon Musk appears to call it an investment. Buried in the company\u2019s IPO fact sheet is a glimpse into what could become one...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/articles/spacexs-ai-business-lost-6-233125128.html",
+                "publishDate": "2026-06-07T23:31:25Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Want Nothing to Do With SpaceX? Buy This Ultra-Low-Cost Dividend Growth ETF in June.",
+                "summary": "The Vanguard Dividend Appreciation ETF is the perfect fit for investors looking to build a portfolio around high-quality companies that pay growing dividends.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/07/spacex-ipo-buy-dividend-appreciation-etf-june/",
+                "publishDate": "2026-06-07T23:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Markets face triple threat of Iran war reigniting, AI bubble popping, and Fed rates rising while epic SpaceX IPO could fuel even more chaos",
+                "summary": "Tensions in the Gulf had already been escalating as the U.S. and Iran increasingly exchange fire, with both sides trying to establish their own shipping lanes in the Strait of Hormuz.",
+                "source": "Fortune",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/markets-face-triple-threat-iran-224339869.html",
+                "publishDate": "2026-06-07T22:43:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "3 Reasons to Buy SpaceX Stock at Its IPO -- and 2 Reasons to Wait",
                 "summary": "Investors interested in buying this newly minted stock at its IPO have much to consider.",
                 "source": "Motley Fool",
@@ -342,82 +412,12 @@
                 "freemium": false
             },
             {
-                "title": "Dow Jones Futures Due As Iran Attacks Israel; Market Rally Faces First Real Test",
-                "summary": "Futures loom after the stock market rally broke key support. Iran fired missiles at Israel. The SpaceX IPO, Apple's AI push and Oracle earnings are ahead.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-what-to-do-market-rally-test-spacex-ipo-apple-oracle/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-07T21:00:43Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO to Mint Millionaire Welders as Experts Warn of Post-Listing Slumps",
-                "summary": "SpaceX IPO set to mint employee millionaires as a welder's $10,000 grant nears $880,000, but experts flag post-listing risks.",
-                "source": "BeInCrypto",
-                "category": "finance",
-                "url": "https://beincrypto.com/spacex-ipo-welder-millionaire-windfall/",
-                "publishDate": "2026-06-07T20:58:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Elon Musk In Direct Talks With ASML For $119B TeraFab Chip Plant: CEO Calls Him 'Very Serious'",
-                "summary": "Elon Musk's proposed TeraFab chip manufacturing facility in Texas, intended to support AI infrastructure expansion, is already drawing attention from chip-equipment supplier ASML (NASDAQ:ASML), according to Reuters. ASML CEO Christophe Fouquet warned that Musk's semiconductor ambitions tied to Tesla Inc.(NASDAQ:TSLA),...",
+                "title": "Ten Trump Officials Sit On Up To $44 Million In Record SpaceX IPO: 'No Analogs,' Ethics Lawyers Say",
+                "summary": "Elon Musk\u2018s SpaceX is days away from what may become the biggest IPO ever, but a report Wednesday morning reports at least 10 Trump administration officials hold stakes worth as much as $44 million in the rocket company and xAI,...",
                 "source": "Benzinga",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/articles/elon-musk-direct-talks-asml-200155324.html",
-                "publishDate": "2026-06-07T20:01:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Did Anthropic and Google Just Give Investors 2.2 Billion Reasons to Buy the SpaceX IPO?",
-                "summary": "SpaceX recently unveiled a large new compute deal with Google, in addition to a previously announced one with Anthropic.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/07/did-anthropic-and-google-just-give-investors-22-billion-reasons-to-buy-the-spacex-ipo/",
-                "publishDate": "2026-06-07T19:58:43Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Bybit Launches IPO Express With Tokenized SpaceX Access",
-                "summary": "Bybit is pushing tokenized equities closer to the IPO market with the launch of IPO Express, a new product that wil...",
-                "source": "CryptoProwl",
-                "category": "finance",
-                "url": "https://www.cryptoprowl.com/releases/bybit-launches-ipo-express-with-tokenized-spacex-access-5799",
-                "publishDate": "2026-06-07T19:44:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO is Coming Soon. What Does It Mean for Crypto?",
-                "summary": "The SpaceX IPO is a one-time event that probably won't have a lasting impact on crypto.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/07/the-spacex-ipo-is-coming-soon-what-does-it-mean-fo/",
-                "publishDate": "2026-06-07T19:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Everyone's Glued To The SpaceX IPO \u2014 But Elon Musk's Real 'Holy Grail' Could Land In 2027, Dan Ives Says",
-                "summary": "SpaceX has set its IPO pricing at $135 as the company nears a historical public listing that could break records. Wedbush analyst Dan Ives calls the public listing a \"watershed moment\" and shares his take on the IPO. Ives on...",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/everyones-glued-spacex-ipo-elon-193134342.html",
-                "publishDate": "2026-06-07T19:31:34Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The 2 Easiest Ways for Retail Investors to Buy Into the SpaceX IPO",
-                "summary": "SpaceX is allocating a sizeable portion of its available IPO shares to retail investors via select brokerages.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/07/easy-way-retail-invest-spacex-ipo-hood-sofi/",
-                "publishDate": "2026-06-07T19:15:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ten-trump-officials-sit-44-213121029.html",
+                "publishDate": "2026-06-07T21:31:21Z",
                 "premium": false,
                 "freemium": false
             }
