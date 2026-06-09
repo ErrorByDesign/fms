@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.4325,
+        "price": 41.78,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0056033,
-            "marketCap": 183506829312,
+            "change": 1.8527507,
+            "marketCap": 185045925888,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.981976
+            "yearTarget": 47.014866
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Amneal and Pfizer GLP-1 Deal: New Growth Lever?",
+                "summary": "AMRX is expanding into GLP-1 manufacturing and biosimilars, using partnerships and acquisitions to strengthen its higher-value product strategy.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/amneal-pfizer-glp-1-deal-161600144.html",
+                "publishDate": "2026-06-09T16:16:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Can Eli Lilly's Clinical Momentum Keep the Stock at Record Highs?",
                 "summary": "LLY stock hits a new all-time high as data from phase III studies show Foundayo outperforming rivals and retatrutide delivering strong weight-loss and diabetes results.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/altimmune-worth-buying-ahead-2026-155300710.html",
                 "publishDate": "2026-06-08T15:53:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Roche, Nurix Team Up to Advance BTK Degrader Bexobrutideg",
-                "summary": "Roche collaborates with Nurix on bexobrutideg, a BTK degrader for blood cancers, while expanding potential use into immunology and neurology.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/roche-nurix-team-advance-btk-154100954.html",
-                "publishDate": "2026-06-08T15:41:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.64,
+        "price": 28.925,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5264992,
-            "marketCap": 20599904256,
+            "change": 1.5268496,
+            "marketCap": 20804896768,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.03,
+        "price": 25.455,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.9376173,
-            "marketCap": 5193501696,
+            "change": -4.340476,
+            "marketCap": 5281684992,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
