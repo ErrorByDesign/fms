@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.02,
+        "price": 41.68,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.51583,
-            "marketCap": 181679865856,
+            "change": 1.6085788,
+            "marketCap": 184603033600,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.963696
+            "yearTarget": 47.068405
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Middle East Erupts Again: Buy these Healthcare ETFs Before the Next Strike",
+                "summary": "Healthcare ETFs are gaining attention as Middle East tensions and market volatility boost demand for defensive sectors.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/middle-east-erupts-again-buy-135900524.html",
+                "publishDate": "2026-06-09T13:59:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "LLY Stock Climbs As Oral GLP-1 Pill Beats Novo Nordisk, AstraZeneca\u2019s Therapies In Diabetes Trials",
                 "summary": "Lilly\u2019s Foundayo outperformed existing treatments on blood sugar control and weight loss in type 2 diabetes patients in three late-stage trials.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-08T15:21:26Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Start Week Higher in Monday Trading",
-                "summary": "European equities traded in the US as American depositary receipts kicked off the week higher late M",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151025326.html",
-                "publishDate": "2026-06-08T15:10:25Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.92397,
+            "change": 0.0,
             "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,22 +322,22 @@
         },
         "NEWS": [
             {
-                "title": "3 charts that show markets haven\u2019t hit peak FOMO yet",
-                "summary": "Peak fear in the market? Ehh.",
+                "title": "SpaceX reveals its first orbital data center, 'much simpler than a Starlink satellite,' Musk says",
+                "summary": "SpaceX revealed its first generation of orbital data center satellite - dubbed AI1 - in a video posted to X late Monday. The reveal marks SpaceX's first step towards one of its biggest initiatives, just as the company preps for its market debut, slated for this Friday.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/3-charts-that-show-markets-havent-hit-peak-fomo-yet-142710425.html",
-                "publishDate": "2026-06-08T14:27:10Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
+                "publishDate": "2026-06-09T14:11:10Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Stocks reel from a coming rate hike \u2014 and brace for a huge IPO: What to watch this week",
-                "summary": "The highly anticipated SpaceX IPO, Oracle earnings, and inflation data will keep investors busy this week.",
+                "title": "SpaceX, Google compute deal raises eyebrows ahead of IPO",
+                "summary": "As SpaceX's IPO approaches, the company has been securing some very lucrative AI compute deals, but the timing and terms of those deals are adding concern.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/news/stocks-reel-from-a-coming-rate-hike--and-brace-for-a-huge-ipo-what-to-watch-this-week-114019489.html",
-                "publishDate": "2026-06-07T11:40:19Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
+                "publishDate": "2026-06-09T12:05:22Z",
                 "premium": false,
                 "freemium": false
             },
@@ -402,22 +402,22 @@
                 "freemium": false
             },
             {
+                "title": "3 charts that show markets haven\u2019t hit peak FOMO yet",
+                "summary": "Peak fear in the market? Ehh.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/3-charts-that-show-markets-havent-hit-peak-fomo-yet-142710425.html",
+                "publishDate": "2026-06-08T14:27:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "How to Buy the SpaceX IPO Stock? Crypto Users Have an Inside Lane",
                 "summary": "The SpaceX IPO is twice oversubscribed. Crypto users on Bybit and Kraken can subscribe to tokenized shares using USDC before June 11.",
                 "source": "BeInCrypto",
                 "category": "finance",
                 "url": "https://beincrypto.com/how-to-buy-spacex-ipo-crypto-tokenized-shares/",
                 "publishDate": "2026-06-08T14:06:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX: The Problem With Starlink's Next 10 Million Users",
-                "summary": "SpaceX is set to go public in a few days at a valuation north of $1.7 trillion. The narrative has quite a few big, futuristic bets: Starship, orbital data centers, and ambitions that stretch far beyond Earth. But the business doing much of the heavy lifting today is Starlink. The satellite internet network has become SpaceX's primary profit engine, but it also carries some very real risks. Average revenue per user is falling, capital requirements remain heavy, and each new wave of customers appe",
-                "source": "Trefis",
-                "category": "finance",
-                "url": "https://www.trefis.com/articles/601928/spacex-the-problem-with-starlinks-next-10-million-users/2026-06-08",
-                "publishDate": "2026-06-08T13:57:49Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.49,
+        "price": 28.555,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.314906,
-            "marketCap": 20492013568,
+            "change": 0.22815211,
+            "marketCap": 20538767360,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.61,
+        "price": 26.01,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.448937,
-            "marketCap": 5521337344,
+            "change": -2.2552166,
+            "marketCap": 5396843008,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
