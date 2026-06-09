@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": -4.51583,
-            "marketCap": 181715533824,
+            "marketCap": 181679865856,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.969063
+            "yearTarget": 46.96899
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "LLY Stock Climbs As Oral GLP-1 Pill Beats Novo Nordisk, AstraZeneca\u2019s Therapies In Diabetes Trials",
+                "summary": "Lilly\u2019s Foundayo outperformed existing treatments on blood sugar control and weight loss in type 2 diabetes patients in three late-stage trials.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/lly-stock-climbs-as-oral-glp-1-pill-crushes-rivals-in-diabetes-trials/cZ0vSJmR7bG",
+                "publishDate": "2026-06-08T21:32:09Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One Stock Is Rising.",
                 "summary": "The weight-loss rivals provided positive updates on their obesity treatments but to differing reactions among investors.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-08T15:10:25Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Real-World Data Supports Ozempic Against LLY's Mounjaro",
-                "summary": "NVO says real-world data show Ozempic 2 mg matches Eli Lilly's Mounjaro on glucose control and is linked to a higher likelihood of meaningful weight loss.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-real-world-data-150000458.html",
-                "publishDate": "2026-06-08T15:00:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9239738,
+            "change": 2.92397,
             "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.31490606,
+            "change": -0.314906,
             "marketCap": 20492013568,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.4489298,
+            "change": -0.448937,
             "marketCap": 5521337344,
             "weekLow": 11.7,
             "weekHigh": 36.52,
