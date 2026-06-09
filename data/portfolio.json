@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8522627,
+            "change": 2.85226,
             "marketCap": 186861846528,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.988865
+            "yearTarget": 46.99228
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Assessing Novo Nordisk (CPSE:NOVO B) Valuation As Share Price Weakness Follows A Tough Year",
+                "summary": "Recent performance snapshot Novo Nordisk (CPSE:NOVO B) has seen mixed share performance, with the stock down 0.7% over the past day and 2.8% over the past week, but up 8.1% over the past 3 months. Over longer periods the picture is more challenging, with the stock down over the past month, year to date, and past year, while still showing a gain over the past 5 years. This provides important context before looking at fundamentals. See our latest analysis for Novo Nordisk. At a share price of...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-novo-nordisk-cpse-novo-201246681.html",
+                "publishDate": "2026-06-09T20:12:46Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk puts AI at the centre of its clinical strategy",
                 "summary": "Novo Nordisk\u2019s Ibrahim Kamstrup-Akkaoui outlines how the Danish GLP-1 giant is embedding AI into its clinical foundation.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/08/a-weight-loss-rival-just-crashed-23-why-that-s-great-news-for-eli-lilly-and-novo-nordisk/",
                 "publishDate": "2026-06-08T16:34:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "ALT and the Rise of Dual Agonists Targeting Liver Disease",
-                "summary": "Altimmune's dual-agonist pemvidutide faces key 2026 tests in MASH and alcohol-related diseases that could validate its multi-pathway liver strategy.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/alt-rise-dual-agonists-targeting-160900840.html",
-                "publishDate": "2026-06-08T16:09:00Z",
                 "premium": false,
                 "freemium": false
             }
