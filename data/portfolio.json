@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.2993,
+        "price": 41.35,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.68088907,
-            "marketCap": 182916890624,
+            "change": 0.8044808,
+            "marketCap": 183141433344,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.022938
+            "yearTarget": 46.999977
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Can Eli Lilly's Clinical Momentum Keep the Stock at Record Highs?",
+                "summary": "LLY stock hits a new all-time high as data from phase III studies show Foundayo outperforming rivals and retatrutide delivering strong weight-loss and diabetes results.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lillys-clinical-momentum-keep-145400830.html",
+                "publishDate": "2026-06-09T14:54:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Middle East Erupts Again: Buy these Healthcare ETFs Before the Next Strike",
                 "summary": "Healthcare ETFs are gaining attention as Middle East tensions and market volatility boost demand for defensive sectors.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/roche-nurix-team-advance-btk-154100954.html",
                 "publishDate": "2026-06-08T15:41:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Novo Nordisk A/S (NVO) A Good Stock To Buy Now?",
-                "summary": "Is NVO a good stock to buy? We came across a bullish thesis on Novo Nordisk A/S on Hated Moats\u2019s Substack by Hated Moats Investors. In this article, we will summarize the bulls\u2019 thesis on NVO. Novo Nordisk A/S\u2019s share was trading at $42.96 as of June 5th. NVO\u2019s trailing and forward P/E were 10.09 and 12.77 [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-good-stock-152126911.html",
-                "publishDate": "2026-06-08T15:21:26Z",
                 "premium": false,
                 "freemium": false
             }
@@ -342,6 +342,16 @@
                 "freemium": false
             },
             {
+                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
+                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
+                "source": "Euronews",
+                "category": "finance",
+                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+                "publishDate": "2026-06-09T15:52:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX IPO Is 2 Times Oversubscribed. That\u2019s Not as Good as It Sounds.",
                 "summary": "SpaceX\u2019s IPO has attracted roughly $150 billion in orders for $75 billion of stock. Investors are watching whether demand builds enough to support a strong first-day rally.",
                 "source": "Barrons.com",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-08T14:27:10Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "How to Buy the SpaceX IPO Stock? Crypto Users Have an Inside Lane",
-                "summary": "The SpaceX IPO is twice oversubscribed. Crypto users on Bybit and Kraken can subscribe to tokenized shares using USDC before June 11.",
-                "source": "BeInCrypto",
-                "category": "finance",
-                "url": "https://beincrypto.com/how-to-buy-spacex-ipo-crypto-tokenized-shares/",
-                "publishDate": "2026-06-08T14:06:05Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.48,
+        "price": 28.43,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.03510084,
-            "marketCap": 20484820992,
+            "change": -0.21059833,
+            "marketCap": 20448858112,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.51,
+        "price": 24.94,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.1337857,
-            "marketCap": 5293097472,
+            "change": -6.275836,
+            "marketCap": 5174827520,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
