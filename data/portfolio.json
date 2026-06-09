@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.115,
+        "price": 42.19,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.6694324,
-            "marketCap": 186529677312,
+            "change": 2.8522627,
+            "marketCap": 186861846528,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.976025
+            "yearTarget": 46.988865
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk puts AI at the centre of its clinical strategy",
+                "summary": "Novo Nordisk\u2019s Ibrahim Kamstrup-Akkaoui outlines how the Danish GLP-1 giant is embedding AI into its clinical foundation.",
+                "source": "Pharmaceutical Technology",
+                "category": "finance",
+                "url": "https://www.pharmaceutical-technology.com/features/novo-nordisk-puts-ai-at-the-centre-of-its-clinical-strategy/",
+                "publishDate": "2026-06-09T19:50:03Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Wegovy Pill Tops 3M Prescriptions",
+                "summary": "The milestone shows strong early demand as Novo competes with Lilly in oral weight-loss drugs.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-wegovy-pill-tops-3m-194807793.html",
+                "publishDate": "2026-06-09T19:48:07Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Amneal and Pfizer GLP-1 Deal: New Growth Lever?",
                 "summary": "AMRX is expanding into GLP-1 manufacturing and biosimilars, using partnerships and acquisitions to strengthen its higher-value product strategy.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-06-08T16:09:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "ALT Stock Guide to Pemvidutide's MASH, AUD and ALD Setup",
-                "summary": "Altimmune is betting on pemvidutide across MASH and alcohol-related liver diseases, with key 2026 data and a planned Phase III launch shaping its path.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/alt-stock-guide-pemvidutides-mash-160600871.html",
-                "publishDate": "2026-06-08T16:06:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Altimmune Worth Buying Ahead of 2026 Catalysts?",
-                "summary": "ALT faces a catalyst-packed 2026, with a pivotal MASH study launch and alcohol-use-disorder data set to test pemvidutide's multi-indication story.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/altimmune-worth-buying-ahead-2026-155300710.html",
-                "publishDate": "2026-06-08T15:53:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.76,
+        "price": 1.77,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 165269792,
+            "change": 0.5681813,
+            "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.95,
+        "price": 29.05,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.6146051,
-            "marketCap": 20822878208,
+            "change": 1.9656,
+            "marketCap": 20894803968,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.5201,
+        "price": 25.72,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.0958323,
-            "marketCap": 5295192576,
+            "change": -3.3446121,
+            "marketCap": 5336670208,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
