@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 41.78,
+        "price": 41.8892,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.8527507,
-            "marketCap": 185045925888,
+            "change": 2.118961,
+            "marketCap": 185529581568,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.014866
+            "yearTarget": 47.00644
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.925,
+        "price": 28.96,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5268496,
-            "marketCap": 20804896768,
+            "change": 1.6496992,
+            "marketCap": 20830070784,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Guggenheim Remains Bullish on Roivant Sciences Ltd. (ROIV)",
+                "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the best healthcare stocks to buy with highest upside potential. Guggenheim lifted the price target on Roivant Sciences Ltd. (NASDAQ:ROIV) to $36 from $30 on May 26 and maintained a Buy rating on the shares, updating its model after the recent fiscal Q4 earnings and pipeline updates. The stock [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/guggenheim-remains-bullish-roivant-sciences-174134905.html",
+                "publishDate": "2026-06-09T17:41:34Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Assessing Roivant Sciences (ROIV) Valuation After Strong Recent Share Price Momentum",
                 "summary": "Roivant Sciences stock performance snapshot Roivant Sciences (ROIV) has drawn investor attention recently after its share price closed at US$29.96, with total return around 9% over the past month and about 5% over the past 3 months. See our latest analysis for Roivant Sciences. While the share price slipped about 3% over the last day, Roivant Sciences still has a 36.62% year to date share price return and a very large 1 year total shareholder return, suggesting recent momentum follows a much...",
@@ -554,16 +564,6 @@
                 "publishDate": "2026-05-20T14:07:58Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Roivant Shares Climb on Earnings Beat Despite Revenue Shortfall (ROIV)",
-                "summary": "On Wednesday, Roivant Sciences Ltd. (NASDAQ:ROIV) posted fourth-quarter adjusted earnings per share of $0.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/28725/roivant-shares-climb-on-earnings-beat-despite-revenue-shortfall-roiv",
-                "publishDate": "2026-05-20T12:45:02Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.455,
+        "price": 25.53,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.340476,
-            "marketCap": 5281684992,
+            "change": -4.0586243,
+            "marketCap": 5297247232,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
