@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.77,
+        "price": 43.815,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.7449677,
-            "marketCap": 193859764224,
+            "change": 3.8516238,
+            "marketCap": 194059059200,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.212357
+            "yearTarget": 47.219585
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Trend Lower in Tuesday Trading",
+                "summary": "European equities traded in the US as American depositary receipts were tracking lower late Tuesday",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-150747097.html",
+                "publishDate": "2026-06-10T15:07:47Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Can Amgen's MariTide Win Share in the Fast-Growing Obesity Market?",
                 "summary": "MariTide's less frequent dosing could help AMGN carve out a place in the rapidly expanding obesity drug market.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://stocktwits.com/news-articles/markets/equity/lly-stock-climbs-as-oral-glp-1-pill-crushes-rivals-in-diabetes-trials/cZ0vSJmR7bG",
                 "publishDate": "2026-06-08T21:32:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly, Novo Both Share Good News on Weight-Loss Drugs. Only One Stock Is Rising.",
-                "summary": "The weight-loss rivals provided positive updates on their obesity treatments but to differing reactions among investors.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-stock-novo-nordisk-weight-loss-02bcd4bc?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-08T19:00:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.53,
+        "price": 28.54,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7900122,
-            "marketCap": 20520785920,
+            "change": -1.755588,
+            "marketCap": 20527978496,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 24.81,
+        "price": 24.955,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.5381021,
-            "marketCap": 5147853312,
+            "change": -2.9743366,
+            "marketCap": 5177939456,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
