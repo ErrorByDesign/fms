@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.58,
+        "price": 43.5599,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2946272,
-            "marketCap": 193018249216,
+            "change": 3.2469776,
+            "marketCap": 192929202176,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.23506
+            "yearTarget": 47.231705
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -342,6 +342,16 @@
                 "freemium": false
             },
             {
+                "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
+                "summary": "Tesla (NASDAQ:TSLA) sits in an awkward place. Q1 2026 showed automotive gross margin rebounding to 21.1% from 16.2% a year earlier, FSD subscriptions hit 1.28 million (+51% YoY), and free cash flow more than doubled to $1.444 billion. Yet shares closed at $418.45, down 6.95% YTD. Can Tesla reach $500 this cycle? What\u2019s Holding Tesla ... Prediction: Tesla Stock Will Hit $500 on This Date",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/05/prediction-tesla-stock-will-hit-500-on-this-date/",
+                "publishDate": "2026-06-10T16:09:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX IPO: The Devil Is in the Details",
                 "summary": "This is tool banks such as Goldman Sachs and Morgan Stanley use to build an order book for the SpaceX IPO.",
                 "source": "Barrons.com",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-08T15:04:09Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Week ahead: SpaceX readies for liftoff as inflation clouds gather",
-                "summary": "Wall Street heads into a big week after a sharp selloff rattled investors, with inflation data, Apple's annual developer conference and the highly anticipated SpaceX initial public offering set to dominate market attention. Stocks ended last week under pressure after a stronger-than-expected...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1093590/week-ahead-spacex-readies-for-liftoff-as-inflation-clouds-gather-1093590.html",
-                "publishDate": "2026-06-08T14:57:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.715,
+        "price": 28.74,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.1531811,
-            "marketCap": 20653850624,
+            "change": -1.0671239,
+            "marketCap": 20671832064,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.02,
+        "price": 24.86,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.721613,
-            "marketCap": 5191426560,
+            "change": -3.3436964,
+            "marketCap": 5158227968,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
