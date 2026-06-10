@@ -20,7 +20,7 @@
             "marketCap": 186861846528,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 46.96043
+            "yearTarget": 47.191208
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5681813,
+            "change": 0.568181,
             "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3446121,
+            "change": -3.34461,
             "marketCap": 5336670208,
             "weekLow": 11.7,
             "weekHigh": 36.52,
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Why SSR Mining Stock Got Knocked Today",
+                "summary": "This wasn't much of a surprise, given the recent price trajectories of gold and silver.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/09/why-ssr-mining-stock-got-knocked-today/",
+                "publishDate": "2026-06-10T00:18:24Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Here's Why SSR Mining (SSRM) is a Strong Growth Stock",
                 "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/05/25/ssr-mining-is-selling-its-interest-in-the-copler/",
                 "publishDate": "2026-05-25T15:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Hod Maden Exit Refocuses Portfolio And Valuation Debate",
-                "summary": "SSR Mining (TSX:SSRM) has agreed to divest its 20% stake and management role in the Hod Maden project in T\u00fcrkiye to Lidya Mines. As part of the transaction, SSR Mining will receive a 4% uncapped net smelter return royalty on future production from Hod Maden. This move completes the company\u2019s transition toward a portfolio focused solely on assets in the Americas. For investors tracking TSX:SSRM, this deal marks a clear shift in how the company is shaping its portfolio. The stock last closed...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-hod-maden-exit-061404374.html",
-                "publishDate": "2026-05-23T06:14:04Z",
                 "premium": false,
                 "freemium": false
             }
