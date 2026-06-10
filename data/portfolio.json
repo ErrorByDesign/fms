@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.19,
+        "price": 43.77,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.85226,
-            "marketCap": 186861846528,
+            "change": 3.7449677,
+            "marketCap": 193859764224,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.19215
+            "yearTarget": 47.212357
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Can Amgen's MariTide Win Share in the Fast-Growing Obesity Market?",
+                "summary": "MariTide's less frequent dosing could help AMGN carve out a place in the rapidly expanding obesity drug market.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/amgens-maritide-win-share-fast-122900919.html",
+                "publishDate": "2026-06-10T12:29:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Lilly stays ahead of the pack as rivals jump on obesity drug bandwagon",
+                "summary": "By Chris Prentice and Maggie Fick NEW YORK/LONDON, June 10 (Reuters) - Eli Lilly has solidified its leading position in the booming market for obesity drugs ahead of a wave of possible new entrants to",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lilly-stays-ahead-pack-rivals-100535149.html",
+                "publishDate": "2026-06-10T10:12:46Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Assessing Novo Nordisk (CPSE:NOVO B) Valuation As Share Price Weakness Follows A Tough Year",
                 "summary": "Recent performance snapshot Novo Nordisk (CPSE:NOVO B) has seen mixed share performance, with the stock down 0.7% over the past day and 2.8% over the past week, but up 8.1% over the past 3 months. Over longer periods the picture is more challenging, with the stock down over the past month, year to date, and past year, while still showing a gain over the past 5 years. This provides important context before looking at fundamentals. See our latest analysis for Novo Nordisk. At a share price of...",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-06-08T19:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Drops 3.2% As CEO Eyes Longevity And Aesthetics",
-                "summary": "Novo's CEO says semaglutide could push the company beyond obesity and diabetes into longevity and appearance-related medicine.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-drops-3-2-ceo-172618657.html",
-                "publishDate": "2026-06-08T17:26:18Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "A Weight-Loss Rival Just Crashed 23%. Why That's Great News for Eli Lilly and Novo Nordisk.",
-                "summary": "Zealand Pharma's stock is cratering today after disappointing results from a late-stage trial of its GLP-1 dual-receptor agonist drug.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/08/a-weight-loss-rival-just-crashed-23-why-that-s-great-news-for-eli-lilly-and-novo-nordisk/",
-                "publishDate": "2026-06-08T16:34:20Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.568181,
-            "marketCap": 166208816,
+            "change": -0.5649712,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,6 +322,46 @@
         },
         "NEWS": [
             {
+                "title": "Supermicro Computer stock sinks on $7 billion equity raise",
+                "summary": "Supermicro Computer stock was poised to decline as much as 12% at the open on Wednesday.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/supermicro-computer-stock-sinks-on-7-billion-equity-raise-124041144.html",
+                "publishDate": "2026-06-10T12:40:41Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX fever is testing the chip trade: Chart of the Day",
+                "summary": "SpaceX is not public yet, but retail traders may already be making room for it.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/spacex-fever-is-testing-the-chip-trade-chart-of-the-day-100000045.html",
+                "publishDate": "2026-06-10T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: The Devil Is in the Details",
+                "summary": "This is tool banks such as Goldman Sachs and Morgan Stanley use to build an order book for the SpaceX IPO.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-space-exploration-offering-8d846645?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-10T13:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
+                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
+                "source": "Euronews",
+                "category": "finance",
+                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+                "publishDate": "2026-06-09T15:52:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX reveals its first orbital data center, 'much simpler than a Starlink satellite,' Musk says",
                 "summary": "SpaceX revealed its first generation of orbital data center satellite - dubbed AI1 - in a video posted to X late Monday. The reveal marks SpaceX's first step towards one of its biggest initiatives, just as the company preps for its market debut, slated for this Friday.",
                 "source": "Yahoo Finance",
@@ -338,16 +378,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
                 "publishDate": "2026-06-09T12:05:22Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
-                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
-                "source": "Euronews",
-                "category": "finance",
-                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-                "publishDate": "2026-06-09T15:52:32Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-06-08T14:57:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Wall Street Bank Warns SpaceX IPO Could Trigger Large Sell-Off in Popular Semiconductor Stocks",
-                "summary": "BNP Paribas is warning clients that this week\u2019s SpaceX IPO could do something the AI rally has not yet had to absorb: force a wave of selling in the very semiconductor stocks that have driven the market higher. Retail investors are expected to be heavy buyers of the IPO, and they will need to raise ... Wall Street Bank Warns SpaceX IPO Could Trigger Large Sell-Off in Popular Semiconductor Stocks",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/08/wall-street-bank-warns-spacex-ipo-could-trigger-large-sell-off-in-popular-semiconductor-stocks/",
-                "publishDate": "2026-06-08T14:55:30Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Ranking the Market\u2019s Bets on 3 Blockbuster IPOs: OpenAI, Stripe, and Consensys",
-                "summary": "The 2026 initial public offering (IPO) calendar has narrowed down to a handful of marquee names that retail and institutional investors have been waiting on for years. While the SpaceX IPO grabs the headlines, three others also stand out: OpenAI, Stripe, and Consensys (the parent of MetaMask). All three are still private, with no listed ... Ranking the Market\u2019s Bets on 3 Blockbuster IPOs: OpenAI, Stripe, and Consensys",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/08/ranking-the-markets-bets-on-3-blockbuster-ipos-openai-stripe-and-consensys/",
-                "publishDate": "2026-06-08T14:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 charts that show markets haven\u2019t hit peak FOMO yet",
-                "summary": "Peak fear in the market? Ehh.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/3-charts-that-show-markets-havent-hit-peak-fomo-yet-142710425.html",
-                "publishDate": "2026-06-08T14:27:10Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.05,
+        "price": 28.53,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9656,
-            "marketCap": 20894803968,
+            "change": -1.7900122,
+            "marketCap": 20520785920,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.72,
+        "price": 24.81,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.34461,
-            "marketCap": 5336670208,
+            "change": -3.5381021,
+            "marketCap": 5147853312,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
