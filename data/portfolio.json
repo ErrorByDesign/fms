@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.5599,
+        "price": 43.325,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2469776,
-            "marketCap": 192929202176,
+            "change": 2.690216,
+            "marketCap": 191888834560,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.231705
+            "yearTarget": 47.212868
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Health Care Roundup: Market Talk",
+                "summary": "Find insight on Big European pharmaceutical companies, GSK, Kossan Rubber Industries and more in the latest Market Talks covering the health care sector.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/health-care-roundup-market-talk-ef19d1dd?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-10T16:32:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Inside the GLP-1 Boom: ETF Picks for the Obesity Drug Market",
+                "summary": "GLP-1 drugs are reshaping healthcare and consumer markets. These ETFs offer targeted exposure to the booming obesity-drug trend.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/inside-glp-1-boom-etf-160000128.html",
+                "publishDate": "2026-06-10T16:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Equities Traded in the US as American Depositary Receipts Trend Lower in Tuesday Trading",
                 "summary": "European equities traded in the US as American depositary receipts were tracking lower late Tuesday",
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lillys-clinical-momentum-keep-145400830.html",
                 "publishDate": "2026-06-09T14:54:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Middle East Erupts Again: Buy these Healthcare ETFs Before the Next Strike",
-                "summary": "Healthcare ETFs are gaining attention as Middle East tensions and market volatility boost demand for defensive sectors.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/middle-east-erupts-again-buy-135900524.html",
-                "publishDate": "2026-06-09T13:59:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "LLY Stock Climbs As Oral GLP-1 Pill Beats Novo Nordisk, AstraZeneca\u2019s Therapies In Diabetes Trials",
-                "summary": "Lilly\u2019s Foundayo outperformed existing treatments on blood sugar control and weight loss in type 2 diabetes patients in three late-stage trials.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/lly-stock-climbs-as-oral-glp-1-pill-crushes-rivals-in-diabetes-trials/cZ0vSJmR7bG",
-                "publishDate": "2026-06-08T21:32:09Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.74,
+        "price": 28.76,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0671239,
-            "marketCap": 20671832064,
+            "change": -0.99827546,
+            "marketCap": 20686217216,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 24.86,
+        "price": 24.8,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3436964,
-            "marketCap": 5158227968,
+            "change": -3.5769832,
+            "marketCap": 5145778176,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
