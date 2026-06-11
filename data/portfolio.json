@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.975,
+        "price": 43.91,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.72132,
-            "marketCap": 194767716352,
+            "change": 2.5694895,
+            "marketCap": 194479833088,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.25238
+            "yearTarget": 47.23798
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.142856,
-            "marketCap": 166208816,
+            "change": 0.571428,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -332,22 +332,22 @@
                 "freemium": false
             },
             {
+                "title": "Why Starlink is so important to SpaceX's IPO",
+                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+                "publishDate": "2026-04-11T17:44:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX IPO set to 'price' Thursday night ahead of Friday Nasdaq debut \u2014 here's what's next",
                 "summary": "SpaceX's record-breaking IPO enters its final stretch, with the deal set to \"price\" Thursday night ahead of the stock's debut on the Nasdaq on Friday, June 12. But this pricing night will look nothing like the ones Wall Street, and investors, are used to.",
                 "source": "Yahoo Finance",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-set-to-price-thursday-night-ahead-of-friday-nasdaq-debut--heres-whats-next-101955450.html",
                 "publishDate": "2026-06-11T10:19:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Supermicro Computer stock sinks on $7 billion equity raise",
-                "summary": "Supermicro Computer stock was poised to decline as much as 12% at the open on Wednesday.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/supermicro-computer-stock-sinks-on-7-billion-equity-raise-124041144.html",
-                "publishDate": "2026-06-10T12:40:41Z",
                 "premium": false,
                 "freemium": false
             },
@@ -402,22 +402,22 @@
                 "freemium": false
             },
             {
+                "title": "Supermicro Computer stock sinks on $7 billion equity raise",
+                "summary": "Supermicro Computer stock was poised to decline as much as 12% at the open on Wednesday.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/supermicro-computer-stock-sinks-on-7-billion-equity-raise-124041144.html",
+                "publishDate": "2026-06-10T12:40:41Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX fever is testing the chip trade: Chart of the Day",
                 "summary": "SpaceX is not public yet, but retail traders may already be making room for it.",
                 "source": "Yahoo Finance",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/article/spacex-fever-is-testing-the-chip-trade-chart-of-the-day-100000045.html",
                 "publishDate": "2026-06-10T10:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
-                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
-                "source": "Euronews",
-                "category": "finance",
-                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-                "publishDate": "2026-06-09T15:52:32Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.5246,
+        "price": 29.42,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.9232638,
-            "marketCap": 21236170752,
+            "change": 3.555087,
+            "marketCap": 21160935424,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.055,
+        "price": 25.96,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.087137,
-            "marketCap": 5406179840,
+            "change": 5.7003245,
+            "marketCap": 5386467840,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
