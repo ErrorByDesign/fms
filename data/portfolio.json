@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.81,
+        "price": 43.725,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.46955,
-            "marketCap": 189607870464,
+            "change": 2.1373444,
+            "marketCap": 193660436480,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.198643
+            "yearTarget": 47.086166
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "The GLP-1 stock nobody is pricing in isn\u2019t a drugmaker",
+                "summary": "Scott Galloway and Ed Elson laid out the math on Prof G Markets and it should make every fast food shareholder uneasy: roughly 30 million Americans, about 1 in 8 US adults, are now on GLP-1s, and the drugs are reducing fast food\u2019s addressable market by an estimated 27-30%. This is structural, not cyclical: appetite, ... The GLP-1 stock nobody is pricing in isn\u2019t a drugmaker",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/11/the-glp-1-stock-nobody-is-pricing-in-isnt-a-drugmaker/",
+                "publishDate": "2026-06-11T13:30:53Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Health Care Roundup: Market Talk",
                 "summary": "Find insight on Big European pharmaceutical companies, GSK, Kossan Rubber Industries and more in the latest Market Talks covering the health care sector.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-09T16:16:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Can Eli Lilly's Clinical Momentum Keep the Stock at Record Highs?",
-                "summary": "LLY stock hits a new all-time high as data from phase III studies show Foundayo outperforming rivals and retatrutide delivering strong weight-loss and diabetes results.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/eli-lillys-clinical-momentum-keep-145400830.html",
-                "publishDate": "2026-06-09T14:54:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.75,
+        "price": 1.78,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.12994,
-            "marketCap": 164330752,
+            "change": 1.7142841,
+            "marketCap": 167147856,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,22 +322,22 @@
         },
         "NEWS": [
             {
-                "title": "Supermicro Computer stock sinks on $7 billion equity raise",
-                "summary": "Supermicro Computer stock was poised to decline as much as 12% at the open on Wednesday.",
+                "title": "Why Starlink is so important to SpaceX's IPO",
+                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/supermicro-computer-stock-sinks-on-7-billion-equity-raise-124041144.html",
-                "publishDate": "2026-06-10T12:40:41Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+                "publishDate": "2026-04-11T17:44:46Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX fever is testing the chip trade: Chart of the Day",
-                "summary": "SpaceX is not public yet, but retail traders may already be making room for it.",
-                "source": "Yahoo Finance",
+                "title": "Musk's empire as SpaceX heads to Wall Street liftoff",
+                "summary": "Elon Musk defines himself as an engineer trying to save humanity, while his critics call him a far-right showman who overpromises and underdelivers.Its most prominent project -- a tunnel beneath the Las Vegas Convention Center -- has drawn mixed reviews, with critics noting it amounts to a narrow underground road for Tesla cars rather than the revolutionary transit system Musk once envisioned.\narp/mlm/msp",
+                "source": "AFP",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-fever-is-testing-the-chip-trade-chart-of-the-day-100000045.html",
-                "publishDate": "2026-06-10T10:00:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/musks-empire-spacex-counts-down-020836085.html",
+                "publishDate": "2026-06-11T14:35:13Z",
                 "premium": false,
                 "freemium": false
             },
@@ -358,6 +358,16 @@
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/spacex-ipo-space-exploration-offering-8d846645?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-06-10T13:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX fever is testing the chip trade: Chart of the Day",
+                "summary": "SpaceX is not public yet, but retail traders may already be making room for it.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/spacex-fever-is-testing-the-chip-trade-chart-of-the-day-100000045.html",
+                "publishDate": "2026-06-10T10:00:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-08T15:05:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "How SpaceX President Gwynne Shotwell has achieved Musk's lofty ambitions",
-                "summary": "By Akash Sriram and Echo Wang June 8 (Reuters) - When SpaceX goes public on Friday with what is expected to be a record-setting IPO, it will cap two decades of founder and CEO Elon Musk's ambition to",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/gwynne-shotwell-glue-executing-musks-100352139.html",
-                "publishDate": "2026-06-08T15:04:09Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.41,
+        "price": 29.54,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2031,
-            "marketCap": 20434472960,
+            "change": 3.9774766,
+            "marketCap": 21247248384,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 24.56,
+        "price": 25.0,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.51011,
-            "marketCap": 5095980544,
+            "change": 1.7915331,
+            "marketCap": 5187276800,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
