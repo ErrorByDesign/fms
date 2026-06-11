@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.855,
+        "price": 43.96,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.441014,
-            "marketCap": 194236219392,
+            "change": 2.6862829,
+            "marketCap": 194701279232,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.250767
+            "yearTarget": 47.311733
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly vs Novo Nordisk: The Battle for Obesity Drug Supremacy",
+                "summary": "Eli Lilly (NYSE: LLY) and Novo Nordisk (NYSE: NVO) reported Q1 2026 results that pulled the GLP-1 duopoly apart. Lilly grew revenue 55.5% and raised guidance. Novo posted a 4% adjusted sales decline at constant currency and is cutting 9,000 jobs. Both call obesity the prize, but their quarters tell very different stories about who ... Eli Lilly vs Novo Nordisk: The Battle for Obesity Drug Supremacy",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/11/eli-lilly-vs-novo-nordisk-the-battle-for-obesity-drug-supremacy/",
+                "publishDate": "2026-06-11T18:58:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "NVO Stock Gains As UK Clears First Daily GLP-1 Weight-Loss Pill, Offsetting Security Breach News",
+                "summary": "Novo Nordisk revealed that the UK\u2019s Medicines and Healthcare products Regulatory Agency (MHRA) has approved the Wegovy pill, following in the footsteps of the U.S. FDA.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/nvo-stock-gains-as-uk-clears-first-daily-glp-1-weight-loss-pill-offsetting-security-breach-news/cZKTzonR72u",
+                "publishDate": "2026-06-11T18:24:55Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Cybersecurity Breach Puts Data Controls And Investor Confidence In Focus",
                 "summary": "Novo Nordisk reported an IT security incident involving unauthorized access to internal systems. Certain non public, including personal, data was copied externally, prompting notifications to affected parties. Some IT systems were taken offline in response, while the company stated that business operations were unaffected. Novo Nordisk, traded as CPSE:NOVO B, is addressing this cybersecurity incident against a backdrop of recent share price pressure. The stock closed at DKK281.2, with the...",
@@ -109,26 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-150747097.html",
                 "publishDate": "2026-06-10T15:07:47Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Can Amgen's MariTide Win Share in the Fast-Growing Obesity Market?",
-                "summary": "MariTide's less frequent dosing could help AMGN carve out a place in the rapidly expanding obesity drug market.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/amgens-maritide-win-share-fast-122900919.html",
-                "publishDate": "2026-06-10T12:29:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Lilly stays ahead of the pack as rivals jump on obesity drug bandwagon",
-                "summary": "By Chris Prentice and Maggie Fick NEW YORK/LONDON, June 10 (Reuters) - Eli Lilly has solidified its leading position in the booming market for obesity drugs ahead of a wave of possible new entrants to",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/lilly-stays-ahead-pack-rivals-100535149.html",
-                "publishDate": "2026-06-10T10:12:46Z",
-                "premium": false,
                 "freemium": false
             }
         ],
@@ -332,16 +332,6 @@
                 "freemium": false
             },
             {
-                "title": "Why Starlink is so important to SpaceX's IPO",
-                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
-                "publishDate": "2026-04-11T17:44:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "SpaceX IPO set to 'price' Thursday night ahead of Friday Nasdaq debut \u2014 here's what's next",
                 "summary": "SpaceX's record-breaking IPO enters its final stretch, with the deal set to \"price\" Thursday night ahead of the stock's debut on the Nasdaq on Friday, June 12. But this pricing night will look nothing like the ones Wall Street, and investors, are used to.",
                 "source": "Yahoo Finance",
@@ -420,6 +410,16 @@
                 "publishDate": "2026-06-10T10:00:00Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
+                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
+                "source": "Euronews",
+                "category": "finance",
+                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+                "publishDate": "2026-06-09T15:52:32Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.45,
+        "price": 29.5,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.660686,
-            "marketCap": 21182513152,
+            "change": 3.8366778,
+            "marketCap": 21218476032,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.99,
+        "price": 26.09,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.822477,
-            "marketCap": 5392692736,
+            "change": 6.2296443,
+            "marketCap": 5413442048,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
