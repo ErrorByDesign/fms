@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.725,
+        "price": 43.405,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1373444,
-            "marketCap": 193660436480,
+            "change": 1.3898561,
+            "marketCap": 192243154944,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.086166
+            "yearTarget": 47.088276
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.78,
+        "price": 1.74,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7142841,
-            "marketCap": 167147856,
+            "change": -0.571428,
+            "marketCap": 163391728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,12 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "Why Starlink is so important to SpaceX's IPO",
-                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
+                "title": "Virgin Galactic stock pops ahead of SpaceX IPO",
+                "summary": "Virigin Galactic shares popped 15% ahead of SpaceX's IPO.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
-                "publishDate": "2026-04-11T17:44:46Z",
+                "url": "https://finance.yahoo.com/markets/article/virgin-galactic-stock-pops-ahead-of-spacex-ipo-153607589.html",
+                "publishDate": "2026-06-11T15:36:07Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Supermicro Computer stock sinks on $7 billion equity raise",
+                "summary": "Supermicro Computer stock was poised to decline as much as 12% at the open on Wednesday.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/supermicro-computer-stock-sinks-on-7-billion-equity-raise-124041144.html",
+                "publishDate": "2026-06-10T12:40:41Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Could Trigger a $50 Billion Spending Spree. These Stocks Will Benefit.",
+                "summary": "SpaceX's IPO may create new winners beyond the rocket maker itself, with four companies positioned to benefit from the next wave of spending on satellites, infrastructure, and orbital computing.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/11/spacex-ipo-trigger-billion-spending-stocks-ktos/",
+                "publishDate": "2026-06-11T15:37:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -338,6 +358,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/musks-empire-spacex-counts-down-020836085.html",
                 "publishDate": "2026-06-11T14:35:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk Confidant Antonio Gracias Set for $68 Billion SpaceX Win",
+                "summary": "SpaceX\u2019s initial public offering could make  Elon Musk  a trillionaire.  The second-biggest payday will go to  Antonio Gracias,  his close friend and longtime investor who has made a career out of backing Musk.  When SpaceX goes public on Friday, Gracias and his firm Valor Equity Partners will own 6.7% of Class A shares, according to the company\u2019s IPO prospectus, giving the firm a $68 billion stake.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/musk-confidant-antonio-gracias-set-for-68-billion-spacex-win-83ad878a?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-11T14:00:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -390,36 +420,6 @@
                 "publishDate": "2026-06-09T14:11:10Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX, Google compute deal raises eyebrows ahead of IPO",
-                "summary": "As SpaceX's IPO approaches, the company has been securing some very lucrative AI compute deals, but the timing and terms of those deals are adding concern.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
-                "publishDate": "2026-06-09T12:05:22Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX IPO Is 2 Times Oversubscribed. That\u2019s Not as Good as It Sounds.",
-                "summary": "SpaceX\u2019s IPO has attracted roughly $150 billion in orders for $75 billion of stock. Investors are watching whether demand builds enough to support a strong first-day rally.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-oversubscribed-demand-stock-price-803ce3df?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-08T17:14:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX Is Going Public at $1.8 Trillion. Here's What Investors Need to Know Before the Biggest IPO in History.",
-                "summary": "The SpaceX IPO is about far more than launching rockets.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/08/spacex-going-public-trillion-need-know-ipo/",
-                "publishDate": "2026-06-08T15:05:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.54,
+        "price": 29.385,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.9774766,
-            "marketCap": 21247248384,
+            "change": 3.4318914,
+            "marketCap": 21135761408,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.0,
+        "price": 25.02,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7915331,
-            "marketCap": 5187276800,
+            "change": 1.872206,
+            "marketCap": 5191426560,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
