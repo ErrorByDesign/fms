@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.305,
+        "price": 43.975,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1562693,
-            "marketCap": 191800246272,
+            "change": 2.72132,
+            "marketCap": 194767716352,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.023617
+            "yearTarget": 47.25238
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk Cybersecurity Breach Puts Data Controls And Investor Confidence In Focus",
+                "summary": "Novo Nordisk reported an IT security incident involving unauthorized access to internal systems. Certain non public, including personal, data was copied externally, prompting notifications to affected parties. Some IT systems were taken offline in response, while the company stated that business operations were unaffected. Novo Nordisk, traded as CPSE:NOVO B, is addressing this cybersecurity incident against a backdrop of recent share price pressure. The stock closed at DKK281.2, with the...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-cybersecurity-breach-puts-171108556.html",
+                "publishDate": "2026-06-11T17:11:08Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk\u2019s Wegovy Weight Loss Pill Approved in the U.K.",
+                "summary": "The U.K. regulator is the third regulatory authority to license the medicine as the Danish drugmaker seeks to regain its lead in the obesity market.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/health/pharma/novo-nordisks-wegovy-weight-loss-pill-approved-in-the-u-k-a11abad1?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-11T16:28:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Employers Rethink GLP-1 Coverage",
                 "summary": "Rising use of weight-loss drugs keeps pressure on health benefit costs.",
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/lilly-stays-ahead-pack-rivals-100535149.html",
                 "publishDate": "2026-06-10T10:12:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Assessing Novo Nordisk (CPSE:NOVO B) Valuation As Share Price Weakness Follows A Tough Year",
-                "summary": "Recent performance snapshot Novo Nordisk (CPSE:NOVO B) has seen mixed share performance, with the stock down 0.7% over the past day and 2.8% over the past week, but up 8.1% over the past 3 months. Over longer periods the picture is more challenging, with the stock down over the past month, year to date, and past year, while still showing a gain over the past 5 years. This provides important context before looking at fundamentals. See our latest analysis for Novo Nordisk. At a share price of...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/assessing-novo-nordisk-cpse-novo-201246681.html",
-                "publishDate": "2026-06-09T20:12:46Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk puts AI at the centre of its clinical strategy",
-                "summary": "Novo Nordisk\u2019s Ibrahim Kamstrup-Akkaoui outlines how the Danish GLP-1 giant is embedding AI into its clinical foundation.",
-                "source": "Pharmaceutical Technology",
-                "category": "finance",
-                "url": "https://www.pharmaceutical-technology.com/features/novo-nordisk-puts-ai-at-the-centre-of-its-clinical-strategy/",
-                "publishDate": "2026-06-09T19:50:03Z",
                 "premium": false,
                 "freemium": false
             }
@@ -332,12 +332,22 @@
                 "freemium": false
             },
             {
-                "title": "Why Starlink is so important to SpaceX's IPO",
-                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
+                "title": "SpaceX IPO set to 'price' Thursday night ahead of Friday Nasdaq debut \u2014 here's what's next",
+                "summary": "SpaceX's record-breaking IPO enters its final stretch, with the deal set to \"price\" Thursday night ahead of the stock's debut on the Nasdaq on Friday, June 12. But this pricing night will look nothing like the ones Wall Street, and investors, are used to.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
-                "publishDate": "2026-04-11T17:44:46Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-set-to-price-thursday-night-ahead-of-friday-nasdaq-debut--heres-whats-next-101955450.html",
+                "publishDate": "2026-06-11T10:19:55Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Supermicro Computer stock sinks on $7 billion equity raise",
+                "summary": "Supermicro Computer stock was poised to decline as much as 12% at the open on Wednesday.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/supermicro-computer-stock-sinks-on-7-billion-equity-raise-124041144.html",
+                "publishDate": "2026-06-10T12:40:41Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-09T15:52:32Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX reveals its first orbital data center, 'much simpler than a Starlink satellite,' Musk says",
-                "summary": "SpaceX revealed its first generation of orbital data center satellite - dubbed AI1 - in a video posted to X late Monday. The reveal marks SpaceX's first step towards one of its biggest initiatives, just as the company preps for its market debut, slated for this Friday.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
-                "publishDate": "2026-06-09T14:11:10Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.195,
+        "price": 29.5246,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.763111,
-            "marketCap": 20999098368,
+            "change": 3.9232638,
+            "marketCap": 21236170752,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.28,
+        "price": 26.055,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.931601,
-            "marketCap": 5245374464,
+            "change": 6.087137,
+            "marketCap": 5406179840,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
