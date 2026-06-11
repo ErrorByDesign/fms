@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.6862829,
+            "change": 2.68628,
             "marketCap": 194701279232,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.33673
+            "yearTarget": 47.322647
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -82,16 +82,6 @@
                 "freemium": false
             },
             {
-                "title": "Novo Nordisk\u2019s Wegovy Weight Loss Pill Approved in the U.K.",
-                "summary": "The U.K. regulator is the third regulatory authority to license the medicine as the Danish drugmaker seeks to regain its lead in the obesity market.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/novo-nordisks-wegovy-weight-loss-pill-approved-in-the-u-k-a11abad1?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-11T16:28:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Employers Rethink GLP-1 Coverage",
                 "summary": "Rising use of weight-loss drugs keeps pressure on health benefit costs.",
                 "source": "GuruFocus.com",
@@ -128,6 +118,16 @@
                 "category": "finance",
                 "url": "https://www.wsj.com/business/health-care-roundup-market-talk-ef19d1dd?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-06-10T21:01:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Inside the GLP-1 Boom: ETF Picks for the Obesity Drug Market",
+                "summary": "GLP-1 drugs are reshaping healthcare and consumer markets. These ETFs offer targeted exposure to the booming obesity-drug trend.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/inside-glp-1-boom-etf-160000128.html",
+                "publishDate": "2026-06-10T16:00:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -402,22 +402,22 @@
                 "freemium": false
             },
             {
-                "title": "Supermicro Computer stock sinks on $7 billion equity raise",
-                "summary": "Supermicro Computer stock was poised to decline as much as 12% at the open on Wednesday.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/supermicro-computer-stock-sinks-on-7-billion-equity-raise-124041144.html",
-                "publishDate": "2026-06-10T12:40:41Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "SpaceX fever is testing the chip trade: Chart of the Day",
                 "summary": "SpaceX is not public yet, but retail traders may already be making room for it.",
                 "source": "Yahoo Finance",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/article/spacex-fever-is-testing-the-chip-trade-chart-of-the-day-100000045.html",
                 "publishDate": "2026-06-10T10:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
+                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
+                "source": "Euronews",
+                "category": "finance",
+                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+                "publishDate": "2026-06-09T15:52:32Z",
                 "premium": false,
                 "freemium": false
             }
