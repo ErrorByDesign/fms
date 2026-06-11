@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.295,
+        "price": 43.305,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1329054,
-            "marketCap": 191755943936,
+            "change": 1.1562693,
+            "marketCap": 191800246272,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.040634
+            "yearTarget": 47.023617
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -42,8 +42,8 @@
                 "freemium": false
             },
             {
-                "title": "Novo Nordisk hit by cyber incident, probes data breach",
-                "summary": "Novo Nordisk said on Thursday it has \u200cidentified a security incident involving \u200cunauthorized access to a limited number \u200bof internal IT systems.  The company's core business operations are not impacted and remain \u200bup \u200cand running, it added.",
+                "title": "Novo Nordisk flags patient data breach from some clinical trials in cyberattack",
+                "summary": "Novo Nordisk said on Thursday it has identified a security incident in which certain information, including \u200cpatient data from some clinical trials, was copied externally without \u200cauthorization from its internal IT systems.  The company, maker of the blockbuster weight-loss drug Wegovy, \u200bsaid it has launched a probe with the assistance of external cybersecurity experts and is in contact with the relevant authorities.  \"The incident affected a limited amount of information related to patients participating in some \u200cof our clinical trials,\" \u2060Novo said in its statement, without disclosing what type of trials.",
                 "source": "Reuters",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-hit-cyber-incident-154512317.html",
@@ -322,32 +322,22 @@
         },
         "NEWS": [
             {
-                "title": "Oppenheimer slaps Outperform rating on SpaceX, $190 price target ahead of market debut",
-                "summary": "Oppenheimer initiated coverage of SpaceX with an outperform rating and a $190 price target on Thursday, one day before the company begins trading on the Nasdaq under the ticker SPCX. The price target implies around 40% upside from the $135 IPO price, and values the firm at a hefty $2.5 trillion.",
-                "source": "Yahoo Finance",
+                "title": "SpaceX IPO: Last-minute strategies on how you can invest; the latest target price",
+                "summary": "SpaceX is preparing for a historic stock market debut. Here's what to know about buying IPO shares, brokerage qualifications, allocation rules, and other ways to benefit.",
+                "source": "Yahoo Personal Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/oppenheimer-slaps-outperform-rating-on-spacex-190-price-target-ahead-of-market-debut-163237327.html",
-                "publishDate": "2026-06-11T16:32:37Z",
+                "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-ipo-last-minute-strategies-on-how-you-can-invest-the-latest-target-price-141820133.html",
+                "publishDate": "2026-06-05T14:18:20Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO set to 'price' Thursday night ahead of Friday Nasdaq debut \u2014 here's what's next",
-                "summary": "SpaceX's record-breaking IPO enters its final stretch, with the deal set to \"price\" Thursday night ahead of the stock's debut on the Nasdaq on Friday, June 12. But this pricing night will look nothing like the ones Wall Street, and investors, are used to.",
+                "title": "Why Starlink is so important to SpaceX's IPO",
+                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-set-to-price-thursday-night-ahead-of-friday-nasdaq-debut--heres-whats-next-101955450.html",
-                "publishDate": "2026-06-11T10:19:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Supermicro Computer stock sinks on $7 billion equity raise",
-                "summary": "Supermicro Computer stock was poised to decline as much as 12% at the open on Wednesday.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/supermicro-computer-stock-sinks-on-7-billion-equity-raise-124041144.html",
-                "publishDate": "2026-06-10T12:40:41Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+                "publishDate": "2026-04-11T17:44:46Z",
                 "premium": false,
                 "freemium": false
             },
@@ -420,6 +410,16 @@
                 "publishDate": "2026-06-09T15:52:32Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "SpaceX reveals its first orbital data center, 'much simpler than a Starlink satellite,' Musk says",
+                "summary": "SpaceX revealed its first generation of orbital data center satellite - dubbed AI1 - in a video posted to X late Monday. The reveal marks SpaceX's first step towards one of its biggest initiatives, just as the company preps for its market debut, slated for this Friday.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
+                "publishDate": "2026-06-09T14:11:10Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.29,
+        "price": 29.195,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.0975046,
-            "marketCap": 21067429888,
+            "change": 2.763111,
+            "marketCap": 20999098368,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.25,
+        "price": 25.28,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8094485,
-            "marketCap": 5239149568,
+            "change": 2.931601,
+            "marketCap": 5245374464,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
