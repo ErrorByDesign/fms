@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.975,
+        "price": 43.96,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.72132,
-            "marketCap": 194767716352,
+            "change": 2.6862829,
+            "marketCap": 194701279232,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.331966
+            "yearTarget": 47.33673
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NVO): Top 10 Large Cap Value Stocks to Buy Now",
+                "summary": "Novo Nordisk (NYSE:NVO) is one of the top large cap value stocks to buy now. On June 8, Novo Nordisk presented Phase 3 results from its REIMAGINE 1\u20133 clinical program at the 2026 American Diabetes Association Scientific Sessions. The trials showed that the investigational treatment CagriSem, a once-weekly combination of an amylin analog and a [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nvo-top-10-195550366.html",
+                "publishDate": "2026-06-11T19:55:50Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Sector Update: Healthcare Stocks Higher Late Afternoon",
                 "summary": "Healthcare stocks rose late Thursday afternoon, with the NYSE Healthcare Index and the State Street",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-10T21:01:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Inside the GLP-1 Boom: ETF Picks for the Obesity Drug Market",
-                "summary": "GLP-1 drugs are reshaping healthcare and consumer markets. These ETFs offer targeted exposure to the booming obesity-drug trend.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/inside-glp-1-boom-etf-160000128.html",
-                "publishDate": "2026-06-10T16:00:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.74,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.142856,
-            "marketCap": 166208816,
+            "change": -0.571428,
+            "marketCap": 163391728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,22 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "Why the SpaceX IPO could be a trap",
-                "summary": "SpaceX may be a generational business. History says IPO day can still be a terrible entry point.",
+                "title": "SpaceX sets $135 IPO price ahead of Friday Nasdaq debut",
+                "summary": "SpaceX's priced its IPO Thursday night ahead at $135 a share ahead of the stock's debut on the Nasdaq on Friday, June 12.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/why-the-spacex-ipo-could-be-a-trap-100000497.html",
-                "publishDate": "2026-06-04T10:00:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-sets-135-ipo-price-ahead-of-friday-nasdaq-debut-101955774.html",
+                "publishDate": "2026-06-11T10:19:55Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Oppenheimer slaps Outperform rating on SpaceX, $190 price target ahead of market debut",
-                "summary": "Oppenheimer initiated coverage of SpaceX with an outperform rating and a $190 price target on Thursday, one day before the company begins trading on the Nasdaq under the ticker SPCX. The price target implies around 40% upside from the $135 IPO price, and values the firm at a hefty $2.5 trillion.",
-                "source": "Yahoo Finance",
+                "title": "SpaceX IPO: Last-minute strategies on how you can invest; the latest target price",
+                "summary": "SpaceX is preparing for a historic stock market debut. Here's what to know about buying IPO shares, brokerage qualifications, allocation rules, and other ways to benefit.",
+                "source": "Yahoo Personal Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/oppenheimer-slaps-outperform-rating-on-spacex-190-price-target-ahead-of-market-debut-163237327.html",
-                "publishDate": "2026-06-11T16:32:37Z",
+                "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-ipo-last-minute-strategies-on-how-you-can-invest-the-latest-target-price-141820133.html",
+                "publishDate": "2026-06-05T14:18:20Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: rockets, AI losses and Musk in control",
+                "summary": "SpaceX is inviting investors to bet on Elon Musk's vision of AI data centers in space and humans on Mars.The sky-high valuation for SpaceX -- nearly $1.8 trillion -- is based on the idea that his legendary run will continue and that Musk can achieve his goal of data centers in space and putting people on Mars.",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-rockets-ai-losses-200312350.html",
+                "publishDate": "2026-06-11T19:51:08Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-10T10:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
-                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
-                "source": "Euronews",
-                "category": "finance",
-                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-                "publishDate": "2026-06-09T15:52:32Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.49,
+        "price": 29.73,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.8001404,
-            "marketCap": 21211283456,
+            "change": 4.6462502,
+            "marketCap": 21383909376,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.16,
+        "price": 26.32,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.5146594,
-            "marketCap": 5427966464,
+            "change": 7.166125,
+            "marketCap": 5461165056,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
