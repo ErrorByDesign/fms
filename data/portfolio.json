@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.405,
+        "price": 43.33,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3898561,
-            "marketCap": 192243154944,
+            "change": 1.2146705,
+            "marketCap": 191910985728,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.088276
+            "yearTarget": 47.04339
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk hit by cyber incident, probes data breach",
+                "summary": "Novo Nordisk said on Thursday it has \u200cidentified a security incident involving \u200cunauthorized access to a limited number \u200bof internal IT systems.  The company's core business operations are not impacted and remain \u200bup \u200cand running, it added.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-hit-cyber-incident-154512317.html",
+                "publishDate": "2026-06-11T15:45:12Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "The GLP-1 stock nobody is pricing in isn\u2019t a drugmaker",
                 "summary": "Scott Galloway and Ed Elson laid out the math on Prof G Markets and it should make every fast food shareholder uneasy: roughly 30 million Americans, about 1 in 8 US adults, are now on GLP-1s, and the drugs are reducing fast food\u2019s addressable market by an estimated 27-30%. This is structural, not cyclical: appetite, ... The GLP-1 stock nobody is pricing in isn\u2019t a drugmaker",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-09T19:48:07Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Amneal and Pfizer GLP-1 Deal: New Growth Lever?",
-                "summary": "AMRX is expanding into GLP-1 manufacturing and biosimilars, using partnerships and acquisitions to strengthen its higher-value product strategy.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/amneal-pfizer-glp-1-deal-161600144.html",
-                "publishDate": "2026-06-09T16:16:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.74,
+        "price": 1.7301,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.571428,
-            "marketCap": 163391728,
+            "change": -1.1371409,
+            "marketCap": 162462080,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,22 +322,12 @@
         },
         "NEWS": [
             {
-                "title": "Virgin Galactic stock pops ahead of SpaceX IPO",
-                "summary": "Virigin Galactic shares popped 15% ahead of SpaceX's IPO.",
+                "title": "Why Starlink is so important to SpaceX's IPO",
+                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/virgin-galactic-stock-pops-ahead-of-spacex-ipo-153607589.html",
-                "publishDate": "2026-06-11T15:36:07Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Supermicro Computer stock sinks on $7 billion equity raise",
-                "summary": "Supermicro Computer stock was poised to decline as much as 12% at the open on Wednesday.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/supermicro-computer-stock-sinks-on-7-billion-equity-raise-124041144.html",
-                "publishDate": "2026-06-10T12:40:41Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+                "publishDate": "2026-04-11T17:44:46Z",
                 "premium": false,
                 "freemium": false
             },
@@ -420,6 +410,16 @@
                 "publishDate": "2026-06-09T14:11:10Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "SpaceX, Google compute deal raises eyebrows ahead of IPO",
+                "summary": "As SpaceX's IPO approaches, the company has been securing some very lucrative AI compute deals, but the timing and terms of those deals are adding concern.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
+                "publishDate": "2026-06-09T12:05:22Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.385,
+        "price": 29.36,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.4318914,
-            "marketCap": 21135761408,
+            "change": 3.3438957,
+            "marketCap": 21117779968,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.02,
+        "price": 25.18,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.872206,
-            "marketCap": 5191426560,
+            "change": 2.5244334,
+            "marketCap": 5224625152,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
