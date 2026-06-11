@@ -20,7 +20,7 @@
             "marketCap": 189607870464,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.161552
+            "yearTarget": 47.201195
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -37,7 +37,7 @@
                 "source": "The Wall Street Journal",
                 "category": "finance",
                 "url": "https://www.wsj.com/business/health-care-roundup-market-talk-ef19d1dd?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-10T16:32:00Z",
+                "publishDate": "2026-06-10T21:01:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.1299425,
+            "change": -1.12994,
             "marketCap": 164330752,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2030962,
+            "change": -2.2031,
             "marketCap": 20434472960,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Gilead Sciences, Inc. (GILD): a Top Deep Value Stock Making Progress on Pipeline Development",
+                "summary": "Gilead Sciences, Inc. (NASDAQ:GILD) is a deep value stock to invest in now. On June 2, Gilead Sciences, Inc. (NASDAQ:GILD) announced topline results of the Phase 3 IDEAL study for its candidate drug Livdelzi in people with primary biliary cholangitis (PBC). Study results showed that treatment with Livdelzi (seladelpar) led to significantly more patients achieving [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-sciences-inc-gild-top-010008074.html",
+                "publishDate": "2026-06-11T01:00:08Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Guggenheim Remains Bullish on Roivant Sciences Ltd. (ROIV)",
                 "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the best healthcare stocks to buy with highest upside potential. Guggenheim lifted the price target on Roivant Sciences Ltd. (NASDAQ:ROIV) to $36 from $30 on May 26 and maintained a Buy rating on the shares, updating its model after the recent fiscal Q4 earnings and pipeline updates. The stock [\u2026]",
@@ -554,16 +564,6 @@
                 "publishDate": "2026-05-20T17:54:28Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Roivant Sciences Q4 Earnings Call Highlights",
-                "summary": "Roivant Sciences (NASDAQ:ROIV) executives used the company\u2019s fourth-quarter earnings call to highlight new open-label data for IMVT-1402 in difficult-to-treat rheumatoid arthritis, upcoming pulmonary hypertension data for mosliciguat and continued preparation for a potential brepocitinib launch in d",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/roivant-sciences-q4-earnings-call-highlights-2026-05-20/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-05-20T14:07:58Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.5101085,
+            "change": -4.51011,
             "marketCap": 5095980544,
             "weekLow": 11.7,
             "weekHigh": 36.52,
