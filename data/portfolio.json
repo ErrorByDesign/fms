@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.96,
+        "price": 43.975,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.6862829,
-            "marketCap": 194701279232,
+            "change": 2.72132,
+            "marketCap": 194767716352,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.311733
+            "yearTarget": 47.331966
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Sector Update: Healthcare Stocks Higher Late Afternoon",
+                "summary": "Healthcare stocks rose late Thursday afternoon, with the NYSE Healthcare Index and the State Street",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-higher-afternoon-192832325.html",
+                "publishDate": "2026-06-11T19:28:32Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly vs Novo Nordisk: The Battle for Obesity Drug Supremacy",
                 "summary": "Eli Lilly (NYSE: LLY) and Novo Nordisk (NYSE: NVO) reported Q1 2026 results that pulled the GLP-1 duopoly apart. Lilly grew revenue 55.5% and raised guidance. Novo posted a 4% adjusted sales decline at constant currency and is cutting 9,000 jobs. Both call obesity the prize, but their quarters tell very different stories about who ... Eli Lilly vs Novo Nordisk: The Battle for Obesity Drug Supremacy",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-10T16:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Trend Lower in Tuesday Trading",
-                "summary": "European equities traded in the US as American depositary receipts were tracking lower late Tuesday",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/european-equities-traded-us-american-150747097.html",
-                "publishDate": "2026-06-10T15:07:47Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.73,
+        "price": 1.77,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.142856,
-            "marketCap": 162452688,
+            "change": 1.142856,
+            "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,22 +322,22 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX IPO: Last-minute strategies on how you can invest; the latest target price",
-                "summary": "SpaceX is preparing for a historic stock market debut. Here's what to know about buying IPO shares, brokerage qualifications, allocation rules, and other ways to benefit.",
-                "source": "Yahoo Personal Finance",
+                "title": "Why the SpaceX IPO could be a trap",
+                "summary": "SpaceX may be a generational business. History says IPO day can still be a terrible entry point.",
+                "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-ipo-last-minute-strategies-on-how-you-can-invest-the-latest-target-price-141820133.html",
-                "publishDate": "2026-06-05T14:18:20Z",
+                "url": "https://finance.yahoo.com/markets/article/why-the-spacex-ipo-could-be-a-trap-100000497.html",
+                "publishDate": "2026-06-04T10:00:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO set to 'price' Thursday night ahead of Friday Nasdaq debut \u2014 here's what's next",
-                "summary": "SpaceX's record-breaking IPO enters its final stretch, with the deal set to \"price\" Thursday night ahead of the stock's debut on the Nasdaq on Friday, June 12. But this pricing night will look nothing like the ones Wall Street, and investors, are used to.",
+                "title": "Oppenheimer slaps Outperform rating on SpaceX, $190 price target ahead of market debut",
+                "summary": "Oppenheimer initiated coverage of SpaceX with an outperform rating and a $190 price target on Thursday, one day before the company begins trading on the Nasdaq under the ticker SPCX. The price target implies around 40% upside from the $135 IPO price, and values the firm at a hefty $2.5 trillion.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-ipo-set-to-price-thursday-night-ahead-of-friday-nasdaq-debut--heres-whats-next-101955450.html",
-                "publishDate": "2026-06-11T10:19:55Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/oppenheimer-slaps-outperform-rating-on-spacex-190-price-target-ahead-of-market-debut-163237327.html",
+                "publishDate": "2026-06-11T16:32:37Z",
                 "premium": false,
                 "freemium": false
             },
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.5,
+        "price": 29.49,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.8366778,
-            "marketCap": 21218476032,
+            "change": 3.8001404,
+            "marketCap": 21211283456,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.09,
+        "price": 26.16,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.2296443,
-            "marketCap": 5413442048,
+            "change": 6.5146594,
+            "marketCap": 5427966464,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
