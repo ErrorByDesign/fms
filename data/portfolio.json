@@ -20,7 +20,7 @@
             "marketCap": 194701279232,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.3239
+            "yearTarget": 47.27929
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NVO) Outpaces Stock Market Gains: What You Should Know",
+                "summary": "In the closing of the recent trading day, Novo Nordisk (NVO) stood at $43.93, denoting a +2.62% move from the preceding trading day.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-outpaces-stock-214504973.html",
+                "publishDate": "2026-06-11T21:45:04Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NVO): Top 10 Large Cap Value Stocks to Buy Now",
                 "summary": "Novo Nordisk (NYSE:NVO) is one of the top large cap value stocks to buy now. On June 8, Novo Nordisk presented Phase 3 results from its REIMAGINE 1\u20133 clinical program at the 2026 American Diabetes Association Scientific Sessions. The trials showed that the investigational treatment CagriSem, a once-weekly combination of an amylin analog and a [\u2026]",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.wsj.com/business/health-care-roundup-market-talk-ef19d1dd?siteid=yhoof2&yptr=yahoo",
                 "publishDate": "2026-06-10T21:01:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Inside the GLP-1 Boom: ETF Picks for the Obesity Drug Market",
-                "summary": "GLP-1 drugs are reshaping healthcare and consumer markets. These ETFs offer targeted exposure to the booming obesity-drug trend.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/inside-glp-1-boom-etf-160000128.html",
-                "publishDate": "2026-06-10T16:00:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -332,12 +332,22 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO: Last-minute strategies on how you can invest; the latest target price",
-                "summary": "SpaceX is preparing for a historic stock market debut. Here's what to know about buying IPO shares, brokerage qualifications, allocation rules, and other ways to benefit.",
-                "source": "Yahoo Personal Finance",
+                "title": "Oppenheimer slaps Outperform rating on SpaceX, $190 price target ahead of market debut",
+                "summary": "Oppenheimer initiated coverage of SpaceX with an outperform rating and a $190 price target on Thursday, one day before the company begins trading on the Nasdaq under the ticker SPCX. The price target implies around 40% upside from the $135 IPO price, and values the firm at a hefty $2.5 trillion.",
+                "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/personal-finance/investing/article/spacex-ipo-last-minute-strategies-on-how-you-can-invest-the-latest-target-price-141820133.html",
-                "publishDate": "2026-06-05T14:18:20Z",
+                "url": "https://finance.yahoo.com/markets/stocks/article/oppenheimer-slaps-outperform-rating-on-spacex-190-price-target-ahead-of-market-debut-163237327.html",
+                "publishDate": "2026-06-11T16:32:37Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Starlink is so important to SpaceX's IPO",
+                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
+                "publishDate": "2026-04-11T17:44:46Z",
                 "premium": false,
                 "freemium": false
             },
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-10T10:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
-                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
-                "source": "Euronews",
-                "category": "finance",
-                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-                "publishDate": "2026-06-09T15:52:32Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.6462502,
+            "change": 4.64625,
             "marketCap": 21383909376,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 7.166125,
+            "change": 7.16612,
             "marketCap": 5461165056,
             "weekLow": 11.7,
             "weekHigh": 36.52,
