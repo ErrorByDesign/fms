@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.96,
+        "price": 44.31,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.68628,
-            "marketCap": 194701279232,
+            "change": 0.7961836,
+            "marketCap": 196251451392,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.30897
+            "yearTarget": 47.320038
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,66 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "UK gives Wegovy GLP-1 pill first European approval",
+                "summary": "The authorisation by the UK's Medicines and Healthcare products Regulatory Agency makes the country the third to licence the medication after the US and the UAE.",
+                "source": "Just Drinks",
+                "category": "finance",
+                "url": "https://www.just-drinks.com/news/uk-wegovy-pill-approval/",
+                "publishDate": "2026-06-12T14:37:25Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Stock Up as UK Wegovy Pill Nod Eclipses Security Breach",
+                "summary": "NVO stock gains 3% as the United Kingdom becomes Europe's first country to approve the daily GLP-1 Wegovy weight-loss pill, overshadowing an IT security breach.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-stock-uk-wegovy-130600907.html",
+                "publishDate": "2026-06-12T13:06:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Update: Market Chatter: Some US Employers Plan to Drop GLP-1 Coverage for Obesity in 2027",
+                "summary": "(Updates with Eli Lilly's response to a request for comment from MT Newswires.) Some employers in",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/market-chatter-us-employers-plan-130506897.html",
+                "publishDate": "2026-06-12T13:05:06Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk comeback stirs as Wegovy pill wins UK approval",
+                "summary": "There are already lengthy patient waitlists for the medication on digital health platforms.",
+                "source": "Pharmaceutical Technology",
+                "category": "finance",
+                "url": "https://www.pharmaceutical-technology.com/news/novo-nordisk-comeback-stirs-as-wegovy-pill-wins-uk-approval/",
+                "publishDate": "2026-06-12T11:55:31Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Oral Wegovy FDA Win Reframes Novo Nordisk Growth And Longevity Story",
+                "summary": "Novo Nordisk (NYSE:NVO) has received FDA approval for oral Wegovy, the first oral GLP-1 obesity treatment in the U.S. The company has begun the U.S. launch of oral Wegovy, aiming to broaden access to obesity treatment beyond injectable options. Novo Nordisk is highlighting longevity and aesthetics as future focus areas, building on research suggesting semaglutide may protect organs and reduce biological aging. Novo Nordisk enters this new phase with oral Wegovy at a time when NYSE:NVO is...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/oral-wegovy-fda-win-reframes-081728034.html",
+                "publishDate": "2026-06-12T08:17:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (NYSE:NVO) Stock Valuation Gap Questioned After Recent Share Price Pullback",
+                "summary": "Recent performance snapshot Novo Nordisk (NYSE:NVO) has drawn investor attention after a mixed stretch for the stock, with a gain of 2.7% over the past day contrasted with a decline of 6.5% over the past month. See our latest analysis for Novo Nordisk. Zooming out, Novo Nordisk\u2019s recent bounce comes after a softer patch, with the share price up over the past quarter but down year to date, while the 1 year total shareholder return is also lower. This suggests momentum has cooled compared with...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nyse-nvo-stock-051118765.html",
+                "publishDate": "2026-06-12T05:11:18Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NVO) Outpaces Stock Market Gains: What You Should Know",
                 "summary": "In the closing of the recent trading day, Novo Nordisk (NVO) stood at $43.93, denoting a +2.62% move from the preceding trading day.",
@@ -70,66 +130,6 @@
                 "publishDate": "2026-06-11T18:58:26Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "NVO Stock Gains As UK Clears First Daily GLP-1 Weight-Loss Pill, Offsetting Security Breach News",
-                "summary": "Novo Nordisk revealed that the UK\u2019s Medicines and Healthcare products Regulatory Agency (MHRA) has approved the Wegovy pill, following in the footsteps of the U.S. FDA.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/nvo-stock-gains-as-uk-clears-first-daily-glp-1-weight-loss-pill-offsetting-security-breach-news/cZKTzonR72u",
-                "publishDate": "2026-06-11T18:24:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Cybersecurity Breach Puts Data Controls And Investor Confidence In Focus",
-                "summary": "Novo Nordisk reported an IT security incident involving unauthorized access to internal systems. Certain non public, including personal, data was copied externally, prompting notifications to affected parties. Some IT systems were taken offline in response, while the company stated that business operations were unaffected. Novo Nordisk, traded as CPSE:NOVO B, is addressing this cybersecurity incident against a backdrop of recent share price pressure. The stock closed at DKK281.2, with the...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-cybersecurity-breach-puts-171108556.html",
-                "publishDate": "2026-06-11T17:11:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Employers Rethink GLP-1 Coverage",
-                "summary": "Rising use of weight-loss drugs keeps pressure on health benefit costs.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/employers-rethink-glp-1-coverage-162203870.html",
-                "publishDate": "2026-06-11T16:22:03Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk flags patient data breach from some clinical trials in cyberattack",
-                "summary": "Novo Nordisk said on Thursday it has identified a security incident in which certain information, including \u200cpatient data from some clinical trials, was copied externally without \u200cauthorization from its internal IT systems.  The company, maker of the blockbuster weight-loss drug Wegovy, \u200bsaid it has launched a probe with the assistance of external cybersecurity experts and is in contact with the relevant authorities.  \"The incident affected a limited amount of information related to patients participating in some \u200cof our clinical trials,\" \u2060Novo said in its statement, without disclosing what type of trials.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-hit-cyber-incident-154512317.html",
-                "publishDate": "2026-06-11T15:45:12Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The GLP-1 stock nobody is pricing in isn\u2019t a drugmaker",
-                "summary": "Scott Galloway and Ed Elson laid out the math on Prof G Markets and it should make every fast food shareholder uneasy: roughly 30 million Americans, about 1 in 8 US adults, are now on GLP-1s, and the drugs are reducing fast food\u2019s addressable market by an estimated 27-30%. This is structural, not cyclical: appetite, ... The GLP-1 stock nobody is pricing in isn\u2019t a drugmaker",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/11/the-glp-1-stock-nobody-is-pricing-in-isnt-a-drugmaker/",
-                "publishDate": "2026-06-11T13:30:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Health Care Roundup: Market Talk",
-                "summary": "Find insight on Big European pharmaceutical companies, GSK, Kossan Rubber Industries and more in the latest Market Talks covering the health care sector.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/business/health-care-roundup-market-talk-ef19d1dd?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-10T21:01:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.74,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.571428,
-            "marketCap": 163391728,
+            "change": 1.1248584,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,32 +322,12 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX sets $135 IPO price ahead of Friday Nasdaq debut",
-                "summary": "SpaceX's priced its IPO Thursday night ahead at $135 a share ahead of the stock's debut on the Nasdaq on Friday, June 12.",
+                "title": "Elon Musk poised to be world's first trillionaire",
+                "summary": "Elon Musk is poised to become the world's first trillionaire when SpaceX stock debuts today, with the company's IPO price valuing his stake at a considerable $866.5 billion on paper.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-sets-135-ipo-price-ahead-of-friday-nasdaq-debut-101955774.html",
-                "publishDate": "2026-06-11T10:19:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Oppenheimer slaps Outperform rating on SpaceX, $190 price target ahead of market debut",
-                "summary": "Oppenheimer initiated coverage of SpaceX with an outperform rating and a $190 price target on Thursday, one day before the company begins trading on the Nasdaq under the ticker SPCX. The price target implies around 40% upside from the $135 IPO price, and values the firm at a hefty $2.5 trillion.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/oppenheimer-slaps-outperform-rating-on-spacex-190-price-target-ahead-of-market-debut-163237327.html",
-                "publishDate": "2026-06-11T16:32:37Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Starlink is so important to SpaceX's IPO",
-                "summary": "When analysts and investors talk about a potential SpaceX IPO, they are, in large part, talking about Starlink.\u00a0",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/why-starlink-is-so-important-to-spacexs-ipo-174446711.html",
-                "publishDate": "2026-04-11T17:44:46Z",
+                "url": "https://finance.yahoo.com/markets/article/elon-musk-poised-to-be-worlds-first-trillionaire-143438498.html",
+                "publishDate": "2026-06-05T14:34:38Z",
                 "premium": false,
                 "freemium": false
             },
@@ -420,6 +400,26 @@
                 "publishDate": "2026-06-10T10:00:00Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
+                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
+                "source": "Euronews",
+                "category": "finance",
+                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+                "publishDate": "2026-06-09T15:52:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX reveals its first orbital data center, 'much simpler than a Starlink satellite,' Musk says",
+                "summary": "SpaceX revealed its first generation of orbital data center satellite - dubbed AI1 - in a video posted to X late Monday. The reveal marks SpaceX's first step towards one of its biggest initiatives, just as the company preps for its market debut, slated for this Friday.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
+                "publishDate": "2026-06-09T14:11:10Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.73,
+        "price": 30.24,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.64625,
-            "marketCap": 21383909376,
+            "change": 1.7154398,
+            "marketCap": 21750736896,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.32,
+        "price": 27.08,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 7.16612,
-            "marketCap": 5461165056,
+            "change": 2.887539,
+            "marketCap": 5618857984,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
