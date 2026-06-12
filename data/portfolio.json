@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.31,
+        "price": 44.375,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.7961836,
-            "marketCap": 196251451392,
+            "change": 0.94404215,
+            "marketCap": 196539334656,
             "weekLow": 35.12,
             "weekHigh": 81.44,
-            "yearTarget": 47.320038
+            "yearTarget": 47.322456
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1248584,
+            "change": 1.1494242,
             "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,12 +322,32 @@
         },
         "NEWS": [
             {
-                "title": "Elon Musk poised to be world's first trillionaire",
-                "summary": "Elon Musk is poised to become the world's first trillionaire when SpaceX stock debuts today, with the company's IPO price valuing his stake at a considerable $866.5 billion on paper.",
+                "title": "SpaceX's IPO dream runs into Wall Street's oldest test",
+                "summary": "SpaceX may have scale and tech appeal \u2014 but it's missing what Wall Street likes most.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/elon-musk-poised-to-be-worlds-first-trillionaire-143438498.html",
-                "publishDate": "2026-06-05T14:34:38Z",
+                "url": "https://finance.yahoo.com/markets/article/spacexs-ipo-dream-runs-into-wall-streets-oldest-test-114542298.html",
+                "publishDate": "2026-06-06T11:45:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Top Midday Stories: SpaceX Shares Indicated to Open 29% Above IPO Price at $174 Each; Adobe CFO Leaves Company",
+                "summary": "All three major US stock indexes were up in late-morning trading Friday, as investors prepare for Sp",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-spacex-shares-154231404.html",
+                "publishDate": "2026-06-12T15:42:31Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Has 40% Upside from IPO per Wall Street Analyst. Here\u2019s How",
+                "summary": "The IPO market has spent years searching for a company capable of reigniting investor enthusiasm. SpaceX (NASDAQ:SPCX) may be that company. After debuting in the largest IPO in history, the aerospace and AI giant immediately became one of the market\u2019s most closely watched stocks. While many IPOs struggle to justify lofty valuations, at least one ... SpaceX Has 40% Upside from IPO per Wall Street Analyst. Here\u2019s How",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/12/spacex-has-40-upside-from-ipo-per-wall-street-analyst-heres-how/",
+                "publishDate": "2026-06-12T15:30:40Z",
                 "premium": false,
                 "freemium": false
             },
@@ -400,26 +420,6 @@
                 "publishDate": "2026-06-10T10:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
-                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
-                "source": "Euronews",
-                "category": "finance",
-                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-                "publishDate": "2026-06-09T15:52:32Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX reveals its first orbital data center, 'much simpler than a Starlink satellite,' Musk says",
-                "summary": "SpaceX revealed its first generation of orbital data center satellite - dubbed AI1 - in a video posted to X late Monday. The reveal marks SpaceX's first step towards one of its biggest initiatives, just as the company preps for its market debut, slated for this Friday.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
-                "publishDate": "2026-06-09T14:11:10Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.24,
+        "price": 30.215,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7154398,
-            "marketCap": 21750736896,
+            "change": 1.6310766,
+            "marketCap": 21732755456,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.08,
+        "price": 26.975,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.887539,
-            "marketCap": 5618857984,
+            "change": 2.4886045,
+            "marketCap": 5597071872,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
