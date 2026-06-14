@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.375,
+        "price": 43.88,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.94404215,
-            "marketCap": 196539334656,
+            "change": -0.181979,
+            "marketCap": 194346958848,
             "weekLow": 35.12,
-            "weekHigh": 81.44,
-            "yearTarget": 47.322456
+            "weekHigh": 78.38,
+            "yearTarget": 47.28532
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,102 +32,102 @@
         },
         "NEWS": [
             {
+                "title": "Goldman Sachs doubles down on Novo stock target after key event",
+                "summary": "Novo Nordisk (NVO) has spent 2026 trying to convince investors that the worst is behind it. After a punishing year, the stock is finally clawing back from its lows. So, when Goldman Sachs sat down with management at a major healthcare conference this month, investors wondered if the bank would turn ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/investing/stocks/nvo-nvo-stock-price-target-goldman-sachs",
+                "publishDate": "2026-06-14T15:33:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "3 Reasons to Buy Eli Lilly Stock Like There's No Tomorrow",
+                "summary": "Eli Lilly is winning the GLP-1 race right now, but it isn't resting on its laurels.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/14/3-reasons-to-buy-eli-lilly-stock-like-theres-no-to/",
+                "publishDate": "2026-06-14T12:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Oral Wegovy Win In UK Puts Focus On Novo Nordisk Valuation Gap",
+                "summary": "Novo Nordisk (NYSE:NVO) has received first-in-Europe approval in the UK for its daily oral Wegovy pill for chronic weight management. The decision introduces a non injectable GLP-1 option for obesity treatment in the UK market. The company plans to launch the oral Wegovy pill in additional international markets later in 2026. Novo Nordisk, trading at $43.88, is adding another product to its obesity portfolio with this UK approval of oral Wegovy. The stock is up 2.1% over the past week,...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/oral-wegovy-win-uk-puts-080551463.html",
+                "publishDate": "2026-06-14T08:05:51Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Middle-aged adults taking GLP-1s for obesity can save over $192K on lifetime medical costs, higher if they don\u2019t have college degrees, new study finds",
+                "summary": "The National Bureau of Economic Research paper's lead author hopes putting a dollar value on the benefits of GLP-1s will lead to better access",
+                "source": "Fortune",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/middle-aged-adults-taking-glp-080000120.html",
+                "publishDate": "2026-06-14T08:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk\u2019s Wegovy Pill Wins UK Nod And Expands Obesity Toolkit",
+                "summary": "Novo Nordisk has received UK approval for its Wegovy pill, the first daily oral GLP-1 weight-loss treatment licensed in Europe. The decision follows recent launches of the oral Wegovy treatment in the US and UAE. Phase 3 and real-world data indicate weight loss outcomes comparable to injectable GLP-1 products, with a safety profile regulators consider acceptable for broader use. For investors tracking CPSE:NOVO B, this approval comes at a time when the share price is around DKK287.25 and...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-wegovy-pill-wins-220939814.html",
+                "publishDate": "2026-06-13T22:09:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "3 Ridiculously Cheap Healthcare Stocks to Buy in June",
+                "summary": "Healthcare has spent 2026 on the sidelines while the rest of the market does the heavy lifting. The Health Care Select Sector SPDR Fund (NYSEARCA:XLV) is down around 1% year to date even after a 6% one-month bounce. That stagnation has left a handful of high-margin operators trading at forward multiples that look out of ... 3 Ridiculously Cheap Healthcare Stocks to Buy in June",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/13/3-ridiculously-cheap-healthcare-stocks-to-buy-in-june/",
+                "publishDate": "2026-06-13T13:30:28Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (NVO) Reports Positive Phase 3 Reimagine Trial Results",
+                "summary": "Novo Nordisk A/S (NYSE:NVO) is one of the 7 Best Longevity Stocks to Buy Now. On June 7, 2026, Novo Nordisk A/S (NYSE:NVO) presented Phase 3 results from its Reimagine 1-3 trials, which showed significant reductions in HbA1c and weight in adults with type 2 diabetes. The Reimagine trials met their primary endpoints, showing significant [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nvo-reports-positive-103955395.html",
+                "publishDate": "2026-06-13T10:39:55Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "These 3 Quality Stocks Will Make You Want to LEAP on Their Calls",
+                "summary": "Thursday\u2019s unusual options activity had plenty to choose from. However, it was the LEAPS that were really worth considering for bullish investors. Of the 28 calls over 365 days, these three quality stocks stood out.",
+                "source": "Barchart",
+                "category": "finance",
+                "url": "https://www.barchart.com/story/news/2444895/these-3-quality-stocks-will-make-you-want-to-leap-on-their-calls",
+                "publishDate": "2026-06-12T17:30:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Pfizer's New Weight-Loss Data Just Gave Eli Lilly and Novo Nordisk Investors Something to Worry About",
+                "summary": "The pharmaceutical company's flagship anti-obesity drug continues to bolster its efficacy and tolerability arguments.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/12/pfizers-new-weight-loss-data-just-gave-eli-lilly/",
+                "publishDate": "2026-06-12T16:52:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "UK gives Wegovy GLP-1 pill first European approval",
                 "summary": "The authorisation by the UK's Medicines and Healthcare products Regulatory Agency makes the country the third to licence the medication after the US and the UAE.",
                 "source": "Just Drinks",
                 "category": "finance",
                 "url": "https://www.just-drinks.com/news/uk-wegovy-pill-approval/",
                 "publishDate": "2026-06-12T14:37:25Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Stock Up as UK Wegovy Pill Nod Eclipses Security Breach",
-                "summary": "NVO stock gains 3% as the United Kingdom becomes Europe's first country to approve the daily GLP-1 Wegovy weight-loss pill, overshadowing an IT security breach.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-stock-uk-wegovy-130600907.html",
-                "publishDate": "2026-06-12T13:06:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Update: Market Chatter: Some US Employers Plan to Drop GLP-1 Coverage for Obesity in 2027",
-                "summary": "(Updates with Eli Lilly's response to a request for comment from MT Newswires.) Some employers in",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/market-chatter-us-employers-plan-130506897.html",
-                "publishDate": "2026-06-12T13:05:06Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk comeback stirs as Wegovy pill wins UK approval",
-                "summary": "There are already lengthy patient waitlists for the medication on digital health platforms.",
-                "source": "Pharmaceutical Technology",
-                "category": "finance",
-                "url": "https://www.pharmaceutical-technology.com/news/novo-nordisk-comeback-stirs-as-wegovy-pill-wins-uk-approval/",
-                "publishDate": "2026-06-12T11:55:31Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Oral Wegovy FDA Win Reframes Novo Nordisk Growth And Longevity Story",
-                "summary": "Novo Nordisk (NYSE:NVO) has received FDA approval for oral Wegovy, the first oral GLP-1 obesity treatment in the U.S. The company has begun the U.S. launch of oral Wegovy, aiming to broaden access to obesity treatment beyond injectable options. Novo Nordisk is highlighting longevity and aesthetics as future focus areas, building on research suggesting semaglutide may protect organs and reduce biological aging. Novo Nordisk enters this new phase with oral Wegovy at a time when NYSE:NVO is...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/oral-wegovy-fda-win-reframes-081728034.html",
-                "publishDate": "2026-06-12T08:17:28Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NYSE:NVO) Stock Valuation Gap Questioned After Recent Share Price Pullback",
-                "summary": "Recent performance snapshot Novo Nordisk (NYSE:NVO) has drawn investor attention after a mixed stretch for the stock, with a gain of 2.7% over the past day contrasted with a decline of 6.5% over the past month. See our latest analysis for Novo Nordisk. Zooming out, Novo Nordisk\u2019s recent bounce comes after a softer patch, with the share price up over the past quarter but down year to date, while the 1 year total shareholder return is also lower. This suggests momentum has cooled compared with...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nyse-nvo-stock-051118765.html",
-                "publishDate": "2026-06-12T05:11:18Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Outpaces Stock Market Gains: What You Should Know",
-                "summary": "In the closing of the recent trading day, Novo Nordisk (NVO) stood at $43.93, denoting a +2.62% move from the preceding trading day.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-outpaces-stock-214504973.html",
-                "publishDate": "2026-06-11T21:45:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO): Top 10 Large Cap Value Stocks to Buy Now",
-                "summary": "Novo Nordisk (NYSE:NVO) is one of the top large cap value stocks to buy now. On June 8, Novo Nordisk presented Phase 3 results from its REIMAGINE 1\u20133 clinical program at the 2026 American Diabetes Association Scientific Sessions. The trials showed that the investigational treatment CagriSem, a once-weekly combination of an amylin analog and a [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nvo-top-10-195550366.html",
-                "publishDate": "2026-06-11T19:55:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Higher Late Afternoon",
-                "summary": "Healthcare stocks rose late Thursday afternoon, with the NYSE Healthcare Index and the State Street",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/sector-healthcare-stocks-higher-afternoon-192832325.html",
-                "publishDate": "2026-06-11T19:28:32Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly vs Novo Nordisk: The Battle for Obesity Drug Supremacy",
-                "summary": "Eli Lilly (NYSE: LLY) and Novo Nordisk (NYSE: NVO) reported Q1 2026 results that pulled the GLP-1 duopoly apart. Lilly grew revenue 55.5% and raised guidance. Novo posted a 4% adjusted sales decline at constant currency and is cutting 9,000 jobs. Both call obesity the prize, but their quarters tell very different stories about who ... Eli Lilly vs Novo Nordisk: The Battle for Obesity Drug Supremacy",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/11/eli-lilly-vs-novo-nordisk-the-battle-for-obesity-drug-supremacy/",
-                "publishDate": "2026-06-11T18:58:26Z",
                 "premium": false,
                 "freemium": false
             }
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1494242,
+            "change": 1.14942,
             "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,16 +322,6 @@
         },
         "NEWS": [
             {
-                "title": "SpaceX's IPO dream runs into Wall Street's oldest test",
-                "summary": "SpaceX may have scale and tech appeal \u2014 but it's missing what Wall Street likes most.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacexs-ipo-dream-runs-into-wall-streets-oldest-test-114542298.html",
-                "publishDate": "2026-06-06T11:45:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Top Midday Stories: SpaceX Shares Indicated to Open 29% Above IPO Price at $174 Each; Adobe CFO Leaves Company",
                 "summary": "All three major US stock indexes were up in late-morning trading Friday, as investors prepare for Sp",
                 "source": "MT Newswires",
@@ -382,16 +372,6 @@
                 "freemium": false
             },
             {
-                "title": "Musk Confidant Antonio Gracias Set for $68 Billion SpaceX Win",
-                "summary": "SpaceX\u2019s initial public offering could make  Elon Musk  a trillionaire.  The second-biggest payday will go to  Antonio Gracias,  his close friend and longtime investor who has made a career out of backing Musk.  When SpaceX goes public on Friday, Gracias and his firm Valor Equity Partners will own 6.7% of Class A shares, according to the company\u2019s IPO prospectus, giving the firm a $68 billion stake.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/business/musk-confidant-antonio-gracias-set-for-68-billion-spacex-win-83ad878a?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-11T14:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
                 "summary": "Tesla (NASDAQ:TSLA) sits in an awkward place. Q1 2026 showed automotive gross margin rebounding to 21.1% from 16.2% a year earlier, FSD subscriptions hit 1.28 million (+51% YoY), and free cash flow more than doubled to $1.444 billion. Yet shares closed at $418.45, down 6.95% YTD. Can Tesla reach $500 this cycle? What\u2019s Holding Tesla ... Prediction: Tesla Stock Will Hit $500 on This Date",
                 "source": "24/7 Wall St.",
@@ -412,12 +392,32 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX fever is testing the chip trade: Chart of the Day",
-                "summary": "SpaceX is not public yet, but retail traders may already be making room for it.",
+                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
+                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
+                "source": "Euronews",
+                "category": "finance",
+                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+                "publishDate": "2026-06-09T15:52:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX reveals its first orbital data center, 'much simpler than a Starlink satellite,' Musk says",
+                "summary": "SpaceX revealed its first generation of orbital data center satellite - dubbed AI1 - in a video posted to X late Monday. The reveal marks SpaceX's first step towards one of its biggest initiatives, just as the company preps for its market debut, slated for this Friday.",
                 "source": "Yahoo Finance",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/spacex-fever-is-testing-the-chip-trade-chart-of-the-day-100000045.html",
-                "publishDate": "2026-06-10T10:00:00Z",
+                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
+                "publishDate": "2026-06-09T14:11:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX, Google compute deal raises eyebrows ahead of IPO",
+                "summary": "As SpaceX's IPO approaches, the company has been securing some very lucrative AI compute deals, but the timing and terms of those deals are adding concern.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
+                "publishDate": "2026-06-09T12:05:22Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.215,
+        "price": 30.04,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.6310766,
-            "marketCap": 21732755456,
+            "change": 1.04272,
+            "marketCap": 21606883328,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.975,
+        "price": 27.23,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.4886045,
-            "marketCap": 5597071872,
+            "change": 3.45745,
+            "marketCap": 5649981952,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "SSR Mining Pullback Tests Gold Rate Sensitivity And Long Term Thesis",
+                "summary": "SSR Mining (TSX:SSRM) is under fresh pressure as gold and silver prices weaken following strong U.S. employment data. Expectations for further Federal Reserve interest rate hikes are weighing on precious metals, a key revenue driver for the company. The share price closed at CA$36.72, with the stock down 10.3% over the past week and 25.1% over the past month. For investors watching SSR Mining, the timing of this macro shock matters. The stock is still up 24.2% year to date and 117.1% over...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-pullback-tests-gold-181155351.html",
+                "publishDate": "2026-06-12T18:11:55Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Why SSR Mining Stock Got Knocked Today",
                 "summary": "This wasn't much of a surprise, given the recent price trajectories of gold and silver.",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/commodities/articles/bofa-cuts-pt-royal-gold-120758409.html",
                 "publishDate": "2026-05-26T12:07:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Is Selling Its Interest in the Copler Mine for $1.5 Billion. Is This a Positive Sign for the Mining Stock?",
-                "summary": "The gold miner is coming off a strong year and expects this year to be even better as it builds a strong balance sheet.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/05/25/ssr-mining-is-selling-its-interest-in-the-copler/",
-                "publishDate": "2026-05-25T15:50:00Z",
                 "premium": false,
                 "freemium": false
             }
