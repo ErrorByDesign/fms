@@ -20,7 +20,7 @@
             "marketCap": 194524102656,
             "weekLow": 35.12,
             "weekHigh": 78.38,
-            "yearTarget": 47.373013
+            "yearTarget": 47.401905
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -610,6 +610,26 @@
         },
         "NEWS": [
             {
+                "title": "Update: SSR Mining Announces Additional $500 Million Share Buyback and Reinstatement of Quarterly Dividend",
+                "summary": "(Adds after-hours Nasdaq trading in final paragraph.) SSR Mining (SSRM.TO, SSRM) after the close",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-announces-additional-500-212735753.html",
+                "publishDate": "2026-06-15T21:27:35Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "SSR Mining SSR Announces Additional $500 Million Share Buyback and Reinstatement of Quarterly Dividend",
+                "summary": "SSR Mining (SSRM.TO, SSRM) after the close Monday approved an additional $500 million for share repu",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssr-announces-additional-211806245.html",
+                "publishDate": "2026-06-15T21:18:06Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
                 "title": "SSR Mining Pullback Tests Gold Rate Sensitivity And Long Term Thesis",
                 "summary": "SSR Mining (TSX:SSRM) is under fresh pressure as gold and silver prices weaken following strong U.S. employment data. Expectations for further Federal Reserve interest rate hikes are weighing on precious metals, a key revenue driver for the company. The share price closed at CA$36.72, with the stock down 10.3% over the past week and 25.1% over the past month. For investors watching SSR Mining, the timing of this macro shock matters. The stock is still up 24.2% year to date and 117.1% over...",
                 "source": "Simply Wall St.",
@@ -686,26 +706,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/coverage/filings/2026/05/26/harvest-investment-dumps-356-000-adaptive-biotechnologies-adpt-shares-worth-usd5-7-million/",
                 "publishDate": "2026-05-26T20:23:58Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Inc. (SSRM) Sells 20% Equity Interest in Hod Maden",
-                "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the best commodity stocks to buy for the supercycle. SSR Mining Inc. (NASDAQ:SSRM) announced on May 18 its entry into a definitive agreement with Lidya Mines to sell its 20% ownership stake and its operatorship position in the Hod Maden development project for an uncapped 4.0% net smelter [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-inc-ssrm-sells-120821415.html",
-                "publishDate": "2026-05-26T12:08:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "BofA Cuts PT on Royal Gold (RGLD) Following Plans to Reduce Ownership in Hod Maden to 15%",
-                "summary": "Royal Gold, Inc. (NASDAQ:RGLD) is one of the best commodity stocks to buy for the supercycle. BofA cut the price target on Royal Gold, Inc. (NASDAQ:RGLD) to $245 from $246 on May 19, reiterating an Underperform rating on the shares. The rating came after SSR Mining Inc. (NASDAQ:SSRM) announced a definitive agreement with Lidya Mines of [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/commodities/articles/bofa-cuts-pt-royal-gold-120758409.html",
-                "publishDate": "2026-05-26T12:07:58Z",
                 "premium": false,
                 "freemium": false
             }
