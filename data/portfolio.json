@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.875,
+        "price": 43.915,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.011397147,
-            "marketCap": 194324807680,
+            "change": 0.07976264,
+            "marketCap": 194501967872,
             "weekLow": 35.12,
             "weekHigh": 78.38,
-            "yearTarget": 47.397636
+            "yearTarget": 47.385803
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.563348,
+            "change": 0.5681813,
             "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.855,
+        "price": 29.83,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.6158501,
-            "marketCap": 21473816576,
+            "change": -0.69907117,
+            "marketCap": 21455835136,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.885,
+        "price": 28.8,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.0778575,
-            "marketCap": 5993379840,
+            "change": 5.7656984,
+            "marketCap": 5975742464,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
