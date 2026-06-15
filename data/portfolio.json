@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.07,
+        "price": 43.985,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.43299595,
-            "marketCap": 195188473856,
+            "change": 0.23928793,
+            "marketCap": 194812002304,
             "weekLow": 35.12,
             "weekHigh": 78.38,
-            "yearTarget": 47.42442
+            "yearTarget": 47.414852
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.18,
+        "price": 30.16,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.46604323,
-            "marketCap": 21707581440,
+            "change": 0.3994638,
+            "marketCap": 21693194240,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.785,
+        "price": 28.68,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.7106147,
-            "marketCap": 5972630528,
+            "change": 5.325012,
+            "marketCap": 5950843904,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
@@ -615,7 +615,7 @@
                 "source": "Investor's Business Daily",
                 "category": "finance",
                 "url": "https://www.investors.com/news/iran-ceasefire-trump-stocks-sp-500-airlines-mining-companies/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-15T14:49:03Z",
+                "publishDate": "2026-06-15T17:32:45Z",
                 "premium": false,
                 "freemium": false
             },
