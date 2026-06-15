@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.985,
+        "price": 43.905,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.23928793,
-            "marketCap": 194812002304,
+            "change": 0.056968346,
+            "marketCap": 194457681920,
             "weekLow": 35.12,
             "weekHigh": 78.38,
-            "yearTarget": 47.414852
+            "yearTarget": 47.421917
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "HIMS Stock Set To Test A Crucial Resistance \u2013 Is Retail Expecting A Breakout?",
+                "summary": "In April, the stock faced resistance near $30 and saw selling pressure in the following weeks.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/hims-stock-gains-eyes-on-breakout/cZKfp1LR73n",
+                "publishDate": "2026-06-15T17:56:14Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Gains 7% in a Week: How Should Investors Play the Stock?",
                 "summary": "NVO stock jumps 7% in a week on U.K. approval of oral Wegovy and positive commercial updates, but competition and 2026 pressure cloud near-term outlook.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nvo-reports-positive-103955395.html",
                 "publishDate": "2026-06-13T10:39:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "These 3 Quality Stocks Will Make You Want to LEAP on Their Calls",
-                "summary": "Thursday\u2019s unusual options activity had plenty to choose from. However, it was the LEAPS that were really worth considering for bullish investors. Of the 28 calls over 365 days, these three quality stocks stood out.",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/2444895/these-3-quality-stocks-will-make-you-want-to-leap-on-their-calls",
-                "publishDate": "2026-06-12T17:30:02Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.16,
+        "price": 29.995,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.3994638,
-            "marketCap": 21693194240,
+            "change": -0.14980051,
+            "marketCap": 21574516736,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.68,
+        "price": 28.79,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.325012,
-            "marketCap": 5950843904,
+            "change": 5.7289805,
+            "marketCap": 5973668352,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
@@ -609,16 +609,6 @@
             "totalFundingRounds": null
         },
         "NEWS": [
-            {
-                "title": "Market Rallies On Peace Plan Hopes; These Stocks Set To Break Out",
-                "summary": "An interim peace deal between the U.S. and Iran, set to be signed on Friday, lifted markets early Monday morning.  Travel and mining stocks jumped on the prospect that the Strait of Hormuz would reopen.  Meanwhile, oil stocks, which had reaped fatter profit margins for the better part of three months, fell to the bottom of the S&P 500.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/iran-ceasefire-trump-stocks-sp-500-airlines-mining-companies/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-15T17:32:45Z",
-                "premium": false,
-                "freemium": false
-            },
             {
                 "title": "SSR Mining Pullback Tests Gold Rate Sensitivity And Long Term Thesis",
                 "summary": "SSR Mining (TSX:SSRM) is under fresh pressure as gold and silver prices weaken following strong U.S. employment data. Expectations for further Federal Reserve interest rate hikes are weighing on precious metals, a key revenue driver for the company. The share price closed at CA$36.72, with the stock down 10.3% over the past week and 25.1% over the past month. For investors watching SSR Mining, the timing of this macro shock matters. The stock is still up 24.2% year to date and 117.1% over...",
@@ -706,6 +696,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-inc-ssrm-sells-120821415.html",
                 "publishDate": "2026-05-26T12:08:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "BofA Cuts PT on Royal Gold (RGLD) Following Plans to Reduce Ownership in Hod Maden to 15%",
+                "summary": "Royal Gold, Inc. (NASDAQ:RGLD) is one of the best commodity stocks to buy for the supercycle. BofA cut the price target on Royal Gold, Inc. (NASDAQ:RGLD) to $245 from $246 on May 19, reiterating an Underperform rating on the shares. The rating came after SSR Mining Inc. (NASDAQ:SSRM) announced a definitive agreement with Lidya Mines of [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/bofa-cuts-pt-royal-gold-120758409.html",
+                "publishDate": "2026-05-26T12:07:58Z",
                 "premium": false,
                 "freemium": false
             }
