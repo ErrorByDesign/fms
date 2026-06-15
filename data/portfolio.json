@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.88,
+        "price": 44.28,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.181979,
-            "marketCap": 194346958848,
+            "change": 0.9115718,
+            "marketCap": 196118577152,
             "weekLow": 35.12,
             "weekHigh": 78.38,
-            "yearTarget": 47.43444
+            "yearTarget": 47.43871
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is Pfizer's Discounted Valuation a Buying Opportunity or a Value Trap?",
+                "summary": "PFE trades at a steep discount as COVID sales fade and patent cliffs loom, but new products, oncology strength and pipeline plans could shape its future.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/pfizers-discounted-valuation-buying-opportunity-140400541.html",
+                "publishDate": "2026-06-15T14:04:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Goldman Sachs doubles down on Novo stock target after key event",
                 "summary": "Novo Nordisk (NVO) has spent 2026 trying to convince investors that the worst is behind it. After a punishing year, the stock is finally clawing back from its lows. So, when Goldman Sachs sat down with management at a major healthcare conference this month, investors wondered if the bank would turn ...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-12T16:52:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "UK gives Wegovy GLP-1 pill first European approval",
-                "summary": "The authorisation by the UK's Medicines and Healthcare products Regulatory Agency makes the country the third to licence the medication after the US and the UAE.",
-                "source": "Just Drinks",
-                "category": "finance",
-                "url": "https://www.just-drinks.com/news/uk-wegovy-pill-approval/",
-                "publishDate": "2026-06-12T14:37:25Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.76,
+        "price": 1.755,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1494242,
-            "marketCap": 165269792,
+            "change": -0.28328586,
+            "marketCap": 164800272,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.04,
+        "price": 30.09,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0427159,
-            "marketCap": 21606883328,
+            "change": 0.1664422,
+            "marketCap": 21642846208,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.23,
+        "price": 29.365,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.4574463,
-            "marketCap": 5649981952,
+            "change": 7.840618,
+            "marketCap": 6092975104,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Market Rallies On Peace Plan Hopes; These Stocks Set To Break Out",
+                "summary": "An interim peace deal between the U.S. and Iran, set to be signed on Friday, lifted markets early Monday morning.  Travel and mining stocks jumped on the prospect that the Strait of Hormuz would reopen.  Meanwhile, oil stocks, which had reaped fatter profit margins for the better part of three months, fell to the bottom of the S&P 500.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/iran-ceasefire-trump-stocks-sp-500-airlines-mining-companies/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-15T14:49:03Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "SSR Mining Pullback Tests Gold Rate Sensitivity And Long Term Thesis",
                 "summary": "SSR Mining (TSX:SSRM) is under fresh pressure as gold and silver prices weaken following strong U.S. employment data. Expectations for further Federal Reserve interest rate hikes are weighing on precious metals, a key revenue driver for the company. The share price closed at CA$36.72, with the stock down 10.3% over the past week and 25.1% over the past month. For investors watching SSR Mining, the timing of this macro shock matters. The stock is still up 24.2% year to date and 117.1% over...",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-inc-ssrm-sells-120821415.html",
                 "publishDate": "2026-05-26T12:08:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "BofA Cuts PT on Royal Gold (RGLD) Following Plans to Reduce Ownership in Hod Maden to 15%",
-                "summary": "Royal Gold, Inc. (NASDAQ:RGLD) is one of the best commodity stocks to buy for the supercycle. BofA cut the price target on Royal Gold, Inc. (NASDAQ:RGLD) to $245 from $246 on May 19, reiterating an Underperform rating on the shares. The rating came after SSR Mining Inc. (NASDAQ:SSRM) announced a definitive agreement with Lidya Mines of [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/commodities/articles/bofa-cuts-pt-royal-gold-120758409.html",
-                "publishDate": "2026-05-26T12:07:58Z",
                 "premium": false,
                 "freemium": false
             }
