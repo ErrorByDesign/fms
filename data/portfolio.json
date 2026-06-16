@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.835,
+        "price": 43.795,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.19353162,
-            "marketCap": 194147647488,
+            "change": -0.2846408,
+            "marketCap": 193970470912,
             "weekLow": 35.12,
             "weekHigh": 75.78,
-            "yearTarget": 47.461998
+            "yearTarget": 47.462513
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
+                "summary": "Healthcare stocks edged higher Tuesday afternoon, with the NYSE Healthcare Index and the State Stree",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-172911327.html",
+                "publishDate": "2026-06-16T17:29:11Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly vs. Novo Nordisk: Better Obesity Drug Stock?",
+                "summary": "These two healthcare leaders have a long history of competing against one another.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/16/eli-lilly-vs-novo-nordisk-better-obesity-drug-stoc/",
+                "publishDate": "2026-06-16T17:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Stocks Higher in Tuesday Trading; Markets Buoyed by US, Iran Peace Deal; Inflation Remains a Concern",
                 "summary": "The European stock markets were modestly higher in Tuesday trading as the markets reacted positively",
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/pfizers-discounted-valuation-buying-opportunity-140400541.html",
                 "publishDate": "2026-06-15T14:04:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Goldman Sachs doubles down on Novo stock target after key event",
-                "summary": "Novo Nordisk (NVO) has spent 2026 trying to convince investors that the worst is behind it. After a punishing year, the stock is finally clawing back from its lows. So, when Goldman Sachs sat down with management at a major healthcare conference this month, investors wondered if the bank would turn ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/investing/stocks/nvo-nvo-stock-price-target-goldman-sachs",
-                "publishDate": "2026-06-14T15:33:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 Reasons to Buy Eli Lilly Stock Like There's No Tomorrow",
-                "summary": "Eli Lilly is winning the GLP-1 race right now, but it isn't resting on its laurels.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/14/3-reasons-to-buy-eli-lilly-stock-like-theres-no-to/",
-                "publishDate": "2026-06-14T12:35:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.88,
+        "price": 29.93,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.49950558,
-            "marketCap": 21491798016,
+            "change": -0.33300158,
+            "marketCap": 21527762944,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.78,
+        "price": 31.785,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 9.813407,
-            "marketCap": 6594066432,
+            "change": 9.830682,
+            "marketCap": 6595103744,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
