@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.795,
+        "price": 43.75,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.2846408,
-            "marketCap": 193970470912,
+            "change": -0.38706324,
+            "marketCap": 193771175936,
             "weekLow": 35.12,
             "weekHigh": 75.78,
-            "yearTarget": 47.462513
+            "yearTarget": 47.45698
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.93,
+        "price": 30.05,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.33300158,
-            "marketCap": 21527762944,
+            "change": 0.066617414,
+            "marketCap": 21614075904,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.785,
+        "price": 31.915,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 9.830682,
-            "marketCap": 6595103744,
+            "change": 10.27989,
+            "marketCap": 6622077952,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
@@ -616,16 +616,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/16/why-ssr-mining-stock-popped-today/",
                 "publishDate": "2026-06-16T14:13:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSRM Boots Financial Position With Additional $500M Share Buyback",
-                "summary": "SSR Mining boosts shareholder returns with a $500M buyback and dividend reinstatement, backed by strong cash flow growth and liquidity.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssrm-boots-financial-position-additional-135700940.html",
-                "publishDate": "2026-06-16T13:57:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -706,6 +696,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/look-ssr-mining-valuation-considers-210717509.html",
                 "publishDate": "2026-05-31T21:07:17Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Newmont vs. SSR Mining: Which Gold Stock Is a Better Buy in 2026?",
+                "summary": "This is a battle between a gold giant generating record cash flows and a smaller miner about to sell its most problematic mine and get $1.5 billion.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/coverage/better-buy/2026/05/27/newmont-vs-ssr-mining-which-gold-stock-is-a-better-buy-in-2026/",
+                "publishDate": "2026-05-27T19:13:32Z",
                 "premium": false,
                 "freemium": false
             }
