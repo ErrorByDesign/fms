@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.685,
+        "price": 43.5902,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5350565,
-            "marketCap": 193483292672,
+            "change": -0.75091,
+            "marketCap": 193063403520,
             "weekLow": 35.12,
             "weekHigh": 75.78,
-            "yearTarget": 47.445778
+            "yearTarget": 47.460228
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk to File Oral Wegovy in China",
+                "summary": "CEO Doustdar expects to submit oral Wegovy for Chinese regulatory approval in \"a few months\"",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-file-oral-wegovy-185224137.html",
+                "publishDate": "2026-06-16T18:52:24Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
                 "summary": "Healthcare stocks edged higher Tuesday afternoon, with the NYSE Healthcare Index and the State Stree",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-gains-7-week-144000738.html",
                 "publishDate": "2026-06-15T14:40:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Pfizer's Discounted Valuation a Buying Opportunity or a Value Trap?",
-                "summary": "PFE trades at a steep discount as COVID sales fade and patent cliffs loom, but new products, oncology strength and pipeline plans could shape its future.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/pfizers-discounted-valuation-buying-opportunity-140400541.html",
-                "publishDate": "2026-06-15T14:04:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.115,
+        "price": 30.22,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.28304723,
-            "marketCap": 21660827648,
+            "change": 0.63269603,
+            "marketCap": 21736351744,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.81,
+        "price": 31.845,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 9.917066,
-            "marketCap": 6600290816,
+            "change": 10.038005,
+            "marketCap": 6607553024,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
