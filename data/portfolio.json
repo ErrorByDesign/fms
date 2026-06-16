@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.92,
+        "price": 43.485,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0911511,
-            "marketCap": 194524102656,
+            "change": -0.99043167,
+            "marketCap": 192597475328,
             "weekLow": 35.12,
             "weekHigh": 75.78,
-            "yearTarget": 47.366554
+            "yearTarget": 47.423542
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk A/S (NVO) is Attracting Investor Attention: Here is What You Should Know",
+                "summary": "Zacks.com users have recently been watching Novo Nordisk (NVO) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-attracting-investor-130004848.html",
+                "publishDate": "2026-06-16T13:00:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Seeks China Approval for Wegovy Pill",
+                "summary": "The move could expand Novo's reach in a key obesity-drug market.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-seeks-china-approval-wegovy-123702478.html",
+                "publishDate": "2026-06-16T12:37:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Nasdaq, S&P 500 Futures Catch Breath Ahead Of First Warsh-Led Fed Decision: Why SPCX, TSLA, RKLB, BABA, NVO, HOOD, STI Are Keeping Traders Hooked",
+                "summary": "Stocktwits data showed retail sentiment on SPY and QQQ has remained \u2018bearish\u2019 despite the recent rally.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-breather-ahead-of-first-warsh-led-fed-decision-why-spcx-tsla-rklb-baba-nvo-sti-in-focus/cZKWkRXR7Ek",
+                "publishDate": "2026-06-16T08:49:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Market Chatter: Novo Nordisk to Seek China Approval for Oral Wegovy as Obesity Drug",
+                "summary": "Novo Nordisk (NVO) plans to apply for Chinese regulatory approval of its oral weight-loss drug, Wego",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/market-chatter-novo-nordisk-seek-084031912.html",
+                "publishDate": "2026-06-16T08:40:31Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "HIMS Stock Set To Test A Crucial Resistance \u2013 Is Retail Expecting A Breakout?",
                 "summary": "In April, the stock faced resistance near $30 and saw selling pressure in the following weeks.",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-06-14T08:05:51Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Middle-aged adults taking GLP-1s for obesity can save over $192K on lifetime medical costs, higher if they don\u2019t have college degrees, new study finds",
-                "summary": "The National Bureau of Economic Research paper's lead author hopes putting a dollar value on the benefits of GLP-1s will lead to better access",
-                "source": "Fortune",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/middle-aged-adults-taking-glp-080000120.html",
-                "publishDate": "2026-06-14T08:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk\u2019s Wegovy Pill Wins UK Nod And Expands Obesity Toolkit",
-                "summary": "Novo Nordisk has received UK approval for its Wegovy pill, the first daily oral GLP-1 weight-loss treatment licensed in Europe. The decision follows recent launches of the oral Wegovy treatment in the US and UAE. Phase 3 and real-world data indicate weight loss outcomes comparable to injectable GLP-1 products, with a safety profile regulators consider acceptable for broader use. For investors tracking CPSE:NOVO B, this approval comes at a time when the share price is around DKK287.25 and...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-wegovy-pill-wins-220939814.html",
-                "publishDate": "2026-06-13T22:09:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 Ridiculously Cheap Healthcare Stocks to Buy in June",
-                "summary": "Healthcare has spent 2026 on the sidelines while the rest of the market does the heavy lifting. The Health Care Select Sector SPDR Fund (NYSEARCA:XLV) is down around 1% year to date even after a 6% one-month bounce. That stagnation has left a handful of high-margin operators trading at forward multiples that look out of ... 3 Ridiculously Cheap Healthcare Stocks to Buy in June",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/13/3-ridiculously-cheap-healthcare-stocks-to-buy-in-june/",
-                "publishDate": "2026-06-13T13:30:28Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Reports Positive Phase 3 Reimagine Trial Results",
-                "summary": "Novo Nordisk A/S (NYSE:NVO) is one of the 7 Best Longevity Stocks to Buy Now. On June 7, 2026, Novo Nordisk A/S (NYSE:NVO) presented Phase 3 results from its Reimagine 1-3 trials, which showed significant reductions in HbA1c and weight in adults with type 2 diabetes. The Reimagine trials met their primary endpoints, showing significant [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-nvo-reports-positive-103955395.html",
-                "publishDate": "2026-06-13T10:39:55Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.79,
+        "price": 1.7514,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.70454,
-            "marketCap": 168086880,
+            "change": -2.1564229,
+            "marketCap": 164462224,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.03,
+        "price": 29.69,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.0332897,
-            "marketCap": 21599690752,
+            "change": -1.1322017,
+            "marketCap": 21355139072,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.94,
+        "price": 31.55,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.27984,
-            "marketCap": 6004791808,
+            "change": 9.018655,
+            "marketCap": 6546342912,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
@@ -609,6 +609,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Why SSR Mining Stock Popped Today",
+                "summary": "SSR Mining is flush with cash, and spending it on dividends and stock buybacks.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/16/why-ssr-mining-stock-popped-today/",
+                "publishDate": "2026-06-16T14:13:53Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SSRM Boots Financial Position With Additional $500M Share Buyback",
+                "summary": "SSR Mining boosts shareholder returns with a $500M buyback and dividend reinstatement, backed by strong cash flow growth and liquidity.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssrm-boots-financial-position-additional-135700940.html",
+                "publishDate": "2026-06-16T13:57:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Update: SSR Mining Announces Additional $500 Million Share Buyback and Reinstatement of Quarterly Dividend",
                 "summary": "(Adds after-hours Nasdaq trading in final paragraph.) SSR Mining (SSRM.TO, SSRM) after the close",
@@ -686,26 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/look-ssr-mining-valuation-considers-210717509.html",
                 "publishDate": "2026-05-31T21:07:17Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Newmont vs. SSR Mining: Which Gold Stock Is a Better Buy in 2026?",
-                "summary": "This is a battle between a gold giant generating record cash flows and a smaller miner about to sell its most problematic mine and get $1.5 billion.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/coverage/better-buy/2026/05/27/newmont-vs-ssr-mining-which-gold-stock-is-a-better-buy-in-2026/",
-                "publishDate": "2026-05-27T19:13:32Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Harvest Investment Services Dumps 356,000 Adaptive Biotechnologies (ADPT) Shares Worth $5.7 Million",
-                "summary": "Adaptive Biotechnologies develops immune-driven diagnostics and research tools for the life sciences and healthcare sectors.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/coverage/filings/2026/05/26/harvest-investment-dumps-356-000-adaptive-biotechnologies-adpt-shares-worth-usd5-7-million/",
-                "publishDate": "2026-05-26T20:23:58Z",
                 "premium": false,
                 "freemium": false
             }
