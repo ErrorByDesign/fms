@@ -20,7 +20,7 @@
             "marketCap": 192885358592,
             "weekLow": 35.12,
             "weekHigh": 75.78,
-            "yearTarget": 47.44585
+            "yearTarget": 47.439518
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Prepares China Filing For Oral Wegovy Pill",
+                "summary": "Novo Nordisk (CPSE:NOVO B) plans to seek Chinese regulatory approval for its oral Wegovy obesity pill. The planned filing would extend the company's weight loss franchise into China, a large potential market for obesity therapies. This move comes after prior focus on injectable Wegovy and recent attention on regulatory milestones in other regions, including the UK. Novo Nordisk, best known for its diabetes and obesity treatments, is pushing further into weight management with the oral...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-200844491.html",
+                "publishDate": "2026-06-16T20:08:44Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk to File Oral Wegovy in China",
                 "summary": "CEO Doustdar expects to submit oral Wegovy for Chinese regulatory approval in \"a few months\"",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://stocktwits.com/news-articles/markets/equity/hims-stock-gains-eyes-on-breakout/cZKfp1LR73n",
                 "publishDate": "2026-06-15T17:56:14Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Gains 7% in a Week: How Should Investors Play the Stock?",
-                "summary": "NVO stock jumps 7% in a week on U.K. approval of oral Wegovy and positive commercial updates, but competition and 2026 pressure cloud near-term outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/novo-nordisk-gains-7-week-144000738.html",
-                "publishDate": "2026-06-15T14:40:00Z",
                 "premium": false,
                 "freemium": false
             }
