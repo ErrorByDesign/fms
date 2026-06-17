@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": -0.842438,
-            "marketCap": 192885358592,
+            "marketCap": 192836370432,
             "weekLow": 35.12,
-            "weekHigh": 75.78,
-            "yearTarget": 47.45573
+            "weekHigh": 74.82,
+            "yearTarget": 47.46347
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NYSE:NVO) Discloses Clinical Trial Data Breach As GLP 1 Supply Strain Continues",
+                "summary": "Novo Nordisk (NYSE:NVO) has disclosed a patient data breach affecting individuals involved in its clinical trials. The company is assessing the scope of the data exposure and potential regulatory implications. At the same time, Novo Nordisk continues to face production capacity constraints for its GLP-1 therapies, including obesity treatment Wegovy. The combination of data security concerns and supply limitations raises fresh questions about operational resilience for the drug maker. Novo...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-discloses-020945599.html",
+                "publishDate": "2026-06-17T02:09:45Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (CPSE:NOVO B) Prepares China Filing For Oral Wegovy Pill",
                 "summary": "Novo Nordisk (CPSE:NOVO B) plans to seek Chinese regulatory approval for its oral Wegovy obesity pill. The planned filing would extend the company's weight loss franchise into China, a large potential market for obesity therapies. This move comes after prior focus on injectable Wegovy and recent attention on regulatory milestones in other regions, including the UK. Novo Nordisk, best known for its diabetes and obesity treatments, is pushing further into weight management with the oral...",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/healthcare/articles/market-chatter-novo-nordisk-seek-084031912.html",
                 "publishDate": "2026-06-16T08:40:31Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "HIMS Stock Set To Test A Crucial Resistance \u2013 Is Retail Expecting A Breakout?",
-                "summary": "In April, the stock faced resistance near $30 and saw selling pressure in the following weeks.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/hims-stock-gains-eyes-on-breakout/cZKfp1LR73n",
-                "publishDate": "2026-06-15T17:56:14Z",
-                "premium": false,
                 "freemium": false
             }
         ],
