@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.55,
+        "price": 44.37,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.842438,
-            "marketCap": 192836370432,
+            "change": 1.8828926,
+            "marketCap": 196467277824,
             "weekLow": 35.12,
             "weekHigh": 74.82,
-            "yearTarget": 47.46347
+            "yearTarget": 47.3872
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk hack: FulcrumSec claims $25M extortion attempt",
+                "summary": "A hacker group says it walked away with more than a terabyte of sensitive data after the pharmaceutical company refused to pay a $25 million ransom",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/novo-nordisk-hack-fulcrumsec-extortion-data-theft-061726",
+                "publishDate": "2026-06-17T12:08:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NYSE:NVO) Discloses Clinical Trial Data Breach As GLP 1 Supply Strain Continues",
                 "summary": "Novo Nordisk (NYSE:NVO) has disclosed a patient data breach affecting individuals involved in its clinical trials. The company is assessing the scope of the data exposure and potential regulatory implications. At the same time, Novo Nordisk continues to face production capacity constraints for its GLP-1 therapies, including obesity treatment Wegovy. The combination of data security concerns and supply limitations raises fresh questions about operational resilience for the drug maker. Novo...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-16T08:49:02Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Market Chatter: Novo Nordisk to Seek China Approval for Oral Wegovy as Obesity Drug",
-                "summary": "Novo Nordisk (NVO) plans to apply for Chinese regulatory approval of its oral weight-loss drug, Wego",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/market-chatter-novo-nordisk-seek-084031912.html",
-                "publishDate": "2026-06-16T08:40:31Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.79,
+        "price": 1.7535,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 168086880,
+            "change": -2.039105,
+            "marketCap": 164659408,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.41,
+        "price": 31.2,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2654,
-            "marketCap": 21873012736,
+            "change": 2.5978327,
+            "marketCap": 22441236480,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -465,6 +465,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Here is Why Roivant (ROIV) is One of the Best Growth Stocks Trading in Oversold Territory",
+                "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 12 Best Growth Stocks Trading in Oversold Territory. On May 20, Roivant Sciences reported its financial results for FQ4 and the full year FY2026, alongside a comprehensive business update. The company finished the year with $4.3 billion in consolidated cash and marketable securities, providing a runway into [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/why-roivant-roiv-one-best-134606353.html",
+                "publishDate": "2026-06-17T13:46:06Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Gilead Sciences, Inc. (GILD): a Top Deep Value Stock Making Progress on Pipeline Development",
                 "summary": "Gilead Sciences, Inc. (NASDAQ:GILD) is a deep value stock to invest in now. On June 2, Gilead Sciences, Inc. (NASDAQ:GILD) announced topline results of the Phase 3 IDEAL study for its candidate drug Livdelzi in people with primary biliary cholangitis (PBC). Study results showed that treatment with Livdelzi (seladelpar) led to significantly more patients achieving [\u2026]",
@@ -554,16 +564,6 @@
                 "publishDate": "2026-05-20T19:00:50Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Roivant (ROIV) Q4 2025 Earnings Transcript",
-                "summary": "Matthew Gline: Let me just call out the slide numbers.  And given the quality of the clinical data we've seen on ACR, I think it's like certainly a thing to speculate on that the overall profile of 1402 is part of what's contributing to our ability to deliver this data.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/earnings/call-transcripts/2026/05/20/roivant-roiv-q4-2025-earnings-transcript/",
-                "publishDate": "2026-05-20T17:54:28Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.83,
+        "price": 33.31,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 9.98618,
-            "marketCap": 6604440576,
+            "change": 4.6497064,
+            "marketCap": 6911527936,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
