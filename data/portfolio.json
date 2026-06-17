@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.94,
+        "price": 43.575,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.895521,
-            "marketCap": 194563260416,
+            "change": 0.05741538,
+            "marketCap": 192947077120,
             "weekLow": 35.12,
             "weekHigh": 74.82,
-            "yearTarget": 47.06148
+            "yearTarget": 46.96403
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "J&J Skips GLP-1 Race, Targets No. 1 Cancer Spot By 2030",
+                "summary": "Johnson & Johnson is focusing on oncology and neuroscience instead of obesity drugs, with AI possibly supporting its next growth cycle.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/j-j-skips-glp-1-193331804.html",
+                "publishDate": "2026-06-17T19:33:31Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Stocks Close Mostly Higher; Euro Area Inflation Rises in May",
                 "summary": "European stock markets closed mostly higher Wednesday as the Stoxx Europe 600 gained 0.5%, the Swiss",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-attracting-investor-130004848.html",
                 "publishDate": "2026-06-16T13:00:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Seeks China Approval for Wegovy Pill",
-                "summary": "The move could expand Novo's reach in a key obesity-drug market.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-seeks-china-approval-wegovy-123702478.html",
-                "publishDate": "2026-06-16T12:37:02Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.22,
+        "price": 31.14,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.6635957,
-            "marketCap": 22455621632,
+            "change": 2.4005246,
+            "marketCap": 22398078976,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.65,
+        "price": 31.98,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.576191,
-            "marketCap": 6774583808,
+            "change": 0.47125232,
+            "marketCap": 6635564544,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
