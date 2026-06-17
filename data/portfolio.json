@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2653984,
+            "change": 1.2654,
             "marketCap": 21873012736,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 9.9861765,
+            "change": 9.98618,
             "marketCap": 6604440576,
             "weekLow": 11.7,
             "weekHigh": 36.52,
@@ -616,16 +616,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-trades-discount-182745719.html",
                 "publishDate": "2026-06-16T18:27:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Royal Gold (RGLD) Faces Bearish Analyst Update As Hod Maden Stake Reduction Moves Forward",
-                "summary": "With a forward P/E of 16.08x, Royal Gold, Inc. (NASDAQ:RGLD) ranks among the most undervalued silver mining stocks to buy now. Meanwhile, analysts see 63.80% upside for the stock. However, the most recent update was bearish. BofA cut its price target on Royal Gold, Inc. (NASDAQ:RGLD) to $245 from $246 on May 19, 2026, [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-faces-bearish-182744079.html",
-                "publishDate": "2026-06-16T18:27:44Z",
                 "premium": false,
                 "freemium": false
             },
@@ -706,6 +696,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-upgraded-chipotle-downgraded-135544251.html",
                 "publishDate": "2026-06-03T13:55:44Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "A Look At SSR Mining\u2019s Valuation As It Considers A US$1.5b Copler Mine Sale",
+                "summary": "SSR Mining (TSX:SSRM) is reportedly preparing to sell its Copler mine in T\u00fcrkiye for about US$1.5b in cash. The transaction would reshape its asset mix and free up meaningful capital. See our latest analysis for SSR Mining. The potential sale news comes after a strong run in SSR Mining\u2019s share price, with a year to date share price return of 45.72% and a 1 year total shareholder return of 165.17%. However, the 90 day share price return slipped 1.37%, which suggests recent momentum has cooled...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/look-ssr-mining-valuation-considers-210717509.html",
+                "publishDate": "2026-05-31T21:07:17Z",
                 "premium": false,
                 "freemium": false
             }
