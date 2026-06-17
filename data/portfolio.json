@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 44.44,
+        "price": 44.475,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.0436265,
-            "marketCap": 196777230336,
+            "change": 2.1239936,
+            "marketCap": 196932206592,
             "weekLow": 35.12,
             "weekHigh": 74.82,
-            "yearTarget": 47.388077
+            "yearTarget": 47.37919
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Stocks Close Mostly Higher; Euro Area Inflation Rises in May",
+                "summary": "European stock markets closed mostly higher Wednesday as the Stoxx Europe 600 gained 0.5%, the Swiss",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mostly-higher-160014505.html",
+                "publishDate": "2026-06-17T16:00:14Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk hack: FulcrumSec claims $25M extortion attempt",
                 "summary": "A hacker group says it walked away with more than a terabyte of sensitive data after the pharmaceutical company refused to pay a $25 million ransom",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-seeks-china-approval-wegovy-123702478.html",
                 "publishDate": "2026-06-16T12:37:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Nasdaq, S&P 500 Futures Catch Breath Ahead Of First Warsh-Led Fed Decision: Why SPCX, TSLA, RKLB, BABA, NVO, HOOD, STI Are Keeping Traders Hooked",
-                "summary": "Stocktwits data showed retail sentiment on SPY and QQQ has remained \u2018bearish\u2019 despite the recent rally.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/nasdaq-sp500-futures-breather-ahead-of-first-warsh-led-fed-decision-why-spcx-tsla-rklb-baba-nvo-sti-in-focus/cZKWkRXR7Ek",
-                "publishDate": "2026-06-16T08:49:02Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.33,
+        "price": 31.09,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.0253208,
-            "marketCap": 22534742016,
+            "change": 2.2361076,
+            "marketCap": 22362116096,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.23,
+        "price": 33.315,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.3983655,
-            "marketCap": 6894928384,
+            "change": 4.665406,
+            "marketCap": 6912564736,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
