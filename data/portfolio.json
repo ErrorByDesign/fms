@@ -19,8 +19,8 @@
             "change": -0.0688835,
             "marketCap": 192703545344,
             "weekLow": 35.12,
-            "weekHigh": 74.82,
-            "yearTarget": 47.02019
+            "weekHigh": 74.38,
+            "yearTarget": 47.095074
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -92,8 +92,8 @@
                 "freemium": false
             },
             {
-                "title": "Novo Nordisk (NYSE:NVO) Discloses Clinical Trial Data Breach As GLP 1 Supply Strain Continues",
-                "summary": "Novo Nordisk (NYSE:NVO) has disclosed a patient data breach affecting individuals involved in its clinical trials. The company is assessing the scope of the data exposure and potential regulatory implications. At the same time, Novo Nordisk continues to face production capacity constraints for its GLP-1 therapies, including obesity treatment Wegovy. The combination of data security concerns and supply limitations raises fresh questions about operational resilience for the drug maker. Novo...",
+                "title": "Novo Nordisk (NYSE:NVO) Discloses Clinical Trial Data Breach",
+                "summary": "Novo Nordisk (NYSE:NVO) has disclosed a patient data breach affecting individuals involved in its clinical trials. The company is assessing the scope of the data exposure and potential regulatory implications.",
                 "source": "Simply Wall St.",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-discloses-020945599.html",
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5586587,
+            "change": -0.558659,
             "marketCap": 167147856,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -320,7 +320,108 @@
             "leadInvestor": "Draper Fisher Jurvetson",
             "totalFundingRounds": 14
         },
-        "NEWS": [],
+        "NEWS": [
+            {
+                "title": "Top Midday Stories: SpaceX Shares Indicated to Open 29% Above IPO Price at $174 Each; Adobe CFO Leaves Company",
+                "summary": "All three major US stock indexes were up in late-morning trading Friday, as investors prepare for Sp",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-spacex-shares-154231404.html",
+                "publishDate": "2026-06-12T15:42:31Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Has 40% Upside from IPO per Wall Street Analyst. Here\u2019s How",
+                "summary": "The IPO market has spent years searching for a company capable of reigniting investor enthusiasm. SpaceX (NASDAQ:SPCX) may be that company. After debuting in the largest IPO in history, the aerospace and AI giant immediately became one of the market\u2019s most closely watched stocks. While many IPOs struggle to justify lofty valuations, at least one ... SpaceX Has 40% Upside from IPO per Wall Street Analyst. Here\u2019s How",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/12/spacex-has-40-upside-from-ipo-per-wall-street-analyst-heres-how/",
+                "publishDate": "2026-06-12T15:30:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: rockets, AI losses and Musk in control",
+                "summary": "SpaceX is inviting investors to bet on Elon Musk's vision of AI data centers in space and humans on Mars.The sky-high valuation for SpaceX -- nearly $1.8 trillion -- is based on the idea that his legendary run will continue and that Musk can achieve his goal of data centers in space and putting people on Mars.",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-rockets-ai-losses-200312350.html",
+                "publishDate": "2026-06-11T19:51:08Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Could Trigger a $50 Billion Spending Spree. These Stocks Will Benefit.",
+                "summary": "SpaceX's IPO may create new winners beyond the rocket maker itself, with four companies positioned to benefit from the next wave of spending on satellites, infrastructure, and orbital computing.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/11/spacex-ipo-trigger-billion-spending-stocks-ktos/",
+                "publishDate": "2026-06-11T15:37:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk's empire as SpaceX heads to Wall Street liftoff",
+                "summary": "Elon Musk defines himself as an engineer trying to save humanity, while his critics call him a far-right showman who overpromises and underdelivers.Its most prominent project -- a tunnel beneath the Las Vegas Convention Center -- has drawn mixed reviews, with critics noting it amounts to a narrow underground road for Tesla cars rather than the revolutionary transit system Musk once envisioned.\narp/mlm/msp",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/musks-empire-spacex-counts-down-020836085.html",
+                "publishDate": "2026-06-11T14:35:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
+                "summary": "Tesla (NASDAQ:TSLA) sits in an awkward place. Q1 2026 showed automotive gross margin rebounding to 21.1% from 16.2% a year earlier, FSD subscriptions hit 1.28 million (+51% YoY), and free cash flow more than doubled to $1.444 billion. Yet shares closed at $418.45, down 6.95% YTD. Can Tesla reach $500 this cycle? What\u2019s Holding Tesla ... Prediction: Tesla Stock Will Hit $500 on This Date",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/05/prediction-tesla-stock-will-hit-500-on-this-date/",
+                "publishDate": "2026-06-10T16:09:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: The Devil Is in the Details",
+                "summary": "This is tool banks such as Goldman Sachs and Morgan Stanley use to build an order book for the SpaceX IPO.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-space-exploration-offering-8d846645?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-10T13:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
+                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
+                "source": "Euronews",
+                "category": "finance",
+                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
+                "publishDate": "2026-06-09T15:52:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX reveals its first orbital data center, 'much simpler than a Starlink satellite,' Musk says",
+                "summary": "SpaceX revealed its first generation of orbital data center satellite - dubbed AI1 - in a video posted to X late Monday. The reveal marks SpaceX's first step towards one of its biggest initiatives, just as the company preps for its market debut, slated for this Friday.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
+                "publishDate": "2026-06-09T14:11:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX, Google compute deal raises eyebrows ahead of IPO",
+                "summary": "As SpaceX's IPO approaches, the company has been securing some very lucrative AI compute deals, but the timing and terms of those deals are adding concern.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
+                "publishDate": "2026-06-09T12:05:22Z",
+                "premium": false,
+                "freemium": false
+            }
+        ],
         "RATINGS": {
             "analystCount": null,
             "recommendationKey": "",
@@ -349,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.5978327,
+            "change": 2.59783,
             "marketCap": 22441236480,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -493,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.18849973,
+            "change": -0.1885,
             "marketCap": 6591991296,
             "weekLow": 11.7,
             "weekHigh": 36.52,
