@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 42.82,
+        "price": 43.035,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6084576,
-            "marketCap": 189603987456,
+            "change": -1.1144315,
+            "marketCap": 190555996160,
             "weekLow": 35.12,
             "weekHigh": 74.38,
-            "yearTarget": 46.926373
+            "yearTarget": 46.90505
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Can Pfizer Take Share From Lilly & Novo Nordisk in the Obesity Space?",
+                "summary": "PFE is betting on monthly obesity treatments and new oral programs to challenge LLY and NVO in a market projected to hit $120 billion by 2035.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/pfizer-share-lilly-novo-nordisk-141100162.html",
+                "publishDate": "2026-06-18T14:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Can Wegovy Pill's Europe Push Help NVO Offset Mounting Pressures?",
                 "summary": "Wegovy pill's U.K. approval gives Novo Nordisk its first European launch path ahead of wider EU approval as it seeks growth amid mounting pricing and competitive pressures.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-discloses-020945599.html",
                 "publishDate": "2026-06-17T02:09:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Prepares China Filing For Oral Wegovy Pill",
-                "summary": "Novo Nordisk (CPSE:NOVO B) plans to seek Chinese regulatory approval for its oral Wegovy obesity pill. The planned filing would extend the company's weight loss franchise into China, a large potential market for obesity therapies. This move comes after prior focus on injectable Wegovy and recent attention on regulatory milestones in other regions, including the UK. Novo Nordisk, best known for its diabetes and obesity treatments, is pushing further into weight management with the oral...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-200844491.html",
-                "publishDate": "2026-06-16T20:08:44Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.78,
+        "price": 30.83,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.3461541,
-            "marketCap": 22139144192,
+            "change": -1.1859001,
+            "marketCap": 22175107072,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.64,
+        "price": 31.495,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.4091944,
-            "marketCap": 6565017600,
+            "change": -0.8655953,
+            "marketCap": 6534931456,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
