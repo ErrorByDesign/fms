@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.9076297,
+            "change": -0.9075254,
             "marketCap": 190954504192,
             "weekLow": 35.12,
             "weekHigh": 74.38,
-            "yearTarget": 46.86518
+            "yearTarget": 46.86166
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Hims & Hers Rallies With a July FDA Decision Looming",
+                "summary": "Barclays raises its target to $39 as GLP-1 momentum builds and a peptide ruling approaches",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/hims-hers-rallies-july-fda-175902441.html",
+                "publishDate": "2026-06-18T17:59:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "FDA Accepts Roche's Filing for Lunsumio VELO-Polivy in LBCL",
+                "summary": "FDA accepts RHHBY filing for Lunsumio VELO plus Polivy in relapsed or refractory LBCL as a potential chemotherapy-free treatment option.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/fda-accepts-roches-filing-lunsumio-164900760.html",
+                "publishDate": "2026-06-18T16:49:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Can Pfizer Take Share From Lilly & Novo Nordisk in the Obesity Space?",
                 "summary": "PFE is betting on monthly obesity treatments and new oral programs to challenge LLY and NVO in a market projected to hit $120 billion by 2035.",
@@ -109,26 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-mostly-higher-160014505.html",
                 "publishDate": "2026-06-17T16:00:14Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk hack: FulcrumSec claims $25M extortion attempt",
-                "summary": "A hacker group says it walked away with more than a terabyte of sensitive data after the pharmaceutical company refused to pay a $25 million ransom",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/novo-nordisk-hack-fulcrumsec-extortion-data-theft-061726",
-                "publishDate": "2026-06-17T12:08:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NYSE:NVO) Discloses Clinical Trial Data Breach",
-                "summary": "Novo Nordisk (NYSE:NVO) has disclosed a patient data breach affecting individuals involved in its clinical trials. The company is assessing the scope of the data exposure and potential regulatory implications.",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-discloses-020945599.html",
-                "publishDate": "2026-06-17T02:09:45Z",
-                "premium": false,
                 "freemium": false
             }
         ],
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.05,
+        "price": 31.085,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.4807741,
-            "marketCap": 22333345792,
+            "change": -0.36859512,
+            "marketCap": 22358519808,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.035,
+        "price": 31.01,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.3135052,
-            "marketCap": 6439485440,
+            "change": -2.3921945,
+            "marketCap": 6434298368,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
