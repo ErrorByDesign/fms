@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.52,
+        "price": 42.82,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.0688835,
-            "marketCap": 192703545344,
+            "change": -1.6084576,
+            "marketCap": 189603987456,
             "weekLow": 35.12,
             "weekHigh": 74.38,
-            "yearTarget": 47.098774
+            "yearTarget": 46.926373
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Can Wegovy Pill's Europe Push Help NVO Offset Mounting Pressures?",
+                "summary": "Wegovy pill's U.K. approval gives Novo Nordisk its first European launch path ahead of wider EU approval as it seeks growth amid mounting pricing and competitive pressures.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/wegovy-pills-europe-push-help-140100067.html",
+                "publishDate": "2026-06-18T14:01:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Oral Wegovy Captures One-Third of Prescriptions as Adoption Continues to Accelerate",
+                "summary": "Novo Nordisk (NYSE:NVO) is seeing strong uptake of its oral Wegovy treatment, with the tablet formulation accounting for roughly one-third of all Wegovy prescriptions by May, according to a Bank of America report published on Thursday. The data highlights the rapid adoption of the oral version since its market debut earlier this year and underscores continued momentum across the broader GLP-1 weight-loss drug market.",
+                "source": "InvestorsHub",
+                "category": "finance",
+                "url": "https://investorshub.advfn.com/market-news/article/30707/oral-wegovy-captures-one-third-of-prescriptions-as-adoption-continues-to-accelerate",
+                "publishDate": "2026-06-18T10:58:20Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "HIMS Stock Gained Nearly 6% On Wednesday \u2014 Barclays Sees Breakout Potential After Novo Partnership",
                 "summary": "Barclays expects accelerating revenue and EBITDA growth in the second half of 2026, supported by weight-loss offerings.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-06-16T20:08:44Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk to File Oral Wegovy in China",
-                "summary": "CEO Doustdar expects to submit oral Wegovy for Chinese regulatory approval in \"a few months\"",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-file-oral-wegovy-185224137.html",
-                "publishDate": "2026-06-16T18:52:24Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
-                "summary": "Healthcare stocks edged higher Tuesday afternoon, with the NYSE Healthcare Index and the State Stree",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-172911327.html",
-                "publishDate": "2026-06-16T17:29:11Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.78,
+        "price": 1.81,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.558659,
-            "marketCap": 167147856,
+            "change": 1.6853917,
+            "marketCap": 169964944,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.2,
+        "price": 30.78,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.59783,
-            "marketCap": 22441236480,
+            "change": -1.3461541,
+            "marketCap": 22139144192,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.77,
+        "price": 31.64,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.1885,
-            "marketCap": 6591991296,
+            "change": -0.4091944,
+            "marketCap": 6565017600,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
