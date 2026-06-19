@@ -20,7 +20,7 @@
             "marketCap": 191242321920,
             "weekLow": 35.12,
             "weekHigh": 74.38,
-            "yearTarget": 47.175037
+            "yearTarget": 47.155064
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
+                "summary": "Dow Jones futures edged lower Friday, along with S&P 500 futures and Nasdaq futures. U.S. stock markets will be closed for the Juneteenth holiday. The stock market rebounded this past week, though the gains were concentrated in chips and AI-related plays, along with biotechs.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-19T15:36:22Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Top Midday Stories: SpaceX Shares Indicated to Open 29% Above IPO Price at $174 Each; Adobe CFO Leaves Company",
                 "summary": "All three major US stock indexes were up in late-morning trading Friday, as investors prepare for Sp",
                 "source": "MT Newswires",
@@ -408,16 +418,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
                 "publishDate": "2026-06-09T14:11:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SpaceX, Google compute deal raises eyebrows ahead of IPO",
-                "summary": "As SpaceX's IPO approaches, the company has been securing some very lucrative AI compute deals, but the timing and terms of those deals are adding concern.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
-                "publishDate": "2026-06-09T12:05:22Z",
                 "premium": false,
                 "freemium": false
             }
