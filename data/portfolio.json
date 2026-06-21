@@ -19,8 +19,8 @@
             "change": -0.758276,
             "marketCap": 191242321920,
             "weekLow": 35.12,
-            "weekHigh": 74.38,
-            "yearTarget": 47.155064
+            "weekHigh": 71.8,
+            "yearTarget": 47.178368
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,76 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk Data Breach: Hackers Claim To Have Stolen Drug Research, Trial Data And AI Models",
+                "summary": "Novo Nordisk A/S is investigating claims by cyber extortion group FulcrumSec, which alleges it stole more than a terabyte of data from the pharmaceutical company and is considering selling portions of the information after an unsuccessful $25 million ransom demand. FulcrumSec Claims Months-Long Access To Company Systems Citing a message posted by FulcrumSec on Tuesday, Reuters reported that the group spent more than two months inside Novo Nordisk\u2019s networks collecting data. The hackers claimed t",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-data-breach-hackers-150106943.html",
+                "publishDate": "2026-06-21T15:01:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (NYSE:NVO) Launches Pan European Obesity Research Push As Pfizer Closes In",
+                "summary": "Novo Nordisk (NYSE:NVO)'s majority owner has launched a large pan European research program focused on obesity and cardiometabolic diseases. The initiative aims to speed up research, support startups, and feed potential candidates into Novo Nordisk's future drug pipeline. Pfizer is expanding efforts in obesity treatments, including plans for a first in class monthly GLP 1 therapy and broader clinical trials. Novo Nordisk is a central player in obesity and diabetes care, and this new...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-launches-031343283.html",
+                "publishDate": "2026-06-21T03:13:43Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Launches CardioMetabolic Bridge To Speed New Obesity And Diabetes Therapies",
+                "summary": "Novo Nordisk Foundation has launched CardioMetabolic Bridge, a pan-European initiative focused on translating cardiometabolic research into commercial therapies. The program targets new treatments for obesity, diabetes, and cardiovascular disease, with funding spread over six years and across multiple European countries. The effort aims to move early-stage academic work closer to clinical testing and potential commercial use. Novo Nordisk (CPSE:NOVO B) enters this development with the stock...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-210650554.html",
+                "publishDate": "2026-06-20T21:06:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk's Wegovy Pill Just Hit 3 Million Prescriptions. Is Wall Street Missing Something With This Beaten-Down Stock?",
+                "summary": "Novo Nordisk has been telling investors that volume will eventually offset price cuts, and early results suggest investors should listen.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/20/novo-nordisks-wegovy-pill-just-hit-3-million-presc/",
+                "publishDate": "2026-06-20T16:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "3 Non-Pharma Firms That Could Benefit From the GLP-1 Trend",
+                "summary": "With GLP-1 usage continuing to rise, a group of unlikely beneficiaries is emerging; stocks in the broader health care sector and even in retail could stand out.",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/articles/3-non-pharma-firms-that-could-benefit-from-the-glp-1-trend/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-06-20T12:45:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Stock Rally as Owner Unveils $69 Million Obesity Research Push",
+                "summary": "Novo Nordisk Owner Bets Big on Obesity Breakthroughs With New $69 Million Program",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-rally-owner-180142118.html",
+                "publishDate": "2026-06-19T18:01:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Rises as Foundation Launches EUR 60 Million Incubator",
+                "summary": "Novo Nordisk Foundation commits up to EUR 60 million for drug discovery projects",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-rises-foundation-launches-174603316.html",
+                "publishDate": "2026-06-19T17:46:03Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk faces limited upside from ZEUS trial as patent cliff looms, Deutsche Bank warns",
                 "summary": "Deutsche Bank expects Novo Nordisk's (NYSE:NVO) pending ZEUS trial to miss, but sees limited upside even if the drug proves successful, given the company's looming patent cliff. The analyst has set a target of DKK290, just 3.6% above the last closing price of DKK280.10, and maintains a hold...",
@@ -52,82 +122,12 @@
                 "freemium": false
             },
             {
-                "title": "European stocks edge higher, helped by energy and healthcare",
-                "summary": "June 19 (Reuters) - European shares inched higher on Friday, aided by gains in energy and healthcare stocks as investors remained cautious after U.S.-Iran negotiations to end the Middle conflict",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-muted-us-iran-072457742.html",
-                "publishDate": "2026-06-19T08:49:07Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Hims & Hers Rallies With a July FDA Decision Looming",
                 "summary": "Barclays raises its target to $39 as GLP-1 momentum builds and a peptide ruling approaches",
                 "source": "GuruFocus.com",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/hims-hers-rallies-july-fda-175902441.html",
                 "publishDate": "2026-06-18T17:59:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "FDA Accepts Roche's Filing for Lunsumio VELO-Polivy in LBCL",
-                "summary": "FDA accepts RHHBY filing for Lunsumio VELO plus Polivy in relapsed or refractory LBCL as a potential chemotherapy-free treatment option.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/fda-accepts-roches-filing-lunsumio-164900760.html",
-                "publishDate": "2026-06-18T16:49:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can Pfizer Take Share From Lilly & Novo Nordisk in the Obesity Space?",
-                "summary": "PFE is betting on monthly obesity treatments and new oral programs to challenge LLY and NVO in a market projected to hit $120 billion by 2035.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/pfizer-share-lilly-novo-nordisk-141100162.html",
-                "publishDate": "2026-06-18T14:11:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can Wegovy Pill's Europe Push Help NVO Offset Mounting Pressures?",
-                "summary": "Wegovy pill's U.K. approval gives Novo Nordisk its first European launch path ahead of wider EU approval as it seeks growth amid mounting pricing and competitive pressures.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/wegovy-pills-europe-push-help-140100067.html",
-                "publishDate": "2026-06-18T14:01:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Oral Wegovy Captures One-Third of Prescriptions as Adoption Continues to Accelerate",
-                "summary": "Novo Nordisk (NYSE:NVO) is seeing strong uptake of its oral Wegovy treatment, with the tablet formulation accounting for roughly one-third of all Wegovy prescriptions by May, according to a Bank of America report published on Thursday. The data highlights the rapid adoption of the oral version since its market debut earlier this year and underscores continued momentum across the broader GLP-1 weight-loss drug market.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/30707/oral-wegovy-captures-one-third-of-prescriptions-as-adoption-continues-to-accelerate",
-                "publishDate": "2026-06-18T10:58:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "HIMS Stock Gained Nearly 6% On Wednesday \u2014 Barclays Sees Breakout Potential After Novo Partnership",
-                "summary": "Barclays expects accelerating revenue and EBITDA growth in the second half of 2026, supported by weight-loss offerings.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/hims-stock-gains-nearly-6-percent-as-barclays-sees-breakout-potential-after-novo-partnership/cZKK7ffR7eJ",
-                "publishDate": "2026-06-17T20:46:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "J&J Has No Plans to Enter Obesity Drugs Market, CEO Says",
-                "summary": "Johnson & Johnson has no plans to enter the booming obesity market, opting instead to focus on diseases such as cancer, CEO Joaquin Duato said in an interview for an upcoming episode of The David Rubenstein Show: Peer to Peer Conversations. The comments set J&J apart from many of its rivals that are trying to develop or acquire obesity medicines following blockbuster weight-loss drugs from Eli Lilly & Co. and Novo Nordisk.",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/j-j-no-plans-enter-194112897.html",
-                "publishDate": "2026-06-17T19:41:12Z",
                 "premium": false,
                 "freemium": false
             }
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.68539,
+            "change": 1.6853918,
             "marketCap": 169964944,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -322,16 +322,6 @@
         },
         "NEWS": [
             {
-                "title": "Dow Jones Futures Fall With U.S. Markets Shut; Nvidia Leads 5 Stocks Near Buy Points, SpaceX Needs This",
-                "summary": "Dow Jones futures edged lower Friday, along with S&P 500 futures and Nasdaq futures. U.S. stock markets will be closed for the Juneteenth holiday. The stock market rebounded this past week, though the gains were concentrated in chips and AI-related plays, along with biotechs.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nvidia-5-chips-buy-points-spacex-stock/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-19T15:36:22Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Top Midday Stories: SpaceX Shares Indicated to Open 29% Above IPO Price at $174 Each; Adobe CFO Leaves Company",
                 "summary": "All three major US stock indexes were up in late-morning trading Friday, as investors prepare for Sp",
                 "source": "MT Newswires",
@@ -418,6 +408,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
                 "publishDate": "2026-06-09T14:11:10Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX, Google compute deal raises eyebrows ahead of IPO",
+                "summary": "As SpaceX's IPO approaches, the company has been securing some very lucrative AI compute deals, but the timing and terms of those deals are adding concern.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
+                "publishDate": "2026-06-09T12:05:22Z",
                 "premium": false,
                 "freemium": false
             }
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.58105,
+            "change": -2.5810502,
             "marketCap": 6421849088,
             "weekLow": 11.7,
             "weekHigh": 36.52,
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "This TSX stock could have 56% upside thanks to buybacks, one analyst says",
+                "summary": "The Week in Stocks: Why one analyst thinks Cogeco could be headed for a 30% gain, how to navigate a possible market top and more",
+                "source": "Financial Post",
+                "category": "finance",
+                "url": "https://financialpost.com/investing/tsx-stock-analyst-pricing-56-upside-buybacks",
+                "publishDate": "2026-06-19T21:05:37Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Why SSR Mining Stock Surged Again Today",
                 "summary": "The gold stock has been on fire for one week: what's happening?",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/06/03/here-are-wednesdays-top-wall-street-analyst-research-calls-boyd-gaming-chipotle-mexican-grill-conagra-dollar-general-mgm-resorts-international-omnicom-group-yum-brands-and-more/",
                 "publishDate": "2026-06-03T17:08:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Yum! Brands upgraded, Chipotle downgraded: Wall Street's top analyst calls",
-                "summary": "Yum! Brands upgraded, Chipotle downgraded: Wall Street's top analyst calls",
-                "source": "The Fly",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/yum-brands-upgraded-chipotle-downgraded-135544251.html",
-                "publishDate": "2026-06-03T13:55:44Z",
                 "premium": false,
                 "freemium": false
             }
