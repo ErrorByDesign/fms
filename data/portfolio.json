@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 43.19,
+        "price": 45.7524,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.758276,
-            "marketCap": 191242321920,
+            "change": 5.932857,
+            "marketCap": 202588454912,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.134384
+            "yearTarget": 47.08327
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "UPS invests $48 million in cold-chain healthcare logistics",
+                "summary": "The package delivery giant is building out 27 temperature-controlled facilities across three continents as demand for refrigerated pharmaceuticals grows",
+                "source": "Quartz",
+                "category": "finance",
+                "url": "https://qz.com/ups-cold-chain-healthcare-facilities-glp1-062226",
+                "publishDate": "2026-06-22T13:34:22Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here is why Novo Nordisk A/S\u00a0(NVO)\u00a0is among the Best Longevity and Anti-Aging Stocks to Buy",
+                "summary": "With a short percentage of shares outstanding of 0.51%, Novo Nordisk A/S (NYSE:NVO) is among the 7 Best Longevity and Anti-Aging Stocks to Buy. On June 17, Berenberg analyst Kerry Holford raised the firm\u2019s price target on Novo Nordisk A/S (NYSE:NVO) to DKK 325 from DKK 300 and maintained a Buy rating on the shares. Earlier, on [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/why-novo-nordisk-nvo-among-131018347.html",
+                "publishDate": "2026-06-22T13:10:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "PwC Survey Finds 70% of GLP-1 Users Cutting Snack Spending",
+                "summary": "UK GLP-1 users are shifting spending toward high-protein foods, vitamins and fitness products.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/pwc-survey-finds-70-glp-124737448.html",
+                "publishDate": "2026-06-22T12:47:37Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Beat the Market the Zacks Way: F5, Atlanticus, Starbucks in Focus",
+                "summary": "F5 surged after a Zacks Rank upgrade, while Atlanticus and Starbucks posted notable gains as several Zacks strategies outperformed.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-f5-120600507.html",
+                "publishDate": "2026-06-22T12:06:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Weight loss pill to reshape spending habits of millions of people, study finds",
                 "summary": "The approval of the first oral pill this month will drive a more powerful shift in consumer habits, PwC found in a study.",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-06-20T12:45:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Stock Rally as Owner Unveils $69 Million Obesity Research Push",
-                "summary": "Novo Nordisk Owner Bets Big on Obesity Breakthroughs With New $69 Million Program",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-rally-owner-180142118.html",
-                "publishDate": "2026-06-19T18:01:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Rises as Foundation Launches EUR 60 Million Incubator",
-                "summary": "Novo Nordisk Foundation commits up to EUR 60 million for drug discovery projects",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-rises-foundation-launches-174603316.html",
-                "publishDate": "2026-06-19T17:46:03Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk faces limited upside from ZEUS trial as patent cliff looms, Deutsche Bank warns",
-                "summary": "Deutsche Bank expects Novo Nordisk's (NYSE:NVO) pending ZEUS trial to miss, but sees limited upside even if the drug proves successful, given the company's looming patent cliff. The analyst has set a target of DKK290, just 3.6% above the last closing price of DKK280.10, and maintains a hold...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1094182/novo-nordisk-faces-limited-upside-from-zeus-trial-as-patent-cliff-looms-deutsche-bank-warns-1094182.html",
-                "publishDate": "2026-06-19T12:32:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Bets Bigger on Obesity Research",
-                "summary": "The foundation behind Novo Nordisk is funding a new effort to turn scientific discoveries into treatments.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-bets-bigger-obesity-research-120807635.html",
-                "publishDate": "2026-06-19T12:08:07Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.81,
+        "price": 1.835,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.6853918,
-            "marketCap": 169964944,
+            "change": 1.3812208,
+            "marketCap": 172312544,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.43,
+        "price": 31.49,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.737178,
-            "marketCap": 22606669824,
+            "change": 0.19089872,
+            "marketCap": 22649825280,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.95,
+        "price": 30.41,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.5810502,
-            "marketCap": 6421849088,
+            "change": -1.7447525,
+            "marketCap": 6309803520,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
