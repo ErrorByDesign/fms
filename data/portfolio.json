@@ -20,7 +20,7 @@
             "marketCap": 191242321920,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.178734
+            "yearTarget": 47.16056
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Weight loss pill to reshape spending habits of millions of people, study finds",
+                "summary": "The approval of the first oral pill this month will drive a more powerful shift in consumer habits, PwC found in a study.",
+                "source": "PA Media: Money",
+                "category": "finance",
+                "url": "https://uk.finance.yahoo.com/news/weight-loss-pill-reshape-spending-230100521.html",
+                "publishDate": "2026-06-21T23:01:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Data Breach: Hackers Claim To Have Stolen Drug Research, Trial Data And AI Models",
                 "summary": "Novo Nordisk A/S is investigating claims by cyber extortion group FulcrumSec, which alleges it stole more than a terabyte of data from the pharmaceutical company and is considering selling portions of the information after an unsuccessful $25 million ransom demand. FulcrumSec Claims Months-Long Access To Company Systems Citing a message posted by FulcrumSec on Tuesday, Reuters reported that the group spent more than two months inside Novo Nordisk\u2019s networks collecting data. The hackers claimed t",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-bets-bigger-obesity-research-120807635.html",
                 "publishDate": "2026-06-19T12:08:07Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hims & Hers Rallies With a July FDA Decision Looming",
-                "summary": "Barclays raises its target to $39 as GLP-1 momentum builds and a peptide ruling approaches",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/hims-hers-rallies-july-fda-175902441.html",
-                "publishDate": "2026-06-18T17:59:02Z",
                 "premium": false,
                 "freemium": false
             }
