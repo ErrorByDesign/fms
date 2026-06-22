@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.184,
+        "price": 46.13,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.9312124,
-            "marketCap": 204499533824,
+            "change": 6.807137,
+            "marketCap": 204260442112,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.04069
+            "yearTarget": 47.003506
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -39,6 +39,16 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150656805.html",
                 "publishDate": "2026-06-22T15:06:56Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Here's Why You Should Add LXRX Stock to Your Portfolio Now",
+                "summary": "Lexicon advances sotagliflozin into new indications while its obesity and pain programs progress, setting the stage for multiple pipeline milestones.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-add-lxrx-stock-143600011.html",
+                "publishDate": "2026-06-22T14:36:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-210650554.html",
                 "publishDate": "2026-06-20T21:06:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk's Wegovy Pill Just Hit 3 Million Prescriptions. Is Wall Street Missing Something With This Beaten-Down Stock?",
-                "summary": "Novo Nordisk has been telling investors that volume will eventually offset price cuts, and early results suggest investors should listen.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/20/novo-nordisks-wegovy-pill-just-hit-3-million-presc/",
-                "publishDate": "2026-06-20T16:35:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.7,
+        "price": 31.625,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8590533,
-            "marketCap": 22800871424,
+            "change": 0.62042534,
+            "marketCap": 22746927104,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.215,
+        "price": 30.145,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.3744164,
-            "marketCap": 6269342720,
+            "change": -2.6009703,
+            "marketCap": 6254818304,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
