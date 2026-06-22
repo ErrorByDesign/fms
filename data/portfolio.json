@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.7524,
+        "price": 46.184,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.932857,
-            "marketCap": 202588454912,
+            "change": 6.9312124,
+            "marketCap": 204499533824,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.08327
+            "yearTarget": 47.04069
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
+                "summary": "European equities traded in the US as American depositary receipts started the week higher late Mond",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150656805.html",
+                "publishDate": "2026-06-22T15:06:56Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "UPS invests $48 million in cold-chain healthcare logistics",
                 "summary": "The package delivery giant is building out 27 temperature-controlled facilities across three continents as demand for refrigerated pharmaceuticals grows",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/20/novo-nordisks-wegovy-pill-just-hit-3-million-presc/",
                 "publishDate": "2026-06-20T16:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 Non-Pharma Firms That Could Benefit From the GLP-1 Trend",
-                "summary": "With GLP-1 usage continuing to rise, a group of unlikely beneficiaries is emerging; stocks in the broader health care sector and even in retail could stand out.",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/articles/3-non-pharma-firms-that-could-benefit-from-the-glp-1-trend/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-06-20T12:45:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "AbbVie's Deal with Apogee; Regenxbio Moves on Gene Therapy Drug | Stock Movers",
+                "summary": "On this episode of Stock Movers with Nathan Hager: - Apogee (APGE) shares are soaring on news AbbVie is closing in on a nearly $11 billion deal to buy inflammatory disease drug developer Apogee Therapeutics. That's also according to a Financial Times report. - Regenxbio (RGNX) shares are moving on news Regenxbio aligned with the FDA on next steps for a potential accelerated approval of Navsunli, a gene therapy for Mucopolysaccharidosis II, with the FDA confirming the company doesn't need to conduct additional studies of the drug. - SpaceX (SPCX) is lower this morning, continuing its slide after its record IPO.",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/abbvies-deal-apogee-regenxbio-moves-151250586.html",
+                "publishDate": "2026-06-22T15:12:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Top Midday Stories: SpaceX Shares Indicated to Open 29% Above IPO Price at $174 Each; Adobe CFO Leaves Company",
                 "summary": "All three major US stock indexes were up in late-morning trading Friday, as investors prepare for Sp",
                 "source": "MT Newswires",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-09T14:11:10Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX, Google compute deal raises eyebrows ahead of IPO",
-                "summary": "As SpaceX's IPO approaches, the company has been securing some very lucrative AI compute deals, but the timing and terms of those deals are adding concern.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/article/spacex-google-compute-deal-raises-eyebrows-ahead-of-ipo-120522033.html",
-                "publishDate": "2026-06-09T12:05:22Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.49,
+        "price": 31.7,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.19089872,
-            "marketCap": 22649825280,
+            "change": 0.8590533,
+            "marketCap": 22800871424,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.41,
+        "price": 30.215,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.7447525,
-            "marketCap": 6309803520,
+            "change": -2.3744164,
+            "marketCap": 6269342720,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
