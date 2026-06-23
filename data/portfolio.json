@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.575,
+        "price": 46.74,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5148206,
-            "marketCap": 206230880256,
+            "change": 1.8744564,
+            "marketCap": 206961491968,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.834667
+            "yearTarget": 46.840374
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -322,6 +322,16 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX Plummets 16.4% Yesterday: Bull Trap or Buying Opportunity?",
+                "summary": "SPCX's 16.4% plunge wiped out $400.8 billion as note issuance, AI deals and dilution fears tested confidence after its blockbuster IPO.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-plummets-16-4-yesterday-152400050.html",
+                "publishDate": "2026-06-23T15:24:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "AbbVie's Deal with Apogee; Regenxbio Moves on Gene Therapy Drug | Stock Movers",
                 "summary": "On this episode of Stock Movers with Nathan Hager: - Apogee (APGE) shares are soaring on news AbbVie is closing in on a nearly $11 billion deal to buy inflammatory disease drug developer Apogee Therapeutics. That's also according to a Financial Times report. - Regenxbio (RGNX) shares are moving on news Regenxbio aligned with the FDA on next steps for a potential accelerated approval of Navsunli, a gene therapy for Mucopolysaccharidosis II, with the FDA confirming the company doesn't need to conduct additional studies of the drug. - SpaceX (SPCX) is lower this morning, continuing its slide after its record IPO.",
                 "source": "Bloomberg",
@@ -410,16 +420,6 @@
                 "publishDate": "2026-06-09T15:52:32Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX reveals its first orbital data center, 'much simpler than a Starlink satellite,' Musk says",
-                "summary": "SpaceX revealed its first generation of orbital data center satellite - dubbed AI1 - in a video posted to X late Monday. The reveal marks SpaceX's first step towards one of its biggest initiatives, just as the company preps for its market debut, slated for this Friday.",
-                "source": "Yahoo Finance",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/technology/article/spacex-reveals-its-first-orbital-data-center-much-simpler-than-a-starlink-satellite-musk-says-141110185.html",
-                "publishDate": "2026-06-09T14:11:10Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.4001,
+        "price": 31.5,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.48017016,
-            "marketCap": 22585163776,
+            "change": 0.8,
+            "marketCap": 22657017856,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.6,
+        "price": 29.52,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,11 +594,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.64583,
-            "marketCap": 6141735936,
+            "change": -3.9062464,
+            "marketCap": 6125136384,
             "weekLow": 11.7,
             "weekHigh": 36.52,
-            "yearTarget": 42.8
+            "yearTarget": 42.6
         },
         "FUNDING": {
             "fundingToDate": null,
