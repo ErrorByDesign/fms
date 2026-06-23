@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.775,
+        "price": 46.805,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.950742,
-            "marketCap": 207116468224,
+            "change": 2.0159075,
+            "marketCap": 207249293312,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.83146
+            "yearTarget": 46.82697
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Forget Novo Nordisk. Pfizer\u2019s Obesity Pipeline Is Coming, and It Pays You 6.8% While You Wait",
+                "summary": "Everyone is still arguing about Novo Nordisk (NYSE:NVO), the Danish obesity juggernaut whose GLP-1 franchise turned Wegovy and Ozempic into household names and dragged the entire pharma sector into a multi-year hype cycle. But here\u2019s what you should actually be watching. The reality check has already started, and the numbers are uglier than the headlines ... Forget Novo Nordisk. Pfizer\u2019s Obesity Pipeline Is Coming, and It Pays You 6.8% While You Wait",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/23/forget-novo-nordisk-pfizers-obesity-pipeline-is-coming-and-it-pays-you-6-8-while-you-wait/",
+                "publishDate": "2026-06-23T17:55:56Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "NVO Gains as Foundation Unveils EUR 60M Cardiometabolic Research Push",
                 "summary": "Novo Nordisk stock rises 6% after the launch of a EUR 60.2M foundation-backed initiative to speed cardiometabolic drug discovery and support Europe-wide innovation.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-22T12:47:37Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Beat the Market the Zacks Way: F5, Atlanticus, Starbucks in Focus",
-                "summary": "F5 surged after a Zacks Rank upgrade, while Atlanticus and Starbucks posted notable gains as several Zacks strategies outperformed.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/beat-market-zacks-way-f5-120600507.html",
-                "publishDate": "2026-06-22T12:06:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8876,
+        "price": 1.85,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.287293,
-            "marketCap": 177251840,
+            "change": 2.2099493,
+            "marketCap": 173721088,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.52,
+        "price": 31.565,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.86400145,
-            "marketCap": 22671403008,
+            "change": 1.0080017,
+            "marketCap": 22703769600,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.58,
+        "price": 29.515,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.7109356,
-            "marketCap": 6137585664,
+            "change": -3.922526,
+            "marketCap": 6124099072,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
