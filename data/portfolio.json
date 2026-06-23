@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.5399,
+        "price": 46.575,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4383187,
-            "marketCap": 206075461632,
+            "change": 1.5148206,
+            "marketCap": 206230880256,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.818626
+            "yearTarget": 46.834667
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "NVO Gains as Foundation Unveils EUR 60M Cardiometabolic Research Push",
+                "summary": "Novo Nordisk stock rises 6% after the launch of a EUR 60.2M foundation-backed initiative to speed cardiometabolic drug discovery and support Europe-wide innovation.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/nvo-gains-foundation-unveils-eur-150700424.html",
+                "publishDate": "2026-06-23T15:07:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Hims & Hers Health (HIMS) Expands GLP 1 Offerings With Novo Nordisk Deal And Eucalyptus Buy",
                 "summary": "Hims & Hers Health (NYSE:HIMS) is expanding its GLP-1 weight-loss treatment offerings, adding new options to its telehealth platform. The company has entered into a partnership with Novo Nordisk to provide access to medications such as Wegovy and Ozempic. Hims & Hers Health is extending its international reach through the acquisition of Eucalyptus. Hims & Hers Health, best known for its direct-to-consumer telehealth services, is moving deeper into prescription weight management at a time...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-22T12:06:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Weight loss pill to reshape spending habits of millions of people, study finds",
-                "summary": "The approval of the first oral pill this month will drive a more powerful shift in consumer habits, PwC found in a study.",
-                "source": "PA Media: Money",
-                "category": "finance",
-                "url": "https://uk.finance.yahoo.com/news/weight-loss-pill-reshape-spending-230100521.html",
-                "publishDate": "2026-06-21T23:01:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.9574,
+        "price": 1.8876,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.143647,
-            "marketCap": 183806288,
+            "change": 4.287293,
+            "marketCap": 177251840,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.32,
+        "price": 31.4001,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.22399902,
-            "marketCap": 22527549440,
+            "change": 0.48017016,
+            "marketCap": 22585163776,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.26,
+        "price": 29.6,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.752601,
-            "marketCap": 6071188992,
+            "change": -3.64583,
+            "marketCap": 6141735936,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
