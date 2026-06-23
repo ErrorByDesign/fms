@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.405,
+        "price": 47.42,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.3238833,
-            "marketCap": 209906040832,
+            "change": 3.35658,
+            "marketCap": 209972461568,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.8326
+            "yearTarget": 46.82697
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk A/S (NVO) Primary Owner to Open Obesity Drug Incubators Across Europe",
+                "summary": "Novo Nordisk A/S (NYSE:NVO) is among the Best Pharmaceutical Stocks. On June 19, Novo Nordisk A/S (NYSE:NVO)\u2019s primary owner, the Novo Nordisk Foundation, reported that it is launching research incubators across Europe to speed up obesity and diabetes drug development. The foundation said it is funding a pan-European program targeting cardiometabolic diseases. It will commit up [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-primary-owner-195349175.html",
+                "publishDate": "2026-06-23T19:53:49Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Forget Novo Nordisk. Pfizer\u2019s Obesity Pipeline Is Coming, and It Pays You 6.8% While You Wait",
                 "summary": "Everyone is still arguing about Novo Nordisk (NYSE:NVO), the Danish obesity juggernaut whose GLP-1 franchise turned Wegovy and Ozempic into household names and dragged the entire pharma sector into a multi-year hype cycle. But here\u2019s what you should actually be watching. The reality check has already started, and the numbers are uglier than the headlines ... Forget Novo Nordisk. Pfizer\u2019s Obesity Pipeline Is Coming, and It Pays You 6.8% While You Wait",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-22T13:10:18Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "PwC Survey Finds 70% of GLP-1 Users Cutting Snack Spending",
-                "summary": "UK GLP-1 users are shifting spending toward high-protein foods, vitamins and fitness products.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/pwc-survey-finds-70-glp-124737448.html",
-                "publishDate": "2026-06-22T12:47:37Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.85,
+        "price": 1.89,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2099493,
-            "marketCap": 173721088,
+            "change": 4.419892,
+            "marketCap": 177477216,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.195,
+        "price": 32.21,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.023999,
-            "marketCap": 23156910080,
+            "change": 3.0719972,
+            "marketCap": 23167698944,
             "weekLow": 10.705,
             "weekHigh": 32.8,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.405,
+        "price": 29.26,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.2805943,
-            "marketCap": 6101275136,
+            "change": -4.752601,
+            "marketCap": 6071188992,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
