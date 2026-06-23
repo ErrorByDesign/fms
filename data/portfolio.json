@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 45.88,
+        "price": 46.5997,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.2283,
-            "marketCap": 203153457152,
+            "change": 1.568657,
+            "marketCap": 206340243456,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.000988
+            "yearTarget": 46.82251
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Hims & Hers Health (HIMS) Expands GLP 1 Offerings With Novo Nordisk Deal And Eucalyptus Buy",
+                "summary": "Hims & Hers Health (NYSE:HIMS) is expanding its GLP-1 weight-loss treatment offerings, adding new options to its telehealth platform. The company has entered into a partnership with Novo Nordisk to provide access to medications such as Wegovy and Ozempic. Hims & Hers Health is extending its international reach through the acquisition of Eucalyptus. Hims & Hers Health, best known for its direct-to-consumer telehealth services, is moving deeper into prescription weight management at a time...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/hims-hers-health-hims-expands-090609591.html",
+                "publishDate": "2026-06-23T09:06:09Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "2 Underrated Weight Loss Stocks to Buy and Hold",
+                "summary": "They look well-positioned to grab a slice of the fast-growing anti-obesity market.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/23/2-underrated-weight-loss-stocks-to-buy-and-hold/",
+                "publishDate": "2026-06-23T07:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Why This Mid-Cap Biotech Could Be the Dark-Horse Threat to Eli Lilly and Novo Nordisk",
                 "summary": "Viking Therapeutics aspires to take market share from both Eli Lilly and Novo Nordisk, and it might succeed.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-06-21T23:01:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Data Breach: Hackers Claim To Have Stolen Drug Research, Trial Data And AI Models",
-                "summary": "Novo Nordisk A/S is investigating claims by cyber extortion group FulcrumSec, which alleges it stole more than a terabyte of data from the pharmaceutical company and is considering selling portions of the information after an unsuccessful $25 million ransom demand. FulcrumSec Claims Months-Long Access To Company Systems Citing a message posted by FulcrumSec on Tuesday, Reuters reported that the group spent more than two months inside Novo Nordisk\u2019s networks collecting data. The hackers claimed t",
-                "source": "Benzinga",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-data-breach-hackers-150106943.html",
-                "publishDate": "2026-06-21T15:01:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NYSE:NVO) Launches Pan European Obesity Research Push As Pfizer Closes In",
-                "summary": "Novo Nordisk (NYSE:NVO)'s majority owner has launched a large pan European research program focused on obesity and cardiometabolic diseases. The initiative aims to speed up research, support startups, and feed potential candidates into Novo Nordisk's future drug pipeline. Pfizer is expanding efforts in obesity treatments, including plans for a first in class monthly GLP 1 therapy and broader clinical trials. Novo Nordisk is a central player in obesity and diabetes care, and this new...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-launches-031343283.html",
-                "publishDate": "2026-06-21T03:13:43Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.81,
+        "price": 1.9,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 169964944,
+            "change": 4.972378,
+            "marketCap": 178416240,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.25,
+        "price": 31.23,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,8 +450,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.572702,
-            "marketCap": 22477199360,
+            "change": -0.06400146,
+            "marketCap": 22462814208,
             "weekLow": 10.705,
             "weekHigh": 32.793,
             "yearTarget": 39.04167
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.72,
+        "price": 29.01,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.743139,
-            "marketCap": 6374125568,
+            "change": -5.5664034,
+            "marketCap": 6019316224,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.8
