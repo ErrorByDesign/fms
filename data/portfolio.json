@@ -20,7 +20,7 @@
             "marketCap": 203153457152,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.008823
+            "yearTarget": 47.01019
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Why This Mid-Cap Biotech Could Be the Dark-Horse Threat to Eli Lilly and Novo Nordisk",
+                "summary": "Viking Therapeutics aspires to take market share from both Eli Lilly and Novo Nordisk, and it might succeed.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/22/why-this-mid-cap-biotech-could-be-the-dark-horse-t/",
+                "publishDate": "2026-06-23T00:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
                 "summary": "European equities traded in the US as American depositary receipts started the week higher late Mond",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-launches-031343283.html",
                 "publishDate": "2026-06-21T03:13:43Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Launches CardioMetabolic Bridge To Speed New Obesity And Diabetes Therapies",
-                "summary": "Novo Nordisk Foundation has launched CardioMetabolic Bridge, a pan-European initiative focused on translating cardiometabolic research into commercial therapies. The program targets new treatments for obesity, diabetes, and cardiovascular disease, with funding spread over six years and across multiple European countries. The effort aims to move early-stage academic work closer to clinical testing and potential commercial use. Novo Nordisk (CPSE:NOVO B) enters this development with the stock...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-210650554.html",
-                "publishDate": "2026-06-20T21:06:50Z",
                 "premium": false,
                 "freemium": false
             }
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.57270217,
+            "change": -0.572702,
             "marketCap": 22477199360,
             "weekLow": 10.705,
             "weekHigh": 32.793,
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.74313873,
+            "change": -0.743139,
             "marketCap": 6374125568,
             "weekLow": 11.7,
             "weekHigh": 36.52,
