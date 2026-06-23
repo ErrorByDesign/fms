@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 46.725,
+        "price": 47.075,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.8417554,
-            "marketCap": 206895054848,
+            "change": 2.60462,
+            "marketCap": 208444833792,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.81314
+            "yearTarget": 46.833317
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -436,7 +436,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 31.72,
+        "price": 32.07,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,10 +450,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5039978,
-            "marketCap": 22815256576,
+            "change": 2.623999,
+            "marketCap": 23067000832,
             "weekLow": 10.705,
-            "weekHigh": 32.793,
+            "weekHigh": 32.8,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -580,7 +580,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.25,
+        "price": 29.32,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +594,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.7851543,
-            "marketCap": 6069113856,
+            "change": -4.5572906,
+            "marketCap": 6083638272,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
@@ -609,6 +609,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Royal Gold (RGLD) Restructures Hod Maden Project Ownership, Secures New NSR Royalty",
+                "summary": "Royal Gold Inc. (NASDAQ:RGLD) is one of the most promising stocks with highest upside potential. On May 18, Royal Gold restructured its ownership in the Hod Maden gold-copper project in T\u00fcrkiye, reducing its direct equity in the joint venture company, Artmin, from 30% to 15%. Under the new agreement, SSR Mining will sell its interest [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/royal-gold-rgld-restructures-hod-185534698.html",
+                "publishDate": "2026-06-23T18:55:34Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "This TSX stock could have 56% upside thanks to buybacks, one analyst says",
                 "summary": "The Week in Stocks: Why one analyst thinks Cogeco could be headed for a 30% gain, how to navigate a possible market top and more",
@@ -696,16 +706,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-ssr-mining-ssrm-134505368.html",
                 "publishDate": "2026-06-04T13:45:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Boyd Gaming, Chipotle Mexican Grill, Conagra, Dollar General, MGM Resorts International, Omnicom Group, Yum! Brands, and More",
-                "summary": "Mid-Day Stocks: Stocks are trading lower on Wednesday, as oil and yields move higher. Once again, it was \u201cWelcome back, my friends to the show that never ends.\u201d On cue, the never-say-die stock market shook off early worries and all the major indices closed higher on Tuesday. Like the proverbial broken record, the S&P 500 ... Here Are Wednesday\u2019s Top Wall Street Analyst Research Calls: Boyd Gaming, Chipotle Mexican Grill, Conagra, Dollar General, MGM Resorts International, Omnicom Group, Yum! Bra",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/03/here-are-wednesdays-top-wall-street-analyst-research-calls-boyd-gaming-chipotle-mexican-grill-conagra-dollar-general-mgm-resorts-international-omnicom-group-yum-brands-and-more/",
-                "publishDate": "2026-06-03T17:08:00Z",
                 "premium": false,
                 "freemium": false
             }
