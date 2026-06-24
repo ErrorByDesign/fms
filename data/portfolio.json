@@ -20,7 +20,7 @@
             "marketCap": 209877221376,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.741848
+            "yearTarget": 46.73766
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Top Research Reports for Shell, Novo Nordisk & SAP",
+                "summary": "Shell, Novo Nordisk and SAP headline Zacks' top research reports, highlighting growth drivers, guidance outlooks and key risks shaping performance.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-shell-novo-202500776.html",
+                "publishDate": "2026-06-24T20:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Is Hims & Hers Health, Inc. (HIMS) a Top Weight Loss Stock After Barclays\u2019 Target Increase?",
                 "summary": "We recently compiled a list of the 10 Best Weight Loss Drug Stocks to Buy in 2026. Hims & Hers Health, Inc. (NYSE:HIMS) is one of the best weight loss drugs on this list. TheFly reported on June 17 that Barclays maintained its Overweight rating on HIMS while increasing its price target to $39.00 from $29.00. The [\u2026]",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/hims-hers-health-hims-expands-090609591.html",
                 "publishDate": "2026-06-23T09:06:09Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "2 Underrated Weight Loss Stocks to Buy and Hold",
-                "summary": "They look well-positioned to grab a slice of the fast-growing anti-obesity market.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/23/2-underrated-weight-loss-stocks-to-buy-and-hold/",
-                "publishDate": "2026-06-23T07:05:00Z",
                 "premium": false,
                 "freemium": false
             }
