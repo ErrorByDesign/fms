@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.42,
+        "price": 47.345,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.35658,
-            "marketCap": 209921474560,
+            "change": -0.15815468,
+            "marketCap": 209589469184,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.774548
+            "yearTarget": 46.708843
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is Hims & Hers Health, Inc. (HIMS) a Top Weight Loss Stock After Barclays\u2019 Target Increase?",
+                "summary": "We recently compiled a list of the 10 Best Weight Loss Drug Stocks to Buy in 2026. Hims & Hers Health, Inc. (NYSE:HIMS) is one of the best weight loss drugs on this list. TheFly reported on June 17 that Barclays maintained its Overweight rating on HIMS while increasing its price target to $39.00 from $29.00. The [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/hims-hers-health-inc-hims-132740263.html",
+                "publishDate": "2026-06-24T13:27:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Is Novo Nordisk A/S (NVO) Strengthening Its Weight-Loss Leadership With Oral Wegovy Launch?",
+                "summary": "We recently compiled a list of the 10 Best Weight Loss Drug Stocks to Buy in 2026. Novo Nordisk A/S (NYSE:NVO) is one of the best weight loss drugs on this list. TheFly reported on June 16 that Berenberg increased its price target for NVO shares to DKK 325 from DKK 300 while maintaining its Buy rating [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-strengthening-weight-132719084.html",
+                "publishDate": "2026-06-24T13:27:19Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "LLY or PFE: Which Drugmaker Offers the Stronger Growth Story?",
+                "summary": "Lilly's GLP-1 leadership, expanding pipeline and strong earnings growth outlook make it a standout pick over Pfizer despite its premium valuation.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/lly-pfe-drugmaker-offers-stronger-125900524.html",
+                "publishDate": "2026-06-24T12:59:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Recent pharma exec shake-ups signal strategic shifts",
+                "summary": "Whether from layoffs or exits, Novo Nordisk, Genentech and Allogene saw changes to their executive teams over the past few months.",
+                "source": "Pharma Voice",
+                "category": "finance",
+                "url": "https://www.pharmavoice.com/news/pharma-executive-changes-novo-genentech-allogene/823548/",
+                "publishDate": "2026-06-24T09:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "VKTX Stock Clocks Best Day In Nearly 3 Months On Obesity Pipeline Optimism, Buyout Speculation",
                 "summary": "The rally reflects broader positive sentiment toward Viking\u2019s lead candidate, VK2735, a dual GLP-1/GIP receptor agonist being developed in both injectable and oral forms for obesity.",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-06-23T07:05:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why This Mid-Cap Biotech Could Be the Dark-Horse Threat to Eli Lilly and Novo Nordisk",
-                "summary": "Viking Therapeutics aspires to take market share from both Eli Lilly and Novo Nordisk, and it might succeed.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/22/why-this-mid-cap-biotech-could-be-the-dark-horse-t/",
-                "publishDate": "2026-06-23T00:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
-                "summary": "European equities traded in the US as American depositary receipts started the week higher late Mond",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150656805.html",
-                "publishDate": "2026-06-22T15:06:56Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Here's Why You Should Add LXRX Stock to Your Portfolio Now",
-                "summary": "Lexicon advances sotagliflozin into new indications while its obesity and pain programs progress, setting the stage for multiple pipeline milestones.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-add-lxrx-stock-143600011.html",
-                "publishDate": "2026-06-22T14:36:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "UPS invests $48 million in cold-chain healthcare logistics",
-                "summary": "The package delivery giant is building out 27 temperature-controlled facilities across three continents as demand for refrigerated pharmaceuticals grows",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/ups-cold-chain-healthcare-facilities-glp1-062226",
-                "publishDate": "2026-06-22T13:34:22Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.89,
+        "price": 1.86,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.41989,
-            "marketCap": 177477216,
+            "change": -1.5873001,
+            "marketCap": 174660112,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -262,16 +262,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/news/innate-pharma-sa-ipha-h1-070054167.html",
                 "publishDate": "2025-09-18T07:00:54Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "High Growth Tech Stocks In Europe For June 2025",
-                "summary": "As of June 2025, the European market has been marked by a cautious sentiment due to geopolitical tensions in the Middle East and mixed economic signals, with key indices like the STOXX Europe 600 Index experiencing a decline. In this environment, high-growth tech stocks that demonstrate resilience and adaptability to shifting economic conditions can be particularly compelling for investors seeking opportunities within Europe's dynamic tech landscape.",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/news/high-growth-tech-stocks-europe-103813252.html",
-                "publishDate": "2025-06-24T10:38:13Z",
                 "premium": false,
                 "freemium": false
             }
@@ -436,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 32.21,
+        "price": 33.22,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -450,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.072,
-            "marketCap": 23167698944,
+            "change": 3.1356788,
+            "marketCap": 23894163456,
             "weekLow": 10.705,
-            "weekHigh": 32.8,
+            "weekHigh": 33.23,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -580,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.26,
+        "price": 28.5,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -594,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.7526,
-            "marketCap": 6071188992,
+            "change": -2.5974033,
+            "marketCap": 5913495552,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
