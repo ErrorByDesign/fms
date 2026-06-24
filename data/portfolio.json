@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": 3.35658,
-            "marketCap": 209972461568,
+            "marketCap": 209921474560,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.844795
+            "yearTarget": 46.79889
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "VKTX Stock Clocks Best Day In Nearly 3 Months On Obesity Pipeline Optimism, Buyout Speculation",
+                "summary": "The rally reflects broader positive sentiment toward Viking\u2019s lead candidate, VK2735, a dual GLP-1/GIP receptor agonist being developed in both injectable and oral forms for obesity.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/vktx-stock-clocks-best-day-in-nearly-3-months-on-obesity-pipeline-optimism-buyout-speculation/cZKwkGOR7Od",
+                "publishDate": "2026-06-23T23:46:15Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk A/S (NVO) Primary Owner to Open Obesity Drug Incubators Across Europe",
                 "summary": "Novo Nordisk A/S (NYSE:NVO) is among the Best Pharmaceutical Stocks. On June 19, Novo Nordisk A/S (NYSE:NVO)\u2019s primary owner, the Novo Nordisk Foundation, reported that it is launching research incubators across Europe to speed up obesity and diabetes drug development. The foundation said it is funding a pan-European program targeting cardiometabolic diseases. It will commit up [\u2026]",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-22T13:34:22Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Here is why Novo Nordisk A/S\u00a0(NVO)\u00a0is among the Best Longevity and Anti-Aging Stocks to Buy",
-                "summary": "With a short percentage of shares outstanding of 0.51%, Novo Nordisk A/S (NYSE:NVO) is among the 7 Best Longevity and Anti-Aging Stocks to Buy. On June 17, Berenberg analyst Kerry Holford raised the firm\u2019s price target on Novo Nordisk A/S (NYSE:NVO) to DKK 325 from DKK 300 and maintained a Buy rating on the shares. Earlier, on [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/why-novo-nordisk-nvo-among-131018347.html",
-                "publishDate": "2026-06-22T13:10:18Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.419892,
+            "change": 4.41989,
             "marketCap": 177477216,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -450,7 +450,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.0719972,
+            "change": 3.072,
             "marketCap": 23167698944,
             "weekLow": 10.705,
             "weekHigh": 32.8,
@@ -594,7 +594,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.752601,
+            "change": -4.7526,
             "marketCap": 6071188992,
             "weekLow": 11.7,
             "weekHigh": 36.52,
