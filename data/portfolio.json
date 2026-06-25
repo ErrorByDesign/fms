@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.661,
+        "price": 47.815,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.529423,
-            "marketCap": 210988351488,
+            "change": 0.85424757,
+            "marketCap": 211670089728,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.81991
+            "yearTarget": 46.8316
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "An Analyst Just Declared Eli Lilly the \"Clear Winner\" of an American Diabetes Association Conference Focused on Weight-Loss Drugs. Novo's Chief Scientist Disagrees. Who's Right?",
+                "summary": "Novo Nordisk is no longer the front-runner, but it's not out of the running, either.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/25/an-analyst-just-declared-eli-lilly-the-clear-winne/",
+                "publishDate": "2026-06-25T15:38:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "VKTX Stock Jumps on Phase I Study Initiation for New Obesity Drug",
                 "summary": "Viking Therapeutics jumps after it starts its first human study of VK3019, expanding its obesity pipeline with a second candidate alongside its lead program, VK2735.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-24T09:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "VKTX Stock Clocks Best Day In Nearly 3 Months On Obesity Pipeline Optimism, Buyout Speculation",
-                "summary": "The rally reflects broader positive sentiment toward Viking\u2019s lead candidate, VK2735, a dual GLP-1/GIP receptor agonist being developed in both injectable and oral forms for obesity.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/vktx-stock-clocks-best-day-in-nearly-3-months-on-obesity-pipeline-optimism-buyout-speculation/cZKwkGOR7Od",
-                "publishDate": "2026-06-23T23:46:15Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.778,
+        "price": 1.86,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -6.4210515,
-            "marketCap": 166960048,
+            "change": -2.105261,
+            "marketCap": 174660112,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX Stock Falls After Logging Lowest Post-IPO Close",
+                "summary": "Shares of SpaceX fall in early trading Thursday after finishing yesterday's session at their lowest post-IPO close yet.",
+                "source": "Investopedia",
+                "category": "finance",
+                "url": "https://www.investopedia.com/spacex-stock-after-lowest-post-ipo-close-spcx-12005667",
+                "publishDate": "2026-06-25T13:24:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Plummets 16.4% Yesterday: Bull Trap or Buying Opportunity?",
                 "summary": "SPCX's 16.4% plunge wiped out $400.8 billion as note issuance, AI deals and dilution fears tested confidence after its blockbuster IPO.",
                 "source": "Zacks",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-06-10T13:11:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Google rents SpaceX/AI supercomputers for $920M a month, ahead of IPO",
-                "summary": "Google has signed a $30 billion deal to lease computing power from SpaceX, paying $920 million per month through June 2029. The move came after SpaceX acquired xAI in February 2026, gaining massive data centres. The deal precedes SpaceX\u2019s highly anticipated IPO next week.View on euronews",
-                "source": "Euronews",
-                "category": "finance",
-                "url": "https://www.euronews.com/2026/06/06/google-rents-spacexai-supercomputers-for-920m-a-month-ahead-of-ipo?utm_source=yahoo&utm_campaign=feeds_business_articles_2024&utm_medium=referral",
-                "publishDate": "2026-06-09T15:52:32Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.47,
+        "price": 34.185,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3525519,
-            "marketCap": 24793251840,
+            "change": 0.51456356,
+            "marketCap": 24588259328,
             "weekLow": 10.705,
             "weekHigh": 34.68,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.625,
+        "price": 28.71,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9700163,
-            "marketCap": 5939431936,
+            "change": 1.2698367,
+            "marketCap": 5957068288,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
