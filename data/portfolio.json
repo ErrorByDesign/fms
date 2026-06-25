@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.47,
+        "price": 47.575,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.12655848,
-            "marketCap": 210142838784,
+            "change": 0.34802976,
+            "marketCap": 210607652864,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.81129
+            "yearTarget": 46.796543
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Wins UK Approval For Oral Wegovy With Wider Consumer Ripple Effects",
+                "summary": "Novo Nordisk (CPSE:NOVO B) received UK approval for an oral version of Wegovy, the first authorized daily GLP-1 pill for weight management. The authorization covers obesity and overweight adults, offering an alternative to injectable GLP-1 therapies. The decision is expected to influence how obesity is treated in primary care and specialist settings across the UK. Retailers and consumer companies are already tracking GLP-1 use as they assess shifts in spending on food, fitness, and wellness...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-190644614.html",
+                "publishDate": "2026-06-25T19:06:44Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "An Analyst Just Declared Eli Lilly the \"Clear Winner\" of an American Diabetes Association Conference Focused on Weight-Loss Drugs. Novo's Chief Scientist Disagrees. Who's Right?",
                 "summary": "Novo Nordisk is no longer the front-runner, but it's not out of the running, either.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/lly-pfe-drugmaker-offers-stronger-125900524.html",
                 "publishDate": "2026-06-24T12:59:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Recent pharma exec shake-ups signal strategic shifts",
-                "summary": "Whether from layoffs or exits, Novo Nordisk, Genentech and Allogene saw changes to their executive teams over the past few months.",
-                "source": "Pharma Voice",
-                "category": "finance",
-                "url": "https://www.pharmavoice.com/news/pharma-executive-changes-novo-genentech-allogene/823548/",
-                "publishDate": "2026-06-24T09:00:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.0,
+        "price": 34.005,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.029406829,
-            "marketCap": 24455192576,
+            "change": -0.014693484,
+            "marketCap": 24458790912,
             "weekLow": 10.705,
             "weekHigh": 34.68,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.55,
+        "price": 28.475,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.70546335,
-            "marketCap": 5923869696,
+            "change": 0.4409171,
+            "marketCap": 5908308480,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
