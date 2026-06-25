@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.41,
+        "price": 47.661,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.0210846,
-            "marketCap": 209877221376,
+            "change": 0.529423,
+            "marketCap": 210988351488,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.77085
+            "yearTarget": 46.81991
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "VKTX Stock Jumps on Phase I Study Initiation for New Obesity Drug",
+                "summary": "Viking Therapeutics jumps after it starts its first human study of VK3019, expanding its obesity pipeline with a second candidate alongside its lead program, VK2735.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/vktx-stock-jumps-phase-study-135700621.html",
+                "publishDate": "2026-06-25T13:57:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Zacks Analyst Blog Highlights Shell, Novo, SAP, Rave and Vaso",
+                "summary": "Shell, Novo, SAP, Rave and Vaso are included in this Analyst Blog.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-shell-090000512.html",
+                "publishDate": "2026-06-25T09:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Artificial Intelligence Opportunity Beyond Big Tech: 3 Healthcare Stocks to Watch",
+                "summary": "These companies' innovative qualities could help them get ahead of their peers in capitalizing on AI.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/25/the-artificial-intelligence-opportunity-beyond-big/",
+                "publishDate": "2026-06-25T06:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "VKTX Stock Eyes Best Week In 2 Years: Retail Bulls Bet Q3 Obesity Data Could Put Novo, Big Pharma In Buyout Play",
+                "summary": "Retail traders cited Novo CEO Mike Doustdar\u2019s comment that Novo could afford a $20B, $30B or $40B deal if it was \u201cworth it.\u201d",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/vktx-bulls-q3-obesity-data-novo-big-pharma-buyout/cZ1G5RqR7QQ",
+                "publishDate": "2026-06-25T04:14:45Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Top Research Reports for Shell, Novo Nordisk & SAP",
                 "summary": "Shell, Novo Nordisk and SAP headline Zacks' top research reports, highlighting growth drivers, guidance outlooks and key risks shaping performance.",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-06-23T23:46:15Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk A/S (NVO) Primary Owner to Open Obesity Drug Incubators Across Europe",
-                "summary": "Novo Nordisk A/S (NYSE:NVO) is among the Best Pharmaceutical Stocks. On June 19, Novo Nordisk A/S (NYSE:NVO)\u2019s primary owner, the Novo Nordisk Foundation, reported that it is launching research incubators across Europe to speed up obesity and diabetes drug development. The foundation said it is funding a pan-European program targeting cardiometabolic diseases. It will commit up [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-primary-owner-195349175.html",
-                "publishDate": "2026-06-23T19:53:49Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Forget Novo Nordisk. Pfizer\u2019s Obesity Pipeline Is Coming, and It Pays You 6.8% While You Wait",
-                "summary": "Everyone is still arguing about Novo Nordisk (NYSE:NVO), the Danish obesity juggernaut whose GLP-1 franchise turned Wegovy and Ozempic into household names and dragged the entire pharma sector into a multi-year hype cycle. But here\u2019s what you should actually be watching. The reality check has already started, and the numbers are uglier than the headlines ... Forget Novo Nordisk. Pfizer\u2019s Obesity Pipeline Is Coming, and It Pays You 6.8% While You Wait",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/23/forget-novo-nordisk-pfizers-obesity-pipeline-is-coming-and-it-pays-you-6-8-while-you-wait/",
-                "publishDate": "2026-06-23T17:55:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "NVO Gains as Foundation Unveils EUR 60M Cardiometabolic Research Push",
-                "summary": "Novo Nordisk stock rises 6% after the launch of a EUR 60.2M foundation-backed initiative to speed cardiometabolic drug discovery and support Europe-wide innovation.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/nvo-gains-foundation-unveils-eur-150700424.html",
-                "publishDate": "2026-06-23T15:07:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Hims & Hers Health (HIMS) Expands GLP 1 Offerings With Novo Nordisk Deal And Eucalyptus Buy",
-                "summary": "Hims & Hers Health (NYSE:HIMS) is expanding its GLP-1 weight-loss treatment offerings, adding new options to its telehealth platform. The company has entered into a partnership with Novo Nordisk to provide access to medications such as Wegovy and Ozempic. Hims & Hers Health is extending its international reach through the acquisition of Eucalyptus. Hims & Hers Health, best known for its direct-to-consumer telehealth services, is moving deeper into prescription weight management at a time...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/hims-hers-health-hims-expands-090609591.html",
-                "publishDate": "2026-06-23T09:06:09Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.9,
+        "price": 1.778,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.52910006,
-            "marketCap": 178416240,
+            "change": -6.4210515,
+            "marketCap": 166960048,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.01,
+        "price": 34.47,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.58832,
-            "marketCap": 24462385152,
+            "change": 1.3525519,
+            "marketCap": 24793251840,
             "weekLow": 10.705,
-            "weekHigh": 34.505,
+            "weekHigh": 34.68,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.35,
+        "price": 28.625,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.11005,
-            "marketCap": 5882372096,
+            "change": 0.9700163,
+            "marketCap": 5939431936,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
