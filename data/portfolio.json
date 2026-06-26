@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.64,
+        "price": 48.105,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.485129,
-            "marketCap": 210895388672,
+            "change": 0.9760709,
+            "marketCap": 212953874432,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.774548
+            "yearTarget": 46.92485
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "HIMS Stock Eyes Big Monthly Win: Novo Nordisk Calls Hims & Hers One Of Its Most \u2018Voluminous\u2019 Telehealth Partners",
+                "summary": "Hims had 2.6 million subscribers in Q1, up 9% year over year, with Q2 expected to show how much the Novo deal is helping demand.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/hims-novo-nordisk-most-voluminous-telehealth-partners/cZ1cBDHR7Xz",
+                "publishDate": "2026-06-26T03:26:46Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (CPSE:NOVO B) Wins UK Approval For Oral Wegovy With Wider Consumer Ripple Effects",
                 "summary": "Novo Nordisk (CPSE:NOVO B) received UK approval for an oral version of Wegovy, the first authorized daily GLP-1 pill for weight management. The authorization covers obesity and overweight adults, offering an alternative to injectable GLP-1 therapies. The decision is expected to influence how obesity is treated in primary care and specialist settings across the UK. Retailers and consumer companies are already tracking GLP-1 use as they assess shifts in spending on food, fitness, and wellness...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-24T13:27:19Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "LLY or PFE: Which Drugmaker Offers the Stronger Growth Story?",
-                "summary": "Lilly's GLP-1 leadership, expanding pipeline and strong earnings growth outlook make it a standout pick over Pfizer despite its premium valuation.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/lly-pfe-drugmaker-offers-stronger-125900524.html",
-                "publishDate": "2026-06-24T12:59:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.79,
+        "price": 1.835,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.78947,
-            "marketCap": 168086880,
+            "change": 2.5139709,
+            "marketCap": 172312544,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.02,
+        "price": 34.12,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0294094,
-            "marketCap": 24469579776,
+            "change": 0.29394025,
+            "marketCap": 24541505536,
             "weekLow": 10.705,
             "weekHigh": 34.68,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.46,
+        "price": 29.24,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.388002,
-            "marketCap": 5905195520,
+            "change": 2.7406912,
+            "marketCap": 6067038720,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
@@ -599,6 +599,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "SSR Mining Optimizes Portfolio With Copler Mine Stake Sale",
+                "summary": "SSRM closes the sale of its 80% stake in the Copler Mine for $1.49 billion, advancing its strategic shift toward an Americas-focused platform.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-optimizes-portfolio-copler-132100524.html",
+                "publishDate": "2026-06-26T13:21:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Gunnison Copper appoints Bjorn Meyer as COO as it advances Arizona projects",
+                "summary": "Gunnison Copper Corp (TSX:GCU, OTCQB:GCUMF, FRA:3XS0) announced that it has appointed Bjorn Meyer as chief operating officer, bolstering its leadership team as the company advances production at the Johnson Camp Mine and development of the Gunnison Copper Project in Arizona. Meyer succeeds...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1094571/gunnison-copper-appoints-bjorn-meyer-as-coo-as-it-advances-arizona-projects-1094571.html",
+                "publishDate": "2026-06-26T13:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SSR Mining (TSX:SSRM) Completes \u00c7\u00f6pler Mine Sale And Unlocks $1.49 Billion In Cash",
+                "summary": "SSR Mining (TSX:SSRM) has completed the sale of its 80% interest in the \u00c7\u00f6pler mine to Cengiz Holding. The transaction closes a major chapter in the company\u2019s portfolio and brings in a significant cash inflow. The deal reshapes SSR Mining\u2019s asset mix and geographic exposure within its operations. For investors tracking TSX:SSRM, the completion of the \u00c7\u00f6pler mine sale comes after a period of substantial share price moves. The stock closed at CA$40.34, with the share price up 36.4% year to...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-tsx-ssrm-completes-120802240.html",
+                "publishDate": "2026-06-26T12:08:02Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Royal Gold (RGLD) Restructures Hod Maden Project Ownership, Secures New NSR Royalty",
                 "summary": "Royal Gold Inc. (NASDAQ:RGLD) is one of the most promising stocks with highest upside potential. On May 18, Royal Gold restructured its ownership in the Hod Maden gold-copper project in T\u00fcrkiye, reducing its direct equity in the joint venture company, Artmin, from 30% to 15%. Under the new agreement, SSR Mining will sell its interest [\u2026]",
@@ -667,36 +697,6 @@
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssr-announces-additional-211806245.html",
                 "publishDate": "2026-06-15T21:18:06Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining Pullback Tests Gold Rate Sensitivity And Long Term Thesis",
-                "summary": "SSR Mining (TSX:SSRM) is under fresh pressure as gold and silver prices weaken following strong U.S. employment data. Expectations for further Federal Reserve interest rate hikes are weighing on precious metals, a key revenue driver for the company. The share price closed at CA$36.72, with the stock down 10.3% over the past week and 25.1% over the past month. For investors watching SSR Mining, the timing of this macro shock matters. The stock is still up 24.2% year to date and 117.1% over...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-pullback-tests-gold-181155351.html",
-                "publishDate": "2026-06-12T18:11:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why SSR Mining Stock Got Knocked Today",
-                "summary": "This wasn't much of a surprise, given the recent price trajectories of gold and silver.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/09/why-ssr-mining-stock-got-knocked-today/",
-                "publishDate": "2026-06-10T00:18:24Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's Why SSR Mining (SSRM) is a Strong Growth Stock",
-                "summary": "Wondering how to pick strong, market-beating stocks for your investment portfolio? Look no further than the Zacks Style Scores.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-ssr-mining-ssrm-134505368.html",
-                "publishDate": "2026-06-04T13:45:05Z",
-                "premium": false,
                 "freemium": false
             }
         ],
