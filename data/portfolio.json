@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.105,
+        "price": 48.15,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9760709,
-            "marketCap": 212953874432,
+            "change": 1.0705335,
+            "marketCap": 213153087488,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.92485
+            "yearTarget": 46.931866
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Nike Stock Languishes, But Looming Earnings Report Fuels Turnaround Optimism",
+                "summary": "Earnings are coming up for Nike as the company tries to engineer a turnaround, but Nike stock continues to plumb 52-week lows.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/research/earnings-preview/nike-stock-52-week-low-earnings-china-turnaround/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-06-26T15:26:42Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "HIMS Stock Eyes Big Monthly Win: Novo Nordisk Calls Hims & Hers One Of Its Most \u2018Voluminous\u2019 Telehealth Partners",
                 "summary": "Hims had 2.6 million subscribers in Q1, up 9% year over year, with Q2 expected to show how much the Novo deal is helping demand.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-24T13:27:40Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Is Novo Nordisk A/S (NVO) Strengthening Its Weight-Loss Leadership With Oral Wegovy Launch?",
-                "summary": "We recently compiled a list of the 10 Best Weight Loss Drug Stocks to Buy in 2026. Novo Nordisk A/S (NYSE:NVO) is one of the best weight loss drugs on this list. TheFly reported on June 16 that Berenberg increased its price target for NVO shares to DKK 325 from DKK 300 while maintaining its Buy rating [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-strengthening-weight-132719084.html",
-                "publishDate": "2026-06-24T13:27:19Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.835,
+        "price": 1.91,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.5139709,
-            "marketCap": 172312544,
+            "change": 6.703911,
+            "marketCap": 179355280,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.12,
+        "price": 34.415,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.29394025,
-            "marketCap": 24541505536,
+            "change": 1.1610831,
+            "marketCap": 24753690624,
             "weekLow": 10.705,
             "weekHigh": 34.68,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.24,
+        "price": 29.66,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.7406912,
-            "marketCap": 6067038720,
+            "change": 4.216447,
+            "marketCap": 6154185216,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
