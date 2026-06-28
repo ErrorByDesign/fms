@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.15,
+        "price": 48.07,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0705335,
-            "marketCap": 213153087488,
+            "change": 0.902603,
+            "marketCap": 212798930944,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 46.931866
+            "yearTarget": 47.262756
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is Novo Nordisk (NVO) One of the Best Low Volatility Stocks to Buy Under $50?",
+                "summary": "Novo Nordisk A/S (NYSE:NVO) is one of the best low volatility stocks to buy under $50. Novo Nordisk A/S (NYSE:NVO) announced on June 11 that the Wegovy\u00ae pill has been approved in the UK as an adjunct to a reduced-calorie diet and increased physical activity, offering a first-of-its-kind alternative to injectable treatments for adults. The [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-one-best-190929020.html",
+                "publishDate": "2026-06-27T19:09:29Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Nike Stock Languishes, But Looming Earnings Report Fuels Turnaround Optimism",
                 "summary": "Earnings are coming up for Nike as the company tries to engineer a turnaround, but Nike stock continues to plumb 52-week lows.",
@@ -120,22 +130,12 @@
                 "publishDate": "2026-06-24T20:25:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Is Hims & Hers Health, Inc. (HIMS) a Top Weight Loss Stock After Barclays\u2019 Target Increase?",
-                "summary": "We recently compiled a list of the 10 Best Weight Loss Drug Stocks to Buy in 2026. Hims & Hers Health, Inc. (NYSE:HIMS) is one of the best weight loss drugs on this list. TheFly reported on June 17 that Barclays maintained its Overweight rating on HIMS while increasing its price target to $39.00 from $29.00. The [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/hims-hers-health-inc-hims-132740263.html",
-                "publishDate": "2026-06-24T13:27:40Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
             "analystCount": 12,
             "recommendationKey": 4,
-            "recommendationMean": 2.35714,
+            "recommendationMean": 2.42857,
             "strongBuy": 1,
             "buy": 4,
             "hold": 9,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.91,
+        "price": 1.79,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.703911,
-            "marketCap": 179355280,
+            "change": 0.0,
+            "marketCap": 168086880,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "SpaceX Surprise AI Pivot Could Be a Massive Win for Nvidia and Intel",
+                "summary": "Top Bank Says SpaceX's AI Expansion Could Supercharge Nvidia and Intel",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/technology/ai/articles/spacex-surprise-ai-pivot-could-155258884.html",
+                "publishDate": "2026-06-26T15:52:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Stock Logs a New Post-IPO Closing Low",
                 "summary": "Shares of SpaceX fell Thursday, setting a new closing low for the stock.",
                 "source": "Investopedia",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-06-10T16:09:43Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX IPO: The Devil Is in the Details",
-                "summary": "This is tool banks such as Goldman Sachs and Morgan Stanley use to build an order book for the SpaceX IPO.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/spacex-ipo-space-exploration-offering-8d846645?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-10T13:11:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.415,
+        "price": 34.07,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1610831,
-            "marketCap": 24753690624,
+            "change": 0.14697,
+            "marketCap": 24505542656,
             "weekLow": 10.705,
             "weekHigh": 34.68,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.66,
+        "price": 29.38,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.216447,
-            "marketCap": 6154185216,
+            "change": 3.23261,
+            "marketCap": 6096087552,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "SSR Mining (SSRM) Finalizes $1.49B Sale of \u00c7\u00f6pler Mine Stake to Cengiz Holding",
+                "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the high growth NASDAQ stocks to buy now. On June 24, SSR Mining officially closed the sale of its 80% ownership stake in the \u00c7\u00f6pler mine and associated properties in T\u00fcrkiye. The transaction was finalized with Cengiz Holding and its affiliates, resulting in approximately $1.49 billion in cash [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-finalizes-1-060927519.html",
+                "publishDate": "2026-06-28T06:09:27Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "SSR Mining Optimizes Portfolio With Copler Mine Stake Sale",
                 "summary": "SSRM closes the sale of its 80% stake in the Copler Mine for $1.49 billion, advancing its strategic shift toward an Americas-focused platform.",
@@ -686,16 +696,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-announces-additional-500-212735753.html",
                 "publishDate": "2026-06-15T21:27:35Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining SSR Announces Additional $500 Million Share Buyback and Reinstatement of Quarterly Dividend",
-                "summary": "SSR Mining (SSRM.TO, SSRM) after the close Monday approved an additional $500 million for share repu",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssr-announces-additional-211806245.html",
-                "publishDate": "2026-06-15T21:18:06Z",
                 "premium": true,
                 "freemium": false
             }
