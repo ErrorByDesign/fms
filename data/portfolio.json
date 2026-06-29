@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.07,
+        "price": 47.95,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.902603,
-            "marketCap": 212798930944,
+            "change": -0.24963373,
+            "marketCap": 212267728896,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.26477
+            "yearTarget": 47.40012
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Here's Why Shares of Eli Lilly Hit an All-Time High on Friday",
+                "summary": "LLY hit a record high after a positive EU panel opinion for Jaypirca and expanded $50/month Medicare access for Zepbound and Foundayo.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/heres-why-shares-eli-lilly-132700544.html",
+                "publishDate": "2026-06-29T13:27:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk A/S (NVO) Is a Trending Stock: Facts to Know Before Betting on It",
+                "summary": "Recently, Zacks.com users have been paying close attention to Novo Nordisk (NVO). This makes it worthwhile to examine what the stock has in store.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-trending-stock-130004923.html",
+                "publishDate": "2026-06-29T13:00:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "3 late-stage MASH drugs that could rival Rezdiffra",
+                "summary": "The red-hot market has plenty of room for additional therapies from big name players and clinical stage companies alike.",
+                "source": "Pharma Voice",
+                "category": "finance",
+                "url": "https://www.pharmavoice.com/news/MASH-drugs-to-watch/823892/",
+                "publishDate": "2026-06-29T09:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Is Novo Nordisk (NVO) One of the Best Low Volatility Stocks to Buy Under $50?",
                 "summary": "Novo Nordisk A/S (NYSE:NVO) is one of the best low volatility stocks to buy under $50. Novo Nordisk A/S (NYSE:NVO) announced on June 11 that the Wegovy\u00ae pill has been approved in the UK as an adjunct to a reduced-calorie diet and increased physical activity, offering a first-of-its-kind alternative to injectable treatments for adults. The [\u2026]",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-06-25T09:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "The Artificial Intelligence Opportunity Beyond Big Tech: 3 Healthcare Stocks to Watch",
-                "summary": "These companies' innovative qualities could help them get ahead of their peers in capitalizing on AI.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/25/the-artificial-intelligence-opportunity-beyond-big/",
-                "publishDate": "2026-06-25T06:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "VKTX Stock Eyes Best Week In 2 Years: Retail Bulls Bet Q3 Obesity Data Could Put Novo, Big Pharma In Buyout Play",
-                "summary": "Retail traders cited Novo CEO Mike Doustdar\u2019s comment that Novo could afford a $20B, $30B or $40B deal if it was \u201cworth it.\u201d",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/vktx-bulls-q3-obesity-data-novo-big-pharma-buyout/cZ1G5RqR7QQ",
-                "publishDate": "2026-06-25T04:14:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Top Research Reports for Shell, Novo Nordisk & SAP",
-                "summary": "Shell, Novo Nordisk and SAP headline Zacks' top research reports, highlighting growth drivers, guidance outlooks and key risks shaping performance.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/top-research-reports-shell-novo-202500776.html",
-                "publishDate": "2026-06-24T20:25:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.79,
+        "price": 1.8,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 168086880,
+            "change": 0.5586587,
+            "marketCap": 169025920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.07,
+        "price": 34.445,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.14697012,
-            "marketCap": 24505542656,
+            "change": 1.1006751,
+            "marketCap": 24775268352,
             "weekLow": 10.705,
             "weekHigh": 34.68,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.38,
+        "price": 28.37,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2326076,
-            "marketCap": 6096087552,
+            "change": -3.4377072,
+            "marketCap": 5886521856,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
