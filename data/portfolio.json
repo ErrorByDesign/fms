@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.945,
+        "price": 48.01,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.26003745,
-            "marketCap": 212245577728,
+            "change": -0.12482083,
+            "marketCap": 212533313536,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.41903
+            "yearTarget": 47.423603
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk vs. Viking: Which Obesity Drug Stock Is the Better Buy?",
+                "summary": "NVO and VKTX stocks offer contrasting opportunities in the fast-growing obesity market, with key differences in growth, risk and pipeline strength.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-vs-viking-obesity-151000981.html",
+                "publishDate": "2026-06-29T15:10:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Here's Why Shares of Eli Lilly Hit an All-Time High on Friday",
                 "summary": "LLY hit a record high after a positive EU panel opinion for Jaypirca and expanded $50/month Medicare access for Zepbound and Foundayo.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-25T13:57:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "The Zacks Analyst Blog Highlights Shell, Novo, SAP, Rave and Vaso",
-                "summary": "Shell, Novo, SAP, Rave and Vaso are included in this Analyst Blog.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-shell-090000512.html",
-                "publishDate": "2026-06-25T09:00:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.92,
+        "price": 1.865,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 7.26257,
-            "marketCap": 180294304,
+            "change": 4.1899467,
+            "marketCap": 175129632,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -443,7 +443,7 @@
             "change": 1.7317293,
             "marketCap": 24929912832,
             "weekLow": 10.705,
-            "weekHigh": 34.68,
+            "weekHigh": 34.765,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.5,
+        "price": 28.265,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.995232,
-            "marketCap": 5913495552,
+            "change": -3.795098,
+            "marketCap": 5864735232,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
