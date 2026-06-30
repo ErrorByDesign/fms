@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.925,
+        "price": 47.94,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.8585042,
-            "marketCap": 212157038592,
+            "change": -0.82747525,
+            "marketCap": 212223442944,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.502686
+            "yearTarget": 47.529045
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Roche Gets FDA Priority Review for Enspryng in Thyroid Eye Disease",
+                "summary": "Roche won FDA priority review for Enspryng in thyroid eye disease, with a decision date in October and phase III data backing the filing.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/roche-gets-fda-priority-review-184700137.html",
+                "publishDate": "2026-06-30T18:47:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Can Eli Lilly's New Drugs Fuel Growth Beyond Its GLP-1 Blockbusters?",
                 "summary": "LLY is expanding its revenue base beyond Mounjaro and Zepbound with new launches and label expansions that can strengthen long-term growth.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-26T03:26:46Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Wins UK Approval For Oral Wegovy With Wider Consumer Ripple Effects",
-                "summary": "Novo Nordisk (CPSE:NOVO B) received UK approval for an oral version of Wegovy, the first authorized daily GLP-1 pill for weight management. The authorization covers obesity and overweight adults, offering an alternative to injectable GLP-1 therapies. The decision is expected to influence how obesity is treated in primary care and specialist settings across the UK. Retailers and consumer companies are already tracking GLP-1 use as they assess shifts in spending on food, fitness, and wellness...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-190644614.html",
-                "publishDate": "2026-06-25T19:06:44Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.865,
+        "price": 1.84,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.6111145,
-            "marketCap": 175129632,
+            "change": 2.2222269,
+            "marketCap": 172782048,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.215,
+        "price": 35.39,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3964889,
-            "marketCap": 25329106944,
+            "change": 1.9003739,
+            "marketCap": 25454979072,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.245,
+        "price": 28.28,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.4581468,
-            "marketCap": 5860585472,
+            "change": -0.33479935,
+            "marketCap": 5867847680,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
