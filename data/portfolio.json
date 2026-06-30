@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.1,
+        "price": 48.025,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.49648672,
-            "marketCap": 212931739648,
+            "change": -0.6516314,
+            "marketCap": 212599734272,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.531586
+            "yearTarget": 47.51285
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Can Eli Lilly's New Drugs Fuel Growth Beyond Its GLP-1 Blockbusters?",
+                "summary": "LLY is expanding its revenue base beyond Mounjaro and Zepbound with new launches and label expansions that can strengthen long-term growth.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/eli-lillys-drugs-fuel-growth-142200947.html",
+                "publishDate": "2026-06-30T14:22:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "AI Is Transforming Drug Discovery. Here Is the Next Trillion-Dollar Biotech Opportunity",
                 "summary": "Artificial intelligence is reshaping nearly every industry, but some of its biggest opportunities are emerging far from Silicon Valley. Biotechnology has spent decades producing breakthrough medicines, yet drug development has remained painfully slow, often taking 10 to 15 years while roughly 90% of candidates never reach approval. AI is beginning to change that equation. By ... AI Is Transforming Drug Discovery. Here Is the Next Trillion-Dollar Biotech Opportunity",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-190644614.html",
                 "publishDate": "2026-06-25T19:06:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "An Analyst Just Declared Eli Lilly the \"Clear Winner\" of an American Diabetes Association Conference Focused on Weight-Loss Drugs. Novo's Chief Scientist Disagrees. Who's Right?",
-                "summary": "Novo Nordisk is no longer the front-runner, but it's not out of the running, either.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/25/an-analyst-just-declared-eli-lilly-the-clear-winne/",
-                "publishDate": "2026-06-25T15:38:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -332,6 +332,16 @@
                 "freemium": false
             },
             {
+                "title": "Top Midday Stories: Energy Department to Provide $17.5 Billion in Loans for Nuclear Reactors; Oracle Shrank Workforce by 13% in Fiscal 2026",
+                "summary": "The Nasdaq Composite and S&P 500 Index were down in late-morning trading Tuesday, while the Dow Jone",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/energy/articles/top-midday-stories-energy-department-153941608.html",
+                "publishDate": "2026-06-23T15:39:41Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Plummets 16.4% Yesterday: Bull Trap or Buying Opportunity?",
                 "summary": "SPCX's 16.4% plunge wiped out $400.8 billion as note issuance, AI deals and dilution fears tested confidence after its blockbuster IPO.",
                 "source": "Zacks",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-06-11T14:35:13Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
-                "summary": "Tesla (NASDAQ:TSLA) sits in an awkward place. Q1 2026 showed automotive gross margin rebounding to 21.1% from 16.2% a year earlier, FSD subscriptions hit 1.28 million (+51% YoY), and free cash flow more than doubled to $1.444 billion. Yet shares closed at $418.45, down 6.95% YTD. Can Tesla reach $500 this cycle? What\u2019s Holding Tesla ... Prediction: Tesla Stock Will Hit $500 on This Date",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/05/prediction-tesla-stock-will-hit-500-on-this-date/",
-                "publishDate": "2026-06-10T16:09:43Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.885,
+        "price": 35.54,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.3256516,
-            "marketCap": 25811017728,
+            "change": 2.3322816,
+            "marketCap": 25562869760,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.0,
+        "price": 27.96,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.3215859,
-            "marketCap": 5809750016,
+            "change": -1.4625583,
+            "marketCap": 5801449984,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
