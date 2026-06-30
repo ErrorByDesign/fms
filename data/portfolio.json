@@ -20,7 +20,7 @@
             "marketCap": 213994192896,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.538055
+            "yearTarget": 47.450348
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5586587,
+            "change": 0.558659,
             "marketCap": 169025920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -440,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9371877,
+            "change": 1.93719,
             "marketCap": 24980260864,
             "weekLow": 10.705,
-            "weekHigh": 34.82,
+            "weekHigh": 34.83,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.4206915,
+            "change": -3.42069,
             "marketCap": 5887559168,
             "weekLow": 11.7,
             "weekHigh": 36.52,
