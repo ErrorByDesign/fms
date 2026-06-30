@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.34,
+        "price": 48.1,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.561682,
-            "marketCap": 213994192896,
+            "change": -0.49648672,
+            "marketCap": 212931739648,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.419014
+            "yearTarget": 47.531586
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "AI Is Transforming Drug Discovery. Here Is the Next Trillion-Dollar Biotech Opportunity",
+                "summary": "Artificial intelligence is reshaping nearly every industry, but some of its biggest opportunities are emerging far from Silicon Valley. Biotechnology has spent decades producing breakthrough medicines, yet drug development has remained painfully slow, often taking 10 to 15 years while roughly 90% of candidates never reach approval. AI is beginning to change that equation. By ... AI Is Transforming Drug Discovery. Here Is the Next Trillion-Dollar Biotech Opportunity",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/30/ai-is-transforming-drug-discovery-here-is-the-next-trillion-dollar-biotech-opportunity/",
+                "publishDate": "2026-06-30T13:38:29Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk vs. Viking: Which Obesity Drug Stock Is the Better Buy?",
                 "summary": "NVO and VKTX stocks offer contrasting opportunities in the fast-growing obesity market, with key differences in growth, risk and pipeline strength.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-06-25T15:38:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "VKTX Stock Jumps on Phase I Study Initiation for New Obesity Drug",
-                "summary": "Viking Therapeutics jumps after it starts its first human study of VK3019, expanding its obesity pipeline with a second candidate alongside its lead program, VK2735.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/vktx-stock-jumps-phase-study-135700621.html",
-                "publishDate": "2026-06-25T13:57:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8,
+        "price": 1.8201,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.558659,
-            "marketCap": 169025920,
+            "change": 1.1166666,
+            "marketCap": 170913376,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.73,
+        "price": 35.885,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.93719,
-            "marketCap": 24980260864,
+            "change": 3.3256516,
+            "marketCap": 25811017728,
             "weekLow": 10.705,
-            "weekHigh": 34.83,
+            "weekHigh": 35.9,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.375,
+        "price": 28.0,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.42069,
-            "marketCap": 5887559168,
+            "change": -1.3215859,
+            "marketCap": 5809750016,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
