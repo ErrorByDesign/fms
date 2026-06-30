@@ -20,7 +20,7 @@
             "marketCap": 212223442944,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.526356
+            "yearTarget": 47.521343
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Medicare GLP-1 Bridge Program Will Pay for Novo, Lilly Drugs",
+                "summary": "Medicare is launching a temporary program that will cover Novo\u2019s Wegovy injection and tablets, as well as Lilly\u2019s Zepbound KwikPen formulation and its Foundayo tablets.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/medicare-glp-1-bridge-program-novo-lilly-c4c94dfc?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-30T20:03:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Roche Gets FDA Priority Review for Enspryng in Thyroid Eye Disease",
                 "summary": "Roche won FDA priority review for Enspryng in thyroid eye disease, with a decision date in October and phase III data backing the filing.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.investors.com/research/earnings-preview/nike-stock-52-week-low-earnings-china-turnaround/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-06-26T15:26:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "HIMS Stock Eyes Big Monthly Win: Novo Nordisk Calls Hims & Hers One Of Its Most \u2018Voluminous\u2019 Telehealth Partners",
-                "summary": "Hims had 2.6 million subscribers in Q1, up 9% year over year, with Q2 expected to show how much the Novo deal is helping demand.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/hims-novo-nordisk-most-voluminous-telehealth-partners/cZ1cBDHR7Xz",
-                "publishDate": "2026-06-26T03:26:46Z",
                 "premium": false,
                 "freemium": false
             }
