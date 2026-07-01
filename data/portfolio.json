@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.21,
+        "price": 48.935,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.6485932,
-            "marketCap": 217845547008,
+            "change": 2.075517,
+            "marketCap": 216628183040,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.348175
+            "yearTarget": 47.34969
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.05,
+        "price": 35.12,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.9607238,
-            "marketCap": 25210427392,
+            "change": -0.76292866,
+            "marketCap": 25260775424,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -558,8 +558,8 @@
         ],
         "RATINGS": {
             "analystCount": 12,
-            "recommendationKey": "strong_buy",
-            "recommendationMean": 1.30769,
+            "recommendationKey": "none",
+            "recommendationMean": "recommendationMean",
             "strongBuy": 2,
             "buy": 10,
             "hold": 1,
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.28,
+        "price": 29.26,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.5360677,
-            "marketCap": 6075338752,
+            "change": 3.465345,
+            "marketCap": 6071188992,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
