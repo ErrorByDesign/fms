@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.79,
+        "price": 48.6499,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7730545,
-            "marketCap": 215986274304,
+            "change": 1.4808092,
+            "marketCap": 215366074368,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.3489
+            "yearTarget": 47.337723
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.86,
+        "price": 1.8674,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0869554,
-            "marketCap": 174660112,
+            "change": 1.4891313,
+            "marketCap": 175355008,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.975,
+        "price": 35.13,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.1726502,
-            "marketCap": 25156481024,
+            "change": -0.7346661,
+            "marketCap": 25267970048,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
