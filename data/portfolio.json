@@ -20,7 +20,7 @@
             "marketCap": 212223442944,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.454693
+            "yearTarget": 47.438328
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Enlists Shantha Biologics For Cartridge Manufacturing In India",
+                "summary": "Novo Nordisk has entered into an outsourcing agreement with Shantha Biologics for cartridge fill-finish manufacturing services in India. The partnership expands Novo Nordisk\u2019s production footprint into a key pharmaceutical manufacturing hub. The deal is intended to support the company\u2019s global supply chain and its ability to meet demand for cartridge-based products. Novo Nordisk, traded as CPSE:NOVO B, is making this move while its share price stands at DKK314.6. The stock is up 2.2% over...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-031146632.html",
+                "publishDate": "2026-07-01T03:11:46Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Medicare GLP-1 Bridge Program Will Pay for Novo, Lilly Drugs",
                 "summary": "Medicare is launching a temporary program that will cover Novo\u2019s Wegovy injection and tablets, as well as Lilly\u2019s Zepbound KwikPen formulation and its Foundayo tablets.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-one-best-190929020.html",
                 "publishDate": "2026-06-27T19:09:29Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Nike Stock Languishes, But Looming Earnings Report Fuels Turnaround Optimism",
-                "summary": "Earnings are coming up for Nike as the company tries to engineer a turnaround, but Nike stock continues to plumb 52-week lows.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/research/earnings-preview/nike-stock-52-week-low-earnings-china-turnaround/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-06-26T15:26:42Z",
                 "premium": false,
                 "freemium": false
             }
