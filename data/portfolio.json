@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 47.94,
+        "price": 49.1,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.827475,
-            "marketCap": 212223442944,
+            "change": 2.419691,
+            "marketCap": 217358598144,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.438328
+            "yearTarget": 47.36477
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Amgen or Biogen: Which Biotech Stock Appears Better Poised?",
+                "summary": "AMGN stands out compared to Biogen given its broader product portfolio, pipeline depth and steadier growth outlook despite patent and competition risks.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/amgen-biogen-biotech-stock-appears-130400234.html",
+                "publishDate": "2026-07-01T13:04:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Weight Loss ETFs Poised to Rally as Medicare Greenlights GLP-1 Coverage",
+                "summary": "Medicare's new GLP-1 coverage could expand access to weight-loss drugs, making ETFs a diversified way to tap growth across the obesity treatment market.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/weight-loss-etfs-poised-rally-121300471.html",
+                "publishDate": "2026-07-01T12:13:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (NVO) Upgraded to Buy at Nordea. Here is Why",
+                "summary": "With an annual dividend yield of 3.75%, Novo Nordisk A/S (NYSE:NVO) is included among the 12 Best NYSE Stocks to Buy for Dividends. Novo Nordisk A/S (NYSE:NVO) is a leading global healthcare company, founded in 1923 and headquartered in Denmark. On June 19, Nordea upgraded Novo Nordisk A/S (NYSE:NVO) from \u2018Hold\u2019 to \u2018Buy\u2019 and assigned the [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-upgraded-buy-042018001.html",
+                "publishDate": "2026-07-01T04:20:18Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (CPSE:NOVO B) Enlists Shantha Biologics For Cartridge Manufacturing In India",
                 "summary": "Novo Nordisk has entered into an outsourcing agreement with Shantha Biologics for cartridge fill-finish manufacturing services in India. The partnership expands Novo Nordisk\u2019s production footprint into a key pharmaceutical manufacturing hub. The deal is intended to support the company\u2019s global supply chain and its ability to meet demand for cartridge-based products. Novo Nordisk, traded as CPSE:NOVO B, is making this move while its share price stands at DKK314.6. The stock is up 2.2% over...",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-06-29T13:27:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk A/S (NVO) Is a Trending Stock: Facts to Know Before Betting on It",
-                "summary": "Recently, Zacks.com users have been paying close attention to Novo Nordisk (NVO). This makes it worthwhile to examine what the stock has in store.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-trending-stock-130004923.html",
-                "publishDate": "2026-06-29T13:00:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 late-stage MASH drugs that could rival Rezdiffra",
-                "summary": "The red-hot market has plenty of room for additional therapies from big name players and clinical stage companies alike.",
-                "source": "Pharma Voice",
-                "category": "finance",
-                "url": "https://www.pharmavoice.com/news/MASH-drugs-to-watch/823892/",
-                "publishDate": "2026-06-29T09:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Novo Nordisk (NVO) One of the Best Low Volatility Stocks to Buy Under $50?",
-                "summary": "Novo Nordisk A/S (NYSE:NVO) is one of the best low volatility stocks to buy under $50. Novo Nordisk A/S (NYSE:NVO) announced on June 11 that the Wegovy\u00ae pill has been approved in the UK as an adjunct to a reduced-calorie diet and increased physical activity, offering a first-of-its-kind alternative to injectable treatments for adults. The [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-one-best-190929020.html",
-                "publishDate": "2026-06-27T19:09:29Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.84,
+        "price": 1.8563,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.22223,
-            "marketCap": 172782048,
+            "change": 0.88586754,
+            "marketCap": 174312672,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.39,
+        "price": 34.98,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.90037,
-            "marketCap": 25454979072,
+            "change": -1.1585189,
+            "marketCap": 25160077312,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.28,
+        "price": 29.385,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.334799,
-            "marketCap": 5867847680,
+            "change": 3.9066627,
+            "marketCap": 6097125376,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 42.6
