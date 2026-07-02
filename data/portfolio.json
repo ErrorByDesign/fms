@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.31,
+        "price": 50.315,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.1576807,
-            "marketCap": 222662279168,
+            "change": 3.1679273,
+            "marketCap": 222684381184,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.697258
+            "yearTarget": 47.68267
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Microsoft Invests $2.5 Billion in New AI Implementation Business",
+                "summary": "Microsoft (MSFT) is launching a new business unit with a $2.5 billion investment that will help clie",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-invests-2-5-billion-192515066.html",
+                "publishDate": "2026-07-02T19:25:15Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "European Stocks Surge, Oil Prices Drop; Defense, Luxury Shares Rally",
                 "summary": "European stock markets closed higher Thursday, paced by defense and luxury goods, while oil prices f",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-01T12:13:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Upgraded to Buy at Nordea. Here is Why",
-                "summary": "With an annual dividend yield of 3.75%, Novo Nordisk A/S (NYSE:NVO) is included among the 12 Best NYSE Stocks to Buy for Dividends. Novo Nordisk A/S (NYSE:NVO) is a leading global healthcare company, founded in 1923 and headquartered in Denmark. On June 19, Nordea upgraded Novo Nordisk A/S (NYSE:NVO) from \u2018Hold\u2019 to \u2018Buy\u2019 and assigned the [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-upgraded-buy-042018001.html",
-                "publishDate": "2026-07-01T04:20:18Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.81,
+        "price": 1.8,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8970236,
-            "marketCap": 169964944,
+            "change": -2.4390285,
+            "marketCap": 169025920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.71,
+        "price": 34.9,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.91350186,
-            "marketCap": 24965875712,
+            "change": -0.37110266,
+            "marketCap": 25102538752,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.21,
+        "price": 30.425,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.7866774,
-            "marketCap": 6268304896,
+            "change": 5.53147,
+            "marketCap": 6312915456,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
