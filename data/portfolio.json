@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.77,
+        "price": 50.61,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.73133,
-            "marketCap": 215846535168,
+            "change": 3.7720382,
+            "marketCap": 223990005760,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.48438
+            "yearTarget": 47.74597
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Lilly Up Around 7% in a Week: Should You Buy, Sell or Hold the Stock?",
+                "summary": "LLY's leadership in GLP-1 therapies, expanding pipeline and diversified growth strategy support its long-term outlook despite a premium valuation.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/lilly-around-7-week-buy-124900308.html",
+                "publishDate": "2026-07-02T12:49:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Medicare Isn\u2019t a Game Changer for Weight-Loss Drugmakers",
+                "summary": "Medicare is now covering weight-loss drugs for some seniors, in a win for patients. For Wall Street, the math is trickier.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/health/pharma/why-medicare-isnt-a-game-changer-for-weight-loss-drugmakers-36bdae96?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-02T09:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Getting Wegovy Or Zepbound Through Medicare? Here's What Patients Need To Know Before Coverage Rolls Out Wednesday",
+                "summary": "Millions of Medicare beneficiaries will gain access to obesity drugs for the first time starting Wednesday under CMS\u2019 temporary Bridge program, a federal initiative designed to expand GLP-1 obesity drug coverage for eligible seniors at a $50 monthly copay. The...",
+                "source": "Benzinga",
+                "category": "news",
+                "url": "https://www.yahoo.com/news/politics/articles/getting-wegovy-zepbound-medicare-heres-033105115.html",
+                "publishDate": "2026-07-02T03:31:05Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NVO) Ascends While Market Falls: Some Facts to Note",
                 "summary": "In the latest trading session, Novo Nordisk (NVO) closed at $48.77, marking a +1.73% move from the previous day.",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-07-01T03:11:46Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Medicare GLP-1 Bridge Program Will Pay for Novo, Lilly Drugs",
-                "summary": "Medicare is launching a temporary program that will cover Novo\u2019s Wegovy injection and tablets, as well as Lilly\u2019s Zepbound KwikPen formulation and its Foundayo tablets.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/medicare-glp-1-bridge-program-novo-lilly-c4c94dfc?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-06-30T20:03:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Roche Gets FDA Priority Review for Enspryng in Thyroid Eye Disease",
-                "summary": "Roche won FDA priority review for Enspryng in thyroid eye disease, with a decision date in October and phase III data backing the filing.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/roche-gets-fda-priority-review-184700137.html",
-                "publishDate": "2026-06-30T18:47:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can Eli Lilly's New Drugs Fuel Growth Beyond Its GLP-1 Blockbusters?",
-                "summary": "LLY is expanding its revenue base beyond Mounjaro and Zepbound with new launches and label expansions that can strengthen long-term growth.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/eli-lillys-drugs-fuel-growth-142200947.html",
-                "publishDate": "2026-06-30T14:22:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.81,
+        "price": 1.8,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6304396,
-            "marketCap": 169964944,
+            "change": -2.4390285,
+            "marketCap": 169025920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.03,
+        "price": 34.86,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.01724,
-            "marketCap": 25196042240,
+            "change": -0.48529312,
+            "marketCap": 25073766400,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.83,
+        "price": 30.52,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.94483,
-            "marketCap": 5981967360,
+            "change": 5.859919,
+            "marketCap": 6332627456,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
