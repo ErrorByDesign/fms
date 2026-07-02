@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.64,
+        "price": 50.44,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.8343222,
-            "marketCap": 224122781696,
+            "change": 3.4242325,
+            "marketCap": 223237619712,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.75526
+            "yearTarget": 47.734936
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Stocks Surge, Oil Prices Drop; Defense, Luxury Shares Rally",
+                "summary": "European stock markets closed higher Thursday, paced by defense and luxury goods, while oil prices f",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-surge-oil-prices-155124843.html",
+                "publishDate": "2026-07-02T15:51:24Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Lilly Up Around 7% in a Week: Should You Buy, Sell or Hold the Stock?",
                 "summary": "LLY's leadership in GLP-1 therapies, expanding pipeline and diversified growth strategy support its long-term outlook despite a premium valuation.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-01T04:20:18Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Enlists Shantha Biologics For Cartridge Manufacturing In India",
-                "summary": "Novo Nordisk has entered into an outsourcing agreement with Shantha Biologics for cartridge fill-finish manufacturing services in India. The partnership expands Novo Nordisk\u2019s production footprint into a key pharmaceutical manufacturing hub. The deal is intended to support the company\u2019s global supply chain and its ability to meet demand for cartridge-based products. Novo Nordisk, traded as CPSE:NOVO B, is making this move while its share price stands at DKK314.6. The stock is up 2.2% over...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-031146632.html",
-                "publishDate": "2026-07-01T03:11:46Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8772,
+        "price": 1.81,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7452563,
-            "marketCap": 176275248,
+            "change": -1.8970236,
+            "marketCap": 169964944,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.95,
+        "price": 34.82,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.22837003,
-            "marketCap": 25138501632,
+            "change": -0.59948355,
+            "marketCap": 25044996096,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.75,
+        "price": 30.64,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.6597295,
-            "marketCap": 6380350464,
+            "change": 6.27818,
+            "marketCap": 6357526528,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
