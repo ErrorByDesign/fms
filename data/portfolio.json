@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": 1.73133,
-            "marketCap": 215897735168,
+            "marketCap": 215846535168,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.3427
+            "yearTarget": 47.49855
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NVO) Ascends While Market Falls: Some Facts to Note",
+                "summary": "In the latest trading session, Novo Nordisk (NVO) closed at $48.77, marking a +1.73% move from the previous day.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-ascends-while-214506737.html",
+                "publishDate": "2026-07-01T21:45:06Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Heavy, Unusual Put Option Volume Today in Novo Nordisk - Is NVO Overvalued?",
+                "summary": "A Barchart report today shows unusually heavy volume in out-of-the-money (OTM) put options in Novo Nordisk, which makes Ozempic and Wegovy. NVO stock has been moving up, so is it overvalued now?",
+                "source": "Barchart",
+                "category": "finance",
+                "url": "https://www.barchart.com/story/news/3082849/heavy-unusual-put-option-volume-today-in-novo-nordisk-is-nvo-overvalued",
+                "publishDate": "2026-07-01T17:30:02Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Equities Traded in the US as American Depositary Receipts Fall Sharply in Wednesday Trading",
                 "summary": "European equities traded in the US as American depositary receipts were tracking sharply lower late",
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/eli-lillys-drugs-fuel-growth-142200947.html",
                 "publishDate": "2026-06-30T14:22:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "AI Is Transforming Drug Discovery. Here Is the Next Trillion-Dollar Biotech Opportunity",
-                "summary": "Artificial intelligence is reshaping nearly every industry, but some of its biggest opportunities are emerging far from Silicon Valley. Biotechnology has spent decades producing breakthrough medicines, yet drug development has remained painfully slow, often taking 10 to 15 years while roughly 90% of candidates never reach approval. AI is beginning to change that equation. By ... AI Is Transforming Drug Discovery. Here Is the Next Trillion-Dollar Biotech Opportunity",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/30/ai-is-transforming-drug-discovery-here-is-the-next-trillion-dollar-biotech-opportunity/",
-                "publishDate": "2026-06-30T13:38:29Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk vs. Viking: Which Obesity Drug Stock Is the Better Buy?",
-                "summary": "NVO and VKTX stocks offer contrasting opportunities in the fast-growing obesity market, with key differences in growth, risk and pipeline strength.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-vs-viking-obesity-151000981.html",
-                "publishDate": "2026-06-29T15:10:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0172383,
+            "change": -1.01724,
             "marketCap": 25196042240,
             "weekLow": 10.705,
             "weekHigh": 35.9,
@@ -584,11 +584,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9448346,
+            "change": 1.94483,
             "marketCap": 5981967360,
             "weekLow": 11.7,
             "weekHigh": 36.52,
-            "yearTarget": 42.6
+            "yearTarget": 41.8
         },
         "FUNDING": {
             "fundingToDate": null,
