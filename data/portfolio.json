@@ -20,7 +20,7 @@
             "marketCap": 223193366528,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.731865
+            "yearTarget": 47.74005
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,86 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NVO) Stock May Be 48% Undervalued On Medicare GLP 1 Coverage",
+                "summary": "Novo Nordisk stock has delivered a decline of 32.7% over the past three years, yet current valuation work, including a Discounted Cash Flow (DCF) intrinsic value estimate and market multiple checks, both point to the shares trading at a discount to what the business may be worth. The three-year return of 32.7% down raises the question of whether sentiment has moved further than the underlying value of Novo Nordisk. Medicare\u2019s decision to cover certain GLP-1 weight loss drugs and growing use...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-stock-may-141412298.html",
+                "publishDate": "2026-07-03T14:14:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Microsoft Launches AI Adoption Firm",
+                "summary": "The new unit will start with $2.5 billion to help companies choose and use AI tools.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-launches-ai-adoption-firm-135313441.html",
+                "publishDate": "2026-07-03T13:53:13Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here's Why Viking Therapeutics Stock Surged Higher in June",
+                "summary": "Investors are growing more optimistic over the company's pipeline and the initiation of a Phase 1 trial with a new drug.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/03/heres-why-viking-therapeutics-stock-surged-higher/",
+                "publishDate": "2026-07-03T13:45:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Lexicon Pharmaceuticals (LXRX) Gains on Russell 3000 Inclusion",
+                "summary": "Lexicon Pharmaceuticals, Inc. (NASDAQ:LXRX) has gained more than 15% over the past month, mainly driven by the stock\u2019s inclusion in the Russell 3000 index and strong Q1 2026 earnings. Wall Street expects more than 21% upside over the next 12-months making Lexicon Pharmaceuticals, Inc. (NASDAQ:LXRX) one of the Best Rising Penny Stocks to Buy According [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/lexicon-pharmaceuticals-lxrx-gains-russell-131232712.html",
+                "publishDate": "2026-07-03T13:12:32Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Can Medicare Bridge Help Novo Nordisk Defend Its GLP-1 Leadership?",
+                "summary": "NVO benefits from Medicare's GLP-1 Bridge, but equal coverage for rival therapies shifts the obesity race toward clinical differentiation and long-term outcomes.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/medicare-bridge-help-novo-nordisk-131200842.html",
+                "publishDate": "2026-07-03T13:12:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (NVO) Is At The Center Of A Fast Growing Diabetes Drug Market",
+                "summary": "Market research highlights Novo Nordisk (NYSE:NVO) as a leading company in the global antidiabetic drugs market. The report points to rising diabetes prevalence and new therapeutic approaches as key drivers for the sector. Novo Nordisk is identified as a major participant in advanced drug classes, including GLP-1 receptor agonists. Novo Nordisk is a central player in a global antidiabetic market that research identifies as having significant long-term potential, with diabetes prevalence and...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-center-fast-101905395.html",
+                "publishDate": "2026-07-03T10:19:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Stock Looks Undervalued As Broader Checks Stay Supportive",
+                "summary": "Novo Nordisk stock has given investors a mixed ride over the past few years, with a 36.1% gain over 5 years but weaker recent returns, and the valuation checks now suggest the shares may lean cheap rather than fully priced in. Over the last 5 years, Novo Nordisk has returned 36.1%, which points to a longer term story that still created value even though shorter term performance has been more muted. Recent headlines around Medicare\u2019s GLP-1 Bridge program and expanding cardiometabolic research...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-101826775.html",
+                "publishDate": "2026-07-03T10:18:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Microsoft launches Microsoft Frontier Company with $2.5bn investment",
+                "summary": "The new company will focus on integrating enterprise AI, offering tailored support and protecting client data and intellectual property.",
+                "source": "Verdict",
+                "category": "finance",
+                "url": "https://www.verdict.co.uk/microsoft-launches-microsoft-frontier-company/",
+                "publishDate": "2026-07-03T07:55:42Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "MSFT Stock Alert: Microsoft Invests $2.5 Billion in AI Implementation Unit",
                 "summary": "Microsoft shares soar as the behemoth announces a $2.5 billion investment in a new initiative, Microsoft Frontier Co. But does that warrant buying MSFT stock today?",
@@ -49,86 +129,6 @@
                 "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-invests-2-5-billion-192515066.html",
                 "publishDate": "2026-07-02T19:25:15Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "European Stocks Surge, Oil Prices Drop; Defense, Luxury Shares Rally",
-                "summary": "European stock markets closed higher Thursday, paced by defense and luxury goods, while oil prices f",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/european-stocks-surge-oil-prices-155124843.html",
-                "publishDate": "2026-07-02T15:51:24Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Lilly Up Around 7% in a Week: Should You Buy, Sell or Hold the Stock?",
-                "summary": "LLY's leadership in GLP-1 therapies, expanding pipeline and diversified growth strategy support its long-term outlook despite a premium valuation.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/lilly-around-7-week-buy-124900308.html",
-                "publishDate": "2026-07-02T12:49:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Medicare Isn\u2019t a Game Changer for Weight-Loss Drugmakers",
-                "summary": "Medicare is now covering weight-loss drugs for some seniors, in a win for patients. For Wall Street, the math is trickier.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/why-medicare-isnt-a-game-changer-for-weight-loss-drugmakers-36bdae96?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-02T09:30:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Getting Wegovy Or Zepbound Through Medicare? Here's What Patients Need To Know Before Coverage Rolls Out Wednesday",
-                "summary": "Millions of Medicare beneficiaries will gain access to obesity drugs for the first time starting Wednesday under CMS\u2019 temporary Bridge program, a federal initiative designed to expand GLP-1 obesity drug coverage for eligible seniors at a $50 monthly copay. The...",
-                "source": "Benzinga",
-                "category": "news",
-                "url": "https://www.yahoo.com/news/politics/articles/getting-wegovy-zepbound-medicare-heres-033105115.html",
-                "publishDate": "2026-07-02T03:31:05Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Ascends While Market Falls: Some Facts to Note",
-                "summary": "In the latest trading session, Novo Nordisk (NVO) closed at $48.77, marking a +1.73% move from the previous day.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-ascends-while-214506737.html",
-                "publishDate": "2026-07-01T21:45:06Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Heavy, Unusual Put Option Volume Today in Novo Nordisk - Is NVO Overvalued?",
-                "summary": "A Barchart report today shows unusually heavy volume in out-of-the-money (OTM) put options in Novo Nordisk, which makes Ozempic and Wegovy. NVO stock has been moving up, so is it overvalued now?",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/3082849/heavy-unusual-put-option-volume-today-in-novo-nordisk-is-nvo-overvalued",
-                "publishDate": "2026-07-01T17:30:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Fall Sharply in Wednesday Trading",
-                "summary": "European equities traded in the US as American depositary receipts were tracking sharply lower late",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151204040.html",
-                "publishDate": "2026-07-01T15:12:04Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Amgen or Biogen: Which Biotech Stock Appears Better Poised?",
-                "summary": "AMGN stands out compared to Biogen given its broader product portfolio, pipeline depth and steadier growth outlook despite patent and competition risks.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/amgen-biogen-biotech-stock-appears-130400234.html",
-                "publishDate": "2026-07-01T13:04:00Z",
-                "premium": false,
                 "freemium": false
             }
         ],
