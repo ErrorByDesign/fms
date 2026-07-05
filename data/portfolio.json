@@ -20,7 +20,7 @@
             "marketCap": 223193366528,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.730476
+            "yearTarget": 47.717842
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Trump\u2019s FDA May Soon Throw Its Weight Behind Peptides. Should You Buy In?",
+                "summary": "Peptides are short-chain amino acids that are formulated into drugs.  Insulin is a peptide.  Legions of other peptides are on the market in the \u201cwellness\u201d industry, promoted for everything from athletic performance to skin care, mental focus, and \u201cromantic connection\u201d\u2014the latter pitched by a startup called Feel Peptides.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/fda-peptides-endorse-trump-e7690edd?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-05T06:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "How Much Could $1,000 Invested in Viking Therapeutics Be Worth by 2030?",
+                "summary": "This biotech might have a bright future, but it'll need to survive against the incumbents to do so.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/05/how-much-could-1000-invested-in-viking-therapeutic/",
+                "publishDate": "2026-07-05T05:25:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Is Viking Therapeutics Stock Going to $50? Here's What the Bulls and Bears Are Saying",
+                "summary": "The stock is known to soar on good news.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/04/is-viking-therapeutics-stock-going-to-50-heres-wha/",
+                "publishDate": "2026-07-04T09:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Johnson & Johnson Is Walking Away From a $100 Billion Obesity Market. Could That Actually Make It the Better Long-Term Buy Than Eli Lilly?",
+                "summary": "Johnson & Johnson doesn't need GLP-1 drugs to grow, and that's good news for long-term investors.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/03/johnson-johnson-is-walking-away-from-a-100-billion/",
+                "publishDate": "2026-07-04T01:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NVO) Stock May Be 48% Undervalued On Medicare GLP 1 Coverage",
                 "summary": "Novo Nordisk stock has delivered a decline of 32.7% over the past three years, yet current valuation work, including a Discounted Cash Flow (DCF) intrinsic value estimate and market multiple checks, both point to the shares trading at a discount to what the business may be worth. The three-year return of 32.7% down raises the question of whether sentiment has moved further than the underlying value of Novo Nordisk. Medicare\u2019s decision to cover certain GLP-1 weight loss drugs and growing use...",
@@ -89,46 +129,6 @@
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-center-fast-101905395.html",
                 "publishDate": "2026-07-03T10:19:05Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Stock Looks Undervalued As Broader Checks Stay Supportive",
-                "summary": "Novo Nordisk stock has given investors a mixed ride over the past few years, with a 36.1% gain over 5 years but weaker recent returns, and the valuation checks now suggest the shares may lean cheap rather than fully priced in. Over the last 5 years, Novo Nordisk has returned 36.1%, which points to a longer term story that still created value even though shorter term performance has been more muted. Recent headlines around Medicare\u2019s GLP-1 Bridge program and expanding cardiometabolic research...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-101826775.html",
-                "publishDate": "2026-07-03T10:18:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Microsoft launches Microsoft Frontier Company with $2.5bn investment",
-                "summary": "The new company will focus on integrating enterprise AI, offering tailored support and protecting client data and intellectual property.",
-                "source": "Verdict",
-                "category": "finance",
-                "url": "https://www.verdict.co.uk/microsoft-launches-microsoft-frontier-company/",
-                "publishDate": "2026-07-03T07:55:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "MSFT Stock Alert: Microsoft Invests $2.5 Billion in AI Implementation Unit",
-                "summary": "Microsoft shares soar as the behemoth announces a $2.5 billion investment in a new initiative, Microsoft Frontier Co. But does that warrant buying MSFT stock today?",
-                "source": "Barchart",
-                "category": "finance",
-                "url": "https://www.barchart.com/story/news/3106223/msft-stock-alert-microsoft-invests-2-5-billion-in-ai-implementation-unit",
-                "publishDate": "2026-07-02T20:24:53Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Microsoft Invests $2.5 Billion in New AI Implementation Business",
-                "summary": "Microsoft (MSFT) is launching a new business unit with a $2.5 billion investment that will help clie",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-invests-2-5-billion-192515066.html",
-                "publishDate": "2026-07-02T19:25:15Z",
-                "premium": true,
                 "freemium": false
             }
         ],
