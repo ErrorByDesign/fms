@@ -1,0 +1,31 @@
+{
+    "info": [
+        "regularMarketPrice",
+        "country",
+        "exchange",
+        "fullExchangeName",
+        "industry",
+        "longName",
+        "sector",
+        "symbol",
+        "website",
+        "keyFacts",
+        "longBusinessSummary",
+        "dateFounded",
+        "regularMarketChangePercent",
+        "latestImpliedValuation",
+        "marketCap",
+        "fiftyTwoWeekHigh",
+        "fiftyTwoWeekLow",
+        "targetMeanPrice",
+        "fundingToDate",
+        "latestAmountRaised",
+        "latestFundingDate",
+        "latestShareClass",
+        "leadInvestor",
+        "totalFundingRounds",
+        "numberOfAnalystOpinions",
+        "recommendationKey",
+        "recommendationMean"
+    ]
+}

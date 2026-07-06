@@ -1,0 +1,11 @@
+{
+    "TICKER_SYMBOL": {
+        "YYYY-MM-ddT04:00:00.000Z": {
+            "close": null,
+            "high": null,
+            "low": null,
+            "open": null,
+            "volume": null
+        }
+    }
+}

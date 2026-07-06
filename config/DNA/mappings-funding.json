@@ -1,0 +1,19 @@
+{
+    "AVANTAGE": {
+        "PRIVATE": {},
+        "PUBLIC": {}
+    },
+    "YFINANCE": {
+        "PRIVATE": {
+            "FUNDING": {
+                "fundingToDate": "info.fundingToDate",
+                "latestAmountRaised": "info.latestAmountRaised",
+                "latestFundingDate": "info.latestFundingDate",
+                "latestShareClass": "info.latestShareClass",
+                "leadInvestor": "info.leadInvestor",
+                "totalFundingRounds": "info.totalFundingRounds"
+            }
+        },
+        "PUBLIC": {}
+    }
+}

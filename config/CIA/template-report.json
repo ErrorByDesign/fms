@@ -1,0 +1,20 @@
+{
+    "PORTFOLIO": {
+        "scorePtf": null,
+        "scorePlc": null,
+        "scorePvt": null,
+        "countPtf": null,
+        "countPlc": null,
+        "countPvt": null,
+        "leafNodesPtf": null,
+        "leafNodesPlc": null,
+        "leafNodesPvt": null,
+        "timestamp": "YYYY-MM-ddTHH:mm:ssZ",
+        "epoch": null
+    },
+    "TICKER_SYMBOL": {
+        "corrupt": null,
+        "score": null,
+        "epoch": null
+    }
+}

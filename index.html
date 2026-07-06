@@ -3,126 +3,189 @@
 
     <head>
         <!-- METADATA -->
-        <meta charset="UTF-8" />
+        <meta charset="UTF-8">
 
         <!-- VIEWPORT -->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         <!-- TITLE -->
-        <title>FMS LIVE</title>
+        <title>FMS Live</title>
 
         <!-- LINK: GOOGLE API -->
-        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani&family=Inconsolata:wght@100;200;300;400;500;600;700;800;900&display=swap" />
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Share+Tech+Mono&family=Rajdhani&family=Inconsolata:wght@100;200;300;400;500;600;700;800;900&display=swap">
 
-        <!-- LINK: CSS STYLE -->
-        <link rel="stylesheet" href="style.css" />
+        <!-- LINK: CSS STYLES -->
+        <link rel="stylesheet" href="style.css">
+
     </head>
 
     <body>
 
         <!-- PASSWORD GATE -->
-        <div id="gate" class="gate">
-            <h2>&#9632; Access Required</h2>
-            <input type="password" id="pwd" placeholder="enter password" />
-            <button onclick="checkPwd()">Enter</button>
-            <div class="error" id="err"></div>
+        <div id="box-gate" class="box-gate">
+            <h2 id="gate-title" class="gate-title     anim-fade in">&#9632; Access Required</h2>
+            <input  id="input-password" class="gate-inp-password     anim-fade in" type="password" placeholder="enter password"/>
+            <button id="button-password" class="gate-btn-password     anim-fade in">Enter</button>
+            <div id="gate-message" class="gate-message"></div>
         </div>
 
         <!-- MAIN CONTENT -->
-        <div id="content" class="content">
+        <div id="content" class="anim-fade     hidden">
 
             <!-- SECTION: TITLE -->
-            <div class="app">
-                <h1>Xerxes <span>FMS</span></h1>
-                <span id="date" class="app-date">—</span>
+            <div class="box-app">
+                <!-- DEVELOPER OPTIONS: PRIMARY -->
+                <button id="button-developer-options" class="btn-devops" type="button">
+                    <!-- DEVELOPER OPTIONS PRIMARY: TEXT -->
+                    <h1 id="text-developer-options-xerxes" class="txt-devops-xerxes">xerxes <span id="text-developer-options-fms" class="txt-devops-fms">FMS</span></h1>
+                </button>
+                <!-- DATE -->
+                <span id="date" class="date">—</span>
             </div>
 
-            <!-- SECTION: ERROR -->
-            <div id="load-error" class="load-error" style="display: none">⚠ could not load data</div>
+            <!-- SECTION: ERROR MESSAGES-->
+            <div id="overlay-box-application" class="overlay-boxapp">
+                <div id="box-application-message" class="box-app-message     anim-fade     hidden">
+                    <div class="msg-toprow">
+                        <div class="app-message">
+                            <span id="message-icon" class="msg-icon     bg-none">—</span>
+                            <span id="message-type" class="msg-type     bg-none">—</span>
+                        </div>
+                        <span id="message-button" class="msg-button     bg-none">❌</span>
+                    </div>
+                    <div id="message-text" class="msg-body     bg-none">⚠ could not load data</div>
+                </div>
+            </div>
 
-            <!-- SECTION: MENU -->
-            <div class="menu-select">
-                <select id="ticker-select" class="input-select freeze-left clickable" onchange="switchTicker(this.value)"></select>
-                <span class="divider">|</span>
-                <span id="name" class="overflow-child">—</span>
-            </div><br/>
+            <!-- SECTION: NAVIGATION BAR & DEVELOPER OPTIONS -->
+            <div class="box-devbar">
+                <!-- CONTAINER: DEVELOPER OPTIONS AND NAVIGATION BAR -->
+                <div class="box-devops-navbar">
+                    <!-- STACK-LEFT: SELECT COMPANY & SEARCH COMPANY -->
+                    <span class="dvdr-l">|[</span>
+                    <div class="stack-container">
+                        <!-- SELECT COMPANY -->
+                        <select id="select-navigation-bar-company"  class="sel-navbar-company     freeze-left     stack-bottom     anim-fade in"></select>
+                        <!-- SEARCH COMPANY -->
+                        <button id="button-developer-options-search" class="btn-devops-search     stack-top     anim-fade     hidden" disabled>—</button>
+                    </div>
 
+                    <!-- DIVIDER: ANIMATE -->
+                    <span class="dvdr-ml">]</span><span class="dvdr-mc">|</span><span class="dvdr-mr">[</span>
+
+                    <!-- STACK-RIGHT: SELECT COMPANY & INPUT COMPANY -->
+                    <div class="stack-container-flex">
+                        <!-- DEVELOPER OPTIONS COMPANY BUTTON & SELECT COMPANY TEXT -->
+                        <div id="button-developer-options-company" class="btn-devops-company     stack-bottom     overflow" disabled role="button" tabindex="0">
+                            <span id="text-developer-options-company" class="txt-devops-company     anim-fade in">—</span>
+                        </div>
+                        <!-- INPUT COMPANY -->
+                        <input id="input-developer-options-company" class="inp-devops-company     stack-top     anim-fade     hidden" disabled>
+                    </div>
+                    <span class="dvdr-r">]|</span>
+                </div>
+            </div>
+
+            <br>
             <!-- SECTION: MARKET UPDATE -->
-            <details open>
-                <summary class="summary indent nomarker">MARKET UPDATE</summary>
-                <div class="grid row">
-                    <!-- MARKET PRICE -->
-                    <div id="card-price" class="card clickable">
-                        <div class="card-label">MARKET</div>
-                        <div class="card-value">
-                            <span id="price">—</span>
-                            <span id="change-pct" class="badge">—</span>
+            <details id="details-market-update" open><summary class="summary indent nomarker">MARKET UPDATE</summary>
+
+                <div class="grid mgn-TrBl">
+                    <!-- MARKET PRICE AND PERCENTAGE CHANGE -->
+                    <div id="button-developer-options-price" class="card     anim-card" disabled>
+                        <div class="text-label">MARKET PRICE</div>
+                        <!-- MARKET PRICE AND PERCENTAGE CHANGE -->
+                        <div id="box-developer-options-text" class="flex-row     text-value">
+                            <!-- STACK: MARKET PRICE & DEVELOPER OPTIONS PRICE INPUT -->
+                            <div class="stack-container">
+                                <!-- MARKET PRICE -->
+                                <div id="box-developer-options-price" class="stack-bottom     anim-fade in">
+                                    <span id="text-developer-options-price" class="txt-devops-price">—</span>
+                                    <span id="percent-change" class="text-badge">—</span>
+                                </div>
+                                <!-- DEVELOOER OPTIONS PRICE INPUT -->
+                                <input id="input-developer-options-price" class="inp-devops-price     stack-top     anim-fade hidden">
+                            </div>
+                            <!-- PERCENTAGE CHANGE -->
                         </div>
                     </div>
-                    <!-- BID PRICE -->
+                    <!-- BID PRICE AND BLOCKAGE DISCOUNT -->
                     <div class="card">
-                        <div class="card-label">
+                        <!-- BLOCKAGE DISCOUNT -->
+                        <div class="text-label">
                             <span>BID</span>
-                            <span id="bid-pct">—</span>
+                            <span id="blockage-discount">—</span>
                         </div>
-                        <div class="card-value">
-                            <span id="bid">—</span>
-                        </div>
-                    </div>
-                    <!-- MINIMUM SELL PRICE -->
-                    <div id="card-min" class="card clickable" onclick="setMode('low')">
-                        <div class="card-label">
-                            <span id="sell-min-label" class="sell-label">MINIMUM SELL</span>
-                            <span id="sell-min-pct" class="profit-min">—</span>
-                        </div>
-                        <div class="card-value">
-                            <span id="sell-min" class="profit-min">—</span>
+                        <!-- BID PRICE -->
+                        <div class="text-value">
+                            <span id="bid-price">—</span>
                         </div>
                     </div>
-                    <!-- MAXIMUM SELL PRICE -->
-                    <div id="card-max" class="card clickable active" onclick="setMode('high')">
-                        <div class="card-label">
-                            <span id="sell-max-label" class="sell-label">MAXIMUM SELL</span>
-                            <span id="sell-max-pct" class="profit-max">—</span>
+                    <!-- MINIMUM SELL PRICE AND PERCENTAGE -->
+                    <div id="button-sell-minimum" class="btn-sellmin     card     anim-card"     disabled>
+                        <!-- MINIMUM SELL PERCENTAGE -->
+                        <div class="text-label">
+                            <span id="label-sell-minimum" class="anim-lbl-sellmix">MINIMUM SELL</span>
+                            <span id="label-sell-minimum-value" class="anim-val-sellmin">—</span>
                         </div>
-                        <div class="card-value">
-                            <span id="sell-max" class="profit-max">—</span>
+                        <!-- MINIMUM SELL PRICE -->
+                        <div class="text-value">
+                            <span id="value-sell-minimum" class="anim-val-sellmin">—</span>
+                        </div>
+                    </div>
+                    <!-- MAXIMUM SELL PRICE AND PERCENTAGE -->
+                    <div id="button-sell-maximum" class="btn-sellmax     card     anim-card     active">
+                        <!-- MAXIMUM SELL PERCENTAGE -->
+                        <div class="text-label">
+                            <span id="label-sell-maximum" class="anim-lbl-sellmix     active">MAXIMUM SELL</span>
+                            <span id="label-sell-maximum-value" class="anim-val-sellmax     active">—</span>
+                        </div>
+                        <!-- MAXIMUM SELL PRICE -->
+                        <div class="text-value">
+                            <span id="value-sell-maximum" class="anim-val-sellmax     active">—</span>
                         </div>
                     </div>
                 </div>
+
             </details>
 
-            <!-- SECTION: PRICE TABLE -->
-            <details open><summary class="summary indent nomarker">PRICE TABLE</summary>
-                <!-- TABLE WRAPPER -->
+            <!-- DETAILS: PRICE TABLE -->
+            <details id="details-table-price" open><summary class="summary indent nomarker">PRICE TABLE</summary>
+                <!-- WRAPPER: PRICE TABLE -->
                 <div class="table-wrap">
-                    <!-- TABLE: PRICE -->
-                    <table id="table-price" class="table scrollable">
+                    <!-- TABLE -->
+                    <table id="table-price" class="table     scrollable">
                         <!-- TABLE: HEAD -->
-                        <thead id="thead-price" class="thead">
+                        <thead>
+                            <!-- TABLE HEAD: ROW -->
                             <tr class="tr-head">
-                                <th id="th-btn-blocks" class="th-price-left freeze-col-l clickable-small" onclick="toggleFrozenL()"><pre>BLOCKS </pre></th>
-                                <th class="th-price"><pre>COST   </pre></th>
-                                <th class="th-price"><pre>COMMS  </pre></th>
-                                <th class="th-price"><pre>TOTAL  </pre></th>
-                                <th class="th-price"><pre>SELL   </pre></th>
-                                <th id="th-btn-profit" class="th-price-right freeze-col-r clickable-small" onclick="toggleFrozenR()"><pre>PROFIT </pre></th>
+                                <!-- TABLE HEAD ROW: CELLS -->
+                                <th id="button-freeze-blocks" class="tbl-col-price     anim-freeze-col-L" data-header-text="BLOCKS "><pre>BLOCKS </pre></th>
+                                <th                           class="tbl-col-price"><pre>COST   </pre></th>
+                                <th                           class="tbl-col-price"><pre>COMMS  </pre></th>
+                                <th                           class="tbl-col-price"><pre>TOTAL  </pre></th>
+                                <th                           class="tbl-col-price"><pre>SELL   </pre></th>
+                                <th id="button-freeze-profit" class="tbl-col-price     anim-freeze-col-R" data-header-text="PROFIT "><pre>PROFIT </pre></th>
                             </tr>
                         </thead>
+                        <!-- TABLE BODY -->
                         <tbody id="tbody-price" class="tbody"></tbody>
                     </table>
                 </div>
+
             </details>
 
-            <!-- SECTION: SETTINGS TABLE -->
-            <details id="details-settings"><summary class="summary indent nomarker">SETTINGS</summary>
-                <!-- TABLE WRAPPER -->
+            <!-- DETAILS: SETTINGS TABLE -->
+            <details id="details-table-settings"><summary class="summary indent nomarker">SETTINGS</summary>
+                <!-- WRAPPER: SETTINGS TABLE -->
                 <div class="table-wrap">
-                    <!-- TABLE: SETTINGS -->
+                    <!-- TABLE -->
                     <table id="table-settings" class="table">
-                        <!-- TABLE: HEAD -->
-                        <thead id="thead-settings" class="thead">
+                        <!-- TABLE HEAD -->
+                        <thead>
+                            <!-- TABLE HEAD: ROW -->
                             <tr class="tr-head">
+                                <!-- TABLE HEAD ROW: CELLS -->
                                 <th class="th-settings-left"></th>
                                 <th class="th-settings"><pre>BID</pre></th>
                                 <th class="th-settings"><pre>FEE</pre></th>
@@ -130,137 +193,125 @@
                                 <th class="th-settings"><pre>MAX</pre></th>
                             </tr>
                         </thead>
+                        <!-- TABLE: BODY -->
                         <tbody id="tbody-settings" class="tbody">
-                            <tr id="tr-body-default" class="tr-body-settings enabled">
-                                <td id="td-btn-default" class="td-btn enabled clickable-small" onclick="setSettings(true)">DEFAULT </td>
-                                <td id="td-A1" class="td-settings td-A">—</td>
-                                <td id="td-B1" class="td-settings td-B">—</td>
-                                <td id="td-C1" class="td-settings td-C profit-min">—</td>
-                                <td id="td-D1" class="td-settings td-D profit-max">—</td>
+                            <!-- TABLE BODY: ROW 1 -->
+                            <tr id="tr-body-default" class="tr-body-settings     enabled">
+                                <!-- TABLE BODY ROW 1: CELLS -->
+                                <td id="button-settings-default" class="tds-btn     enabled" onclick="setSettings(true)">DEFAULT </td>
+                                <td id="td-A1" class="tds-A">—</td>
+                                <td id="td-B1" class="tds-B">—</td>
+                                <td id="td-C1" class="tds-C     anim-pmin">—</td>
+                                <td id="td-D1" class="tds-D     anim-pmax">—</td>
                             </tr>
+                            <!-- TABLE BODY: ROW 2 -->
                             <tr id="tr-body-modified" class="tr-body-settings">
-                                <td id="td-btn-modified" class="td-btn clickable-small" onclick="setSettings(false)">MODIFIED</td>
-                                <td id="td-A2" class="td-settings td-A">—</td>
-                                <td id="td-B2" class="td-settings td-B">—</td>
-                                <td id="td-C2" class="td-settings td-C profit-min">—</td>
-                                <td id="td-D2" class="td-settings td-D profit-max">—</td>
+                                <!-- TABLE BODY ROW 2: CELLS -->
+                                <td id="button-settings-modified" class="tds-btn" onclick="setSettings(false)">MODIFIED</td>
+                                <td id="td-A2" class="tds-A">—</td>
+                                <td id="td-B2" class="tds-B">—</td>
+                                <td id="td-C2" class="tds-C     anim-pmin">—</td>
+                                <td id="td-D2" class="tds-D     anim-pmax">—</td>
                             </tr>
                         </tbody>
                     </table>
                 </div>
+
             </details>
 
-            <!-- SECTION: COMPANY OVERVIEW -->
-            <details id="details-info">
-                <summary class="summary indent nomarker">
-                    COMPANY OVERVIEW
-                </summary>
-
-                <!-- ROW: NAME -->
-                <div class="row">
-                    <div class="card overflow-parent">
-                        <div class="card-label">COMPANY NAME</div>
-                        <div class="card-value overflow-child">
-                            <span id="info-name">—</span>
+            <!-- DETAILS: COMPANY OVERVIEW -->
+            <details id="details-company-overview">p<summary class="summary indent nomarker">COMPANY OVERVIEW</summary>
+                <!-- INFORMATION: ROW -->
+                <div class="mgn-TrBl">
+                    <!-- COMPANY NAME -->
+                    <div class="card">
+                        <div class="text-label">COMPANY NAME</div>
+                        <div class="overflow">
+                            <span id="info-company" class="text-value">—</span>
                         </div>
                     </div>
                 </div>
-
-                <!-- GRID: INFORMATION -->
+                <!-- INFORMATION: GRID -->
                 <div class="grid">
+                    <!-- TICKER -->
                     <div class="card">
-                        <div class="card-label">TICKER SYMBOL</div>
-                        <div class="card-value">
-                            <span id="info-ticker">—</span>
-                        </div>
+                        <div class="text-label">TICKER SYMBOL</div>
+                        <span id="info-ticker" class="text-value">—</span>
                     </div>
+                    <!-- EXCHANGE -->
                     <div class="card">
-                        <div class="card-label">EXCHANGE</div>
-                        <div class="card-value">
-                            <span id="info-exchange">—</span>
-                        </div>
+                        <div class="text-label">EXCHANGE</div>
+                        <span id="info-exchange" class="text-value">—</span>
                     </div>
-                    <div class="card overflow-parent">
-                        <div class="card-label">INDUSTRY</div>
-                        <div class="card-value overflow-child">
-                            <span id="info-industry">—</span>
-                        </div>
-                    </div>
-                    <div class="card overflow-parent">
-                        <div class="card-label">SECTOR</div>
-                        <div class="card-value overflow-child">
-                            <span id="info-sector">—</span>
-                        </div>
-                    </div>
+                    <!-- INDUSTRY -->
                     <div class="card">
-                        <div class="card-label">COUNTRY</div>
-                        <div class="card-value">
-                            <span id="info-country">—</span>
+                        <div class="text-label">INDUSTRY</div>
+                        <div class="overflow">
+                            <span id="info-industry" class="text-value">—</span>
                         </div>
                     </div>
+                    <!-- SECTOR -->
                     <div class="card">
-                        <div class="card-label">YEAR</div>
-                        <div class="card-value">
-                            <span id="info-year">—</span>
+                        <div class="text-label">SECTOR</div>
+                        <div class="overflow">
+                            <span id="info-sector" class="text-value">—</span>
                         </div>
                     </div>
+                    <!-- COUNTRY -->
                     <div class="card">
-                        <div class="card-label">WEBSITE</div>
-                        <div class="card-value">
-                            <a id="info-website" class="card-value" href=""
-                                >—</a
-                            >
+                        <div class="text-label">COUNTRY</div>
+                        <div class="overflow">
+                            <span id="info-country" class="text-value">—</span>
                         </div>
                     </div>
+                    <!-- YEAR -->
                     <div class="card">
-                        <div class="card-label">MARKET CAPITALIZATION</div>
-                        <div class="card-value">
-                            <span id="info-marketCap">—</span>
-                        </div>
+                        <div class="text-label">YEAR</div>
+                        <span id="info-year" class="text-value">—</span>
                     </div>
-                    <div class="card">
-                        <div class="card-label">52 WEEK LOW</div>
-                        <div class="card-value">
-                            <span id="info-weekLow">—</span>
+                    <!-- WEBSITE -->
+                    <a class="card link" href="#">
+                        <div class="text-label">WEBSITE</div>
+                        <div class="overflow">
+                            <span id="info-website" class="text-value">—</span>
                         </div>
+                    </a>
+                    <!-- MARKET CAPITALIZATION -->
+                    <div class="card">
+                        <div class="text-label">MARKET CAPITALIZATION</div>
+                        <span id="market-capitalization" class="text-value">—</span>
                     </div>
+                    <!-- 52 WEEK LOW -->
                     <div class="card">
-                        <div class="card-label">52 WEEK HIGH</div>
-                        <div class="card-value">
-                            <span id="info-weekHigh">—</span>
-                        </div>
+                        <div class="text-label">52 WEEK LOW</div>
+                        <span id="week-low" class="text-value">—</span>
+                    </div>
+                    <!-- 52 WEEK HIGH -->
+                    <div class="card">
+                        <div class="text-label">52 WEEK HIGH</div>
+                        <span id="week-high" class="text-value">—</span>
                     </div>
                 </div>
-
-                <!-- PARAGRAPH: DESCRIPTION -->
-                <div class="row">
-                    <div
-                        id="card-desc"
-                        class="card clickable-large"
-                        onclick="toggleDesc()"
-                    >
-                        <div class="card-label">COMPANY DESCRIPTION</div>
-                        <div class="card-value">
-                            <p id="info-desc" class="text-body">—</p>
-                        </div>
+                <!-- INFORMATION: ROW -->
+                <div class="mgn-TrBl">
+                    <!-- DESCRIPTION -->
+                    <div id="button-description" class="card     anim-card" role="button" tabindex="0">
+                        <div class="text-label">COMPANY DESCRIPTION</div>
+                        <p id="info-description" class="text-value paragraph     anim-text">—</p>
                     </div>
                 </div>
             </details>
 
             <!-- SECTION: NEWS -->
-            <details id="details-news">
-                <summary class="summary indent nomarker">NEWS</summary>
-
+            <details id="details-news-feed"><summary class="summary indent nomarker">NEWS</summary>
                 <!-- FILTER BUTTONS -->
-                <div id="news-filters" class="news-filter-row row">
-                    <div id="filter-all"     class="news-filter-btn clickable-small active" onclick="setNewsFilter('all')">ALL NEWS</div>
-                    <div id="filter-public"  class="news-filter-btn clickable-small"        onclick="setNewsFilter('public')"> PUBLIC </div>
-                    <div id="filter-premium" class="news-filter-btn clickable-small"        onclick="setNewsFilter('premium')">PREMIUM </div>
+                <div id="box-button-filters" class="mgn-TrBl">
+                    <div id="button-filter-all"     class="btn-filter     active" onclick="setNewsFilter('all')">ALL NEWS</div>
+                    <div id="button-filter-public"  class="btn-filter"            onclick="setNewsFilter('public')"> PUBLIC </div>
+                    <div id="button-filter-premium" class="btn-filter"            onclick="setNewsFilter('premium')">PREMIUM </div>
                 </div>
-
                 <!-- NEWS FEED -->
-                <div id="news-feed" class="news-feed"></div>
-
+                <div id="box-news-feed" class="box-newsfeed"></div>
             </details>
 
         </div>

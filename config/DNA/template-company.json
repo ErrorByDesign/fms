@@ -1,0 +1,16 @@
+{
+    "TICKER_SYMBOL": {
+        "COMPANY": {
+            "country": "",
+            "exchange": "",
+            "industry": "",
+            "name": "",
+            "sector": "",
+            "ticker": "",
+            "website": "",
+            "description": "",
+            "facts[]": [],
+            "year": ""
+        }
+    }
+}

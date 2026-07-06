@@ -1,0 +1,11 @@
+{
+    "TICKER_SYMBOL": {
+        "FINANCE": {
+            "change": null,
+            "marketCap": null,
+            "weekHigh": null,
+            "weekLow": null,
+            "yearTarget": null
+        }
+    }
+}

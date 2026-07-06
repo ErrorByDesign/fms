@@ -1,0 +1,179 @@
+{
+    "Rich.Table": {
+        "signature": "Table(*headers, title=None, caption=None, width=None, min_width=None, box=None, safe_box=None, padding=(0, 1), collapse_padding=False, pad_edge=True, expand=False, show_header=True, show_footer=False, show_edge=True, show_lines=False, leading=0, style='none', row_styles=None, header_style='table.header', footer_style='table.footer', border_style=None, title_style=None, caption_style=None, title_justify='center', caption_justify='center', highlight=False)",
+        "description": "A console renderable that draws tabular data with optional borders, headers, footers, and per-column styling.[reference:5]",
+        "parameters": {
+            "*headers": {
+                "type": "Union[Column, str]",
+                "default": "—",
+                "kind": "positional",
+                "description": "Column headers passed positionally. Strings create a default Column; Column instances are used directly.[reference:6]"
+            },
+            "title": {
+                "type": "Optional[TextType]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Text rendered above the table.[reference:7]"
+            },
+            "caption": {
+                "type": "Optional[TextType]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Text rendered below the table.[reference:8]"
+            },
+            "width": {
+                "type": "Optional[int]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Fixed total width in characters. Setting this implies expand=True.[reference:9]"
+            },
+            "min_width": {
+                "type": "Optional[int]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Minimum total width in characters.[reference:10]"
+            },
+            "box": {
+                "type": "Optional[box.Box]",
+                "default": "box.HEAVY_HEAD",
+                "kind": "keyword-only",
+                "description": "Box drawing style for the table grid. Set to None to remove all box characters.[reference:11]"
+            },
+            "safe_box": {
+                "type": "Optional[bool]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "If True, replaces box characters that are unsafe on legacy Windows terminals.[reference:12]"
+            },
+            "padding": {
+                "type": "PaddingDimensions",
+                "default": "(0, 1)",
+                "kind": "keyword-only",
+                "description": "Cell padding in CSS-style: 1, 2, or 4 integers (top, right, bottom, left).[reference:13]"
+            },
+            "collapse_padding": {
+                "type": "bool",
+                "default": "False",
+                "kind": "keyword-only",
+                "description": "If True, merges adjacent padding between cells.[reference:14]"
+            },
+            "pad_edge": {
+                "type": "bool",
+                "default": "True",
+                "kind": "keyword-only",
+                "description": "If True, applies padding to the leftmost and rightmost columns.[reference:15]"
+            },
+            "expand": {
+                "type": "bool",
+                "default": "False",
+                "kind": "keyword-only",
+                "description": "If True, stretches the table to fill the available width.[reference:16]"
+            },
+            "show_header": {
+                "type": "bool",
+                "default": "True",
+                "kind": "keyword-only",
+                "description": "If True, renders the header row.[reference:17]"
+            },
+            "show_footer": {
+                "type": "bool",
+                "default": "False",
+                "kind": "keyword-only",
+                "description": "If True, renders the footer row.[reference:18]"
+            },
+            "show_edge": {
+                "type": "bool",
+                "default": "True",
+                "kind": "keyword-only",
+                "description": "If True, renders the outer border.[reference:19]"
+            },
+            "show_lines": {
+                "type": "bool",
+                "default": "False",
+                "kind": "keyword-only",
+                "description": "If True, draws horizontal lines between every data row.[reference:20]"
+            },
+            "leading": {
+                "type": "int",
+                "default": "0",
+                "kind": "keyword-only",
+                "description": "Number of blank lines between rows. Takes precedence over show_lines.[reference:21]"
+            },
+            "style": {
+                "type": "StyleType",
+                "default": "'none'",
+                "kind": "keyword-only",
+                "description": "Default style applied to the entire table.[reference:22]"
+            },
+            "row_styles": {
+                "type": "Optional[Iterable[StyleType]]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Alternating row styles applied in order for striped rows.[reference:23]"
+            },
+            "header_style": {
+                "type": "Optional[StyleType]",
+                "default": "'table.header'",
+                "kind": "keyword-only",
+                "description": "Style for the header row.[reference:24]"
+            },
+            "footer_style": {
+                "type": "Optional[StyleType]",
+                "default": "'table.footer'",
+                "kind": "keyword-only",
+                "description": "Style for the footer row.[reference:25]"
+            },
+            "border_style": {
+                "type": "Optional[StyleType]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Style applied to box-drawing characters.[reference:26]"
+            },
+            "title_style": {
+                "type": "Optional[StyleType]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Style for the title text. Falls back to 'table.title'.[reference:27]"
+            },
+            "caption_style": {
+                "type": "Optional[StyleType]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Style for the caption text. Falls back to 'table.caption'.[reference:28]"
+            },
+            "title_justify": {
+                "type": "JustifyMethod",
+                "default": "'center'",
+                "kind": "keyword-only",
+                "description": "Justification for the title (left, center, right, or full).[reference:29]"
+            },
+            "caption_justify": {
+                "type": "JustifyMethod",
+                "default": "'center'",
+                "kind": "keyword-only",
+                "description": "Justification for the caption.[reference:30]"
+            },
+            "highlight": {
+                "type": "bool",
+                "default": "False",
+                "kind": "keyword-only",
+                "description": "If True, applies the console highlighter to string cell contents.[reference:31]"
+            }
+        },
+        "methods": {
+            "add_column": {
+                "signature": "add_column(header, *, footer=None, style=None, justify='left', vertical='top', overflow='ellipsis', width=None, min_width=None, max_width=None, ratio=None, no_wrap=False, highlight=False)",
+                "description": "Adds a column to the table with the given header and optional styling.[reference:32]"
+            },
+            "add_row": {
+                "signature": "add_row(*cells, style=None)",
+                "description": "Adds a row of cells to the table. Cells can be any RenderableType.[reference:33]"
+            },
+            "grid": {
+                "signature": "grid(*headers, padding=0, collapse_padding=True, pad_edge=False, expand=False) -> Table",
+                "description": "Alternative constructor that returns a table pre-configured as a grid (no headers, borders, or padding).[reference:34]"
+            }
+        },
+        "return_type": "Table"
+    }
+}

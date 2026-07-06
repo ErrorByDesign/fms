@@ -1,324 +1,391 @@
 #!/usr/bin/env python3
-# =================================================
-# X E R X E S   M A I N   P Y T H O N   S C R I P T
-# ===========
-import json
+# === === === === === === === === === === === === ===
+# =<< F M S   T E R M I N A L :   M A I N • p y
+# === === === === ===
+
+# -< IMPORTS
 import os
-import random
 import subprocess
 import sys
 import time
-
-from datetime import date
 from pathlib import Path
-from rich.align import Align
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+
+# -< IMPORTS: LOCAL
+import config.devops as dev
+import scripts.config.breadcrumbs as crumb
+import scripts.config.colors as color
+import scripts.config.globals as glob
+import scripts.config.introduction as intro
+import scripts.config.input as inp
+import scripts.config.ui as ui
+import scripts.config.utils as util
+import scripts.lib.structure as struct
+import scripts.lib.verifier as verify
+
+# -< IMPORTS: RICH
 from rich.console import Console
-from rich.panel import Panel
 from rich.prompt import IntPrompt, Confirm
-from rich.progress import Progress, SpinnerColumn, TextColumn, BarColumn, TimeElapsedColumn
-from rich.text import Text
-
-from scripts.lib.verifier import verify_stock
-
 console = Console()
-cw = console.width
 
-# CONFIG
-# ------
-LIBRARY_DIR        = Path("./scripts/lib")
-MODULES_DIR        = Path("./modules")
-SCRIPTS_DIR        = Path("./scripts")
-DOCUMENTATION_FILE = Path("./documentation/wiki.json")
-OPERATIONS_FILE    = Path("./modules/operations.py")
-PORTFOLIO_FILE     = Path("./data/portfolio.json")
+# =<< PATHS
+PATH_INCUBATOR  = Path("./scripts/incubator.py")
+PATH_MERGER     = Path("./scripts/lib/merger.py")
+PATH_OPERATIONS = Path("./modules/operations.py")
+PATH_PORTFOLIO  = Path("./data/portfolio.json")
+PATH_WIKI       = Path("./documentation/wiki.json")
 
-# BANNERS
-# -------
-BANNERS = [
-    ":: F I N A N C I A L ::: M O D E L I N G ::: S H E L L ::\n:: ::: ::: ::: ::: O P E R A T I O N S ::: ::: ::: ::: ::\n\n\n",
-    "═━═━═ XERXES FMS OPERATIONS ═━═━═\n═━═━═ ═━═━═ ═━═━ ━═━═ ═━═━═ ═━═━═\n\n\n",
-    "                          ★ OPERATION XERXES ★                         \n· • THE OPERATIC FINE ANNE SHALL MODEL IN MICHELLE OPERATING TABLE • ·\n\n\n"
-]
+# =<< GLOBALS
+def debug_arg():
+    return ["--debug"] if dev.debug == True else []
 
-BANNER  = random.choice(BANNERS)
 
-# DISPLAY
-# -------
-def show_banner():
-    console.print(f"\n[bold khaki3]{BANNER}[/bold khaki3]\n")
 
-# DESIGN
-# ------
-def fit_to_width(text, pattern, border_pattern, border_width):
-    total_gap = cw - len(text)
-    left_count = (total_gap // 2) - border_width
-    pL = pattern * left_count
-    pR = pattern * ((total_gap - (left_count + border_width)) - border_width)
-    return border_pattern + pL + text + pR + border_pattern
+# -<< UTILITIES
+# --- --- --- --- ---
+def exit_app():
+    while True:
+        ui.show_menu(
+            breadcrumb=crumb.c_exit,
+            options=[
+                ("Y", "EXIT",   color.exit),
+                ("1", "SEARCH", color.mute),
+                ("2", "UPDATE", color.mute),
+                ("3", "CONFIG", color.mute),
+            ],
+            choice=False
+        )
+        if Confirm.ask(f"\n[{color.DOS}] »[/] [{color.back}]Exit program?[/]", default=True, show_default=False):
+            console.print(f"\n[{color.DONE}]Goodbye![/]\n")
+            sys.exit()
+        else:
+            console.print("")
+            main()
 
-# INTRO PAGE
-# ----------
-def intro_page():
-    is_headless      = False
-    portfolio_exists = os.path.exists("./data/portfolio.json")
-    system_ready     = portfolio_exists and os.path.getsize("./data/portfolio.json") > 0
-    heartbeat_stable = system_ready
-    
-    xerxes_str = "M  O  T  H  E  R      P  R  O  J  E  C  T"
-    fms_str = "F I N A N C I A L   M O D E L L E I N G   S H E L L   L i t e"
-    fms_str_mini = "FINANCIAL MODELLING SHELL: Lite"
-
-    # Welcome page globals
-    health_str = ":   ::   :::   H  E  A  L  T  H    S  T  A  B  L  E   :::   ::   :" if heartbeat_stable else "DIAGNOSTICS REQUIRED"
-    online_str = "·   ··   •••   S  Y  S  T  E  M    O  N  L  I  N  E   •••   ··   ·" if system_ready else "DATABASE MISSING"
-    status_color_health = "blink red" if heartbeat_stable else "blink light_coral"
-    status_color_online = "plum3" if system_ready else "bold light_coral"
-    status_msg_health = Text(health_str, style=status_color_health, no_wrap=True)
-    status_msg_online = Text(online_str, style=status_color_online, no_wrap=True)
-
-    text = "|  PRESS ENTER TO ENTER  |"
-    pattern = ":"
-    border_width = 1
-    border_pattern = "|"
-    enter = fit_to_width(text, pattern, border_pattern, border_width)
-    textLen = len(text)
-    text = ("|" + ("⁻" * (textLen - 2)) + "|")
-    paddingT = fit_to_width(text, pattern, border_pattern, border_width)
-    text = ("|" + ("_" * (textLen - 2)) + "|")
-    paddingB = fit_to_width(text, pattern, border_pattern, border_width)
-    top_bottom = ("|" + ("=" * (cw - 2)) + "|")
-    
-    console.print(Panel(
-        Align.center(f"[khaki3]{fms_str_mini if cw < 50 else fms_str}[/]"),
-        title="[coral_green]xerxes[/]",
-        title_align="left",
-        padding=(0,0),
-        border_style="navajo_white1",
-        subtitle="MOTHER—PROJECT",
-        subtitle_align="right"
-    ))
-
-    console.print(f"[misty_rose1]{top_bottom}[/misty_rose1]")
-    console.print((("[bold misty_rose1]|[/bold misty_rose1]" + ("[bold medium_orchid3]:[/bold medium_orchid3]" * (cw - 2))) + "[bold misty_rose1]|[/bold misty_rose1]" + "\n") * 7 + (("[bold misty_rose1]|[/bold misty_rose1]" + ("[bold medium_orchid3]:[/bold medium_orchid3]" * (cw - 2))) + "[bold misty_rose1]|[/bold misty_rose1]"))
-    console.print(Panel(
-        Align.center(f"[{status_color_health}]{status_msg_health}[/]"), 
-        title="[bold misty_rose3]XERXES FINANCIAL MODELLING SHELL OS v2.0[/bold misty_rose3]", 
-        title_align="center",
-        padding=(1, 1),
-        border_style="misty_rose1",
-        subtitle=f"MODE: {'AUTOMATED' if is_headless else 'DIVINE INTERVENTION'}",
-        subtitle_align="right"
-    ))
-    console.print((("[bold misty_rose3]|[/bold misty_rose3]" + ("[bold pale_violet_red1]:[/bold pale_violet_red1]" * (cw - 2))) + "[bold misty_rose3]|[/bold misty_rose3]" + "\n") * 2 + (("[bold misty_rose3]|[/bold misty_rose3]" + ("[bold pale_violet_red1]:[/bold pale_violet_red1]" * (cw - 2))) + "[bold misty_rose3]|[/bold misty_rose3]"))
-    console.print(f"[plum3]{paddingT}[/plum3]")
-    console.print(f"[plum1]{enter}[/plum1]")
-    console.print(f"[plum3]{paddingB}[/plum3]")
-    console.print((("[bold misty_rose3]|[/bold misty_rose3]" + ("[bold pale_violet_red1]:[/bold pale_violet_red1]" * (cw - 2))) + "[bold misty_rose3]|[/bold misty_rose3]" + "\n") * 2 + (("[bold misty_rose3]|[/bold misty_rose3]" + ("[bold pale_violet_red1]:[/bold pale_violet_red1]" * (cw - 2))) + "[bold misty_rose3]|[/bold misty_rose3]"))
-    console.print(Panel(
-        Align.center(status_msg_online), 
-        title="[bold misty_rose3]XERXES CORE[/bold misty_rose3]",
-        title_align="center",
-        padding=(1, 2),
-        border_style="misty_rose1",
-        subtitle=f"LOGIC: {'STABLE' if system_ready else 'CRITICAL FAILURE'}",
-        subtitle_align="right"
-    ))
-    console.print((("[bold misty_rose1]|[/bold misty_rose1]" + ("[bold medium_orchid3]:[/bold medium_orchid3]" * (cw - 2))) + "[bold misty_rose1]|[/bold misty_rose1]" + "\n") * 7 + (("[bold misty_rose1]|[/bold misty_rose1]" + ("[bold medium_orchid3]:[/bold medium_orchid3]" * (cw - 2))) + "[bold misty_rose1]|[/bold misty_rose1]"))
-    console.print(f"[misty_rose1]{top_bottom}[/misty_rose1]")
+def cover():
+    intro.welcome_page()
     input()
+    main()
 
-    main_menu()
-
-# LOAD EXTERNAL DATA
-# ------------------
 def load_wiki():
-    if DOCUMENTATION_FILE.exists():
-        try:
-            with open(DOCUMENTATION_FILE, 'r', encoding='utf-8') as f:
-                return json.load(f)
-        except:
-            return {"DIRECTORY_STRUCTURE.SCRIPTS": {}}
-    return {"DIRECTORY_STRUCTURE.SCRIPTS": {}}
+    return util.load_json(PATH_WIKI) or {"DIRECTORY_STRUCTURE.SCRIPTS": {}}
 
-def get_disp_name(name):
-    return name.replace('incubator.py', 'search').replace('updata.sh', 'update').title().upper()
+def wip_menu():
+    console.print(f"\n[{color.WARN}] ⚠ TO BE IMPLEMENTED[/]")
+    time.sleep(3)
 
-def get_scripts():
-    if not SCRIPTS_DIR.exists():
-        SCRIPTS_DIR.mkdir(parents=True, exist_ok=True)
-        return []
-    return sorted([f.name for f in SCRIPTS_DIR.iterdir() if f.is_file() and f.suffix in ['.py', '.sh']])
 
-# MAIN MENU
-# ---------
-def main_menu():
-    wiki = load_wiki()
-    scripts = get_scripts()
+
+# -<< PROCESSES: Portfolio
+# --- --- --- --- --- --- --- ---
+def run_backup_process(origin="", stock_type="", ticker=""):
+    # Define origin of backup call
+    if origin == "":
+        bc = crumb.c_backup
+        ops = []
+    elif origin in ("--newborn", "--reborn"):
+        bc = crumb.c_backup_preborn(stock_type, ticker)
+        ops = [
+            ("0", "BACK",    color.mute),
+            ("1", "EXECUTE", color.mute),
+            ("2", "INFO",    color.mute),
+        ]
+    elif origin == "--refresh":
+        bc = crumb.c_backup_prefresh
+        ops = [
+            ("0", "BACK",    color.mute),
+            ("1", "EXECUTE", color.mute),
+            ("2", "INFO",    color.mute),            
+        ]
+    elif origin == "--reset":
+        bc = crumb.c_backup_preset
+        ops = [
+            ("0", "BACK",      color.mute),
+            ("1", "PORTFOLIO", color.mute),
+            ("2", "STRUCTURE", color.mute),
+            ("3", "SYS-RESET", color.mute),
+        ]
+    elif origin == "--restructure":
+        bc = crumb.c_backup_prestructure
+        ops = [
+            ("0", "BACK",     color.mute),
+            ("1", "ADD KEYS", color.mute),
+            ("2", "DEL KEYS", color.mute),
+            ("3", "MOD KEYS", color.mute),
+        ]
+    elif origin == "--reportfolio":
+        bc = crumb.c_backup_preportfolio
+        ops = [
+            ("0", "BACK", color.mute),
+            ("1", "TCKR", color.mute),
+            ("2", "TCKR", color.mute),
+        ]
+    else:
+        bc = crumb.c_backup
+        ops = []
+
+    # Determine developer mode state
+    dev_msg = f"[{color.info}][{color.WARN}]Developer mode enabled[/]. Skipping backup.[/]\n" if dev.debug == True else "\n "
+
+    # Display temporary diabled menu
+    ui.show_menu(breadcrumb=bc, options=ops, instruction = dev_msg, choice = False)
+    if dev.debug == True:
+        util.wait_spinner()
+    else:
+        subprocess.run([sys.executable, PATH_OPERATIONS, "--backup"])
+
+def run_newborn_process(ticker, stock_type):
+    run_backup_process("--newborn", stock_type, ticker)
+    subprocess.run([sys.executable, str(PATH_INCUBATOR), stock_type, ticker, "--newborn"] + debug_arg())
+
+def run_reborn_process(ticker, stock_type):
+    run_backup_process("--reborn", stock_type, ticker)
+    subprocess.run([sys.executable, str(PATH_INCUBATOR), stock_type, ticker, "--reborn"] + debug_arg())
+
+def run_refresh_process():
+    run_backup_process("--refresh")
+    subprocess.run([sys.executable, str(PATH_INCUBATOR), "--refresh"] + debug_arg())
+
+def run_reset_process():
+    run_backup_process("--reset")
+    subprocess.run([sys.executable, str(PATH_MERGER), "--reset"] + debug_arg())
+
+# -<< PROCESSES: Structure
+# --- --- --- --- --- --- --- ---
+def run_addkeys_process():
+    run_backup_process("--restructure")
+    struct.structure_add_menu()
+
+def run_delkeys_process():
+    run_backup_process("--restructure")
+    wip_menu()
+
+def run_modkeys_process():
+    run_backup_process("--restructure")
+    wip_menu()
+
+
+
+# =<< MENU: MAIN -> CONFIG -> PORTFOLIO -> TICKER
+# === === === === === === === === === === === ===
+def main_config_portfolio_ticker():
+    wip_menu()
+
+# =<< MENU: MAIN -> CONFIG -> PORTFOLIO
+# === === === === === === === === ===
+def main_config_portfolio():
     while True:
-        console.clear()
-        show_banner()
-        console.print("[misty_rose1][bold]///[light_steel_blue1]MAIN[/light_steel_blue1][/bold][/misty_rose1]\n")
-        if not scripts:
-            console.print("[indian_red1]No scripts found in ./scripts/[/indian_red1]")
-            input("\nPress Enter to exit...")
-            break
-        console.print("0. [light_salmon3]EXIT[/light_salmon3]")
-        for i, script in enumerate(scripts, 1):
-            console.print(f"{i}. [honeydew2]{get_disp_name(script)}[/honeydew2]")
-        console.print()
-        choice = IntPrompt.ask(">_ ", default=0, show_default=False, show_choices=False)
+        choice = ui.show_menu(
+            breadcrumb=crumb.c_main_config_portfolio,
+            options=[
+                ("0", "BACK", color.back),
+                ("1", "TCKR", color.opt1),
+                ("2", "TCKR", color.opt2),
+            ],
+            choice=True,
+            prompt="X"
+        )
         if choice == 0:
-            if Confirm.ask("\n[bold light_salmon3]Exit program?[/bold light_salmon3][pale_turquoise1][y/n][/pale_turquoise1]", default=True, show_default=False):
-                console.print("[pale_turquoise1]\nGoodbye!\n[/pale_turquoise1]")
-                break
-        elif 1 <= choice <= len(scripts):
-            selected_file = scripts[choice - 1]
-            script_menu(selected_file, wiki)
+            return
+        elif choice in (1, 2):
+            main_config_portfolio_ticker()
 
-def script_menu(script_file, wiki):
-    disp_name   = get_disp_name(script_file)
-    script_path = SCRIPTS_DIR / script_file
+# =<< MENU: MAIN -> CONFIG -> STRUCTURE
+# === === === === === === === === ===
+def main_config_structure():
     while True:
-        console.clear()
-        show_banner()
-        console.print(f"[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[/bold][light_steel_blue1]{disp_name}[/light_steel_blue1][/misty_rose1]\n")
-        console.print("0. [light_goldenrod3]BACK[/light_goldenrod3]")
-        console.print("1. [sky_blue1]EXECUTE[/sky_blue1]")
-        console.print("2. [plum3]INFO[/plum3]\n")
-        choice = IntPrompt.ask(">_ ", default=0, show_default=False, show_choices=False)
+        choice = ui.show_menu(
+            breadcrumb=crumb.c_main_config_structure,
+            options=[
+                ("0", "BACK",     color.back),
+                ("1", "ADD KEYS", color.opt3),
+                ("2", "DEL KEYS", color.opt6),
+                ("3", "MOD KEYS", color.opt4),
+            ],
+            choice=True,
+            prompt="X"
+        )
         if choice == 0:
             return
         elif choice == 1:
-            if script_file == "incubator.py":
-                execute_newborn(script_path)
-            elif script_file == "update_portfolio.sh":
-                run_refresh_process()
-            else:
-                execute_script(script_path, disp_name)
+            run_addkeys_process()
         elif choice == 2:
-            show_info(script_file, script_path, wiki)
+            run_delkeys_process()
+        elif choice == 3:
+            run_modkeys_process()
 
-# RUN PROCESS
-# -----------
-def run_backup_process():
-    """Helper to run the operations.py backup script."""
-    subprocess.run([sys.executable, OPERATIONS_FILE])
-    time.sleep(3)
-
-def run_newborn_process(ticker, stock_type, script_path):
-    """Path for brand new stocks."""
-    run_backup_process()
-    subprocess.run([sys.executable, str(script_path), stock_type, ticker, "--newborn"])
-
-def run_reborn_process(ticker, stock_type):
-    """Path for existing stocks (Targeted Update)."""
-    run_backup_process()
-    # Note: Using 'incubator.py' directly since we know the name
-    subprocess.run([sys.executable, "scripts/incubator.py", stock_type, ticker, "--reborn"])
-
-def run_refresh_process():
-    """Path for global portfolio health check."""
-    run_backup_process()
-    subprocess.run([sys.executable, "scripts/incubator.py", "--refresh"])
-
-# EXECUTE SCRIPT
-# --------------
-def execute_newborn(script_path):
+# =<< MENU: MAIN -> CONFIG
+# === === === === === ===
+def main_config():
     while True:
-        console.clear()
-        show_banner()
-        console.print("[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[light_slate_grey]SEARCH[/light_slate_grey]//C:>[/bold][light_steel_blue1]Choose stock type[/light_steel_blue1][bold]_[/bold][/misty_rose1]\n")
-        console.print("0. [light_goldenrod3]BACK[/light_goldenrod3]")
-        console.print("1. [sky_blue2]PRIVATE[/sky_blue2]")
-        console.print("2. [sky_blue1]PUBLIC[/sky_blue1]\n")
-        t_choice = IntPrompt.ask(">_ ", default=0, show_default=False, show_choices=False)
-        if t_choice == 0: return
-        elif t_choice in [1, 2]: break
-        
-    # --- FIXED: Define stock_type BEFORE using it in the UI print ---
-    types = {1: "PRIVATE", 2: "PUBLIC"}
-    stock_type = types[t_choice]
-    
-    console.clear()
-    show_banner()
-    # RESTORED & CORRECTED: This print now has access to stock_type
-    console.print(f"[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[light_slate_grey]SEARCH[/light_slate_grey]//[light_slate_grey]TYPE[/light_slate_grey]:[navajo_white1]{stock_type}[/navajo_white1]//C:>[/bold][light_steel_blue1]{'Enter ticker symbol' if stock_type == 'PUBLIC' else 'Enter company name'}[/light_steel_blue1][bold]_[/bold][/misty_rose1]\n")
-    console.print("0. [light_goldenrod3]BACK[/light_goldenrod3]\n")
-    
-    user_input = input(">_ ").upper().strip()
-    if user_input == "0" or not user_input: return
-    
-    # Check portfolio
-    with open(PORTFOLIO_FILE, 'r') as f:
-        portfolio = json.load(f)
+        choice = ui.show_menu(
+            breadcrumb=crumb.c_main_config,
+            options=[
+                ("0", "BACK",      color.back),
+                ("1", "PORTFOLIO", color.opt4),
+                ("2", "STRUCTURE", color.opt5),
+                ("3", "SYS-RESET", color.opt6),
+            ],
+            prompt="x"
+        )
+        if choice == 0:
+            return
+        elif choice == 1:
+            main_config_portfolio()
+        elif choice == 2:
+            main_config_structure()
+        elif choice == 3:
+            run_reset_process()
 
+# =<< MENU: MAIN
+# === === === ===
+def main():
+    wiki = load_wiki()
+    while True:
+        choice = ui.show_menu(
+            breadcrumb=crumb.c_main,
+            options=[
+                ("0", "EXIT",   color.exit),
+                ("1", "SEARCH", color.opt1),
+                ("2", "UPDATE", color.opt2),
+                ("3", "CONFIG", color.opt3),
+            ],
+            instruction="",
+            choice=True,
+            prompt="f"
+        )
+        if choice == 0:
+            exit_app()
+        elif choice in (1, 2):
+            script = "search" if choice == 1 else "update"
+            main_script(script, wiki)
+        elif choice == 3:
+            main_config()
+
+# =<< MENU: MAIN -> SCRIPT
+# === === === === === ===
+def main_script(script, wiki):
+    while True:
+        choice = ui.show_menu(
+            breadcrumb=crumb.c_main_search if script == "search" else crumb.c_main_update,
+            options=[
+                ("0", "BACK",    color.back),
+                ("1", "EXECUTE", color.opt1),
+                ("2", "INFO",    color.opt2),
+            ],
+            choice=True,
+            prompt="f"
+        )
+        if choice == 0:
+            return
+        elif choice == 1:
+            if script == "search":
+                main_search_type()
+            else:
+                run_refresh_process()
+        elif choice == 2:
+            main_script_info(script, wiki)
+
+# =<< MENU: MAIN -> SCRIPT -> INFO
+# === === === === === === === ===
+def main_script_info(script, wiki):
+    while True:
+        choice = ui.show_menu(
+            breadcrumb=crumb.c_main_script_info(script),
+            options=[
+                ("0", "BACK",    color.back),
+                ("1", "EXECUTE", color.opt1),
+                ("2", "INFO",    color.mute),
+            ],
+            choice=True,
+            prompt="fms"
+        )
+        console.print(ui.wiki_panel(script, wiki))
+        # choice = IntPrompt.ask(f"\n[{color.DOS}] ›[/]", default=0, show_default=False, show_choices=False)
+        console.print("")
+        if choice == 0:
+            return
+        elif choice == 1:
+            if script == "search":
+                main_search_type()
+            else:
+                run_refresh_process()
+            return
+
+# =<< MENU: MAIN -> SEARCH -> TYPE
+# === === === === === === === ===
+def main_search_type():
+    # --- Step 1: choose stock type ---
+    while True:
+        choice = ui.show_menu(
+            breadcrumb=crumb.c_main_search_type,
+            options=[
+                ("0", "BACK",    color.back),
+                ("1", "PRIVATE", color.opt1),
+                ("2", "PUBLIC",  color.opt2),
+            ],
+            choice=True,
+            prompt="x"
+        )
+        if choice == 0:
+            return
+        elif choice in (1, 2):
+            break
+
+    glob.stock_type = "PRIVATE" if choice == 1 else "PUBLIC"
+    color_prv    = color.ACTV if glob.stock_type == "PRIVATE" else color.mute
+    color_plc    = color.ACTV if glob.stock_type == "PUBLIC"  else color.mute
+
+    # --- Step 2: get ticker/company input ---
+    ui.show_menu(
+        breadcrumb=crumb.c_main_search_type_input(glob.stock_type),
+        options=[
+            ("0", "BACK",    color.back),
+            ("1", f"[{color_prv}]PRIVATE[/]", color.mute),
+            ("2", f"[{color_plc}]PUBLIC[/]",  color.mute),
+        ],
+        choice=False
+    )
+    user_input = inp.input_field(caller="search", stock_type=glob.stock_type)
+    if user_input == "0" or not user_input:
+        return
+    glob.user_input = user_input
+
+    # --- Step 3: check if already in portfolio ---
+    portfolio = util.load_json(PATH_PORTFOLIO)
     if user_input in portfolio:
-        console.clear()
-        show_banner()
-        # RESTORED: Satisfied requirement line
-        console.print(f"[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[light_slate_grey]SEARCH[/light_slate_grey]//[light_slate_grey]TYPE[/light_slate_grey]:[navajo_white1]{stock_type}[/navajo_white1]//[light_slate_grey]{'TICKER' if stock_type == 'PUBLIC' else 'COMPANY'}[/light_slate_grey]:[navajo_white1]{user_input}[/navajo_white1]//C:>[/bold][light_steel_blue1]Requirement already satisfied:[/light_steel_blue1] [bold khaki3]{user_input}[/bold khaki3] in ./data/[bold honeydew2]portfolio[/bold honeydew2].json[bold]_[/bold][/misty_rose1]\n")
-        
-        console.print("0. BACK")
-        console.print("1. TARGETED UPDATE (REBORN)")
-        console.print("2. FULL PORTFOLIO UPDATE (REFRESH)")
-        
-        fork_choice = IntPrompt.ask("\n>_ ", default=0, show_default=False, show_choices=False)
-        
-        if fork_choice == 1:
-            run_reborn_process(user_input, stock_type)
-            return
-        elif fork_choice == 2:
+        choice = ui.show_menu(
+            breadcrumb=crumb.c_main_search_type_input_reborn(glob.stock_type, user_input),
+            options=[
+                ("0", "BACK",          color.back),
+                ("1", "SINGLE UPDATE", color.r1),
+                ("2", "TOTAL REFRESH", color.r2),
+            ],
+            choice=True,
+            prompt="x"
+        )
+        if choice == 1:
+            run_reborn_process(user_input, glob.stock_type)
+        elif choice == 2:
             run_refresh_process()
-            return
-        else:
-            return
-
-    # Validating new stock...
-    verified_ticker = verify_stock(user_input, stock_type)
-    if not verified_ticker:
         return
 
-    run_newborn_process(verified_ticker, stock_type, script_path)
+    # --- Step 4: verify and add new stock ---
+    verified_ticker = verify.verify_stock(user_input, glob.stock_type)
+    if not verified_ticker:
+        return
+    run_newborn_process(verified_ticker, glob.stock_type)
 
-# EXECUTE
-# -------
-def execute_script(script_path, disp_name):
-    console.clear()
-    console.print(f"[light_coral][bold]EXECUTING[/bold]: [bold steel_blue1]{disp_name}[/bold steel_blue1]...[/light_coral]\n")
-    with Progress(SpinnerColumn(), TextColumn("[progress.description]{task.description}"), BarColumn(), TimeElapsedColumn()) as progress:
-        task = progress.add_task("[navajo_white1]Running...[/navajo_white1]", total=5)
-        for _ in range(5):
-            time.sleep(0.5)
-            progress.update(task, advance=1)
-    if script_path.suffix == '.py':
-        subprocess.run([sys.executable, str(script_path)])
-    else:
-        subprocess.run(["bash", str(script_path)])
-    input("\nPress Enter to return...")
 
-# DISPLAY FILE INFO
-# -----------------
-def show_info(script_file, script_path, wiki):
-    disp_name = get_disp_name(script_file)
-    raw_file = wiki.get("DIRECTORY_STRUCTURE.SCRIPTS", {}).get(script_file, "\nNo description available.\n")
-    raw_file_owner = wiki.get("DIRECTORY_STRUCTURE", {}).get("SCRIPTS", {}).get(script_file, {}).get("OWNER", {})
-    raw_file_usage = wiki.get("DIRECTORY_STRUCTURE", {}).get("SCRIPTS", {}).get(script_file, {}).get("USAGE", {})
-    raw_file_about = wiki.get("DIRECTORY_STRUCTURE", {}).get("SCRIPTS", {}).get(script_file, {}).get("ABOUT", {})
-    raw_file_version = wiki.get("DIRECTORY_STRUCTURE", {}).get("SCRIPTS", {}).get(script_file, {}).get("VERSION", {})
-    stat = script_path.stat()
-    size_kb = stat.st_size / 1024
-    mod_time = time.strftime("%Y-%m-%d %H:%M:%S", time.localtime(stat.st_mtime))
-    console.clear(); show_banner()
-    console.print(f"[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[light_slate_grey]{disp_name.upper()}[/light_slate_grey]//C:DOCUMENTATION/>[/bold][light_steel_blue1]cat wiki.json[/light_steel_blue1][bold]_[/bold][/misty_rose1]\n")
-    console.print(f"[khaki3]FILE: [/khaki3][bold bright_white]{script_file}[/bold bright_white]\n\n[khaki3]SIZE: [/khaki3][bold medium_spring_green]{size_kb:.2f}[/bold medium_spring_green][dim] KB[/dim]\n[khaki3]LAST MODIFIED: [/khaki3][bold medium_spring_green]{mod_time}[/bold medium_spring_green]")
-    console.print(f"\n[khaki3]METADATA: [/khaki3]\n[plum1]• Owner: [/plum1][bold light_cyan]{raw_file_owner}[/bold light_cyan]\n[plum1]• USAGE: [/plum1][bold light_cyan]{raw_file_usage}[/bold light_cyan]\n[plum1]• VERSION: [/plum1][bold spring_green]{raw_file_version}[/bold spring_green]\n\n[khaki3]DESCRIPTION: [/khaki3][light_cyan1]{raw_file_about}[/light_cyan1]")
-    input("\nPress Enter to return...")
 
-# MAIN
-# ----
+# === === === === === === === ===
+# == =<< MAIN >>- --- --- --- ---
 if __name__ == "__main__":
+    dev.debug = "--debug" in sys.argv
     try:
-        # main_menu()
-        intro_page()
+        if dev.debug == True:
+            main()
+        else:
+            cover()
     except KeyboardInterrupt:
-        console.print("\n[indian_red1]Goodbye![/indian_red1]")
+        console.print(f"\n[{color.info}][{color.WARN}]KEYBOARD INTERRUPT[/]: Goodbye![/]\n")

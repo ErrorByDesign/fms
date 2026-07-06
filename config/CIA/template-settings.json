@@ -1,0 +1,82 @@
+{
+    "PUBLIC": {
+        "DEFAULT": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        },
+        "MODIFIED": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        }
+    },
+    "INSTITUTIONAL": {
+        "DEFAULT": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        },
+        "MODIFIED": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        }
+    },
+    "BONDS": {
+        "DEFAULT": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        },
+        "MODIFIED": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        }
+    },
+    "PRIVATE": {
+        "DEFAULT": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        },
+        "MODIFIED": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        }
+    },
+    "IPO": {
+        "DEFAULT": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        },
+        "MODIFIED": {
+            "BLOCKAGE_DISCOUNT": null,
+            "BROKERAGE_FEE": null,
+            "BROKERAGE_FEE_SELL": null,
+            "SELL_MIN": null,
+            "SELL_MAX": null
+        }
+    }
+}

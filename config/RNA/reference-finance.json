@@ -1,0 +1,30 @@
+{
+    "TICKER_SYMBOL": {
+        "AVANTAGE": {
+            "PRIVATE": {},
+            "PUBLIC": {
+                "change": "QUOTE.Global Quote.change percent",
+                "marketCap": "OVERVIEW.MarketCapitalization",
+                "weekHigh": "OVERVIEW.52WeekHigh",
+                "weekLow": "OVERVIEW.52WeekLow",
+                "yearTarget": "OVERVIEW.AnalystTargetPrice"
+            }
+        },
+        "YFINANCE": {
+            "PRIVATE": {
+                "FINANCE.change": "info.regularMarketChangePercent",
+                "FINANCE.marketCap": "info.latestImpliedValuation",
+                "FINANCE.weekHigh": "info.fiftyTwoWeekHigh",
+                "FINANCE.weekLow": "info.fiftyTwoWeekLow",
+                "FINANCE.yearTarget": null
+            },
+            "PUBLIC": {
+                "FINANCE.change": "info.regularMarketChangePercent",
+                "FINANCE.marketCap": "info.marketCap",
+                "FINANCE.weekHigh": "info.fiftyTwoWeekHigh",
+                "FINANCE.weekLow": "info.fiftyTwoWeekLow",
+                "FINANCE.yearTarget": "info.targetMeanPrice"
+            }
+        }
+    }
+}

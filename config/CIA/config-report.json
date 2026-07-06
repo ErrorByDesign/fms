@@ -1,0 +1,177 @@
+{
+    "CONFIG": {
+        "INCUBATOR": {
+            "RECURSIVE": {
+                "PRIVATE": {
+                    "ROOT": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 3,
+                        "RECURSIVE": 1
+                    },
+                    "COMPANY": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 1,
+                        "RECURSIVE": 9
+                    },
+                    "FINANCE": {
+                        "NULLIFIED": 1,
+                        "PREFILLED": 0,
+                        "RECURSIVE": 4
+                    },
+                    "FUNDING": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 0,
+                        "RECURSIVE": 6
+                    },
+                    "HISTORY": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 12,
+                        "RECURSIVE": 0
+                    },
+                    "NEWS": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 0,
+                        "RECURSIVE": 9
+                    },
+                    "RATINGS": {
+                        "NULLIFIED": 8,
+                        "PREFILLED": 0,
+                        "RECURSIVE": 0
+                    }
+                },
+                "PUBLIC": {
+                    "ROOT": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 3,
+                        "RECURSIVE": 1
+                    },
+                    "COMPANY": {
+                        "NULLIFIED": 1,
+                        "PREFILLED": 2,
+                        "RECURSIVE": 7
+                    },
+                    "FINANCE": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 0,
+                        "RECURSIVE": 5
+                    },
+                    "FUNDING": {
+                        "NULLIFIED": 6,
+                        "PREFILLED": 0,
+                        "RECURSIVE": 0
+                    },
+                    "HISTORY": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 12,
+                        "RECURSIVE": 0
+                    },
+                    "NEWS": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 0,
+                        "RECURSIVE": 9
+                    },
+                    "RATINGS": {
+                        "NULLIFIED": 0,
+                        "PREFILLED": 0,
+                        "RECURSIVE": 8
+                    }
+                }
+            }
+        },
+        "MERGER": {
+            "IGNORE": {
+                "PRIVATE": [
+                    "stockType",
+                    "default",
+                    "updated",
+                    "COMPANY.description",
+                    "FINANCE.yearTarget",
+                    "HISTORY.M1.dateLow",
+                    "HISTORY.M1.priceLow",
+                    "HISTORY.M3.dateLow",
+                    "HISTORY.M3.priceLow",
+                    "HISTORY.M6.dateLow",
+                    "HISTORY.M6.priceLow",
+                    "HISTORY.Y1.dateLow",
+                    "HISTORY.Y1.priceLow",
+                    "HISTORY.Y2.dateLow",
+                    "HISTORY.Y2.priceLow",
+                    "HISTORY.Y3.dateLow",
+                    "HISTORY.Y3.priceLow",
+                    "RATINGS.analystCount",
+                    "RATINGS.recommendationKey",
+                    "RATINGS.recommendationMean",
+                    "RATINGS.strongBuy",
+                    "RATINGS.buy",
+                    "RATINGS.hold",
+                    "RATINGS.sell",
+                    "RATINGS.strongSell"
+                ],
+                "PUBLIC": [
+                    "stockType",
+                    "default",
+                    "updated",
+                    "COMPANY.description",
+                    "COMPANY.facts",
+                    "COMPANY.year",
+                    "FUNDING.fundingToDate",
+                    "FUNDING.latestAmountRaised",
+                    "FUNDING.latestFundingDate",
+                    "FUNDING.latestShareClass",
+                    "FUNDING.leadInvestor",
+                    "FUNDING.totalFundingRounds",
+                    "HISTORY.M1.dateLow",
+                    "HISTORY.M1.priceLow",
+                    "HISTORY.M3.dateLow",
+                    "HISTORY.M3.priceLow",
+                    "HISTORY.M6.dateLow",
+                    "HISTORY.M6.priceLow",
+                    "HISTORY.Y1.dateLow",
+                    "HISTORY.Y1.priceLow",
+                    "HISTORY.Y2.dateLow",
+                    "HISTORY.Y2.priceLow",
+                    "HISTORY.Y3.dateLow",
+                    "HISTORY.Y3.priceLow"
+                ]
+            },
+            "NODES": {
+                "PORTFOLIO": {
+                    "BRANCHES": {
+                        "ROOT": 4,
+                        "COMPANY": 10,
+                        "FINANCE": 5,
+                        "FUNDING": 6,
+                        "HISTORY": 12,
+                        "NEWS": 9,
+                        "RATINGS": 8
+                    },
+                    "TOTAL": 54
+                },
+                "PRIVATE": {
+                    "BRANCHES": {
+                        "ROOT": 4,
+                        "COMPANY": 10,
+                        "FINANCE": 5,
+                        "FUNDING": 6,
+                        "HISTORY": 12,
+                        "NEWS": 9,
+                        "RATINGS": 8
+                    },
+                    "TOTAL": 54
+                },
+                "PUBLIC": {
+                    "BRANCHES": {
+                        "ROOT": 4,
+                        "COMPANY": 10,
+                        "FINANCE": 5,
+                        "FUNDING": 6,
+                        "HISTORY": 12,
+                        "NEWS": 9,
+                        "RATINGS": 8
+                    },
+                    "TOTAL": 54
+                }
+            }
+        }
+    }
+}

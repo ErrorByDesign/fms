@@ -1,0 +1,212 @@
+{
+    "DIRECTORY_STRUCTURE": {
+        "BACKUP": [
+            "FMSLite_YYYY-MM-DDTHH-MM-SS.zip"
+        ],
+        "CONFIG": {
+            "CIA": {
+                "mappings-historic.json": {
+                    "about": "Mapping file and source of truth for the Financial Modelling Shell's Historic archive - data/historic.json.",
+                    "owner": "scripts/lib/historic.py"
+                },
+                "mappings-portfolio.json": {
+                    "about": "Mapping file and source of truth for the Financial Modelling Shell's Portfolio - data/portfolio.json.",
+                    "owner": "scripts/incubator.py"
+                },
+                "template-historic.json": {
+                    "about": "Structural blueprint for the portfolio's historic market data file - data/historic.json.",
+                    "owner": "scripts/lib/historic.py"
+                },
+                "template-portfolio.json": {
+                    "about": "Structural blueprint for the portfolio file - data/portfolio.json.",
+                    "owner": "scripts/incubator.py and script.js"
+                },
+                "template-report.json": {
+                    "about": "Structural blueprint for the portfolio's health report file - config/report.json.",
+                    "owner": "scripts/lib/merger.py"
+                },
+                "template-settings": {
+                    "about": "Structural blueprint for the portfolio's settings file - config/settings.json.",
+                    "owner": "xerxes"
+                }
+            },
+            "DNA": {
+                "mappings-company.json": {
+                    "about": "Deep source tracing documentation of the portfolio's COMPANY branch node.",
+                    "datas": [
+                        "ALPHA_VANTAGE.OVERVIEW",
+                        "YFINANCE.info"
+                    ],
+                    "owner": "xerxes"
+                },
+                "mappings-finance.json": {
+                    "about": "Deep source tracing documentation of the portfolio's FINANCE branch node.",
+                    "datas": [
+                        "ALPHA_VANTAGE.OVERVIEW",
+                        "ALPHA_VANTAGE.QUOTE",
+                        "YFINANCE.info"
+                    ],
+                    "owner": "xerxes"
+                },
+                "mappings-funding.json": {
+                    "about": "Deep source tracing documentation of the portfolio's FUNDING branch node.",
+                    "datas": [
+                        "YFINANCE.info"
+                    ],
+                    "owner": "xerxes"
+                },
+                "mappings-news-[].json": {
+                    "about": "Deep source tracing documentation of the portfolio's NEWS feed array.",
+                    "datas": [
+                        "ALPHA_VANTAGE.NEWS_SENTIMENT",
+                        "YFINANCE.news"
+                    ],
+                    "owner": "xerxes"
+                },
+                "mappings-ratings.json": {
+                    "about": "Deep source tracing documentation of the portfolio's RATINGS branch node.",
+                    "datas": [
+                        "ALPHA_VANTAGE.QUOTE",
+                        "ALPHA_VANTAGE.OVERVIEW",
+                        "YFINANCE.info",
+                        "YFINANCE.recommendations"
+                    ],
+                    "owner": "xerxes"
+                },
+                "template-company.json": {
+                    "about": "Structural blueprint for the portfolio's COMPANY branch node.",
+                    "owner": "scripts/incubator.py"
+                },
+                "template-finance.json": {
+                    "about": "Structural blueprint for the portfolio's FINANCE branch node.",
+                    "owner": "scripts/incubator.py"
+                },
+                "template-funding.json": {
+                    "about": "Structural blueprint for the portfolio's FUNDING branch node.",
+                    "owner": "scripts/incubator.py"
+                },
+                "template-news-[].json": {
+                    "about": "Structural blueprint for the portfolio's NEWS feed array.",
+                    "owner": "scripts/incubator.py"
+                },
+                "template-ratings.json": {
+                    "about": "Structural blueprint for the portfolio's RATINGS branch node.",
+                    "owner": "scripts/incubator.py"
+                }
+            },
+            "RNA": {
+                "reference-company.json": {
+                    "about": "Trimmed reference file of desired keys and corresponding value types from the raw data needed for the portfolio's COMPANY branch node.",
+                    "owner": "xerxes"
+                },
+                "reference-finance.json": {
+                    "about": "Trimmed reference file of desired keys and corresponding value types from the raw data needed for the portfolio's FINANCE branch node.",
+                    "owner": "xerxes"
+                },
+                "reference-funding.json": {
+                    "about": "Trimmed reference file of desired keys and corresponding value types from the raw data needed for the portfolio's FUNDING branch node.",
+                    "owner": "xerxes"
+                },
+                "reference-news-[].json": {
+                    "about": "Trimmed reference file of desired keys and corresponding value types from the raw data needed for the portfolio's NEWS feed array.",
+                    "owner": "xerxes"
+                },
+                "reference-ratings.json": {
+                    "about": "Trimmed reference file of desired keys and corresponding value types from the raw data needed for the portfolio's RATINGS branch node.",
+                    "owner": "xerxes"
+                }
+            },
+            "regex.json": {
+                "about": "Simple regex helper file used for the frontend display of information invoked by JavaScript formatter functions inside the web app's script file - ./script.js.",
+                "owner": "script.js"
+            },
+            "report.json": {
+                "about": "Portfolio health report and pre-merger security check file used to verify current system integrity and screening of additional entries before merger or quaranteen protocols for the Financial Modelling Shell's Portfolio - data/portfolio.json.",
+                "owner": "scripts/lib/merger.py"
+            },
+            "settings.json": {
+                "about": "settings file used for configuring the portfolio's price table and metrics.",
+                "owner": "script.js"
+            }
+        },
+        "CSS": {
+            "about": "Directory for cascade style sheets."
+        },
+        "DATA": {
+            "ARCHIVE": [
+                "{ticker}-history.json"
+            ],
+            "CACHE": {
+                "latest-newborn.json": "Temporary output file created by main.py via incubator.pywhich holds data for a new entry waiting to be merged into portfolio.json.",
+                "latest-reborn.json": "Temporary output file created by incubator.py which holds targeted update data for an existing entry waiting to be updsted into portfolio.json.",
+                "latest-refresh.json": "Temporary output file created by incubator.py which holds batch data for all portfolio entries waiting to be merged into portfolio.json."
+            },
+            "historic.json": {
+                "about": "Master historic market data for entries in the portfolio.",
+                "owner": "script.js"
+            },
+            "portfolio.json": {
+                "about": "Financial Modelling Shell Lite's portfolio.",
+                "owner": "script.js"
+            }
+        },
+        "DOCUMENTATION": {
+            "DEVELOPER": {
+                "about": "Directory for random developer and LLM agent files used during production."
+            },
+            "REFERENCE": {
+                "API": {
+                    "AVANTAGE": {
+                        "about": "Directory containing example files stored as fetched in raw format from Alpha Vantage."
+                    },
+                    "YFINANCE": {
+                        "about": "Directory containing example files stored as fetched in raw format from yFinance."
+                    }
+                }
+            },
+            "wiki.json": "This wikipedia file"
+        },
+        "FONTS": {
+            "about": "Directory for font files."
+        },
+        "MODULES": {
+            "operations.py": {
+                "OWNER": "mother.xrxs",
+                "USAGE": "internal",
+                "VERSION": "1.0",
+                "ABOUT": "Modular file management script. Functions include;\n• Automatic discovery of root directory structure. \n• Versioned file backup and archiving."
+            },
+            "paginator.py": {
+                "OWNER": "main.py",
+                "USAGE": "internal",
+                "VERSION": "1.0",
+                "ABOUT": "Menu paginator module written in python for internal use."
+            }
+        },
+        "SCRIPTS": {
+            "LIB": {
+                "historic.py": "Utility script called by main.py via incubator.py which is tasked with fetching historic market price dara, storing archive per ticker symbol, creating a master historic record for the current portfolio entries as well as calculating and providing specific key:value pairings for the portfolio's HISTORY branch node.",
+                "merger.py": "Utility script called by main.py via incubator.py which is tasked with diagnosing, maintaining, updating and verifying the portfolio data and health.",
+                "reporter.py": "Termux based news feed script currently used by development team.",
+                "structure.py": "Utility script called by main.py for high level skeletal msnipulation, use with caution (WIP prototype for top level developer clearance - it is highly recommended to do a manual backup and to use in a side branch of the github repository).",
+                "verifier.py": "Utility script called by incubator.py for new ticker symbol and company names search"
+            },
+            "incubator.py": {
+                "OWNER": "[bold light_coral]FMS/main.py[/bold light_coral]",
+                "USAGE": "[bold light_coral]public[/bold light_coral]",
+                "VERSION": "[bold indian_red1]1.1[/bold indian_red1]",
+                "ABOUT": "Main engine for fetching singular or batch data from yFinance. Has two main branches one of which splits into two sub-branch. Outputs three different files depending on the flag.\n\n[bold steel_blue1]REQUIRED INFORMATION: [/bold steel_blue1]\n[bold steel_blue1]• [/bold steel_blue1][bold khaki3]Ticker Symbol [/bold khaki3]([dim]For example [bold]NVDA[/bold][/dim])\n[bold steel_blue1]• [/bold steel_blue1][bold khaki3]Stock Type[/bold khaki3] ([dim]options include[/dim]: [bold]public[/bold]; [bold]private[/bold];)\n\n[bold steel_blue1]NOTE: [/bold steel_blue1]\nPrivate market company ticker symbols may exist on Yahoo Finance Private Companies page.\n[bold steel_blue1]URL: [/bold steel_blue1][underlined dodger_blue]finance.yahoo.com/markets/private-companies/highest-valuation/[/underlined dodger_blue]\nIf company not listed enter the full company name."
+            },
+            "updata.sh": {
+                "OWNER": "[bold light_coral]Xerxes[/bold light_coral]",
+                "USAGE": "[bold light_coral]private[/bold light_coral]",
+                "VERSION": "[bold indian_red1]1.0[/bold indian_red1]",
+                "ABOUT": "Manual portfolio update file executed via CLI for full portfolio update."
+            }
+        },
+        "index.html": "Financial Modelling Shell Lite's html file for the web app hosted on github pages.",
+        "main.py": "Python based portfolio manager and task delegator. This is the entry point for portfolio maintenance and updates.",
+        "script.js": "JavaScript based file which is the brains and nervous system to the html skeleton that makes up the FMSLite web app.",
+        "style.css": "CSS based file which acts as the superficial skin that holds the skeletal and inner systems of the FMSLite web app that defines physical beauty of the final product."
+    }
+}

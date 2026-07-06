@@ -1,0 +1,9 @@
+{
+    "TICKER_SYMBOL": {
+        "YYYY-MM-DD": {
+            "close": "4. close",
+            "high": "2. high",
+            "low": "3. low"
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "AVANTAGE": {
+        "PRIVATE": {},
+        "PUBLIC": {
+            "FINANCE": {
+                "change": "QUOTE.Global Quote.change percent",
+                "marketCap": "OVERVIEW.MarketCapitalization",
+                "weekHigh": "OVERVIEW.52WeekHigh",
+                "weekLow": "OVERVIEW.52WeekLow",
+                "yearTarget": "OVERVIEW.AnalystTargetPrice"
+            }
+        }
+    },
+    "YFINANCE": {
+        "PRIVATE": {
+            "FINANCE": {
+                "change": "info.regularMarketChangePercent",
+                "marketCap": "info.latestImpliedValuation",
+                "weekLow": "info.fiftyTwoWeekLow",
+                "weekHigh": "info.fiftyTwoWeekHigh",
+                "yearTarget": null
+            }
+        },
+        "PUBLIC": {
+            "FINANCE": {
+                "change": "info.regularMarketChangePercent",
+                "marketCap": "info.marketCap",
+                "weekLow": "info.fiftyTwoWeekLow",
+                "weekHigh": "info.fiftyTwoWeekHigh",
+                "yearTarget": "info.targetMeanPrice"
+            }
+        }
+    }
+}

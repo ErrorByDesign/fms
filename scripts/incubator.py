@@ -1,45 +1,55 @@
 #!/usr/bin/env python3
+# === === === === === === === === === === === === ===
+# F M S   T E R M I N A L   -   I N C U B A T O R
+# === === === === ===
+
+# -<< IMPORTS
+import copy
 import json
 import os
 import re
 import subprocess
 import sys
-import textwrap
 import time
 import yfinance as yf
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+# -<< IMPORTS: LOCAL
+import scripts.config.breadcrumbs as crumb
+import scripts.config.colors as color
+import scripts.config.globals as glob
+import scripts.config.ui as ui
+import scripts.config.utils as util
+import scripts.lib.dashboard as dash
+import scripts.lib.historic as hist
+
+# -<< IMPORTS: RICH
 from rich.console import Console
 from rich.panel import Panel
 from rich.prompt import IntPrompt, Confirm
-from rich.syntax import Syntax
 from rich.table import Table
-
-# --- INITIALIZATION ---
-sys.path.append(str(Path("./scripts/lib").resolve()))
 console = Console()
-cw = console.width
 
-# Pathing
+# =<< PATHS
+DIR_ARCHIVE    = "./data/archive"
 DIR_CACHE      = "./data/cache"
-PATH_PORTFOLIO = "./data/portfolio.json"
-PATH_MAPPING   = "./config/reference-mapping.json"
-PATH_REPORT    = "./config/report-portfolio.json"
-PATH_TEMPLATE  = "./config/template-portfolio.json"
+PATH_HISTORIC  = "./data/historic.json"
+PATH_MAPPINGS  = "./config/CIA/mappings-portfolio.json"
+PATH_MERGER    = "./scripts/lib/merger.py"
 PATH_NEWBORN   = "./data/cache/latest-newborn.json"
+PATH_PORTFOLIO = "./data/portfolio.json"
 PATH_REBORN    = "./data/cache/latest-reborn.json"
 PATH_REFRESH   = "./data/cache/latest-refresh.json"
-PATH_MERGER    = "./scripts/lib/merger.py"
+PATH_TEMPLATE  = "./config/CIA/template-portfolio.json"
+PATH_WHITELIST = "./config/CIA/whitelist-toolbox.json"
 
-# --- CORE LOGIC HELPERS (RESTORED ENGINE) ---
-def load_json(fp):
-    if not os.path.exists(fp): return {}
-    with open(fp, 'r', encoding='utf-8') as f: return json.load(f)
 
-def save_json(fp, data):
-    with open(fp, 'w', encoding='utf-8') as f: json.dump(data, f, indent=4)
 
+# -<< SET NESTED VALUE
+# --- --- --- --- --- --- --- ---
 def set_nested_value(target_dict, path, value):
-    keys = path.split('.')
+    keys    = path.split('.')
     current = target_dict
     for key in keys[:-1]:
         if isinstance(current, list): return
@@ -47,254 +57,249 @@ def set_nested_value(target_dict, path, value):
     if isinstance(current, dict):
         current[keys[-1]] = value
 
+# -<< GET NESTED VALUE
+# --- --- --- --- --- --- --- ---
 def get_nested_value(target_dict, path):
     keys = path.split('.')
-    val = target_dict
+    val  = target_dict
     for k in keys:
         if isinstance(val, dict): val = val.get(k)
         else: return None
     return val
 
-def format_desc(text):
-    if not text: return ""
-    clean = re.sub(r'\s+', ' ', str(text)).strip()
-    return re.sub(r'\. (?=[A-Z])', '.\n\n', clean)
+# -<< HISTORIC DATA
+# --- --- --- --- --- --- --- ---
+def archive_history(ticker, clip_start="2023-01-06"):
+    """Fetch and archive historic data for a ticker. Returns lows dict."""
+    history_data, h = hist.fetch_historic_lows(ticker, period="max", clip_start=clip_start)
+    if h is not None:
+        hist.save_history(h, ticker)
+    return history_data
 
-def recursive_fetch(data, toolbox, ignore_list):
-    """RESTORED: Swaps template strings for yFinance data."""
+# -<< PSEUDO PROCESSING
+# --- --- --- --- --- --- --- ---
+def pseudo_processing(toolbox, ticker):
+    """:
+    Compute all pseudo keys and store them in toolbox.
+    These are then used by recursive_fetch via the mapping.
+    """
+    # ---- Description ----
+    raw_desc = toolbox.get("longBusinessSummary") or ""
+    toolbox["pseudoDescription"] = util.newline(raw_desc)
+
+    # ---- Year ----
+    year_val = toolbox.get("dateFounded")
+    if not year_val:
+        m = re.search(r'founded in (\d{4})|incorporated in (\d{4})', raw_desc, re.I)
+        if m:
+            year_val = m.group(1) or m.group(2)
+    toolbox["pseudoYear"] = str(year_val)[:4] if year_val else ""
+
+    # ---- History lows ----
+    history_data = archive_history(ticker)
+    for period in ["M1", "M3", "M6", "Y1", "Y2", "Y3"]:
+        entry = history_data.get(period, {})
+        toolbox[f"pseudoDate{period}"]  = entry.get("dateLow")
+        toolbox[f"pseudoPrice{period}"] = entry.get("priceLow")
+
+# -<< RECURSIVE FETCH
+# --- --- --- --- --- --- --- ---
+def recursive_fetch(data, toolbox, current_path=""):
+    """Recursively traverse the template, resolve dot-paths in toolbox."""
     if isinstance(data, dict):
         for key, value in data.items():
+            path = f"{current_path}.{key}" if current_path else key
             if isinstance(value, dict):
-                recursive_fetch(value, toolbox, ignore_list)
+                recursive_fetch(value, toolbox, path)
+            elif isinstance(value, list):
+                list_path = f"{path}.[]" if not path.endswith(".[]") else path
+                for item in value:
+                    if isinstance(item, dict):
+                        recursive_fetch(item, toolbox, list_path)
             elif isinstance(value, str) and value in toolbox:
-                if value not in ignore_list:
-                    data[key] = toolbox[value]
+                data[key] = toolbox[value]
+            elif isinstance(value, str) and '.' in value:
+                resolved = get_nested_value(toolbox, value)
+                if resolved is not None:
+                    data[key] = resolved
 
-# --- UI HELPERS (EXACTLY AS PROVIDED) ---
-def fit_to_width(text, pattern, border_pattern, border_width):
-    total_gap = cw - len(text)
-    left_count = (total_gap // 2) - border_width
-    pL = pattern * left_count
-    pR = pattern * ((total_gap - (left_count + border_width)) - border_width)
-    return border_pattern + pL + text + pR + border_pattern
-
-def is_valid(val):
-    return val is not None and val != ""
-
-def truncate(text, length=140):
-    if not text: return ""
-    return textwrap.shorten(str(text), width=length, placeholder="...")
-
-def add_row(table, label, val, fmt=None):
-    if is_valid(val):
-        display_val = fmt(val) if fmt else str(val)
-        table.add_row(label, display_val)
-
-def show_human_details(ticker, data):
-    # 1. COMPANY
-    comp = data.get("COMPANY", {})
-    t_comp = Table(show_header=False, box=None, padding=(0, 1))
-    add_row(t_comp, " ", " ")
-    add_row(t_comp, "[light_sky_blue3]Name:[/light_sky_blue3]", comp.get("name"), lambda x: f"[cornflower_blue]{x}[/cornflower_blue]")
-    add_row(t_comp, "[light_sky_blue3]Exchange:[/light_sky_blue3]", comp.get("exchange"))
-    add_row(t_comp, "[light_sky_blue3]Industry:[/light_sky_blue3]", comp.get("industry"))
-    add_row(t_comp, "[light_sky_blue3]Sector:[/light_sky_blue3]", comp.get("sector"))
-    add_row(t_comp, "[light_sky_blue3]Country:[/light_sky_blue3]", comp.get("country"))
-    add_row(t_comp, "[light_sky_blue3]Website:[/light_sky_blue3]", comp.get("website"))
-    add_row(t_comp, "[light_sky_blue3]Year Founded:[/light_sky_blue3]", comp.get("year"))
-    add_row(t_comp, " ", " ")
-    add_row(t_comp, "[light_sky_blue3]Overview:[/light_sky_blue3]", truncate(comp.get("description", ""), 180))
-    # console.clear()
-    console.print(Panel(t_comp, title="[bold cornflower_blue]COMPANY[/bold cornflower_blue]", border_style="light_sky_blue3"))
-
-    # 2. FINANCIALS
-    fin = data.get("FINANCIALS", {})
-    t_fin = Table(show_header=False, box=None, padding=(0, 1))
-    add_row(t_fin, " ", " ")
-    add_row(t_fin, "[plum3]Market Price:[/plum3]", data.get("price"), lambda x: f"[plum1]${float(x):,.2f}[/plum1]")
-    add_row(t_fin, "[plum3]Percentage Change:[/plum3]", fin.get("change"))
-    add_row(t_fin, "[plum3]Market Cap:[/plum3]", fin.get("marketCap"), lambda x: f"${int(x):,}")
-    add_row(t_fin, "[plum3]52 Week Low:[/plum3]", fin.get("weekLow"), lambda x: f"${float(x):,.2f}")
-    add_row(t_fin, "[plum3]52 Week High:[/plum3]", fin.get("weekHigh"), lambda x: f"${float(x):,.2f}")
-    add_row(t_fin, "[plum3]Target Price:[/plum3]", fin.get("yearTarget"), lambda x: f"${float(x):,.2f}")
-    add_row(t_fin, " ", " ")
-    console.print(Panel(t_fin, title="[bold plum1]FINANCIALS[/bold plum1]", border_style="plum3"))
-
-    # 3. RATINGS
-    rat = data.get("RATINGS", {})
-    if any(is_valid(v) for v in rat.values()):
-        t_rat = Table(show_header=False, box=None, padding=(0, 1))
-        add_row(t_rat, " ", " ")
-        add_row(t_rat, "[misty_rose1]Recommendation:[/misty_rose1]", rat.get("recommendationKey"), lambda x: f"[thistle1]{str(x).upper()}[/thistle1]")
-        add_row(t_rat, "[misty_rose1]Total Analysts:[/misty_rose1]", rat.get("analystCount"))
-        add_row(t_rat, "[misty_rose1]Rec Score:[/misty_rose1]", rat.get("recommendationMean"))
-        add_row(t_rat, "[bright_cyan]Strong Buy:[/bright_cyan]", rat.get("strongBuy"))
-        add_row(t_rat, "[cyan1]Buy:[/cyan1]", rat.get("buy"))
-        add_row(t_rat, "[bright_sky_blue]Hold:[/bright_sky_blue]", rat.get("hold"))
-        add_row(t_rat, "[light_salmon3]Sell:[/light_salmon3]", rat.get("sell"))
-        add_row(t_rat, "[dark_orange3]Strong Sell:[/dark_orange3]", rat.get("strongSell"))
-        add_row(t_rat, " ", " ")
-        console.print(Panel(t_rat, title="[bold thistle1]RATINGS[/bold thistle1]", border_style="misty_rose1"))
-
-    # 4. NEWS
-    news_list = data.get("NEWS", [])
-    if news_list:
-        latest = news_list[0]
-        t_news = Table(show_header=False, box=None, padding=(0, 1))
-        add_row(t_news, " ", " ")
-        add_row(t_news, "[light_salmon1]Source:[/light_salmon1]", latest.get("source"))
-        add_row(t_news, "[light_salmon1]Title:[/light_salmon1]", latest.get("title"), lambda x: f"[bold]{x}[/bold]")
-        add_row(t_news, "[light_salmon1]Summary:[/light_salmon1]", truncate(latest.get("summary", ""), 150))
-        add_row(t_news, " ", " ")
-        console.print(Panel(t_news, title="[bold light_salmon1]NEWS[/bold light_salmon1]", border_style="dark_khaki"))
-
-# --- FETCH ENGINE ---
+# -<< FETCH DNA SEQUENCE
+# --- --- --- --- --- --- --- ---
 def fetch_dna_sequence(ticker, stock_type, mapping_conf):
-    template    = load_json(PATH_TEMPLATE)["TICKER_SYMBOL"]
-    type_conf   = mapping_conf.get(stock_type, {})
-    ignore_list = mapping_conf.get("CONFIG", {}).get("IGNORE", [])
+    """Build a portfolio entry from yFinance using the mapping structure."""
+    template     = util.load_json(PATH_TEMPLATE)["TICKER_SYMBOL"]
+    whitelist    = util.load_json(PATH_WHITELIST)
+    yfinance_map = mapping_conf.get(stock_type, {})
 
-    # 1. Apply Mapping (Ignore NEWS dots for GPS)
-    for path, val in type_conf.items():
-        if path not in ["stockType", "default"] and not path.startswith("NEWS."):
-            set_nested_value(template, path, val)
+    # Set root template values from mapping (skip meta keys and NEWS)
+    for fms_path, source_path in yfinance_map.items():
+        if fms_path not in ["stockType", "default", "updated"] and not fms_path.startswith("NEWS"):
+            set_nested_value(template, fms_path, source_path)
+
     template["stockType"] = stock_type
+    template["default"]   = True
+    template["updated"]   = True
 
+    # Append .PVT suffix for private tickers if not already present
     fetch_ticker = f"{ticker}.PVT" if stock_type == "PRIVATE" and ".PVT" not in ticker else ticker
+
     try:
-        t_obj = yf.Ticker(fetch_ticker)
-        toolbox = t_obj.info
-        if not toolbox: raise ValueError("No data")
+        t_obj       = yf.Ticker(fetch_ticker)
+        i_whitelist = whitelist.get("info", [])
+        toolbox     = {k: t_obj.info.get(k) for k in i_whitelist if k in t_obj.info}
 
-        # Description & Year Extraction
-        desc = toolbox.get("longBusinessSummary") or ""
-        toolbox["description"] = format_desc(desc)
+        if not toolbox:
+            raise ValueError("No data returned from yFinance")
 
-        year_val = toolbox.get("dateFounded")
-        if not year_val:
-            m = re.search(r'founded in (\d{4})|incorporated in (\d{4})', desc, re.I)
-            if m: year_val = m.group(1) or m.group(2)
-        if year_val: toolbox["year"] = str(year_val)[:4]
+        # Compute pseudo keys (description, year, history lows)
+        pseudo_processing(toolbox, ticker)
 
-        # 2. Run Pseudo-Key Swap
-        recursive_fetch(template, toolbox, ignore_list)
+        # Populate template from toolbox via recursive mapping
+        recursive_fetch(template, toolbox)
 
-        # 3. Recommendations
+        # Analyst recommendations (public stocks only)
         if stock_type == "PUBLIC":
             try:
                 recs = t_obj.recommendations
                 if recs is not None and not recs.empty:
-                    toolbox.update(recs.iloc[-1].to_dict())
-                    recursive_fetch(template, toolbox, [])
-            except: pass
+                    set_nested_value(template, "RATINGS.strongBuy",  int(recs.strongBuy[0]))
+                    set_nested_value(template, "RATINGS.buy",        int(recs.buy[0]))
+                    set_nested_value(template, "RATINGS.hold",       int(recs.hold[0]))
+                    set_nested_value(template, "RATINGS.sell",       int(recs.sell[0]))
+                    set_nested_value(template, "RATINGS.strongSell", int(recs.strongSell[0]))
+            except Exception:
+                pass
 
-        # 4. News (Restored to 10)
-        news_list = []
-        for article in t_obj.news[:10]:
-            item = {}
-            for k in ["title", "description", "summary", "source", "category", "url", "publishDate", "premium", "freemium"]:
-                p = type_conf.get(f"NEWS.{k}")
-                if p: item[k] = get_nested_value(article, p)
-            news_list.append(item)
-        template["NEWS"] = news_list
+        # News articles
+        news_mapping = yfinance_map.get("NEWS", [])
+        if news_mapping and isinstance(news_mapping, list) and len(news_mapping) > 0:
+            blueprint = template["NEWS"][0] if template.get("NEWS") else {}
+            field_map = news_mapping[0]
+            raw_news  = t_obj.news[:10]
+            clean_news = []
+            for article in raw_news:
+                item = copy.deepcopy(blueprint)
+                for fms_field, source_path in field_map.items():
+                    if source_path:
+                        val = get_nested_value(article, source_path) if '.' in source_path else article.get(source_path)
+                        if val is not None:
+                            item[fms_field] = val
+                clean_news.append(item)
+            template["NEWS"] = clean_news
+        else:
+            template["NEWS"] = []
+
         return template
-    except:
+
+    except Exception: 
+        console.print_exception()
         template["COMPANY"]["ticker"] = None
         return template
 
-# --- MAIN BRANCHES ---
-def run_headless_update():
-    registry  = load_json(PATH_REPORT)
-    mother    = load_json(PATH_PORTFOLIO)
-    mapping   = load_json(PATH_MAPPING)
-    portfolio = load_json(PATH_PORTFOLIO) 
 
-    title_str    = "A U T O M A T E D   H E A D L E S S   U P D A T E   L O G S"
-    pattern      = " "
-    brdr_pattern = ""
-    brdr_width   = 0
-    title_auto   = fit_to_width(title_str, pattern, brdr_pattern, brdr_width)
-    title_len    = len(title_str)
-    line         = ("·" * title_len)
-    pad_left     = (" " * (((cw - len(title_str)) // 2) - 1))
-    title_line = fit_to_width(line, pattern, brdr_pattern, brdr_width)
-    
-    console.clear()
-    console.print(f"\n[bold plum3]{title_line}[/bold plum3]")
-    time.sleep(0.5)
-    console.print(f"\n[bold plum1]{title_auto}[/bold plum1]")
-    time.sleep(0.5)
-    console.print(f"\n[bold plum3]{title_line}[/bold plum3]\n")
-    time.sleep(1)
+
+# =<< BRANCH 1. RUN BORN (--newborn | --reborn)
+# === === === === === === === ===
+def run_born(stock_type, ticker, mode_flag="--newborn"):
+    mappings = util.load_json(PATH_MAPPINGS)
+    dna_data = fetch_dna_sequence(ticker, stock_type, mappings)
+
+    # REBORN SUB-BRANCH
+    if mode_flag == "--reborn":
+        ui.show_menu(
+            breadcrumb=crumb.c_incubator_reborn,
+            options=[],
+            instruction=f"🔄 [{color.info}]Performing deep-sync for existing embryo...[/]",
+            choice=False,
+            prompt="XRXS"
+        )
+        time.sleep(3)
+        # SAVE REBORN FILE
+        payload = {ticker: dna_data}
+        util.save_json(PATH_REBORN, payload)
+
+        # CALL MERGER WITH REBORN FLAG
+        console.print(f"✅ [{color.info}][{color.DONE}]DNA captured[/]. Routing to merger for pre-insemination health checks...[/]") 
+        time.sleep(3)
+        subprocess.run([sys.executable, PATH_MERGER, stock_type, ticker, "--reborn"])
+
+    # NEWBORN SUB-BRANCH
+    else:
+        # HUMAN-READABLE DNA INSPECTION DASHBOARD
+        accepted = dash.show_human_details(ticker, dna_data)
+
+        # NEWBORN REJECTED
+        if not accepted:
+            msg = f"❎ [{color.info}][{color.ERR}]Newborn rejected[/]. Insemination aborted, returning to main menu.[/]"
+            util.pause(reason="f",message=msg, enter="c")
+            return
+
+        # NEWBORN DNA SEQUENCING COMPLETE
+        payload = {ticker: dna_data}
+        util.save_json(PATH_NEWBORN, payload)
+
+        # CALL MERGER WITH NEWBORN FLAG
+        console.print(f"✅ [{color.info}][{color.DONE}]Newborn logged[/]. Routing to merger for comprehensive health report...[/]")
+        subprocess.run([sys.executable, PATH_MERGER, stock_type, ticker, "--newborn"])
+
+# =<< BRANCH 2. RUN REFRESH (headless portfolio update)
+# === === === === === === === ===
+def run_refresh(debug):
+    mapping   = util.load_json(PATH_MAPPINGS)
+    portfolio = util.load_json(PATH_PORTFOLIO)
+
+    ui.merger_headless_banner()
 
     for ticker, data in portfolio.items():
         try:
             if "stockType" not in data:
-                raise KeyError(f"Missing stockType for {ticker}")
+                raise KeyError(f"[{color.info}][{color.ERR}]ERROR[/]: Missing stockType for [{color.FAIL}]{ticker}[/].[/]")
 
             s_type = data["stockType"]
-
-            dna = fetch_dna_sequence(ticker, s_type, mapping)
+            dna    = fetch_dna_sequence(ticker, s_type, mapping)
 
             if dna["COMPANY"]["ticker"] is not None:
-                mother[ticker] = dna
-                console.print(f"{pad_left}[dim] • [green]✔[/green] [bold light_steel_blue1]{ticker:<8} [/bold light_steel_blue1][navajo_white] data fetched[/navajo_white][/dim]")
+                portfolio[ticker] = dna
+                console.print(f"✔ [{color.info}][{color.ACTV}]{ticker:<8}[/] data fetched.[/]")
             else:
-                console.print(f"[dim][yellow]⚠[/yellow] [bold light_steel_blue1]{ticker:<8}[/bold light_steel_blue1] skipped: DNA fetch returned empty.[/dim]")
-
+                console.print(f"⚠ [{color.info}][{color.WARN}][{color.ACTV}]{ticker:<8}[/] skipped[/]: DNA fetch returned empty.[/]")
         except Exception as e:
-            console.print(f"[dim][bold indian_red]✘ ERROR[/bold indian_red]: Could not process [bold light_steel_blue1]{ticker}[/bold light_steel_blue1]. Details: [light_coral]{e}[/light_coral][/dim]")
+            console.print(f"✘ [{color.info}][{color.ERR}][{color.ACTV}]{ticker:<8}[/] error[/]: {e}.[/]")
             continue
 
-    time.sleep(1)
+    # Save updated portfolio to the refresh staging file
     os.makedirs(DIR_CACHE, exist_ok=True)
-    save_json(PATH_REFRESH, mother)
-    subprocess.run([sys.executable, PATH_MERGER, "--refresh"])
+    util.save_json(PATH_REFRESH, portfolio)
 
-def run_newborn_search(stock_type, ticker, mode_flag="--newborn"):
-    """
-    Handles the DNA fetch and branches based on whether it's a new 
-    entry or a targeted update (reborn).
-    """
-    # 1. LOAD CONFIGS (Required for mapping_conf)
-    mapping = load_json(PATH_MAPPING)
-
-    # 2. FETCH DNA (Fixed: Passing the required mapping_conf)
-    dna_data = fetch_dna_sequence(ticker, stock_type, mapping) 
-
-    # 3. THE BRANCHING LOGIC
-    if mode_flag == "--reborn":
-        console.print(f"\n[bold cyan]///[/][light_slate_grey]SYSTEM[/][bold cyan]//[/][navajo_white1]TARGETED UPDATE[/][bold cyan]//[/][light_steel_blue1]{ticker}[/]")
-        console.print(f"[dim]Performing deep-sync for existing entity...[/]")
-        
-        # Ensure we wrap the single ticker in a dict for the merger to iterate
-        payload = {ticker: dna_data}
-        save_json(PATH_REBORN, payload)
-        
-        console.print(f"[spring_green1]DNA captured. Routing to merger...[/]")
-        subprocess.run([sys.executable, "scripts/lib/merger.py", stock_type, ticker, "--reborn"])
-        
+    # Hand off to merger for integrity checks and swap
+    result = subprocess.run([sys.executable, PATH_MERGER, "--refresh"])
+    if result.returncode == 0:
+        # Merger succeeded — consolidate per-ticker history into master historic.json
+        all_tickers = list(portfolio.keys())
+        hist.save_historic(all_tickers, DIR_ARCHIVE, PATH_HISTORIC)
+        console.print(f"\n[{color.info}][{color.PASS}]Refresh completed successfully[/]. Historic data consolidated.[/]")
     else:
-        # STANDARD PATH: Human Dashboard for New Tickers
-        show_human_details(ticker, dna_data) # Fixed function name
-        
-        # Ensure we wrap the single ticker in a dict for the merger to iterate
-        payload = {ticker: dna_data}
-        save_json(PATH_NEWBORN, payload)
-        
-        console.print(f"[spring_green1]Newborn logged. Routing to merger...[/]")
-        subprocess.run([sys.executable, "scripts/lib/merger.py", stock_type, ticker, "--newborn"])
+        # Merger failed — back up existing historic.json to avoid data loss
+        if os.path.exists(PATH_HISTORIC):
+            backup_path = f"{DIR_CACHE}/backup-historic.json"
+            os.replace(PATH_HISTORIC, backup_path)
+            console.print(f"\n[{color.info}][{color.FAIL}]Merger failed[/]. Historic data backed up to [{color.DOS}]{backup_path}[/].[/]")
 
+
+
+# === === === === === === === ===
+# == =<< MAIN >>- --- --- --- ---
 if __name__ == "__main__":
+    debug = True if "--debug" in sys.argv else False
     if "--refresh" in sys.argv:
-        run_headless_update()
+        run_refresh(debug)
     elif len(sys.argv) >= 4:
-        # Scenario: main.py passed [type, ticker, flag]
         stock_type = sys.argv[1].upper()
-        ticker = sys.argv[2].upper()
-        mode_flag = sys.argv[3] # This will be "--newborn" or "--reborn"
-        
-        run_newborn_search(stock_type, ticker, mode_flag)
+        ticker     = sys.argv[2].upper()
+        mode_flag  = sys.argv[3]
+        run_born(stock_type, ticker, mode_flag, debug)
     elif len(sys.argv) == 3:
-        # Fallback: maintain compatibility if called without a flag
-        run_newborn_search(sys.argv[1].upper(), sys.argv[2].upper(), "--newborn")
+        run_born(sys.argv[1].upper(), sys.argv[2].upper(), f"--newborn", debug)
+    else:
+        console.print(f"[[{color.ACTV}]USAGE[/]]: python incubator.py [--refresh | TYPE TICKER [--newborn|--reborn]]")
+        sys.exit(1)

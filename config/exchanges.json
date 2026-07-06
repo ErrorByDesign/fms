@@ -1,0 +1,20 @@
+{
+    "exchanges": [
+        { "name": "New York Stock Exchange", "exchDisp": "NYSE" },
+        { "name": "Nasdaq Stock Exchange", "exchDisp": "Nasdaq" },
+        { "name": "NYSE American", "exchDisp": "NYSE MKT" },
+        { "name": "Toronto Stock Exchange", "exchDisp": "Toronto" },
+        { "name": "London Stock Exchange", "exchDisp": "London" },
+        { "name": "Euronext Amsterdam", "exchDisp": "Amsterdam" },
+        { "name": "Euronext Paris", "exchDisp": "Paris" },
+        { "name": "XETRA", "exchDisp": "XETRA" },
+        { "name": "SIX Swiss Exchange", "exchDisp": "Swiss" },
+        { "name": "Tokyo Stock Exchange", "exchDisp": "Tokyo Stock Exchange" },
+        { "name": "Hong Kong Stock Exchange", "exchDisp": "Hong Kong" },
+        { "name": "Shanghai Stock Exchange", "exchDisp": "Shanghai" },
+        { "name": "Shenzhen Stock Exchange", "exchDisp": "Shenzhen" },
+        { "name": "Korea Stock Exchange", "exchDisp": "Korea" },
+        { "name": "Taiwan Stock Exchange", "exchDisp": "Taiwan" },
+        { "name": "Australian Stock Exchange", "exchDisp": "Australian" }
+    ]
+}

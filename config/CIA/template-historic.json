@@ -1,0 +1,9 @@
+{
+    "TICKER_SYMBOL": {
+        "epoch_seconds": {
+            "close": null,
+            "high": null,
+            "low": null
+        }
+    }
+}

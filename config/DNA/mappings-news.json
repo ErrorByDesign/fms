@@ -1,0 +1,52 @@
+{
+    "AVANTAGE": {
+        "PRIVATE": {},
+        "PUBLIC": {
+            "NEWS": [
+                {
+                    "category": "NEWS_SENTIMENT.feed.category_within_source",
+                    "publishDate": "NEWS_SENTIMENT.feed.time_published",
+                    "source": "NEWS_SENTIMENT.feed.source",
+                    "summary": "NEWS_SENTIMENT.feed.summary",
+                    "title": "NEWS_SENTIMENT.feed.title",
+                    "url": "NEWS_SENTIMENT.feed.url",
+                    "urlImage": "NEWS_SENTIMENT.feed.banner_image",
+                    "freemium": "",
+                    "premium": ""
+                }
+            ]
+        }
+    },
+    "YFINANCE": {
+        "PRIVATE": {
+            "NEWS": [
+                {
+                    "category": "news.content.canonicalUrl.site",
+                    "publishDate": "news.content.pubDate",
+                    "source": "news.content.provider.displayName",
+                    "summary": "news.content.summary",
+                    "title": "news.content.title",
+                    "url": "news.content.canonicalUrl.url",
+                    "urlImage": "news.content.thumbnail.originalUrl",
+                    "freemium": "news.content.finance.premiumFinance.isPremiumFreeNews",
+                    "premium": "news.content.finance.premiumFinance.isPremiumNews"
+                }
+            ]
+        },
+        "PUBLIC": {
+            "NEWS": [
+                {
+                    "category": "news.content.canonicalUrl.site",
+                    "publishDate": "news.content.pubDate",
+                    "source": "news.content.provider.displayName",
+                    "summary": "news.content.summary",
+                    "title": "news.content.title",
+                    "url": "news.content.canonicalUrl.url",
+                    "urlImage": "news.content.thumbnail.originalUrl",
+                    "freemium": "news.content.finance.premiumFinance.isPremiumFreeNews",
+                    "premium": "news.content.finance.premiumFinance.isPremiumNews"
+                }
+            ]
+        }
+    }
+}

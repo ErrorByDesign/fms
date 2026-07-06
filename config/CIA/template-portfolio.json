@@ -1,0 +1,84 @@
+{
+    "TICKER_SYMBOL": {
+        "stockType": "",
+        "default": null,
+        "updated": null,
+        "price": null,
+        "COMPANY": {
+            "country": "",
+            "exchange": "",
+            "industry": "",
+            "name": "",
+            "sector": "",
+            "ticker": "",
+            "website": "",
+            "description": "",
+            "facts": [],
+            "year": ""
+        },
+        "FINANCE": {
+            "change": null,
+            "marketCap": null,
+            "weekHigh": null,
+            "weekLow": null,
+            "yearTarget": null
+        },
+        "FUNDING": {
+            "fundingToDate": null,
+            "latestAmountRaised": null,
+            "latestFundingDate": null,
+            "latestShareClass": "",
+            "leadInvestor": "",
+            "totalFundingRounds": null
+        },
+        "HISTORY": {
+            "M1": {
+                "dateLow": null,
+                "priceLow": null
+            },
+            "M3": {
+                "dateLow": null,
+                "priceLow": null
+            },
+            "M6": {
+                "dateLow": null,
+                "priceLow": null
+            },
+            "Y1": {
+                "dateLow": null,
+                "priceLow": null
+            },
+            "Y2": {
+                "dateLow": null,
+                "priceLow": null
+            },
+            "Y3": {
+                "dateLow": null,
+                "priceLow": null
+            }
+        },
+        "NEWS": [
+            {
+                "category": "",
+                "publishDate": "",
+                "source": "",
+                "summary": "",
+                "title": "",
+                "url": "",
+                "urlImage": "no data for premium articles",
+                "freemium": null,
+                "premium": null
+            }
+        ],
+        "RATINGS": {
+            "analystCount": null,
+            "recommendationKey": "",
+            "recommendationMean": null,
+            "strongBuy": null,
+            "buy": null,
+            "hold": null,
+            "sell": null,
+            "strongSell": null
+        }
+    }
+}

@@ -1,29 +1,37 @@
-# Python
-__pycache__/
-*.pyc
-*.pyo
+# IDE
+.vscode/
+.idea/
 
-# Virtual environments
-venv/
-.env/
+# Logs
+*.log
+
+# Node (if ever used)
+node_modules/
 
 # OS
 .DS_Store
 Thumbs.db
 
-# Logs
-*.log
+# Project backups
+backup/
+
+# Python cache
+.pytest_cache/
+.mypy_cache/
+__pycache__/
+*.pyc
+*.pyo
+
+# Runtime cache
+data/cache/
+
+# Secrets
+.env
 
 # Temp
 *.tmp
 *.swp
 
-# Node (if ever used)
-node_modules/
-
-# IDE
-.vscode/
-.idea/
-
-# Secrets
-.env
+# Virtual environments
+venv/
+.env/

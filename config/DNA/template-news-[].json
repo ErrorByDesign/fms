@@ -1,0 +1,17 @@
+{
+    "TICKER_SYMBOL": {
+        "NEWS": [
+            {
+                "category": "",
+                "publishDate": "",
+                "source": "",
+                "summary": "",
+                "title": "",
+                "url": "",
+                "urlImage": "",
+                "freemium": "",
+                "premium": ""
+            }
+        ]
+    }
+}

@@ -1,0 +1,72 @@
+{
+    "Rich.Colors": {
+        "signature": "style: str | Style = 'none'",
+        "description": "Colors and text styles are defined using style strings. These can be applied to any Rich renderable, such as console.print() output, table cells, or panel borders.",
+        "style_syntax": {
+            "foreground": {
+                "description": "Specifies the text color. Can be a standard color name, a number (0-255), a hex code, or an RGB value.",
+                "examples": ["red", "color(5)", "#af00ff", "rgb(175,0,255)"]
+            },
+            "background": {
+                "description": "Specifies the background color. Prefix the color with 'on'.",
+                "examples": ["on white", "on rgb(0,0,0)"]
+            },
+            "attributes": {
+                "description": "Adds text styling such as bold, italic, or underline.",
+                "examples": [
+                    "bold",
+                    "italic",
+                    "underline",
+                    "blink",
+                    "reverse",
+                    "strike"
+                ]
+            },
+            "combination": {
+                "description": "Styles can be combined by separating with spaces.",
+                "examples": ["bold red on white", "italic underline cyan"]
+            },
+            "negation": {
+                "description": "Prefix an attribute with 'not' to turn it off.",
+                "examples": ["not bold"]
+            },
+            "link": {
+                "description": "Turns the text into a clickable hyperlink (if supported by the terminal).",
+                "examples": ["link https://example.com"]
+            }
+        },
+        "color_systems": {
+            "description": "Rich auto-detects the terminal's color capabilities, but you can set it manually via the Console's color_system parameter.",
+            "values": {
+                "None": "Disables color entirely.",
+                "auto": "Auto-detects the color system (default).",
+                "standard": "Supports 8 colors with normal and bright variations (16 total).[reference:0]",
+                "256": "Supports 16 standard colors plus a fixed palette of 240 colors.[reference:1]",
+                "truecolor": "Supports 16.7 million colors (RGB).[reference:2]",
+                "windows": "Supports 8 colors in legacy Windows terminals.[reference:3]"
+            }
+        },
+        "standard_colors": {
+            "description": "The first 16 standard 8-bit colors. Note that these are generally defined by the system or terminal software and may not display exactly as shown.[reference:4]",
+            "colors": [
+                { "number": 0, "name": "black" },
+                { "number": 1, "name": "red" },
+                { "number": 2, "name": "green" },
+                { "number": 3, "name": "yellow" },
+                { "number": 4, "name": "blue" },
+                { "number": 5, "name": "magenta" },
+                { "number": 6, "name": "cyan" },
+                { "number": 7, "name": "white" },
+                { "number": 8, "name": "bright_black" },
+                { "number": 9, "name": "bright_red" },
+                { "number": 10, "name": "bright_green" },
+                { "number": 11, "name": "bright_yellow" },
+                { "number": 12, "name": "bright_blue" },
+                { "number": 13, "name": "bright_magenta" },
+                { "number": 14, "name": "bright_cyan" },
+                { "number": 15, "name": "bright_white" }
+            ]
+        },
+        "return_type": "Style"
+    }
+}

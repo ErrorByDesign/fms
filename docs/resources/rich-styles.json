@@ -1,0 +1,157 @@
+{
+    "Rich.Styles": {
+        "description": "Comprehensive reference for Rich style strings – used to format text, set colors, backgrounds, attributes, and hyperlinks.",
+        "style_syntax": {
+            "foreground_colors": {
+                "description": "Sets the text color. Can be a standard name, an 8‑bit color number, a hex code, or an RGB value.",
+                "formats": [
+                    {
+                        "syntax": "black | red | green | yellow | blue | magenta | cyan | white",
+                        "description": "Standard 8 ANSI terminal colors."
+                    },
+                    {
+                        "syntax": "bright_black | bright_red | bright_green | bright_yellow | bright_blue | bright_magenta | bright_cyan | bright_white",
+                        "description": "Bright (light) variants of the standard 8 colors."
+                    },
+                    {
+                        "syntax": "color(N)",
+                        "description": "Any of 256 indexed colors, where N is an integer from 0 to 255.",
+                        "example": "color(5)  # magenta"
+                    },
+                    {
+                        "syntax": "#RRGGBB",
+                        "description": "Hex color (24‑bit truecolor).",
+                        "example": "#ff00ff"
+                    },
+                    {
+                        "syntax": "rgb(R,G,B)",
+                        "description": "RGB color, each component 0–255.",
+                        "example": "rgb(255,0,255)"
+                    },
+                    {
+                        "syntax": "default",
+                        "description": "Resets the foreground color to the terminal default."
+                    }
+                ]
+            },
+            "background_colors": {
+                "description": "Sets the background color. Prefix any foreground color with 'on'.",
+                "formats": [
+                    {
+                        "syntax": "on <color>",
+                        "description": "Applies the given color to the background.",
+                        "examples": [
+                            "on red",
+                            "on #0000ff",
+                            "on rgb(0,0,255)",
+                            "on color(5)"
+                        ]
+                    },
+                    {
+                        "syntax": "on default",
+                        "description": "Resets the background to the terminal default."
+                    }
+                ]
+            },
+            "text_attributes": {
+                "description": "Adds or removes text styling (bold, italic, underline, etc.).",
+                "formats": [
+                    {
+                        "syntax": "bold | b",
+                        "description": "Bold text."
+                    },
+                    {
+                        "syntax": "italic | i",
+                        "description": "Italic text (not widely supported on Windows)."
+                    },
+                    {
+                        "syntax": "underline | u",
+                        "description": "Underlined text."
+                    },
+                    {
+                        "syntax": "underline2 | uu",
+                        "description": "Doubly underlined text (poorly supported)."
+                    },
+                    {
+                        "syntax": "strike | s",
+                        "description": "Strikethrough text."
+                    },
+                    {
+                        "syntax": "blink",
+                        "description": "Slow blinking text."
+                    },
+                    {
+                        "syntax": "blink2",
+                        "description": "Rapid blinking text (poorly supported)."
+                    },
+                    {
+                        "syntax": "reverse | r",
+                        "description": "Swaps foreground and background colors."
+                    },
+                    {
+                        "syntax": "conceal",
+                        "description": "Hides text (poorly supported)."
+                    },
+                    {
+                        "syntax": "frame",
+                        "description": "Framed text (poorly supported)."
+                    },
+                    {
+                        "syntax": "encircle",
+                        "description": "Encircled text (poorly supported)."
+                    },
+                    {
+                        "syntax": "overline | o",
+                        "description": "Overlined text (poorly supported)."
+                    }
+                ]
+            },
+            "links": {
+                "description": "Makes the text a clickable hyperlink (terminal support required).",
+                "syntax": "link <URL>",
+                "example": "link https://example.com"
+            },
+            "negation": {
+                "description": "Turns off a specific attribute by prefixing it with 'not'.",
+                "formats": [
+                    {
+                        "syntax": "not bold",
+                        "description": "Removes bold formatting."
+                    },
+                    {
+                        "syntax": "not italic",
+                        "description": "Removes italic formatting."
+                    },
+                    {
+                        "syntax": "not underline",
+                        "description": "Removes underline."
+                    },
+                    {
+                        "syntax": "not strike",
+                        "description": "Removes strikethrough."
+                    }
+                ]
+            }
+        },
+        "markup_syntax": {
+            "description": "Inline markup for applying styles to parts of a string within console output, tables, panels, etc.",
+            "opening_tag": "[style]",
+            "closing_tag": "[/style] or [/] to close the most recent style",
+            "examples": [
+                "[bold red]Alert![/bold red]",
+                "Visit [link=https://example.com]my blog[/link]"
+            ]
+        },
+        "escaping": {
+            "description": "To print literal '[' or ']' without triggering markup, use a backslash or raw string.",
+            "example": "print(r\"foo[bar]\")  # prints foo[bar]"
+        },
+        "combined_examples": [
+            "bold italic underline on white",
+            "red on #0000ff",
+            "link https://example.com bright_blue",
+            "not bold rgb(255,0,0)"
+        ],
+        "notes": "Some attributes (blink2, frame, encircle, overline, conceal) are not well supported by most terminals and may not display."
+    }
+}

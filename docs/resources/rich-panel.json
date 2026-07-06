@@ -1,0 +1,99 @@
+{
+    "Rich.Panel": {
+        "signature": "Panel(renderable, box=Box(ROUNDED), *, title=None, title_align='center', subtitle=None, subtitle_align='center', safe_box=None, expand=True, style='none', border_style='none', width=None, height=None, padding=(0, 1), highlight=False)",
+        "description": "A console renderable that draws a border around its contents.[reference:35]",
+        "parameters": {
+            "renderable": {
+                "type": "RenderableType",
+                "default": "required",
+                "kind": "positional",
+                "description": "The content to be displayed inside the panel (text, table, or any Rich renderable).[reference:36]"
+            },
+            "box": {
+                "type": "Box",
+                "default": "box.ROUNDED",
+                "kind": "keyword-only",
+                "description": "A Box instance that defines the look of the border (e.g., ROUNDED, HEAVY, ASCII).[reference:37]"
+            },
+            "title": {
+                "type": "Optional[TextType]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Optional title displayed in the panel header.[reference:38]"
+            },
+            "title_align": {
+                "type": "AlignMethod",
+                "default": "'center'",
+                "kind": "keyword-only",
+                "description": "Alignment of the title (left, center, or right).[reference:39]"
+            },
+            "subtitle": {
+                "type": "Optional[TextType]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Optional subtitle displayed in the panel footer.[reference:40]"
+            },
+            "subtitle_align": {
+                "type": "AlignMethod",
+                "default": "'center'",
+                "kind": "keyword-only",
+                "description": "Alignment of the subtitle.[reference:41]"
+            },
+            "safe_box": {
+                "type": "Optional[bool]",
+                "default": "True",
+                "kind": "keyword-only",
+                "description": "If True, disables box characters that don't display on legacy Windows terminals with raster fonts.[reference:42]"
+            },
+            "expand": {
+                "type": "bool",
+                "default": "True",
+                "kind": "keyword-only",
+                "description": "If True, the panel stretches to fill the console width. If False, it sizes to fit the content.[reference:43]"
+            },
+            "style": {
+                "type": "str",
+                "default": "'none'",
+                "kind": "keyword-only",
+                "description": "The style of the panel (border and contents).[reference:44]"
+            },
+            "border_style": {
+                "type": "str",
+                "default": "'none'",
+                "kind": "keyword-only",
+                "description": "The style of the border specifically.[reference:45]"
+            },
+            "width": {
+                "type": "Optional[int]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Optional fixed width of the panel in characters. Defaults to auto-detection.[reference:46]"
+            },
+            "height": {
+                "type": "Optional[int]",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Optional fixed height of the panel in lines. Defaults to auto-detection.[reference:47]"
+            },
+            "padding": {
+                "type": "Optional[PaddingDimensions]",
+                "default": "(0, 1)",
+                "kind": "keyword-only",
+                "description": "Optional padding around the renderable inside the panel.[reference:48]"
+            },
+            "highlight": {
+                "type": "bool",
+                "default": "False",
+                "kind": "keyword-only",
+                "description": "If True, enables automatic highlighting of the panel title (if it's a string).[reference:49]"
+            }
+        },
+        "classmethod": {
+            "fit": {
+                "signature": "fit(renderable, box=Box(ROUNDED), *, title=None, title_align='center', subtitle=None, subtitle_align='center', safe_box=None, style='none', border_style='none', width=None, height=None, padding=(0, 1), highlight=False)",
+                "description": "An alternative constructor that sets expand=False, making the panel fit its content.[reference:50]"
+            }
+        },
+        "return_type": "Panel"
+    }
+}

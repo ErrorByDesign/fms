@@ -1,0 +1,14 @@
+{
+    "TICKER_SYMBOL": {
+        "RATINGS": {
+            "analystCount": null,
+            "recommendationKey": "",
+            "recommendationMean": null,
+            "strongBuy": null,
+            "buy": null,
+            "hold": null,
+            "sell": null,
+            "strongSell": null
+        }
+    }
+}

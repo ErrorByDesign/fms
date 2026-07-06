@@ -1,0 +1,74 @@
+{
+    "TICKER_SYMBOL": {
+        "AVANTAGE": {
+            "PRIVATE": {},
+            "PUBLIC": {
+                "Symbol": "",
+                "Name": "",
+                "Description": "",
+                "Exchange": "",
+                "Country": "",
+                "Sector": "",
+                "Industry": "",
+                "OfficialSite": "",
+                "MarketCapitalization": "",
+                "52WeekHigh": "",
+                "52WeekLow": "",
+                "AnalystTargetPrice": "",
+                "AnalystRatingStrongBuy": "",
+                "AnalystRatingBuy": "",
+                "AnalystRatingHold": "",
+                "AnalystRatingSell": "",
+                "AnalystRatingStrongSell": ""
+            }
+        },
+        "YFINANCE": {
+            "PRIVATE": {
+                "country": "",
+                "website": "",
+                "industry": "",
+                "sector": "",
+                "longBusinessSummary": "",
+                "companyURL": "",
+                "keyFacts": [],
+                "latestFundingDate": null,
+                "latestAmountRaised": null,
+                "latestImpliedValuation": null,
+                "latestShareClass": "",
+                "leadInvestor": "",
+                "fundingToDate": null,
+                "totalFundingRounds": null,
+                "symbol": "",
+                "exchange": "",
+                "regularMarketChangePercent": null,
+                "regularMarketPrice": null,
+                "shortName": "",
+                "fullExchangeName": "",
+                "fiftyTwoWeekLow": null,
+                "fiftyTwoWeekHigh": null,
+                "longName": ""
+            },
+            "PUBLIC": {
+                "country": "",
+                "website": "",
+                "industry": "",
+                "sector": "",
+                "longBusinessSummary": "",
+                "marketCap": null,
+                "fiftyTwoWeekLow": null,
+                "fiftyTwoWeekHigh": null,
+                "targetMeanPrice": null,
+                "recommendationMean": null,
+                "recommendationKey": "",
+                "numberOfAnalystOpinions": null,
+                "symbol": "",
+                "regularMarketChangePercent": null,
+                "regularMarketPrice": null,
+                "regularMarketChange": null,
+                "fullExchangeName": "",
+                "longName": ".",
+                "exchange": ""
+            }
+        }
+    }
+}

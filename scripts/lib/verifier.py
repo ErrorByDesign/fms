@@ -1,146 +1,198 @@
-#!/usr/bin/env python3
-# -----------------------------------------
-# X E R X E S   S T O C K   V E R I F I E R
-#------------
-import random
-import time
+# scripts/lib/verifier.py
+# --- --- --- --- --- --- --- --- --- --- --- ---
+# -< F M S   T E R M I N A L :  V E R I F I E R >-
+# --- --- --- --- ---
+
+# -< IMPORTS
 import sys
+import time
 import yfinance as yf
 from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+# -< IMPORTS: LOCAL
+import modules.paginator as paginate
+import scripts.config.breadcrumbs as crumb
+import scripts.config.colors as color
+import scripts.config.globals as glob
+import scripts.config.ui as ui
+import scripts.config.utils as util
+
+# -< IMPORTS: RICH
 from rich.console import Console
-from rich.prompt import IntPrompt, Prompt, Confirm
+from rich.prompt import Confirm, IntPrompt, Prompt
 from rich.table import Table
-
-from modules.paginator import paginate
-
-sys.path.append(str(Path("./modules").resolve()))
-
 console = Console()
 
-BANNERS = [
-    ":: F I N A N C I A L ::: M O D E L I N G ::: S H E L L ::\n:: ::: ::: ::: ::: O P E R A T I O N S ::: ::: ::: ::: ::\n\n\n",
-    "═━═━═ XERXES FMS OPERATIONS ═━═━═\n═━═━═ ═━═━═ ═━═━ ━═━═ ═━═━═ ═━═━═\n\n\n",
-    "                          ★ OPERATION XERXES ★                         \n· • THE OPERATIC FINE ANNE SHALL MODEL IN MICHELLE OPERATING TABLE • ·\n\n\n"
-]
+# =<< PATHS
+sys.path.append(str(Path("./modules").resolve()))
+sys.path.append(str(Path("./scripts/config").resolve()))
+PATH_EXCHANGES = Path("./config/exchanges.json")
 
-BANNER  = random.choice(BANNERS)
 
-# DISPLAY
-# -------
-def show_banner():
-    console.print(f"\n[bold khaki3]{BANNER}[/bold khaki3]\n")
 
-# VERIFY
-# ------
+# -<< LOAD EXCHANGES
+# --- --- --- --- --- --- --- ---
+def load_exchanges():
+    data      = util.load_json(PATH_EXCHANGES)
+    exchanges = data.get("exchanges", [])
+    allowed   = set()
+
+    for ex in exchanges:
+        disp  = ex.get("exchDisp")
+
+        if isinstance(disp, list):
+            allowed.update(disp)
+        elif disp:
+            allowed.add(disp)
+
+    return allowed
+
+
+
+# =<< VERIFY STOCK
+# === === === === === === === ===
 def verify_stock(query, stock_type):
-    """
-    Search yFinance for a company/ticker and return a confirmed symbol.
-    """
-    # 1. SANITIZE
-    # Handle casing and whitespace gracefully
+    # Validate query
     clean_query = query.strip()
     if not clean_query:
         return None
 
-    console.clear()
-    show_banner()
-    console.print(f"[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[light_slate_grey]SEARCH[/light_slate_grey]//[light_slate_grey]TYPE[/light_slate_grey]:[navajo_white1]{stock_type}[/navajo_white1]//[light_slate_grey]{"TICKER" if stock_type == "PUBLIC" else "COMPANY"}[/light_slate_grey]:[navajo_white1]{clean_query}[/navajo_white1]//C:>[/bold][light_steel_blue1]pkg search [bold honeydew2]{clean_query}[/bold honeydew2]...[/light_steel_blue1][bold]_[/bold][/misty_rose1]\n")
+    # Update global clean input and show verify breadcrumb
+    glob.clean_input = clean_query.upper()
+    ui.show_fms_banner()
+    console.print(crumb.c_main_search_type_input_verify(stock_type, glob.clean_input))
 
-    # 2. FETCH RESULTS
     try:
-        # yFinance search is case-insensitive, so we don't need to force upper/lower here
-        search = yf.Search(clean_query, max_results=20)
+        search  = yf.Search(clean_query, max_results=20)
         results = search.quotes
     except Exception as e:
-        console.clear()
-        show_banner()
-        console.print(f"[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[light_slate_grey]SEARCH[/light_slate_grey]//[light_slate_grey]TYPE[/light_slate_grey]:[navajo_white1]{stock_type}[/navajo_white1]//[light_slate_grey]{"TICKER" if stock_type == "PUBLIC" else "COMPANY"}[/light_slate_grey]:[navajo_white1]{clean_query}[/navajo_white1]//C:>[/bold][bold indian_red1]Search Error:[/bold indian_red1][bold honeydew2]{e}[/bold honeydew2][/light_coral][bold]_[/bold][/misty_rose1]\n")
-        time.sleep(5)
+        # Show yFinance error
+        ui.show_fms_banner()
+        crumb.error(str(e), stock_type, glob.clean_input)
+
+        message  = f"No such company and/or ticker ({clean_query})." if e is None else str(e)
+        solution = "If no results found check internet connection and try again." if e is None else ""
+        util.show_task_result(message, False, "", False, "search again", False, 0, solution)
         return None
 
     if not results:
-        console.clear()
-        show_banner()
-        console.print(f"[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[light_slate_grey]SEARCH[/light_slate_grey]//[light_slate_grey]TYPE[/light_slate_grey]:[navajo_white1]{stock_type}[/navajo_white1]//[light_slate_grey]{"TICKER" if stock_type == "PUBLIC" else "COMPANY"}[/light_slate_grey]:[navajo_white1]{clean_query}[/navajo_white1]//C:>[/bold][light_coral]Failed to fetch [bold honeydew2]{clean_query}[/bold honeydew2][/light_coral]: No such ticker or company[bold]_[/bold][/misty_rose1]\n")
-        time.sleep(5)
+        ui.show_fms_banner()
+        message     = "Company name / ticker symbol search error"
+        search_type = "company name" if stock_type == "PRIVATE" else "ticker symbol"
+        solution    = f"Check the {search_type} and make sure to choose the correct company type and try again"
+        crumb.error(message, stock_type, glob.clean_input)
+        util.show_task_result(message, False, "", False, "search again", False, 0, solution)
         return None
 
-    # 3. PAGINATION LOOP
-    current_page = 0
-    page_size = 8 # Optimized for mobile (OriginOS/Termux)
-    
-    while True:
-        items, has_more, exit_pos = paginate(results, page=current_page, page_size=page_size)
-        
-        console.clear()
-        show_banner()
-        console.print(f"[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[light_slate_grey]SEARCH[/light_slate_grey]//[light_slate_grey]TYPE[/light_slate_grey]:[navajo_white1]{stock_type}[/navajo_white1]//[light_slate_grey]{"TICKER" if stock_type == "PUBLIC" else "COMPANY"}[/light_slate_grey]:[navajo_white1]{clean_query}[/navajo_white1]//C:>[/bold][light_steel_blue1]ls | grep '[bold honeydew2]{clean_query}[/bold honeydew2]'[/light_steel_blue1]\\..*\\..*[bold]_[/bold][/misty_rose1]\n")
-        console.print(f"[dim]TYPE: [bold light_coral]{stock_type}[/bold light_coral] | QUERY: [bold steel_blue1]{clean_query.upper()}[/bold steel_blue1][/dim]\n")
+    # ========== FILTER RESULTS ==========
+    allowed_exchanges = load_exchanges()
+    allowed_lower     = {ex.lower() for ex in allowed_exchanges}
 
-        # UI Table
-        table = Table(box=None, show_header=True, header_style="bold yellow")
-        table.add_column("#", justify="right", style="cyan")
-        table.add_column("Symbol", style="bold white")
-        table.add_column("Name", style="spring_green1")
-        table.add_column("Exch", style="dim")
-        
-        table.add_row("0", "CANCEL", "", "")
-        
+    filtered_results = []
+    for item in results:
+        quote_type = item.get("quoteType", "")
+
+        if quote_type in ("OPTION", "FUTURE", "FUTURES", "OPTIONS"):
+            continue
+
+        exch_disp = item.get("exchDisp", "")
+
+        if allowed_lower and exch_disp.lower() not in allowed_lower:
+            continue
+
+        filtered_results.append(item)
+
+    if not filtered_results:
+        message = "No matching companies on allowed exchanges."
+        ui.show_fms_banner()
+        crumb.error(message, stock_type, glob.clean_input)
+        util.show_task_result("No results after filtering", False, "", False, "search again", False, 0, "Check exchange list or try a different query")
+        return None
+
+    results = filtered_results
+
+    # ========== PAGINATED RESULTS ==========
+    current_page = 0
+    page_size    = 8
+
+    while True:
+        items, has_more, exit_pos = paginate.paginate(results, page=current_page, page_size=page_size)
+
+        ui.show_fms_banner()
+        console.print(crumb.c_main_search_type_input_result(stock_type, glob.clean_input))
+        console.print(crumb.c_main_search_type_input_choice(stock_type, glob.clean_input))
+
+        # Build results table
+        table = Table(
+            box=None,
+            show_header=True,
+            header_style=f"{color.BNNR1}",
+            row_styles=[
+                f"{color.b1}", f"{color.b2}", f"{color.b3}"
+                f"{color.b4}", f"{color.b5}", f"{color.b6}"
+            ]
+        )
+        table.add_column("#",        justify="right")
+        table.add_column("Symbol")
+        table.add_column("Name")
+        table.add_column("Exchange")
+
+        table.add_row(f"[{color.exit}]0[/]", f"[{color.exit}]EXIT[/]", "", "")
+
         for i, item in enumerate(items, 1):
-            symbol = item.get("symbol", "N/A")
+            symb = item.get("symbol",    "N/A")
             name = item.get("shortname", item.get("longname", "Unknown"))
-            exch = item.get("exchDisp", item.get("exchange", "???"))
-            table.add_row(str(i), symbol, name, exch)
+            exch = item.get("exchDisp",  item.get("exchange", "???"))
+            table.add_row(str(i), symb, name, exch)
 
         console.print(table)
-        
-        # Build choices using your Paginator's exit_pos
+
         choices = [0] + list(range(1, len(items) + 1))
         if has_more:
-            console.print(f"[bold yellow]{exit_pos}. NEXT PAGE[/bold yellow]")
+            console.print(f"[{color.opt6}]{exit_pos}. NEXT PAGE[/]")
             choices.append(exit_pos)
-            
-        # Convert choices to strings for the Prompt to handle them correctly
+
         str_choices = [str(c) for c in choices]
-        
-        raw_choice = Prompt.ask("\n>_ ", choices=str_choices, show_choices=False, default=0, show_default=False)
-        
-        # Now we know it's a valid string choice, convert back to int
-        choice = int(raw_choice)
+        raw_choice  = Prompt.ask("\n>_ ", choices=str_choices, show_choices=False, default=0, show_default=False)
+        choice      = int(raw_choice)
 
         if choice == 0:
             return None
         elif choice == exit_pos and has_more:
-            current_page += 1
+            current_page     += 1
+            glob.page_number  = current_page
             continue
         elif 1 <= choice <= len(items):
             selected = items[choice - 1]
-            return _confirm_selection(selected, stock_type, clean_query)
+            return confirm_selection(selected, stock_type, clean_query)
 
-# CONFIRM
-# -------
-def _confirm_selection(item, stock_type, clean_query):
-    """
-    Internal helper for final confirmation as per requirements.
-    """
-    symbol = item.get("symbol", "N/A")
-    name   = item.get("shortname", item.get("longName", "Unknown"))
-    exch   = item.get("exchDisp", item.get("fullExchangeName", "???"))
-    
-    console.print(f"[misty_rose1][bold]///[light_slate_grey]MAIN[/light_slate_grey]//[light_slate_grey]SEARCH[/light_slate_grey]//[light_slate_grey]TYPE[/light_slate_grey]:[navajo_white1]{stock_type}[/navajo_white1]//[light_slate_grey]{"TICKER" if stock_type == "PUBLIC" else "COMPANY"}[/light_slate_grey]:[navajo_white1]{clean_query}[/navajo_white1]//C:>[/bold][light_steel_blue1]Confirm Selection:[/light_steel_blue1][/misty_rose1]\n")
-    console.print(f"[plum1]• Company: [/plum1][bold cyan]{name}[/bold cyan]")
-    console.print(f"[plum1]• Ticker:  [/plum1][bold steel_blue1]{symbol.upper()}[/bold steel_blue1]")
-    console.print(f"[plum1]• Exchange: [/plum1][dim]{exch}[/dim]")
-    
-    # Final verification gate
-    is_correct = Confirm.ask("\nIs this correct?", default=True)
-    
-    # Ensure the ticker is upper-cased before returning to main/incubator
-    return symbol.upper() if is_correct else None
+# =<< CONFIRM SELECTION
+# === === === === === === === ===
+def confirm_selection(item, stock_type, clean_query):
+    symb = item.get("symbol",    "N/A")
+    name = item.get("shortname", item.get("longName", "Unknown"))
+    exch = item.get("exchDisp",  item.get("fullExchangeName", "???"))
 
-# MODULE GATE
+    while True:
+        ui.show_fms_banner()
+        console.print(crumb.c_main_search_type_input_detail(stock_type, glob.clean_input))
+        console.print(f"[{color.info}][{color.b1}]• [{color.g6}]Company[/] : [{color.g1}]{name}[/][/]")
+        console.print(f"[{color.info}][{color.b2}]• [{color.g6}]Ticker[/]  : [{color.g1}]{symb.upper()}[/][/]")
+        console.print(f"[{color.info}][{color.b3}]• [{color.g6}]Exchange[/]: [{color.g1}]{exch}[/][/]")
+
+        is_correct = Confirm.ask(f"\n[{color.info}]Is this correct?[/]", default=True)
+
+        if is_correct:
+            return symb.upper()
+        else:
+            return verify_stock(clean_query, stock_type)
+
+
+
+# === === === === === === === ===
+# == =<< MAIN >>- --- --- --- ---
 if __name__ == "__main__":
-    # Test block
     res = verify_stock("Space", "PUBLIC")
     if res:
-        print(f"\n[SUCCESS] Verified Ticker: {res}")
+        print(f"\n[{color.info}][{color.PASS}]SUCCESS[/]: Verified ticker ([{color.ACTV}]{res}[/]).[/]")

@@ -1,0 +1,329 @@
+{
+    "msdos-commands": {
+        "change-directory": {
+            "command": "CD",
+            "syntax": "CD [drive:][path]Change",
+            "description": "Changes the current directory to the specified path or drive."
+        },
+        "list-files": {
+            "command": "DIR",
+            "syntax": "DIR [drive:][path]",
+            "description": "Displays a list of files and subdirectories in a directory."
+        },
+        "copy-files": {
+            "command": "COPY",
+            "syntax": "COPY [source] [destination]",
+            "description": "Copies files from one location to another"
+        },
+        "delete-files": {
+            "command": "DEL",
+            "syntax": "DEL [drive:][path]",
+            "description": "Deletes one or more files."
+        },
+        "rename-file": {
+            "command": "REN",
+            "syntax": "REN [drive:][path][filename1] [filename2]",
+            "description": "Renames a file or directory."
+        },
+        "create-directory": {
+            "command": "MKDIR",
+            "syntax": "MKDIR [drive:][path]",
+            "description": "Creates a new directory."
+        },
+        "remove-directory": {
+            "command": "RMDIR",
+            "syntax": "RMDIR [drive:][path]",
+            "description": "Removes an existing directory."
+        },
+        "display-text": {
+            "command": "TYPE",
+            "syntax": "TYPE [drive:][path]filename",
+            "description": "Displays the contents of a text file."
+        },
+        "edit-file": {
+            "command": "EDIT",
+            "syntax": "EDIT [drive:][path]filename",
+            "description": "Opens the MS-DOS text editor for editing a specified file."
+        },
+        "check-disk": {
+            "command": "CHKDSK",
+            "syntax": "CHKDSK [volume:][[path]filename] [/F] [/V] [/R] [/X] [/I] [/C] [/L[:size]] [/B]",
+            "description": "Scans and fixes errors on a disk."
+        },
+        "format-disk": {
+            "command": "FORMAT",
+            "syntax": "FORMAT volume [/FS:file-system] [/V:label] [/Q] [/L[:size]] [/A:size] [/C] [/X]",
+            "description": "Prepares a storage medium for data storage."
+        },
+        "copy-directories": {
+            "command": "XCOPY",
+            "syntax": "XCOPY [source] [destination] [/E] [/C] [/H] [/R] [/Y]",
+            "description": "Copies files and directories, including subdirectories."
+        },
+        "show-tree": {
+            "command": "TREE",
+            "syntax": "TREE [drive:][path]",
+            "description": "Graphically displays the folder structure of a drive or path."
+        },
+        "set-date": {
+            "command": "DATE",
+            "syntax": "DATE [MM-DD-YYYY]",
+            "description": "Displays or sets the system date."
+        },
+        "set-time": {
+            "command": "TIME",
+            "syntax": "TIME [HH: MM: SS]",
+            "description": "Displays or sets the system time."
+        },
+        "help-commands": {
+            "command": "HELP",
+            "syntax": "HELP [command]",
+            "description": "Provides help information for MS-DOS commands."
+        },
+        "exit-shell": {
+            "command": "EXIT",
+            "syntax": "EXIT",
+            "description": "Exits the MS-DOS command prompt or a batch file."
+        },
+        "file-attributes": {
+            "command": "ATTRIB",
+            "syntax": "ATTRIB [+ R|-R] [+A|-A] [+ H|-H] [+ S|-S] [d:][path]filename [/S]",
+            "description": "Sets or clears file attributes (Read-Only, Archive, System, Hidden), managing file visibility and access in MS-DOS."
+        },
+        "configure-devices": {
+            "command": "MODE",
+            "syntax": "MODE [device] [BAUD=b] [PARITY=p] [DATA=d] [STOP=s]",
+            "description": "Configures system devices."
+        },
+        "copy-disk": {
+            "command": "DISKCOPY",
+            "syntax": "DISKCOPY [drive1:][path1][filename1] [drive2:][path2][filename2]",
+            "description": "Copies the contents of one disk to another."
+        },
+        "show-memory": {
+            "command": "MEM",
+            "syntax": "MEM[/program|/debug|/classify|/free|/module(name)] [/page]",
+            "description": "Displays the amount of used and free memory in the system."
+        },
+        "scan-disk": {
+            "command": "SCANDISK",
+            "syntax": "SCANDISK [/SURFACE] [/AUTOFIX] [/CHECKONLY]",
+            "description": "Scans and fixes disk errors."
+        },
+        "restore-deleted": {
+            "command": "UNDELETE",
+            "syntax": "UNDELETE [drive:][path][filename]",
+            "description": "Restores a deleted file."
+        },
+        "redirect-drive": {
+            "command": "ASSIGN",
+            "syntax": "ASSIGN [drive1:=[drive2:]]",
+            "description": "Redirects requests for drive letters to a different drive."
+        },
+        "partition-disk": {
+            "command": "FDISK",
+            "syntax": "FDISK",
+            "description": "Manages disk partitions."
+        },
+        "backup-files": {
+            "command": "BACKUP",
+            "syntax": "BACKUP [source] [destination] [/S]",
+            "description": "Backs up files and directories."
+        },
+        "restore-files": {
+            "command": "RESTORE",
+            "syntax": "RESTORE [source] [destination] [/S]",
+            "description": "Restores files and directories from a backup."
+        },
+        "cdrom-access": {
+            "command": "MSCDEX",
+            "syntax": "MSCDEX [/D: driver /L:drive] [/M:bufsize] [/E /S /V]",
+            "description": "Provides CD-ROM access."
+        },
+        "transfer-system": {
+            "command": "SYS",
+            "syntax": "SYS [drive1:][path]",
+            "description": "Transfers system files to a disk."
+        },
+        "file-sharing": {
+            "command": "SHARE",
+            "syntax": "SHARE [/F:(space)] [/L:(locks)]",
+            "description": "Installs file-sharing and locking capabilities."
+        },
+        "disk-caching": {
+            "command": "SMARTDRV",
+            "syntax": "SMARTDRV [size] [/E /V] [/C] [/L:size]",
+            "description": "Disk caching utility."
+        },
+        "set-version": {
+            "command": "SETVER",
+            "syntax": "SETVER [drive:][path]filename [/B:bytes]",
+            "description": "Sets the MS-DOS version number for a program."
+        },
+        "disable-assign": {
+            "command": "ASSIGN",
+            "syntax": "ASSIGN [/D]",
+            "description": "Disables automatic drive-letter assignments."
+        },
+        "quick-help": {
+            "command": "FASTHELP",
+            "syntax": "FASTHELP [command] [command] /?",
+            "description": "Provides a quick overview of MS-DOS commands."
+        },
+        "compare-files": {
+            "command": "FC",
+            "syntax": "FC [/A] [/C] [/L] [/LBn] [/N] [/OFF[LINE]] [/T]",
+            "description": "Compares two files or sets of files and displays the differences between them."
+        },
+        "search-text": {
+            "command": "FIND",
+            "syntax": "FIND [/V] [/C] [/N] [/I] [/OFF[LINE]] \"string\" [[drive:][path]filename[ ...]]",
+            "description": "Searches for a text string in files."
+        },
+        "page-text": {
+            "command": "MORE",
+            "syntax": "MORE [filename]",
+            "description": "Display the content of a text file one screen at a time"
+        },
+        "echo-toggle": {
+            "command": "ECHO",
+            "syntax": "ECHO [on/off]",
+            "description": "This command can either show or hide the text of the commands you type. Command echoing is on by default"
+        },
+        "echo-message": {
+            "command": "ECHO",
+            "syntax": "ECHO [<message>]",
+            "description": "Specifies the text to display on the screen."
+        },
+        "set-path": {
+            "command": "PATH",
+            "syntax": "PATH [[drive:][path] [;...]]",
+            "description": "Displays or sets a search path for executable files."
+        },
+        "set-environment": {
+            "command": "SET",
+            "syntax": "SET [variable=[string]]",
+            "description": "Sets or displays environment variables."
+        },
+        "show-volume": {
+            "command": "VOL",
+            "syntax": "VOL [drive:]",
+            "description": "Displays a disk label and serial number."
+        },
+        "substitute-path": {
+            "command": "SUBST",
+            "syntax": "SUBST [drive1: [drive2:]path]",
+            "description": "Associates a path with a drive letter."
+        },
+        "edit-text-line": {
+            "command": "EDLIN",
+            "syntax": "EDLIN [drive:][path][filename]",
+            "description": "Edits text files."
+        },
+        "debug-program": {
+            "command": "DEBUG",
+            "syntax": "DEBUG [drive:][path][filename]",
+            "description": "Starts the Debug program for testing and debugging assembly-language programs."
+        },
+        "himem-support": {
+            "command": "HIMEM.SYS",
+            "syntax": "HIMEM.SYS [/TESTMEM:off] [/HMAMIN=amount]",
+            "description": "Provides upper memory block (UMB) and high memory area (HMA) support."
+        },
+        "unformat-disk": {
+            "command": "UNFORMAT",
+            "syntax": "UNFORMAT [drive:][path]",
+            "description": "Restores a formatted disk."
+        },
+        "graphics-print": {
+            "command": "GRAPHICS",
+            "syntax": "GRAPHICS [type] [[drive:][path]filename] [/R] [/B] [/LCD][/PRINTBOX:STD|/PRINTBOX:LCD]",
+            "description": "Enables output of graphical screen content to print"
+        },
+        "qbasic-run": {
+            "command": "QBASIC",
+            "syntax": "QBASIC [drive:][path]",
+            "description": "Starts the MS-DOS-based application for creating and running BASIC programs."
+        },
+        "keyboard-config": {
+            "command": "KEYB",
+            "syntax": "KEYB [/CODEPAGE=page[,country]] [/E]",
+            "description": "Configures a keyboard for a specific language."
+        },
+        "prompt-choice": {
+            "command": "CHOICE",
+            "syntax": "CHOICE [/C:choices] [/N] [/S] [/T:c,nn]",
+            "description": "Provides a prompt with a list of choices."
+        },
+        "compare-disks": {
+            "command": "DISKCOMP",
+            "syntax": "DISKCOMP [drive1:][drive2:]",
+            "description": "Compares the contents of two floppy disks."
+        },
+        "print-file": {
+            "command": "PRINT",
+            "syntax": "PRINT [/D:device] [filename]",
+            "description": "Sends a text file to a printer."
+        },
+        "sort-text": {
+            "command": "SORT",
+            "syntax": "SORT [drive:][path][filename]",
+            "description": "Sorts the contents of a text file."
+        },
+        "append-path": {
+            "command": "APPEND",
+            "syntax": "APPEND [[drive:]path[;...]]",
+            "description": "Sets or displays the search path for data files."
+        },
+        "file-extensions": {
+            "command": "ASSOC",
+            "syntax": "ASSOC [.ext[=[fileType]]]",
+            "description": "Associates file extension with a file type."
+        },
+        "volume-label": {
+            "command": "LABEL",
+            "syntax": "LABEL [drive:][label]",
+            "description": "Creates, changes, or deletes the volume label of a disk."
+        },
+        "recover-file": {
+            "command": "RECOVER",
+            "syntax": "RECOVER [drive:][path][filename]",
+            "description": "Recovers readable information from a bad or defective disk."
+        },
+        "fast-open": {
+            "command": "FASTOPEN",
+            "syntax": "FASTOPEN [/X] [drive:] [path] [/R]",
+            "description": "Speeds up the opening of files."
+        },
+        "goto-label": {
+            "command": "GOTO",
+            "syntax": "GOTO <label>",
+            "description": "Directs the command interpreter to a labeled line in a batch program."
+        },
+        "shift-params": {
+            "command": "SHIFT",
+            "syntax": "SHIFT [/n <N>]",
+            "description": "Shifts the position of batch parameters in a batch file."
+        },
+        "join-path": {
+            "command": "JOIN",
+            "syntax": "JOIN path [drive:]",
+            "description": "Joins a drive letter and directory path."
+        },
+        "disk-caching-optimize": {
+            "command": "SMARTDRV",
+            "syntax": "SMARTDRV [size] [buffers] [doublebuffer] [/E] [/C] [/L] [/V] [/B]",
+            "description": "Manages and optimizes disk caching."
+        },
+        "batch-execute": {
+            "command": "BATCH",
+            "syntax": "BATCH [filename]",
+            "description": "Executes the commands specified in a batch file."
+        },
+        "call-batch": {
+            "command": "CALL",
+            "syntax": "CALL [drive:][path]filename [batch-parameters]",
+            "description": "Calls one batch program from another."
+        }
+    }
+}

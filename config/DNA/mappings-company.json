@@ -1,0 +1,49 @@
+{
+    "AVANTAGE": {
+        "PRIVATE": {},
+        "PUBLIC": {
+            "COMPANY": {
+                "country": "OVERVIEW.Country",
+                "exchange": "OVERVIEW.Exchange",
+                "industry": "OVERVIEW.Industry",
+                "name": "OVERVIEW.Name",
+                "sector": "OVERVIEW.Sector",
+                "ticker": "OVERVIEW.Symbol",
+                "website": "OVERVIEW.OfficialSite",
+                "description": "OVERVIEW.Description",
+                "facts[]": [],
+                "year": ""
+            }
+        }
+    },
+    "YFINANCE": {
+        "PRIVATE": {
+            "COMPANY": {
+                "country": "info.country",
+                "exchange": "info.exchange",
+                "industry": "info.industry",
+                "name": "info.longName",
+                "sector": "info.sector",
+                "ticker": "info.symbol",
+                "website": "info.website",
+                "description": "info.description",
+                "facts[]": "keyFacts[]",
+                "year": ""
+            }
+        },
+        "PUBLIC": {
+            "COMPANY": {
+                "country": "info.country",
+                "exchange": "info.fullExchangeName",
+                "industry": "info.industry",
+                "name": "info.longName",
+                "sector": "info.sector",
+                "ticker": "info.symbol",
+                "website": "info.website",
+                "description": "info.description",
+                "facts[]": [],
+                "year": ""
+            }
+        }
+    }
+}

@@ -1,346 +1,483 @@
 #!/usr/bin/env python3
-# -------------------------------------------------------
-# M O D U L E   M E R G E R   &   H E A L T H   A U D I T
-# -------------------------------------------------------
+# --- --- --- --- --- --- --- --- --- --- --- --
+# -<< M E R G E R   &   H E A L T H   A U D I T >- -
+# --- --- --- --- --
+
+# -< IMPORTS
 import json
 import os
 import sys
 import time
-from datetime import datetime
+from datetime import datetime, timezone
+from pathlib import Path
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent.parent))
+
+# -< IMPORTS: LOCAL
+import scripts.config.colors as color
+import scripts.config.ui as ui
+import scripts.config.utils as util
+
+# -< IMPORTS: RICH
 from rich.console import Console
-from rich.console import Group
+from rich.json import JSON
 from rich.panel import Panel
+from rich.table import Table
 console = Console()
-cw = console.width
 
-# --- PATH CONFIGURATION ---
-PATH_BACKUP          = "./data/cache/backup-portfolio.json"
-PATH_MAPPING         = "./config/reference-mapping.json"
-PATH_REPORT          = "./config/report-portfolio.json"
-PATH_TEMPLATE_REPORT = "./config/template-report.json"
-PATH_PORTFOLIO       = "./data/portfolio.json"
-PATH_NEWBORN         = "./data/cache/latest-newborn.json"
-PATH_REBORN          = "./data/cache/latest.reborn.json"
-PATH_REFRESH         = "./data/cache/latest-refresh.json"
+# =<< PATHS
+PATH_BACKUP             = "./data/cache/backup-portfolio.json"
+PATH_MAPPING            = "./config/CIA/mappings-portfolio.json"
+PATH_CONFIG_REPORT      = "./config/CIA/config-report.json"
+PATH_REPORT             = "./config/report.json"
+PATH_TEMPLATE_REPORT    = "./config/CIA/template-report.json"
+PATH_PORTFOLIO          = "./data/portfolio.json"
+PATH_NEWBORN            = "./data/cache/latest-newborn.json"
+PATH_NEWBORN_CORRUPTED  = "./data/cache/corrupted-newborn.json"
+PATH_NEWBORN_MISMATCHED = "./data/cache/mismatched-newborn.json"
+PATH_REBORN             = "./data/cache/latest-reborn.json"
+PATH_REBORN_CORRUPTED   = "./data/cache/corrupted-reborn.json"
+PATH_REBORN_MISMATCHED  = "./data/cache/mismatched-reborn.json"
+PATH_REFRESH            = "./data/cache/latest-refresh.json"
+PATH_REFRESH_CORRUPTED  = "./data/cache/corrupted-refresh.json"
+PATH_REFRESH_MISMATCHED = "./data/cache/mismatched-refresh.json"
+PATH_TEMPLATE_PORT      = "./config/CIA/template-portfolio.json"
 
-# --- DEVELOPER ---
-def pause(msg="Press Enter to continue..."):
-    console.input(f"\n[bold yellow]DEBUG PAUSE:[/] {msg}")
 
-# --- CORE HELPERS ---
-def load_json(filepath):
-    if not os.path.exists(filepath): return {}
-    with open(filepath, 'r') as f: return json.load(f)
 
-def save_json(filepath, data):
-    with open(filepath, 'w') as f: json.dump(data, f, indent=4)
-
-def get_ignore_list(mapping):
+# -<< COUNT POPULTABLE
+# --- --- --- --- --- --- --- ---
+def count_populatable_leaves(data, current_path="", count_populatable=False):
+    """ F U N C T I O N :
+    Detect sections.
+    Count poulatable leaves per section.
     """
-    Dynamically extracts all ignored keys and arrays from reference-mapping.
-    """
-    config = mapping.get("CONFIG", {})
-    return config.get("arrays", []) + config.get("ignore", [])
-
-def count_populated_leaves(data, ignore_list, current_path=""):
-    """
-    Recursively counts leaves while respecting dot-notation paths 
-    (e.g., 'COMPANY.facts' or 'NEWS') defined in the ignore_list.
-    """
-    count = 0
+    total    = 0
+    sections = {}
+    # COUNT POPULATABLE LEAVES
     if isinstance(data, dict):
+        # DETERMINE SECTION AND COUNT LEAVES
         for k, v in data.items():
-            # Build the path tracker (e.g., "COMPANY" -> "COMPANY.facts")
+            # DETERMINE SECTION
             path = f"{current_path}.{k}" if current_path else k
-            if path in ignore_list: continue
-            
-            count += count_populated_leaves(v, ignore_list, path)
-    elif isinstance(data, list):
-        pass # Strict omission of arrays
+            if '.' not in path:
+                section = "ROOT"
+            else:
+                section = path.split('.')[0]
+                if section.startswith("NEWS"):
+                    section = "NEWS"
+                if not section:
+                    section = "ROOT"
+            #COUNT POPULATABLE LEAVES
+            if isinstance(v, dict):
+                sub_total, sub_sections = count_populatable_leaves(v, path, count_populatable)
+                total += sub_total
+                for sec, cnt in sub_sections.items():
+                    sections[sec] = sections.get(sec, 0) + cnt
+            elif isinstance(v, list):
+                if v and isinstance(v[0], dict):
+                    sub_total, sub_sections = count_populatable_leaves(v[0], f"{path}.[]", count_populatable)
+                    total += sub_total
+                    for sec, cnt in sub_sections.items():
+                        sections[sec] = sections.get(sec, 0) + cnt
+                else:
+                    if not count_populatable or v != []:
+                        total += 1
+                        sections[section] = sections.get(section, 0) + 1
+            else:
+                if count_populatable:
+                    if v is None or v == "" or v == []:
+                        pass
+                    else:
+                        total += 1
+                        sections[section] = sections.get(section, 0) + 1
+                else:
+                    total += 1
+                    sections[section] = sections.get(section, 0) + 1
+    # RETURN PER-SECTION COUNT
+    return total, sections
+
+# -<< COUNT POPULATED
+# --- --- --- --- --- --- --- ---
+def count_populated_leaves(obj):
+    """ F U N C T I O N :
+    Count populated leaves per section.
+    Detect arrays.
+    Count populated leaves of index [0] per array.
+    """
+    cnt = 0
+    # COUNT POPULATED SECTION LEAVES
+    if isinstance(obj, dict):
+        for v in obj.values():
+            cnt += count_populated_leaves(v)
+    # COUNT POPULATED ARRAY[0] LEAVES
+    elif isinstance(obj, list):
+        if obj and isinstance(obj[0], dict):
+            cnt += count_populated_leaves(obj[0])
+    # COUNT ROOT LEAVES
     else:
-        if data is not None and data != "": 
-            count += 1
-    return count
+        if obj is not None and obj != "":
+            cnt += 1
+    # RETURN TOTAL COUNT
+    return cnt
 
-def abort(issue_type, cause, detail):
+
+
+# =<< BRANCH 0. PROCESS RESET
+# === === === === === === === ===
+def process_reset():
+    """ F U L L   S Y S T E M   R E S E T :
+    ||| USAGES:
+    • If health check reports continous errors.
+    • Changes in the structure of fetched data.
+    • Changes in the sttucture of FMS tmplates.
+    ||| RESULT:
+    • Validates mappings against template. 
+    • Updates config-report.json and report.json.
+    • Displays post-reset metrics.
     """
-    Kills the script and reports the exact data discrepancy.
-    """
-    console.clear()
-    console.print(f"\n[bold red]/// SYSTEM HEALTH FAILURE: {issue_type}[/]")
-    console.print(f"[red]CAUSE: [white]{ticker}[/]")
-    console.print(f"[yellow]DETAIL: {detail}[/]")
-    console.print(f"\n[bold yellow]-- ABORTING MERGER --[/]\n")
-    input("\nPress Enter to exit...") 
-    sys.exit(1)
+    ui.show_fms_banner()
+    console.print(f"[{color.DONE}]SYSTEM RESET INITIATED[/]\n")
 
-def fit_to_width(text, pattern, border_pattern, border_width):
-    total_gap = cw - len(text)
-    left_count = (total_gap // 2) - border_width
-    pL = pattern * left_count
-    pR = pattern * ((total_gap - (left_count + border_width)) - border_width)
-    return border_pattern + pL + text + pR + border_pattern
+    # FILES: LOAD EXTERNAL DATA
+    template_port   = util.load_json(PATH_TEMPLATE_PORT).get("TICKER_SYMBOL", {})
+    mappings        = util.load_json(PATH_MAPPING)
+    portfolio       = util.load_json(PATH_PORTFOLIO)
+    template_report = util.load_json(PATH_TEMPLATE_REPORT)
 
-# --- BRANCH 1: THE NEWBORN (INSEMINATION) ---
-def process_organism(flag):
-    # Determine source file based on flag
-    source_path = PATH_REBORN if flag == "--reborn" else PATH_NEWBORN
-    
-    data_payload = load_json(source_path)
+    # PREPARE DNA SEQUENCES
+    private_map = mappings.get("PRIVATE", {})
+    public_map  = mappings.get("PUBLIC", {})
+
+    # PERFORM DNA SEQUENCING
+    template_total,  template_sections = count_populatable_leaves(template_port, count_populatable=False)
+    private_total,   private_sections  = count_populatable_leaves(private_map,   count_populatable=False)
+    public_total,    public_sections   = count_populatable_leaves(public_map,    count_populatable=False)
+    console.print(f"[{color.base}]• [{color.b1}]Template nodes[/]: [{color.b1}]{template_total}[/]")
+    console.print(f"[{color.base}]• [{color.b2}]Private  nodes[/]:  [{color.b2}]{private_total}[/]")
+    console.print(f"[{color.base}]• [{color.b3}]Public   nodes[/]:   [{color.b3}]{public_total}[/]")
+
+    # ERROR: DNA TO RNA MUTATION DETECTED
+    if template_total != private_total or template_total != public_total:
+        util.pause(reason="f", message=f"[{color.info}]Mappings do not match template structure, \n[{color.DONE}]Template[/]: [{color.VAL}]{template_total}[/] \n[{color.ACTV}]Private[/]: [{color.VAL}]{private_total}[/] \n[{color.ACTV}]Public[/]: [{color.VAL}]{public_total}[/] \nManually correct [{color.DOS}]mappings-portfolio.json[/] to match [{color.DOS}]template-portfolio.json[/].[/]")
+
+    # DNA SEQUENCE MATCHED
+    console.print(f"[{color.base}][{color.DONE}]All sources match. [{color.PASS}]Template total[/]: [{color.ACTV}]{template_total}[/][/]")
+
+    # FILE: LOAD (config-report.json)
+    config_report = util.load_json(PATH_CONFIG_REPORT)
+    if not config_report:
+        config_report = {"CONFIG": {"MERGER": {"NODES": {}}}}
+
+    # FILE: UPDATE (config-report.json)
+    config_report.setdefault("CONFIG", {}).setdefault("MERGER", {}).setdefault("NODES", {})
+    config_report["CONFIG"]["MERGER"]["NODES"]["PORTFOLIO"] = {"BRANCHES": template_sections, "TOTAL": template_total}
+    config_report["CONFIG"]["MERGER"]["NODES"]["PRIVATE"]   = {"BRANCHES": private_sections,  "TOTAL": private_total}
+    config_report["CONFIG"]["MERGER"]["NODES"]["PUBLIC"]    = {"BRANCHES": public_sections,   "TOTAL": public_total}
+
+    # FILE: SAVE (config-report.json)
+    util.save_json(PATH_CONFIG_REPORT, config_report)
+    console.print(f"[{color.base}][{color.DONE}]Config report updated[/]: [{color.DOS}]{PATH_CONFIG_REPORT}[/][/]")
+
+    # COMPUTE CHROMOSOME COUNTS PER EMBRYO TYPE
+    leaf_nodes_plc, _ = count_populatable_leaves(public_map,  count_populatable=True)
+    leaf_nodes_pvt, _ = count_populatable_leaves(private_map, count_populatable=True)
+    leaf_nodes_ptf    = template_total
+    console.print(f"[{color.base}]• [{color.g1}]Populatable leaves (plc)[/]: [{color.ACTV}]{leaf_nodes_plc}[/][/]")
+    console.print(f"[{color.base}]• [{color.g2}]Populatable leaves (pvt)[/]: [{color.ACTV}]{leaf_nodes_pvt}[/][/]")
+
+    # PERFORM DNA TO RNA SEQUENCING
+    count_plc = sum(1 for d in portfolio.values() if d.get("stockType", "").upper() == "PUBLIC")
+    count_pvt = sum(1 for d in portfolio.values() if d.get("stockType", "").upper() == "PRIVATE")
+    count_ptf = count_plc + count_pvt
+
+    # MOTHER DNA MISSING
+    if leaf_nodes_ptf == 0:
+        util.pause(reason="e", message=f"Mother's DNA missing or corrupt, check [{color.DOS}]template-portfolio.json[/]", enter="e")
+
+    # MOTHER DNA SEQUENCING
+    score_plc = round((leaf_nodes_plc / leaf_nodes_ptf) * 100, 2)
+    score_pvt = round((leaf_nodes_pvt / leaf_nodes_ptf) * 100, 2)
+    score_ptf = round(((score_plc * count_plc) + (score_pvt * count_pvt)) / count_ptf, 2) if count_ptf > 0 else 0.0
+
+    # BUILD NEW REPORT
+    new_report = {
+        "PORTFOLIO": {
+            "scorePtf":     score_ptf,
+            "scorePlc":     score_plc,
+            "scorePvt":     score_pvt,
+            "countPtf":     count_ptf,
+            "countPlc":     count_plc,
+            "countPvt":     count_pvt,
+            "leafNodesPtf": leaf_nodes_ptf,
+            "leafNodesPlc": leaf_nodes_plc,
+            "leafNodesPvt": leaf_nodes_pvt,
+            "timestamp":    datetime.now(timezone.utc).isoformat(timespec="seconds").replace("+00:00", "Z"),
+            "epoch":        int(datetime.now(timezone.utc).timestamp())
+        }
+    }
+    ticker_blueprint = template_report.get("TICKER_SYMBOL", {"corrupt": None, "score": None, "epoch": None})
+    for ticker in portfolio.keys():
+        new_report[ticker] = ticker_blueprint.copy()
+
+    # SAVE NEW REPORT
+    util.save_json(PATH_REPORT, new_report)
+    console.print(f"[{color.DONE}]Report reset and saved to [{color.DOS}]{PATH_REPORT}[/].[/]")
+
+    # NEW RESET HEALTH SUMMARY
+    ui.merger_reset_health_summary(leaf_nodes_plc, leaf_nodes_pvt, leaf_nodes_ptf, count_plc, count_pvt, count_ptf, score_plc, score_pvt, score_ptf)
+    util.pause(reason="p", message="Baseline health metrics recalculated", enter="e")
+    sys.exit(0)
+
+# =<< BRANCH 1. PROCESS BORN (newborn | reborn)
+# === === === === === === === ===
+def process_born(flag):
+    # DETERMINE SOURCE PATH AND LOAD EXTERNAL DATA
+    source_path   = PATH_REBORN if flag == "--reborn" else PATH_NEWBORN
+    data_payload  = util.load_json(source_path)
+    config_report = util.load_json(PATH_CONFIG_REPORT)
+
+    # NO EMBRYO FOUND
     if not data_payload:
-        console.print(f"[ERROR] No data found in {source_path}.")
-        return
+        util.pause(reason="e", message=f"[{color.info}]Insemination aborted due to missing DNA sequence. Failed to {'revive reborn' if flag == '--reborn' else 'deliver newborn'} child. No such file at [{color.DOS}]{source_path}[/].[/]")
 
-    mapping   = load_json(PATH_MAPPING)
-    registry  = load_json(PATH_REPORT)
-    portfolio = load_json(PATH_PORTFOLIO)
-    template  = load_json(PATH_TEMPLATE_REPORT)
+    # VERIFY TEST-LAB BASELINE EXISTS
+    leaf_nodes_ptf = config_report.get("CONFIG", {}).get("MERGER", {}).get("NODES", {}).get("PORTFOLIO", {}).get("TOTAL", 0)
+    if leaf_nodes_ptf == 0:
+        util.pause(reason="e", message=f"[{color.info}]Invalid structure. Mother's DNA sequence not found in [{color.DOS}]config-report.json[/]. [{color.inst}]Run [{color.VAL}]--reset[/] to initialise health metrics[/].[/]", enter="e")
 
-    ignore_list = get_ignore_list(mapping)
-    reg_ptf = registry.get("PORTFOLIO", {})
-    leaf_nodes_ptf = reg_ptf.get("leafNodesPtf", 31)
+    # FILES: LOAD EXTERNAL DATA
+    report    = util.load_json(PATH_REPORT)
+    portfolio = util.load_json(PATH_PORTFOLIO)
+    template  = util.load_json(PATH_TEMPLATE_REPORT)
+    rep_ptf   = report.get("PORTFOLIO", {})
 
+    # BEGIN FULL HEALTH CHECK
     for ticker, data in data_payload.items():
         stock_type = data.get("stockType", "PUBLIC").upper()
-        baseline   = reg_ptf["scorePvt"] if stock_type == "PRIVATE" else reg_ptf["scorePlc"]
+        baseline   = rep_ptf.get("scorePvt" if stock_type == "PRIVATE" else "scorePlc", 0)
 
-        # The Census
-        p = count_populated_leaves(data, ignore_list)
+        # --- Phase 1: structural integrity check ---
+        total, _ = count_populatable_leaves(data, count_populatable=False)
+        if total != leaf_nodes_ptf:
+            dest = f"{ticker}-corrupted.json"
+            if os.path.exists(source_path):
+                os.rename(source_path, f"./data/cache/{dest}")
+            util.pause(reason="e", message=f"[{color.info}]Insemination aborted due to missing chromosomes in [{color.ACTV}]{ticker}[/]. \n[{color.DONE}]Expected[/]: [{color.PASS}]{leaf_nodes_ptf} chromosomes[/] \n[{color.DONE}]Detected[/]: [{color.FAIL}]{total} chromosomes[/] \nRenamed to [{color.DOS}]{dest}[/].[/]")
+
+        # --- Phase 2: chromosome (population) score check ---
+        p     = count_populated_leaves(data)
         score = round((p / leaf_nodes_ptf) * 100, 2)
-
-        # The Gatekeeper
         if score != baseline:
-            console.print(f"\n[ABORT] {ticker} DNA mismatch. Score: {score}% (Expected: {baseline}%)")
-            os.rename(source_path, f"./data/cache/{ticker}-abortion.json")
-            console.print(f"Check fetus at ./data/cache/{ticker}-abortion.json")
-            pause()
-            return
+            dest = f"{ticker}-mismatched.json"
+            if os.path.exists(source_path):
+                os.rename(source_path, f"./data/cache/{dest}")
+            util.pause(reason="e", message=f"[{color.info}]Insemination aborted due to chromosome mismatch for [{color.ACTV}]{ticker}[/]. \n[{color.DONE}]Score[/]: [{color.FAIL}]{score}%[/] ([{color.PASS}]Expected[/]: [{color.VAL}]{baseline}%[/]). \nRenamed to [{color.DOS}]{dest}[/].[/]", enter="e")
 
-        # --- HUMAN DASHBOARD ---
-        console.print(f"\n[thistle1]Ticker: [/thistle1][bold light_steel_blue1]{ticker}[/bold light_steel_blue1]")
-        console.print(f"[thistle1]Score: [/thistle1][bold light_steel_blue1]{score}%[/bold light_steel_blue1]")
-        console.print(f"[thistle1]Baseline: [/thistle1][bold light_steel_blue1]{baseline}%[/bold light_steel_blue1]")
-        console.print(f"[thistle1]Populated leaves: [/thistle1][bold light_steel_blue1]{p}[/bold light_steel_blue1]")
-        pause()
+        # --- Display health summary ---
+        ui.show_fms_banner()
+        console.print(f"\n[{color.BNNR1}]DNA HEALTH REPORT[/] — [{color.VAL}]{ticker}[/]\n")
+        health_table = Table(show_header=False, box=None)
+        health_table.add_row(f"[{color.bnnr1}]Ticker[/]",           f"[{color.VAL}]{ticker}[/]")
+        health_table.add_row(f"[{color.bnnr2}]Stock type[/]",       f"[{color.ACTV}]{stock_type}[/]")
+        health_table.add_row(f"[{color.bnnr3}]Populated leaves[/]", f"[{color.VAL}]{p}[/]")
+        health_table.add_row(f"[{color.bnnr3}]Score[/]",            f"[{color.DONE}]{score}%[/]")
+        health_table.add_row(f"[{color.bnnr3}]Baseline[/]",         f"[{color.DONE}]{baseline}%[/]")
+        health_table.add_row(f"[{color.bnnr4}]Result[/]",           f"[{color.PASS}]PASS[/]")
+        console.print(health_table)
 
-        # --- ORIGINAL MENU SYSTEM ---
+        # --- Interactive insemination menu ---
+        
         while True:
-            console.clear()
-            console.print(f"\n[bold green]/// DNA VALIDATED: {score}%[/]")
-            console.print(f"\n[white]0. BACK[/]")
-            console.print(f"[bold cyan]1. INSEMINATE[/]")
-            console.print(f"[white]2. VIEW JSON[/]")
-            console.print(f"[white]3. OPEN FILE[/]\n")
-            
-            cmd = console.input(">_ ")
-            
-            if cmd == "0":
+            choice = ui.show_menu(
+                breadcrumb="",                options=[
+                    ("0", "CANCEL",     color.back),
+                    ("1", "INSEMINATE", color.opt1),
+                    ("2", "VIEW JSON",  color.opt2),
+                    ("3", "OPEN FILE",  color.opt3),
+                ],
+                choice=True
+            )            
+            if choice == "0":
                 return
-            elif cmd == "1":
-                # Break to proceed to the merge logic below
+            elif choice == "1":
                 break
-            elif cmd == "2":
-                # --- ORIGINAL JSON PANEL ---
-                console.clear()
-                console.print(f"\n[bold yellow]/// RAW DNA SEQUENCE: {ticker}[/]\n")
-                
-                # Checks for jq in Termux for the original formatted look
-                if os.path.exists("/system/bin/jq"):
-                    os.system(f"cat {source_path} | jq '.'")
+            elif choice == "2":
+                ui.show_fms_banner()
+                crumb.merger_inseminate_sequence(stock_type, ticker)
+                console.print(JSON.from_data(data))
+                console.print("\n" + "─" * 40)
+                util.pause()
+            elif choice == "3":
+                if os.name == "nt":
+                    os.startfile(source_path)
                 else:
-                    # Fallback if jq is missing
-                    from rich.json import JSON
-                    console.print(JSON.from_data(data))
-                
-                console.print("\n" + "-"*30)
-                pause()
-            elif cmd == "3":
-                if os.path.exists("/system/bin/termux-info"):
-                    os.system(f"termux-open {source_path}")
-                else:
-                    os.startfile(source_path) if os.name == 'nt' else os.system(f"open {source_path}")
+                    opener = "open" if sys.platform == "darwin" else "xdg-open"
+                    os.system(f"{opener} {source_path}")
 
-        # --- THE MERGE (INJECTION) ---
-        # 1. Update Portfolio
-        portfolio[ticker] = data 
-        
+        # --- Merge into portfolio ---
+        portfolio[ticker] = data
         if flag == "--newborn":
-            # 2. Deactivate old King/Active entry
-            for existing_ticker, entry in registry.items():
-                if existing_ticker != "PORTFOLIO" and isinstance(entry, dict):
-                    if entry.get("active") is True:
-                        entry["active"] = False
-            
-            # 3. Create the new Report Entry from template
-            new_entry = json.loads(json.dumps(template.get("TICKER_SYMBOL", {})))
-            new_entry["HISTORY"]["birthDate"] = datetime.now().strftime("%Y-%m-%dT%H:%M:%S")
-            new_entry["active"] = True
-            new_entry["score"] = score
-            new_entry["corrupt"] = False
-            
-            # 4. Inject into Registry
-            registry[ticker] = new_entry
-            
-            # 5. Registry Macro Math
-            reg_ptf["countPtf"] += 1
-            if stock_type == "PRIVATE": 
-                reg_ptf["countPvt"] += 1
-            else: 
-                reg_ptf["countPlc"] += 1
+            new_entry = template.get("TICKER_SYMBOL", {}).copy()
+            new_entry.update({"corrupt": None, "score": None, "epoch": None})
+            report[ticker] = new_entry
+            rep_ptf["countPtf"] += 1
+            if stock_type == "PRIVATE":
+                rep_ptf["countPvt"] += 1
+            else:
+                rep_ptf["countPlc"] += 1
 
-        # Macro Score Re-calculation
-        if reg_ptf["countPtf"] > 0:
-            reg_ptf["scorePtf"] = round(
-                ((reg_ptf["countPlc"] * reg_ptf["scorePlc"]) + 
-                 (reg_ptf["countPvt"] * reg_ptf["scorePvt"])) / reg_ptf["countPtf"], 2
+        # Update ticker report entry
+        now_epoch = int(datetime.now(timezone.utc).timestamp())
+        report[ticker]["corrupt"] = False
+        report[ticker]["score"]   = score
+        report[ticker]["epoch"]   = now_epoch
+
+        # Recalculate portfolio-level score
+        if rep_ptf["countPtf"] > 0:
+            rep_ptf["scorePtf"] = round(
+                ((rep_ptf["countPlc"] * rep_ptf["scorePlc"]) + (rep_ptf["countPvt"] * rep_ptf["scorePvt"]))
+                / rep_ptf["countPtf"], 2
             )
-        registry["PORTFOLIO"]["timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-        # --- THE FINAL COMMIT ---
-        save_json(PATH_REPORT, registry)
-        save_json(PATH_PORTFOLIO, portfolio)
-        
-        console.print(f"\n[bold gray100][[bold thistle1]SUCCESS[/bold thistle1]] [bold light_pink1]{ticker}[/bold light_pink1] ([bold orchid1]{stock_type}[/bold orchid1]) DNA merged successfully.[/bold gray100]")
-        pause("\nPress Enter to finish...")
+        # Timestamp the report
+        now = datetime.now(timezone.utc)
+        report["PORTFOLIO"]["timestamp"] = now.isoformat(timespec="seconds").replace("+00:00", "Z")
+        report["PORTFOLIO"]["epoch"]     = now_epoch
 
-# --- BRANCH 2: THE MOTHER (BULK UPDATE & AUDIT) ---
+        util.save_json(PATH_REPORT, report)
+        util.save_json(PATH_PORTFOLIO, portfolio)
+
+        console.print(f"\n[{color.info}][{color.DONE}]SUCCESS[/]: [{color.VAL}]{ticker}[/] ([{color.opt2}]{stock_type}[/]) DNA merged into portfolio.[/]")
+        util.pause("d")
+
+# =<< BRANCH 2. PROCESS REFRESH
+# === === === === === === === ===
 def process_refresh():
-    title_str     = "X  E  R  X  E  S      H  E  A  L  T  H      R  E  P  O  R  T"
-    pad_left      = (" " * (((cw - len(title_str)) // 2)))
+    # ===== PHASE 0: LOAD AND VALIDATE INPUTS =====
+    refresh       = util.load_json(PATH_REFRESH)
+    report        = util.load_json(PATH_REPORT)
+    config_report = util.load_json(PATH_CONFIG_REPORT)
 
-    refresh  = load_json(PATH_REFRESH)
-    registry = load_json(PATH_REPORT)
-    mapping  = load_json(PATH_MAPPING)
+    # VERIFY PATIENT APPOINTMENT
+    if not refresh or not report:
+        missing = PATH_REFRESH if not refresh else PATH_REPORT
+        util.pause(reason="e", message=f"[{color.info}]Required file [{color.DOS}]{missing}[/] not found. [{color.inst}]Run [{color.DOS}]incubator.py [{color.VAL}]--refresh[/] first[/].[/]")
 
-    if not refresh or not registry:
-        abort("[FILE MISSING]", PATH_REFRESH if not refresh else PATH_REPORT, f"The file {PATH_REFRESH if not refresh else PATH_REPORT} is missing which is required for a succesful portfolio updated.")
+    # PREPARE DNA SEQUENCE LABORATORY
+    rep_ptf        = report.get("PORTFOLIO", {})
+    leaf_nodes_ptf = config_report.get("CONFIG", {}).get("MERGER", {}).get("NODES", {}).get("PORTFOLIO", {}).get("TOTAL", 0)
+    if leaf_nodes_ptf == 0:
+        util.pause(reason="e", message=f"[{color.info}]Mother's DNA missing or corrupt. [{color.inst}]Run [{color.VAL}]--reset[/] to initialise health metrics[/].[/]", enter="e")
 
-    reg_ptf = registry.get("PORTFOLIO", {})
-    ignore_list = get_ignore_list(mapping)
+    # ===== PHASE 1: STRUCTURAL DNA CHECK (whole-portfolio) =====
+    corrupted_tickers = [
+        ticker for ticker, data in refresh.items()
+        if count_populatable_leaves(data, count_populatable=False)[0] != leaf_nodes_ptf
+    ]
 
-    # 1. Macro Census (Pre-Swap Checksum)
-    count_ptf = reg_ptf["countPtf"]
-    count_plc = sum(1 for d in refresh.values() if d.get("stockType", "").upper() == "PUBLIC")
-    count_pvt = sum(1 for d in refresh.values() if d.get("stockType", "").upper() == "PRIVATE")
-    total_count = count_plc + count_pvt
+    # QUARANTINE MOTHER
+    if corrupted_tickers:
+        # Quarantine mother
+        if os.path.exists(PATH_REFRESH):
+            os.rename(PATH_REFRESH, PATH_REFRESH_CORRUPTED)
 
-    calc_score = round(
-        ((count_plc * reg_ptf["scorePlc"]) + (count_pvt * reg_ptf["scorePvt"])) / total_count, 2
-    ) if total_count > 0 else 0
+        # Identify genetically modified embryos
+        ui.merger_refresh_dna_mutations(corrupted_tickers, PATH_REFRESH, PATH_REFRESH_CORRUPTED)
 
-    # 2. The Paternity Test
-    if total_count != reg_ptf["countPtf"] or calc_score != reg_ptf["scorePtf"]:
-        detail = f"[thistle1][[bold light_coral]CRITICAL FAILURE[/bold light_coral] DNA Mismatch. Swap aborted.\nExpected: Count [bold khaki3]{reg_ptf['countPtf']}[/bold khaki3] | Score [bold khaki3]{reg_ptf['scorePtf']}[/bold khakie]\nReceived: Count [bold light_coral]{total_count}[/bold light_coral] | Score [bold light_coral]{calc_score}[/bold light_coral][/thistle1]"
-        abort("[CRITICAL FAILURE]", f"total count" if total_count != reg_ptf["countPtf"] else "calculated score", detail)
+        # Update per-embryo health report
+        for ticker in corrupted_tickers:
+            if ticker in report:
+                report[ticker]["corrupt"] = True
 
-    # 3. The Swap
+        # File health report and abort operation
+        util.save_json(PATH_REPORT, report)
+        util.pause(reason="e", message=f"[{color.info}][{color.ERR}]Swap aborted[/]. [{color.WARN}]DNA mutation detected[/]. Corrupted patient quarantined at [{color.DOS}]{PATH_REFRESH_CORRUPTED}[/].[/]", enter="e")
+
+    # ===== PHASE 2: CHROMOSOME SCORE CHECK (per-ticker) =====
+    scores             = {}
+    mismatched_tickers = []
+
+    # PREPARE CHROMOSOME TEST LAB METRICS
+    for ticker, data in refresh.items():
+        stock_type     = data.get("stockType").upper()
+        baseline       = rep_ptf.get("scorePvt" if stock_type == "PRIVATE" else "scorePlc", 0)
+        p              = count_populated_leaves(data)
+        score          = round((p / leaf_nodes_ptf) * 100, 2)
+        scores[ticker] = (p, score)
+
+        # COLATE EMBRYOS WITH MISSING CHROMOSOMES
+        if score != baseline:
+            mismatched_tickers.append(ticker)
+
+    # ===== PHASE 3: BACKUP AND SWAP =====
     if os.path.exists(PATH_PORTFOLIO):
         os.replace(PATH_PORTFOLIO, PATH_BACKUP)
     os.replace(PATH_REFRESH, PATH_PORTFOLIO)
-    console.print(f"\n{pad_left}[navajo_white][[bold cyan1]SUCCESS[/bold cyan1]] Macro DNA verified. Portfolio swapped.[/navajo_white]")
 
-    # 4. Load the updated data into a new 'portfolio' dict and purge the 'refresh' dict
-    with open('./data/portfolio.json', 'r') as f:
+    # ===== PHASE 4: POST-SWAP HEALTH AUDIT =====
+    with open(PATH_PORTFOLIO, 'r') as f:
         portfolio = json.load(f)
 
-    del refresh
+    # ANALYZE NEW MOTHER'S' EMBRYO(S)
+    count_plc = sum(1 for d in portfolio.values() if d.get("stockType", "").upper() == "PUBLIC")
+    count_pvt = sum(1 for d in portfolio.values() if d.get("stockType", "").upper() == "PRIVATE")
+    total_score_sum = sum(score for _, score in scores.values())
+    calc_score      = round(total_score_sum / len(portfolio), 2) if portfolio else 0
 
-    leaf_nodes_ptf = reg_ptf.get("leafNodesPtf")
-    leaf_nodes_plc = reg_ptf.get("leafNodesPlc")
-    leaf_nodes_pvt = reg_ptf.get("leafNodesPvt")
+    # SHOW HEALTH BANNER AND SUMMARY
+    ui.merger_health_banner()
+    ui.merger_refresh_health_summary(rep_ptf, leaf_nodes_ptf, count_plc, count_pvt, calc_score)
 
-    pattern       = " "
-    brdr_pattern  = ""
-    brdr_width    = 0
-    title_health  = fit_to_width(title_str, pattern, brdr_pattern, brdr_width)
-    title_len     = len(title_str)
-    dble_line     = ("=" * title_len)
-    line          = ("·" * title_len)
-    title_line    = fit_to_width(dble_line, pattern, brdr_pattern, brdr_width)
-    divide_line   = fit_to_width(line, pattern, brdr_pattern, brdr_width)
-    control_str   = "[CONTROL GROUP]"
-    ctrl_str_1_a  = "[dim]Stock count PTF: [/]"
-    ctrl_str_1_b  = "    [dim][bold]||[/bold]    Leaf nodes PVT: [/dim]"
-    ctrl_str_2_a  = "[dim]Stock count PLC: [/]"
-    ctrl_str_2_b  = "    [dim][bold]||[/bold]    Leaf nodes PVT: [/dim]"
-    ctrl_str_3_a  = "[dim]Stock count PVT: [/]"
-    ctrl_str_3_b  = "    [dim][bold]||[/bold]    Leaf nodes PVT: [/dim]"
-    control_str_1 = (f"{ctrl_str_1_a}{count_ptf}{ctrl_str_1_b}{leaf_nodes_ptf}")
-    control_str_2 = (f"{ctrl_str_2_a}{count_plc}{ctrl_str_2_b}{leaf_nodes_plc}")
-    control_str_3 = (f"{ctrl_str_3_a}{count_pvt}{ctrl_str_3_b}{leaf_nodes_pvt}")
-    control_pad   = (" " * (title_len - 15))
-    control_mix   = (f"{control_str}{control_pad}")
-    control_mix_1 = (control_str_1)
-    control_mix_2 = (control_str_2)
-    control_mix_3 = (control_str_3)
-    control       = fit_to_width(control_mix, pattern, brdr_pattern, brdr_width)
-    control_1     = fit_to_width(control_mix_1, pattern, brdr_pattern, brdr_width)
-    control_2     = fit_to_width(control_mix_2, pattern, brdr_pattern, brdr_width)
-    control_3     = fit_to_width(control_mix_3, pattern, brdr_pattern, brdr_width)
+    # SHOW MISSING CHROMOSOMES
+    if calc_score != rep_ptf.get("scorePtf", 0):
+        ui.merger_refresh_missing_chromosomes(mismatched_tickers)
 
-    time.sleep(1)
-    console.print(f"\n[bold misty_rose1]{title_health}[/bold misty_rose1]")
-    time.sleep(0.1)
-    console.print(f"[dim]{title_line}[/dim]")
-    time.sleep(0.5)
-    console.print(f"[bold thistle1]{control}[/bold thistle1]")
-    time.sleep(0.1)
-    console.print(f"{pad_left}[thistle1]{control_1}[/thistle1]")
-    time.sleep(0.1)
-    console.print(f"{pad_left}[thistle2]{control_2}[/thistle2]")
-    time.sleep(0.1)
-    console.print(f"{pad_left}[thistle3]{control_3}[/thistle3]")
-    time.sleep(0.5)
-    console.print(f"\n{pad_left}[misty_rose1]Calculated score: [/misty_rose1][bold light_steel_blue1]{calc_score}[/bold light_steel_blue1]")
-    time.sleep(0.1)
-    console.print(f"{pad_left}[dim]{dble_line}[/dim]")
-    time.sleep(0.1)
-
+    # PER-EMBRYO SCAN
+    now_epoch = int(datetime.now(timezone.utc).timestamp())
     for ticker, data in portfolio.items():
-        if ticker not in registry:
-            abort("[REGISTRY MISSING]", ticker, "Ticker count mismatch between thw registry - config/report-portfolio.json - and the portfolio - data/portfolio.json.")
-
-        reg_entry = registry[ticker]
-
+        if ticker not in report:
+            report[ticker] = {"corrupt": None, "score": None, "epoch": None}
+        
+        # DETERMINE TEST SUBJECT AND EMBRYO TYPE
         stock_type = data.get("stockType").upper()
-        baseline   = reg_ptf["scorePvt"] if stock_type == "PRIVATE" else reg_ptf["scorePlc"]
+        baseline   = rep_ptf["scorePvt"] if stock_type == "PRIVATE" else rep_ptf["scorePlc"]
+        p, score   = scores.get(ticker, (0, 0))
+        corrupt    = (score != baseline)
 
-        p = count_populated_leaves(data, ignore_list)
-        score = round((p / leaf_nodes_ptf) * 100, 2)
+        # UPDATE PER-EMBRYO HEALTH REPORT
+        report[ticker]["corrupt"] = corrupt
+        report[ticker]["score"]   = score
+        report[ticker]["epoch"]   = now_epoch
 
-        ticker_field = ticker
-
-        if score != baseline or ticker_field is None:
-            registry[ticker]["corrupt"] = True
-            registry[ticker]["score"] = score
-            console.print(f"\n[thistle1][[bold light_coral]WARNING[/bold light_coral]] [bold light_steel_blue1]{ticker}[/bold light_steel_blue1] flagged as corrupt. (Score: [bold indian_red]{score}%[/bold indian_red], Ticker integrity: [bold light_steel_blue1]{ticker_field}[/bold light_steel_blue1])")
-            time.sleep(0.5)
+        # SHOW PER-EMBRYO CHROMOSOME DETAILS
+        if corrupt:
+            ui.merger_refresh_corrupt_chromosomes(ticker, stock_type, p, rep_ptf, score, baseline)
         else:
-            registry[ticker]["corrupt"] = False
-            registry[ticker]["score"] = score
-            console.print(f"{pad_left}[thistle1][[bold thistle1]TEST SUBJECTS[/bold thistle1]]\n{pad_left}Ticker: [bold light_steel_blue1]{ticker}[/bold light_steel_blue1]\n{pad_left}Stock type: [bold light_steel_blue1]{stock_type.lower()}[/bold light_steel_blue1]\n{pad_left}Populated leaves: [bold light_steel_blue1]{p}[/bold light_steel_blue1] (expected: [bold khaki3]{leaf_nodes_pvt if stock_type == 'PRIVATE' else leaf_nodes_plc}[/bold khaki3])\n{pad_left}SCORE: [bold light_steel_blue1]{score}%[/bold light_steel_blue1] (expected: [bold khaki3]{baseline}%[/bold khaki3])\n{pad_left}RESULTS: {'[bold cyan1]PASS[/bold cyan1]' if score == baseline else '[bold light_coral]FAIL[/bold light_coral]'}[/thistle1]")
-            console.print(f"[dim]{divide_line}[/dim]")
-            time.sleep(0.5)
+            ui.merger_refresh_correct_chromosomes(ticker, stock_type, p, rep_ptf, score, baseline)
 
-    registry["PORTFOLIO"]["timestamp"] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    save_json(PATH_REPORT, registry)
-    time.sleep(1)
-    console.print(f"\n{pad_left}[navajo_white][[bold light_steel_blue1]FINDINGS[/bold light_steel_blue1]] Health audit complete. Registry signed.[/navajo_white]")
-    time.sleep(0.5)
-    console.print(f"\n{pad_left}[dodger_blue][[bold light_steel_blue1]AUTOMATION[/bold light_steel_blue1]] Pyyhon script automation completed succesfully.\n{pad_left}Ready to push updated files to FMSLite.[/dodger_blue]\n")
-    time.sleep(3)
+    # SIGN OFF UPDATED HEALTH REPORT
+    now = datetime.now(timezone.utc)
+    report["PORTFOLIO"]["timestamp"] = now.isoformat(timespec="seconds").replace("+00:00", "Z")
+    report["PORTFOLIO"]["epoch"]     = now_epoch
 
-# --- FINAL ROUTER ---
+    # FILE PATIENT REPORT AND HEADLESS EXIR
+    util.save_json(PATH_REPORT, report)
+    ui.merger_refresh_final_message(PATH_REPORT)
+    sys.exit()
+
+
+
+# === === === === === === === ===
+# == =<< MAIN >>- --- --- --- ---
 if __name__ == "__main__":
-    if "--refresh" in sys.argv:
+    if "--reset" in sys.argv:
+        process_reset()
+    elif "--refresh" in sys.argv:
         process_refresh()
-        sys.exit(0)
-
-    # incubator.py calls: merger.py [TYPE] [TICKER] [FLAG]
-    if len(sys.argv) >= 4:
-        # We only need the flag to trigger process_organism
+    elif len(sys.argv) >= 4:
         mode_flag = sys.argv[3].lower()
-        process_organism(mode_flag)
+        process_born(mode_flag)
     else:
-        console.print("Usage: python merger.py [TYPE] [TICKER] [--newborn | --reborn]")
+        console.print(f"[[{color.ACTV}]USAGE[/]]: python merger.py [--reset | --refresh | TYPE TICKER [--newborn|--reborn]]")
+        util.pause(reason="e",message=sys.argv, enter="e")
         sys.exit(1)

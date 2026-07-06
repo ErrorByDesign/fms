@@ -1,0 +1,28 @@
+{
+    "AVANTAGE": {
+        "PRIVATE": {},
+        "PUBLIC": {
+            "RATINGS.analystCount": "OVERVIEW.numberOfAnalystOpinions",
+            "RATINGS.recommendationKey": "OVERVIEW.recommendationKey",
+            "RATINGS.recommendationMean": "OVERVIEW.recommendationMean",
+            "RATINGS.strongBuy": "OVERVIEW.strongBuy",
+            "RATINGS.buy": "OVERVIEW.buy",
+            "RATINGS.hold": "OVERVIEW.hold",
+            "RATINGS.sell": "OVERVIEW.sell",
+            "RATINGS.strongSell": "OVERVIEW.strongSell"
+        }
+    },
+    "YFINANCE": {
+        "PRIVATE": {},
+        "PUBLIC": {
+            "RATINGS.analystCount": "info.numberOfAnalystOpinions",
+            "RATINGS.recommendationKey": "info.recommendationKey",
+            "RATINGS.recommendationMean": "info.recommendationMean",
+            "RATINGS.strongBuy": "recommendations.strongBuy",
+            "RATINGS.buy": "recommendations.buy",
+            "RATINGS.hold": "recommendations.hold",
+            "RATINGS.sell": "recommendations.sell",
+            "RATINGS.strongSell": "recommendations.strongSell"
+        }
+    }
+}

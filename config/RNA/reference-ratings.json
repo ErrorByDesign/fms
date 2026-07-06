@@ -1,0 +1,33 @@
+{
+    "AVANTAGE": {
+        "PRIVATE": {},
+        "PUBLIC": {
+            "OVERVIEW": {
+                "AnalystRatingStrongBuy": "",
+                "AnalystRatingBuy": "",
+                "AnalystRatingHold": "",
+                "AnalystRatingSell": "",
+                "AnalystRatingStrongSell": ""
+            }
+        }
+    },
+    "YFINANCE": {
+        "PRIVATE": {},
+        "PUBLIC": {
+            "info": {
+                "recommendationMean": null,
+                "recommendationKey": "",
+                "numberOfAnalystOpinions": null
+            },
+            "recommendations": {
+                "0": {
+                    "strongBuy": null,
+                    "buy": null,
+                    "hold": null,
+                    "sell": null,
+                    "strongSell": null
+                }
+            }
+        }
+    }
+}

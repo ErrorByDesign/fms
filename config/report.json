@@ -1,0 +1,50 @@
+{
+    "PORTFOLIO": {
+        "scorePtf": 86.51,
+        "scorePlc": 87.04,
+        "scorePvt": 83.33,
+        "countPtf": 7,
+        "countPlc": 6,
+        "countPvt": 1,
+        "leafNodesPtf": 54,
+        "leafNodesPlc": 47,
+        "leafNodesPvt": 45,
+        "timestamp": "2026-07-02T12:09:10Z",
+        "epoch": 1782994150
+    },
+    "NVO": {
+        "corrupt": null,
+        "score": null,
+        "epoch": null
+    },
+    "IPHA": {
+        "corrupt": null,
+        "score": null,
+        "epoch": null
+    },
+    "SPAX.PVT": {
+        "corrupt": null,
+        "score": null,
+        "epoch": null
+    },
+    "U": {
+        "corrupt": null,
+        "score": null,
+        "epoch": null
+    },
+    "ROIV": {
+        "corrupt": null,
+        "score": null,
+        "epoch": null
+    },
+    "SSRM": {
+        "corrupt": null,
+        "score": null,
+        "epoch": null
+    },
+    "CHYM": {
+        "corrupt": null,
+        "score": null,
+        "epoch": null
+    }
+}

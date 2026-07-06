@@ -1,0 +1,31 @@
+{
+    "feed": [
+        {
+            "title": "CCIA Asks Supreme Court to Hear Apple v. Epic Case",
+            "url": "https://ccianet.org/news/2026/06/ccia-asks-supreme-court-to-hear-apple-v-epic-case/",
+            "time_published": "20260603T165357",
+            "authors": [],
+            "summary": "The Computer & Communications Industry Association (CCIA) has filed an amicus brief urging the Supreme Court to review the Apple v. Epic case. Joined by other organizations, CCIA argues that the lower court's injunctive orders exceed federal authority by imposing broad, platform-wide changes rather than specific relief. CCIA President & CEO Matt Schruers stated that the ruling's supervision of a global digital marketplace based on a single plaintiff's claims necessitates Supreme Court intervention.",
+            "banner_image": "https://ccianet.org/wp-content/uploads/2026/06/Schruers.Apple_.06032026.png",
+            "source": "CCIA",
+            "category_within_source": "General",
+            "source_domain": "CCIA",
+            "topics": [
+                {
+                    "topic": "technology",
+                    "relevance_score": "0.843805"
+                }
+            ],
+            "overall_sentiment_score": 0.143369,
+            "overall_sentiment_label": "Neutral",
+            "ticker_sentiment": [
+                {
+                    "ticker": "AAPL",
+                    "relevance_score": "0.915844",
+                    "ticker_sentiment_score": "0.144425",
+                    "ticker_sentiment_label": "Neutral"
+                }
+            ]
+        }
+    ]
+}

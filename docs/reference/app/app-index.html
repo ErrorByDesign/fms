@@ -1,0 +1,812 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <!-- HEAD -->
+    <head>
+
+        <!-- META -->
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, shrink-to-fit=no, viewport-fit=cover">
+
+        <!-- TITLE -->
+        <title>Xerxes FMS</title>
+
+        <!-- LINK -->
+        <link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB5PSIwLjllbSIgZm9udC1zaXplPSI5MCI+8J+OijwvdGV4dD48L3N2Zz4=">
+
+        <!-- YOUR CSS ONLY -->
+        <link rel="stylesheet" href="style.css?version=3">
+
+    </head>
+
+    <!-- BODY -->
+    <body>
+
+<!-- --- ----- -------- O V E R L A Y S -------- ----- --- -->
+
+        <!-- APPLICATION: OVERLAY -->
+        <div id="applicationOverlay" class="container-overlay">
+
+            <!-- OVERLAY: CALENDAR -->
+            <section id="overlayCalendar" class="overlay     animation-overlay out">
+
+                <!-- SECTION: TODAY -->
+                <div id="sectionToday" class="section-overlay rad-l     animation-section-overlay animation-minmax animation-rad">
+
+                    <!-- CONTENT TODAY -->
+                    <div id="contentToday" class="grid-columns     text-pad-container">
+
+                        <!-- ROW 1: TIME (PH) DOCKED -->
+                        <div id="contentRowZero" class="flexrow-aibline-jcspacebtwn     grid-c1 grid-r1     text-pad     animation-content-overlay">
+                            <span id="cal-time-docked-l" class="text-value-num">hh:mm:ss</span>
+                            <span id="cal-time-docked-r" class="text-value-num">hh:mm:ss</span>
+                        </div>
+                        <!-- ROW 1: TIME (PH) -->
+                        <div id="contentRowOnePH" class="flexrow-aibline-jcspacebtwn     grid-c1 grid-r1     text-pad     animation-content-overlay">
+                            <span class="text-label-mono">Time (PH): </span>
+                            <span id="cal-time-ph" class="text-value-num">hh:mm:ss</span>
+                        </div>
+                        <!-- ROW 1: TIME (ET) -->
+                        <div id="contentRowOneET" class="flexrow-aibline-jcspacebtwn     grid-c1 grid-r1     text-pad     animation-content-overlay">
+                            <span class="text-label-mono">Time (ET): </span>
+                            <span id="cal-time-et" class="text-value-num">hh:mm:ss</span>
+                        </div>
+                        <!-- ROW 2: DATE (PH) -->
+                        <div id="contentRowTwoPH" class="flexrow-aibline-jcspacebtwn     grid-c1 grid-r2     text-pad     animation-content-overlay">
+                            <span class="text-label-mono">Date (PH): </span>
+                            <span id="cal-date-ph" class="text-value-num">YYYY-MM-DD</span>
+                        </div>
+                        <!-- ROW 2: DATE (ET) -->
+                        <div id="contentRowTwoET" class="flexrow-aibline-jcspacebtwn      grid-c1 grid-r2     text-pad     animation-content-overlay">
+                            <span class="text-label-mono">Date (ET): </span>
+                            <span id="cal-date-et" class="text-value-num">YYYY-MM-DD</span>
+                        </div>
+                        <!-- ROW 3: MARKET STATE -->
+                        <div id="contentRowThree" class="flexrow-aibline-jcspacebtwn     grid-c1 grid-r3     text-pad     animation-content-overlay">
+                            <span class="text-label-mono">Market Status: </span>
+                            <span id="cal-market-state" class="text-value-mono">----</span>
+                        </div>
+                        <!-- ROW 4: MARKET COUNT -->
+                        <div id="contentRowFour" class="flexrow-aibline-jcspacebtwn     grid-c1 grid-r4     text-pad     animation-content-overlay">
+                            <span class="text-label-mono">Countdown: </span>
+                            <span id="cal-market-count" class="text-value-num">----</span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- SECTION: HOLIDAYS -->
+                <div id="sectionHoliday" class="section-overlay mgn-vs rad-0     animation-section-overlay animation-mgn">
+
+                    <!-- CONTENT -->
+                    <div id="contentHoliday" class="text-pad-container">
+
+                        <!-- ROW 5 DISPLAY: NAME -->
+                        <div id="contentRowFive" class="flexrow-aibline-jcspacebtwn     text-pad     animation-content-overlay" >
+                            <span class="text-label-mono">Holiday: </span>
+                            <span id="cal-holiday-name" class="text-value-mono">----</span>
+                        </div>
+                        <!-- ROW 6 DISPLAY: DATE -->
+                        <div id="contentRowSix" class="flexrow-aibline-jcspacebtwn     text-pad     animation-content-overlay">
+                            <span class="text-label-mono">Date: </span>
+                            <span id="cal-holiday-date" class="text-value-num">YYYY-MM-DD</span>
+                        </div>
+                        <!-- ROW 7 DISPLAY: COUNTDOWN -->
+                        <div id="contentRowSeven" class="flexrow-aibline-jcspacebtwn     text-pad     animation-content-overlay">
+                            <span class="text-label-mono">Countdown: </span>
+                            <span id="cal-holiday-count" class="text-value-num">----</span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <!-- SECTION: CONTROLS -->
+                <div id="sectionControl" class="section-overlay rad-bl     animation-section-overlay">
+
+                    <!-- ROW 8: CONTENT CONTROLS -->
+                    <div id="contentControl" class="flexrow-aicenter-jcspacebtwn     pad-l     animation-content-overlay">
+
+                        <!-- UI TOGGLE: HOLIDAYS -->
+                        <button id="ui-toggle-holidays" class="ui-toggle ui-mini     animation-ui-toggle-overlay" title="Toggle calendar holidays" data-state="off">
+                            <svg id="ui-toggle-rotate-holidays" class="ui-toggle-rotate" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                            </svg>
+                        </button>
+
+                        <!-- UI TOGGLE: TIMEZONE -->
+                        <button id="ui-toggle-timezone" class="ui-toggle ui-mini     animation-ui-toggle-overlay" title="Toggle calendar timezone" data-state="off">
+                            <!-- CONTAINER: TEXT -->
+                            <span class="text-container">
+                                <!-- UI SWAP: TIMEZONE NOW -->
+                                <span id="ui-swap-timezone-now" class="tc-now animation-opacity in">ET</span>
+                                <!-- UI SWAP: TIMEZONE NEXT -->
+                                <span id="ui-swap-timezone-next" class="tc-next animation-opacity">PH</span>
+                            </span>
+                        </button>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+<!-- --- ----- -------- M O T H E R B O A R D -------- ----- --- -->
+
+        <!-- APPLICATION: MOTHERBOARD -->
+        <div id="applicationMotherboard" class="container-motherboard">
+
+            <!-- SECTION: FMS -->
+            <section id="sectionFMS" class="section min-ha mgn-b0 rad-tlb0     animation-section">
+
+                <!-- CONTENT: FMS -->
+                <div id="contentFMS" class="scaffold-main-head">
+
+                    <h1 class="text-value-mono TEXT text text-c300">Financial Modelling Shell</h1>
+                    <h2 class="text-label-mono txt text-y500">Real-time block calculator</h2>
+
+                </div>
+
+<!-- ------ --> <!--<hr class="line l-popout"/>--> <!-- --- ----- -------- ----- --- -->
+
+            </section>
+
+            <!-- SECTION: MAIN -->
+            <section id="sectionMain" class="section mgn-t0 rad-blt0     animation-section">
+
+                <!-- CONTENT: MAIN -->
+                <div id="contentMain" class="animation-content in">
+
+                    <!-- CONTAINER: TICKERSEARCH -->
+                    <div id="containerTickerSearch" class="scaffold-main-body     pad-1">
+
+                        <!-- UI INPUT: TICKER -->
+                        <div class="w-auto">
+                            <input id="ui-input-ticker" type="text" placeholder="Enter ticker symbol" class="ui-input ui-plus     animation-ui-input" title="Ticker symbol input field">
+                        </div>
+
+                        <!-- UI BUTTON: SEARCH -->
+                        <button id="ui-button-search" class="ui-button     animation-ui-button" title="Ticker symbol search button" disabled>Search</button>
+
+                    </div>
+
+                </div>
+
+                <!-- SECTION: INFO -->
+                <section id="sectionInfo" class="section-info   animation-section">
+
+    <!-- ------ --> <!-- <hr class="line l-groove"/> --> <!-- --- ----- -------- ----- --- -->
+
+                    <!-- CONTENT: INFO -->
+                    <div id="contentInfo" class="pad-vshl gap-m     animation-content">
+
+                        <!-- DISPLAY: COMPANY -->
+                        <span id="displayCompany" class="text-value-mono text-pad font-xl font-w6 text-ipsis text-uc     mgn-r1"></span>
+
+                        <!-- CONTAINER: INFO PRICECHANGE -->
+                        <div class="flexrow-aibaseln     gap-m">
+
+                            <!-- DISPLAY: PRICE -->
+                            <span id="displayPrice" class="text-value-num text-pad"></span>
+
+                            <!-- DISPLAY: CHANGE -->
+                            <span id="displayChange" class="text-value-num text-pad txt"></span>
+
+                        </div>
+
+                    </div>
+
+                </section>
+
+                <!-- SECTION: MESSAGE -->
+                <section id="sectionMessage" class="section-message    animation-section">
+
+                    <!-- CONTENT: MESSAGE -->
+                    <div id="contentMessage" class="animation-content">
+
+                    <!-- MESSAGE: INDICATOR -->
+                        <span id="messageIndicator" class="spin     animation-opacity" aria-hidden="true"></span>
+
+                        <!-- MESSAGE: TEXT -->
+                        <p id="messageText" class="text-value txt-preline     animation-opacity"></p>
+
+                    </div>
+
+                </section>
+
+            </section>
+
+            <!-- SECTION: DASHBOARD -->
+            <section id="sectionDashboard" class="section     animation-section ">
+
+                <!-- HEAD: DASHBOARD -->
+                <div id="headDashboard" class="flexrow-aicenter-jcspacebtwn    pad-h1">
+
+                    <!-- H2 TITLE: DASHBOARD -->
+                    <h2 id="titleDashboard" class="text-title     animation-text-title" data-state="off">DASHBOARD</h2>
+
+                    <!-- UI TOGGLE: DASHBOARD-->
+                    <button id="ui-toggle-dashboard" class="ui-toggle     animation-ui-toggle" title="Toggle dashboard section" data-state="off">
+                        <svg id="ui-toggle-rotate-dashboard" class="ui-toggle-rotate     animation-ui-toggle-rotate" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                        </svg>
+                    </button>
+
+                </div>
+
+                <!-- CONTENT: DASHBOARD -->
+                <div id="contentDashboard" class="flexcol gap1     animation-content">
+
+                    <!-- CONTENT: LAYOUT -->
+                    <div id="containerDashboard" class="flexrow" data-state="off">
+
+                        <!-- COLUMN: LEFT -->
+                        <div class="flexgrw">
+
+                            <!-- DISPLAY: NAME -->
+                            <dl class="section-columns flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Name:</dt>
+                                <dd id="dispName" class="text-value-mono text-pad"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: TICKER/EXCHANGE -->
+                            <dl class="section-columns flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Symbol/Exchange:</dt>
+                                <dd id="dispTickerExchange" class="text-value-mono text-pad"></dd>
+                            </dl>
+
+                            <!-- CONTAINER: PRICECHANGE -->
+                            <dl class="section-columns flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Market price:</dt>
+                                <dd class="flexrow-aibaseln gap-s">
+                                    <!-- DISPLAY: PRICE -->
+                                    <span id="dispPrice" class="text-value-num text-pad"></span>
+                                    <!-- DISPLAY: CHANGE -->
+                                    <span id="dispChange" class="text-value-num text-pad txt"></span>
+                                </dd>
+                            </dl>
+
+                        </div>
+
+                        <!-- COLUMN: RIGHT -->
+                        <div class="flexgrw">
+    
+                            <!-- CONTAINER: BID-DISCOUNT -->
+                            <dl class="section-columns flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Bid price:</dt>
+                                <dd class="flexrow-aibaseln gap-s">
+                                    <!-- DISPLAY: BID -->
+                                    <span id="dispBid" class="text-value-num text-pad"></span>
+                                    <!-- DISPLAY: DISCOUNT -->
+                                    <span id="dispDiscount" class="text-value-num text-pad txt text-b400"></span>
+                                </dd>
+                            </dl>
+
+                            <!-- CONTAINER: MINSELL -->
+                            <dl class="section-columns flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Minimum sell price:</dt>
+                                <dd class="flexrow-aibaseln gap-s">
+                                    <!-- DISPLAY: MINPRICE -->
+                                    <span id="dispMinPrice" class="text-value-num text-pad text-g400"></span>
+                                    <!-- DISPLAY: MINPROFIT -->
+                                    <span id="dispMinProfit" class="text-value-num text-pad txt text-g400"></span>
+                                </dd>
+                            </dl>
+
+                            <!-- CONTAINER: MAXSELL -->
+                            <dl class="section-columns flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Maximum sell price:</dt>
+                                <dd class="flexrow-aibaseln gap-s">
+                                    <!-- DISPLAY: MAXPRICE -->
+                                    <span id="dispMaxPrice" class="text-value-num text-pad txt text-g300"></span>
+                                    <!-- DISPLAY: MAXPROFIT -->
+                                    <span id="dispMaxProfit" class="text-value-num text-pad txt text-g300"></span>
+                                </dd>
+                            </dl>
+
+                        </div>
+
+                    </div>
+
+<!-- --- -- --- --> <hr class="line l-groove"> <!-- --- ----- -------- ----- --- -->
+
+                    <!-- CONTAINER: TABLE -->
+                    <div id="contentTable" class="table-container     animation-content">
+
+                        <!-- CONTENT: TABLE -->
+                        <table id="containerTable" class="table     text-value-num text-pad     w-full">
+
+                            <!-- TABLE: HEAD -->
+                            <thead id="tableHead" class="table-head     text-label-mono text-pad     w-full">
+                                <!-- ROW: HEAD -->
+                                <tr class="table-head-row">
+                                    <th class="table-head-cell pad-hl pad-vs rad-Al">BLOCKS</th>
+                                    <th class="table-head-cell pad-hl pad-vs">COST</th>
+                                    <th class="table-head-cell pad-hl pad-vs">COMMS</th>
+                                    <th class="table-head-cell pad-hl pad-vs">TOTAL</th>
+                                    <th class="table-head-cell pad-hl pad-vs">SELL</th>
+                                    <th class="table-head-cell pad-hl pad-vs rad-Bl">PROFIT</th>
+                                </tr>
+                            </thead>
+                            <!-- TABLE: BODY -->
+                            <tbody id="tableBody" class="table-body     text-right">
+                                <!-- ROW: MAXIMUM -->
+                                <tr class="table-body-row">
+                                    <td class="table-body-cell text-bold           rad-Al" id="dispBlockMax"></td>
+                                    <td class="table-body-cell text-lght                 " id="dispCostMax"></td>
+                                    <td class="table-body-cell text-lght                 " id="dispCommsMax"></td>
+                                    <td class="table-body-cell text-bold text-r500       " id="dispTotalMax"></td>
+                                    <td class="table-body-cell           text-c500       " id="dispSellMax"></td>
+                                    <td class="table-body-cell text-bold text-g500 rad-Bl" id="dispProfitMax"></td>
+                                </tr>
+                                <!-- ROW: MAXIMUM HALF -->
+                                <tr class="table-body-row">
+                                    <td class="table-body-cell text-bold          " id="dispBlockMaxHalf"></td>
+                                    <td class="table-body-cell text-lght          " id="dispCostMaxHalf"></td>
+                                    <td class="table-body-cell text-lght          " id="dispCommsMaxHalf"></td>
+                                    <td class="table-body-cell text-bold text-r500" id="dispTotalMaxHalf"></td>
+                                    <td class="table-body-cell           text-c500" id="dispSellMaxHalf"></td>
+                                    <td class="table-body-cell text-bold text-g500" id="dispProfitMaxHalf"></td>
+                                </tr>
+                                <!-- ROW: MINIMUM DOUBLE -->
+                                <tr class="table-body-row">
+                                    <td class="table-body-cell text-bold          " id="dispBlockMinDouble"></td>
+                                    <td class="table-body-cell text-lght          " id="dispCostMinDouble"></td>
+                                    <td class="table-body-cell text-lght          " id="dispCommsMinDouble"></td>
+                                    <td class="table-body-cell text-bold text-r500" id="dispTotalMinDouble"></td>
+                                    <td class="table-body-cell           text-c500" id="dispSellMinDouble"></td>
+                                    <td class="table-body-cell text-bold text-g500" id="dispProfitMinDouble"></td>
+                                </tr>
+                                <!-- ROW: MINIMUM -->
+                                <tr class="table-body-row">
+                                    <td class="table-body-cell text-bold           rad-Dl" id="dispBlockMin"></td>
+                                    <td class="table-body-cell text-lght                 " id="dispCostMin"></td>
+                                    <td class="table-body-cell text-lght                 " id="dispCommsMin"></td>
+                                    <td class="table-body-cell text-bold text-r500       " id="dispTotalMin"></td>
+                                    <td class="table-body-cell           text-c500       " id="dispSellMin"></td>
+                                    <td class="table-body-cell text-bold text-g500 rad-Cl" id="dispProfitMin"></td>
+                                </tr>
+                            </tbody>
+
+                        </table>
+
+                    </div>
+
+<!-- --- -- --- --> <hr class="line l-groove"> <!-- --- ----- -------- ----- --- -->
+
+                    <!-- SECTION: SETTINGS -->
+                    <section id="sectionSettings" class="section-sub     animation-section-sub" data-state="off">
+
+                        <!-- HEAD: SETTINGS -->
+                        <div id="headSettings" class="flexrow-aibline-jcspacebtwn">
+
+                            <!-- CONTAINER: TOGGLE -->
+                            <div class="flexrow">
+
+                                <!-- UI TOGGLE: SETTINGS -->
+                                <button id="ui-toggle-settings" class="ui-toggle ui-mini     animation-ui-toggle " title="Toggle dashboard settings" data-state="off">
+                                    <svg id="ui-toggle-rotate-settings" class="ui-toggle-rotate     animation-ui-toggle-rotate" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                                    </svg>
+                                </button>
+
+                                <!-- H3 TITLE: SETTINGS -->
+                                <h3 id="titleSettings" class="text-title-mini" data-state="off">SETTINGS</h3>
+
+                            </div>
+
+                            <!-- CONTAINER: BUTTONS -->
+                            <div class="flexrow     animation-options">
+
+                                <!-- UI BUTTON: RESET -->
+                                <button id="ui-button-reset" class="ui-button     animation-ui-button" disabled>Reset</button>
+
+                                <!-- UI BUTTON: SAVE -->
+                                <button id="ui-button-save" class="ui-button     animation-ui-button" disabled>Save</button>
+
+                            </div>
+
+                        </div>
+
+                        <!-- CONTENT: SETTINGS -->
+                        <div id="contentSettings" class="animation-content">
+
+                            <!-- CONTAINER: DISCOUNT -->
+                            <div class="flexcol">
+
+                                <!-- DISPLAY: DISCOUNT -->
+                                <label for="ui-input-discount" class="text-label">
+                                    <span class="hidden md:inline block truncate p-1">Blockage discount (%)</span>
+                                    <span class="inline md:hidden block truncate p-1">Discount (%)</span>
+                                </label>
+
+                                <!-- UI INPUT: DISCOUNT -->
+                                <input id="ui-input-discount" type="number" min="0" step="1" class="ui-input w-full pad-s     animation-ui-input" title="Blockage discount percentage">
+
+                            </div>
+
+                            <!-- CONTAINER: FEE -->
+                            <div class="flexcol">
+
+                                <!-- DISPLAY: FEE -->
+                                <label for="ui-input-fee" class="text-label">
+                                    <span class="hidden md:inline block truncate p-1">Brokerage fee (%)</span>
+                                    <span class="inline md:hidden block truncate p-1">Fee (%)</span>
+                                </label>
+
+                                <!-- UI INPUT: FEE -->
+                                <input id="ui-input-fee" type="number" min="0" step="0.5" class="ui-input w-full pad-s     animation-ui-input" title="Brokerage fee percentage">
+
+                            </div>
+
+                            <!-- CONTAINER: MINSELL -->
+                            <div class="flexcol">
+
+                                <!-- DISPLAY: MINSELL -->
+                                <label for="ui-input-min-percent" class="text-label">
+                                    <span class="hidden md:inline block truncate p-1">Minimum sell (%)</span>
+                                    <span class="inline md:hidden block truncate p-1">Min sell (%)</span>
+                                </label>
+
+                                <!-- UI INPUT: MINSELL -->
+                                <input id="ui-input-min-percent" type="number" min="0" step="5" class="ui-input w-full pad-s     animation-ui-input" title="Minimum sell percentage">
+
+                            </div>
+
+                            <!-- CONTAINER: MAXSELL -->
+                            <div class="flexcol">
+
+                                <!-- DISPLAY: MAXSELL -->
+                                <label for="ui-input-max-percent" class="text-label">
+                                    <span class="hidden md:inline block truncate p-1">Maximum sell (%)</span>
+                                    <span class="inline md:hidden block truncate p-1">Max sell (%)</span>
+                                </label>
+
+                                <!-- UI INPUT: MAXSELL -->
+                                <input id="ui-input-max-percent" type="number" min="0" step="5" class="ui-input w-full pad-s     animation-ui-input" title="Maximum sell percentage">
+
+                            </div>
+
+                        </div>
+
+                    </section>
+
+                </div>
+
+            </section>
+
+            <!-- SECTION: OVERVIEW -->
+            <section id="sectionOverview" class="section     animation-section">
+
+                <!-- HEAD: OVERVIEW -->
+                <div id="headOverview" class="flexrow-aicenter-jcspacebtwn     pad-h1">
+
+                    <!-- H2 TITLE: OVERVIEW -->
+                    <h2 id="titleOverview" class="text-title     animation-text-title" data-state="off">OVERVIEW</h2>
+
+                    <!-- UI TOGGLE: OVERVIEW -->
+                    <button id="ui-toggle-overview" class="ui-toggle     animation-ui-toggle" title="Toggle overview section" data-state="off">
+                        <svg id="ui-toggle-rotate-overview" class="ui-toggle-rotate     animation-ui-toggle-rotate" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                        </svg>
+                    </button>
+
+                </div>
+
+                <!-- CONTENT: OVERVIEW -->
+                <div id="contentOverview" class="animation-content">
+
+                    <!-- CONTAINER: OVERVIEW -->
+                    <div id="containerOverview" class="mgn-t1 flexrow     text-label-mono text-pad">
+
+                        <!-- COLUMN: LEFT -->
+                        <div class="flexgrw">
+
+                            <!-- DISPLAY: NAME -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Name:</dt>
+                                <dd id="displayName" class="text-value-mono text-pad"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: TICKER -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Symbol:</dt>
+                                <dd id="displayTicker" class="text-value-mono text-pad"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: EXCHANGE -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Exchange:</dt>
+                                <dd id="displayExchange" class="text-value-mono text-pad"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: SECTOR -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Sector:</dt>
+                                <dd id="displaySector" class="text-value-mono text-pad"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: INDUSTRY -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Industry:</dt>
+                                <dd id="displayIndustry" class="text-value-mono text-pad"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: COUNTRY -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Country:</dt>
+                                <dd id="displayCountry" class="text-value-mono text-pad"></dd>
+                            </dl>
+
+                        </div>
+
+                        <!-- COLUMN: RIGHT -->
+                        <div class="flexgrw">
+
+                            <!-- DISPLAY: WEBSITE -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Website:</dt>
+                                <dd><a id="displayWebsite" href="#" target="_blank" rel="noopener noreferrer" class="text-value--link hover:underline" title="Visit company website"></a></dd>
+                            </dl>
+
+                            <!-- DISPLAY: MARKET PRICE -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Market price:</dt>
+                                <dd id="displayMarketPrice" class="text-value-num text-pad"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: MARKET CAPITALIZATION -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Market capitalization:</dt>
+                                <dd id="displayMarketCap" class="text-value-mono text-pad"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: 52 WEEK HIGH -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">52 week high:</dt>
+                                <dd id="displayWeekHigh" class="text-value-num text-pad text-c500"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: 52 WEEK LOW -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">52 week low:</dt>
+                                <dd id="displayWeekLow" class="text-value-num text-pad text-r500"></dd>
+                            </dl>
+
+                            <!-- DISPLAY: TARGET PRICE -->
+                            <dl class="section-columns     flexrow-jcspacebtwn min-h2 txt-wsnwrap w-auto">
+                                <dt class="text-label-mono text-pad">Target price:</dt>
+                                <dd id="displayTargetPrice" class="text-value-num text-pad "></dd>
+                            </dl>
+
+                        </div>
+
+                    </div>
+
+<!-- ---------- --> <hr class="line l-groove"> <!-- --- ----- -------- ----- --- -->
+
+                    <!-- SECTION: DESCRIPTION -->
+                    <section id="sectionDescription" class="section-sub     animation-section-sub" data-state="off">
+
+                        <!-- HEAD: DESCRIPTION -->
+                        <div id="headDescription" class="flexrow-aicenter-cg1">
+
+                            <!-- UI TOGGLE: DESCRIPTION -->
+                            <button id="ui-toggle-description" class="ui-toggle ui-mini     animation-ui-toggle" title="Toggle overview description" data-state="off">
+                                <svg id="ui-toggle-rotate-description" class="ui-toggle-rotate     animation-ui-toggle-rotate" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                                </svg>
+                            </button>
+
+                            <!-- H3 TITLE: DESCRIPTION -->
+                            <h3 id="titleDescription" class="text-title-mini" data-state="off">Description</h3>
+
+                        </div>
+
+                        <!-- CONTENT: DESCRIPTION -->
+                        <div id="contentDescription" class="animation-content">
+
+                            <!-- CONTAINER: DESCRIPTION -->
+                            <div id="containerDescription" class="">
+                                <p id="dispDescription" class="text-value leading-relaxed"></p>
+                            </div>
+
+                        </div>
+
+                    </section>
+
+<!-- ---------- --> <hr class="line l-groove"> <!-- --- ----- -------- ----- --- -->
+
+                    <!-- SECTION: RATINGS-->
+                    <section id="sectionRatings" class="section-sub     animation-section-sub" data-state="off">
+
+                        <!-- HEAD: RATINGS -->
+                        <div id="headRatings" class="flexrow-aicenter-cg1">
+
+                            <!-- UI: TOGGLE -->
+                            <button id="ui-toggle-ratings" class="ui-toggle ui-mini     animation-ui-toggle " title="Toggle overview ratings" data-state="off">
+                                <svg id="ui-toggle-rotate-ratings" class="ui-toggle-rotate     animation-ui-toggle-rotate" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                    <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                                </svg>
+                            </button>
+
+                            <!-- H3: TITLE -->
+                            <h3 id="titleRatings" class="text-title-mini" data-state="off">Ratings</h3>
+
+                        </div>
+
+                        <!-- CONTENT: RATINGS -->
+                        <div id="contentRatings" class="flexcol gap-1     animation-content">
+
+                            <!-- CONTAINER: GRADIENT -->
+                            <div class="pos-relative w-full">
+
+                                <!-- SHAPE: BAR -->
+                                <div class="absolute     inset-x-0     top-6     h-3     bg-gradient-to-r from-red-500 via-yellow-500 to-green-500     rounded-full     shadow-md"></div>
+
+                                <!-- CONTAINER: INDICATOR -->
+                                <div id="containerIndicator" class="absolute     top-0 left-0     flex items-center     gap-1     pointer-events-none">
+
+                                    <!-- SHAPE: TRIANGLE -->
+                                    <div id="shapeTriangle" class="w-0 h-0     border-l-8 border-r-8 border-t-8 border-l-transparent border-r-transparent     opacity-0"></div>
+
+                                    <!-- DISPLAY: PERCENTAGE -->
+                                    <div id="dispPercentage" class="text-xs lg:text-sm 2xl:text-base     opacity-0"></div>
+
+                                </div>
+
+                            </div>
+
+<!-- --- ---------- --- --> <hr class="line l-groove"/> <!-- --- ----- -------- ----- --- -->
+
+                            <!-- CONTAINER: RECOMMENDATIONS -->
+                            <div class="flexrow-jcspacebtwn w-full ws-nwrap     text-label-mono text-pad">
+
+                                <!-- DISPLAY: STRONG SELL -->
+                                <div class="flexgrw     txt-l">
+                                    <span>
+                                        <span class="hidden md:inline truncate">Strong Sell:</span>
+                                        <span class="inline md:hidden truncate">Sell++:</span>
+                                    </span>
+                                    <span id="dispStrongSell" class="text-r500"></span>
+                                </div>
+
+                                <!-- DISPLAY: SELL -->
+                                <div class="flexgrw     txt-c">
+                                    <span class="truncate">Sell:</span>
+                                    <span id="dispSell" class="text-r400"></span>
+                                </div>
+
+                                <!-- DISPLAY: HOLD -->
+                                <div class="flexgrw     txt-c">
+                                    <span class="truncate">Hold:</span>
+                                    <span id="dispHold" class="text-yellow-500"></span>
+                                </div>
+
+                                <!-- DISPLAY: BUY -->
+                                <div class="flexgrw     txt-c">
+                                    <span class="truncate">Buy:</span>
+                                    <span id="dispBuy" class="text-g500"></span>
+                                </div>
+
+                                <!-- DISPLAY: STRONG BUY -->
+                                <div class="flexgrw     txt-r">
+                                    <span>
+                                    <span class="hidden md:inline truncate">Strong buy:</span>
+                                    <span class="inline md:hidden truncate">Buy++:</span>
+                                    </span>
+                                    <span id="dispStrongBuy" class="text-g400"></span>
+                                </div>
+
+                            </div>
+
+                        </div>
+
+                    </section>
+
+                </div>
+
+            </section>
+
+            <!-- SECTION: NEWS -->
+            <section id="sectionNews" class="section     animation-section">
+
+                <!-- HEAD: NEWS -->
+                <div id="headNews" class="flexrow-aicenter-jcspacebtwn     pad-h1">
+
+                    <!-- H2 TITLE: NEWS-->
+                    <h2 id="titleNews" class="text-title     animation-text-title" data-state="off">NEWS</h2>
+
+                    <!-- UI TOGGLE: NEWS-->
+                    <button id="ui-toggle-news" class="ui-toggle     animation-ui-toggle" title="Toggle news section" data-state="off">
+                        <svg id="ui-toggle-rotate-news" class="ui-toggle-rotate     animation-ui-toggle-rotate" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M12 6v6m0 0v6m0-6h6m-6 0H6" />
+                        </svg>
+                    </button>
+
+                </div>
+
+                <!-- CONTENT: NEWS -->
+                <div id="contentNews" class="animation-content">
+
+                    <!-- CONTAINER: CONTROLS -->
+                    <div id="containerControls" class="flexrow-jcspacebtwn gap-1">
+
+                        <!-- CONTAINER: SORT -->
+                        <div class="controlsSort">
+
+                            <!-- UI TOGGLE: TYPE -->
+                            <button id="ui-toggle-type" class="ui-button ui-sort-button ui-sort-type     animation-ui-button" data-type="date" data-animating="false">
+                                <span class="text-container">
+                                    <span id="ui-swap-type-now" class="tc-now animation-opacity in">DATE</span>
+                                    <span id="ui-swap-type-next" class="tc-next animation-opacity">SENT</span>
+                                </span>
+                            </button>
+
+                            <!-- UI TOGGLE: DIRECTION -->
+                            <button id="ui-toggle-direction" class="ui-button sort-button sort-direction     animation-ui-button" data-direction="newest" data-animating="false">
+                                <span class="text-container">
+                                    <span id="ui-swap-direction-now" class="tc-now animation-opacity in">NEWEST</span>
+                                    <span id="ui-swap-direction-next" class="tc-next animtion-opacity">OLDEST</span>
+                                </span>
+                            </button>
+
+                        </div>
+
+                        <!-- CONTAINER: FETCH RANGE -->
+                        <div class="flexrow gap-l">
+
+                            <!-- UI LIST: RANGE -->
+                            <div class="dropdown-double">
+
+                                <!-- UI SELECT: VALUE -->
+                                <select id="ui-dropdown-range-value" class="ui-dropdown-menu value-select">
+                                    <!-- Will be populated -->
+                                </select>
+
+                                <!-- UI SELECT: UNIT -->
+                                <select id="ui-dropdown-range-unit" class="ui-dropdown-menu unit-select">
+                                    <option value="DAY">DAY</option>
+                                    <option value="WEEK">WEEK</option>
+                                    <option value="MONTH" selected>MONTH</option>
+                                    <option value="YEAR">YEAR</option>
+                                </select>
+
+                            </div>
+
+                            <!-- UI BUTTON: FETCH  -->
+                            <button id="ui-button-fetch" class="ui-button mini-row     animation-ui-button" disabled>Fetch</button>
+
+                        </div>
+
+                    </div>
+
+    <!-- -- --- --> <hr class="line l-groove"> <!-- --- ----- -------- ----- --- -->
+
+                    <!-- CONTAINER: NEWS -->
+                    <div id="containerNews" class="">
+
+                        <!-- FEED: ARTICLES -->
+                        <div id="containerFeed" class="w-auto">
+                            <!-- NEWS ITEMS INJECTED HERE -->
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+<!-- --- ----- -------- J A V A S C R I P T -------- ----- --- -->
+
+        <!-- JAVASCRIPT -->
+        <script src="script.js" defer></script>
+
+    </body>
+
+</html>

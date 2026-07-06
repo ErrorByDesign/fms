@@ -1,0 +1,63 @@
+[
+    {
+        "content": {
+            "id": "7bd61b8d-f819-3226-832b-065442ed9cd5",
+            "contentType": "STORY",
+            "title": "1 Software Stock with Exciting Potential and 2 We Question",
+            "description": "",
+            "summary": "From commerce to culture, software is digitizing every aspect of our lives. This secular theme makes SaaS companies attractive investment candidates but also comes with higher valuations that cause volatility. Unfortunately, the rich prices have haunted them over the past six months as the industry has shed 7.1%. This performance is a far cry from the S&P 500\u2019s 11% ascent.",
+            "pubDate": "2026-06-04T19:49:30Z",
+            "displayTime": "2026-06-04T19:49:30Z",
+            "isHosted": true,
+            "bypassModal": false,
+            "previewUrl": null,
+            "thumbnail": {
+                "originalUrl": "https://media.zenfs.com/en/stockstory_922/7bad53107ddbf53939fcddca8de2d381",
+                "originalWidth": 1400,
+                "originalHeight": 700,
+                "caption": "HUBS Cover Image",
+                "resolutions": [
+                    {
+                        "url": "https://s.yimg.com/uu/api/res/1.2/MxQtkPMJ8aKQBpXRJad5cQ--~B/aD03MDA7dz0xNDAwO2FwcGlkPXl0YWNoeW9u/https://media.zenfs.com/en/stockstory_922/7bad53107ddbf53939fcddca8de2d381",
+                        "width": 1400,
+                        "height": 700,
+                        "tag": "original"
+                    },
+                    {
+                        "url": "https://s.yimg.com/uu/api/res/1.2/Vq1YZnl1euWMzKWmTugClg--~B/Zmk9c3RyaW07aD0xMjg7dz0xNzA7YXBwaWQ9eXRhY2h5b24-/https://media.zenfs.com/en/stockstory_922/7bad53107ddbf53939fcddca8de2d381",
+                        "width": 170,
+                        "height": 128,
+                        "tag": "170x128"
+                    }
+                ]
+            },
+            "provider": {
+                "displayName": "StockStory",
+                "url": "https://stockstory.org/",
+                "sourceId": "stockstory_922"
+            },
+            "canonicalUrl": {
+                "url": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-exciting-potential-194930525.html",
+                "site": "finance",
+                "region": "US",
+                "lang": "en-US"
+            },
+            "clickThroughUrl": {
+                "url": "https://finance.yahoo.com/markets/stocks/articles/1-software-stock-exciting-potential-194930525.html",
+                "site": "finance",
+                "region": "US",
+                "lang": "en-US"
+            },
+            "metadata": {
+                "editorsPick": false
+            },
+            "finance": {
+                "premiumFinance": {
+                    "isPremiumNews": false,
+                    "isPremiumFreeNews": false
+                }
+            },
+            "storyline": null
+        }
+    }
+]

@@ -1,0 +1,82 @@
+{
+    "TICKER_SYMBOL": {
+        "AVANTAGE": {
+            "PRIVATE": {},
+            "PUBLIC": {
+                "feed": [
+                    {
+                        "title": "",
+                        "url": "",
+                        "time_published": "YYYYMMddTHHmmss",
+                        "summary": "",
+                        "banner_image": "",
+                        "source": "",
+                        "category_within_source": "",
+                        "overall_sentiment_score": null,
+                        "overall_sentiment_label": "",
+                        "ticker_sentiment": [
+                            {
+                                "ticker": "TICKER_SYMBOL",
+                                "relevance_score": ""
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "YFINANCE": {
+            "PRIVATE": [
+                {
+                    "content": {
+                        "title": "",
+                        "description": "",
+                        "summary": "",
+                        "pubDate": "YYYY-MM-ddTHH:mm:ssZ",
+                        "thumbnail": {
+                            "originalUrl": ""
+                        },
+                        "provider": {
+                            "displayName": "",
+                            "url": ""
+                        },
+                        "canonicalUrl": {
+                            "url": ""
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": null,
+                                "isPremiumFreeNews": null
+                            }
+                        }
+                    }
+                }
+            ],
+            "PUBLIC": [
+                {
+                    "content": {
+                        "title": "",
+                        "description": "",
+                        "summary": "",
+                        "pubDate": "YYYY-MM-ddTHH:mm:ssZ",
+                        "thumbnail": {
+                            "originalUrl": ""
+                        },
+                        "provider": {
+                            "displayName": "",
+                            "url": ""
+                        },
+                        "canonicalUrl": {
+                            "url": ""
+                        },
+                        "finance": {
+                            "premiumFinance": {
+                                "isPremiumNews": null,
+                                "isPremiumFreeNews": null
+                            }
+                        }
+                    }
+                }
+            ]
+        }
+    }
+}

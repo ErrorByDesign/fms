@@ -1,0 +1,33 @@
+{
+    "backup": {
+        "coreDir": [
+            ".git",
+            ".github",
+            "config",
+            "data",
+            "docs",
+            "modules",
+            "scripts"
+        ],
+        "coreFls": [
+            ".gitignore", 
+            "main.py"
+        ],
+        "userDir": [
+            "css",
+            "fonts"
+        ],
+        "userFls": [
+            "index.html",
+            "script.js",
+            "style.css"
+        ],
+        "protectedKeys": [
+            "backup",
+            "back",
+            "bckp",
+            "bak",
+            "bck"
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "YFINANCE": {
+        "MAPS": {
+            "close": "Close",
+            "high": "High",
+            "low": "Low"
+        }
+    }
+}

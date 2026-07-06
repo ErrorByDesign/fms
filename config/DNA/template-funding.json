@@ -1,0 +1,12 @@
+{
+    "TICKER_SYMBOL": {
+        "FUNDING": {
+            "fundingToDate": null,
+            "latestAmountRaised": null,
+            "latestFundingDate": null,
+            "latestShareClass": "",
+            "leadInvestor": "",
+            "totalFundingRounds": null
+        }
+    }
+}

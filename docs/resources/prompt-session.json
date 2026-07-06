@@ -1,0 +1,278 @@
+{
+    "PromptSession.prompt": {
+        "signature": "self, message: 'AnyFormattedText | None' = None, *, editing_mode: 'EditingMode | None' = None, refresh_interval: 'float | None' = None, vi_mode: 'bool | None' = None, lexer: 'Lexer | None' = None, completer: 'Completer | None' = None, complete_in_thread: 'bool | None' = None, is_password: 'bool | None' = None, key_bindings: 'KeyBindingsBase | None' = None, bottom_toolbar: 'AnyFormattedText | None' = None, style: 'BaseStyle | None' = None, color_depth: 'ColorDepth | None' = None, cursor: 'AnyCursorShapeConfig | None' = None, include_default_pygments_style: 'FilterOrBool | None' = None, style_transformation: 'StyleTransformation | None' = None, swap_light_and_dark_colors: 'FilterOrBool | None' = None, rprompt: 'AnyFormattedText | None' = None, multiline: 'FilterOrBool | None' = None, prompt_continuation: 'PromptContinuationText | None' = None, wrap_lines: 'FilterOrBool | None' = None, enable_history_search: 'FilterOrBool | None' = None, search_ignore_case: 'FilterOrBool | None' = None, complete_while_typing: 'FilterOrBool | None' = None, validate_while_typing: 'FilterOrBool | None' = None, complete_style: 'CompleteStyle | None' = None, auto_suggest: 'AutoSuggest | None' = None, validator: 'Validator | None' = None, clipboard: 'Clipboard | None' = None, mouse_support: 'FilterOrBool | None' = None, input_processors: 'list[Processor] | None' = None, placeholder: 'AnyFormattedText | None' = None, reserve_space_for_menu: 'int | None' = None, enable_system_prompt: 'FilterOrBool | None' = None, enable_suspend: 'FilterOrBool | None' = None, enable_open_in_editor: 'FilterOrBool | None' = None, tempfile_suffix: 'str | Callable[[], str] | None' = None, tempfile: 'str | Callable[[], str] | None' = None, show_frame: 'FilterOrBool | None' = None, default: 'str | Document' = '', accept_default: 'bool' = False, pre_run: 'Callable[[], None] | None' = None, set_exception_handler: 'bool' = True, handle_sigint: 'bool' = True, in_thread: 'bool' = False, inputhook: 'InputHook | None' = None) -> '_T'",
+        "parameters": {
+            "message": {
+                "type": "AnyFormattedText | None",
+                "default": "None",
+                "kind": "positional-or-keyword",
+                "description": "The prompt text displayed to the user, which can be plain text or formatted (e.g., with HTML or ANSI)."
+            },
+            "editing_mode": {
+                "type": "EditingMode | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Sets the input editing mode to either 'emacs' (default) or 'vi', controlling key bindings and behaviour."
+            },
+            "refresh_interval": {
+                "type": "float | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Interval in seconds for refreshing the UI; useful when the prompt content updates dynamically."
+            },
+            "vi_mode": {
+                "type": "bool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Shortcut to enable Vi/Modal editing mode; equivalent to setting editing_mode='vi'."
+            },
+            "lexer": {
+                "type": "Lexer | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Syntax highlighter (e.g., Pygments lexer) applied to the user's input as they type."
+            },
+            "completer": {
+                "type": "Completer | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Provides auto‑completion suggestions based on the current input, e.g., for file paths or keywords."
+            },
+            "complete_in_thread": {
+                "type": "bool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "If True, runs the completion logic in a background thread to keep the UI responsive."
+            },
+            "is_password": {
+                "type": "bool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Masks user input with asterisks (or a configurable character) for secure password entry."
+            },
+            "key_bindings": {
+                "type": "KeyBindingsBase | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Custom key bindings to add or override default shortcuts for the prompt session."
+            },
+            "bottom_toolbar": {
+                "type": "AnyFormattedText | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Text displayed in a toolbar at the bottom of the screen, useful for status messages or hints."
+            },
+            "style": {
+                "type": "BaseStyle | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Custom style (colors, fonts) applied to the prompt and input area."
+            },
+            "color_depth": {
+                "type": "ColorDepth | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Specifies the color depth (e.g., 1‑bit, 24‑bit) to use, overriding terminal detection."
+            },
+            "cursor": {
+                "type": "AnyCursorShapeConfig | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Configures the shape (block, beam, underline) and blinking behaviour of the cursor."
+            },
+            "include_default_pygments_style": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Whether to include the default Pygments style when a lexer is used; can be a filter."
+            },
+            "style_transformation": {
+                "type": "StyleTransformation | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Dynamically transforms the style (e.g., to adjust contrast or invert colors) at render time."
+            },
+            "swap_light_and_dark_colors": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Swaps light and dark color schemes, useful for adapting to terminal background changes."
+            },
+            "rprompt": {
+                "type": "AnyFormattedText | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Right‑aligned prompt text, often used for showing contextual information (e.g., branch name)."
+            },
+            "multiline": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Enables multiline input, allowing the user to enter text across multiple lines."
+            },
+            "prompt_continuation": {
+                "type": "PromptContinuationText | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Text or function that generates the continuation prompt for wrapped or continued lines."
+            },
+            "wrap_lines": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Whether long input lines should wrap to the next line or scroll horizontally."
+            },
+            "enable_history_search": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Allows the user to search through command history using the up/down arrow keys (or bindings)."
+            },
+            "search_ignore_case": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Makes history search case‑insensitive when true."
+            },
+            "complete_while_typing": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Automatically shows completions as the user types, without requiring a key press (e.g., Tab)."
+            },
+            "validate_while_typing": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Continuously validates the input as the user types and displays feedback (e.g., error indicators)."
+            },
+            "complete_style": {
+                "type": "CompleteStyle | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Determines the appearance of the completion menu (e.g., column, scrollbar, or popup style)."
+            },
+            "auto_suggest": {
+                "type": "AutoSuggest | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Provides a suggestion (typically from history) shown as faint text that the user can accept."
+            },
+            "validator": {
+                "type": "Validator | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Validates the final input; if invalid, the user is prompted to correct it before submission."
+            },
+            "clipboard": {
+                "type": "Clipboard | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Custom clipboard instance for copy/paste operations within the prompt session."
+            },
+            "mouse_support": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Enables mouse events (e.g., clicking to position the cursor, selecting text) in the terminal."
+            },
+            "input_processors": {
+                "type": "list[Processor] | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "List of processors that transform input events before they are applied to the buffer."
+            },
+            "placeholder": {
+                "type": "AnyFormattedText | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Text shown in the input area when the buffer is empty, acting as a hint or example."
+            },
+            "reserve_space_for_menu": {
+                "type": "int | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Number of lines to reserve at the bottom of the screen for the completion menu, preventing UI jitter."
+            },
+            "enable_system_prompt": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "If enabled, pressing Ctrl+Z suspends the application and drops to the system shell (Unix‑like)."
+            },
+            "enable_suspend": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "If enabled, allows suspending the application via the terminal's suspend key (often Ctrl+Z)."
+            },
+            "enable_open_in_editor": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "If enabled, the user can press Ctrl+E to open the current input in an external editor."
+            },
+            "tempfile_suffix": {
+                "type": "str | Callable[[], str] | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Suffix (e.g., '.py') for the temporary file used when opening input in an external editor."
+            },
+            "tempfile": {
+                "type": "str | Callable[[], str] | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Full path or callable returning a path for the temporary file used by the external editor."
+            },
+            "show_frame": {
+                "type": "FilterOrBool | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Whether to draw a visible border/frame around the input area for better visual separation."
+            },
+            "default": {
+                "type": "str | Document",
+                "default": "''",
+                "kind": "keyword-only",
+                "description": "Initial text (or Document) pre‑filled in the input buffer when the prompt is shown."
+            },
+            "accept_default": {
+                "type": "bool",
+                "default": "False",
+                "kind": "keyword-only",
+                "description": "If True and the user presses Enter without changing the default, the default value is accepted."
+            },
+            "pre_run": {
+                "type": "Callable[[], None] | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Optional callback executed just before the prompt starts, useful for setup or state preparation."
+            },
+            "set_exception_handler": {
+                "type": "bool",
+                "default": "True",
+                "kind": "keyword-only",
+                "description": "Whether to install a custom exception handler that prints errors gracefully without crashing."
+            },
+            "handle_sigint": {
+                "type": "bool",
+                "default": "True",
+                "kind": "keyword-only",
+                "description": "If True, pressing Ctrl+C raises a KeyboardInterrupt; if False, SIGINT is ignored or handled differently."
+            },
+            "in_thread": {
+                "type": "bool",
+                "default": "False",
+                "kind": "keyword-only",
+                "description": "If True, runs the prompt in a separate thread, allowing the main thread to do other work."
+            },
+            "inputhook": {
+                "type": "InputHook | None",
+                "default": "None",
+                "kind": "keyword-only",
+                "description": "Hook that integrates with an event loop (e.g., asyncio, Qt, GTK) for non‑blocking input handling."
+            }
+        },
+        "return_type": "_T"
+    }
+}
