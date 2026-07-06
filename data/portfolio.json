@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.43,
+        "price": 48.9701,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.40373,
-            "marketCap": 223193366528,
+            "change": -2.8943355,
+            "marketCap": 216732123136,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.697548
+            "yearTarget": 47.637222
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Could This Healthcare Stock Help You Build a Real Fortune Over the Next 20 Years?",
+                "summary": "The weight-loss market is crowded, but this company's lead drug candidate has several key advantages.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/06/could-healthcare-stock-vktx-help-build-fortune/",
+                "publishDate": "2026-07-06T11:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Trump\u2019s FDA May Soon Throw Its Weight Behind Peptides. Should You Buy In?",
                 "summary": "Peptides are short-chain amino acids that are formulated into drugs.  Insulin is a peptide.  Legions of other peptides are on the market in the \u201cwellness\u201d industry, promoted for everything from athletic performance to skin care, mental focus, and \u201cromantic connection\u201d\u2014the latter pitched by a startup called Feel Peptides.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-03T13:12:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Is At The Center Of A Fast Growing Diabetes Drug Market",
-                "summary": "Market research highlights Novo Nordisk (NYSE:NVO) as a leading company in the global antidiabetic drugs market. The report points to rising diabetes prevalence and new therapeutic approaches as key drivers for the sector. Novo Nordisk is identified as a major participant in advanced drug classes, including GLP-1 receptor agonists. Novo Nordisk is a central player in a global antidiabetic market that research identifies as having significant long-term potential, with diabetes prevalence and...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-center-fast-101905395.html",
-                "publishDate": "2026-07-03T10:19:05Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8,
+        "price": 1.92,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4390223,
-            "marketCap": 169025920,
+            "change": 6.666667,
+            "marketCap": 180294304,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.13,
+        "price": 35.31,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.2854652,
-            "marketCap": 25267970048,
+            "change": 0.51238346,
+            "marketCap": 25397438464,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.62,
+        "price": 30.4,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.2088065,
-            "marketCap": 6353376768,
+            "change": -0.71848863,
+            "marketCap": 6307728384,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
