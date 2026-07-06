@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.31,
+        "price": 49.3401,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2208982,
-            "marketCap": 218236469248,
+            "change": -2.1612198,
+            "marketCap": 218369671168,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.73647
+            "yearTarget": 47.734276
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "The Anti-Magnificent Seven Trade? VGK Is Quietly Creeping Toward Record Highs",
+                "summary": "European stocks are having their loudest year in a decade, and the Vanguard FTSE Europe ETF (NYSEARCA:VGK) is the vehicle most retail investors will consider. VGK trades around $90, up 18% over the past year, while every US finance headline focuses on hyperscaler capex and AI compute. If you want to bet that the next ... The Anti-Magnificent Seven Trade? VGK Is Quietly Creeping Toward Record Highs",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/personal-finance/2026/07/06/the-anti-magnificent-seven-trade-vgk-is-quietly-creeping-toward-record-highs/",
+                "publishDate": "2026-07-06T19:15:45Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
                 "summary": "European equities traded in the US as American depositary receipts were tracking modestly higher lat",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/07/03/heres-why-viking-therapeutics-stock-surged-higher/",
                 "publishDate": "2026-07-03T13:45:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Lexicon Pharmaceuticals (LXRX) Gains on Russell 3000 Inclusion",
-                "summary": "Lexicon Pharmaceuticals, Inc. (NASDAQ:LXRX) has gained more than 15% over the past month, mainly driven by the stock\u2019s inclusion in the Russell 3000 index and strong Q1 2026 earnings. Wall Street expects more than 21% upside over the next 12-months making Lexicon Pharmaceuticals, Inc. (NASDAQ:LXRX) one of the Best Rising Penny Stocks to Buy According [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/lexicon-pharmaceuticals-lxrx-gains-russell-131232712.html",
-                "publishDate": "2026-07-03T13:12:32Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.395,
+        "price": 35.36,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.7543393,
-            "marketCap": 25458575360,
+            "change": 0.65470976,
+            "marketCap": 25433401344,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.57,
+        "price": 30.7,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.1632957,
-            "marketCap": 6343002112,
+            "change": 0.2612669,
+            "marketCap": 6369976320,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
