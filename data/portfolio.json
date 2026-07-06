@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.43,
+        "price": 49.3,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9829466,
-            "marketCap": 218767556608,
+            "change": -2.2407317,
+            "marketCap": 218192199680,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.706818
+            "yearTarget": 47.725876
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -310,7 +310,108 @@
             "leadInvestor": "Draper Fisher Jurvetson",
             "totalFundingRounds": 14
         },
-        "NEWS": [],
+        "NEWS": [
+            {
+                "title": "SpaceX Surprise AI Pivot Could Be a Massive Win for Nvidia and Intel",
+                "summary": "Top Bank Says SpaceX's AI Expansion Could Supercharge Nvidia and Intel",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/technology/ai/articles/spacex-surprise-ai-pivot-could-155258884.html",
+                "publishDate": "2026-06-26T15:52:58Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Stock Logs a New Post-IPO Closing Low",
+                "summary": "Shares of SpaceX fell Thursday, setting a new closing low for the stock.",
+                "source": "Investopedia",
+                "category": "finance",
+                "url": "https://www.investopedia.com/spacex-stock-after-lowest-post-ipo-close-spcx-12005667",
+                "publishDate": "2026-06-25T13:24:46Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Top Midday Stories: Energy Department to Provide $17.5 Billion in Loans for Nuclear Reactors; Oracle Shrank Workforce by 13% in Fiscal 2026",
+                "summary": "The Nasdaq Composite and S&P 500 Index were down in late-morning trading Tuesday, while the Dow Jone",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/energy/articles/top-midday-stories-energy-department-153941608.html",
+                "publishDate": "2026-06-23T15:39:41Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Plummets 16.4% Yesterday: Bull Trap or Buying Opportunity?",
+                "summary": "SPCX's 16.4% plunge wiped out $400.8 billion as note issuance, AI deals and dilution fears tested confidence after its blockbuster IPO.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-plummets-16-4-yesterday-152400050.html",
+                "publishDate": "2026-06-23T15:24:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "AbbVie's Deal with Apogee; Regenxbio Moves on Gene Therapy Drug | Stock Movers",
+                "summary": "On this episode of Stock Movers with Nathan Hager: - Apogee (APGE) shares are soaring on news AbbVie is closing in on a nearly $11 billion deal to buy inflammatory disease drug developer Apogee Therapeutics. That's also according to a Financial Times report. - Regenxbio (RGNX) shares are moving on news Regenxbio aligned with the FDA on next steps for a potential accelerated approval of Navsunli, a gene therapy for Mucopolysaccharidosis II, with the FDA confirming the company doesn't need to conduct additional studies of the drug. - SpaceX (SPCX) is lower this morning, continuing its slide after its record IPO.",
+                "source": "Bloomberg",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/abbvies-deal-apogee-regenxbio-moves-151250586.html",
+                "publishDate": "2026-06-22T15:12:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Top Midday Stories: SpaceX Shares Indicated to Open 29% Above IPO Price at $174 Each; Adobe CFO Leaves Company",
+                "summary": "All three major US stock indexes were up in late-morning trading Friday, as investors prepare for Sp",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-spacex-shares-154231404.html",
+                "publishDate": "2026-06-12T15:42:31Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX Has 40% Upside from IPO per Wall Street Analyst. Here\u2019s How",
+                "summary": "The IPO market has spent years searching for a company capable of reigniting investor enthusiasm. SpaceX (NASDAQ:SPCX) may be that company. After debuting in the largest IPO in history, the aerospace and AI giant immediately became one of the market\u2019s most closely watched stocks. While many IPOs struggle to justify lofty valuations, at least one ... SpaceX Has 40% Upside from IPO per Wall Street Analyst. Here\u2019s How",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/12/spacex-has-40-upside-from-ipo-per-wall-street-analyst-heres-how/",
+                "publishDate": "2026-06-12T15:30:40Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: rockets, AI losses and Musk in control",
+                "summary": "SpaceX is inviting investors to bet on Elon Musk's vision of AI data centers in space and humans on Mars.The sky-high valuation for SpaceX -- nearly $1.8 trillion -- is based on the idea that his legendary run will continue and that Musk can achieve his goal of data centers in space and putting people on Mars.",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-rockets-ai-losses-200312350.html",
+                "publishDate": "2026-06-11T19:51:08Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Could Trigger a $50 Billion Spending Spree. These Stocks Will Benefit.",
+                "summary": "SpaceX's IPO may create new winners beyond the rocket maker itself, with four companies positioned to benefit from the next wave of spending on satellites, infrastructure, and orbital computing.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/11/spacex-ipo-trigger-billion-spending-stocks-ktos/",
+                "publishDate": "2026-06-11T15:37:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Musk's empire as SpaceX heads to Wall Street liftoff",
+                "summary": "Elon Musk defines himself as an engineer trying to save humanity, while his critics call him a far-right showman who overpromises and underdelivers.Its most prominent project -- a tunnel beneath the Las Vegas Convention Center -- has drawn mixed reviews, with critics noting it amounts to a narrow underground road for Tesla cars rather than the revolutionary transit system Musk once envisioned.\narp/mlm/msp",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/musks-empire-spacex-counts-down-020836085.html",
+                "publishDate": "2026-06-11T14:35:13Z",
+                "premium": false,
+                "freemium": false
+            }
+        ],
         "RATINGS": {
             "analystCount": null,
             "recommendationKey": "",
@@ -325,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.39,
+        "price": 35.415,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -339,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.74010336,
-            "marketCap": 25454979072,
+            "change": 0.81127197,
+            "marketCap": 25472962560,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -469,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.295,
+        "price": 30.25,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -483,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0614003,
-            "marketCap": 6285942272,
+            "change": -1.2083633,
+            "marketCap": 6276604928,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
