@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.9701,
+        "price": 48.9285,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8943355,
-            "marketCap": 216732123136,
+            "change": -2.9775996,
+            "marketCap": 216548016128,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.637222
+            "yearTarget": 47.66052
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
+                "summary": "European equities traded in the US as American depositary receipts were tracking modestly higher lat",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152124487.html",
+                "publishDate": "2026-07-06T15:21:24Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "Could This Healthcare Stock Help You Build a Real Fortune Over the Next 20 Years?",
                 "summary": "The weight-loss market is crowded, but this company's lead drug candidate has several key advantages.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/lexicon-pharmaceuticals-lxrx-gains-russell-131232712.html",
                 "publishDate": "2026-07-03T13:12:32Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Can Medicare Bridge Help Novo Nordisk Defend Its GLP-1 Leadership?",
-                "summary": "NVO benefits from Medicare's GLP-1 Bridge, but equal coverage for rival therapies shifts the obesity race toward clinical differentiation and long-term outcomes.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/medicare-bridge-help-novo-nordisk-131200842.html",
-                "publishDate": "2026-07-03T13:12:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.31,
+        "price": 35.61,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.51238346,
-            "marketCap": 25397438464,
+            "change": 1.3663522,
+            "marketCap": 25613219840,
             "weekLow": 10.705,
             "weekHigh": 35.9,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.4,
+        "price": 30.395,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.71848863,
-            "marketCap": 6307728384,
+            "change": -0.73481506,
+            "marketCap": 6306691072,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
