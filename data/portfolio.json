@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.38,
+        "price": 49.445,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.24361095,
-            "marketCap": 218496892928,
+            "change": 0.37556106,
+            "marketCap": 218784497664,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.602604
+            "yearTarget": 47.623104
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Teams Up With Vivani To Test A Semaglutide Implant",
+                "summary": "Novo Nordisk and Vivani Medical are collaborating to evaluate a semaglutide drug implant using Vivani\u2019s NanoPortal platform for chronic weight management. Vivani has initiated a Phase 1 clinical study of the implant, while Novo Nordisk assesses semaglutide in this drug delivery format. The partnership focuses on an implantable GLP-1 approach that could offer an alternative to pills and injections for obesity treatment. Novo Nordisk, traded as CPSE:NOVO B, is already a central player in...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-191804898.html",
+                "publishDate": "2026-07-07T19:18:04Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly's Market Cap Balloons Again On This IPO's Setback",
                 "summary": "Eli Lilly shares hit a record high Tuesday after IPO stock Kailera Therapeutics posted lackluster test results for its weight-loss pill.",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152124487.html",
                 "publishDate": "2026-07-06T15:21:24Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Could This Healthcare Stock Help You Build a Real Fortune Over the Next 20 Years?",
-                "summary": "The weight-loss market is crowded, but this company's lead drug candidate has several key advantages.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/06/could-healthcare-stock-vktx-help-build-fortune/",
-                "publishDate": "2026-07-06T11:35:00Z",
-                "premium": false,
                 "freemium": false
             }
         ],
@@ -443,7 +443,7 @@
             "change": 2.7126281,
             "marketCap": 26145478656,
             "weekLow": 10.705,
-            "weekHigh": 36.395,
+            "weekHigh": 36.41,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.67,
+        "price": 29.78,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.1657941,
-            "marketCap": 6156260352,
+            "change": -2.8067844,
+            "marketCap": 6179084288,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
