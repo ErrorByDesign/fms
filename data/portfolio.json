@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.445,
+        "price": 49.64,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.37556106,
-            "marketCap": 218784497664,
+            "change": 0.77141917,
+            "marketCap": 219647328256,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.623104
+            "yearTarget": 47.615757
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,22 +32,22 @@
         },
         "NEWS": [
             {
+                "title": "Eli Lilly's Market Cap Balloons Again On This IPO's Setback",
+                "summary": "Eli Lilly shares hit a record high Tuesday after IPO stock Kailera Therapeutics posted lackluster test results for its weight-loss pill.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/eli-lilly-stock-market-cap-kailera-therapeutics-ipo-stock/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-07-07T20:09:01Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Novo Nordisk (CPSE:NOVO B) Teams Up With Vivani To Test A Semaglutide Implant",
                 "summary": "Novo Nordisk and Vivani Medical are collaborating to evaluate a semaglutide drug implant using Vivani\u2019s NanoPortal platform for chronic weight management. Vivani has initiated a Phase 1 clinical study of the implant, while Novo Nordisk assesses semaglutide in this drug delivery format. The partnership focuses on an implantable GLP-1 approach that could offer an alternative to pills and injections for obesity treatment. Novo Nordisk, traded as CPSE:NOVO B, is already a central player in...",
                 "source": "Simply Wall St.",
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-191804898.html",
                 "publishDate": "2026-07-07T19:18:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly's Market Cap Balloons Again On This IPO's Setback",
-                "summary": "Eli Lilly shares hit a record high Tuesday after IPO stock Kailera Therapeutics posted lackluster test results for its weight-loss pill.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/eli-lilly-stock-market-cap-kailera-therapeutics-ipo-stock/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-07-07T17:15:09Z",
                 "premium": false,
                 "freemium": false
             },
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.35,
+        "price": 36.31,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.7126281,
-            "marketCap": 26145478656,
+            "change": 2.59961,
+            "marketCap": 26116708352,
             "weekLow": 10.705,
-            "weekHigh": 36.41,
+            "weekHigh": 36.49,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.78,
+        "price": 29.91,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.8067844,
-            "marketCap": 6179084288,
+            "change": -2.3825052,
+            "marketCap": 6206057984,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
