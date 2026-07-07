@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.855,
+        "price": 49.865,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2078791,
-            "marketCap": 220598665216,
+            "change": 1.2281839,
+            "marketCap": 220642934784,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.680485
+            "yearTarget": 47.66795
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Why This Novo Nordisk Rival Just Soared Near A Profit-Taking Zone",
+                "summary": "Agios stock skyrocketed closer to a profit-taking zone Tuesday after the FDA assigned its sickle cell drug a speedy review.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/agios-stock-fda-priority-review-mitapivat-sickle-cell-disease-treatment/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-07-07T15:30:02Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Pfizer or AstraZeneca: Which Stock Offers Better Long-Term Potential?",
                 "summary": "AZN targets continued 2026 growth with expanding blockbuster medicines, a strong pipeline and 2030 revenue goals as it outpaces Pfizer on key metrics.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-04T01:35:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Stock May Be 48% Undervalued On Medicare GLP 1 Coverage",
-                "summary": "Novo Nordisk stock has delivered a decline of 32.7% over the past three years, yet current valuation work, including a Discounted Cash Flow (DCF) intrinsic value estimate and market multiple checks, both point to the shares trading at a discount to what the business may be worth. The three-year return of 32.7% down raises the question of whether sentiment has moved further than the underlying value of Novo Nordisk. Medicare\u2019s decision to cover certain GLP-1 weight loss drugs and growing use...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-stock-may-141412298.html",
-                "publishDate": "2026-07-03T14:14:12Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.87,
+        "price": 1.875,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 175599152,
+            "change": 0.26737943,
+            "marketCap": 176068672,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.83,
+        "price": 35.815,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.243296,
-            "marketCap": 25771460608,
+            "change": 1.2009021,
+            "marketCap": 25760667648,
             "weekLow": 10.705,
             "weekHigh": 36.2054,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.82,
+        "price": 29.93,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6762393,
-            "marketCap": 6187383808,
+            "change": -2.3172295,
+            "marketCap": 6210207744,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
