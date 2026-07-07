@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.535,
+        "price": 49.615,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5582654,
-            "marketCap": 219182727168,
+            "change": 0.72067267,
+            "marketCap": 219536719872,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.65389
+            "yearTarget": 47.667583
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly's Market Cap Balloons Again On This IPO's Setback",
+                "summary": "Eli Lilly shares hit a record high Tuesday after IPO stock Kailera Therapeutics posted lackluster test results for its weight-loss pill.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/eli-lilly-stock-market-cap-kailera-therapeutics-ipo-stock/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-07-07T17:15:09Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Factbox-Weight-loss drug developers line up to tap lucrative market as competition heats up",
                 "summary": "July 7 (Reuters) - The weight-loss drug market is booming, with biotech firms racing to capture a slice of a fast-growing sector dominated by Novo Nordisk and Eli Lilly.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-05T06:00:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "How Much Could $1,000 Invested in Viking Therapeutics Be Worth by 2030?",
-                "summary": "This biotech might have a bright future, but it'll need to survive against the incumbents to do so.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/05/how-much-could-1000-invested-in-viking-therapeutic/",
-                "publishDate": "2026-07-05T05:25:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8698,
+        "price": 1.9,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.010696962,
-            "marketCap": 175580368,
+            "change": 1.6042765,
+            "marketCap": 178416240,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.87,
+        "price": 36.05,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.3563141,
-            "marketCap": 25800228864,
+            "change": 1.8649333,
+            "marketCap": 25929697280,
             "weekLow": 10.705,
             "weekHigh": 36.2054,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.06,
+        "price": 30.24,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8929502,
-            "marketCap": 6237181440,
+            "change": -1.3054818,
+            "marketCap": 6274529792,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
