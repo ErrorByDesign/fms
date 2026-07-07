@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.545,
+        "price": 49.53,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.57856244,
-            "marketCap": 219226980352,
+            "change": 0.548113,
+            "marketCap": 219160608768,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.673855
+            "yearTarget": 47.678078
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -102,6 +102,16 @@
                 "freemium": false
             },
             {
+                "title": "As Employers Drop Obesity Drug Coverage, Hims & Hers Could Be the Winner",
+                "summary": "Hims & Hers Health shares have surged 45% in 30 days on GLP-1 coverage shifts, but overbought technicals, a Hold rating, and rising short interest suggest a pullback may be near.",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/articles/as-employers-drop-obesity-drug-coverage-hims-and-hers-could-be-the-winner-wednesday/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-07-06T18:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
                 "summary": "European equities traded in the US as American depositary receipts were tracking modestly higher lat",
                 "source": "MT Newswires",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-06T11:35:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Trump\u2019s FDA May Soon Throw Its Weight Behind Peptides. Should You Buy In?",
-                "summary": "Peptides are short-chain amino acids that are formulated into drugs.  Insulin is a peptide.  Legions of other peptides are on the market in the \u201cwellness\u201d industry, promoted for everything from athletic performance to skin care, mental focus, and \u201cromantic connection\u201d\u2014the latter pitched by a startup called Feel Peptides.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/fda-peptides-endorse-trump-e7690edd?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-05T06:00:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.9,
+        "price": 1.95,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.6042765,
-            "marketCap": 178416240,
+            "change": 4.278077,
+            "marketCap": 183111424,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.19,
+        "price": 36.29,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.2605236,
-            "marketCap": 26030395392,
+            "change": 2.5430956,
+            "marketCap": 26102323200,
             "weekLow": 10.705,
-            "weekHigh": 36.2054,
+            "weekHigh": 36.36,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -455,6 +455,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "ABUS Stock Rallies Ahead Of Big Payout From Moderna Settlement This Week",
+                "summary": "Arbutus expects to receive around $179 million from Moderna.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/abus-stock-rallies-ahead-of-big-payout-from-moderna-settlement-this-week/cZmlrrOR7ZK",
+                "publishDate": "2026-07-07T18:28:01Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Could Roivant Sciences Be a Multibagger Stock Over the Next 5 Years?",
                 "summary": "Wall Street expects sales to soar as several commercial launches approach.",
@@ -544,16 +554,6 @@
                 "publishDate": "2026-05-20T20:38:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "These Two Biotech Stocks Rocketed \u2014 And One Just Broke Out",
-                "summary": "Immunovant stock shot to a two-year high Wednesday on \"highly compelling\" results for its experimental rheumatoid arthritis treatment.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/immunovant-stock-roivant-stock-imvt-1402-rheumatoid-arthritis/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-05-20T20:11:58Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.085,
+        "price": 30.04,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.8113587,
-            "marketCap": 6242368512,
+            "change": -1.9585392,
+            "marketCap": 6233032192,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
