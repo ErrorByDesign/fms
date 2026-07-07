@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.26,
+        "price": 49.855,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.32005,
-            "marketCap": 217965903872,
+            "change": 1.2078791,
+            "marketCap": 220598665216,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.719154
+            "yearTarget": 47.680485
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Pfizer or AstraZeneca: Which Stock Offers Better Long-Term Potential?",
+                "summary": "AZN targets continued 2026 growth with expanding blockbuster medicines, a strong pipeline and 2030 revenue goals as it outpaces Pfizer on key metrics.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/pfizer-astrazeneca-stock-offers-better-130100989.html",
+                "publishDate": "2026-07-07T13:01:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "2 Dirt Cheap Healthcare Stocks to Buy in July",
+                "summary": "Healthcare has become Wall Street\u2019s bargain bin in 2026, and value hunters are starting to pay attention. Drug pricing reform, patent cliffs and post-COVID-19 hangovers have crushed multiples across Big Pharma, but the wreckage has created opportunities in two cash-generative franchises trading at single-digit forward earnings multiples. Heading into July, Novo Nordisk and Pfizer stand ... 2 Dirt Cheap Healthcare Stocks to Buy in July",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/07/07/2-dirt-cheap-healthcare-stocks-to-buy-in-july/",
+                "publishDate": "2026-07-07T12:30:27Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "The Anti-Magnificent Seven Trade? VGK Is Quietly Creeping Toward Record Highs",
                 "summary": "European stocks are having their loudest year in a decade, and the Vanguard FTSE Europe ETF (NYSEARCA:VGK) is the vehicle most retail investors will consider. VGK trades around $90, up 18% over the past year, while every US finance headline focuses on hyperscaler capex and AI compute. If you want to bet that the next ... The Anti-Magnificent Seven Trade? VGK Is Quietly Creeping Toward Record Highs",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-07-03T14:14:12Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Microsoft Launches AI Adoption Firm",
-                "summary": "The new unit will start with $2.5 billion to help companies choose and use AI tools.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-launches-ai-adoption-firm-135313441.html",
-                "publishDate": "2026-07-03T13:53:13Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's Why Viking Therapeutics Stock Surged Higher in June",
-                "summary": "Investors are growing more optimistic over the company's pipeline and the initiation of a Phase 1 trial with a new drug.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/03/heres-why-viking-therapeutics-stock-surged-higher/",
-                "publishDate": "2026-07-03T13:45:39Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.88889,
+            "change": 0.0,
             "marketCap": 175599152,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.39,
+        "price": 35.83,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.740103,
-            "marketCap": 25454979072,
+            "change": 1.243296,
+            "marketCap": 25771460608,
             "weekLow": 10.705,
-            "weekHigh": 35.9,
+            "weekHigh": 36.2054,
             "yearTarget": 39.04167
         },
         "FUNDING": {
@@ -455,6 +455,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Could Roivant Sciences Be a Multibagger Stock Over the Next 5 Years?",
+                "summary": "Wall Street expects sales to soar as several commercial launches approach.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/07/could-roivant-sciences-multibagger-stock-roiv/",
+                "publishDate": "2026-07-07T10:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Here is Why Roivant (ROIV) is One of the Best Growth Stocks Trading in Oversold Territory",
                 "summary": "Roivant Sciences Ltd. (NASDAQ:ROIV) is one of the 12 Best Growth Stocks Trading in Oversold Territory. On May 20, Roivant Sciences reported its financial results for FQ4 and the full year FY2026, alongside a comprehensive business update. The company finished the year with $4.3 billion in consolidated cash and marketable securities, providing a runway into [\u2026]",
@@ -544,16 +554,6 @@
                 "publishDate": "2026-05-20T20:11:58Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Roivant Sciences Ltd (ROIV) Q4 2025 Earnings Call Highlights: Strategic Settlements and ...",
-                "summary": "Roivant Sciences Ltd (ROIV) strengthens its financial position with a $2.25 billion Moderna settlement and prepares for key drug launches amidst mixed study results.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/roivant-sciences-ltd-roiv-q4-190050157.html",
-                "publishDate": "2026-05-20T19:00:50Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 30.64,
+        "price": 29.82,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0653121,
-            "marketCap": 6357526528,
+            "change": -2.6762393,
+            "marketCap": 6187383808,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
