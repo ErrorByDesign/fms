@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.865,
+        "price": 49.65,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2281839,
-            "marketCap": 220642934784,
+            "change": 0.79172397,
+            "marketCap": 219691597824,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.66795
+            "yearTarget": 47.65287
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Factbox-Weight-loss drug developers line up to tap lucrative market as competition heats up",
+                "summary": "July 7 (Reuters) - The weight-loss drug market is booming, with biotech firms racing to capture a slice of a fast-growing sector dominated by Novo Nordisk and Eli Lilly.",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/sectors/healthcare/articles/factbox-weight-loss-drug-developers-161223919.html",
+                "publishDate": "2026-07-07T15:55:10Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Why This Novo Nordisk Rival Just Soared Near A Profit-Taking Zone",
                 "summary": "Agios stock skyrocketed closer to a profit-taking zone Tuesday after the FDA assigned its sickle cell drug a speedy review.",
@@ -58,6 +68,16 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/07/07/2-dirt-cheap-healthcare-stocks-to-buy-in-july/",
                 "publishDate": "2026-07-07T12:30:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Kailera says obesity pill succeeds in late-stage trial in China",
+                "summary": "The drug spurred about 10% weight loss over 10 months, though that finding came alongside high rates of gastrointestinal side effects that \u201calarmed\u201d one analyst.",
+                "source": "BioPharma Dive",
+                "category": "finance",
+                "url": "https://www.biopharmadive.com/news/kailera-hengrui-obesity-pill-china-study-results/824570/",
+                "publishDate": "2026-07-07T11:59:52Z",
                 "premium": false,
                 "freemium": false
             },
@@ -110,26 +130,6 @@
                 "publishDate": "2026-07-05T05:25:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Is Viking Therapeutics Stock Going to $50? Here's What the Bulls and Bears Are Saying",
-                "summary": "The stock is known to soar on good news.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/04/is-viking-therapeutics-stock-going-to-50-heres-wha/",
-                "publishDate": "2026-07-04T09:30:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Johnson & Johnson Is Walking Away From a $100 Billion Obesity Market. Could That Actually Make It the Better Long-Term Buy Than Eli Lilly?",
-                "summary": "Johnson & Johnson doesn't need GLP-1 drugs to grow, and that's good news for long-term investors.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/03/johnson-johnson-is-walking-away-from-a-100-billion/",
-                "publishDate": "2026-07-04T01:35:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.875,
+        "price": 1.85,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.26737943,
-            "marketCap": 176068672,
+            "change": -1.0695177,
+            "marketCap": 173721088,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.815,
+        "price": 35.94,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2009021,
-            "marketCap": 25760667648,
+            "change": 1.5541092,
+            "marketCap": 25850576896,
             "weekLow": 10.705,
             "weekHigh": 36.2054,
             "yearTarget": 39.04167
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.93,
+        "price": 29.98,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.3172295,
-            "marketCap": 6210207744,
+            "change": -2.1540465,
+            "marketCap": 6220582400,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
