@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.77141917,
+            "change": 0.771419,
             "marketCap": 219647328256,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.615757
+            "yearTarget": 47.610962
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "3 Reasons to Buy Novo Nordisk Stock",
+                "summary": "The stock is down, but it isn't out yet.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/07/3-reasons-to-buy-novo-nordisk-stock/",
+                "publishDate": "2026-07-07T20:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why This Novo Nordisk Rival Just Soared To A Profit-Taking Zone",
+                "summary": "Agios stock skyrocketed to a profit-taking zone Tuesday after the FDA assigned its sickle cell drug a speedy review.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/agios-stock-fda-priority-review-mitapivat-sickle-cell-disease-treatment/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-07-07T20:11:26Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Eli Lilly's Market Cap Balloons Again On This IPO's Setback",
                 "summary": "Eli Lilly shares hit a record high Tuesday after IPO stock Kailera Therapeutics posted lackluster test results for its weight-loss pill.",
@@ -58,16 +78,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/sectors/healthcare/articles/factbox-weight-loss-drug-developers-161223919.html",
                 "publishDate": "2026-07-07T15:55:10Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why This Novo Nordisk Rival Just Soared Near A Profit-Taking Zone",
-                "summary": "Agios stock skyrocketed closer to a profit-taking zone Tuesday after the FDA assigned its sickle cell drug a speedy review.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/agios-stock-fda-priority-review-mitapivat-sickle-cell-disease-treatment/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-07-07T15:30:02Z",
                 "premium": false,
                 "freemium": false
             },
@@ -119,16 +129,6 @@
                 "url": "https://www.marketbeat.com/articles/as-employers-drop-obesity-drug-coverage-hims-and-hers-could-be-the-winner-wednesday/?utm_source=yahoofinance&utm_medium=yahoofinance",
                 "publishDate": "2026-07-06T18:20:00Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Rise in Monday Trading",
-                "summary": "European equities traded in the US as American depositary receipts were tracking modestly higher lat",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-152124487.html",
-                "publishDate": "2026-07-06T15:21:24Z",
-                "premium": true,
                 "freemium": false
             }
         ],
