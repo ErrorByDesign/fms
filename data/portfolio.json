@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.53,
+        "price": 27.88,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -7.957202,
-            "marketCap": 5712229376,
+            "change": -6.7870297,
+            "marketCap": 5784850944,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
