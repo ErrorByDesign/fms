@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.64,
+        "price": 49.1401,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.771419,
-            "marketCap": 219647328256,
+            "change": -1.0070524,
+            "marketCap": 217435373568,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.951603
+            "yearTarget": 47.88878
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk shares dip as latest prescription data points to GLP-1 pill slowdown",
+                "summary": "Shares in Novo Nordisk (NYSE:NVO) fell 2.5% to DKK319.20 after Deutsche Bank pointed to a continued slowdown in the oral version of the company's Wegovy weight-loss drug in the US. The bank published its weekly tracker of prescription data for Novo's GLP-1 franchise, the class of...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1095114/novo-nordisk-shares-dip-as-latest-prescription-data-points-to-glp-1-pill-slowdown-1095114.html",
+                "publishDate": "2026-07-08T14:34:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Leading bank backs European pharma as the cleaner alternative to the AI trade",
+                "summary": "UBS has reiterated its overweight stance on European pharmaceuticals, framing the sector as a more resilient home for capital than artificial intelligence at a point when the wider market is slowing. The bank argued that the investment case now rests on more than defensive quality. It...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1095110/leading-bank-backs-european-pharma-as-the-cleaner-alternative-to-the-ai-trade-1095110.html",
+                "publishDate": "2026-07-08T12:02:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk signs pact with Vivani for long-lasting semaglutide implant",
+                "summary": "Vivani\u2019s NanoPortal technology delivers medication steadily over long periods of time.",
+                "source": "Pharmaceutical Technology",
+                "category": "finance",
+                "url": "https://www.pharmaceutical-technology.com/news/novo-nordisk-signs-pact-with-vivani-for-long-lasting-semaglutide-implant/",
+                "publishDate": "2026-07-08T11:11:06Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Is Microsoft Corporation (MSFT) the Best Software Stocks to Buy in 2026?",
                 "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the Best Software Stocks to Buy in 2026. Recently, on July 2, Reuters reported that Microsoft Corporation (NASDAQ:MSFT) is launching a new company called Microsoft Frontier, with the aim of helping businesses choose and integrate AI technologies that actually fit their needs and generate real returns. As per the [\u2026]",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-07-07T15:55:10Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Pfizer or AstraZeneca: Which Stock Offers Better Long-Term Potential?",
-                "summary": "AZN targets continued 2026 growth with expanding blockbuster medicines, a strong pipeline and 2030 revenue goals as it outpaces Pfizer on key metrics.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/pfizer-astrazeneca-stock-offers-better-130100989.html",
-                "publishDate": "2026-07-07T13:01:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "2 Dirt Cheap Healthcare Stocks to Buy in July",
-                "summary": "Healthcare has become Wall Street\u2019s bargain bin in 2026, and value hunters are starting to pay attention. Drug pricing reform, patent cliffs and post-COVID-19 hangovers have crushed multiples across Big Pharma, but the wreckage has created opportunities in two cash-generative franchises trading at single-digit forward earnings multiples. Heading into July, Novo Nordisk and Pfizer stand ... 2 Dirt Cheap Healthcare Stocks to Buy in July",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/07/07/2-dirt-cheap-healthcare-stocks-to-buy-in-july/",
-                "publishDate": "2026-07-07T12:30:27Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Kailera says obesity pill succeeds in late-stage trial in China",
-                "summary": "The drug spurred about 10% weight loss over 10 months, though that finding came alongside high rates of gastrointestinal side effects that \u201calarmed\u201d one analyst.",
-                "source": "BioPharma Dive",
-                "category": "finance",
-                "url": "https://www.biopharmadive.com/news/kailera-hengrui-obesity-pill-china-study-results/824570/",
-                "publishDate": "2026-07-07T11:59:52Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8999,
+        "price": 1.85,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.5989281,
-            "marketCap": 178406848,
+            "change": -2.6264508,
+            "marketCap": 173721088,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.31,
+        "price": 35.48,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.5996,
-            "marketCap": 26116708352,
-            "weekLow": 10.705,
-            "weekHigh": 36.49,
+            "change": -2.2858765,
+            "marketCap": 25519714304,
+            "weekLow": 10.9,
+            "weekHigh": 36.625,
             "yearTarget": 39.375
         },
         "FUNDING": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.91,
+        "price": 27.74,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.38251,
-            "marketCap": 6206057984,
+            "change": -7.255099,
+            "marketCap": 5755802112,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
