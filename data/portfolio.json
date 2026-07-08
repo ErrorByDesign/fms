@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.1401,
+        "price": 49.145,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0070524,
-            "marketCap": 217435373568,
+            "change": -0.99717754,
+            "marketCap": 217457065984,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.88878
+            "yearTarget": 47.85513
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://www.proactiveinvestors.com/companies/news/1095114/novo-nordisk-shares-dip-as-latest-prescription-data-points-to-glp-1-pill-slowdown-1095114.html",
                 "publishDate": "2026-07-08T14:34:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "LLY Hits Another Record High: Is the Stock Too Expensive to Buy Now?",
+                "summary": "Eli Lilly hits another record high as confidence grows in its obesity and diabetes portfolio, with Wall Street still seeing upside despite the rich valuation.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/lly-hits-another-record-high-141000332.html",
+                "publishDate": "2026-07-08T14:10:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-191804898.html",
                 "publishDate": "2026-07-07T19:18:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Factbox-Weight-loss drug developers line up to tap lucrative market as competition heats up",
-                "summary": "July 7 (Reuters) - The weight-loss drug market is booming, with biotech firms racing to capture a slice of a fast-growing sector dominated by Novo Nordisk and Eli Lilly.",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/sectors/healthcare/articles/factbox-weight-loss-drug-developers-161223919.html",
-                "publishDate": "2026-07-07T15:55:10Z",
                 "premium": false,
                 "freemium": false
             }
@@ -312,6 +312,36 @@
         },
         "NEWS": [
             {
+                "title": "EchoStar Stock Is a Better Way to Own SpaceX, Citi Says",
+                "summary": "Citi says EchoStar stock doesn\u2019t fully reflect the value of the company\u2019s future SpaceX stake, leaving meaningful upside for investors.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/echostar-stock-citi-spacex-stake-0e1e0b93?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-08T15:15:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "SpaceX\u2019s Starlink Puts Verizon, AT&T, and T-Mobile Under the Microscope",
+                "summary": "The three telecoms get another look from Wall Street. It could have been better. It could have been worse.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/verizon-att-t-mobile-spacex-stock-price-dad1fac9?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-08T14:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Reason Behind Blue Origin\u2019s Eye-Popping Valuation",
+                "summary": "Space is the hot new sector on Wall Street, and market optimism has sent Jeff Bezos\u2019 Blue Origin valuation to the moon.  Wednesday, CNBC reported that Blue Origin raised $10 billion, valuing the rocket company at $130 billion.  Blue Origin didn\u2019t immediately return a request for comment.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/blue-origin-valuation-spacex-stock-2fa424ae?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-08T14:43:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Surprise AI Pivot Could Be a Massive Win for Nvidia and Intel",
                 "summary": "Top Bank Says SpaceX's AI Expansion Could Supercharge Nvidia and Intel",
                 "source": "GuruFocus.com",
@@ -380,36 +410,6 @@
                 "publishDate": "2026-06-12T15:30:40Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "SpaceX IPO: rockets, AI losses and Musk in control",
-                "summary": "SpaceX is inviting investors to bet on Elon Musk's vision of AI data centers in space and humans on Mars.The sky-high valuation for SpaceX -- nearly $1.8 trillion -- is based on the idea that his legendary run will continue and that Musk can achieve his goal of data centers in space and putting people on Mars.",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-rockets-ai-losses-200312350.html",
-                "publishDate": "2026-06-11T19:51:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The SpaceX IPO Could Trigger a $50 Billion Spending Spree. These Stocks Will Benefit.",
-                "summary": "SpaceX's IPO may create new winners beyond the rocket maker itself, with four companies positioned to benefit from the next wave of spending on satellites, infrastructure, and orbital computing.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/11/spacex-ipo-trigger-billion-spending-stocks-ktos/",
-                "publishDate": "2026-06-11T15:37:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Musk's empire as SpaceX heads to Wall Street liftoff",
-                "summary": "Elon Musk defines himself as an engineer trying to save humanity, while his critics call him a far-right showman who overpromises and underdelivers.Its most prominent project -- a tunnel beneath the Las Vegas Convention Center -- has drawn mixed reviews, with critics noting it amounts to a narrow underground road for Tesla cars rather than the revolutionary transit system Musk once envisioned.\narp/mlm/msp",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/musks-empire-spacex-counts-down-020836085.html",
-                "publishDate": "2026-06-11T14:35:13Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.48,
+        "price": 35.55,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2858765,
-            "marketCap": 25519714304,
+            "change": -2.0930932,
+            "marketCap": 25570062336,
             "weekLow": 10.9,
             "weekHigh": 36.625,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.74,
+        "price": 27.19,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -7.255099,
-            "marketCap": 5755802112,
+            "change": -9.093946,
+            "marketCap": 5641682432,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
