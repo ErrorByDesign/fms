@@ -20,7 +20,7 @@
             "marketCap": 219647328256,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.604713
+            "yearTarget": 47.940475
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is Microsoft Corporation (MSFT) the Best Software Stocks to Buy in 2026?",
+                "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the Best Software Stocks to Buy in 2026. Recently, on July 2, Reuters reported that Microsoft Corporation (NASDAQ:MSFT) is launching a new company called Microsoft Frontier, with the aim of helping businesses choose and integrate AI technologies that actually fit their needs and generate real returns. As per the [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/technology/articles/microsoft-corporation-msft-best-software-224055094.html",
+                "publishDate": "2026-07-07T22:40:55Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly and Novo Nordisk Are Fine -- but These 2 Stocks Could Be an Even Better Way to Invest in the GLP-1 Boom",
+                "summary": "Don't sleep on these medical device leaders.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/07/eli-lilly-and-novo-nordisk-are-fine-but-these-2-st/",
+                "publishDate": "2026-07-07T21:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "3 Reasons to Buy Novo Nordisk Stock",
                 "summary": "The stock is down, but it isn't out yet.",
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://www.biopharmadive.com/news/kailera-hengrui-obesity-pill-china-study-results/824570/",
                 "publishDate": "2026-07-07T11:59:52Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "The Anti-Magnificent Seven Trade? VGK Is Quietly Creeping Toward Record Highs",
-                "summary": "European stocks are having their loudest year in a decade, and the Vanguard FTSE Europe ETF (NYSEARCA:VGK) is the vehicle most retail investors will consider. VGK trades around $90, up 18% over the past year, while every US finance headline focuses on hyperscaler capex and AI compute. If you want to bet that the next ... The Anti-Magnificent Seven Trade? VGK Is Quietly Creeping Toward Record Highs",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/personal-finance/2026/07/06/the-anti-magnificent-seven-trade-vgk-is-quietly-creeping-toward-record-highs/",
-                "publishDate": "2026-07-06T19:15:45Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "As Employers Drop Obesity Drug Coverage, Hims & Hers Could Be the Winner",
-                "summary": "Hims & Hers Health shares have surged 45% in 30 days on GLP-1 coverage shifts, but overbought technicals, a Hold rating, and rising short interest suggest a pullback may be near.",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/articles/as-employers-drop-obesity-drug-coverage-hims-and-hers-could-be-the-winner-wednesday/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-07-06T18:20:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.5995991,
+            "change": 2.5996,
             "marketCap": 26116708352,
             "weekLow": 10.705,
             "weekHigh": 36.49,
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.3825052,
+            "change": -2.38251,
             "marketCap": 6206057984,
             "weekLow": 11.7,
             "weekHigh": 36.52,
