@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.1497,
+        "price": 49.15,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.98771,
-            "marketCap": 217477857280,
+            "change": -0.98710287,
+            "marketCap": 217479184384,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.877167
+            "yearTarget": 47.9782
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,22 +312,22 @@
         },
         "NEWS": [
             {
-                "title": "EchoStar Stock Is a Better Way to Own SpaceX, Citi Says",
+                "title": "Like SpaceX? Why EchoStar Might Be a Better Bet.",
                 "summary": "Citi says EchoStar stock doesn\u2019t fully reflect the value of the company\u2019s future SpaceX stake, leaving meaningful upside for investors.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/echostar-stock-citi-spacex-stake-0e1e0b93?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-08T15:15:00Z",
+                "url": "https://www.barrons.com/articles/echostar-stock-price-buy-spacex-0e1e0b93?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-08T17:17:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "SpaceX\u2019s Starlink Puts Verizon, AT&T, and T-Mobile Under the Microscope",
+                "title": "Is SpaceX\u2019s Starlink a Real Threat to AT&T and Verizon?",
                 "summary": "The three telecoms get another look from Wall Street. It could have been better. It could have been worse.",
                 "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://www.barrons.com/articles/verizon-att-t-mobile-spacex-stock-price-dad1fac9?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-08T14:50:00Z",
+                "url": "https://www.barrons.com/articles/verizon-stock-price-spacex-starlink-risk-dad1fac9?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-08T17:13:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.11,
+        "price": 36.09,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5508145,
-            "marketCap": 25972854784,
+            "change": -0.605897,
+            "marketCap": 25958469632,
             "weekLow": 10.9,
             "weekHigh": 36.625,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.11,
+        "price": 28.13,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -6.0180516,
-            "marketCap": 5832573952,
+            "change": -5.951189,
+            "marketCap": 5836723712,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Will SSR Mining (SSRM) Beat Estimates Again in Its Next Earnings Report?",
+                "summary": "SSR Mining (SSRM) has an impressive earnings surprise history and currently possesses the right combination of the two key ingredients for a likely beat in its next quarterly report.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-beat-estimates-161004800.html",
+                "publishDate": "2026-07-08T16:10:04Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "SSR Mining (SSRM) Finalizes $1.49B Sale of \u00c7\u00f6pler Mine Stake to Cengiz Holding",
                 "summary": "SSR Mining Inc. (NASDAQ:SSRM) is one of the high growth NASDAQ stocks to buy now. On June 24, SSR Mining officially closed the sale of its 80% ownership stake in the \u00c7\u00f6pler mine and associated properties in T\u00fcrkiye. The transaction was finalized with Cengiz Holding and its affiliates, resulting in approximately $1.49 billion in cash [\u2026]",
@@ -687,16 +697,6 @@
                 "url": "https://www.fool.com/investing/2026/06/16/why-ssr-mining-stock-popped-today/",
                 "publishDate": "2026-06-16T14:13:53Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Update: SSR Mining Announces Additional $500 Million Share Buyback and Reinstatement of Quarterly Dividend",
-                "summary": "(Adds after-hours Nasdaq trading in final paragraph.) SSR Mining (SSRM.TO, SSRM) after the close",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-announces-additional-500-212735753.html",
-                "publishDate": "2026-06-15T21:27:35Z",
-                "premium": true,
                 "freemium": false
             }
         ],
