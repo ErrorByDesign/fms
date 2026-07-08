@@ -20,7 +20,7 @@
             "marketCap": 216328732672,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.960316
+            "yearTarget": 47.963028
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,22 +312,12 @@
         },
         "NEWS": [
             {
-                "title": "Like SpaceX? Why EchoStar Might Be a Better Bet.",
-                "summary": "Citi says EchoStar stock doesn\u2019t fully reflect the value of the company\u2019s future SpaceX stake, leaving meaningful upside for investors.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/echostar-stock-price-buy-spacex-0e1e0b93?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-08T17:17:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "The Reason Behind Blue Origin\u2019s Eye-Popping Valuation",
-                "summary": "Space is the hot new sector on Wall Street, and market optimism has sent Jeff Bezos\u2019 Blue Origin valuation to the moon.  Wednesday, CNBC reported that Blue Origin raised $10 billion, valuing the rocket company at $130 billion.  Blue Origin didn\u2019t immediately return a request for comment.",
+                "summary": "Space is the hot new sector on Wall Street, and market optimism has sent Jeff Bezos\u2019 Blue Origin valuation to the moon.  Wednesday, CNBC reported that Blue Origin raised $10 billion, valuing the rocket company at $130 billion.  Blue Origin didn\u2019t return a request for comment.",
                 "source": "Barrons.com",
                 "category": "finance",
                 "url": "https://www.barrons.com/articles/blue-origin-valuation-spacex-stock-2fa424ae?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-08T14:43:00Z",
+                "publishDate": "2026-07-08T20:25:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -408,6 +398,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-rockets-ai-losses-200312350.html",
                 "publishDate": "2026-06-11T19:51:08Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The SpaceX IPO Could Trigger a $50 Billion Spending Spree. These Stocks Will Benefit.",
+                "summary": "SpaceX's IPO may create new winners beyond the rocket maker itself, with four companies positioned to benefit from the next wave of spending on satellites, infrastructure, and orbital computing.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/06/11/spacex-ipo-trigger-billion-spending-stocks-ktos/",
+                "publishDate": "2026-06-11T15:37:00Z",
                 "premium": false,
                 "freemium": false
             }
