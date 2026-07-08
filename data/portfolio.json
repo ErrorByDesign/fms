@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.165,
+        "price": 48.955,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.95688653,
-            "marketCap": 217545555968,
+            "change": -1.3799306,
+            "marketCap": 216616353792,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.004387
+            "yearTarget": 47.996315
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.835,
+        "price": 1.8001,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.415965,
-            "marketCap": 172312544,
+            "change": -5.2529078,
+            "marketCap": 169035312,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -322,16 +322,6 @@
                 "freemium": false
             },
             {
-                "title": "Is SpaceX\u2019s Starlink a Real Threat to AT&T and Verizon?",
-                "summary": "The three telecoms get another look from Wall Street. It could have been better. It could have been worse.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/verizon-stock-price-spacex-starlink-risk-dad1fac9?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-08T17:13:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "The Reason Behind Blue Origin\u2019s Eye-Popping Valuation",
                 "summary": "Space is the hot new sector on Wall Street, and market optimism has sent Jeff Bezos\u2019 Blue Origin valuation to the moon.  Wednesday, CNBC reported that Blue Origin raised $10 billion, valuing the rocket company at $130 billion.  Blue Origin didn\u2019t immediately return a request for comment.",
                 "source": "Barrons.com",
@@ -410,6 +400,16 @@
                 "publishDate": "2026-06-12T15:30:40Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: rockets, AI losses and Musk in control",
+                "summary": "SpaceX is inviting investors to bet on Elon Musk's vision of AI data centers in space and humans on Mars.The sky-high valuation for SpaceX -- nearly $1.8 trillion -- is based on the idea that his legendary run will continue and that Musk can achieve his goal of data centers in space and putting people on Mars.",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-rockets-ai-losses-200312350.html",
+                "publishDate": "2026-06-11T19:51:08Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.24,
+        "price": 36.115,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.1927835,
-            "marketCap": 26066360320,
+            "change": -0.53704125,
+            "marketCap": 25976451072,
             "weekLow": 10.9,
             "weekHigh": 36.625,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.02,
+        "price": 28.08,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -6.318955,
-            "marketCap": 5813899776,
+            "change": -6.1183553,
+            "marketCap": 5826349056,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
