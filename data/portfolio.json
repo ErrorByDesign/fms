@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.905,
+        "price": 48.955,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.030679872,
-            "marketCap": 216395104256,
+            "change": 0.13295652,
+            "marketCap": 216616353792,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.04273
+            "yearTarget": 48.046844
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NYSE:NVO) Updates Wegovy Label In Singapore With STEP UP Data",
+                "summary": "Novo Nordisk (NYSE:NVO) has updated the Wegovy label in Singapore to include new STEP UP trial data for adults with obesity. The label change reflects clinically meaningful benefits observed in the STEP UP study for semaglutide in obesity treatment. The update comes as obesity drug developers draw fresh attention from investors, including renewed buyout speculation around peers such as Viking Therapeutics. Novo Nordisk, trading at $48.89, sits at the center of renewed interest in obesity...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-updates-171311732.html",
+                "publishDate": "2026-07-09T17:13:11Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Two Drugmakers Own 90% of the Obesity Boom. One Fund Owns Both for 0.59%",
                 "summary": "The Health Care Select Sector SPDR Fund (NYSEARCA:XLV) is the default healthcare allocation for millions of investors, and for good reason. XLV owns the entire S&P 500 healthcare complex in one ticker: insurers, device makers, biotech, and Big Pharma. It has returned 21.61% over the past year and 159.84% over ten years. If the reason ... Two Drugmakers Own 90% of the Obesity Boom. One Fund Owns Both for 0.59%",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-dips-more-214503320.html",
                 "publishDate": "2026-07-08T21:45:03Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk shares dip as latest prescription data points to GLP-1 pill slowdown",
-                "summary": "Shares in Novo Nordisk (NYSE:NVO) fell 2.5% to DKK319.20 after Deutsche Bank pointed to a continued slowdown in the oral version of the company's Wegovy weight-loss drug in the US. The bank published its weekly tracker of prescription data for Novo's GLP-1 franchise, the class of...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1095114/novo-nordisk-shares-dip-as-latest-prescription-data-points-to-glp-1-pill-slowdown-1095114.html",
-                "publishDate": "2026-07-08T14:34:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.46,
+        "price": 36.345,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.0252118,
-            "marketCap": 26224599040,
+            "change": 0.70656985,
+            "marketCap": 26141884416,
             "weekLow": 10.9,
             "weekHigh": 36.625,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.17,
+        "price": 29.27,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.4397137,
-            "marketCap": 6052514816,
+            "change": 3.794325,
+            "marketCap": 6073263616,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
