@@ -20,7 +20,7 @@
             "marketCap": 216328732672,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.963028
+            "yearTarget": 47.99536
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "GLP-1 weight-loss drug popularity reaches new heights with Americans",
+                "summary": "It's been about five years since the U.S. Food and Drug Administration approved Wegovy for chronic weight management, but semaglutide, the active ingredient in Ozempic and similar drugs, goes back much further. Semaglutide was first synthesized in 2008 after scientists found that saliva extracted ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/health/gallup-ozempic-glp-1-use-soars",
+                "publishDate": "2026-07-09T02:17:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (NVO) Dips More Than Broader Market: What You Should Know",
+                "summary": "Novo Nordisk (NVO) reached $48.89 at the closing of the latest trading day, reflecting a -1.51% change compared to its last close.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-dips-more-214503320.html",
+                "publishDate": "2026-07-08T21:45:03Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk shares dip as latest prescription data points to GLP-1 pill slowdown",
                 "summary": "Shares in Novo Nordisk (NYSE:NVO) fell 2.5% to DKK319.20 after Deutsche Bank pointed to a continued slowdown in the oral version of the company's Wegovy weight-loss drug in the US. The bank published its weekly tracker of prescription data for Novo's GLP-1 franchise, the class of...",
@@ -108,26 +128,6 @@
                 "category": "finance",
                 "url": "https://www.investors.com/news/technology/agios-stock-fda-priority-review-mitapivat-sickle-cell-disease-treatment/?src=A00220&yptr=yahoo",
                 "publishDate": "2026-07-07T20:11:26Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly's Market Cap Balloons Again On This IPO's Setback",
-                "summary": "Eli Lilly shares hit a record high Tuesday after IPO stock Kailera Therapeutics posted lackluster test results for its weight-loss pill.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/eli-lilly-stock-market-cap-kailera-therapeutics-ipo-stock/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-07-07T20:09:01Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Teams Up With Vivani To Test A Semaglutide Implant",
-                "summary": "Novo Nordisk and Vivani Medical are collaborating to evaluate a semaglutide drug implant using Vivani\u2019s NanoPortal platform for chronic weight management. Vivani has initiated a Phase 1 clinical study of the implant, while Novo Nordisk assesses semaglutide in this drug delivery format. The partnership focuses on an implantable GLP-1 approach that could offer an alternative to pills and injections for obesity treatment. Novo Nordisk, traded as CPSE:NOVO B, is already a central player in...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-191804898.html",
-                "publishDate": "2026-07-07T19:18:04Z",
                 "premium": false,
                 "freemium": false
             }
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.60589707,
+            "change": -0.605897,
             "marketCap": 25958469632,
             "weekLow": 10.9,
             "weekHigh": 36.625,
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.7171483,
+            "change": -5.71715,
             "marketCap": 5851248640,
             "weekLow": 11.7,
             "weekHigh": 36.52,
