@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.865,
+        "price": 48.88,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.051130522,
-            "marketCap": 216218124288,
+            "change": -0.020450648,
+            "marketCap": 216284495872,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.006584
+            "yearTarget": 48.0154
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Record Numbers of Americans Are on GLP-1 Drugs. That's Great News for This Stock.",
+                "summary": "Eli Lilly makes the best-selling GLP-1 drug, and sales are accelerating.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/09/record-numbers-of-americans-on-glp-1-drugs-thats/",
+                "publishDate": "2026-07-09T19:57:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NVO) In Focus After Wegovy Label Update As Undervalued Narrative Holds",
                 "summary": "Novo Nordisk (NYSE:NVO) is back in focus after Singapore regulators updated the label for Wegovy\u2019s semaglutide with data from the STEP UP obesity trial, giving investors fresh detail on efficacy for patients without diabetes. See our latest analysis for Novo Nordisk. The updated Wegovy data lands against a mixed backdrop for Novo Nordisk\u2019s stock, with the share price up 19.19% over 30 days and 30.58% over 90 days, yet the 1 year total shareholder return is down 27.53% and the 3 year total...",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/dr-reddys-delays-semaglutide-supply-045431594.html",
                 "publishDate": "2026-07-09T06:55:23Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "GLP-1 weight-loss drug popularity reaches new heights with Americans",
-                "summary": "It's been about five years since the U.S. Food and Drug Administration approved Wegovy for chronic weight management, but semaglutide, the active ingredient in Ozempic and similar drugs, goes back much further. Semaglutide was first synthesized in 2008 after scientists found that saliva extracted ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/health/gallup-ozempic-glp-1-use-soars",
-                "publishDate": "2026-07-09T02:17:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.88,
+        "price": 36.81,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.1889746,
-            "marketCap": 26526693376,
+            "change": 1.9950159,
+            "marketCap": 26476345344,
             "weekLow": 10.9,
-            "weekHigh": 36.89,
+            "weekHigh": 36.905,
             "yearTarget": 39.375
         },
         "FUNDING": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.025,
+        "price": 29.15,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.9255278,
-            "marketCap": 6022428160,
+            "change": 3.3687901,
+            "marketCap": 6048364544,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
