@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.895,
+        "price": 48.905,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.010229225,
-            "marketCap": 216350867456,
+            "change": 0.030679872,
+            "marketCap": 216395104256,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.059494
+            "yearTarget": 48.04273
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -48,6 +48,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-161205528.html",
                 "publishDate": "2026-07-09T16:12:05Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "PRTA Stock Rises Nearly 11% in Six Months: What's Driving It?",
+                "summary": "Prothena shares climb as late-stage partnered programs advance, milestone payments strengthen finances and its neurodegenerative pipeline continues to expand.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/prta-stock-rises-nearly-11-153800737.html",
+                "publishDate": "2026-07-09T15:38:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-08T14:34:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "LLY Hits Another Record High: Is the Stock Too Expensive to Buy Now?",
-                "summary": "Eli Lilly hits another record high as confidence grows in its obesity and diabetes portfolio, with Wall Street still seeing upside despite the rich valuation.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/lly-hits-another-record-high-141000332.html",
-                "publishDate": "2026-07-08T14:10:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.7617,
+        "price": 1.79,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.2554345,
-            "marketCap": 165429424,
+            "change": -2.717395,
+            "marketCap": 168086880,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.26,
+        "price": 36.46,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.47103953,
-            "marketCap": 26080743424,
+            "change": 1.0252118,
+            "marketCap": 26224599040,
             "weekLow": 10.9,
             "weekHigh": 36.625,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.26,
+        "price": 29.17,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.7588632,
-            "marketCap": 6071188992,
+            "change": 3.4397137,
+            "marketCap": 6052514816,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
