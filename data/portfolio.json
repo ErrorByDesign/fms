@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.975,
+        "price": 48.87,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.17385781,
-            "marketCap": 216704843776,
+            "change": -0.040909097,
+            "marketCap": 216240226304,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.03766
+            "yearTarget": 48.027588
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NVO) In Focus After Wegovy Label Update As Undervalued Narrative Holds",
+                "summary": "Novo Nordisk (NYSE:NVO) is back in focus after Singapore regulators updated the label for Wegovy\u2019s semaglutide with data from the STEP UP obesity trial, giving investors fresh detail on efficacy for patients without diabetes. See our latest analysis for Novo Nordisk. The updated Wegovy data lands against a mixed backdrop for Novo Nordisk\u2019s stock, with the share price up 19.19% over 30 days and 30.58% over 90 days, yet the 1 year total shareholder return is down 27.53% and the 3 year total...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-focus-wegovy-182158508.html",
+                "publishDate": "2026-07-09T18:21:58Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NYSE:NVO) Updates Wegovy Label In Singapore With STEP UP Data",
                 "summary": "Novo Nordisk (NYSE:NVO) has updated the Wegovy label in Singapore to include new STEP UP trial data for adults with obesity. The label change reflects clinically meaningful benefits observed in the STEP UP study for semaglutide in obesity treatment. The update comes as obesity drug developers draw fresh attention from investors, including renewed buyout speculation around peers such as Viking Therapeutics. Novo Nordisk, trading at $48.89, sits at the center of renewed interest in obesity...",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.thestreet.com/health/gallup-ozempic-glp-1-use-soars",
                 "publishDate": "2026-07-09T02:17:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Dips More Than Broader Market: What You Should Know",
-                "summary": "Novo Nordisk (NVO) reached $48.89 at the closing of the latest trading day, reflecting a -1.51% change compared to its last close.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-dips-more-214503320.html",
-                "publishDate": "2026-07-08T21:45:03Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.395,
+        "price": 36.56,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8451103,
-            "marketCap": 26177847296,
+            "change": 1.3023032,
+            "marketCap": 26296526848,
             "weekLow": 10.9,
             "weekHigh": 36.625,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.26,
+        "price": 29.27,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.7575307,
-            "marketCap": 6071188992,
+            "change": 3.794325,
+            "marketCap": 6073263616,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
