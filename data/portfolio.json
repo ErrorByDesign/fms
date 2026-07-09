@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.89,
+        "price": 49.0299,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.51088,
-            "marketCap": 216328732672,
+            "change": 0.28615302,
+            "marketCap": 216947769344,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.998955
+            "yearTarget": 48.030308
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Buyout Buzz Around VKTX Is Back: What's Fueling the Speculation?",
+                "summary": "Viking Therapeutics' expanding obesity pipeline and upcoming VK2735 data reignite buyout speculation as investors weigh its growing strategic appeal.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/buyout-buzz-around-vktx-back-135600482.html",
+                "publishDate": "2026-07-09T13:56:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "3 High Growth GLP-1 Biotech Winners to Buy in July",
+                "summary": "The GLP-1 trade has matured from a single-stock story into a tiered opportunity set. Demand for obesity therapeutics keeps expanding as lower-cost, easier-to-administer oral pill versions of the current injectable GLP-1s are introduced to the market in 2026, and the field now spans an entrenched leader, a deep-value incumbent, and a clinical-stage challenger with multiple ... 3 High Growth GLP-1 Biotech Winners to Buy in July",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/07/09/3-high-growth-glp-1-biotech-winners-to-buy-in-july/",
+                "publishDate": "2026-07-09T12:00:59Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk launches weekly insulin shot Awiqli in India",
+                "summary": "By Rishika Sadam July 9 (Reuters) - Danish drugmaker Novo Nordisk launched its weekly basal insulin injection, Awiqli, in India on Thursday, aiming to compete with daily-dose options on\u00a0the market.\u00a0",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-launches-weekly-insulin-062334194.html",
+                "publishDate": "2026-07-09T09:35:19Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "India's Dr Reddy's on track for worst day in 3 years as semaglutide supplies hit",
+                "summary": "July 9 (Reuters) - Shares of Dr Reddy's Laboratories fell as much as 6.5% on Thursday, after the Indian drugmaker said it is delaying commercial supplies of semaglutide due to an issue related to the",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/dr-reddys-delays-semaglutide-supply-045431594.html",
+                "publishDate": "2026-07-09T06:55:23Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "GLP-1 weight-loss drug popularity reaches new heights with Americans",
                 "summary": "It's been about five years since the U.S. Food and Drug Administration approved Wegovy for chronic weight management, but semaglutide, the active ingredient in Ozempic and similar drugs, goes back much further. Semaglutide was first synthesized in 2008 after scientists found that saliva extracted ...",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-07-08T11:11:06Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Is Microsoft Corporation (MSFT) the Best Software Stocks to Buy in 2026?",
-                "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the Best Software Stocks to Buy in 2026. Recently, on July 2, Reuters reported that Microsoft Corporation (NASDAQ:MSFT) is launching a new company called Microsoft Frontier, with the aim of helping businesses choose and integrate AI technologies that actually fit their needs and generate real returns. As per the [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/technology/articles/microsoft-corporation-msft-best-software-224055094.html",
-                "publishDate": "2026-07-07T22:40:55Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly and Novo Nordisk Are Fine -- but These 2 Stocks Could Be an Even Better Way to Invest in the GLP-1 Boom",
-                "summary": "Don't sleep on these medical device leaders.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/07/eli-lilly-and-novo-nordisk-are-fine-but-these-2-st/",
-                "publishDate": "2026-07-07T21:50:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 Reasons to Buy Novo Nordisk Stock",
-                "summary": "The stock is down, but it isn't out yet.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/07/3-reasons-to-buy-novo-nordisk-stock/",
-                "publishDate": "2026-07-07T20:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why This Novo Nordisk Rival Just Soared To A Profit-Taking Zone",
-                "summary": "Agios stock skyrocketed to a profit-taking zone Tuesday after the FDA assigned its sickle cell drug a speedy review.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/agios-stock-fda-priority-review-mitapivat-sickle-cell-disease-treatment/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-07-07T20:11:26Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.84,
+        "price": 1.83,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.1527936,
-            "marketCap": 172782048,
+            "change": -0.5434777,
+            "marketCap": 171843024,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.09,
+        "price": 36.31,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.605897,
-            "marketCap": 25958469632,
+            "change": 0.60959053,
+            "marketCap": 26116708352,
             "weekLow": 10.9,
             "weekHigh": 36.625,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.2,
+        "price": 29.11,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.71715,
-            "marketCap": 5851248640,
+            "change": 3.2269497,
+            "marketCap": 6040065024,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.8
