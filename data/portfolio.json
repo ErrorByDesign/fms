@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.245,
+        "price": 49.33,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.7467223,
-            "marketCap": 217899532288,
+            "change": 0.9206235,
+            "marketCap": 218275659776,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.01679
+            "yearTarget": 48.027073
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "NVO Rallies 11% in a Month: How Should Investors Play the Stock?",
+                "summary": "Novo Nordisk stock gains 11% in a month as Wegovy access expands and U.K. approval boosts optimism, but rising competition and earnings pressure cloud the outlook.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/nvo-rallies-11-month-investors-141100538.html",
+                "publishDate": "2026-07-10T14:11:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk A/S (NVO) is Attracting Investor Attention: Here is What You Should Know",
                 "summary": "Recently, Zacks.com users have been paying close attention to Novo Nordisk (NVO). This makes it worthwhile to examine what the stock has in store.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-09T13:56:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "3 High Growth GLP-1 Biotech Winners to Buy in July",
-                "summary": "The GLP-1 trade has matured from a single-stock story into a tiered opportunity set. Demand for obesity therapeutics keeps expanding as lower-cost, easier-to-administer oral pill versions of the current injectable GLP-1s are introduced to the market in 2026, and the field now spans an entrenched leader, a deep-value incumbent, and a clinical-stage challenger with multiple ... 3 High Growth GLP-1 Biotech Winners to Buy in July",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/07/09/3-high-growth-glp-1-biotech-winners-to-buy-in-july/",
-                "publishDate": "2026-07-09T12:00:59Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.1173174,
-            "marketCap": 166208816,
+            "change": -1.675976,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.55,
+        "price": 35.615,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.4229887,
-            "marketCap": 25570062336,
+            "change": -3.2463994,
+            "marketCap": 25616816128,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.53,
+        "price": 28.67,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.126926,
-            "marketCap": 5919720448,
+            "change": -1.6466537,
+            "marketCap": 5948769280,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
