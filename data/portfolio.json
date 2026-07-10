@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.88,
+        "price": 49.245,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.0204506,
-            "marketCap": 216284495872,
+            "change": 0.7467223,
+            "marketCap": 217899532288,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.11539
+            "yearTarget": 48.01679
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk A/S (NVO) is Attracting Investor Attention: Here is What You Should Know",
+                "summary": "Recently, Zacks.com users have been paying close attention to Novo Nordisk (NVO). This makes it worthwhile to examine what the stock has in store.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-attracting-investor-130004605.html",
+                "publishDate": "2026-07-10T13:00:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Here's Why Shares in Novo Nordisk Rival, Agios Pharmaceutical, Soared This Week",
+                "summary": "An accelerated approval for Agios' key drug to treat sickle cell disease appears to be on the cards.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/10/heres-why-shares-in-novo-nordisk-rival-agios-pharm/",
+                "publishDate": "2026-07-10T11:55:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Record Numbers of Americans Are on GLP-1 Drugs. That's Great News for This Stock.",
                 "summary": "Eli Lilly makes the best-selling GLP-1 drug, and sales are accelerating.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-07-09T12:00:59Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk launches weekly insulin shot Awiqli in India",
-                "summary": "By Rishika Sadam July 9 (Reuters) - Danish drugmaker Novo Nordisk launched its weekly basal insulin injection, Awiqli, in India on Thursday, aiming to compete with daily-dose options on\u00a0the market.\u00a0",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-launches-weekly-insulin-062334194.html",
-                "publishDate": "2026-07-09T09:35:19Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "India's Dr Reddy's on track for worst day in 3 years as semaglutide supplies hit",
-                "summary": "July 9 (Reuters) - Shares of Dr Reddy's Laboratories fell as much as 6.5% on Thursday, after the Indian drugmaker said it is delaying commercial supplies of semaglutide due to an issue related to the",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/dr-reddys-delays-semaglutide-supply-045431594.html",
-                "publishDate": "2026-07-09T06:55:23Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.79,
+        "price": 1.77,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7174,
-            "marketCap": 168086880,
+            "change": -1.1173174,
+            "marketCap": 166208816,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 36.81,
+        "price": 35.55,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,10 +440,10 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.99502,
-            "marketCap": 26476345344,
+            "change": -3.4229887,
+            "marketCap": 25570062336,
             "weekLow": 10.9,
-            "weekHigh": 36.905,
+            "weekHigh": 37.0,
             "yearTarget": 39.375
         },
         "FUNDING": {
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 29.15,
+        "price": 28.53,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,11 +584,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.36879,
-            "marketCap": 6048364544,
+            "change": -2.126926,
+            "marketCap": 5919720448,
             "weekLow": 11.7,
             "weekHigh": 36.52,
-            "yearTarget": 41.8
+            "yearTarget": 41.4
         },
         "FUNDING": {
             "fundingToDate": null,
