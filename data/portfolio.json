@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.33,
+        "price": 49.48,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.9206235,
-            "marketCap": 218275659776,
+            "change": 1.22749,
+            "marketCap": 218939375616,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.027073
+            "yearTarget": 47.945454
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "3 Dividend Stocks That Are No-Brainer Buys Heading Into the Second Half of 2026",
+                "summary": "This is the list for you if you are looking for dividend stocks with attractive yields and well-supported dividends.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/11/3-dividend-stocks-that-are-no-brainer-buys-heading/",
+                "publishDate": "2026-07-11T13:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Is Pfizer on Track to Launch Its Next Lipitor -- This Time in the Weight-Loss Market?",
+                "summary": "So far, Pfizer has been an also-ran in the GLP-1 race, but that could change if its long-acting weight-loss medication takes off.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/10/is-pfizer-on-track-to-launch-its-next-lipitor-this/",
+                "publishDate": "2026-07-10T23:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "NVO Rallies 11% in a Month: How Should Investors Play the Stock?",
                 "summary": "Novo Nordisk stock gains 11% in a month as Wegovy access expands and U.K. approval boosts optimism, but rising competition and earnings pressure cloud the outlook.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-07-09T16:12:05Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "PRTA Stock Rises Nearly 11% in Six Months: What's Driving It?",
-                "summary": "Prothena shares climb as late-stage partnered programs advance, milestone payments strengthen finances and its neurodegenerative pipeline continues to expand.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/prta-stock-rises-nearly-11-153800737.html",
-                "publishDate": "2026-07-09T15:38:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Buyout Buzz Around VKTX Is Back: What's Fueling the Speculation?",
-                "summary": "Viking Therapeutics' expanding obesity pipeline and upcoming VK2735 data reignite buyout speculation as investors weigh its growing strategic appeal.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/buyout-buzz-around-vktx-back-135600482.html",
-                "publishDate": "2026-07-09T13:56:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.76,
+        "price": 1.7925,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.675976,
-            "marketCap": 165269792,
+            "change": 0.139668,
+            "marketCap": 168321648,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -392,22 +392,22 @@
                 "freemium": false
             },
             {
-                "title": "SpaceX IPO: rockets, AI losses and Musk in control",
-                "summary": "SpaceX is inviting investors to bet on Elon Musk's vision of AI data centers in space and humans on Mars.The sky-high valuation for SpaceX -- nearly $1.8 trillion -- is based on the idea that his legendary run will continue and that Musk can achieve his goal of data centers in space and putting people on Mars.",
-                "source": "AFP",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/spacex-ipo-rockets-ai-losses-200312350.html",
-                "publishDate": "2026-06-11T19:51:08Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "The SpaceX IPO Could Trigger a $50 Billion Spending Spree. These Stocks Will Benefit.",
                 "summary": "SpaceX's IPO may create new winners beyond the rocket maker itself, with four companies positioned to benefit from the next wave of spending on satellites, infrastructure, and orbital computing.",
                 "source": "Motley Fool",
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/11/spacex-ipo-trigger-billion-spending-stocks-ktos/",
                 "publishDate": "2026-06-11T15:37:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
+                "summary": "Tesla (NASDAQ:TSLA) sits in an awkward place. Q1 2026 showed automotive gross margin rebounding to 21.1% from 16.2% a year earlier, FSD subscriptions hit 1.28 million (+51% YoY), and free cash flow more than doubled to $1.444 billion. Yet shares closed at $418.45, down 6.95% YTD. Can Tesla reach $500 this cycle? What\u2019s Holding Tesla ... Prediction: Tesla Stock Will Hit $500 on This Date",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/05/prediction-tesla-stock-will-hit-500-on-this-date/",
+                "publishDate": "2026-06-10T16:09:43Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.615,
+        "price": 35.97,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2463994,
-            "marketCap": 25616816128,
+            "change": -2.2819889,
+            "marketCap": 25872156672,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.67,
+        "price": 28.58,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6466537,
-            "marketCap": 5948769280,
+            "change": -1.9554,
+            "marketCap": 5930094592,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
