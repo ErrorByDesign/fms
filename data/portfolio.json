@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.325,
+        "price": 49.26,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.31325543,
-            "marketCap": 218253524992,
+            "change": -0.44462657,
+            "marketCap": 217965903872,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.844337
+            "yearTarget": 47.828888
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Prediction: 1 New Reason Eli Lilly Stock Could Still Be Headed Higher",
+                "summary": "Eli Lilly has whipsawed shareholders in 2026, but one under-the-radar catalyst in its pipeline could change the trajectory entirely. Here is what the bulls are watching that most investors are still sleeping on.",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/07/13/prediction-1-new-reason-eli-lilly-stock-could-still-be-headed-higher/",
+                "publishDate": "2026-07-13T18:00:35Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "3 Dividend Stocks That Are No-Brainer Buys Heading Into the Second Half of 2026",
                 "summary": "This is the list for you if you are looking for dividend stocks with attractive yields and well-supported dividends.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/07/09/two-drugmakers-own-90-of-the-obesity-boom-one-fund-owns-both-for-0-59/",
                 "publishDate": "2026-07-09T16:18:28Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Could Be 13% Overvalued Following Its Vivani Deal",
-                "summary": "Vivani Medical\u2019s new agreement gives Novo Nordisk (CPSE:NOVO B) access to evaluate NPM-139, a semaglutide implant for chronic weight management, offering investors another data point on the company\u2019s obesity drug delivery options. See our latest analysis for Novo Nordisk. The Vivani agreement lands at a time when Novo Nordisk\u2019s DKK323.15 share price has shown strong short term momentum, with a 30 day share price return of 18.81% and a 90 day share price return of 35.72%. Over longer periods,...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-161205528.html",
-                "publishDate": "2026-07-09T16:12:05Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.71,
+        "price": 34.615,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.502925,
-            "marketCap": 24965875712,
+            "change": -3.7670267,
+            "marketCap": 24897546240,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.78,
+        "price": 27.49,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7991576,
-            "marketCap": 5764102144,
+            "change": -3.8138564,
+            "marketCap": 5703929344,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
