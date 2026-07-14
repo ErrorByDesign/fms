@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.92,
+        "price": 48.895,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.7305207,
-            "marketCap": 216461475840,
+            "change": -0.7812466,
+            "marketCap": 216350867456,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.02781
+            "yearTarget": 48.008423
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-151223241.html",
                 "publishDate": "2026-07-14T15:12:23Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Fresh off buyout, Akero execs reunite to advance long-acting psoriasis pill",
+                "summary": "Set to go public via a reverse merger, Avere has licensed from a prolific Chinese drugmaker rights to a potential threat to medicines like Skyrizi and Icotyde.",
+                "source": "BioPharma Dive",
+                "category": "finance",
+                "url": "https://www.biopharmadive.com/news/avere-nextcure-merger-hansoh-china-il23-psoriasis/825151/",
+                "publishDate": "2026-07-14T12:00:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/07/10/heres-why-shares-in-novo-nordisk-rival-agios-pharm/",
                 "publishDate": "2026-07-10T11:55:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Record Numbers of Americans Are on GLP-1 Drugs. That's Great News for This Stock.",
-                "summary": "Eli Lilly makes the best-selling GLP-1 drug, and sales are accelerating.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/09/record-numbers-of-americans-on-glp-1-drugs-thats/",
-                "publishDate": "2026-07-09T19:57:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.94,
+        "price": 35.0,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2460166,
-            "marketCap": 25131307008,
+            "change": 1.4198833,
+            "marketCap": 25174464512,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.23,
+        "price": 27.975,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.2190756,
-            "marketCap": 5857473024,
+            "change": 0.3047723,
+            "marketCap": 5804562944,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
