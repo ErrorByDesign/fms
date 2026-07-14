@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.85,
+        "price": 48.92,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.87256557,
-            "marketCap": 216151736320,
+            "change": -0.7305207,
+            "marketCap": 216461475840,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.087463
+            "yearTarget": 48.02781
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Reports Fresh Hemophilia Trial Wins In Adults And Children",
+                "summary": "Novo Nordisk presented long-term phase 3 data for denecimig (Mim8) prophylaxis in hemophilia patients, showing sustained efficacy, safety, and treatment satisfaction. The company also reported first efficacy and safety results for concizumab (Alhemo) in pediatric hemophilia patients under 12, indicating reduced bleeding and manageable safety. These trial readouts expand evidence across both adult and pediatric populations, supporting Novo Nordisk\u2019s position in rare blood disorders. For...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-151223241.html",
+                "publishDate": "2026-07-14T15:12:23Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk signs pact to assess semaglutide implant",
                 "summary": "Vivani says its implant delivers medication steadily over long periods of time.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/07/09/record-numbers-of-americans-on-glp-1-drugs-thats/",
                 "publishDate": "2026-07-09T19:57:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) In Focus After Wegovy Label Update As Undervalued Narrative Holds",
-                "summary": "Novo Nordisk (NYSE:NVO) is back in focus after Singapore regulators updated the label for Wegovy\u2019s semaglutide with data from the STEP UP obesity trial, giving investors fresh detail on efficacy for patients without diabetes. See our latest analysis for Novo Nordisk. The updated Wegovy data lands against a mixed backdrop for Novo Nordisk\u2019s stock, with the share price up 19.19% over 30 days and 30.58% over 90 days, yet the 1 year total shareholder return is down 27.53% and the 3 year total...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nvo-focus-wegovy-182158508.html",
-                "publishDate": "2026-07-09T18:21:58Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.9,
+        "price": 34.94,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1301166,
-            "marketCap": 25102538752,
+            "change": 1.2460166,
+            "marketCap": 25131307008,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.37,
+        "price": 28.23,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7210522,
-            "marketCap": 5886521856,
+            "change": 1.2190756,
+            "marketCap": 5857473024,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
