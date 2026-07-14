@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.28,
+        "price": 48.85,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.404205,
-            "marketCap": 218054410240,
+            "change": -0.87256557,
+            "marketCap": 216151736320,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.808857
+            "yearTarget": 48.087463
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk signs pact to assess semaglutide implant",
+                "summary": "Vivani says its implant delivers medication steadily over long periods of time.",
+                "source": "Just Food",
+                "category": "finance",
+                "url": "https://www.just-food.com/news/novo-nordisk-signs-pact-to-assess-semaglutide-implant/",
+                "publishDate": "2026-07-14T11:34:25Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Is This Disturbing Trend Bad News for Eli Lilly in the Billion-Dollar Obesity Drug Market?",
+                "summary": "Eyes are on the rollout of Lilly's new weight loss pill.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/14/is-this-disturbing-trend-bad-news-for-eli-lilly-in/",
+                "publishDate": "2026-07-14T10:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Prediction: 1 New Reason Eli Lilly Stock Could Still Be Headed Higher",
                 "summary": "Eli Lilly has whipsawed shareholders in 2026, but one under-the-radar catalyst in its pipeline could change the trajectory entirely. Here is what the bulls are watching that most investors are still sleeping on.",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-07-09T18:21:58Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NYSE:NVO) Updates Wegovy Label In Singapore With STEP UP Data",
-                "summary": "Novo Nordisk (NYSE:NVO) has updated the Wegovy label in Singapore to include new STEP UP trial data for adults with obesity. The label change reflects clinically meaningful benefits observed in the STEP UP study for semaglutide in obesity treatment. The update comes as obesity drug developers draw fresh attention from investors, including renewed buyout speculation around peers such as Viking Therapeutics. Novo Nordisk, trading at $48.89, sits at the center of renewed interest in obesity...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-updates-171311732.html",
-                "publishDate": "2026-07-09T17:13:11Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Two Drugmakers Own 90% of the Obesity Boom. One Fund Owns Both for 0.59%",
-                "summary": "The Health Care Select Sector SPDR Fund (NYSEARCA:XLV) is the default healthcare allocation for millions of investors, and for good reason. XLV owns the entire S&P 500 healthcare complex in one ticker: insurers, device makers, biotech, and Big Pharma. It has returned 21.61% over the past year and 159.84% over ten years. If the reason ... Two Drugmakers Own 90% of the Obesity Boom. One Fund Owns Both for 0.59%",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/07/09/two-drugmakers-own-90-of-the-obesity-boom-one-fund-owns-both-for-0-59/",
-                "publishDate": "2026-07-09T16:18:28Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.1394732,
+            "change": 0.0,
             "marketCap": 168086880,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.51,
+        "price": 34.9,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.058946,
-            "marketCap": 24822020096,
+            "change": 1.1301166,
+            "marketCap": 25102538752,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.89,
+        "price": 28.37,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4142776,
-            "marketCap": 5786926080,
+            "change": 1.7210522,
+            "marketCap": 5886521856,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
