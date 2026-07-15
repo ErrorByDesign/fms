@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.65,
+        "price": 50.725,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2198937,
-            "marketCap": 224067026944,
+            "change": 3.3730395,
+            "marketCap": 224398802944,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.030163
+            "yearTarget": 48.034935
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Advance Wednesday",
+                "summary": "European equities traded in the US as American depositary receipts were rising on Wednesday morning,",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150849699.html",
+                "publishDate": "2026-07-15T15:08:49Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "UBS says market has turned too pessimistic on AI as themes climb back up rankings",
+                "summary": "UBS has told clients the recent sell-off in artificial intelligence stocks looks inconsistent with the fundamentals and has pushed AI themes back to the top of its rankings. The bank's 'Theme-ometer', a quantitative framework that scores investment themes across macro conditions, earnings,...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1095487/ubs-says-market-has-turned-too-pessimistic-on-ai-as-themes-climb-back-up-rankings-1095487.html",
+                "publishDate": "2026-07-15T15:04:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "How Microsoft (MSFT) Is Deepening Its Enterprise AI Moat With a $2.5 Billion Customer Deployment Initiative",
                 "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the high-growth wide-moat stocks to buy. On July 2, Microsoft launched Microsoft Frontier Company with $2.5 billion in funding to help large customers deploy AI systems around their own data and workflows. Reuters reported that the unit will begin by working with clients including Unilever and Novo Nordisk and [\u2026]",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-07-14T10:30:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Prediction: 1 New Reason Eli Lilly Stock Could Still Be Headed Higher",
-                "summary": "Eli Lilly has whipsawed shareholders in 2026, but one under-the-radar catalyst in its pipeline could change the trajectory entirely. Here is what the bulls are watching that most investors are still sleeping on.",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/07/13/prediction-1-new-reason-eli-lilly-stock-could-still-be-headed-higher/",
-                "publishDate": "2026-07-13T18:00:35Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 Dividend Stocks That Are No-Brainer Buys Heading Into the Second Half of 2026",
-                "summary": "This is the list for you if you are looking for dividend stocks with attractive yields and well-supported dividends.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/11/3-dividend-stocks-that-are-no-brainer-buys-heading/",
-                "publishDate": "2026-07-11T13:35:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.81,
+        "price": 1.8,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.54945654,
-            "marketCap": 169964944,
+            "change": -1.0989065,
+            "marketCap": 169025920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.77,
+        "price": 34.9001,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.40102947,
-            "marketCap": 25009031168,
+            "change": -0.028356172,
+            "marketCap": 25102608384,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.59,
+        "price": 26.56,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.386909,
-            "marketCap": 5517187584,
+            "change": -4.4947863,
+            "marketCap": 5510962688,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
