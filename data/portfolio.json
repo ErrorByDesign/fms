@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.278,
+        "price": 50.285,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.4617896,
-            "marketCap": 222421352448,
+            "change": 2.476055,
+            "marketCap": 222452318208,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.098072
+            "yearTarget": 48.171787
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,6 +32,16 @@
         },
         "NEWS": [
             {
+                "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
+                "summary": "Healthcare stocks rose Wednesday afternoon, with the NYSE Healthcare Index adding 0.4% and the State",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-174122417.html",
+                "publishDate": "2026-07-15T17:41:22Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
                 "title": "Novo Nordisk Gets EU Approval for Wegovy Pill for Weight Management",
                 "summary": "Novo Nordisk (NVO) said Wednesday the European Commission granted marketing authorization for Wegovy",
                 "source": "MT Newswires",
@@ -39,6 +49,16 @@
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-gets-eu-approval-164734044.html",
                 "publishDate": "2026-07-15T16:47:34Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "RHHBY's Gazyva Gets FDA Priority Review for Label Expansion",
+                "summary": "Roche wins FDA Priority Review for Gazyva in primary membranous nephropathy, with a decision due by November 2026 after positive phase III data.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/rhhbys-gazyva-gets-fda-priority-160700669.html",
+                "publishDate": "2026-07-15T16:07:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -68,16 +88,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-deepening-enterprise-ai-101236609.html",
                 "publishDate": "2026-07-15T10:12:36Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Chip-Machine Supplier ASML Raises Guidance Again on Unrelenting AI Demand",
-                "summary": "The company lifted its annual sales guidance for the second time and said it would boost output of its semiconductor-making machines in the coming years.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/business/earnings/chip-machine-supplier-asml-raises-guidance-again-on-unrelenting-ai-demand-5cae18c9?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-15T08:55:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.biopharmadive.com/news/avere-nextcure-merger-hansoh-china-il23-psoriasis/825151/",
                 "publishDate": "2026-07-14T12:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk signs pact to assess semaglutide implant",
-                "summary": "NPM-139 is a miniature subdermal implant that delivers medication steadily over periods of time.",
-                "source": "Just Drinks",
-                "category": "finance",
-                "url": "https://www.just-drinks.com/news/novo-nordisk-signs-pact-to-assess-semaglutide-implant/",
-                "publishDate": "2026-07-14T11:34:25Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.955,
+        "price": 35.02,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.12890857,
-            "marketCap": 25142097920,
+            "change": 0.31509772,
+            "marketCap": 25188849664,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.77,
+        "price": 27.195,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.7383142,
-            "marketCap": 5554535936,
+            "change": -2.2118316,
+            "marketCap": 5642719744,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
