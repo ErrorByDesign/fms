@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.47,
+        "price": 50.278,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8527796,
-            "marketCap": 223270731776,
+            "change": 2.4617896,
+            "marketCap": 222421352448,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.034863
+            "yearTarget": 48.098072
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk Gets EU Approval for Wegovy Pill for Weight Management",
+                "summary": "Novo Nordisk (NVO) said Wednesday the European Commission granted marketing authorization for Wegovy",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-gets-eu-approval-164734044.html",
+                "publishDate": "2026-07-15T16:47:34Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "European Equities Traded in the US as American Depositary Receipts Advance Wednesday",
                 "summary": "European equities traded in the US as American depositary receipts were rising on Wednesday morning,",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-14T11:34:25Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Is This Disturbing Trend Bad News for Eli Lilly in the Billion-Dollar Obesity Drug Market?",
-                "summary": "Eyes are on the rollout of Lilly's new weight loss pill.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/14/is-this-disturbing-trend-bad-news-for-eli-lilly-in/",
-                "publishDate": "2026-07-14T10:30:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8,
+        "price": 1.8099,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0989065,
-            "marketCap": 169025920,
+            "change": -0.5549454,
+            "marketCap": 169955568,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.9,
+        "price": 34.955,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.028632078,
-            "marketCap": 25102538752,
+            "change": 0.12890857,
+            "marketCap": 25142097920,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.54,
+        "price": 26.77,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.5666976,
-            "marketCap": 5506813440,
+            "change": -3.7383142,
+            "marketCap": 5554535936,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
