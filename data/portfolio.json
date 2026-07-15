@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.535,
+        "price": 50.56,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.985531,
-            "marketCap": 223558270976,
+            "change": 3.0364819,
+            "marketCap": 223668879360,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.152657
+            "yearTarget": 48.147636
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk Stock Rises After Wegovy Pill Captured 89% of U.S. Prescriptions",
+                "summary": "Wegovy Pill Wins Big as Eli Lilly Rollout Lags",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-rises-wegovy-200439665.html",
+                "publishDate": "2026-07-15T20:04:39Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Lilly's Obesity Pill Trails Wegovy",
+                "summary": "Wegovy captured about 89% of weekly prescriptions.",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/lillys-obesity-pill-trails-wegovy-200237461.html",
+                "publishDate": "2026-07-15T20:02:37Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sector Update: Healthcare Stocks Advance Late Afternoon",
+                "summary": "Healthcare stocks rose late Wednesday afternoon, with the NYSE Healthcare Index adding 0.3% and the",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-194737160.html",
+                "publishDate": "2026-07-15T19:47:37Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "NVO Stock Jumps 3% As EU Approves Oral Wegovy Pill \u2014 Retail Notes LLY Is \u2018Clearly Behind\u2019 Its Danish Counterpart",
                 "summary": "Oral Wegovy is now cleared in all EU member states.",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-07-15T10:12:36Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "2 Beaten-Down GLP-1 Stocks to Buy on the Dip",
-                "summary": "Don't wait until clinical milestones send their share prices soaring.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/15/2-beaten-down-glp-1-stocks-to-buy-on-the-dip/",
-                "publishDate": "2026-07-15T05:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "In the Weight-Loss Wars, Novo\u2019s Obesity Pill Is Pulling Way Ahead of Lilly\u2019s",
-                "summary": "Since its obesity pill Foundayo hit the market in April, Lilly has captured about 11% of the prescription volume for new pills, according to the latest weekly data.  Novo Nordisk\u2019s Wegovy pill, which launched in January, commands the rest.  It is a remarkable turn of events for the near $80 billion anti-obesity market, among the hottest in the industry.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/in-the-weight-loss-wars-novos-obesity-pill-is-pulling-way-ahead-of-lillys-d6e8ec3c?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-15T00:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Reports Fresh Hemophilia Trial Wins In Adults And Children",
-                "summary": "Novo Nordisk presented long-term phase 3 data for denecimig (Mim8) prophylaxis in hemophilia patients, showing sustained efficacy, safety, and treatment satisfaction. The company also reported first efficacy and safety results for concizumab (Alhemo) in pediatric hemophilia patients under 12, indicating reduced bleeding and manageable safety. These trial readouts expand evidence across both adult and pediatric populations, supporting Novo Nordisk\u2019s position in rare blood disorders. For...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-151223241.html",
-                "publishDate": "2026-07-14T15:12:23Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8099,
+        "price": 1.8,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5549454,
-            "marketCap": 169955568,
+            "change": -1.0989065,
+            "marketCap": 169025920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.915,
+        "price": 34.89,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.014325603,
-            "marketCap": 25113327616,
+            "change": -0.057291485,
+            "marketCap": 25095344128,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.14,
+        "price": 27.25,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4092057,
-            "marketCap": 5631307776,
+            "change": -2.0136623,
+            "marketCap": 5654131712,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
