@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.655,
+        "price": 50.47,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2300777,
-            "marketCap": 224089128960,
+            "change": 2.8527796,
+            "marketCap": 223270731776,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.04295
+            "yearTarget": 48.034863
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -113,10 +113,10 @@
             },
             {
                 "title": "Novo Nordisk signs pact to assess semaglutide implant",
-                "summary": "Vivani says its implant delivers medication steadily over long periods of time.",
-                "source": "Just Food",
+                "summary": "NPM-139 is a miniature subdermal implant that delivers medication steadily over periods of time.",
+                "source": "Just Drinks",
                 "category": "finance",
-                "url": "https://www.just-food.com/news/novo-nordisk-signs-pact-to-assess-semaglutide-implant/",
+                "url": "https://www.just-drinks.com/news/novo-nordisk-signs-pact-to-assess-semaglutide-implant/",
                 "publishDate": "2026-07-14T11:34:25Z",
                 "premium": false,
                 "freemium": false
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.855,
+        "price": 34.9,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.15754886,
-            "marketCap": 25070170112,
+            "change": -0.028632078,
+            "marketCap": 25102538752,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.64,
+        "price": 26.54,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.20712,
-            "marketCap": 5527562240,
+            "change": -4.5666976,
+            "marketCap": 5506813440,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
