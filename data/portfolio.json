@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.02,
+        "price": 34.96,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.31509772,
-            "marketCap": 25188849664,
+            "change": 0.14322326,
+            "marketCap": 25145692160,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.195,
+        "price": 27.46,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2118316,
-            "marketCap": 5642719744,
+            "change": -1.2585415,
+            "marketCap": 5697704448,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
