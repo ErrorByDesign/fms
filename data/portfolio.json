@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.07,
+        "price": 50.65,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.426135,
-            "marketCap": 217077366784,
+            "change": 3.2198937,
+            "marketCap": 224067026944,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.032364
+            "yearTarget": 48.030163
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "How Microsoft (MSFT) Is Deepening Its Enterprise AI Moat With a $2.5 Billion Customer Deployment Initiative",
+                "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the high-growth wide-moat stocks to buy. On July 2, Microsoft launched Microsoft Frontier Company with $2.5 billion in funding to help large customers deploy AI systems around their own data and workflows. Reuters reported that the unit will begin by working with clients including Unilever and Novo Nordisk and [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-deepening-enterprise-ai-101236609.html",
+                "publishDate": "2026-07-15T10:12:36Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Chip-Machine Supplier ASML Raises Guidance Again on Unrelenting AI Demand",
+                "summary": "The company lifted its annual sales guidance for the second time and said it would boost output of its semiconductor-making machines in the coming years.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/business/earnings/chip-machine-supplier-asml-raises-guidance-again-on-unrelenting-ai-demand-5cae18c9?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-15T08:55:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "2 Beaten-Down GLP-1 Stocks to Buy on the Dip",
+                "summary": "Don't wait until clinical milestones send their share prices soaring.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/15/2-beaten-down-glp-1-stocks-to-buy-on-the-dip/",
+                "publishDate": "2026-07-15T05:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "In the Weight-Loss Wars, Novo\u2019s Obesity Pill Is Pulling Way Ahead of Lilly\u2019s",
                 "summary": "Since its obesity pill Foundayo hit the market in April, Lilly has captured about 11% of the prescription volume for new pills, according to the latest weekly data.  Novo Nordisk\u2019s Wegovy pill, which launched in January, commands the rest.  It is a remarkable turn of events for the near $80 billion anti-obesity market, among the hottest in the industry.",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-07-11T13:35:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Is Pfizer on Track to Launch Its Next Lipitor -- This Time in the Weight-Loss Market?",
-                "summary": "So far, Pfizer has been an also-ran in the GLP-1 race, but that could change if its long-acting weight-loss medication takes off.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/10/is-pfizer-on-track-to-launch-its-next-lipitor-this/",
-                "publishDate": "2026-07-10T23:35:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "NVO Rallies 11% in a Month: How Should Investors Play the Stock?",
-                "summary": "Novo Nordisk stock gains 11% in a month as Wegovy access expands and U.K. approval boosts optimism, but rising competition and earnings pressure cloud the outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/nvo-rallies-11-month-investors-141100538.html",
-                "publishDate": "2026-07-10T14:11:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk A/S (NVO) is Attracting Investor Attention: Here is What You Should Know",
-                "summary": "Recently, Zacks.com users have been paying close attention to Novo Nordisk (NVO). This makes it worthwhile to examine what the stock has in store.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-attracting-investor-130004605.html",
-                "publishDate": "2026-07-10T13:00:04Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.79,
+        "price": 1.81,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 168086880,
+            "change": -0.54945654,
+            "marketCap": 169964944,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -312,16 +312,6 @@
         },
         "NEWS": [
             {
-                "title": "The Reason Behind Blue Origin\u2019s Eye-Popping Valuation",
-                "summary": "Space is the hot new sector on Wall Street, and market optimism has sent Jeff Bezos\u2019 Blue Origin valuation to the moon.  Wednesday, CNBC reported that Blue Origin raised $10 billion, valuing the rocket company at $130 billion.  Blue Origin didn\u2019t return a request for comment.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/blue-origin-valuation-spacex-stock-2fa424ae?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-08T20:25:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "SpaceX Surprise AI Pivot Could Be a Massive Win for Nvidia and Intel",
                 "summary": "Top Bank Says SpaceX's AI Expansion Could Supercharge Nvidia and Intel",
                 "source": "GuruFocus.com",
@@ -410,6 +400,16 @@
                 "publishDate": "2026-06-10T16:09:43Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "SpaceX IPO: The Devil Is in the Details",
+                "summary": "This is tool banks such as Goldman Sachs and Morgan Stanley use to build an order book for the SpaceX IPO.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/spacex-ipo-space-exploration-offering-8d846645?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-06-10T13:11:00Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.91,
+        "price": 34.77,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1590887,
-            "marketCap": 25109729280,
+            "change": -0.40102947,
+            "marketCap": 25009031168,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.81,
+        "price": 26.59,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.28684092,
-            "marketCap": 5770326528,
+            "change": -4.386909,
+            "marketCap": 5517187584,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
