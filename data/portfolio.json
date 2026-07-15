@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": -0.426135,
-            "marketCap": 217125191680,
+            "marketCap": 217077366784,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.982742
+            "yearTarget": 48.057503
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "In the Weight-Loss Wars, Novo\u2019s Obesity Pill Is Pulling Way Ahead of Lilly\u2019s",
+                "summary": "Since its obesity pill Foundayo hit the market in April, Lilly has captured about 11% of the prescription volume for new pills, according to the latest weekly data.  Novo Nordisk\u2019s Wegovy pill, which launched in January, commands the rest.  It is a remarkable turn of events for the near $80 billion anti-obesity market, among the hottest in the industry.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/health/pharma/in-the-weight-loss-wars-novos-obesity-pill-is-pulling-way-ahead-of-lillys-d6e8ec3c?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-15T00:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (CPSE:NOVO B) Reports Fresh Hemophilia Trial Wins In Adults And Children",
                 "summary": "Novo Nordisk presented long-term phase 3 data for denecimig (Mim8) prophylaxis in hemophilia patients, showing sustained efficacy, safety, and treatment satisfaction. The company also reported first efficacy and safety results for concizumab (Alhemo) in pediatric hemophilia patients under 12, indicating reduced bleeding and manageable safety. These trial readouts expand evidence across both adult and pediatric populations, supporting Novo Nordisk\u2019s position in rare blood disorders. For...",
@@ -53,10 +63,10 @@
             },
             {
                 "title": "Novo Nordisk signs pact to assess semaglutide implant",
-                "summary": "NPM-139 is a miniature subdermal implant that delivers medication steadily over periods of time.",
-                "source": "Just Drinks",
+                "summary": "Vivani says its implant delivers medication steadily over long periods of time.",
+                "source": "Just Food",
                 "category": "finance",
-                "url": "https://www.just-drinks.com/news/novo-nordisk-signs-pact-to-assess-semaglutide-implant/",
+                "url": "https://www.just-food.com/news/novo-nordisk-signs-pact-to-assess-semaglutide-implant/",
                 "publishDate": "2026-07-14T11:34:25Z",
                 "premium": false,
                 "freemium": false
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-attracting-investor-130004605.html",
                 "publishDate": "2026-07-10T13:00:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Here's Why Shares in Novo Nordisk Rival, Agios Pharmaceutical, Soared This Week",
-                "summary": "An accelerated approval for Agios' key drug to treat sickle cell disease appears to be on the cards.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/10/heres-why-shares-in-novo-nordisk-rival-agios-pharm/",
-                "publishDate": "2026-07-10T11:55:00Z",
                 "premium": false,
                 "freemium": false
             }
