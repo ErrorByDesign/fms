@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.285,
+        "price": 50.48,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.476055,
-            "marketCap": 222452318208,
+            "change": 2.8737388,
+            "marketCap": 223314968576,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.171787
+            "yearTarget": 48.19804
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "NVO Stock Jumps 3% As EU Approves Oral Wegovy Pill \u2014 Retail Notes LLY Is \u2018Clearly Behind\u2019 Its Danish Counterpart",
+                "summary": "Oral Wegovy is now cleared in all EU member states.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/nvo-stock-jumps-3-as-eu-approves-oral-wegovy-pill-retail-notes-lly-is-clearly-behind-its-danish-counterpart/cZZPaw9R7r9",
+                "publishDate": "2026-07-15T17:49:09Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
                 "summary": "Healthcare stocks rose Wednesday afternoon, with the NYSE Healthcare Index adding 0.4% and the State",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-151223241.html",
                 "publishDate": "2026-07-14T15:12:23Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Fresh off buyout, Akero execs reunite to advance long-acting psoriasis pill",
-                "summary": "Set to go public via a reverse merger, Avere has licensed from a prolific Chinese drugmaker rights to a potential threat to medicines like Skyrizi and Icotyde.",
-                "source": "BioPharma Dive",
-                "category": "finance",
-                "url": "https://www.biopharmadive.com/news/avere-nextcure-merger-hansoh-china-il23-psoriasis/825151/",
-                "publishDate": "2026-07-14T12:00:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.96,
+        "price": 35.0,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.14322326,
-            "marketCap": 25145692160,
+            "change": 0.2578062,
+            "marketCap": 25174464512,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.46,
+        "price": 27.28,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2585415,
-            "marketCap": 5697704448,
+            "change": -1.9064705,
+            "marketCap": 5660356608,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
