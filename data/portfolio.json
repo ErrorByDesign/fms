@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.56,
+        "price": 51.44,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.03648,
-            "marketCap": 223668879360,
+            "change": 1.7405008,
+            "marketCap": 227561832448,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.16994
+            "yearTarget": 48.094124
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "The Next Wave Of Peptides Could Be Here; What Does It Mean For Lilly, Novo?",
+                "summary": "FDA advisors will debate the merits of seven peptides next week. The discussion could have an impact on Eli Lilly and Novo Nordisk.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/eli-lilly-novo-nordisk-peptides-fda-cpac-meeting/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-07-16T12:00:29Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Bear of the Day: General Mills (GIS)",
+                "summary": "Faced with the dual pressures of shifting consumer habits and emerging health trends, General Mills finds itself in a challenging market position.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-general-mills-gis-080000257.html",
+                "publishDate": "2026-07-16T08:00:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (CPSE:NOVO B) Stock Fair Value Edges Higher As Analysts Rework Growth Assumptions",
                 "summary": "Novo Nordisk is under fresh scrutiny as analysts adjust their price targets, with a fair value estimate moving from DKK 309.77 to DKK 316.91. This shift reflects a broader rethink of growth and risk assumptions, as analysts weigh more cautious revenue expectations against their updated view of what the stock might be worth. As you read on, you will see how to interpret these changing targets and what they could mean for your own view of Novo Nordisk. Stay updated as the Fair Value for Novo...",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-07-15T16:47:34Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "RHHBY's Gazyva Gets FDA Priority Review for Label Expansion",
-                "summary": "Roche wins FDA Priority Review for Gazyva in primary membranous nephropathy, with a decision due by November 2026 after positive phase III data.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/rhhbys-gazyva-gets-fda-priority-160700669.html",
-                "publishDate": "2026-07-15T16:07:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Advance Wednesday",
-                "summary": "European equities traded in the US as American depositary receipts were rising on Wednesday morning,",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150849699.html",
-                "publishDate": "2026-07-15T15:08:49Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.09891,
+            "change": 0.0,
             "marketCap": 169025920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.89,
+        "price": 34.33,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.0572915,
-            "marketCap": 25095344128,
+            "change": -1.6050375,
+            "marketCap": 24692553728,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.25,
+        "price": 25.94,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.01366,
-            "marketCap": 5654131712,
+            "change": -4.8073373,
+            "marketCap": 5382318592,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
