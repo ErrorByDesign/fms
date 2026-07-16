@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 51.44,
+        "price": 51.56,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7405008,
-            "marketCap": 227561832448,
+            "change": 1.977848,
+            "marketCap": 228092706816,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.094124
+            "yearTarget": 48.104584
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo secures European approval for oral Wegovy to extend lead over Lilly",
+                "summary": "Novo Nordisk is relying on first-mover advantage in the obesity pill arena to close the gap on Eli Lilly.",
+                "source": "Pharmaceutical Technology",
+                "category": "finance",
+                "url": "https://www.pharmaceutical-technology.com/news/novo-secures-european-approval-for-oral-wegovy-to-extend-lead-over-lilly/",
+                "publishDate": "2026-07-16T15:28:04Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "European Equities Traded in the US as American Depositary Receipts Edge Lower Thursday",
+                "summary": "European equities traded in the US as American depositary receipts were slightly lower on Thursday m",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151624928.html",
+                "publishDate": "2026-07-16T15:16:24Z",
+                "premium": true,
+                "freemium": false
+            },
             {
                 "title": "The Next Wave Of Peptides Could Be Here; What Does It Mean For Lilly, Novo?",
                 "summary": "FDA advisors will debate the merits of seven peptides next week. The discussion could have an impact on Eli Lilly and Novo Nordisk.",
@@ -109,26 +129,6 @@
                 "url": "https://stocktwits.com/news-articles/markets/equity/nvo-stock-jumps-3-as-eu-approves-oral-wegovy-pill-retail-notes-lly-is-clearly-behind-its-danish-counterpart/cZZPaw9R7r9",
                 "publishDate": "2026-07-15T17:49:09Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Advance in Afternoon Trading",
-                "summary": "Healthcare stocks rose Wednesday afternoon, with the NYSE Healthcare Index adding 0.4% and the State",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-174122417.html",
-                "publishDate": "2026-07-15T17:41:22Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Gets EU Approval for Wegovy Pill for Weight Management",
-                "summary": "Novo Nordisk (NVO) said Wednesday the European Commission granted marketing authorization for Wegovy",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-gets-eu-approval-164734044.html",
-                "publishDate": "2026-07-15T16:47:34Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.33,
+        "price": 34.105,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6050375,
-            "marketCap": 24692553728,
+            "change": -2.249928,
+            "marketCap": 24530716672,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.94,
+        "price": 26.06,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.8073373,
-            "marketCap": 5382318592,
+            "change": -4.3669744,
+            "marketCap": 5407217152,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
