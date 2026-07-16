@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 51.56,
+        "price": 51.47,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.977848,
-            "marketCap": 228092706816,
+            "change": 1.7998414,
+            "marketCap": 227694559232,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.104584
+            "yearTarget": 48.091473
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -49,6 +49,16 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151624928.html",
                 "publishDate": "2026-07-16T15:16:24Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Pfizer Stock Below 50-Day and 200-Day SMA: Buy the Dip or Exit Now?",
+                "summary": "PFE trades below key moving averages as investors weigh fading COVID sales against pipeline growth, acquisitions and a low valuation with a high dividend.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/pfizer-stock-below-50-day-144400384.html",
+                "publishDate": "2026-07-16T14:44:00Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-15T19:47:37Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "NVO Stock Jumps 3% As EU Approves Oral Wegovy Pill \u2014 Retail Notes LLY Is \u2018Clearly Behind\u2019 Its Danish Counterpart",
-                "summary": "Oral Wegovy is now cleared in all EU member states.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/nvo-stock-jumps-3-as-eu-approves-oral-wegovy-pill-retail-notes-lly-is-clearly-behind-its-danish-counterpart/cZZPaw9R7r9",
-                "publishDate": "2026-07-15T17:49:09Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.8,
+        "price": 1.78,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 169025920,
+            "change": -1.1235944,
+            "marketCap": 167147856,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.105,
+        "price": 34.08,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.249928,
-            "marketCap": 24530716672,
+            "change": -2.3215752,
+            "marketCap": 24512737280,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.06,
+        "price": 25.96,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.3669744,
-            "marketCap": 5407217152,
+            "change": -4.733948,
+            "marketCap": 5386467840,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
