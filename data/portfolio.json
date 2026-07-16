@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 51.505,
+        "price": 51.54,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.8690658,
-            "marketCap": 227849388032,
+            "change": 1.9382902,
+            "marketCap": 228004233216,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.059258
+            "yearTarget": 48.071606
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-wins-171521336.html",
                 "publishDate": "2026-07-16T17:15:21Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "NVO Stock Up on EC Approval of Wegovy Pill to Treat Obesity",
+                "summary": "Novo Nordisk wins EC approval for a once-daily oral Wegovy pill for obesity, expanding its EU franchise with the first GLP-1 tablet for weight management.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/nvo-stock-ec-approval-wegovy-165500102.html",
+                "publishDate": "2026-07-16T16:55:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-rises-wegovy-200439665.html",
                 "publishDate": "2026-07-15T20:04:39Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Lilly's Obesity Pill Trails Wegovy",
-                "summary": "Wegovy captured about 89% of weekly prescriptions.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/lillys-obesity-pill-trails-wegovy-200237461.html",
-                "publishDate": "2026-07-15T20:02:37Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.96,
+        "price": 33.87,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.6655211,
-            "marketCap": 24426422272,
+            "change": -2.923475,
+            "marketCap": 24361687040,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.705,
+        "price": 25.73,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.669725,
-            "marketCap": 5333557760,
+            "change": -5.5779834,
+            "marketCap": 5338745344,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
