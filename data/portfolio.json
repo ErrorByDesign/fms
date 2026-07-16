@@ -20,7 +20,7 @@
             "marketCap": 223668879360,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.1712
+            "yearTarget": 48.156643
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,26 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Stock Fair Value Edges Higher As Analysts Rework Growth Assumptions",
+                "summary": "Novo Nordisk is under fresh scrutiny as analysts adjust their price targets, with a fair value estimate moving from DKK 309.77 to DKK 316.91. This shift reflects a broader rethink of growth and risk assumptions, as analysts weigh more cautious revenue expectations against their updated view of what the stock might be worth. As you read on, you will see how to interpret these changing targets and what they could mean for your own view of Novo Nordisk. Stay updated as the Fair Value for Novo...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-231542200.html",
+                "publishDate": "2026-07-15T23:15:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Vivani Medical Eyes August Human Trial for Semaglutide Implant After Novo Nordisk Deal",
+                "summary": "Vivani Medical (NASDAQ:VANI) said it is preparing to begin human testing of its semaglutide implant in August and highlighted a recently announced agreement with Novo Nordisk to evaluate the company\u2019s implant technology. Adam Mendelsohn, co-founder, CEO and director of Vivani Medical, said the past",
+                "source": "MarketBeat",
+                "category": "finance",
+                "url": "https://www.marketbeat.com/instant-alerts/vivani-medical-eyes-august-human-trial-for-semaglutide-implant-after-novo-nordisk-deal-2026-07-15/?utm_source=yahoofinance&utm_medium=yahoofinance",
+                "publishDate": "2026-07-15T23:02:22Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk Stock Rises After Wegovy Pill Captured 89% of U.S. Prescriptions",
                 "summary": "Wegovy Pill Wins Big as Eli Lilly Rollout Lags",
@@ -110,26 +130,6 @@
                 "publishDate": "2026-07-15T15:08:49Z",
                 "premium": true,
                 "freemium": false
-            },
-            {
-                "title": "UBS says market has turned too pessimistic on AI as themes climb back up rankings",
-                "summary": "UBS has told clients the recent sell-off in artificial intelligence stocks looks inconsistent with the fundamentals and has pushed AI themes back to the top of its rankings. The bank's 'Theme-ometer', a quantitative framework that scores investment themes across macro conditions, earnings,...",
-                "source": "Proactive",
-                "category": "finance",
-                "url": "https://www.proactiveinvestors.com/companies/news/1095487/ubs-says-market-has-turned-too-pessimistic-on-ai-as-themes-climb-back-up-rankings-1095487.html",
-                "publishDate": "2026-07-15T15:04:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "How Microsoft (MSFT) Is Deepening Its Enterprise AI Moat With a $2.5 Billion Customer Deployment Initiative",
-                "summary": "Microsoft Corporation (NASDAQ:MSFT) is one of the high-growth wide-moat stocks to buy. On July 2, Microsoft launched Microsoft Frontier Company with $2.5 billion in funding to help large customers deploy AI systems around their own data and workflows. Reuters reported that the unit will begin by working with clients including Unilever and Novo Nordisk and [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-deepening-enterprise-ai-101236609.html",
-                "publishDate": "2026-07-15T10:12:36Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.0989065,
+            "change": -1.09891,
             "marketCap": 169025920,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.057291485,
+            "change": -0.0572915,
             "marketCap": 25095344128,
             "weekLow": 10.9,
             "weekHigh": 37.0,
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.0136623,
+            "change": -2.01366,
             "marketCap": 5654131712,
             "weekLow": 11.7,
             "weekHigh": 36.52,
