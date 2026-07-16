@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 51.5236,
+        "price": 51.505,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.9058547,
-            "marketCap": 227931684864,
+            "change": 1.8690658,
+            "marketCap": 227849388032,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.0508
+            "yearTarget": 48.059258
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NYSE:NVO) Wins First EU Approval For Oral Wegovy In Weight Management",
+                "summary": "Novo Nordisk (NYSE:NVO) received European Commission marketing authorization for its oral Wegovy pill for weight management. The approval covers the European Union and represents the first GLP-1 receptor agonist in pill form cleared for this use in the region. This decision follows growing use of obesity therapies in the U.S. and other key markets. Novo Nordisk is already a major player in diabetes and obesity care, and the oral Wegovy pill gives the company another way to reach patients...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-wins-171521336.html",
+                "publishDate": "2026-07-16T17:15:21Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo secures European approval for oral Wegovy to extend lead over Lilly",
                 "summary": "Novo Nordisk is relying on first-mover advantage in the obesity pill arena to close the gap on Eli Lilly.",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/healthcare/articles/lillys-obesity-pill-trails-wegovy-200237461.html",
                 "publishDate": "2026-07-15T20:02:37Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Advance Late Afternoon",
-                "summary": "Healthcare stocks rose late Wednesday afternoon, with the NYSE Healthcare Index adding 0.3% and the",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-afternoon-194737160.html",
-                "publishDate": "2026-07-15T19:47:37Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.995,
+        "price": 33.96,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.5652063,
-            "marketCap": 24451596288,
+            "change": -2.6655211,
+            "marketCap": 24426422272,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.86,
+        "price": 25.705,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -5.100915,
-            "marketCap": 5365719040,
+            "change": -5.669725,
+            "marketCap": 5333557760,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
