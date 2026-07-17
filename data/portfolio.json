@@ -20,7 +20,7 @@
             "marketCap": 227738796032,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.09803
+            "yearTarget": 48.074474
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (NVO) Ascends While Market Falls: Some Facts to Note",
+                "summary": "Novo Nordisk (NVO) closed the most recent trading day at $51.48, moving +1.82% from the previous trading session.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-ascends-while-214502899.html",
+                "publishDate": "2026-07-16T21:45:02Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NYSE:NVO) Wins First EU Approval For Oral Wegovy In Weight Management",
                 "summary": "Novo Nordisk (NYSE:NVO) received European Commission marketing authorization for its oral Wegovy pill for weight management. The approval covers the European Union and represents the first GLP-1 receptor agonist in pill form cleared for this use in the region. This decision follows growing use of obesity therapies in the U.S. and other key markets. Novo Nordisk is already a major player in diabetes and obesity care, and the oral Wegovy pill gives the company another way to reach patients...",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.marketbeat.com/instant-alerts/vivani-medical-eyes-august-human-trial-for-semaglutide-implant-after-novo-nordisk-deal-2026-07-15/?utm_source=yahoofinance&utm_medium=yahoofinance",
                 "publishDate": "2026-07-15T23:02:22Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Stock Rises After Wegovy Pill Captured 89% of U.S. Prescriptions",
-                "summary": "Wegovy Pill Wins Big as Eli Lilly Rollout Lags",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-stock-rises-wegovy-200439665.html",
-                "publishDate": "2026-07-15T20:04:39Z",
                 "premium": false,
                 "freemium": false
             }
@@ -440,7 +440,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7515023,
+            "change": -2.7515,
             "marketCap": 24404844544,
             "weekLow": 10.9,
             "weekHigh": 37.0,
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.990828,
+            "change": -4.99083,
             "marketCap": 5371943936,
             "weekLow": 11.7,
             "weekHigh": 36.52,
