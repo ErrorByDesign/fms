@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 51.48,
+        "price": 50.57,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.81962,
-            "marketCap": 227738796032,
+            "change": -1.7678483,
+            "marketCap": 223713116160,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.067272
+            "yearTarget": 48.080807
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,46 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "The weight-loss drugs boom is creating both winners and wipeouts: One Big Investment Idea",
+                "summary": "The weight-loss boom has created one of the market's biggest opportunities \u2014 and some of its most punishing failures.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/the-weight-loss-drugs-boom-is-creating-both-winners-and-wipeouts-one-big-investment-idea-103918718.html",
+                "publishDate": "2026-07-17T10:39:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The First Oral Cholesterol Pill Is Here. Which of These 5 Stocks Benefits Most?",
+                "summary": "The FDA just approved the first once-daily oral PCSK9 pill, and five major stocks now sit in the crosshairs. Not all of them come out ahead, and the biggest surprise winner may not be the company that makes the drug.",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/07/17/the-first-oral-cholesterol-pill-is-here-which-of-these-5-stocks-benefits-most/",
+                "publishDate": "2026-07-17T15:05:33Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Compounders maintain a firm grip on the GLP-1 market",
+                "summary": "Despite an FDA crackdown and numerous pharma lawsuits, nearly 1 in 5 patients are taking cheaper weight-loss alternatives despite the risks.",
+                "source": "Pharma Voice",
+                "category": "finance",
+                "url": "https://www.pharmavoice.com/news/compounders-glp1-issues-for-big-pharma-gallup/825506/",
+                "publishDate": "2026-07-17T08:24:27Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "3 High-Yield Dividend Stocks to Buy and Hold",
+                "summary": "All three can be bought on the dip.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/17/3-high-yield-dividend-stocks-to-buy-and-hold/",
+                "publishDate": "2026-07-17T05:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Novo Nordisk (NVO) Ascends While Market Falls: Some Facts to Note",
                 "summary": "Novo Nordisk (NVO) closed the most recent trading day at $51.48, moving +1.82% from the previous trading session.",
@@ -90,46 +130,6 @@
                 "publishDate": "2026-07-16T14:44:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "The Next Wave Of Peptides Could Be Here; What Does It Mean For Lilly, Novo?",
-                "summary": "FDA advisors will debate the merits of seven peptides next week. The discussion could have an impact on Eli Lilly and Novo Nordisk.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/eli-lilly-novo-nordisk-peptides-fda-cpac-meeting/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-07-16T12:00:29Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Bear of the Day: General Mills (GIS)",
-                "summary": "Faced with the dual pressures of shifting consumer habits and emerging health trends, General Mills finds itself in a challenging market position.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-general-mills-gis-080000257.html",
-                "publishDate": "2026-07-16T08:00:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Stock Fair Value Edges Higher As Analysts Rework Growth Assumptions",
-                "summary": "Novo Nordisk is under fresh scrutiny as analysts adjust their price targets, with a fair value estimate moving from DKK 309.77 to DKK 316.91. This shift reflects a broader rethink of growth and risk assumptions, as analysts weigh more cautious revenue expectations against their updated view of what the stock might be worth. As you read on, you will see how to interpret these changing targets and what they could mean for your own view of Novo Nordisk. Stay updated as the Fair Value for Novo...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-231542200.html",
-                "publishDate": "2026-07-15T23:15:42Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Vivani Medical Eyes August Human Trial for Semaglutide Implant After Novo Nordisk Deal",
-                "summary": "Vivani Medical (NASDAQ:VANI) said it is preparing to begin human testing of its semaglutide implant in August and highlighted a recently announced agreement with Novo Nordisk to evaluate the company\u2019s implant technology. Adam Mendelsohn, co-founder, CEO and director of Vivani Medical, said the past",
-                "source": "MarketBeat",
-                "category": "finance",
-                "url": "https://www.marketbeat.com/instant-alerts/vivani-medical-eyes-august-human-trial-for-semaglutide-implant-after-novo-nordisk-deal-2026-07-15/?utm_source=yahoofinance&utm_medium=yahoofinance",
-                "publishDate": "2026-07-15T23:02:22Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.775,
+        "price": 1.7478,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.3888876,
-            "marketCap": 166678336,
+            "change": -1.5323935,
+            "marketCap": 164124160,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 33.93,
+        "price": 34.64,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.7515,
-            "marketCap": 24404844544,
+            "change": 2.0925407,
+            "marketCap": 24915525632,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.375
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.89,
+        "price": 25.6,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.99083,
-            "marketCap": 5371943936,
+            "change": -1.1201198,
+            "marketCap": 5311771648,
             "weekLow": 11.7,
             "weekHigh": 36.52,
             "yearTarget": 41.4
