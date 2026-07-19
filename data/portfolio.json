@@ -4,7 +4,7 @@
         "default": true,
         "price": 50.32,
         "COMPANY": {
-            "name": "Novo Nordisk A/S",
+            "name": "longName",
             "ticker": "NVO",
             "exchange": "NYSE",
             "sector": "Healthcare",
@@ -17,7 +17,7 @@
         },
         "FINANCIALS": {
             "change": -2.2533,
-            "marketCap": 222607147008,
+            "marketCap": "marketCap",
             "weekLow": 35.12,
             "weekHigh": 71.8,
             "yearTarget": 47.565586
