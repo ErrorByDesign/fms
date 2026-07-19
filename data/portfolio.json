@@ -17,7 +17,7 @@
         },
         "FINANCIALS": {
             "change": -2.2533,
-            "marketCap": 222607147008,
+            "marketCap": "marketCap",
             "weekLow": 35.12,
             "weekHigh": 71.8,
             "yearTarget": 47.565586
@@ -82,6 +82,16 @@
                 "freemium": false
             },
             {
+                "title": "The weight-loss drugs boom is creating both winners and wipeouts: One Big Investment Idea",
+                "summary": "The weight-loss boom has created one of the market's biggest opportunities \u2014 and some of its most punishing failures.",
+                "source": "Yahoo Finance",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/article/the-weight-loss-drugs-boom-is-creating-both-winners-and-wipeouts-one-big-investment-idea-103918718.html",
+                "publishDate": "2026-07-17T10:39:18Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Compounders maintain a firm grip on the GLP-1 market",
                 "summary": "Despite an FDA crackdown and numerous pharma lawsuits, nearly 1 in 5 patients are taking cheaper weight-loss alternatives despite the risks.",
                 "source": "Pharma Voice",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-wins-171521336.html",
                 "publishDate": "2026-07-16T17:15:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "NVO Stock Up on EC Approval of Wegovy Pill to Treat Obesity",
-                "summary": "Novo Nordisk wins EC approval for a once-daily oral Wegovy pill for obesity, expanding its EU franchise with the first GLP-1 tablet for weight management.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/nvo-stock-ec-approval-wegovy-165500102.html",
-                "publishDate": "2026-07-16T16:55:00Z",
                 "premium": false,
                 "freemium": false
             }
