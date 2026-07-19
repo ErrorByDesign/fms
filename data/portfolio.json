@@ -2,9 +2,9 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.485,
+        "price": 50.32,
         "COMPANY": {
-            "name": "Novo Nordisk A/S",
+            "name": "longName",
             "ticker": "NVO",
             "exchange": "NYSE",
             "sector": "Healthcare",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9327874,
-            "marketCap": 223337086976,
+            "change": -2.2533,
+            "marketCap": 222607147008,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 48.07624
+            "yearTarget": 47.565586
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,12 +32,42 @@
         },
         "NEWS": [
             {
-                "title": "The weight-loss drugs boom is creating both winners and wipeouts: One Big Investment Idea",
-                "summary": "The weight-loss boom has created one of the market's biggest opportunities \u2014 and some of its most punishing failures.",
-                "source": "Yahoo Finance",
+                "title": "Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics Just Started Testing a Weight Loss Drug That Goes Beyond GLP-1",
+                "summary": "Viking's latest program seeks to push the envelope in weight loss efficacy.",
+                "source": "Motley Fool",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/article/the-weight-loss-drugs-boom-is-creating-both-winners-and-wipeouts-one-big-investment-idea-103918718.html",
-                "publishDate": "2026-07-17T10:39:18Z",
+                "url": "https://www.fool.com/investing/2026/07/18/watch-out-eli-lilly-and-novo-nordisk-viking-just/",
+                "publishDate": "2026-07-18T20:05:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Most Overlooked Reason Eli Lilly Stock Keeps Surging -- and It Has Nothing to Do With Weight Loss",
+                "summary": "There's a good reason why investors are focused on Eli Lilly's GLP-1 business, but there's more going on at the company.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/17/the-most-overlooked-reason-eli-lilly-stock-keeps-s/",
+                "publishDate": "2026-07-18T01:35:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Wegovy Pill Just Changed the GLP-1 Market. Here's Why Eli Lilly Stock Could Still Win",
+                "summary": "Novo Nordisk is finally getting one up on its biggest rival.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/17/wegovy-pill-just-changed-the-glp-1-market-heres-wh/",
+                "publishDate": "2026-07-17T18:50:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "The Next Wave Of Peptides Could Be Here; What Does It Mean For Lilly, Novo?",
+                "summary": "FDA advisors will debate the merits of seven peptides next week. The discussion could have an impact on Eli Lilly and Novo Nordisk.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/eli-lilly-novo-nordisk-peptides-fda-cpac-meeting/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-07-17T16:17:56Z",
                 "premium": false,
                 "freemium": false
             },
@@ -100,36 +130,6 @@
                 "publishDate": "2026-07-16T16:55:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo secures European approval for oral Wegovy to extend lead over Lilly",
-                "summary": "Novo Nordisk is relying on first-mover advantage in the obesity pill arena to close the gap on Eli Lilly.",
-                "source": "Pharmaceutical Technology",
-                "category": "finance",
-                "url": "https://www.pharmaceutical-technology.com/news/novo-secures-european-approval-for-oral-wegovy-to-extend-lead-over-lilly/",
-                "publishDate": "2026-07-16T15:28:04Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "European Equities Traded in the US as American Depositary Receipts Edge Lower Thursday",
-                "summary": "European equities traded in the US as American depositary receipts were slightly lower on Thursday m",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-151624928.html",
-                "publishDate": "2026-07-16T15:16:24Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Pfizer Stock Below 50-Day and 200-Day SMA: Buy the Dip or Exit Now?",
-                "summary": "PFE trades below key moving averages as investors weigh fading COVID sales against pipeline growth, acquisitions and a low valuation with a high dividend.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/pfizer-stock-below-50-day-144400384.html",
-                "publishDate": "2026-07-16T14:44:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.7478,
+        "price": 1.75,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.5323935,
-            "marketCap": 164124160,
+            "change": -1.4084494,
+            "marketCap": 164330752,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.56,
+        "price": 34.51,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,11 +440,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.856767,
-            "marketCap": 24857985024,
+            "change": 1.7094,
+            "marketCap": 24822020096,
             "weekLow": 10.9,
             "weekHigh": 37.0,
-            "yearTarget": 39.375
+            "yearTarget": 39.31818
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -557,9 +557,9 @@
             }
         ],
         "RATINGS": {
-            "analystCount": 12,
+            "analystCount": 11,
             "recommendationKey": "strong_buy",
-            "recommendationMean": 1.30769,
+            "recommendationMean": 1.33333,
             "strongBuy": 2,
             "buy": 10,
             "hold": 1,
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.715,
+        "price": 25.57,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,9 +584,9 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.6759337,
-            "marketCap": 5335632896,
-            "weekLow": 11.7,
+            "change": -1.236,
+            "marketCap": 5305546752,
+            "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
         },
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "SSR Mining Converts Hod Maden Stake Into a Royalty",
+                "summary": "The miner converted its 20% Hod Maden stake into a 4% royalty",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/commodities/articles/ssr-mining-converts-hod-maden-200113815.html",
+                "publishDate": "2026-07-17T20:01:13Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Are Options Traders Betting on a Big Move in SSR Mining Stock?",
                 "summary": "Investors need to pay close attention to SSRM stock based on the movements in the options market lately.",
@@ -686,16 +696,6 @@
                 "category": "finance",
                 "url": "https://www.fool.com/investing/2026/06/17/why-ssr-mining-stock-surged-again-today/",
                 "publishDate": "2026-06-17T19:46:41Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "SSR Mining (SSRM) Trades At A Discount To Peers While Generating Higher Free Cash Flow, According To RBC Capital",
-                "summary": "With a forward P/E of 5.96x, SSR Mining Inc. (NASDAQ:SSRM) ranks among the most undervalued silver mining stocks to buy now. Meanwhile, analysts see 65.20% upside for the stock. On June 3, 2026, RBC Capital analyst Josh Wolfson upgraded SSR Mining Inc. (NASDAQ:SSRM) to \u201cOutperform\u201d from \u201cSector Perform,\u201d trimming the price target to $40 from [\u2026]",
-                "source": "Insider Monkey",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/ssr-mining-ssrm-trades-discount-182745719.html",
-                "publishDate": "2026-06-16T18:27:45Z",
                 "premium": false,
                 "freemium": false
             }
