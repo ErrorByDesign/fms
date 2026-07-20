@@ -2,9 +2,9 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.76,
+        "price": 49.635,
         "COMPANY": {
-            "name": "Novo Nordisk A/S",
+            "name": "longName",
             "ticker": "NVO",
             "exchange": "NYSE",
             "sector": "Healthcare",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.1128803,
-            "marketCap": 220129804288,
+            "change": -1.3612877,
+            "marketCap": "marketCap",
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.450924
+            "yearTarget": 47.45281
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.7152,
+        "price": 1.73,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9885744,
-            "marketCap": 161062912,
+            "change": -1.142856,
+            "marketCap": 162452688,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.38,
+        "price": 34.215,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.37669447,
-            "marketCap": 24728516608,
+            "change": -0.8548194,
+            "marketCap": 24609837056,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.16,
+        "price": 25.11,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.603441,
-            "marketCap": 5220475392,
+            "change": -1.7989796,
+            "marketCap": 5210100736,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
