@@ -2,9 +2,9 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 50.32,
+        "price": 50.19,
         "COMPANY": {
-            "name": "Novo Nordisk A/S",
+            "name": "longName",
             "ticker": "NVO",
             "exchange": "NYSE",
             "sector": "Healthcare",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2533,
-            "marketCap": 222607147008,
+            "change": -0.25832304,
+            "marketCap": "marketCap",
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.57046
+            "yearTarget": 47.421238
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,36 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Launches Kyinsu In China Through Fangzhou Internet Hospital",
+                "summary": "Novo Nordisk (CPSE:NOVO B) and Fangzhou have launched Kyinsu\u00ae, the world's first once weekly basal insulin/GLP-1 RA combination therapy, in China. The product is being introduced through Fangzhou's AI driven Internet hospital, targeting broader access for people living with diabetes. The launch expands Novo Nordisk's presence in China by pairing a new treatment format with a digital care platform. Novo Nordisk, trading at DKK329.9 per share, is adding Kyinsu\u00ae to its portfolio at a time when...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-140756812.html",
+                "publishDate": "2026-07-20T14:07:56Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Does EU Approval of Wegovy Pill Change NVO's Competitive Story?",
+                "summary": "Novo Nordisk wins EU approval for the first GLP-1 obesity tablet, expanding Wegovy's reach, but tougher competition keeps the broader investment outlook in focus.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/does-eu-approval-wegovy-pill-135100543.html",
+                "publishDate": "2026-07-20T13:51:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Citi lifts Novo Nordisk target on strong GLP-1 pill launch",
+                "summary": "Citi has raised its price target on Novo Nordisk (NYSE:NVO) to DKK330 ahead of second-quarter results on 5 August, citing the strength of the Danish drugmaker's Wegovy pill launch. The broker lifted its 2026 sales and operating income estimates by 4% to 5%, and its earnings per share...",
+                "source": "Proactive",
+                "category": "finance",
+                "url": "https://www.proactiveinvestors.com/companies/news/1095695/citi-lifts-novo-nordisk-target-on-strong-glp-1-pill-launch-1095695.html",
+                "publishDate": "2026-07-20T13:22:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Wegovy Pill in Europe - Novo Nordisk Expands Franchise With First European Approval for Oral Weight Loss Drug",
                 "summary": "The European Commission approved Novo Nordisk A/S\u2019 Wegovy pill, a once-daily oral semaglutide 25 mg treatment for adults with obesity or overweight with at least one weight-related comorbidity. The approval makes Wegovy the first GLP-1 receptor agonist available in tablet...",
@@ -100,36 +130,6 @@
                 "publishDate": "2026-07-17T10:39:18Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Compounders maintain a firm grip on the GLP-1 market",
-                "summary": "Despite an FDA crackdown and numerous pharma lawsuits, nearly 1 in 5 patients are taking cheaper weight-loss alternatives despite the risks.",
-                "source": "Pharma Voice",
-                "category": "finance",
-                "url": "https://www.pharmavoice.com/news/compounders-glp1-issues-for-big-pharma-gallup/825506/",
-                "publishDate": "2026-07-17T08:24:27Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "3 High-Yield Dividend Stocks to Buy and Hold",
-                "summary": "All three can be bought on the dip.",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/07/17/3-high-yield-dividend-stocks-to-buy-and-hold/",
-                "publishDate": "2026-07-17T05:20:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NVO) Ascends While Market Falls: Some Facts to Note",
-                "summary": "Novo Nordisk (NVO) closed the most recent trading day at $51.48, moving +1.82% from the previous trading session.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-ascends-while-214502899.html",
-                "publishDate": "2026-07-16T21:45:02Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.4084494,
+            "change": 0.0,
             "marketCap": 164330752,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.51,
+        "price": 34.36,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7094072,
-            "marketCap": 24822020096,
+            "change": -0.43465,
+            "marketCap": 24714131456,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.57,
+        "price": 25.27,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2359973,
-            "marketCap": 5305546752,
+            "change": -1.173247,
+            "marketCap": 5243299328,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
