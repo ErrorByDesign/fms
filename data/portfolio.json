@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.92,
+        "price": 49.855,
         "COMPANY": {
             "name": "longName",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.7949156,
+            "change": -0.92408615,
             "marketCap": "marketCap",
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.449406
+            "yearTarget": 47.468033
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.75,
+        "price": 1.7152,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 164330752,
+            "change": -1.9885744,
+            "marketCap": 161062912,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.37,
+        "price": 34.42,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.40567777,
-            "marketCap": 24721321984,
+            "change": -0.26079443,
+            "marketCap": 24757284864,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 25.155,
+        "price": 25.29,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.6229918,
-            "marketCap": 5219438080,
+            "change": -1.0950285,
+            "marketCap": 5247449600,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
