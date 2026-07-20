@@ -20,7 +20,7 @@
             "marketCap": 222607147008,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.533573
+            "yearTarget": 47.564568
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Wegovy Pill in Europe - Novo Nordisk Expands Franchise With First European Approval for Oral Weight Loss Drug",
+                "summary": "The European Commission approved Novo Nordisk A/S\u2019 Wegovy pill, a once-daily oral semaglutide 25 mg treatment for adults with obesity or overweight with at least one weight-related comorbidity. The approval makes Wegovy the first GLP-1 receptor agonist available in tablet...",
+                "source": "Benzinga",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/wegovy-pill-europe-novo-nordisk-213142692.html",
+                "publishDate": "2026-07-19T21:31:42Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Watch Out, Eli Lilly and Novo Nordisk: Viking Therapeutics Just Started Testing a Weight Loss Drug That Goes Beyond GLP-1",
                 "summary": "Viking's latest program seeks to push the envelope in weight loss efficacy.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-nvo-ascends-while-214502899.html",
                 "publishDate": "2026-07-16T21:45:02Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (NYSE:NVO) Wins First EU Approval For Oral Wegovy In Weight Management",
-                "summary": "Novo Nordisk (NYSE:NVO) received European Commission marketing authorization for its oral Wegovy pill for weight management. The approval covers the European Union and represents the first GLP-1 receptor agonist in pill form cleared for this use in the region. This decision follows growing use of obesity therapies in the U.S. and other key markets. Novo Nordisk is already a major player in diabetes and obesity care, and the oral Wegovy pill gives the company another way to reach patients...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-nyse-nvo-wins-171521336.html",
-                "publishDate": "2026-07-16T17:15:21Z",
                 "premium": false,
                 "freemium": false
             }
