@@ -20,7 +20,7 @@
             "marketCap": 218448756736,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.39766
+            "yearTarget": 47.402214
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,16 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/weight-loss-wars-why-novo-nordisk-is-suing-eli-lilly-140102099.html",
                 "publishDate": "2026-07-21T14:01:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo accuses rival Eli Lilly of \"deceptive\" weight-loss drug ads",
+                "summary": "The weight-loss drug wars reached a new level of intensity Tuesday as Novo Nordisk sued Eli Lilly , accusing its arch-rival of misleading advertising.",
+                "source": "Axios Media",
+                "category": "finance",
+                "url": "https://www.axios.com/2026/07/21/novo-nordisk-eli-lilly-lawsuit#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-media",
+                "publishDate": "2026-07-21T21:25:15Z",
                 "premium": false,
                 "freemium": false
             },
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-higher-tuesday-155529190.html",
                 "publishDate": "2026-07-21T15:55:29Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Top Midday Stories: 3M Shares Rise on Strong Guidance; Novo Nordisk Sues Eli Lilly Over GLP-1 Advertising",
-                "summary": "All three major US stock indexes were up in late-morning trading Tuesday, as investors focused on so",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-3m-shares-154908428.html",
-                "publishDate": "2026-07-21T15:49:08Z",
                 "premium": true,
                 "freemium": false
             }
