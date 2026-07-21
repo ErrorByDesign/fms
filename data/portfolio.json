@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.38,
+        "price": 49.355,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.46361527,
-            "marketCap": 218448756736,
+            "change": -0.51401144,
+            "marketCap": 218338148352,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.41914
+            "yearTarget": 47.426594
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -38,6 +38,46 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/video/weight-loss-wars-why-novo-nordisk-is-suing-eli-lilly-140102099.html",
                 "publishDate": "2026-07-21T14:01:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "European Stocks Close Higher in Tuesday Trading; Investors Await ECB Rate Decision",
+                "summary": "The European markets closed higher Tuesday as tech, bank, and mining stocks rallied, while investors",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-higher-tuesday-155529190.html",
+                "publishDate": "2026-07-21T15:55:29Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Top Midday Stories: 3M Shares Rise on Strong Guidance; Novo Nordisk Sues Eli Lilly Over GLP-1 Advertising",
+                "summary": "All three major US stock indexes were up in late-morning trading Tuesday, as investors focused on so",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/top-midday-stories-3m-shares-154908428.html",
+                "publishDate": "2026-07-21T15:49:08Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Pharma heavyweights clash over anti-obesity drug ads",
+                "summary": "Danish pharmaceuticals heavyweight Novo Nordisk said Tuesday it is suing arch US rival\u00a0Eli Lilly over \"false and materially misleading\" adverts for its competing weight-loss and anti-diabetes treatments.\u00a0Novo Nordisk has developed a molecule called semaglutide, while Eli Lilly developed rival molecule tirzepatide.\u00a0",
+                "source": "AFP",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/pharma-heavyweights-clash-over-anti-125954178.html",
+                "publishDate": "2026-07-21T15:45:02Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Agios Pharma, A Novo Rival, Just Pulled A Bearish Move",
+                "summary": "Agios Pharmaceuticals dropped its next-generation sickle cell drug Tuesday after a failed Phase 2 study. Agios stock tumbled.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/agios-stock-sickle-cell-disease-next-generation-pk-activator/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-07-21T15:40:44Z",
                 "premium": false,
                 "freemium": false
             },
@@ -72,62 +112,22 @@
                 "freemium": false
             },
             {
+                "title": "The world is desperate for weight-loss drugs. But Big Pharma can\u2019t advertise them globally",
+                "summary": "The temperature was 92 degrees Fahrenheit. The sweat, profuse. And I was walking toward an exhibition about the \u201cobesity experience\u201d on London\u2019s bustling riverside funded by a $220 billion pharmaceutical company.",
+                "source": "CNN Business",
+                "category": "finance",
+                "url": "https://www.cnn.com/2026/07/21/business/glp1-weight-loss-drug-advertising",
+                "publishDate": "2026-07-21T15:14:45Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Novo Sues Rival Lilly Over Alleged False Advertising in Weight-Loss Ads",
                 "summary": "The maker of Ozempic and Wegovy says its competitor is misleading consumers by citing outdated weight-loss data in advertisements.",
                 "source": "The Wall Street Journal",
                 "category": "finance",
                 "url": "https://www.wsj.com/health/pharma/novo-nordisk-files-deceptive-advertising-lawsuit-against-rival-eli-lilly-2579eb2b",
                 "publishDate": "2026-07-21T14:46:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk sues Eli Lilly, accusing it of false advertising",
-                "summary": "The lawsuit alleges that Eli Lilly misled consumers by using outdated clinical trial data to make its drugs appear more effective than Novo's.",
-                "source": "CBS News",
-                "category": "finance",
-                "url": "https://www.cbsnews.com/news/novo-nordisk-eli-lilly-false-advertising-lawsuit/",
-                "publishDate": "2026-07-21T14:35:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Sues Eli Lilly Over Weight-Loss Drug Advertising",
-                "summary": "Novo Nordisk alleges Eli Lilly falsely advertised Zepbound and Mounjaro by claiming the drugs outperform Wegovy and Ozempic.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/novo-nordisk-sues-eli-lilly-weight-loss-drug-advertising-26cc93a4?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-21T14:29:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "GLP-1 Titans Clash: Comparing Eli Lilly and Novo Nordisk",
-                "summary": "LLY's leadership in obesity drugs, expanding pipeline and stronger growth outlook set it apart as investors weigh it against NVO in 2026.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/glp-1-titans-clash-comparing-141700779.html",
-                "publishDate": "2026-07-21T14:17:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk sues Eli Lilly over GLP-1 advertising claims in escalating legal battle (NVO, LLY)",
-                "summary": "Drugmakers clash over marketing of blockbuster obesity and diabetes treatmentsNovo Nordisk Inc. (NYSE:NVO) has filed a lawsuit against Eli Lilly and Company (NYSE:LLY) and Lilly USA, LLC, accusing its rival of false advertising and unfair competition in a dispute over marketing claims for their leading GLP-1 medicines.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/32329/novo-nordisk-sues-eli-lilly-over-glp-1-advertising-claims-in-escalating-legal-battle-nvo-lly",
-                "publishDate": "2026-07-21T13:50:47Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why Agios Pharma, A Novo Rival, Just Pulled A Bearish Move",
-                "summary": "Agios Pharmaceuticals dropped its next-generation sickle cell drug Tuesday after a failed Phase 2 study. Agios stock tumbled.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/agios-stock-sickle-cell-disease-next-generation-pk-activator/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-07-21T13:50:30Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.865,
+        "price": 34.96,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.393546,
-            "marketCap": 25077362688,
+            "change": 2.67254,
+            "marketCap": 25145692160,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.45,
+        "price": 26.56,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.5888286,
-            "marketCap": 5488139264,
+            "change": 6.0279455,
+            "marketCap": 5510962688,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
