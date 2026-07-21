@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.335,
+        "price": 49.355,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.5543268,
-            "marketCap": 218249674752,
+            "change": -0.51401144,
+            "marketCap": 218338148352,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.399754
+            "yearTarget": 47.40142
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -42,6 +42,16 @@
                 "freemium": false
             },
             {
+                "title": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle",
+                "summary": "<body><p>STORY: :: Novo Nordisk claims misleading ads in Eli Lilly weight-loss drug lawsuit</p><p>:: July 21, 2026</p><p>:: Maggie Fick, European Pharma Industry Correspondent</p><p>\"Novo Nordisk sued rival Eli Lilly in a U.S. federal court on Tuesday, accusing the U.S. drugmaker of false advertising and claiming its weight-loss medicines outperform Novo's drugs.\" //</p><p>\"Novo is alleging in its suit that Lilly's advertisements compare weight-loss results of about 50 pounds for its drug Zepbound with about 33 pounds for Wegovy, even though no head-to-head clinical trial has compared the highest approved doses of the medicines.\"</p><p>\"Pharmaceutical companies regularly sue each other over claims related to patent infringement, for example, but false advertising suits, such as the one filed today, are less common.\"</p><p>\"Novo Nordisk was first to market with its weight-loss injection Wegovy several years ago, but it later lost the lead to Eli Lilly, after that company launched a rival injection called Zepbound in the United States. Last year, Novo replaced its CEO and was forced to issue multiple profit warnings as it fell further behind Eli Lilly in this really competitive and booming obesity drug market, which analysts expect to be worth more than $100 billion by 2030. This year, Novo has actually sort of landed a counterpunch with its oral Wegovy pill. It was able to launch that drug ahead of Eli Lilly. Lilly has, in April, launched its own pill, a weight-loss pill. But Novo has managed to keep up strong sales even since the launch of Lilly's pill.\"</p><p>\"Both companies report quarterly results in the next couple of weeks.\"</p><p>:: Novo Nordisk</p><p>:: Eli Lilly</p><p>The Danish company filed the lawsuit in U.S. District Court \u200cin New Jersey, alleging Lilly violated federal and state false advertising and unfair competition laws, including the Lanham Act, through nationwide advertising campaigns for obesity drug Zepbound and diabetes treatment Mounjaro.</p><p>Novo alleges Lilly compared the highest approved doses of its medicines with lower doses of Novo's Wegovy and Ozempic while omitting newer, higher-dose versions that Novo says deliver greater weight loss.</p><p>But Indianapolis-based Eli Lilly said it stands firmly behind its ads, which are based on the results of its SURMOUNT-5 trial. That \u2060trial \u2014 completed in 2024 \u2014 compared patients on 10 mg or 15 mg of Lilly's Zepbound to patients on 1.7 mg or 2.4 mg doses of Wegovy. The FDA approved \u200ba 7.2 mg dose of Wegovy in March of this year.</p></body>",
+                "source": "Reuters Videos",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/video/novo-sues-lilly-claiming-misleading-185650805.html",
+                "publishDate": "2026-07-21T18:56:50Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Sector Update: Healthcare Stocks Advance Tuesday Afternoon",
                 "summary": "Healthcare stocks were higher Tuesday afternoon, with the NYSE Healthcare Index rising 0.4% and the",
                 "source": "MT Newswires",
@@ -49,16 +59,6 @@
                 "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-tuesday-172939097.html",
                 "publishDate": "2026-07-21T17:29:39Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle",
-                "summary": "By Maggie Fick and Michael Erman LONDON, July 21 (Reuters) - Novo Nordisk sued rival Eli Lilly in a U.S. federal court on Tuesday, accusing the U.S. drugmaker of false advertising in claiming its",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-says-suing-eli-114051041.html",
-                "publishDate": "2026-07-21T17:25:14Z",
-                "premium": false,
                 "freemium": false
             },
             {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.035,
+        "price": 35.12,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8928065,
-            "marketCap": 25199638528,
+            "change": 3.1424367,
+            "marketCap": 25260775424,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.805,
+        "price": 26.795,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 7.0059924,
-            "marketCap": 5561798144,
+            "change": 6.9660716,
+            "marketCap": 5559723520,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
