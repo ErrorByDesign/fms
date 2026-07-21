@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.3127,
+        "price": 49.355,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.59927887,
-            "marketCap": 218151026688,
+            "change": -0.51401144,
+            "marketCap": 218338148352,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.43079
+            "yearTarget": 47.42341
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -42,6 +42,26 @@
                 "freemium": false
             },
             {
+                "title": "Sector Update: Healthcare Stocks Advance Tuesday Afternoon",
+                "summary": "Healthcare stocks were higher Tuesday afternoon, with the NYSE Healthcare Index rising 0.4% and the",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-tuesday-172939097.html",
+                "publishDate": "2026-07-21T17:29:39Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle",
+                "summary": "By Maggie Fick and Michael Erman LONDON, July 21 (Reuters) - Novo Nordisk sued rival Eli Lilly in a U.S. federal court on Tuesday, accusing the U.S. drugmaker of false advertising in claiming its",
+                "source": "Reuters",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-says-suing-eli-114051041.html",
+                "publishDate": "2026-07-21T17:25:14Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Novo Nordisk Sues Eli Lilly Over Alleged 'Misleading' Ad Campaigns",
                 "summary": "Novo Nordisk (NVO) on Tuesday sued rival Eli Lilly (LLY) in the US over alleged \"misleading\" adverti",
                 "source": "MT Newswires",
@@ -49,6 +69,16 @@
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-sues-eli-lilly-164116869.html",
                 "publishDate": "2026-07-21T16:41:16Z",
                 "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "The world is desperate for weight-loss drugs. But Big Pharma can\u2019t advertise them globally",
+                "summary": "The temperature was 92 degrees Fahrenheit. The sweat, profuse. And I was walking toward an exhibition about the \u201cobesity experience\u201d on London\u2019s bustling riverside funded by a $220 billion pharmaceutical company.",
+                "source": "CNN Business",
+                "category": "finance",
+                "url": "https://www.cnn.com/2026/07/21/business/glp1-weight-loss-drug-advertising",
+                "publishDate": "2026-07-21T16:37:49Z",
+                "premium": false,
                 "freemium": false
             },
             {
@@ -100,36 +130,6 @@
                 "publishDate": "2026-07-21T15:45:02Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Why Agios Pharma, A Novo Rival, Just Pulled A Bearish Move",
-                "summary": "Agios Pharmaceuticals dropped its next-generation sickle cell drug Tuesday after a failed Phase 2 study. Agios stock tumbled.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/agios-stock-sickle-cell-disease-next-generation-pk-activator/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-07-21T15:40:44Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Sues Lilly Over Weight-Loss Ad Claims",
-                "summary": "The Danish drugmaker alleges Lilly used outdated trial data to claim Zepbound beats Wegovy on weight loss",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-sues-lilly-over-weight-153356202.html",
-                "publishDate": "2026-07-21T15:33:56Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo sues Lilly, claiming misleading ads in weight-loss drug battle",
-                "summary": "By Maggie Fick and Michael Erman LONDON, July 21 (Reuters) - Novo Nordisk sued rival Eli Lilly in a U.S. federal court on Tuesday, accusing the U.S. drugmaker of false advertising in claiming its",
-                "source": "Reuters",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-says-suing-eli-114051041.html",
-                "publishDate": "2026-07-21T15:20:02Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.77,
+        "price": 1.7558,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.3121364,
-            "marketCap": 166208816,
+            "change": 1.4913288,
+            "marketCap": 164875392,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.03,
+        "price": 35.135,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.8781192,
-            "marketCap": 25196042240,
+            "change": 3.186488,
+            "marketCap": 25271564288,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.725,
+        "price": 26.69,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 6.6866317,
-            "marketCap": 5545199104,
+            "change": 6.5469112,
+            "marketCap": 5537936896,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
