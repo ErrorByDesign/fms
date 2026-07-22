@@ -4,7 +4,7 @@
         "default": true,
         "price": 49.38,
         "COMPANY": {
-            "name": "Novo Nordisk A/S",
+            "name": "longName",
             "ticker": "NVO",
             "exchange": "NYSE",
             "sector": "Healthcare",
@@ -17,10 +17,10 @@
         },
         "FINANCIALS": {
             "change": -0.463615,
-            "marketCap": 218448756736,
+            "marketCap": 218400620544,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.402214
+            "yearTarget": 47.422688
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -42,11 +42,41 @@
                 "freemium": false
             },
             {
+                "title": "Is Eli Lilly (LLY) Undervalued After Novo Nordisk\u2019s GLP 1 Advertising Lawsuit?",
+                "summary": "Novo Nordisk\u2019s lawsuit against Eli Lilly (LLY) over alleged misleading GLP-1 advertising has put fresh attention on Lilly\u2019s stock and raised questions about how core obesity and diabetes franchises are being marketed. See our latest analysis for Eli Lilly. Against this legal backdrop, Eli Lilly\u2019s 1-day share price return of 2.49% and 30-day share price return of 6.99% sit within a broader upswing, with a 52.46% 1-year total shareholder return and a very large 5-year total shareholder return...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-undervalued-novo-231416764.html",
+                "publishDate": "2026-07-21T23:14:16Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Stock Looks Reasonable On Earnings While Returns Stay Weak",
+                "summary": "Novo Nordisk stock has had a tough stretch over the past few years, yet current valuation checks suggest the market may now be pricing it more cautiously than the fundamentals imply. Over the past 3 years, Novo Nordisk has delivered a total shareholder return that is down 35.8%, which puts the recent share price in the context of a material drawdown for long term holders. Expectations around the obesity and diabetes franchise, including products such as Wegovy, sit alongside legal and...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-221552552.html",
+                "publishDate": "2026-07-21T22:15:52Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "\"Deceptive Advertising!\" Claims Novo Nordisk in Explosive New GLP-1 Lawsuit Against Eli Lilly. Here's What That Means for Both Stocks.",
+                "summary": "Novo Nordisk is also demanding that Eli Lilly pull its ads and pay damages.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/21/novo-nordisk-vs-eli-lilly-just-moved-from-the-pharmacy-counter-to-federal-court-heres-what-that-means-for-both-stocks/",
+                "publishDate": "2026-07-21T21:54:01Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "Novo accuses rival Eli Lilly of \"deceptive\" weight-loss drug ads",
                 "summary": "The weight-loss drug wars reached a new level of intensity Tuesday as Novo Nordisk sued Eli Lilly , accusing its arch-rival of misleading advertising.",
-                "source": "Axios Media",
+                "source": "Axios",
                 "category": "finance",
-                "url": "https://www.axios.com/2026/07/21/novo-nordisk-eli-lilly-lawsuit#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-media",
+                "url": "https://www.axios.com/2026/07/21/novo-nordisk-eli-lilly-lawsuit#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI",
                 "publishDate": "2026-07-21T21:25:15Z",
                 "premium": false,
                 "freemium": false
@@ -99,36 +129,6 @@
                 "url": "https://www.cnn.com/2026/07/21/business/glp1-weight-loss-drug-advertising",
                 "publishDate": "2026-07-21T16:37:49Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo sues Lilly after alleged misleading and false advertising campaign",
-                "summary": "In a lawsuit filed in the US, Novo alleged that Lilly\u2019s campaign was designed to mislead consumers on \u201ccomparative efficacy\u201d of drug brands.",
-                "source": "Pharmaceutical Technology",
-                "category": "finance",
-                "url": "https://www.pharmaceutical-technology.com/news/novo-sues-lilly-after-alleged-misleading-and-false-advertising-campaign/",
-                "publishDate": "2026-07-21T16:22:34Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Update: Novo Nordisk Sues Eli Lilly Over Zepbound, Mounjaro Advertising",
-                "summary": "(Updates with Eli Lilly's response in the fifth and sixth paragraphs.) Novo Nordisk (NVO) said Tu",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-sues-eli-lilly-161650174.html",
-                "publishDate": "2026-07-21T16:16:50Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "European Stocks Close Higher in Tuesday Trading; Investors Await ECB Rate Decision",
-                "summary": "The European markets closed higher Tuesday as tech, bank, and mining stocks rallied, while investors",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-higher-tuesday-155529190.html",
-                "publishDate": "2026-07-21T15:55:29Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -584,7 +584,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.622754,
+            "change": 8.62275,
             "marketCap": 5645831680,
             "weekLow": 11.87,
             "weekHigh": 36.52,
