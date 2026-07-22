@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.615,
+        "price": 48.745,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.5492089,
-            "marketCap": 215017144320,
+            "change": -1.2859501,
+            "marketCap": 215592091648,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.436005
+            "yearTarget": 47.43586
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -312,6 +312,16 @@
         },
         "NEWS": [
             {
+                "title": "What History Says About Stocks That Join the Nasdaq-100 and What It Means for SpaceX",
+                "summary": "The years ahead will be more important for SpaceX than how it fares in its first few months as a part of the tech-heavy Nasdaq-100 index.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/22/what-history-says-about-stocks-that-join-the-nasda/",
+                "publishDate": "2026-07-22T15:30:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "SpaceX Extends Post-Debut Slide",
                 "summary": "The stock has declined in 10 of its last 11 trading sessions.",
                 "source": "GuruFocus.com",
@@ -400,16 +410,6 @@
                 "publishDate": "2026-06-11T15:37:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
-                "summary": "Tesla (NASDAQ:TSLA) sits in an awkward place. Q1 2026 showed automotive gross margin rebounding to 21.1% from 16.2% a year earlier, FSD subscriptions hit 1.28 million (+51% YoY), and free cash flow more than doubled to $1.444 billion. Yet shares closed at $418.45, down 6.95% YTD. Can Tesla reach $500 this cycle? What\u2019s Holding Tesla ... Prediction: Tesla Stock Will Hit $500 on This Date",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/06/05/prediction-tesla-stock-will-hit-500-on-this-date/",
-                "publishDate": "2026-06-10T16:09:43Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.68,
+        "price": 34.775,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.80091184,
-            "marketCap": 24944297984,
+            "change": -0.52916926,
+            "marketCap": 25012629504,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.525,
+        "price": 28.61,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.8327847,
-            "marketCap": 5918682624,
+            "change": 5.145173,
+            "marketCap": 5936319488,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
