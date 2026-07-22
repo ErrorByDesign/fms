@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.615,
+        "price": 48.565,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.5492089,
-            "marketCap": 215017144320,
+            "change": -1.6504707,
+            "marketCap": 214795976704,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.426888
+            "yearTarget": 47.426014
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "The Obesity Drug War Turns Ugly: Novo Nordisk Sues Eli Lilly and Wall Street Already Picked a Side",
+                "summary": "Novo Nordisk just sued Eli Lilly over weight-loss drug ads, but the moment the lawsuit hit, investors moved in exactly the wrong direction for Novo. Here is what the stock reaction reveals about who is actually winning this war.",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/07/22/the-obesity-drug-war-turns-ugly-novo-nordisk-sues-eli-lilly-and-wall-street-already-picked-a-side/",
+                "publishDate": "2026-07-22T16:25:21Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "NVO Challenges LLY Ads in GLP-1 Battle: Why the Lawsuit Matters Now",
                 "summary": "Novo Nordisk sues LLY over high-profile ads promoting Zepbound and Mounjaro, arguing newer clinical data changes the comparison as the GLP-1 rivalry intensifies.",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-tuesday-172939097.html",
                 "publishDate": "2026-07-21T17:29:39Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Sues Eli Lilly Over Alleged 'Misleading' Ad Campaigns",
-                "summary": "Novo Nordisk (NVO) on Tuesday sued rival Eli Lilly (LLY) in the US over alleged \"misleading\" adverti",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-sues-eli-lilly-164116869.html",
-                "publishDate": "2026-07-21T16:41:16Z",
                 "premium": true,
                 "freemium": false
             }
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.33,
+        "price": 28.12,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 4.116137,
-            "marketCap": 5878221824,
+            "change": 3.3443654,
+            "marketCap": 5834649088,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
