@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.285,
+        "price": 48.175,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.2174995,
-            "marketCap": 213557592064,
+            "change": -2.4402628,
+            "marketCap": 213071069184,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.443302
+            "yearTarget": 47.44077
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -58,6 +58,16 @@
                 "category": "finance",
                 "url": "https://247wallst.com/investing/2026/07/22/if-you-own-too-much-tech-youre-going-to-be-slaughtered-cramer-urges-investors-to-take-profits/",
                 "publishDate": "2026-07-22T10:22:12Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Takes Rival Eli Lilly to Court Over Weight-Loss Ad Claims",
+                "summary": "The Danish pharma giant alleged Lilly misled consumers with false advertising claims that its weight loss drug is superior to Novo\u2019s.",
+                "source": "The Daily Upside",
+                "category": "finance",
+                "url": "https://www.thedailyupside.com/industries/healthcare/novo-nordisk-takes-weight-loss-rival-eli-lilly-to-court-over-false-advertising-claims/",
+                "publishDate": "2026-07-22T04:01:00Z",
                 "premium": false,
                 "freemium": false
             },
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/video/novo-sues-lilly-claiming-misleading-185650805.html",
                 "publishDate": "2026-07-21T18:56:50Z",
                 "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Advance Tuesday Afternoon",
-                "summary": "Healthcare stocks were higher Tuesday afternoon, with the NYSE Healthcare Index rising 0.4% and the",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-advance-tuesday-172939097.html",
-                "publishDate": "2026-07-21T17:29:39Z",
-                "premium": true,
                 "freemium": false
             }
         ],
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.86,
+        "price": 34.83,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.28603682,
-            "marketCap": 25073766400,
+            "change": -0.3718457,
+            "marketCap": 25052188672,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.1,
+        "price": 27.975,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.2708611,
-            "marketCap": 5830499328,
+            "change": 2.8114712,
+            "marketCap": 5804562944,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
