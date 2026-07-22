@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.38,
+        "price": 48.615,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.463615,
-            "marketCap": 218400620544,
+            "change": -1.5492089,
+            "marketCap": 215017144320,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.424423
+            "yearTarget": 47.436005
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,12 +32,12 @@
         },
         "NEWS": [
             {
-                "title": "Weight-loss wars: Why Novo Nordisk is suing Eli Lilly",
-                "summary": "Novo Nordisk (NVO) is suing Eli Lilly (LLY) for misleading advertising. Morning Brief host Julie Hyman discusses the details with Yahoo Finance Breaking Business News Reporter Jake Conley and Payne Capital Management president Ryan Payne.",
-                "source": "Yahoo Finance Video",
+                "title": "\u201cIf You Own Too Much Tech, You\u2019re Going To Be Slaughtered.\u201d Cramer Urges Investors To Take Profits",
+                "summary": "Jim Cramer is sounding the alarm for investors still riding the AI wave, and his warning carries a specific body count. Here is where he says the smart money is quietly moving before the damage hits.",
+                "source": "24/7 Wall St.",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/video/weight-loss-wars-why-novo-nordisk-is-suing-eli-lilly-140102099.html",
-                "publishDate": "2026-07-21T14:01:02Z",
+                "url": "https://247wallst.com/investing/2026/07/22/if-you-own-too-much-tech-youre-going-to-be-slaughtered-cramer-urges-investors-to-take-profits/",
+                "publishDate": "2026-07-22T10:22:12Z",
                 "premium": false,
                 "freemium": false
             },
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.0231194,
+            "change": 0.0,
             "marketCap": 165739296,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -372,16 +372,6 @@
                 "freemium": false
             },
             {
-                "title": "AbbVie's Deal with Apogee; Regenxbio Moves on Gene Therapy Drug | Stock Movers",
-                "summary": "On this episode of Stock Movers with Nathan Hager: - Apogee (APGE) shares are soaring on news AbbVie is closing in on a nearly $11 billion deal to buy inflammatory disease drug developer Apogee Therapeutics. That's also according to a Financial Times report. - Regenxbio (RGNX) shares are moving on news Regenxbio aligned with the FDA on next steps for a potential accelerated approval of Navsunli, a gene therapy for Mucopolysaccharidosis II, with the FDA confirming the company doesn't need to conduct additional studies of the drug. - SpaceX (SPCX) is lower this morning, continuing its slide after its record IPO.",
-                "source": "Bloomberg",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/video/abbvies-deal-apogee-regenxbio-moves-151250586.html",
-                "publishDate": "2026-06-22T15:12:50Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
                 "title": "Top Midday Stories: SpaceX Shares Indicated to Open 29% Above IPO Price at $174 Each; Adobe CFO Leaves Company",
                 "summary": "All three major US stock indexes were up in late-morning trading Friday, as investors prepare for Sp",
                 "source": "MT Newswires",
@@ -410,6 +400,16 @@
                 "publishDate": "2026-06-11T15:37:00Z",
                 "premium": false,
                 "freemium": false
+            },
+            {
+                "title": "Prediction: Tesla Stock Will Hit $500 on This Date",
+                "summary": "Tesla (NASDAQ:TSLA) sits in an awkward place. Q1 2026 showed automotive gross margin rebounding to 21.1% from 16.2% a year earlier, FSD subscriptions hit 1.28 million (+51% YoY), and free cash flow more than doubled to $1.444 billion. Yet shares closed at $418.45, down 6.95% YTD. Can Tesla reach $500 this cycle? What\u2019s Holding Tesla ... Prediction: Tesla Stock Will Hit $500 on This Date",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/06/05/prediction-tesla-stock-will-hit-500-on-this-date/",
+                "publishDate": "2026-06-10T16:09:43Z",
+                "premium": false,
+                "freemium": false
             }
         ],
         "RATINGS": {
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.96,
+        "price": 34.68,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 2.67254,
-            "marketCap": 25145692160,
+            "change": -0.80091184,
+            "marketCap": 24944297984,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.21,
+        "price": 28.525,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 8.62275,
-            "marketCap": 5645831680,
+            "change": 4.8327847,
+            "marketCap": 5918682624,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
