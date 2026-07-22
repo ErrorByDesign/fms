@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.745,
+        "price": 48.615,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.2859501,
-            "marketCap": 215592091648,
+            "change": -1.5492089,
+            "marketCap": 215017144320,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.43586
+            "yearTarget": 47.426888
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "NVO Challenges LLY Ads in GLP-1 Battle: Why the Lawsuit Matters Now",
+                "summary": "Novo Nordisk sues LLY over high-profile ads promoting Zepbound and Mounjaro, arguing newer clinical data changes the comparison as the GLP-1 rivalry intensifies.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/nvo-challenges-lly-ads-glp-144200120.html",
+                "publishDate": "2026-07-22T14:42:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "\u201cIf You Own Too Much Tech, You\u2019re Going To Be Slaughtered.\u201d Cramer Urges Investors To Take Profits",
                 "summary": "Jim Cramer is sounding the alarm for investors still riding the AI wave, and his warning carries a specific body count. Here is where he says the smart money is quietly moving before the damage hits.",
@@ -119,16 +129,6 @@
                 "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-sues-eli-lilly-164116869.html",
                 "publishDate": "2026-07-21T16:41:16Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "The world is desperate for weight-loss drugs. But Big Pharma can\u2019t advertise them globally",
-                "summary": "The temperature was 92 degrees Fahrenheit. The sweat, profuse. And I was walking toward an exhibition about the \u201cobesity experience\u201d on London\u2019s bustling riverside funded by a $220 billion pharmaceutical company.",
-                "source": "CNN Business",
-                "category": "finance",
-                "url": "https://www.cnn.com/2026/07/21/business/glp1-weight-loss-drug-advertising",
-                "publishDate": "2026-07-21T16:37:49Z",
-                "premium": false,
                 "freemium": false
             }
         ],
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.775,
+        "price": 34.73,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.52916926,
-            "marketCap": 25012629504,
+            "change": -0.6578934,
+            "marketCap": 24980260864,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.61,
+        "price": 28.33,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 5.145173,
-            "marketCap": 5936319488,
+            "change": 4.116137,
+            "marketCap": 5878221824,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
