@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.4098876,
+            "change": -2.40989,
             "marketCap": 213137408000,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.454964
+            "yearTarget": 47.454746
         },
         "FUNDING": {
             "fundingToDate": null,
