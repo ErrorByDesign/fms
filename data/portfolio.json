@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.19,
+        "price": 48.45,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -2.40989,
-            "marketCap": 213137408000,
+            "change": 0.53953546,
+            "marketCap": 214287368192,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.53014
+            "yearTarget": 47.29769
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Eli Lilly Moves Closer To Another Weight-Loss Drug: Retatrutide Clears Two More Phase 3 Trials Ahead Of FDA Filing",
+                "summary": "Retatrutide, a once-weekly triple hormone receptor agonist targeting GIP, GLP-1, and glucagon receptors, met the primary endpoint in both the Triumph-2 and Triumph-3 Phase 3 studies.",
+                "source": "Stocktwits",
+                "category": "finance",
+                "url": "https://stocktwits.com/news-articles/markets/equity/eli-lilly-moves-closer-to-another-weight-loss-drug-retatrutide-clears-two-more-phase-3-trials-ahead-of-fda-filing/cZZnFXJR7xA",
+                "publishDate": "2026-07-23T12:23:15Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Here's Why Novo Nordisk (NVO) Fell More Than Broader Market",
                 "summary": "Novo Nordisk (NVO) closed the most recent trading day at $48.19, moving 2.41% from the previous trading session.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-21T21:25:15Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Sector Update: Healthcare Stocks Rise Late Afternoon",
-                "summary": "Healthcare stocks advanced late Tuesday afternoon with the NYSE Healthcare Index rising 0.6% and the",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-rise-afternoon-194059672.html",
-                "publishDate": "2026-07-21T19:40:59Z",
-                "premium": true,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.775,
+        "price": 1.79,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.5665717,
-            "marketCap": 166678336,
+            "change": 0.84506965,
+            "marketCap": 168086880,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 34.91,
+        "price": 35.44,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.143018,
-            "marketCap": 25109729280,
+            "change": 1.5181861,
+            "marketCap": 25490941952,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 28.08,
+        "price": 26.85,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 3.19736,
-            "marketCap": 5826349056,
+            "change": -4.38034,
+            "marketCap": 5571135488,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
@@ -599,6 +599,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Is CDE Stock A Bargain Or A Trap? Mostly A Bargain",
+                "summary": "After a steep sell-off, this North American miner\u2019s rock-solid fundamentals are at odds with its discounted stock price, forcing investors to decide if the market is offering a gift or sounding an alarm.",
+                "source": "Trefis",
+                "category": "finance",
+                "url": "https://www.trefis.com/articles/608552/is-cde-stock-a-bargain-or-a-trap-mostly-a-bargain/2026-07-23",
+                "publishDate": "2026-07-23T12:20:58Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "SSR Mining Converts Hod Maden Stake Into a Royalty",
                 "summary": "The miner converted its 20% Hod Maden stake into a 4% royalty",
@@ -686,16 +696,6 @@
                 "category": "finance",
                 "url": "https://financialpost.com/investing/tsx-stock-analyst-pricing-56-upside-buybacks",
                 "publishDate": "2026-06-19T21:05:37Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Why SSR Mining Stock Surged Again Today",
-                "summary": "The gold stock has been on fire for one week: what's happening?",
-                "source": "Motley Fool",
-                "category": "finance",
-                "url": "https://www.fool.com/investing/2026/06/17/why-ssr-mining-stock-surged-again-today/",
-                "publishDate": "2026-06-17T19:46:41Z",
                 "premium": false,
                 "freemium": false
             }
