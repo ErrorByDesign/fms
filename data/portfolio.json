@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.28,
+        "price": 48.18,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.18676107,
-            "marketCap": 213535473664,
+            "change": -0.02074771,
+            "marketCap": 213093187584,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.305756
+            "yearTarget": 47.316338
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Established Firm Harding Loevner Enters ETF Market With LOEV for International Investors",
+                "summary": "A 35-year-old institutional powerhouse just made its first move into the ETF market, betting that quality stock picking in developed markets abroad can justify a fee 23 times higher than its cheapest rival.",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/etf/2026/07/23/established-firm-harding-loevner-enters-etf-market-with-loev-for-international-investors/",
+                "publishDate": "2026-07-23T19:41:11Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Roche H1 Sales Decline on Currency Headwinds, Key Drugs Keep Momentum",
                 "summary": "RHHBY posts 6% constant-currency sales growth in the first half of 2026 as strong demand for key drugs offsets legacy declines, while FDA pipeline progress supports momentum.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-22T14:42:00Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "\u201cIf You Own Too Much Tech, You\u2019re Going To Be Slaughtered.\u201d Cramer Urges Investors To Take Profits",
-                "summary": "Jim Cramer is sounding the alarm for investors still riding the AI wave, and his warning carries a specific body count. Here is where he says the smart money is quietly moving before the damage hits.",
-                "source": "24/7 Wall St.",
-                "category": "finance",
-                "url": "https://247wallst.com/investing/2026/07/22/if-you-own-too-much-tech-youre-going-to-be-slaughtered-cramer-urges-investors-to-take-profits/",
-                "publishDate": "2026-07-22T10:22:12Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.74,
+        "price": 1.76,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9666218,
-            "marketCap": 163391728,
+            "change": -0.84506965,
+            "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.185,
+        "price": 35.1,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.7877443,
-            "marketCap": 25307529216,
+            "change": 0.5442527,
+            "marketCap": 25246390272,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.14,
+        "price": 27.2,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.3475802,
-            "marketCap": 5631307776,
+            "change": -3.1339002,
+            "marketCap": 5643757568,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
