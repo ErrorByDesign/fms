@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.02074771,
+            "change": -0.0207477,
             "marketCap": 213093187584,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.316338
+            "yearTarget": 47.31958
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "There's A Hidden Gem In Eli Lilly's Weight-Loss News \u2014 And It Could Slam Compounders",
+                "summary": "Eli Lilly said Thursday it will delay filing for FDA approval of its next-gen weight-loss drug, retatrutide, until the first quarter.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/eli-lilly-retatrutide-delay-biologic-compounders/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-07-23T20:19:28Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Established Firm Harding Loevner Enters ETF Market With LOEV for International Investors",
                 "summary": "A 35-year-old institutional powerhouse just made its first move into the ETF market, betting that quality stock picking in developed markets abroad can justify a fee 23 times higher than its cheapest rival.",
@@ -48,16 +58,6 @@
                 "category": "finance",
                 "url": "https://finance.yahoo.com/healthcare/articles/roche-h1-sales-decline-currency-181800202.html",
                 "publishDate": "2026-07-23T18:18:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "There's A Hidden Gem In Eli Lilly's Weight-Loss News \u2014 And It Could Slam Compounders",
-                "summary": "Eli Lilly said Thursday it will delay filing for FDA approval of its next-gen weight-loss drug, retatrutide, until the first quarter.",
-                "source": "Investor's Business Daily",
-                "category": "finance",
-                "url": "https://www.investors.com/news/technology/eli-lilly-retatrutide-delay-biologic-compounders/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-07-23T17:38:21Z",
                 "premium": false,
                 "freemium": false
             },
