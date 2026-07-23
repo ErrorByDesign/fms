@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.515,
+        "price": 48.595,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6744854,
-            "marketCap": 214574841856,
+            "change": 0.8404287,
+            "marketCap": 214928670720,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.314392
+            "yearTarget": 47.31065
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Lilly Targets Early 2027 Filing for Next Obesity Drug",
+                "summary": "Two more Phase 3 trials showed weight loss above 20%",
+                "source": "GuruFocus.com",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/lilly-targets-early-2027-filing-171321247.html",
+                "publishDate": "2026-07-23T17:13:21Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "How Novo Nordisk\u2019s GLP-1 Advertising Lawsuit Against Eli Lilly (LLY) Has Changed Its Investment Story",
                 "summary": "In recent days, Novo Nordisk filed a federal lawsuit against Eli Lilly, alleging that Lilly\u2019s nationwide advertising for obesity and diabetes drugs like Zepbound and Mounjaro used outdated clinical data and unfair dose comparisons to claim superiority over Novo\u2019s Wegovy and Ozempic. The case raises legal and regulatory questions around drug marketing practices in the high-stakes GLP-1 market, where only a few companies currently compete at scale. Beyond the courtroom, this dispute highlights...",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-21T23:14:16Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk (CPSE:NOVO B) Stock Looks Reasonable On Earnings While Returns Stay Weak",
-                "summary": "Novo Nordisk stock has had a tough stretch over the past few years, yet current valuation checks suggest the market may now be pricing it more cautiously than the fundamentals imply. Over the past 3 years, Novo Nordisk has delivered a total shareholder return that is down 35.8%, which puts the recent share price in the context of a material drawdown for long term holders. Expectations around the obesity and diabetes franchise, including products such as Wegovy, sit alongside legal and...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/novo-nordisk-cpse-novo-b-221552552.html",
-                "publishDate": "2026-07-21T22:15:52Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.74,
+        "price": 1.86,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -1.9718292,
-            "marketCap": 163391728,
+            "change": 5.135954,
+            "marketCap": 174660112,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.43,
+        "price": 35.42,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4895458,
-            "marketCap": 25483751424,
+            "change": 1.4608947,
+            "marketCap": 25476556800,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.09,
+        "price": 27.19,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.5256402,
-            "marketCap": 5620933120,
+            "change": -3.1695135,
+            "marketCap": 5641682432,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
