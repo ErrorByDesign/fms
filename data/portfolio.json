@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.655,
+        "price": 48.545,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.96499085,
-            "marketCap": 215194042368,
+            "change": 0.73666644,
+            "marketCap": 214707519488,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.296974
+            "yearTarget": 47.30043
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "There's A Hidden Gem In Eli Lilly's Weight-Loss News \u2014 And It Could Slam Compounders",
+                "summary": "Eli Lilly said Thursday it will delay filing for FDA approval of its next-gen weight-loss drug, retatrutide, until the first quarter.",
+                "source": "Investor's Business Daily",
+                "category": "finance",
+                "url": "https://www.investors.com/news/technology/eli-lilly-retatrutide-delay-biologic-compounders/?src=A00220&yptr=yahoo",
+                "publishDate": "2026-07-23T17:38:21Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "Lilly Targets Early 2027 Filing for Next Obesity Drug",
                 "summary": "Two more Phase 3 trials showed weight loss above 20%",
@@ -118,16 +128,6 @@
                 "category": "finance",
                 "url": "https://www.thedailyupside.com/industries/healthcare/novo-nordisk-takes-weight-loss-rival-eli-lilly-to-court-over-false-advertising-claims/",
                 "publishDate": "2026-07-22T04:01:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Is Eli Lilly (LLY) Undervalued After Novo Nordisk\u2019s GLP 1 Advertising Lawsuit?",
-                "summary": "Novo Nordisk\u2019s lawsuit against Eli Lilly (LLY) over alleged misleading GLP-1 advertising has put fresh attention on Lilly\u2019s stock and raised questions about how core obesity and diabetes franchises are being marketed. See our latest analysis for Eli Lilly. Against this legal backdrop, Eli Lilly\u2019s 1-day share price return of 2.49% and 30-day share price return of 6.99% sit within a broader upswing, with a 52.46% 1-year total shareholder return and a very large 5-year total shareholder return...",
-                "source": "Simply Wall St.",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/eli-lilly-lly-undervalued-novo-231416764.html",
-                "publishDate": "2026-07-21T23:14:16Z",
                 "premium": false,
                 "freemium": false
             }
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.43,
+        "price": 35.16,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.4895458,
-            "marketCap": 25483751424,
+            "change": 0.7161272,
+            "marketCap": 25289547776,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.18,
+        "price": 27.085,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.2051268,
-            "marketCap": 5639607296,
+            "change": -3.5428193,
+            "marketCap": 5619895296,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
