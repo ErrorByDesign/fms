@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.35,
+        "price": 48.28,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.3320188,
-            "marketCap": 213845065728,
+            "change": 0.18676107,
+            "marketCap": 213535473664,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.303234
+            "yearTarget": 47.305756
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -31,6 +31,16 @@
             "totalFundingRounds": null
         },
         "NEWS": [
+            {
+                "title": "Roche H1 Sales Decline on Currency Headwinds, Key Drugs Keep Momentum",
+                "summary": "RHHBY posts 6% constant-currency sales growth in the first half of 2026 as strong demand for key drugs offsets legacy declines, while FDA pipeline progress supports momentum.",
+                "source": "Zacks",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/roche-h1-sales-decline-currency-181800202.html",
+                "publishDate": "2026-07-23T18:18:00Z",
+                "premium": false,
+                "freemium": false
+            },
             {
                 "title": "There's A Hidden Gem In Eli Lilly's Weight-Loss News \u2014 And It Could Slam Compounders",
                 "summary": "Eli Lilly said Thursday it will delay filing for FDA approval of its next-gen weight-loss drug, retatrutide, until the first quarter.",
@@ -120,16 +130,6 @@
                 "publishDate": "2026-07-22T10:22:12Z",
                 "premium": false,
                 "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Takes Rival Eli Lilly to Court Over Weight-Loss Ad Claims",
-                "summary": "The Danish pharma giant alleged Lilly misled consumers with false advertising claims that its weight loss drug is superior to Novo\u2019s.",
-                "source": "The Daily Upside",
-                "category": "finance",
-                "url": "https://www.thedailyupside.com/industries/healthcare/novo-nordisk-takes-weight-loss-rival-eli-lilly-to-court-over-false-advertising-claims/",
-                "publishDate": "2026-07-22T04:01:00Z",
-                "premium": false,
-                "freemium": false
             }
         ],
         "RATINGS": {
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.786,
+        "price": 1.74,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.6197204,
-            "marketCap": 167711280,
+            "change": -1.9666218,
+            "marketCap": 163391728,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.22,
+        "price": 35.185,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.8880016,
-            "marketCap": 25332705280,
+            "change": 0.7877443,
+            "marketCap": 25307529216,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 39.31818
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 26.95,
+        "price": 27.14,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -4.0242133,
-            "marketCap": 5591884800,
+            "change": -3.3475802,
+            "marketCap": 5631307776,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
