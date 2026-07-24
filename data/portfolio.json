@@ -2,7 +2,7 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 48.18,
+        "price": 49.2,
         "COMPANY": {
             "name": "Novo Nordisk A/S",
             "ticker": "NVO",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.0207477,
-            "marketCap": 213093187584,
+            "change": 2.1170619,
+            "marketCap": 217604505600,
             "weekLow": 35.12,
             "weekHigh": 71.8,
-            "yearTarget": 47.33536
+            "yearTarget": 47.360317
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,102 +32,102 @@
         },
         "NEWS": [
             {
-                "title": "There's A Hidden Gem In Eli Lilly's Weight-Loss News \u2014 And It Could Slam Compounders",
-                "summary": "Eli Lilly said Thursday it will delay filing for FDA approval of its next-gen weight-loss drug, retatrutide, until the first quarter.",
-                "source": "Investor's Business Daily",
+                "title": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading",
+                "summary": "European equities traded in the US as American depositary receipts were tracking higher late Friday",
+                "source": "MT Newswires",
                 "category": "finance",
-                "url": "https://www.investors.com/news/technology/eli-lilly-retatrutide-delay-biologic-compounders/?src=A00220&yptr=yahoo",
-                "publishDate": "2026-07-23T20:19:28Z",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150634041.html",
+                "publishDate": "2026-07-24T15:06:34Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Ozempic maker takes biggest rival to court over weight-loss drug ads",
+                "summary": "Novo Nordisk, the maker of Ozempic, is suing Eli Lilly over advertisements comparing some of their biggest-selling drugs. The ads compare Lilly\u2019s Zepbound with Novo\u2019s Wegovy, and Novo argues they give consumers a misleading picture of how the blockbuster weight-loss drugs stack up. At the center of ...",
+                "source": "TheStreet",
+                "category": "finance",
+                "url": "https://www.thestreet.com/latest-news/novo-nordisk-ozempic-biggest-rival-eli-lilly-lawsuit-weight-loss-drug-ads",
+                "publishDate": "2026-07-24T14:37:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Established Firm Harding Loevner Enters ETF Market With LOEV for International Investors",
-                "summary": "A 35-year-old institutional powerhouse just made its first move into the ETF market, betting that quality stock picking in developed markets abroad can justify a fee 23 times higher than its cheapest rival.",
-                "source": "24/7 Wall St.",
+                "title": "As Eli Lilly and Novo Clash in Court, Wall Street Eyes This Bigger Prize",
+                "summary": "The legal battle between Novo Nordisk and Eli Lilly is escalating, but analysts are more focused on developments in the lab.",
+                "source": "Barrons.com",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/etf/2026/07/23/established-firm-harding-loevner-enters-etf-market-with-loev-for-international-investors/",
-                "publishDate": "2026-07-23T19:41:11Z",
+                "url": "https://www.barrons.com/articles/eli-lilly-novo-nordisk-lawsuit-retatrutide-f59d26d3?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-24T14:10:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Roche H1 Sales Decline on Currency Headwinds, Key Drugs Keep Momentum",
-                "summary": "RHHBY posts 6% constant-currency sales growth in the first half of 2026 as strong demand for key drugs offsets legacy declines, while FDA pipeline progress supports momentum.",
-                "source": "Zacks",
+                "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid New US Tariffs",
+                "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2%, and the actively tra",
+                "source": "MT Newswires",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/roche-h1-sales-decline-currency-181800202.html",
-                "publishDate": "2026-07-23T18:18:00Z",
+                "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132354336.html",
+                "publishDate": "2026-07-24T13:23:54Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk Seeks Injunction Against Eli Lilly in Dispute Over Weight-Loss Ads",
+                "summary": "Novo Nordisk is asking a U.S. court to preliminarily halt rival Eli Lilly from advertising weight-loss drugs, days after accusing the Indianapolis drugmaker of using deceptive ads.",
+                "source": "The Wall Street Journal",
+                "category": "finance",
+                "url": "https://www.wsj.com/health/pharma/novo-nordisk-seeks-injunction-against-eli-lilly-in-dispute-over-weight-loss-ads-7c25e1bf?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-24T12:47:00Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Lilly Targets Early 2027 Filing for Next Obesity Drug",
-                "summary": "Two more Phase 3 trials showed weight loss above 20%",
+                "title": "Novo Nordisk Seeks Injunction Against Eli Lilly Weight-Loss Ads",
+                "summary": "The Danish drugmaker alleges Lilly's advertising misrepresents comparisons between rival obesity treatments.",
                 "source": "GuruFocus.com",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/lilly-targets-early-2027-filing-171321247.html",
-                "publishDate": "2026-07-23T17:13:21Z",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-seeks-injunction-against-123120324.html",
+                "publishDate": "2026-07-24T12:31:20Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "How Novo Nordisk\u2019s GLP-1 Advertising Lawsuit Against Eli Lilly (LLY) Has Changed Its Investment Story",
-                "summary": "In recent days, Novo Nordisk filed a federal lawsuit against Eli Lilly, alleging that Lilly\u2019s nationwide advertising for obesity and diabetes drugs like Zepbound and Mounjaro used outdated clinical data and unfair dose comparisons to claim superiority over Novo\u2019s Wegovy and Ozempic. The case raises legal and regulatory questions around drug marketing practices in the high-stakes GLP-1 market, where only a few companies currently compete at scale. Beyond the courtroom, this dispute highlights...",
-                "source": "Simply Wall St.",
+                "title": "Novo Nordisk seeks injunction to block Eli Lilly weight loss drug ads",
+                "summary": "Novo says Lilly's ads for Zepbound and Mounjaro rely on outdated data and omit newer, higher-dose versions of Wegovy and Ozempic",
+                "source": "Quartz",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-glp-1-advertising-151522873.html",
-                "publishDate": "2026-07-23T15:15:22Z",
+                "url": "https://qz.com/novo-nordisk-eli-lilly-injunction-weight-loss-drug-ads-072426",
+                "publishDate": "2026-07-24T11:56:33Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "How Will Eli Lilly's GLP-1 Portfolio Sales Aid Upcoming Q2 Results?",
-                "summary": "LLY's blockbuster GLP-1 portfolio takes center stage as investors watch Mounjaro, Zepbound and Foundayo for clues to Q2 growth and outlook.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/eli-lillys-glp-1-portfolio-141200416.html",
-                "publishDate": "2026-07-23T14:12:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Eli Lilly Moves Closer To Another Weight-Loss Drug: Retatrutide Clears Two More Phase 3 Trials Ahead Of FDA Filing",
-                "summary": "Retatrutide, a once-weekly triple hormone receptor agonist targeting GIP, GLP-1, and glucagon receptors, met the primary endpoint in both the Triumph-2 and Triumph-3 Phase 3 studies.",
+                "title": "Novo Nordisk Reportedly Escalates Legal Battle Against Eli Lilly \u2013 Even As Analysts See LLY Leading The GLP-1 Race",
+                "summary": "Novo Nordisk is seeking a preliminary U.S. court injunction to immediately block Lilly\u2019s advertisements for Zepbound and Mounjaro, according to a Reuters report on Friday.",
                 "source": "Stocktwits",
                 "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/eli-lilly-moves-closer-to-another-weight-loss-drug-retatrutide-clears-two-more-phase-3-trials-ahead-of-fda-filing/cZZnFXJR7xA",
-                "publishDate": "2026-07-23T12:23:15Z",
+                "url": "https://stocktwits.com/news-articles/markets/equity/novo-nordisk-reportedly-escalates-legal-battle-against-eli-lilly-even-as-analysts-see-lly-leading-the-glp-1-race/cZZYsGBR7y1",
+                "publishDate": "2026-07-24T10:50:16Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "Here's Why Novo Nordisk (NVO) Fell More Than Broader Market",
-                "summary": "Novo Nordisk (NVO) closed the most recent trading day at $48.19, moving 2.41% from the previous trading session.",
-                "source": "Zacks",
+                "title": "Novo Nordisk seeks court order to halt Eli Lilly weight-loss drug advertisements",
+                "summary": "Novo Nordisk (NYSE:NVO) has asked a U. S.",
+                "source": "InvestorsHub",
                 "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/heres-why-novo-nordisk-nvo-214505519.html",
-                "publishDate": "2026-07-22T21:45:05Z",
+                "url": "https://investorshub.advfn.com/market-news/article/32568/novo-nordisk-seeks-court-order-to-halt-eli-lilly-weight-loss-drug-advertisements",
+                "publishDate": "2026-07-24T10:38:22Z",
                 "premium": false,
                 "freemium": false
             },
             {
-                "title": "The Obesity Drug War Turns Ugly: Novo Nordisk Sues Eli Lilly and Wall Street Already Picked a Side",
-                "summary": "Novo Nordisk just sued Eli Lilly over weight-loss drug ads, but the moment the lawsuit hit, investors moved in exactly the wrong direction for Novo. Here is what the stock reaction reveals about who is actually winning this war.",
-                "source": "24/7 Wall St.",
+                "title": "Novo escalates legal fight with Lilly; J&J reinforces \u2018dominance\u2019 in multiple myeloma",
+                "summary": "Novo is seeking an injunction that would halt allegedly \u201cmisleading\u201d obesity drug ads. Elsewhere, the FDA began reviewing a highly anticipated medicine and a veteran investor landed at an AI startup.",
+                "source": "BioPharma Dive",
                 "category": "finance",
-                "url": "https://247wallst.com/investing/2026/07/22/the-obesity-drug-war-turns-ugly-novo-nordisk-sues-eli-lilly-and-wall-street-already-picked-a-side/",
-                "publishDate": "2026-07-22T16:25:21Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "NVO Challenges LLY Ads in GLP-1 Battle: Why the Lawsuit Matters Now",
-                "summary": "Novo Nordisk sues LLY over high-profile ads promoting Zepbound and Mounjaro, arguing newer clinical data changes the comparison as the GLP-1 rivalry intensifies.",
-                "source": "Zacks",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/nvo-challenges-lly-ads-glp-144200120.html",
-                "publishDate": "2026-07-22T14:42:00Z",
+                "url": "https://www.biopharmadive.com/news/novo-lawsuit-talvey-tecvayli-daraxonrasib-etcamah-ehlers-formation/825993/",
+                "publishDate": "2026-07-24T09:00:00Z",
                 "premium": false,
                 "freemium": false
             }
@@ -160,7 +160,7 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -0.84507,
+            "change": 0.0,
             "marketCap": 165269792,
             "weekLow": 1.17,
             "weekHigh": 2.63,
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.1,
+        "price": 35.33,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,11 +440,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.544253,
-            "marketCap": 25246390272,
+            "change": 0.65528023,
+            "marketCap": 25411823616,
             "weekLow": 10.9,
             "weekHigh": 37.0,
-            "yearTarget": 39.31818
+            "yearTarget": 38.35
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -557,9 +557,9 @@
             }
         ],
         "RATINGS": {
-            "analystCount": 11,
+            "analystCount": 10,
             "recommendationKey": "strong_buy",
-            "recommendationMean": 1.33333,
+            "recommendationMean": 1.36364,
             "strongBuy": 2,
             "buy": 10,
             "hold": 1,
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.2,
+        "price": 27.01,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": -3.1339,
-            "marketCap": 5643757568,
+            "change": -0.6985313,
+            "marketCap": 5604334080,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
