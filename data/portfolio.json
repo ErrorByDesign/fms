@@ -2,9 +2,9 @@
     "NVO": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 49.01,
+        "price": 48.77,
         "COMPANY": {
-            "name": "longName",
+            "name": "Novo Nordisk A/S",
             "ticker": "NVO",
             "exchange": "NYSE",
             "sector": "Healthcare",
@@ -16,11 +16,11 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.7227024,
-            "marketCap": 216764153856,
+            "change": 1.22457,
+            "marketCap": 215702667264,
             "weekLow": 35.12,
-            "weekHigh": 71.8,
-            "yearTarget": 47.34459
+            "weekHigh": 71.28,
+            "yearTarget": 47.27978
         },
         "FUNDING": {
             "fundingToDate": null,
@@ -32,6 +32,96 @@
         },
         "NEWS": [
             {
+                "title": "Jim Cramer Wants Novo Nordisk A/S (NYSE:NVO) To Compete With Eli Lilly In The Market & Not The Courts",
+                "summary": "Novo Nordisk A/S (NYSE:NVO) was at the center of media coverage as it sued rival weight loss drug manufacturer Eli Lilly on Tuesday. The firm claimed that Lilly had run misleading advertisements about its weight loss drug when it came to touting their superior performance over Novo Nordisk A/S (NYSE:NVO)\u2019s products. It claimed that Lilly [\u2026]",
+                "source": "Insider Monkey",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/jim-cramer-wants-novo-nordisk-074842053.html",
+                "publishDate": "2026-07-25T07:48:42Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Sector Update: Healthcare Stocks Higher Late Afternoon",
+                "summary": "Healthcare stocks rose late Friday afternoon, with the NYSE Healthcare Index up 0.6% and the State S",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/sector-healthcare-stocks-higher-afternoon-193513200.html",
+                "publishDate": "2026-07-24T19:35:13Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Eli Lilly and Novo Nordisk Are Locked in a Legal War. Don\u2019t Lose Sight of the Main Event.",
+                "summary": "The legal battle between Novo Nordisk and Eli Lilly is escalating, but analysts are more focused on developments in the lab.",
+                "source": "Barrons.com",
+                "category": "finance",
+                "url": "https://www.barrons.com/articles/eli-lilly-novo-nordisk-lawsuit-retatrutide-f59d26d3?siteid=yhoof2&yptr=yahoo",
+                "publishDate": "2026-07-24T18:32:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "This Catalyst Makes Eli Lilly a Top Growth Stock in 2026",
+                "summary": "Eli Lilly just won FDA clearance for an oral GLP-1 that targets over one billion potential patients worldwide, and the stock has barely moved. Here is whether that disconnect signals a buying opportunity or a trap.",
+                "source": "24/7 Wall St.",
+                "category": "finance",
+                "url": "https://247wallst.com/investing/2026/07/24/this-catalyst-makes-eli-lilly-a-top-growth-stock-in-2026/",
+                "publishDate": "2026-07-24T17:30:36Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Why Is Novo Nordisk Suing Eli Lilly, and What Does it Mean for Investors?",
+                "summary": "Novo Nordisk is accusing Eli Lilly of deceptive advertising about GLP-1 drugs.",
+                "source": "Motley Fool",
+                "category": "finance",
+                "url": "https://www.fool.com/investing/2026/07/24/why-is-novo-nordisk-suing-eli-lilly-and-what-does/",
+                "publishDate": "2026-07-24T17:20:00Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "Novo Nordisk (CPSE:NOVO B) Sues Eli Lilly Over GLP 1 Drug Advertising",
+                "summary": "Novo Nordisk (CPSE:NOVO B) has filed a federal lawsuit against Eli Lilly over alleged false and misleading advertising of GLP-1 obesity and diabetes drugs. The company argues that Eli Lilly\u2019s ads misrepresent clinical comparisons and risk misleading consumers and healthcare professionals. The case highlights rising tensions as both companies compete in the fast growing market for GLP-1 based obesity and diabetes treatments. Novo Nordisk is a major player in diabetes and obesity treatments,...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-170926329.html",
+                "publishDate": "2026-07-24T17:09:26Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
+                "title": "European Stocks Close Higher Friday; Eurozone Private Sector Expands in July",
+                "summary": "European stock markets closed higher in Friday trading as the eurozone private sector expanded in Ju",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/markets/world-indices/articles/european-stocks-close-higher-friday-161101712.html",
+                "publishDate": "2026-07-24T16:11:01Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Update: Market Chatter: Novo Nordisk Seeks Immediate Court Order Against Lilly's Weight-Loss Drug Ads",
+                "summary": "(Updates with responses from Novo Nordisk and Eli Lilly in the fourth and fifth paragraphs.) Novo",
+                "source": "MT Newswires",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/market-chatter-novo-nordisk-seeks-153732745.html",
+                "publishDate": "2026-07-24T15:37:32Z",
+                "premium": true,
+                "freemium": false
+            },
+            {
+                "title": "Is Novo Nordisk (CPSE:NOVO B) Fully Valued On EU Approval For Its Wegovy Pill?",
+                "summary": "Novo Nordisk (CPSE:NOVO B) is back in focus after the European Commission granted marketing authorisation for its once daily Wegovy pill across all EU member states, creating a new oral option in GLP 1 obesity treatment. See our latest analysis for Novo Nordisk. The Wegovy pill approval lands at a time when Novo Nordisk\u2019s 90 day share price return of 23.22% suggests momentum is still building, even as the year to date share price return is down 3.01% and the 1 year total shareholder return...",
+                "source": "Simply Wall St.",
+                "category": "finance",
+                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-cpse-novo-b-150848382.html",
+                "publishDate": "2026-07-24T15:08:48Z",
+                "premium": false,
+                "freemium": false
+            },
+            {
                 "title": "European Equities Traded in the US as American Depositary Receipts Rise in Friday Trading",
                 "summary": "European equities traded in the US as American depositary receipts were tracking higher late Friday",
                 "source": "MT Newswires",
@@ -39,96 +129,6 @@
                 "url": "https://finance.yahoo.com/markets/world-indices/articles/european-equities-traded-us-american-150634041.html",
                 "publishDate": "2026-07-24T15:06:34Z",
                 "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Ozempic maker takes biggest rival to court over weight-loss drug ads",
-                "summary": "Novo Nordisk, the maker of Ozempic, is suing Eli Lilly over advertisements comparing some of their biggest-selling drugs. The ads compare Lilly\u2019s Zepbound with Novo\u2019s Wegovy, and Novo argues they give consumers a misleading picture of how the blockbuster weight-loss drugs stack up. At the center of ...",
-                "source": "TheStreet",
-                "category": "finance",
-                "url": "https://www.thestreet.com/latest-news/novo-nordisk-ozempic-biggest-rival-eli-lilly-lawsuit-weight-loss-drug-ads",
-                "publishDate": "2026-07-24T14:37:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "As Eli Lilly and Novo Clash in Court, Wall Street Eyes This Bigger Prize",
-                "summary": "The legal battle between Novo Nordisk and Eli Lilly is escalating, but analysts are more focused on developments in the lab.",
-                "source": "Barrons.com",
-                "category": "finance",
-                "url": "https://www.barrons.com/articles/eli-lilly-novo-nordisk-lawsuit-retatrutide-f59d26d3?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-24T14:10:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Exchange-Traded Funds, Equity Futures Higher Pre-Bell Friday Amid New US Tariffs",
-                "summary": "The broad market exchange-traded fund SPDR S&P 500 ETF Trust (SPY) was up 0.2%, and the actively tra",
-                "source": "MT Newswires",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/markets/stocks/articles/exchange-traded-funds-equity-futures-132354336.html",
-                "publishDate": "2026-07-24T13:23:54Z",
-                "premium": true,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Seeks Injunction Against Eli Lilly in Dispute Over Weight-Loss Ads",
-                "summary": "Novo Nordisk is asking a U.S. court to preliminarily halt rival Eli Lilly from advertising weight-loss drugs, days after accusing the Indianapolis drugmaker of using deceptive ads.",
-                "source": "The Wall Street Journal",
-                "category": "finance",
-                "url": "https://www.wsj.com/health/pharma/novo-nordisk-seeks-injunction-against-eli-lilly-in-dispute-over-weight-loss-ads-7c25e1bf?siteid=yhoof2&yptr=yahoo",
-                "publishDate": "2026-07-24T12:47:00Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Seeks Injunction Against Eli Lilly Weight-Loss Ads",
-                "summary": "The Danish drugmaker alleges Lilly's advertising misrepresents comparisons between rival obesity treatments.",
-                "source": "GuruFocus.com",
-                "category": "finance",
-                "url": "https://finance.yahoo.com/healthcare/articles/novo-nordisk-seeks-injunction-against-123120324.html",
-                "publishDate": "2026-07-24T12:31:20Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk seeks injunction to block Eli Lilly weight loss drug ads",
-                "summary": "Novo says Lilly's ads for Zepbound and Mounjaro rely on outdated data and omit newer, higher-dose versions of Wegovy and Ozempic",
-                "source": "Quartz",
-                "category": "finance",
-                "url": "https://qz.com/novo-nordisk-eli-lilly-injunction-weight-loss-drug-ads-072426",
-                "publishDate": "2026-07-24T11:56:33Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk Reportedly Escalates Legal Battle Against Eli Lilly \u2013 Even As Analysts See LLY Leading The GLP-1 Race",
-                "summary": "Novo Nordisk is seeking a preliminary U.S. court injunction to immediately block Lilly\u2019s advertisements for Zepbound and Mounjaro, according to a Reuters report on Friday.",
-                "source": "Stocktwits",
-                "category": "finance",
-                "url": "https://stocktwits.com/news-articles/markets/equity/novo-nordisk-reportedly-escalates-legal-battle-against-eli-lilly-even-as-analysts-see-lly-leading-the-glp-1-race/cZZYsGBR7y1",
-                "publishDate": "2026-07-24T10:50:16Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo Nordisk seeks court order to halt Eli Lilly weight-loss drug advertisements",
-                "summary": "Novo Nordisk (NYSE:NVO) has asked a U. S.",
-                "source": "InvestorsHub",
-                "category": "finance",
-                "url": "https://investorshub.advfn.com/market-news/article/32568/novo-nordisk-seeks-court-order-to-halt-eli-lilly-weight-loss-drug-advertisements",
-                "publishDate": "2026-07-24T10:38:22Z",
-                "premium": false,
-                "freemium": false
-            },
-            {
-                "title": "Novo escalates legal fight with Lilly; J&J reinforces \u2018dominance\u2019 in multiple myeloma",
-                "summary": "Novo is seeking an injunction that would halt allegedly \u201cmisleading\u201d obesity drug ads. Elsewhere, the FDA began reviewing a highly anticipated medicine and a veteran investor landed at an AI startup.",
-                "source": "BioPharma Dive",
-                "category": "finance",
-                "url": "https://www.biopharmadive.com/news/novo-lawsuit-talvey-tecvayli-daraxonrasib-etcamah-ehlers-formation/825993/",
-                "publishDate": "2026-07-24T09:00:00Z",
-                "premium": false,
                 "freemium": false
             }
         ],
@@ -146,7 +146,7 @@
     "IPHA": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 1.76,
+        "price": 1.78,
         "COMPANY": {
             "name": "Innate Pharma S.A.",
             "ticker": "IPHA",
@@ -160,8 +160,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 0.0,
-            "marketCap": 165269792,
+            "change": 1.1363626,
+            "marketCap": 167147856,
             "weekLow": 1.17,
             "weekHigh": 2.63,
             "yearTarget": 6.0
@@ -426,7 +426,7 @@
     "ROIV": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 35.49,
+        "price": 35.01,
         "COMPANY": {
             "name": "Roivant Sciences Ltd.",
             "ticker": "ROIV",
@@ -440,8 +440,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.1111203,
-            "marketCap": 25526906880,
+            "change": -0.256411,
+            "marketCap": 25181655040,
             "weekLow": 10.9,
             "weekHigh": 37.0,
             "yearTarget": 38.35
@@ -570,7 +570,7 @@
     "SSRM": {
         "stockType": "PUBLIC",
         "default": true,
-        "price": 27.585,
+        "price": 26.86,
         "COMPANY": {
             "name": "SSR Mining Inc.",
             "ticker": "SSRM",
@@ -584,8 +584,8 @@
             "facts": []
         },
         "FINANCIALS": {
-            "change": 1.415435,
-            "marketCap": 5723640832,
+            "change": -1.25,
+            "marketCap": 5573210112,
             "weekLow": 11.87,
             "weekHigh": 36.52,
             "yearTarget": 41.4
